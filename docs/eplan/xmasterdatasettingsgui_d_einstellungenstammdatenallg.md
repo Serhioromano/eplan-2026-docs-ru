@@ -54,5 +54,5 @@
 * [Основные данные: Основные положения](xmasterdatasettingsgui_k_grundlagen.md)
 * [Диалоговое окно Настройки: Библиотеки символов](xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
 * [Диалоговое окно Настройки: Вывод в страницах](formgeneratorgui_d_einstellgrafikausgabe.md)
-* [Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](articlesgui_r_eigenschaften.md#DatenArtikel)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](articlesgui_r_eigenschaften.md)
 * [Центр вставки](insertergui_k_start.md)

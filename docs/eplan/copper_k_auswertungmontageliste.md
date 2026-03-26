@@ -14,6 +14,6 @@
 
 **См. также:**
 
-* [Типы отчетов](formgeneratorgui_k_auswertungsuebersicht.md#I_Montageliste)
+* [Типы отчетов](formgeneratorgui_k_auswertungsuebersicht.md)
 * [Перечни отчетов](formgeneratorgui_k_auswertungsuebersicht.md)
 * [Таблицы для сборочного чертежа: Принцип](cabinetgui_k_auswertungmontageliste.md)

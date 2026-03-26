@@ -41,4 +41,4 @@
 * [Вывести изделия кабелей в отчете](cablegui_h_kabelauswertung.md)
 * [Обработать изделие спецификации](partslistgui_h_artikelbearbeiten.md)
 * [Управление изделиями: Дополнительные части](articlesgui_k_ergaenzungsteile.md)
-* [Управление проводным монтажом и кабельными сборками (отчеты)](harnessgui_k_verwaltungkabelbaum.md#Auswertungen)
+* [Управление проводным монтажом и кабельными сборками (отчеты)](harnessgui_k_verwaltungkabelbaum.md)

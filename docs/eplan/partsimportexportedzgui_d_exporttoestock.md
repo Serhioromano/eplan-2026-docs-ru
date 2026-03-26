@@ -15,4 +15,4 @@
 **См. также:**
 
 * [Диалоговое окно Управление изделиями](articlesgui_d_artverw.md)
-* [Коллекция eStock в качестве источника данных](partselectiongui_d_datenauswahlbenutzer.md#eStock)
+* [Коллекция eStock в качестве источника данных](partselectiongui_d_datenauswahlbenutzer.md)

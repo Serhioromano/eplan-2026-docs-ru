@@ -570,10 +570,10 @@ P_ARTICLE_ECABINET_MACRO
 503 |  P_ARTICLE_POSITION_NUMBER_MANUFACTURER | Текст (многоязычный) |  |  | Номер позиции (производитель)  
 504 |  P_PART_ADDRESS_POBOX | Текст |  |  | Почт. ящик  
 505 |  P_ARTICLE_PRICEUNIT | Long |  |  | Цена единицы  
-506 |  P_ARTICLE_PRODUCTGROUP | Long (список выбора) |  |  | [Группа продуктов](xmlexport_o_productgroups.md#P_ARTICLE_PRODUCTGROUP)  
-507 |  P_ARTICLE_PRODUCTTOPGROUP | Long (список выбора) |  |  | [Главная группа продуктов](xmlexport_o_productgroups.md#P_ARTICLE_PRODUCTTOPGROUP)  
+506 |  P_ARTICLE_PRODUCTGROUP | Long (список выбора) |  |  | [Группа продуктов](xmlexport_o_productgroups.md)  
+507 |  P_ARTICLE_PRODUCTTOPGROUP | Long (список выбора) |  |  | [Главная группа продуктов](xmlexport_o_productgroups.md)  
 508 |  P_ARTICLE_PRODUCT_TYPE | Текст (многоязычный) |  |  | Тип продукта  
-509 |  P_ARTICLE_PRODUCTSUBGROUP | Long (список выбора) |  |  | [Подгруппа продуктов](xmlexport_o_productgroups.md#P_ARTICLE_PRODUCTSUBGROUP)  
+509 |  P_ARTICLE_PRODUCTSUBGROUP | Long (список выбора) |  |  | [Подгруппа продуктов](xmlexport_o_productgroups.md)  
 510 |  P_ARTICLE_UPPER_PROCESS_PRESSURE_LIMIT_ABSOLUTE_PRESSURE | Текст (значение с единицей измерения) | Давление | Па | Технологическое давление (абсолютное давление), макс.  
 511 |  P_ARTICLE_UPPER_PROCESS_PRESSURE_LIMIT_GAUGE_PRESSURE | Текст (значение с единицей измерения) | Давление | Па | Технологическое давление (избыточное давление), макс.  
 512 |  P_ARTICLE_TEST_VOLTAGE | Текст (значение с единицей измерения) | Электрическое напряжение | V | Испытательное напряжение  
@@ -1035,7 +1035,7 @@ P_ARTICLE_ECABINET_MACRO
 ---|---|---|---|---|---  
 Общее |  Технические параметры |  Обозначения выводов устройства |  - |  - |  -  
 Кабели |  Тип потенциала   
-([Список выбора](xmlexport_o_sellists.md#characteristics)) |  Цвет / номер соединения |  Экранировано от |  Парный индекс |  Поперечное сечение / диаметр соединения  
+([Список выбора](xmlexport_o_sellists.md)) |  Цвет / номер соединения |  Экранировано от |  Парный индекс |  Поперечное сечение / диаметр соединения  
 Реле / контакторы |  Технические параметры |  Обозначения выводов устройства |  Индекс контакта / катушки |  - |  -  
 Штекеры |  - |  Обозначения выводов устройства |  - |  - |  Обозначение клеммы / контакта штекера  
 Клеммы |  - |  Обозначения выводов устройства |  Уровень |  - |  Обозначение клеммы / контакта штекера  

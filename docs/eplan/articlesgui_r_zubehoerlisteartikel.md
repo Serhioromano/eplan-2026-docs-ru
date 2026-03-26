@@ -20,5 +20,5 @@
 **См. также:**
 
 * [Диалоговое окно База данных изделий](articlesgui_d_artverw.md)
-* [Вкладка "Свойства" (уровень иерархии "Данные" (для списка принадлежностей))](articlesgui_r_eigenschaften.md#DatenZubehoerlisten)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для списка принадлежностей))](articlesgui_r_eigenschaften.md)
 * [Создать список принадлежностей и присвоить его главному изделию](articlesgui_h_zubehoerlisteerstellen.md)

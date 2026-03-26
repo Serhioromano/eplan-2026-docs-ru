@@ -26,6 +26,6 @@
 
 **См. также:**
 
-* [Вкладка "Свойства" (уровень иерархии "Данные" (для схем сверления))](articlesgui_r_eigenschaften.md#DatenBohrbild)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для схем сверления))](articlesgui_r_eigenschaften.md)
 * [Вкладка Монтажные отверстия](articlesgui_r_durchbrueche.md)
 * [Диалоговое окно Генерировать схемы сверления / контуры](cabinetgui_d_bohrbilderzeugen.md)

@@ -43,4 +43,4 @@
 **См. также:**
 
 * [Устройства](devicelistgui_k_start.md)
-* [Управление перемычками](terminalgui_k_verwendungbruecken.md#I_ManuelleStegbruecken)
+* [Управление перемычками](terminalgui_k_verwendungbruecken.md)

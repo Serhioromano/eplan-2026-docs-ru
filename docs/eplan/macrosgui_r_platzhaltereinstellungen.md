@@ -35,4 +35,4 @@
 **См. также:**
 
 * [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
-* [Макросы на объектах планирования](planninggui_k_prinzip.md#MakrosPlanungsobjekte)
+* [Макросы на объектах планирования](planninggui_k_prinzip.md)

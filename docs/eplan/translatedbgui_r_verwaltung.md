@@ -45,5 +45,5 @@
 **См. также:**
 
 * [Создать / выбрать словарь](translatedbgui_h_woerterbuchanlegen.md)
-* [Добавить язык словаря](translatedbgui_h_woerterbuchanlegen.md#I_WbSpracheHinzufuegen)
+* [Добавить язык словаря](translatedbgui_h_woerterbuchanlegen.md)
 * [Убрать перевод из проекта](translategui_h_entfernenuebersetzung.md)

@@ -15,19 +15,19 @@
 
 В этом поле установите настройки сжатия. Здесь укажите, какие данные проекта должны быть удалены или реорганизованы. Если флажок установлен, данные удаляются.
 
-* [Убрать данные проекта](projectcleangui_k_komprimierungsdaten.md#I_ProjektdatenEntfernen)
-* [Обработать устройства](projectcleangui_k_komprimierungsdaten.md#I_BetriebsmittelUeberarbeiten)
-* [Убрать неразмещенные устройства](projectcleangui_k_komprimierungsdaten.md#I_NichtPlatzFunktionenEntfernen)
-* [Убрать неразмещенные соединения](projectcleangui_k_komprimierungsdaten.md#I_NichtPlatzVerbindEntfernen)
-* [Убрать размещенные устройства](projectcleangui_k_komprimierungsdaten.md#I_PlatzFunktionenEntfernen)
-* [Реорганизовать проект](projectcleangui_k_komprimierungsdaten.md#I_DatenbankNeuAufbauen)
-* [Убрать полностью неразмещенные устройства](projectcleangui_k_komprimierungsdaten.md#I_VollstNichtPlatzDT)
-* [Убрать неразмещенные функции, не имеющие главной функции](projectcleangui_k_komprimierungsdaten.md#I_NichtPlatzFunktionenOhneHauptfkt)
-* [Комментарии](projectcleangui_k_komprimierungsdaten.md#I_Kommentare)
-* [Точки определения сети](projectcleangui_k_komprimierungsdaten.md#I_NDPs)
-* [Управление ревизиями](projectcleangui_k_komprimierungsdaten.md#I_Revision)
-* [Удалить трехмерные данные](projectcleangui_k_komprimierungsdaten.md#I_3DDaten)
-* [Удалить защиту](projectcleangui_k_komprimierungsdaten.md#I_Schutz).
+* [Убрать данные проекта](projectcleangui_k_komprimierungsdaten.md)
+* [Обработать устройства](projectcleangui_k_komprimierungsdaten.md)
+* [Убрать неразмещенные устройства](projectcleangui_k_komprimierungsdaten.md)
+* [Убрать неразмещенные соединения](projectcleangui_k_komprimierungsdaten.md)
+* [Убрать размещенные устройства](projectcleangui_k_komprimierungsdaten.md)
+* [Реорганизовать проект](projectcleangui_k_komprimierungsdaten.md)
+* [Убрать полностью неразмещенные устройства](projectcleangui_k_komprimierungsdaten.md)
+* [Убрать неразмещенные функции, не имеющие главной функции](projectcleangui_k_komprimierungsdaten.md)
+* [Комментарии](projectcleangui_k_komprimierungsdaten.md)
+* [Точки определения сети](projectcleangui_k_komprimierungsdaten.md)
+* [Управление ревизиями](projectcleangui_k_komprimierungsdaten.md)
+* [Удалить трехмерные данные](projectcleangui_k_komprimierungsdaten.md)
+* [Удалить защиту](projectcleangui_k_komprimierungsdaten.md).
 
 **См. также:**
 
