@@ -1,0 +1,111 @@
+site_name: EPLAN 2026 Документация
+site_url: https://serhioromano.github.io/eplan-2026-docs-ru/
+site_author: Сергей Романов
+site_description: >-
+  Документация для EPLAN 2026.
+
+# Repository
+repo_name: serhioromano/eplan-2026-docs-ru
+repo_url: https://github.com/serhioromano/eplan-2026-docs-ru
+edit_uri: edit/main/docs/
+
+# навигация тут
+nav:
+  - Главная: index.md
+
+plugins:
+  - search
+  - meta
+  - git-authors
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  - git-committers:
+      repository: serhioromano/gxw2-st-course
+      branch: main
+      token: !ENV GH_TOKEN
+
+markdown_extensions:
+  - abbr
+  - tables
+  - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - def_list
+  - pymdownx.snippets:
+      auto_append:
+        - docs/includes/abbreviations.md
+  - pymdownx.highlight:
+      use_pygments: false
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# extra_javascript:
+#   - javascripts/hjs.js
+#   - javascripts/hl.js
+
+extra_css:
+  - stylesheets/code.css
+
+extra:
+  # social:
+  #   - icon: fontawesome/youtube
+  #     link: https://www.youtube.com/@serhioromano
+  generator: false
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+copyright: >
+  Все права защищены &copy; 2026
+
+theme:
+  name: material
+  language: ru
+  # custom_dir: material/overrides
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      toggle:
+        icon: material/brightness-7
+        name: Темный режим
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      toggle:
+        icon: material/brightness-4
+        name: Светлый режим
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    - navigation.expand
+    - navigation.sections
+    - navigation.tracking
+    - navigation.path
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tooltips
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
