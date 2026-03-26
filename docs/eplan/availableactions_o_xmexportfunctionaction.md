@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XMExportFunctionAction
 
   
@@ -38,7 +18,6 @@ ImmediateImport  |  После обработки подтверждение и�
 Значение по умолчанию: 0  
 Действительно только для ExecutionMode = 2.  
 
-
 !!! example "Пример:"
 
     XMExportFunctionAction 
@@ -47,6 +26,5 @@ ImmediateImport  |  После обработки подтверждение и�
 /Language:en_US 
 /Destination:C:\temp\Function.xls 
 /ExecutionMode:0
-
 
  

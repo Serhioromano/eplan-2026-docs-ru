@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Управление правами: Рабочий режим
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Файл > Дополнительно > группа команд Расширения > Управление правами > Управление правами > папка Рабочий режим
 
@@ -48,8 +26,8 @@ Eplan используется без управления правами, т. �
 
 См. также
 
-[Управление правами](uradministration_k_start.htm)
+[Управление правами](eplan/uradministration_k_start.md)
 
-[Зарегистрировать или поменять пользователя](uradministration_h_benutzerwechseln.htm)
+[Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
 
-[Импорт пользователей Windows](uradministration_k_windowsbenutzer.htm)
+[Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)

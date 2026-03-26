@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Функции
 
 В системе Eplan логические и графические данные управляются отдельно друг от друга. Логические данные сохраняются в определениях функций, графические - в символах. Это разделение существенно для работы по применению инжиниринга и предлагает целый ряд различных преимущества для современной продукции CAE (например, независимость норм).
@@ -30,22 +10,22 @@
 
 См. также
 
-[Конструкция устройств в Eplan](xfctdefbrowsergui_k_betriebsmittel.htm)
+[Конструкция устройств в Eplan](eplan/xfctdefbrowsergui_k_betriebsmittel.md)
 
-[Функции: Принцип](xfctdefbrowsergui_k_prinzip.htm)
+[Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
 
-[Определения функции: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.htm)
+[Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
 
-[Обозначения и описания выводов устройства](fctdeflibdataexchangegui_k_anschluss.htm)
+[Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
 
-[Наборы буквенных обозначений](fctdeflibdataexchangegui_k_kennbuchstaben.htm)
+[Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
 
-[Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.htm)
+[Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
 
-[Изменить функции](xfctdefbrowsergui_h_funktionaendern.htm)
+[Изменить функции](eplan/xfctdefbrowsergui_h_funktionaendern.md)
 
-[Обработать логическую схему выводов устройства](xfctdefbrowsergui_h_anschlussdatenbearbeiten.htm)
+[Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
 
-[Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.htm)
+[Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
 
-[Заменить символы](xfctdefbrowsergui_h_symboltauschen.htm)
+[Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)

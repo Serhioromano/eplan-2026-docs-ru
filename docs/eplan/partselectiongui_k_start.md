@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Выбор изделия / устройства
 
 Изделия можно присваивать какой-либо функции при помощи выбора изделия или устройства. Выбор изделия позволяет выполнять выбор изделия на основе коммерческих данных, выбор устройства осуществляется на основе технических признаков.
@@ -30,11 +10,9 @@
 
 При подсоединении к выбору устройства данные изделий можно при необходимости дополнять из внешней базы данных. Для этого имеются следующие источники данных:
 
-  * Интерфейс API
-  * База данных Eplan
-  * Сервер SQL.
-
-
+* Интерфейс API
+* База данных Eplan
+* Сервер SQL.
 
 Источник данных для дополнения данных изделий может настраиваться для выбора изделия отдельно от источника данных.
 
@@ -44,11 +22,9 @@
 
 Выбор изделий можно выполнять выборочно через собственную базу данных изделий или внешнюю базу данных. Для этого имеются следующие источники данных:
 
-  * Интерфейс API
-  * База данных Eplan
-  * Сервер SQL.
-
-
+* Интерфейс API
+* База данных Eplan
+* Сервер SQL.
 
 Источник данных для выбора изделий может настраиваться независимо от источника данных для дополнения данных после выбора устройства.
 
@@ -56,26 +32,26 @@
 
 См. также
 
-[Поведение изделий при выборе устройств](partselectiongui_k_prinzip.htm)
+[Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
 
-[Выбор устройства: Способ действий](partselectiongui_k_vorgehensweise.htm)
+[Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
 
-[Фильтры и предварительный выбор изделия](partselectiongui_k_filtervorauswahl.htm)
+[Фильтры и предварительный выбор изделия](eplan/partselectiongui_k_filtervorauswahl.md)
 
-[Обзор перенесенных данных изделия](partselectiongui_k_uebertragenedaten.htm)
+[Обзор перенесенных данных изделия](eplan/partselectiongui_k_uebertragenedaten.md)
 
-[Выбрать изделие](partselectiongui_h_artikelauswahl.htm)
+[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
 
-[Выбрать изделие в Навигаторах или из списка устройств](partselectiongui_h_artikelauswahlnavigator.htm)
+[Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
 
-[Выбрать устройства](partselectiongui_h_geraeteauswahl.htm)
+[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
 
-[Сохранить данные ссылки изделия на функции](partselectiongui_h_artikeldatenanschaltzeichen.htm)
+[Сохранить данные ссылки изделия на функции](eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)
 
-[Синхронизировать сохраненные изделия с базой данных изделий](partselectiongui_h_artikeldateneinlagern.htm)
+[Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
 
-[Генерировать изделия из данных схемы соединений](partselectiongui_h_artikelausschaltplan.htm)
+[Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
 
-[Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.htm)
+[Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
 
-[Определить предварительный выбор изделия](partselectiongui_h_artikelvorauswahl.htm)
+[Определить предварительный выбор изделия](eplan/partselectiongui_h_artikelvorauswahl.md)

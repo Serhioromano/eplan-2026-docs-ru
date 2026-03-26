@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Удалить ревизию (Отслеживание изменений)
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вы создали ревизию и открыли проект ревизии (расширение имени файла *.ell). В проекте имеются маркеры ревизий. Файл > Управление ревизиями > группа команд Изменения > Отслеживание изменений > Удалить ревизию.
 
@@ -38,8 +16,8 @@
 
 См. также
 
-[Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.htm)
+[Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
 
-[Генерировать ревизию](revisionmgtgui_h_reverzeugen.htm)
+[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
 
-[Закрыть страницы](revisionmgtgui_h_seitenabschliessen.htm)
+[Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)

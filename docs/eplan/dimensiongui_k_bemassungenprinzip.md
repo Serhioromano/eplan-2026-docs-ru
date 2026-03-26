@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Указания размеров: Принцип
 
 Размер состоит из различных элементов:
@@ -66,8 +46,8 @@
 
 См. также
 
-[Указания размеров](dimensiongui_k_start.htm)
+[Указания размеров](eplan/dimensiongui_k_start.md)
 
-[Диалоговое окно Настройки: Указание размеров](dimensiongui_d_projektbemassung.htm)
+[Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)
 
-[Вкладка Указания размеров](dimensiongui_r_bemassung.htm)
+[Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)

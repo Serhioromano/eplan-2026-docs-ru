@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Импорт и экспорт пространства конструкции: Принцип
 
 Design Space Exchange (DSE) предлагает следующие возможности использования.
@@ -32,19 +12,16 @@ Design Space Exchange (DSE) предлагает следующие возмож
 
 Одновременно в Eplan Pro Panel существует целостная проектная документация, включая всю информацию о разводке для сборки кабелей и проводов.
 
-
-
 !!! note "Замечание:"
 
     
-
 
  
 
 См. также
 
-[Импорт и экспорт пространства конструкции](xdesignspaceimportgui_k_start.htm)
+[Импорт и экспорт пространства конструкции](eplan/xdesignspaceimportgui_k_start.md)
 
-[Импортировать пространство конструкции](xdesignspaceimportgui_h_konstraumimportieren.htm)
+[Импортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumimportieren.md)
 
-[Экспортировать пространство конструкции](xdesignspaceimportgui_h_konstraumexportieren.htm)
+[Экспортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumexportieren.md)

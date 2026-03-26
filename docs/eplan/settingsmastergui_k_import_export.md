@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Настройки: Импорт и экспорт
 
 Все настройки можно импортировать и экспортировать. Благодаря этому на другой компьютер, на котором инсталлирован EPL:AN, можно перенести однократно настроенную рабочую среду. И наоборот, можно скопировать рабочую среду других пользователей Eplan, чтобы, например, продолжать работу над проектом в одинаковых условиях. Для импорта и экспорта настроек доступны следующие функциональности:
@@ -26,12 +6,9 @@
 
 Для определения экспортируемых настроек необходимо выделить в дереве диалогового окна Настройки требуемую область. Если выделена основная категория или подкатегория, например Проект или Устройство, при экспорте программа учитывает все нижестоящие настройки.
 
-
-
 !!! note "Замечание:"
 
     Экспорт настроек нескольких проектов невозможен!
-
 
  
 
@@ -53,14 +30,14 @@
 
 См. также
 
-[Настройки](settingsmastergui_k_start.htm)
+[Настройки](eplan/settingsmastergui_k_start.md)
 
-[Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.htm)
+[Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
 
-[Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.htm)
+[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
 
-[Импорт / экспорт настроек](settingsmastergui_h_importieren_exportieren.htm)
+[Импорт / экспорт настроек](eplan/settingsmastergui_h_importieren_exportieren.md)
 
-[Сброс настроек на стандартные значения](settingsmastergui_h_einstellungenaufstandard.htm)
+[Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)
 
-[Диалоговое окно Настройки: Интерфейс пользователя](settingsmastergui_d_oberflaecheneinstellungen.htm)
+[Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)

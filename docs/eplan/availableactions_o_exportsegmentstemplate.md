@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: ExportSegmentsTemplate
 
   
@@ -28,13 +8,11 @@ PROJECTNAME |  Имя проекта с полным путем файла (яв
 FILENAME |  Полный путь и имя целевого файла. Не может быть пустым.  
 DESCRIPTION |  Описание внутри экспортируемого файла (многоязычная символьная строка).  
 
-
 !!! example "Пример:"
 
     ExportSegmentsTemplate 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk 
 /FILENAME:C:\EPLAN\Templates\SegmentTemplates.txt 
 /DESCRIPTION:Segment templates exported from EPLAN_Sample_Project
-
 
  

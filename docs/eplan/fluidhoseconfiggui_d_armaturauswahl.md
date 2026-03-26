@@ -1,28 +1,6 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно "Выбрать арматуру"
 
-[Вызов диалогового окна:](javascript:void\(0\);)
-
-Открыто диалоговое окно [Обработать <...>](fluidhoseconfiggui_d_schlauchleitungenbearbeiten.htm). Щелкните в поле Арматура слева или Арматура справа по [...].
+Открыто диалоговое окно [Обработать <...>](eplan/fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md). Щелкните в поле Арматура слева или Арматура справа по [...].
 
 В этом диалоговом окне выберите арматуру, которую необходимо монтировать на шланг слева или справа. Если в настройках вы выбрали по умолчанию настроенную схему DIN 20066_2012-01, вам будут предложены на выбор типы конструкций и серии, представленные в стандарте DIN 20066, с соответствующей графикой предварительного просмотра.
 
@@ -52,8 +30,8 @@
 
 См. также
 
-[Выбрать арматуру](fluidhoseconfiggui_h_armaturenauswaehlen.htm)
+[Выбрать арматуру](eplan/fluidhoseconfiggui_h_armaturenauswaehlen.md)
 
-[Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.htm)
+[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
 
-[Диалоговое окно Настройки: Конфигуратор шлангопроводов](fluidhoseconfiggui_d_einstellungen.htm)
+[Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)

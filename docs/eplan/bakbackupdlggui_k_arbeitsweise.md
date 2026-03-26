@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Резервирование данных проекта
 
 При резервировании проектов различают варианты Дополнительно сохранить, Выгрузить для внешней обработки и Архивировать.
@@ -40,10 +20,10 @@
 
 См. также
 
-[Резервирование данных](bakbackupdlggui_k_start.htm)
+[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
 
-[Резервирование данных: Принцип](bakbackupdlggui_k_prinzip.htm)
+[Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
 
-[Резервировать проекты](bakbackupdlggui_h_projektesichern.htm)
+[Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
 
-[Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.htm)
+[Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)

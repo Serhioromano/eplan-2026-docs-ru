@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: exportProductionWiring
 
   
@@ -25,13 +5,13 @@
 ---|---  
 MachineType  |  Целочисленное значение, необходимо указать. Доступны следующие значения:
 
-  * 1 = Komax
-  * 2 = CadCabel
-  * 3 = Schleuniger
-  * 4 = Steinhauer PWA
-  * 5 = Metzner
-  * 7 = Общая спецификация проводов
-  * 9 = Rittal - Wire Terminal WT
+* 1 = Komax
+* 2 = CadCabel
+* 3 = Schleuniger
+* 4 = Steinhauer PWA
+* 5 = Metzner
+* 7 = Общая спецификация проводов
+* 9 = Rittal - Wire Terminal WT
 
   
 MachineName  |  Символьная строка, необходимо указать. Имя машины должно соответствовать имени, заданному в настройках.  
@@ -44,7 +24,6 @@ FileName  |  Имя файла (является опцией). Если пар�
 LANGUAGE  |  Язык (например, en_US), необязательно.  
 MultipleConnections  |  Если значение = 1, повторно экспортируются уже экспортированные провода. Если значение = 0, выводятся только те провода, которые еще не экспортировались. Предварительная настройка: 0.  
 
-
 !!! example "Пример:"
 
     ExportProductionWiring 
@@ -53,6 +32,5 @@ MultipleConnections  |  Если значение = 1, повторно эксп
 /TARGETDIRECTORY:D:export
 /MultipleConnections:1
 /UseSelection:0
-
 
  

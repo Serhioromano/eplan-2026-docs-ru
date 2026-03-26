@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Содержимое файла резервирования
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вы выполнили резервирование данных (проекты или основные данные) и выделили в диалоговом окне Восстановить проект или Восстановить <основные данные> файл резервирования. [Отобразить содержимое].
 
@@ -36,8 +14,8 @@
 
 См. также
 
-[Диалоговое окно Восстановить проекты](bakrestoredlggui_d_projektewiederherstellen.htm)
+[Диалоговое окно Восстановить проекты](eplan/bakrestoredlggui_d_projektewiederherstellen.md)
 
-[Диалоговое окно "Восстановить основные данные"](bakrestoremdatadlggui_d_stammdatenwiederherstellen.htm)
+[Диалоговое окно "Восстановить основные данные"](eplan/bakrestoremdatadlggui_d_stammdatenwiederherstellen.md)
 
-[Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.htm)
+[Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)

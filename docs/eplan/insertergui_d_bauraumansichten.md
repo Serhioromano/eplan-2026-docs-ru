@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно "Виды пространства листа"
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вы открыли проект. Вы открыли пространство листа.
 
@@ -65,8 +43,8 @@
   
 См. также
 
-[Навигационный куб](cabinetgui_k_navigationswuerfel.htm)
+[Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
 
-[Виды пространства листа](cabinetgui_k_bauraumansichten.htm)
+[Виды пространства листа](eplan/cabinetgui_k_bauraumansichten.md)
 
-[Управление видами пространства листа](cabinetgui_h_bauraumansichtenverwalten.htm)
+[Управление видами пространства листа](eplan/cabinetgui_h_bauraumansichtenverwalten.md)

@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XMExportConnectionsAction
 
   
@@ -40,7 +20,6 @@ ImmediateImport  |  После обработки подтверждение и�
 IncludeGraphicalConnections |  Графические соединения при экспорте выводятся вместе с другими (опционально, 0 = Нет, 1 = Да).  
 Значение по умолчанию: 0  
 
-
 !!! example "Пример:"
 
     XMExportConnectionsAction 
@@ -49,6 +28,5 @@ IncludeGraphicalConnections |  Графические соединения пр�
 /Language:en_US 
 /Destination:C:\temp\Connection.xls 
 /ExecutionMode:0
-
 
  

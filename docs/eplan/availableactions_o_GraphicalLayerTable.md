@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: GraphicalLayerTable
 
   
@@ -31,13 +11,11 @@ PROJECTNAME  |  Имя проекта с полным путем файла (я�
 IMPORTFILE  |  Каталог и имя файла конфигурации слоев для импорта.  
 EXPORTFILE  |  Каталог и имя файла конфигурации слоев для экспорта.  
 
-
 !!! example "Пример:"
 
     GraphicalLayerTable 
 /TYPE:IMPORT 
 /PROJECTNAME:C:\Projects\EPLAN\DEMO2_D.elk
 /IMPORTFILE:C:\EPLAN\EPLAN_Sample_Project.elc
-
 
  

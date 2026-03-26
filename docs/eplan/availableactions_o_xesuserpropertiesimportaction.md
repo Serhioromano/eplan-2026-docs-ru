@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XEsUserPropertiesImportAction
 
   
@@ -32,6 +12,5 @@ Overwrite  |  Если значение равно 0, определенные �
     XEsUserPropertiesImportAction 
 /XMLFile:c:\my_user.xml 
 /Project:c:\...\EPLAN_Sample_Project.elk
-
 
  

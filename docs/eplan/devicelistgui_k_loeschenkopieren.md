@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Процедура удаления и копирования устройств
 
 В основном команды Удалить и Копировать всегда оказывают воздействие только на выделенные объекты. То есть, всегда удаляются и копируются только выделенные функции.
@@ -56,8 +36,8 @@
   
 См. также
 
-[Устройства](devicelistgui_k_start.htm)
+[Устройства](eplan/devicelistgui_k_start.md)
 
-[Принцип работы при вставке устройств](devicelistgui_k_vorgehengeraeteeinfuegen.htm)
+[Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
 
-[Управление неразмещенными вспомогательными функциями на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.htm)
+[Управление неразмещенными вспомогательными функциями на главной функции](eplan/devicetaggui_k_verwaltungnichtplatziertefunktionen.md)

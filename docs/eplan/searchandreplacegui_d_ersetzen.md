@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Заменить
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вы открыли проект. Вкладка Главная > группа команд Поиск > Поиск. Вы ввели искомое понятие и щелкнули по [OK]. В диалоговом окне Результаты поиска — <Имя проекта> выберите пункт всплывающего меню Заменить.
 
@@ -49,12 +27,12 @@
 
 См. также
 
-[Найти и заменить](searchandreplacegui_k_start.htm)
+[Найти и заменить](eplan/searchandreplacegui_k_start.md)
 
-[Использование символов-заполнителей](searchandreplacegui_k_platzhalter.htm)
+[Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
 
-[Поиск данных проекта](searchandreplacegui_h_suchen.htm)
+[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
 
-[Заменить данные проекта](searchandreplacegui_h_ersetzen.htm)
+[Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
 
-[Обработать записи для поиска](searchandreplacegui_h_bearbeiten.htm)
+[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)

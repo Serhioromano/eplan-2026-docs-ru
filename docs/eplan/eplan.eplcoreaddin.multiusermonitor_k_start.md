@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Многопользовательский монитор
 
 Многопользовательский монитор позволяет узнать, какие другие пользователи и в каком проекте активны. Можно сразу узнать, какие операции выполняют другие пользователи в проекте и эффективно координировать обработку проектов.
@@ -26,12 +6,12 @@
 
 См. также
 
-[Многопользовательский монитор: Принцип](eplan.eplcoreaddin.multiusermonitor_k_prinzip.htm)
+[Многопользовательский монитор: Принцип](eplan/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md)
 
-[Многопользовательский монитор: Способ действий](eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.htm)
+[Многопользовательский монитор: Способ действий](eplan/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md)
 
-[Диалоговое окно Многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_d_monitor.htm)
+[Диалоговое окно Многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_monitor.md)
 
-[Диалоговое окно Настройки: многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_d_einstellungen.htm)
+[Диалоговое окно Настройки: многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
 
-[Многопользовательский режим](xesmultiuserconflictgui_k_start.htm)
+[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)

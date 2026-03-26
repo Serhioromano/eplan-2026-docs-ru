@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XMExportDCArticleDataAction
 
   
@@ -34,7 +14,6 @@ EXECUTIONMODE |  Вид вывода: 0: Экспортировать, 1: Экс
 IMMEDIATEIMPORT |  После обработки подтверждение импорта данных не запрашивается (необязательно, 0 = Нет, 1 = Да). Значение по умолчанию: 0   
 Действительно только для EXECUTIONMODE = 2.  
 
-
 !!! example "Пример:"
 
     Экспорт данных изделий для внешней обработки:XMExportDCArticleDataAction 
@@ -43,6 +22,5 @@ IMMEDIATEIMPORT |  После обработки подтверждение им
 /DESTINATION:c:\\temp\\Articles.xlsx 
 /EXECUTIONMODE:0 
 /COMPLETEPROJECT:1
-
 
  

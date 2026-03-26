@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Наборы буквенных обозначений
 
 В Eplan можно создавать различные наборы буквенных обозначений для разных стандартов, стран и клиентов. Буквенные обозначения могут состоять из нескольких символов, например KT или KTP. Наборы буквенных обозначений сохраняются в виде специфических для проекта схем.
@@ -26,10 +6,10 @@
 
 См. также
 
-[Функции: Принцип](xfctdefbrowsergui_k_prinzip.htm)
+[Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
 
-[Собственные обозначения выводов устройства и условные обозначения](fctdeflibdataexchangegui_k_start.htm)
+[Собственные обозначения выводов устройства и условные обозначения](eplan/fctdeflibdataexchangegui_k_start.md)
 
-[Создать собственные наборы буквенных обозначений](fctdeflibdataexchangegui_h_eigenekennbuchstaben.htm)
+[Создать собственные наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
 
-[Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.htm)
+[Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)

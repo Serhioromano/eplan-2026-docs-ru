@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно "Очистить проект"
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Файл > Дополнительно > группа команд Организовать > Проект > группа команд Оптимизировать > Очистить проект
 
@@ -34,6 +12,6 @@
 
 См. также
 
-[Очистить проект](ProjectCorrectionGui_h_projektkorrigieren.htm)
+[Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
 
-[Диалоговое окно "Настройки: Очистить"](ProjectCorrectionGui_d_korrektureinstellungen.htm)
+[Диалоговое окно "Настройки: Очистить"](eplan/ProjectCorrectionGui_d_korrektureinstellungen.md)

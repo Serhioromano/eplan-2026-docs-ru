@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XCabCalculateEnclosureTotalWeightAction
 
   
@@ -28,13 +8,11 @@ ProjectName |  Имя проекта с полным путем файла (яв
 DatabaseId |  Идентификатор проекта для проекта (является опцией). При использовании данного параметра необходимо перед выполнением операции открыть проект в Eplan Electric P8. Без действительного указания используется открытый в настоящее время проект. Если указывается параметр ProjectName, параметр DatabaseID игнорируется.  
 CabinetTotalWeight |  Общий вес одного отдельного электрошкафа.  
 
-
 !!! example "Пример:"
 
     XCabCalculateEnclosureTotalWeightAction 
 /DatabaseId:28
 XCabCalculateEnclosureTotalWeightAction 
 /ProjectName:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
-
 
  

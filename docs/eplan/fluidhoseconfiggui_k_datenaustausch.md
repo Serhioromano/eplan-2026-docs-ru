@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Обмен данными шлангопроводов
 
 Данные шлангопровода можно импортировать и экспортировать с помощью конфигуратора шлангопроводов.
@@ -26,8 +6,8 @@
 
 См. также
 
-[Рабочий процесс](fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.htm)
+[Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
 
-[Считать данные шлангопроводов](fluidhoseconfiggui_h_schlauchleitungeneinlesen.htm)
+[Считать данные шлангопроводов](eplan/fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
 
-[Диалоговое окно "Конфигурировать шлангопроводы"](fluidhoseconfiggui_d_schlauchleitungen.htm)
+[Диалоговое окно "Конфигурировать шлангопроводы"](eplan/fluidhoseconfiggui_d_schlauchleitungen.md)

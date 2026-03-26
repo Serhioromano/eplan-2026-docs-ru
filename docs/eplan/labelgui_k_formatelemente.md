@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Элементы формата для файла экспорта / маркировки / Внешний файл отчетов
 
 С помощью элементов формата указывается, какие данные экспорта / маркировки / проекта выводятся в файлах экспорта / маркировки / внешних файлах отчетов.
@@ -36,12 +16,12 @@
   
 См. также
 
-[Создать схему экспорта / маркировки](labelgui_h_beschriftungsschema.htm)
+[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
 
-[Определить верхний колонтитул, область этикетки и нижний колонтитул](labelgui_h_formatelemfestlegen.htm)
+[Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
 
-[Определить настройки вывода *.txt](labelgui_h_textausgabe.htm)
+[Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
 
-[Определить настройки вывода Excel](labelgui_h_exceldatei.htm)
+[Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
 
-[Вывести данные изготовления / маркировку](labelgui_h_beschriftungausgeben.htm)
+[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)

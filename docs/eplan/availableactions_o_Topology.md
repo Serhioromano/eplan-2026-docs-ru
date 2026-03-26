@@ -1,23 +1,3 @@
-
-  
-  
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: Topology
 
   
@@ -29,10 +9,8 @@ TYPE |  Вид операции, которая должна быть выпол
 RouteConnections: Маршрутизирует выбранные соединения топологии.  
 CreateFunctions: Автоматически генерирует функции топологии.  
 
-
 !!! example "Пример:"
 
     Маршрутизировать соединения топологии:Topology /TYPE:RouteConnections /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elkГенерировать функции топологии:Topology /TYPE:CreateFunctions /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elk
-
 
  

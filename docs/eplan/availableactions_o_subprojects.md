@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: subprojects
 
   
@@ -33,13 +13,11 @@ DESTINATIONPATH |  Целевой каталог (является опцией)
 SPNR |  Номер частичного проекта.  
 EXPANDONLY |  Только расширить частичный проект (является опцией). Стандартное значение: "Нет".  
 
-
 !!! example "Пример:"
 
     Выгрузить частичный проектsubprojects 
 /TYPE:FILEOFF 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk 
 /SPNR:1
-
 
  

@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: compress
 
   
@@ -32,7 +12,6 @@ FILTERSCHEME  |  Схема фильтра для сжатия проекта (�
 USEFILTER |  Используется схема фильтра, заданная в параметре FILTERSCHEME.  
 Значение по умолчанию: 1  
 
-
 !!! example "Пример:"
 
     Сжать проект:compress 
@@ -41,6 +20,5 @@ USEFILTER |  Используется схема фильтра, заданна�
 /FILTERSCHEME:filter_schemeИспользование последней схемы конфигурации: Параметр CONFIGSCHEME не указывается.compress 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk 
 /FILTERSCHEME:filter_scheme
-
 
  

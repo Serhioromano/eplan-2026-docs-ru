@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: reports
 
   
@@ -42,12 +22,10 @@ SELn |  Ид. объекта страниц, для которых необхо�
 TEMPLATEn |  Шаблоны, которые генерируются для создания страниц отчета. При этом n — это номер, например /TEMPLATE1:"Template1" /TEMPLATE2:"Template2". Этот параметр оказывает влияние, только когда параметр TYPE имеет одно из следующих значений: CREATEMODELVIEWS, CREATECOPPERUNFOLDS, CREATEDRILLINGVIEWS.  
 REPLACEEXISTING |  Заменяет имеющиеся обзоры модели, развертки шины или отображения отверстия (необязательно, Да = 1, Нет = 0). Этот параметр оказывает влияние, только когда параметр TYPE имеет одно из следующих значений: CREATEMODELVIEWS, CREATECOPPERUNFOLDS, CREATEDRILLINGVIEWS.  
 
-
 !!! example "Пример:"
 
     reports 
 /TYPE:PROJECT 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
-
 
  

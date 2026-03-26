@@ -1,46 +1,24 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Отображение информации проекта
 
 В управлении проектами вы можете задать отображение информации, касающейся всего проекта.
 
-  1. Выберите следующие команды: Файл > Управление проектами.
-  2. В диалоговом окне Управление проектами выделите в структуре дерева необходимый проект.  
+1. Выберите следующие команды: Файл > Управление проектами.
+2. В диалоговом окне Управление проектами выделите в структуре дерева необходимый проект.  
   
 На вкладках отображаются свойства проекта, статистические данные проекта, статус проекта, структура устройств и страниц.
 
-
-
 См. также
 
-[Вкладка Свойства](prjmanagementgui_r_eigenschaften.htm)
+[Вкладка Свойства](eplan/prjmanagementgui_r_eigenschaften.md)
 
-[Вкладка Статистика](prjmanagementgui_r_statisitk.htm)
+[Вкладка Статистика](eplan/prjmanagementgui_r_statisitk.md)
 
-[Вкладка Статус](prjmanagementgui_r_status.htm)
+[Вкладка Статус](eplan/prjmanagementgui_r_status.md)
 
-[Вкладка Структура](prjmanagementgui_r_struktur.htm)
+[Вкладка Структура](eplan/prjmanagementgui_r_struktur.md)
 
-[Структура проекта: Основные положения](projectstructure_k_hinterg.htm)
+[Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
 
-[Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.htm)
+[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
 
-[Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.htm)
+[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)

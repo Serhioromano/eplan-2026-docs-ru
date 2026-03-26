@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Eplan Fluid: Сложные устройства
 
 ### Черные ящики и выводы устройств
@@ -34,8 +14,8 @@
 
 См. также
 
-[Черные ящики](blackbox_k_start.htm)
+[Черные ящики](eplan/blackbox_k_start.md)
 
-[Вставить выводы устройств](blackbox_h_anschluesseeinfuegen.htm)
+[Вставить выводы устройств](eplan/blackbox_h_anschluesseeinfuegen.md)
 
-[Группы устройств](devicelistgui_k_geraetegruppierung.htm)
+[Группы устройств](eplan/devicelistgui_k_geraetegruppierung.md)

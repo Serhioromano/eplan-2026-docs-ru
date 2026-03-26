@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: translate
 
   
@@ -34,8 +14,8 @@ IMPORTFILE  |  Имя файла с импортируемой базой дан
 EXPORTFILE |  Имя файла с экспортированным списком отсутствующих слов. Этот параметр оказывает влияние, только когда параметр TYPE имеет следующее значение: EXPORTMISSINGTRANSLATIONS.   
 CONVERTER  |  Имя конвертера (необязательно). Это имя используется в качестве формата ввода и вывода. Значения по умолчанию:
 
-  * XTrLanguageDbXmlConverterImpl.(нативный формат XML; для TYPE = EXPORTFROMTRANSDB)
-  * XTrLanguageDbXml2TabConverterImpl (для TYPE = IMPORTTOTRANSDB или TYPE = EXPORTMISSINGTRANSLATIONS)
+* XTrLanguageDbXmlConverterImpl.(нативный формат XML; для TYPE = EXPORTFROMTRANSDB)
+* XTrLanguageDbXml2TabConverterImpl (для TYPE = IMPORTTOTRANSDB или TYPE = EXPORTMISSINGTRANSLATIONS)
 
 Этот параметр оказывает влияние, только когда параметр TYPE имеет одно из следующих значений: EXPORTMISSINGTRANSLATIONS, IMPORTTOTRANSDB или EXPORTFROMTRANSDB.  
 LANGUAGE  |  Язык перевода (напр., fr_FR).  
@@ -46,11 +26,9 @@ PAGENAME |  Имя переводимой страницы (не обязате�
 PAGENAMEn |  Имена переводимых страниц (не обязательно). При этом n — это номер, например: /PAGENAME1:=EB3+ET1/2 /PAGENAME2:=EB3+ET1/4 /PAGENAME3:=EB3+ET1/7 и т. д. Эти параметры оказывают влияние, только когда параметр TYPE имеет следующее значение: TRANSLATEPAGES.  
 SELn |  Ид. объекта переводимых страниц (необязательно). При этом n — это номер, например /SEL1:38/4/12/0. В качестве альтернативы для PAGENAMEn. Этот параметр оказывает влияние, только когда параметр TYPE имеет следующее значение: TRANSLATEPAGES.  
 
-
 !!! note "Замечание:"
 
     Нельзя убрать исходный язык из проекта. Чтобы убрать несколько языков из одного проекта, необходимо перечислить языки через запятую (напр.,/LANGUAGE:en_US,fr_FR,da_DK).
-
 
  
 
@@ -71,6 +49,5 @@ SELn |  Ид. объекта переводимых страниц (необяз
 /LANGUAGE:en_US 
 /EXPORTFILE:d:\temp\missingTransFile.txt 
 /CONVERTER:XE5LanguageDbXmlConverterImpl
-
 
  

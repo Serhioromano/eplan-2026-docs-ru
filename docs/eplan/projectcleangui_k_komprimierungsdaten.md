@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Сжимаемые данные проекта
 
 Eplan может удалять, перерабатывать и реорганизовывать следующие данные проекта.
@@ -183,6 +163,6 @@ AutomationML GUIDs |  Удаляет все GUID AutomationML. Такие GUID �
   
 См. также
 
-[Диалоговое окно Настройки: Сжатие](projectcleangui_d_komprimierungseinstellungen.htm)
+[Диалоговое окно Настройки: Сжатие](eplan/projectcleangui_d_komprimierungseinstellungen.md)
 
-[Сжать проект](projectcleangui_h_projektsaeubern.htm)
+[Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)

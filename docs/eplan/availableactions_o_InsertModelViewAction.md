@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: InsertModelViewAction
 
   
@@ -47,7 +27,6 @@ SCALESETTING |  Настройка масштаба для отображени�
 SCALE |  Масштаб. Ввод необходим, если для SCALESETTING была выбрана настройка 2.  
 OBJECTID |  Идентифицирующее имя сгенерированного обзора модели.  
 
-
 !!! example "Пример:"
 
     InsertModelViewAction 
@@ -65,6 +44,5 @@ OBJECTID |  Идентифицирующее имя сгенерированно
 /VIEWPOINT:5
 /SCALESETTING:0
 /OBJECTID:NewModelView
-
 
  

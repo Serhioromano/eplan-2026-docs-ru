@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Повернутые страницы / Неповернутые страницы
 
 При адаптации проекта от одного стандарта к другому страницы по умолчанию поворачиваются. Некоторые страницы необязательно поворачивать. В следующей таблице показано, какие страницы не поворачиваются.
@@ -33,10 +13,10 @@ Fluid-страницы |  Тип страниц "Схема соединений
   
 См. также
 
-[Изменение стандарта](changestandardsgui_k_start.htm)
+[Изменение стандарта](eplan/changestandardsgui_k_start.md)
 
-[Замена рамки](changestandardsgui_k_stammdaten.htm)
+[Замена рамки](eplan/changestandardsgui_k_stammdaten.md)
 
-[Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.htm)
+[Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
 
-[Задать базовый проект и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.htm)
+[Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)

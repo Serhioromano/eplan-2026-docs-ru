@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XEsGetProjectPropertyAction
 
   
@@ -28,12 +8,10 @@ PropertyIdentName |  Идентификатор определенного по�
 PropertyIndex |  Индекс свойства (в большинстве случаев — 0)  
 PropertyValue |  Полученное значение свойства  
 
-
 !!! example "Пример:"
 
     XEsGetProjectPropertyAction 
 /PropertyId:? 
 /PropertyIndex:0
-
 
  

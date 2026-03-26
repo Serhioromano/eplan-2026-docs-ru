@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Настройки при обновлении программы
 
 При обновлении программы существуют различные варианты копирования имеющихся настроек.
@@ -26,10 +6,10 @@
 
 См. также
 
-[Настройки](settingsmastergui_k_start.htm)
+[Настройки](eplan/settingsmastergui_k_start.md)
 
-[Настройки: Принцип работы](settingsmastergui_k_arbeitsweise.htm)
+[Настройки: Принцип работы](eplan/settingsmastergui_k_arbeitsweise.md)
 
-[Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.htm)
+[Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
 
-[Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.htm)
+[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)

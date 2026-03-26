@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Медные жгуты в таблицах для сборочного чертежа
 
 Для трехмерных размещений изделий пространства листа в Eplan Pro Panel можно выводить отчеты типа Таблица для сборочного чертежа. Таблицы для сборочного чертежа используются для воспроизведения в отчете иерархической структуры чертежа монтажных поверхностей в пространстве листа. Такой отчет можно также произвести для медных жгутов и медных функц. элементов.
@@ -34,8 +14,8 @@
 
 См. также
 
-[Типы отчетов](formgeneratorgui_k_auswertungsuebersicht.htm#I_Montageliste)
+[Типы отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md#I_Montageliste)
 
-[Перечни отчетов](formgeneratorgui_k_auswertungsuebersicht.htm)
+[Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)
 
-[Таблицы для сборочного чертежа: Принцип](cabinetgui_k_auswertungmontageliste.htm)
+[Таблицы для сборочного чертежа: Принцип](eplan/cabinetgui_k_auswertungmontageliste.md)

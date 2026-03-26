@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Вывести информацию о проекте
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вы выбрали базу данных управления проектами. Вы считали каталоги и проекты. Файл > Управление проектами. Выделите проект. Кнопка [Дополнительно] > Вывести информацию о проекте.
 
@@ -42,8 +20,8 @@
 
 См. также
 
-[Отображение информации проекта](prjmanagementgui_h_projekteigenschaftenanzeigen.htm#I_ProjektinformationenAnzeigen)
+[Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)
 
-[Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.htm)
+[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
 
-[Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.htm)
+[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)

@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Пиктограммы в навигаторах
 
 В следующей таблице перечислены самые важные пиктограммы, использующиеся в нескольких навигаторах данных проекта, и их значения.
@@ -55,11 +35,9 @@
 |  Распределенная клемма  
 |  Изолированный конец соединения  
 
-
 !!! note "Замечание:"
 
     
-
 
  
 
@@ -79,20 +57,20 @@
   
 См. также
 
-[Особенности навигаторов](userinterface_k_besonderheitennavigatoren.htm)
+[Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
 
-[Диалоговое окно Пространство листа — <Имя проекта>](cabinetgui_d_navigator.htm)
+[Диалоговое окно Пространство листа — <Имя проекта>](eplan/cabinetgui_d_navigator.md)
 
-[Диалоговое окно Предварительное планирование — <Имя проекта>](planninggui_d_navigator.htm)
+[Диалоговое окно Предварительное планирование — <Имя проекта>](eplan/planninggui_d_navigator.md)
 
-[Диалоговое окно ПЛК — <Имя проекта>](plcgui_d_spsdaten.htm)
+[Диалоговое окно ПЛК — <Имя проекта>](eplan/plcgui_d_spsdaten.md)
 
-[Диалоговое окно Топология — <Имя проекта>](cablinggui_d_navigator.htm)
+[Диалоговое окно Топология — <Имя проекта>](eplan/cablinggui_d_navigator.md)
 
-[Диалоговое окно Потенциалы - <Имя проекта>](potentialbrowsergui_d_potenziale.htm)
+[Диалоговое окно Потенциалы - <Имя проекта>](eplan/potentialbrowsergui_d_potenziale.md)
 
-[Диалоговое окно Трубопроводы - <Имя проекта>](potentialbrowsergui_d_rohrleitungen.htm)
+[Диалоговое окно Трубопроводы - <Имя проекта>](eplan/potentialbrowsergui_d_rohrleitungen.md)
 
-[Диалоговое окно Макросы — <Имя проекта>](macrosgui_d_makronavigator.htm)
+[Диалоговое окно Макросы — <Имя проекта>](eplan/macrosgui_d_makronavigator.md)
 
-[Расширения имен файлов и пиктограммы для проектов](projects_k_icons.htm)
+[Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)

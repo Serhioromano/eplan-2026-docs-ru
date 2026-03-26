@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XAMlExportProductionData2RASCenterAction
 
   
@@ -30,11 +10,9 @@ DatabaseId |  Идентификатор проекта для проекта (�
 WholeProject |  Укажите, будет ли экспортироваться весь проект или только выбранные объекты (необязательно).  
 ConfigScheme |  Схема конфигурации (необязательно). Значение по умолчанию: последняя использованная схема конфигурации.  
 
-
 !!! note "Замечание:"
 
     Если файл, используемый в параметреFileName, уже существует, появится диалоговое окно с вопросом о том, следует ли перезаписать файл.
-
 
  
 
@@ -45,6 +23,5 @@ ConfigScheme |  Схема конфигурации (необязательно)
 /FileName:C:\Exports\EPLAN\EPLAN_Sample_Project.amlXAMlExportProductionData2RASCenterAction 
 /DatabaseId:27 
 /FileName:C:\Exports\EPLAN\EPLAN_Sample_Project.aml
-
 
  

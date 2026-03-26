@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: RegisterCustomPropertyEditorAction
 
   
@@ -51,7 +31,6 @@ DialogModified |  1 для модифицировано
 Value |  Новое отображаемое значение или новая многоязычная строка  
   
 
-
 !!! example "Пример:"
 
     Регистрация диалогового окна для обработки свойстваДополнительное поле(ID 20901):RegisterCustomPropertyEditorAction 
@@ -71,6 +50,5 @@ Value |  Новое отображаемое значение или новая 
 /Register:0 
 /Action:WPF_Demo_Custom_Editor 
 /PropertyIdentName:Eplan.Page.UserSupplementaryField2
-
 
  

@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XEsSetProjectPropertyAction
 
   
@@ -28,7 +8,6 @@ PropertyIdentName  |  Идентификатор определенного по
 PropertyIndex  |  Индекс свойства (в большинстве случаев — 0)  
 PropertyValue  |  Новое значение свойства  
 
-
 !!! example "Пример:"
 
     XEsSetProjectPropertyAction 
@@ -36,6 +15,5 @@ PropertyValue  |  Новое значение свойства
 /PropertyIdentName:PEP.Project.PVW_1
 /PropertyIndex:0 
 /PropertyValue:"?"
-
 
  

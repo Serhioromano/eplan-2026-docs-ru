@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Экспорт Eplan Smart Production
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вы открыли проект. Файл > Экспортировать > группа команд Данные изготовления > Данные изготовления > Smart Production.
 
@@ -42,4 +20,4 @@
 
 См. также
 
-[Экспорт данных изготовления для Eplan Smart Production](edaexportgui_h_smartproductioncollectiondatenexportieren.htm)
+[Экспорт данных изготовления для Eplan Smart Production](eplan/edaexportgui_h_smartproductioncollectiondatenexportieren.md)

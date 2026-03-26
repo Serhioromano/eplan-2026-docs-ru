@@ -1,38 +1,15 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Интерфейс к Rittal - RiPanel Processing Center
 
 Для сквозного рабочего процесса в инжиниринге с помощью программы планирования и управления производством Rittal - RiPanel Processing Center Eplan Pro Panel имеет интерфейс, позволяющий экспортировать данные через AML-файл.
 
 Интерфейс позволяет экспортировать данные изготовления для механической обработки электрошкафов из Eplan Pro Panel в Rittal - RiPanel Processing Center.
 
-
-
 !!! note "Замечание:"
 
     
-
 
  
 
 См. также
 
-[Экспорт данных изготовления для механической обработки электрошкафов в Rittal - RiPanel Processing Center](amlgui_h_rittalripanelprocessingcenterexportieren.htm)
+[Экспорт данных изготовления для механической обработки электрошкафов в Rittal - RiPanel Processing Center](eplan/amlgui_h_rittalripanelprocessingcenterexportieren.md)

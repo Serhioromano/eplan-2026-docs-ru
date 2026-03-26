@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Простые сценарии с параметрами
 
 Функция сценариев принимает также параметр. Это имеет смысл, если при запуске сценарию передается параметр /Param. Это возможно при вызове Eplan через командную строку:
@@ -25,8 +5,6 @@
 W3u.exe ExecuteScript /ScriptFile:<Значение> /Param:<Значение>
 
 Если Eplan запускается через командную строку, чтобы выполнить сценарий, первый параметр — это операция, которую надо выполнить. Операция для выполнения сценариев называется ExecuteScript. Эта операция обладает параметром /ScriptFile, через который задается имя выполняемого сценария. Каждый дальнейший дополнительный параметр (Param1, Param2, Param3, ...) передается функции запуска сценария.
-
-
 
 !!! example "Пример:"
 
@@ -54,17 +32,13 @@ W3u.exe ExecuteScript /ScriptFile:<Значение> /Param:<Значение>
 
 End Class "SimpleScriptWithParameters
 
-
  
 
 Важно, что все параметры, которые используются в функции сценария, также применяются при вызове. В ином случае сценарий не выполняется.
 
-
-
 !!! example "Пример:"
 
     Для приложения Eplan Electric P8 ввод в командную строку для операционной системы Windows 7 выглядел бы следующим образом:"C:\Program Files (x86)\EPLAN\Electric P8\<Номер версии>\BIN\W3u.exe" ExecuteScript /ScriptFile:"C:\Users\Public\EPLAN\Electric P8\Scripte\<Идентификатор фирмы>\SimpleScriptWithParameters.cs" /Param1:Hello /Param2:" Eplan " /Param3:User!
-
 
  
 
@@ -74,6 +48,6 @@ End Class "SimpleScriptWithParameters
 
 См. также
 
-[Сценарии](scripts_k_start.htm)
+[Сценарии](eplan/scripts_k_start.md)
 
-[Параметры командной строки Eplan](commandlinecall_k_start.htm)
+[Параметры командной строки Eplan](eplan/commandlinecall_k_start.md)

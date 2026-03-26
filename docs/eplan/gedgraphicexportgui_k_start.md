@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Экспорт графических файлов
 
 Страницы проекта можно вывести в различных графических форматах, например, BMP, JPG, TIFF, GIF. Экспорт графических файлов можно выполнить, например, в целях архивирования.
@@ -26,8 +6,8 @@
 
 См. также
 
-[Вывести страницы в виде графических файлов](gedgraphicexportgui_h_seitenexportieren.htm)
+[Вывести страницы в виде графических файлов](eplan/gedgraphicexportgui_h_seitenexportieren.md)
 
-[Диалоговое окно Настройки: Экспорт графических файлов](gedgraphicexportgui_d_exporteinstellungen.htm)
+[Диалоговое окно Настройки: Экспорт графических файлов](eplan/gedgraphicexportgui_d_exporteinstellungen.md)
 
-[Диалоговое окно Экспорт графических файлов](modaldialogsdb_d_export.htm)
+[Диалоговое окно Экспорт графических файлов](eplan/modaldialogsdb_d_export.md)

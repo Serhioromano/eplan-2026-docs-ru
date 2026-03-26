@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Графическое представление кабелей и экранирований
 
 Кабели графически представлены в схеме соединений линиями определения кабелей. Кабель может содержать линии определения кабелей, экранирования и кабельные соединения.
@@ -64,12 +44,12 @@ Eplan различает экранирования по их именам. Ес
 
 См. также
 
-[Кабели](cablegui_k_start.htm)
+[Кабели](eplan/cablegui_k_start.md)
 
-[Характеристика кабелей](cablegui_k_prinzip.htm)
+[Характеристика кабелей](eplan/cablegui_k_prinzip.md)
 
-[Определение кабелей](cablegui_k_arbeitsweise.htm)
+[Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
 
-[Действие экранирования](cablegui_k_verhaltenabschirmungen.htm)
+[Действие экранирования](eplan/cablegui_k_verhaltenabschirmungen.md)
 
-[Позиция и форматирование свойств кабелей](cablegui_k_kabelbezeichnungformat.htm)
+[Позиция и форматирование свойств кабелей](eplan/cablegui_k_kabelbezeichnungformat.md)

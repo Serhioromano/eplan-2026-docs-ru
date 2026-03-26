@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Вкладка Линии
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вы открыли проект. В Графическом редакторе открыта страница проекта. Вы выделили указание размеров и выбрали пункт всплывающего меню Свойства. В диалоговом окне Свойства выберите вкладку Линии.
 
@@ -60,10 +38,10 @@
 
 См. также
 
-[Указания размеров](dimensiongui_k_start.htm)
+[Указания размеров](eplan/dimensiongui_k_start.md)
 
-[Указания размеров: Принцип](dimensiongui_k_bemassungenprinzip.htm)
+[Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
 
-[Обработать указания размеров](dimensiongui_h_bemassungbearbeiten.htm)
+[Обработать указания размеров](eplan/dimensiongui_h_bemassungbearbeiten.md)
 
-[Диалоговое окно Настройки: Указание размеров](dimensiongui_d_projektbemassung.htm)
+[Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)

@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Замена рамки
 
 Рамки определяют размер листа и выравнивание в рамке страниц схемы соединений. Кроме этого, задается шапка, сетка и разделение страницы схемы соединения в зоне и зоны позиций (столбцы и строки).
@@ -26,10 +6,10 @@
 
 См. также
 
-[Изменение стандарта](changestandardsgui_k_start.htm)
+[Изменение стандарта](eplan/changestandardsgui_k_start.md)
 
-[Замена символов](changestandardsgui_k_symbolaustausch.htm)
+[Замена символов](eplan/changestandardsgui_k_symbolaustausch.md)
 
-[Повернутые страницы / Неповернутые страницы](changestandardsgui_k_seitendrehung.htm)
+[Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
 
-[Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](changestandardsgui_h_stammdatenaustauschen.htm)
+[Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)

@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Настройки: Импорт ECLASS
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вкладка Основные данные > группа команд Изделия > Управление. Кнопка [Дополнительно] > Импортировать. В поле Тип файла выбрана запись для версии ECLASS. Щелкните кнопку [...] рядом с полем Тип файла.
 
@@ -30,16 +8,16 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.htm).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
 
-[Вкладка Присвоение класса](partsimportbmecatgui_r_klassenzuordnung.htm)
+[Вкладка Присвоение класса](eplan/partsimportbmecatgui_r_klassenzuordnung.md)
 
-[Вкладка Присвоение поля BMEcat](partsimportbmecatgui_r_BMEcatFeldzuordnung.htm)
+[Вкладка Присвоение поля BMEcat](eplan/partsimportbmecatgui_r_BMEcatFeldzuordnung.md)
 
-[Вкладка Присвоение признака ](partsimportbmecatgui_r_Merkmalzuordnung.htm)
+[Вкладка Присвоение признака ](eplan/partsimportbmecatgui_r_Merkmalzuordnung.md)
 
-[Вкладка Настройки ](partsimportbmecatgui_r_Eigenschaften.htm)
+[Вкладка Настройки ](eplan/partsimportbmecatgui_r_Eigenschaften.md)
 
 См. также
 
-[База данных изделий: Импорт данных изделий по стандарту ECLASS](partsimportbmecatgui_k_start.htm)
+[База данных изделий: Импорт данных изделий по стандарту ECLASS](eplan/partsimportbmecatgui_k_start.md)

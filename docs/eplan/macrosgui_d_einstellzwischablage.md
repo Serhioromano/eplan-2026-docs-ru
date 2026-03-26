@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Диалоговое окно Настройки: Общие (Пользователь, Представление)
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Файл > Настройки > Пользователь > Отображение > Общее
 
@@ -89,23 +67,20 @@
 
 Если флажок снят, ни данные, ни маркеры ревизии не будут вставляться в целевой проект.
 
-
-
 !!! note "Замечание:"
 
     
-
 
  
 
 См. также
 
-[Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.htm)
+[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
 
-[Диалоговое окно Вставить](macrosgui_d_einfuegen.htm)
+[Диалоговое окно Вставить](eplan/macrosgui_d_einfuegen.md)
 
-[Диалоговое окно Буфер обмена](macrosgui_d_zwischenablage.htm)
+[Диалоговое окно Буфер обмена](eplan/macrosgui_d_zwischenablage.md)
 
-[Многопользовательский режим](xesmultiuserconflictgui_k_start.htm)
+[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
 
-[Обновить соединения](connectionbrowsergui_h_verbindungenbearbeiten.htm)
+[Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)

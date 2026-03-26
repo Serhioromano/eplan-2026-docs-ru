@@ -1,26 +1,4 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Вкладка Автокоррекция
-
-[Вызов диалогового окна:](javascript:void\(0\);)
 
 Вкладка Инструменты > группа команд Перевод > Словарь. Выберите вкладку Автокоррекция.
 
@@ -40,6 +18,6 @@
 
 См. также
 
-[Создать / выбрать словарь](translatedbgui_h_woerterbuchanlegen.htm)
+[Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
 
-[Создать ключевые слова](translatedbgui_h_stichwortanlegen.htm)
+[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)

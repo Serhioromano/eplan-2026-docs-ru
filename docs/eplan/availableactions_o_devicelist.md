@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: devicelist
 
   
@@ -34,7 +14,6 @@ EXPORTFILE |  Здесь следует указать каталог и имя 
 FORMAT |  Необязательно: формат файла ("XDLXmlExporter", "XDLTxtImporterExporter", "XDLCsvImporterExporter" или определенный пользователем формат)  
 Значение по умолчанию: XDLXmlExporter   
 
-
 !!! example "Пример:"
 
     Импортировать:devicelist 
@@ -46,6 +25,5 @@ FORMAT |  Необязательно: формат файла ("XDLXmlExporter",
 /EXPORTFILE:C:\EPLAN\deviceListe2.xmlУдалить:devicelist 
 /TYPE:DELETE 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
-
 
  

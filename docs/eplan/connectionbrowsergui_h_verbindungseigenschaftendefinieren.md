@@ -1,23 +1,3 @@
-
-
-
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Предварительно определить свойства соединения
 
 Соединения получают свои свойства один раз посредством предварительного назначения в проекте и посредством свойств потенциала. Все другие свойства указываются посредством точек определения соединений.
@@ -26,21 +6,19 @@
 
 Установленные у проекта свойства наследует потенциал. Свойства от потенциалов в свою очередь наследуют сигналы, а затем - соединения. На отдельных стадиях вы можете изменять данные вручную и определять другие свойства.
 
-  1. Выберите следующие команды: Файл > Настройки > Проекты > "Имя проекта" > Соединения > Свойства.
-  2. Выберите требуемую вкладку, например [Электротехника](connectionsettingsgui_r_projekteinstellungenelektrotechnik.htm), [Гидравлика](connectionsettingsgui_r_projekteinstellungenhydraulik.htm) или [Технология производственных процессов](connectionsettingsgui_r_projekteinstellungenhydraulik.htm).
-  3. Укажите в отдельных полях значения по умолчанию для свойств соединения.
-  4. Подтвердите ввод.  
+1. Выберите следующие команды: Файл > Настройки > Проекты > "Имя проекта" > Соединения > Свойства.
+2. Выберите требуемую вкладку, например [Электротехника](eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md), [Гидравлика](eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md) или [Технология производственных процессов](eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md).
+3. Укажите в отдельных полях значения по умолчанию для свойств соединения.
+4. Подтвердите ввод.  
   
 Выполняется сохранение значений по умолчанию. При генерировании соединения ему автоматически присваиваются соответствующие значения по умолчанию.
 
-
-
 См. также
 
-[Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.htm)
+[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
 
-[Определить свойства соединения для потенциала](connectionbrowsergui_h_pdpeigenschaften.htm)
+[Определить свойства соединения для потенциала](eplan/connectionbrowsergui_h_pdpeigenschaften.md)
 
-[Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.htm)
+[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
 
-[Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.htm)
+[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)

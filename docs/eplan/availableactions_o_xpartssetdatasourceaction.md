@@ -1,23 +1,3 @@
-
-  
-  
-[](EPLAN_Help_k_start.htm)
-
-  * placeholder
-
-
-
-  * Все файлы
-
-
-
-
-
-
-Эта функциональность предусмотрена только в определенных модулях расширения. [Информация / авторское право](license_k_start.htm)
-
-Вы находитесь здесь:
-
 ## Операция: XPartsSetDataSourceAction
 
   
@@ -34,11 +14,9 @@ SqlFullName |  Полное имя сервера SQL. Не может испо�
 CollectionName |  Имя коллекции eStock.  
 CollectionId |  Идентификатор коллекции eStock.  
 
-
 !!! note "Замечание:"
 
     
-
 
  
 
@@ -63,6 +41,5 @@ CollectionId |  Идентификатор коллекции eStock.
 /DataSourceType:3 
 /CollectionName:ESTOCK_COLLECTION_NAME 
 /CollectionId:ESTOCK_COLLECTION_ID
-
 
  
