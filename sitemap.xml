@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/</loc>
+         <lastmod>2026-03-26</lastmod>
+    </url>
+    <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/eplan/EPLAN_Help_k_start/</loc>
          <lastmod>2026-03-26</lastmod>
     </url>
