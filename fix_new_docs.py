@@ -6,6 +6,7 @@
 4. Delete everything before the first ## heading
 5. Change .htm to .md in markdown links
 6. Convert javascript: links to plain text
+7. Convert button references [Text] to ++Text++ (pymdownx.keys format)
 """
 
 import re
@@ -61,6 +62,28 @@ def fix_htm_links(content):
     """Change .htm to .md in markdown links."""
     return re.sub(r'(\[[^\]]+\]\([^)]+)\.htm(\))', r'\1.md\2', content)
 
+def fix_merged_words(content):
+    """Insert space between a lowercase Cyrillic letter and an uppercase one (merged words)."""
+    return re.sub(r'([а-яё])([А-ЯЁ])', r'\1 \2', content)
+
+def fix_button_brackets(content):
+    """Convert button references like кнопке [OK] to кнопке ++OK++ (pymdownx.keys format)."""
+    def replace_btn(m):
+        prefix = m.group(1).rstrip()
+        text = m.group(2).strip()
+        return f'{prefix} ++{text}++'
+    content = re.sub(
+        r'((?:кнопк[еуиойам]|нажмите|клавиш[еуиой]|нажав|щелкните|нажатием|помощи|выберите|меню|на|по|или)\s?)\[([^\]]+)\](?!\()',
+        replace_btn,
+        content,
+        flags=re.IGNORECASE
+    )
+    # Clean up spaces inside ++text++
+    content = re.sub(r'\+\+\s+([^+]+?)\s*\+\+', r'++\1++', content)
+    # Ensure space after ++text++ when followed by a letter
+    content = re.sub(r'\+\+([^+]+)\+\+([а-яёА-ЯЁa-zA-Z])', r'++\1++ \2', content)
+    return content
+
 def process_file(path):
     with open(path, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -72,6 +95,8 @@ def process_file(path):
     content = fix_javascript_links(content)
     content = fix_stray_semicolon_paren(content)
     content = fix_htm_links(content)
+    content = fix_merged_words(content)
+    content = fix_button_brackets(content)
     content = collapse_blank_lines(content)
 
     if content != original:

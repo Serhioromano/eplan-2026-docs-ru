@@ -6,7 +6,7 @@
 
 !!! example "Пример:"
 
-    В следующей таблице показаны отдельные слова, предложения, ряды предложений и ключевые слова с заполнителями на исходном языкеen_US.Отдельное словоПредложениеРяд предложенийКлючевое слово с заполнителемcontactorconnection pointCirc.-Breaker, Parts a. Devices. Part and device tag listsRectifier%0phasedeviceActuator sheetCaution! HotTerminal with%0connectorsmeasurandScrew compressor, with electric motorScrew compressor. With electric motorPE terminal,%0targetslubricationSeveral macro boxes are managed on the pageLevel sensor with display. Filling level in fresh water tankWith LED (%0=)%1st lev. with%2lev./supply bl
+    В следующей таблице показаны отдельные слова, предложения, ряды предложений и ключевые слова с заполнителями на исходном языкеen_US.Отдельное слово Предложение Ряд предложений Ключевое слово с заполнителемcontactorconnection pointCirc.-Breaker, Parts a. Devices. Part and device tag listsRectifier%0phasedeviceActuator sheetCaution! HotTerminal with%0connectorsmeasurandScrew compressor, with electric motorScrew compressor. With electric motorPE terminal,%0targetslubricationSeveral macro boxes are managed on the pageLevel sensor with display. Filling level in fresh water tankWith LED (%0=)%1st lev. with%2lev./supply bl
 
 ### Отдельные слова
 
@@ -36,11 +36,11 @@
 
 !!! example "Пример:"
 
-    Следующая таблица показывает, когда Eplan при переводе по предложениям интерпретирует знак препинания как знак в конце предложения. При включенной настройке пользователяУбрать знаки в конце предложениядля того чтобы текст можно было перевести, ключевые слова, отображаемые в столбце "Ключевые слова", должны содержаться в словаре.СегментированиеТекстКлючевые словаПредложениеScrew compressor, with electric motor.Screw compressor, with electric motorПредложениеLevel sensor with display. Filling level in fresh water tank.Level sensor with displayFilling level in fresh water tankПредложениеCirc.-Breaker, Parts a. Devices. Part and device tag lists!Circ.-Breaker, Parts aDevicesPart and device tag lists
+    Следующая таблица показывает, когда Eplan при переводе по предложениям интерпретирует знак препинания как знак в конце предложения. При включенной настройке пользователя Убрать знаки в конце предложениядля того чтобы текст можно было перевести, ключевые слова, отображаемые в столбце "Ключевые слова", должны содержаться в словаре.Сегментирование Текст Ключевые слова ПредложениеScrew compressor, with electric motor.Screw compressor, with electric motorПредложениеLevel sensor with display. Filling level in fresh water tank.Level sensor with displayFilling level in fresh water tankПредложениеCirc.-Breaker, Parts a. Devices. Part and device tag lists!Circ.-Breaker, Parts aDevicesPart and device tag lists
 
 !!! tip "Совет:"
 
-    Если вы экспортируетеСписок отсутствующих слов, вы можете определить, какие ключевые слова в словаре нужны для перевода.
+    Если вы экспортируете Список отсутствующих слов, вы можете определить, какие ключевые слова в словаре нужны для перевода.
 
 ### Общая запись
 
@@ -48,7 +48,7 @@
 
 !!! example "Пример:"
 
-    При переводе с сегментацией "Общая запись" Eplan интерпретирует как знак в конце предложения только последний знак препинания всей записи. При включенной настройке пользователяУбрать знаки в конце предложениядля того чтобы текст можно было перевести, ключевые слова, отображаемые в столбце "Ключевые слова", должны содержаться в словаре.СегментированиеТекстКлючевые словаОбщая записьCirc.-Breaker, Parts a. Devices. Part and device tag lists!Circ.-Breaker, Parts a. Devices. Part and device tag listsОбщая записьLevel sensor with display. Filling level in fresh water tank.Level sensor with display. Filling level in fresh water tank
+    При переводе с сегментацией "Общая запись" Eplan интерпретирует как знак в конце предложения только последний знак препинания всей записи. При включенной настройке пользователя Убрать знаки в конце предложениядля того чтобы текст можно было перевести, ключевые слова, отображаемые в столбце "Ключевые слова", должны содержаться в словаре.Сегментирование Текст Ключевые слова Общая записьCirc.-Breaker, Parts a. Devices. Part and device tag lists!Circ.-Breaker, Parts a. Devices. Part and device tag listsОбщая записьLevel sensor with display. Filling level in fresh water tank.Level sensor with display. Filling level in fresh water tank
 
 ### Ключевые слова с заполнителями
 
