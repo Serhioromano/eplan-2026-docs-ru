@@ -37,5 +37,6 @@ gitc:
 
 deploy:
 	@echo "Deploying the application..."
+	@source .env
 	@mkdocs gh-deploy
 	@echo "Deployment complete."

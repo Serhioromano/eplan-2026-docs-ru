@@ -12,7 +12,6 @@ edit_uri: edit/main/docs/
 # навигация тут
 nav:
   - "Платформа Eplan":
-    - "Платформа Eplan": eplan/EPLAN_Help_k_start.md
     - "Указания по ознакомлению с руководством": eplan/helpsystem_k_hinweise.md
     - "Использование справочной системы":
       - "Справочная система": eplan/helpsystem_k_start.md
@@ -2640,7 +2639,7 @@ plugins:
   - git-revision-date-localized:
       fallback_to_build_date: true
   - git-committers:
-      repository: serhioromano/gxw2-st-course
+      repository: serhioromano/eplan-2026-docs-ru
       branch: main
       token: !ENV GH_TOKEN
 
