@@ -28,7 +28,10 @@ def fix_see_also(content):
     return pattern.sub(reformat, content)
 
 def collapse_blank_lines(content):
-    """Replace multiple consecutive blank lines with a single blank line."""
+    """Replace multiple consecutive blank lines (including whitespace-only lines) with a single blank line."""
+    # First, strip trailing whitespace from every line so whitespace-only lines become truly empty
+    content = re.sub(r'[ \t]+$', '', content, flags=re.MULTILINE)
+    # Then collapse runs of 2+ empty lines into one
     return re.sub(r'\n{3,}', '\n\n', content)
 
 def strip_list_indent(content):
