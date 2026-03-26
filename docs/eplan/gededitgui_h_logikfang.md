@@ -27,8 +27,7 @@
   
 
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Отобразить точки вставки](eplan/gededitgui_h_einfuegepunkte.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Отобразить точки вставки](eplan/gededitgui_h_einfuegepunkte.md)

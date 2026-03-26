@@ -29,12 +29,9 @@
   
 Отчет отображается в диалоговом окне Отчеты — <Имя проекта> в перечне отчетов как "Встроенный отчет".
 
-См. также
+**См. также:**
 
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Генерировать легенды электрошкафа](eplan/panellayoutgui_h_legendenanlegen.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Генерировать легенды электрошкафа](eplan/panellayoutgui_h_legendenanlegen.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)

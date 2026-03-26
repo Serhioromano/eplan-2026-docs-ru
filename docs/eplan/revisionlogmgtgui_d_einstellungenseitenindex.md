@@ -31,8 +31,7 @@
 
 Если флажок не установлен, то введенный индекс ревизии не проверяется.
 
-См. также
+**См. также:**
 
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)

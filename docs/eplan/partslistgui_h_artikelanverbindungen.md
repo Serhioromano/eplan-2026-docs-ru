@@ -19,6 +19,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Генерировать отчеты](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерировать отчеты](eplan/formgeneratorgui_h_auswerterzeugen.md)

@@ -54,12 +54,9 @@
 
 Отображается формата адреса в режиме предварительного просмотра. Отдельные элементы формата выводятся в адресе ПЛК или в списке присвоений в той последовательности, в которой они стоят в списке. Значение в этом поле изменить невозможно.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
-
-[Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
-
-[Диалоговое окно Формат: Адрес / текст](eplan/plcprocessorgui_d_formatadressetext.md)
-
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
+* [Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
+* [Диалоговое окно Формат: Адрес / текст](eplan/plcprocessorgui_d_formatadressetext.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)

@@ -68,16 +68,11 @@
 
 С помощью одноименного свойства изделия Привод: Тип устройства (ид. 40349) тип устройства можно сохранить на изделии. При выборе изделия тип устройства переносится на главную функцию.
 
-См. также
+**См. также:**
 
-[Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
-
-[Каналы ПЛК](eplan/plcgui_k_kanaele.md)
-
-[Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
-
-[Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
-
-[Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-
-[Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
+* [Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
+* [Каналы ПЛК](eplan/plcgui_k_kanaele.md)
+* [Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
+* [Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
+* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
+* [Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)

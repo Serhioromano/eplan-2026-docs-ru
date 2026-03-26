@@ -33,6 +33,6 @@
 * [Вкладка "Параметры шлангов"](eplan/fluidhoseconfiggui_r_schlauchzuordnungen.md)
 * [Вкладка "Следующие свойства"](eplan/fluidhoseconfiggui_r_weitereeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно "Обработать <...>"](eplan/fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md)
+* [Диалоговое окно "Обработать <...>"](eplan/fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md)

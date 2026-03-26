@@ -12,8 +12,7 @@
   
 Eplan ищет во всех подчиненных каталогах проекты и считывает их со структурой каталогов в управление проектами.
 
-См. также
+**См. также:**
 
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
-
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)

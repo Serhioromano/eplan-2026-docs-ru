@@ -40,10 +40,8 @@
   
 Данные изделия переносятся в Список устройств. Генерируется новая запись для контролируемого изделия.
 
-См. также
+**См. также:**
 
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)

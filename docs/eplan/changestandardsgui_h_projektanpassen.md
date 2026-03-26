@@ -22,14 +22,10 @@
   
 [Задать базовый проект и поворот / инверсию](eplan/changestandardsgui_h_vorlagefestlegen.md)
 
-См. также
+**См. также:**
 
-[Заменить рамки, формы и библиотеку определения функций (изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
-
-[Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
-
-[Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
-
-[Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
-
-[Определить нумерацию устройств (Изменение стандарта)](eplan/changestandardsgui_h_nummerieren.md)
+* [Заменить рамки, формы и библиотеку определения функций (изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
+* [Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Определить нумерацию устройств (Изменение стандарта)](eplan/changestandardsgui_h_nummerieren.md)

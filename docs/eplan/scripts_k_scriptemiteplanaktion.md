@@ -83,8 +83,7 @@ End Class 'PrintScript
 
  
 
-См. также
+**См. также:**
 
-[Сценарии](eplan/scripts_k_start.md)
-
-[Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
+* [Сценарии](eplan/scripts_k_start.md)
+* [Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)

@@ -4,12 +4,9 @@
 
 При генерировании отчета можно выбрать, генерировать страницы отчета или [встроенный отчет](eplan/formgeneratorgui_k_ausgabeformen.md). Данные проекта выводятся на страницах отчета, если при генерировании отчетов как форм вывода выбрать "Страницу". Eplan сортирует сгенерированные страницы в структуру имеющихся страниц проекта. Страницу отчета можно определить по типу страницы, например "Спецификация клеммника (A)". Посредством [сортировки страниц отчетов](eplan/formgeneratorgui_k_seitensortierung.md) указывается, генерируется отчет в одном или нескольких [блоках отчетов](eplan/formgeneratorgui_k_auswertungsbloecke.md).
 
-См. также
+**См. также:**
 
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)

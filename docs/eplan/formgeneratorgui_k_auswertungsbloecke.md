@@ -6,12 +6,9 @@
 
 Если вы задали начальную страницу, а данная страница уже определена, Eplan ищет следующую свободную страницу для страницы отчета.
 
-См. также
+**См. также:**
 
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)

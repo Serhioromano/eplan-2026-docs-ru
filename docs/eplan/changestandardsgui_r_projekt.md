@@ -24,12 +24,9 @@
 
 Если этот флажок установлен, свойства копируются из свойств исходного проекта; если флажок снят, свойства применяются из шаблона. Определенные пользователем свойства всегда копируются из исходного проекта.
 
-См. также
+**См. также:**
 
-[Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-
-[Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
-
-[Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
-
-[Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
+* [Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)

@@ -38,6 +38,6 @@
   
 Изделия, существующие в проекте, но не в системе, создаются в базе данных изделий.
 
-См. также
+**См. также:**
 
-[Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+* [Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)

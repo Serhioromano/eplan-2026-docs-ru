@@ -8,6 +8,6 @@
   
 Настроенные машинные данные доступны при экспорте ЧУ в диалоговом окне экспорта под соответствующими названиями машин.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Экспорт Rittal — Perforex / Secarex](eplan/ncgui_d_einstellungenncexportkiesling.md)
+* [Диалоговое окно Настройки: Экспорт Rittal — Perforex / Secarex](eplan/ncgui_d_einstellungenncexportkiesling.md)

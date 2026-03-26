@@ -44,12 +44,9 @@
 
 Изменения, выполненные на странице, сохраняются автоматически при переходе на другую страницу или закрытии проекта.
 
-См. также
+**См. также:**
 
-[Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-
-[Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-
-[Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
-
-[Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
+* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
+* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
+* [Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)

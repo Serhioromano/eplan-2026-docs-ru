@@ -30,8 +30,7 @@
 
 Если установлен этот флажок, точки определения, соединения которых имеют настройку Установлено вручную, сохранят выравнивание и форматирование.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Заново выровнять и отформат. обозначения соединений](eplan/wirenumberinggui_h_verbnumausrichtenformatieren.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Заново выровнять и отформат. обозначения соединений](eplan/wirenumberinggui_h_verbnumausrichtenformatieren.md)

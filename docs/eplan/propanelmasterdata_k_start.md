@@ -14,12 +14,9 @@
 * Схемы сверления, созданные путем импорта и графического определения, можно присвоить имеющимся изделиям и благодаря этому использовать для дальнейшего проектирования и машинного изготовления.
 * Кроме того, возможно также чисто графическое определение схем сверления путем черчения функциональных элементов, отверстий и контуров.
 
-См. также
+**См. также:**
 
-[Генерировать схемы сверления из данных ЧУ](eplan/propanelmasterdata_h_bohrbildausncdaten.md)
-
-[Вставить границу схемы сверления](eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md)
-
-[Генерировать схемы сверления из файлов DXF / DWG](eplan/propanelmasterdata_h_bohrbildausdxfdaten.md)
-
-[Графическое определение схем сверления](eplan/propanelmasterdata_h_bohrbildgrafischdefinieren.md)
+* [Генерировать схемы сверления из данных ЧУ](eplan/propanelmasterdata_h_bohrbildausncdaten.md)
+* [Вставить границу схемы сверления](eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md)
+* [Генерировать схемы сверления из файлов DXF / DWG](eplan/propanelmasterdata_h_bohrbildausdxfdaten.md)
+* [Графическое определение схем сверления](eplan/propanelmasterdata_h_bohrbildgrafischdefinieren.md)

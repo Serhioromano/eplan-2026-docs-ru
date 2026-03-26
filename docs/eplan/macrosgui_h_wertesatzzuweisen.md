@@ -22,8 +22,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Выбрать набор значений](eplan/macrosgui_d_wertesatzauswaehlen.md)
-
-[Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
+* [Диалоговое окно Выбрать набор значений](eplan/macrosgui_d_wertesatzauswaehlen.md)
+* [Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)

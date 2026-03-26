@@ -41,10 +41,8 @@
 
 Если необходимо вернуться к прежнему виду свойств, удалите текст из поля ввода. Для этого нажмите кнопку  (Удалить).
 
-См. также
+**См. также:**
 
-[Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
-
-[Элементы-заполнители Eplan](eplan/placeholder_o_main.md)
-
-[Свойства Eplan](eplan/properties_o_main.md)
+* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Элементы-заполнители Eplan](eplan/placeholder_o_main.md)
+* [Свойства Eplan](eplan/properties_o_main.md)

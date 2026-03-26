@@ -52,10 +52,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
-
-[Произвести настройки для отображения перекрестных ссылок](eplan/xessettingsgui_h_einstellungenqvwanzeige.md)
-
-[Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+* [Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
+* [Произвести настройки для отображения перекрестных ссылок](eplan/xessettingsgui_h_einstellungenqvwanzeige.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)

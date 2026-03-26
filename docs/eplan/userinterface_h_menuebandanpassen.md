@@ -132,10 +132,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
-
-[Диалоговое окно Настроить](eplan/fp_d_anpassen.md)
-
-[Обзор операций для ленты](eplan/userinterface_k_aktionenmenueband.md)
+* [Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
+* [Диалоговое окно Настроить](eplan/fp_d_anpassen.md)
+* [Обзор операций для ленты](eplan/userinterface_k_aktionenmenueband.md)

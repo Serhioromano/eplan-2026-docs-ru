@@ -20,10 +20,8 @@
   
 Обозначения соединений выводятся на просмотр на выбранных для нумерации соединениях, если там уже размещены точки определения соединений.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Диалоговое окно Обозначить соединения](eplan/wirenumberinggui_d_verbnumbezeichnen.md)
-
-[Диалоговое окно Обозначить соединения: Предварительный просмотр результата](eplan/wirenumberinggui_d_ergebnisbezeichnen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Диалоговое окно Обозначить соединения](eplan/wirenumberinggui_d_verbnumbezeichnen.md)
+* [Диалоговое окно Обозначить соединения: Предварительный просмотр результата](eplan/wirenumberinggui_d_ergebnisbezeichnen.md)

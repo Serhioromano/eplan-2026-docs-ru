@@ -122,12 +122,9 @@
  
 * Клемма: Положение устройства: С помощью этого свойства идентифицируются группы клемм (напр., многоуровневые клеммы). Все клеммы группы клемм имеют одинаковое положение устройства. Внутри группы клемм идентификатор сортировки устанавливает порядок клемм.
 
-См. также
+**См. также:**
 
-[Вкладка Соединения](eplan/devicetaggui_r_verbindungenklemmen.md)
-
-[Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
-
-[Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Вкладка Соединения](eplan/devicetaggui_r_verbindungenklemmen.md)
+* [Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)

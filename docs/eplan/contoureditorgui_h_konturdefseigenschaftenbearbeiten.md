@@ -14,10 +14,8 @@
 3. Выберите вкладку Отображение для обработки настроек отображения логического элемента (например, настройки Размер шрифта, Вид шрифта и т. д.).
 4. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
-
-[Вкладка Данные ](eplan/contoureditorgui_r_daten.md)
-
-[Вкладка Отображение ](eplan/contoureditorgui_r_anzeige.md)
+* [Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
+* [Вкладка Данные ](eplan/contoureditorgui_r_daten.md)
+* [Вкладка Отображение ](eplan/contoureditorgui_r_anzeige.md)

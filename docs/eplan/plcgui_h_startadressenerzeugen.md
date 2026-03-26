@@ -22,10 +22,8 @@
   
 Последовательность генерирования начальных адресов для карт ПЛК соответствует последовательности генерирования карт ПЛК в ориентированном на каркас виде навигатора ПЛК.
 
-См. также
+**См. также:**
 
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
-
-[Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
-
-[Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
+* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)

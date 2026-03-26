@@ -28,10 +28,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: выбор изделия (потребитель)](eplan/partselectiongui_d_datenauswahlbenutzer.md)
-
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)
+* [Диалоговое окно Настройки: выбор изделия (потребитель)](eplan/partselectiongui_d_datenauswahlbenutzer.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)

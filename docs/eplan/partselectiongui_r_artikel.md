@@ -77,12 +77,9 @@
 
 Щелкните по этой кнопке для открытия диалогового окна [Выбор устройства](eplan/partselectiongui_d_geraeteauswahl.md) и выбора устройства.
 
-См. также
+**См. также:**
 
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-
-[Присвоить изделия устройству](eplan/devicetaggui_h_artikeldatenzuweisen.md)
-
-[Сохранить данные ссылки изделия на функции](eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Присвоить изделия устройству](eplan/devicetaggui_h_artikeldatenzuweisen.md)
+* [Сохранить данные ссылки изделия на функции](eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)

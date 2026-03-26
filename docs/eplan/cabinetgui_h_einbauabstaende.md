@@ -20,8 +20,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Разместить устройства в трехмерном чертеже монтажных поверхностей](eplan/cabinetgui_h_geraetplatzieren.md)
-
-[Диалоговое окно Опции размещения](eplan/cabinetgui_d_platzieroptionen.md)
+* [Разместить устройства в трехмерном чертеже монтажных поверхностей](eplan/cabinetgui_h_geraetplatzieren.md)
+* [Диалоговое окно Опции размещения](eplan/cabinetgui_d_platzieroptionen.md)

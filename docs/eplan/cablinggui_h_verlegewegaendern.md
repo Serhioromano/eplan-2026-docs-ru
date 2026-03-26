@@ -26,8 +26,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
-
-[Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
+* [Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
+* [Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)

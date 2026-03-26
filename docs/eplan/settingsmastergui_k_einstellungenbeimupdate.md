@@ -4,12 +4,9 @@
 
 При обновлении до новой версии программы копируются все настройки. С помощью запроса можно указать, какие настройки (пользователь, рабочая станция, фирма) следует копировать. Так же можно восстановить стандартные значения настроек программы.
 
-См. также
+**См. также:**
 
-[Настройки](eplan/settingsmastergui_k_start.md)
-
-[Настройки: Принцип работы](eplan/settingsmastergui_k_arbeitsweise.md)
-
-[Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
-
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Настройки](eplan/settingsmastergui_k_start.md)
+* [Настройки: Принцип работы](eplan/settingsmastergui_k_arbeitsweise.md)
+* [Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)

@@ -25,14 +25,10 @@
 
 Если этот флажок установлен, используется только полный поисковый признак. Если вы ввели, например, поисковый признак "Двигатель", находится только текст "Двигатель", но не "Автомат защиты двигателя" или "Двигатель постоянного тока".
 
-См. также
+**См. также:**
 
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
-
-[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-
-[Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
-
-[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
+* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
+* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)

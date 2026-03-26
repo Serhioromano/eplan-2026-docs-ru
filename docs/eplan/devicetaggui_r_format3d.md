@@ -23,6 +23,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: 3D](gedviewer_d_einstellungenbenutzerallgemein3d.htm)
+* [Диалоговое окно Настройки: 3D](gedviewer_d_einstellungenbenutzerallgemein3d.htm)

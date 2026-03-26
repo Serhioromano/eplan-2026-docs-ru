@@ -99,8 +99,7 @@
 
 Выберите из этого раскрывающегося списка внедренную форму для создания образов контактов на основе формы.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
-
-[Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+* [Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)

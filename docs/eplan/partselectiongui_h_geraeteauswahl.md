@@ -67,12 +67,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
-
-[Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
-
-[Диалоговое окно Выбор устройства](eplan/partselectiongui_d_geraeteauswahl.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
+* [Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
+* [Диалоговое окно Выбор устройства](eplan/partselectiongui_d_geraeteauswahl.md)

@@ -51,22 +51,14 @@
 Выбрать в дереве (только список) |  Показывает выделенный объект во вкладке Дерево.  
 Свойства |  Открывает диалоговое окно Свойства. Позволяет обрабатывать свойства комментария.  
   
-См. также
+**См. также:**
 
-[Комментарии](eplan/projectcomments_k_start.md)
-
-[Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
-
-[Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
-
-[Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
-
-[Диалоговое окно Конфигурировать представление (список)](eplan/modaldialogsdb_d_spaltenkonfiguration.md)
-
-[Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
-
-[Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-
-[Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-
-[Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)
+* [Комментарии](eplan/projectcomments_k_start.md)
+* [Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
+* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
+* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Диалоговое окно Конфигурировать представление (список)](eplan/modaldialogsdb_d_spaltenkonfiguration.md)
+* [Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
+* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
+* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
+* [Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)

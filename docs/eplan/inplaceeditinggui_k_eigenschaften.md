@@ -61,8 +61,7 @@
 <31050> |  Парный индекс  
 <31142> |  Соединение: Принадлежность  
   
-См. также
+**См. также:**
 
-[Прямая обработка](eplan/inplaceeditinggui_k_start.md)
-
-[Использование прямой обработки](eplan/inplaceeditinggui_h_direktesbearbeiten.md)
+* [Прямая обработка](eplan/inplaceeditinggui_k_start.md)
+* [Использование прямой обработки](eplan/inplaceeditinggui_h_direktesbearbeiten.md)

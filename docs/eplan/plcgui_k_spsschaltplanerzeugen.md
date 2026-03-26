@@ -13,16 +13,11 @@ Eplan предоставляет возможность автоматическ
 * Функции, автоматически размещаемые во время генерации схемы соединений ПЛК, можно удалять и заново размещать.
 * В режиме "Общий" можно вызвать диалоговое окно 'Свойства', чтобы обработать в нем свойства устройства.
 
-См. также
+**См. также:**
 
-[ПЛК](eplan/plcgui_k_start.md)
-
-[Макросы](eplan/macrosgui_k_start.md)
-
-[Генерация схемы соединений ПЛК: Принцип](eplan/plcgui_k_spsschaltplanprinzip.md)
-
-[Макрос для генерации схемы соединений ПЛК](eplan/plcgui_k_makrosschaltplanerzeugen.md)
-
-[Поведение при размещении макроса ПЛК](eplan/plcgui_k_abbuchverhalten.md)
-
-[Генерировать схемы соединений ПЛК](eplan/plcgui_h_spsschaltplanerzeugen.md)
+* [ПЛК](eplan/plcgui_k_start.md)
+* [Макросы](eplan/macrosgui_k_start.md)
+* [Генерация схемы соединений ПЛК: Принцип](eplan/plcgui_k_spsschaltplanprinzip.md)
+* [Макрос для генерации схемы соединений ПЛК](eplan/plcgui_k_makrosschaltplanerzeugen.md)
+* [Поведение при размещении макроса ПЛК](eplan/plcgui_k_abbuchverhalten.md)
+* [Генерировать схемы соединений ПЛК](eplan/plcgui_h_spsschaltplanerzeugen.md)

@@ -8,12 +8,9 @@ Eplan позволяет выполнить повторную нумераци�
 * После выполнения нумерации устройств можно дополнительно вручную настроить нумерацию для отдельных устройств.
 * Если во время нумерации устройств обнаруживаются логические несоответствия, выводятся соответствующие сообщения. 
 
-См. также
+**См. также:**
 
-[Объем нумерации](eplan/offlinenumerationgui_k_umfang.md)
-
-[Нумерация и функции](eplan/offlinenumerationgui_k_funktion.md)
-
-[Нумерация вложенных устройств](eplan/offlinenumerationgui_k_geschachteltebmk.md)
-
-[Нумерация (online)](eplan/numerationgui_k_start.md)
+* [Объем нумерации](eplan/offlinenumerationgui_k_umfang.md)
+* [Нумерация и функции](eplan/offlinenumerationgui_k_funktion.md)
+* [Нумерация вложенных устройств](eplan/offlinenumerationgui_k_geschachteltebmk.md)
+* [Нумерация (online)](eplan/numerationgui_k_start.md)

@@ -9,16 +9,11 @@
 * Если несколько пользователей захотят обработать данные одного и того же проекта, Eplan сообщит вам об этом случае конфликта.
 * В случае конфликта вы сможете уведомить других пользователей, обрабатывающих те же данные, по электронной почте.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Управление проектами](eplan/prjmanagementgui_d_projektverwaltung.md)
-
-[Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
-
-[Заблокированные данные в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_datensperren.md)
-
-[Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
-
-[Диалоговое окно Многопользовательский конфликт](eplan/xesmultiuserconflictgui_d_konflikte.md)
-
-[Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
+* [Диалоговое окно Управление проектами](eplan/prjmanagementgui_d_projektverwaltung.md)
+* [Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
+* [Заблокированные данные в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_datensperren.md)
+* [Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
+* [Диалоговое окно Многопользовательский конфликт](eplan/xesmultiuserconflictgui_d_konflikte.md)
+* [Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)

@@ -55,10 +55,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
-
-[Использование защищенных устройств](eplan/devicetaggui_k_geschuetztebmverwendung.md)
-
-[Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
+* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
+* [Использование защищенных устройств](eplan/devicetaggui_k_geschuetztebmverwendung.md)
+* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)

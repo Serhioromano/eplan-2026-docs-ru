@@ -19,14 +19,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-
-[Диалоговое окно Соединения — <имя проекта>](eplan/connectionbrowsergui_d_verbindungen.md)
-
-[Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
-
-[Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-
-[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Диалоговое окно Соединения — <имя проекта>](eplan/connectionbrowsergui_d_verbindungen.md)
+* [Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)

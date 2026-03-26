@@ -21,6 +21,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Отменить размещенные устройства](eplan/sparecomponent_h_funktionenzurueckbuchen.md)
+* [Отменить размещенные устройства](eplan/sparecomponent_h_funktionenzurueckbuchen.md)

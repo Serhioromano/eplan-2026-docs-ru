@@ -15,14 +15,10 @@
   
 Свойства, которые определены, присваиваются всем соединениям, подсоединенным к соответствующему потенциалу.
 
-См. также
+**См. также:**
 
-[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-
-[Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)
+* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)

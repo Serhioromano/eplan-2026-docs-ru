@@ -15,12 +15,9 @@
 * Путем генерирования и выгрузки частичных проектов можно разделять объемные проекты таким образом, что они становятся доступны внешним обработчикам (с установленными вариантами программы Eplan).
 * Выгрузка частичного проекта на локальный носитель данных позволяет выполнять обработку определенной части проекта в том числе и без постоянного сетевого соединения с исходным проектом.
 
-См. также
+**См. также:**
 
-[Частичные проекты: Принцип работы](eplan/subprojectservicesgui_k_grundlagen.md)
-
-[Диалоговое окно "Частичные проекты"](eplan/subprojectservicesgui_d_teilprojekte.md)
-
-[Выгрузка частичных проектов](eplan/subprojectservicesgui_k_auslagern.md)
-
-[Сохранение частичных проектов](eplan/subprojectservicesgui_k_einlagern.md)
+* [Частичные проекты: Принцип работы](eplan/subprojectservicesgui_k_grundlagen.md)
+* [Диалоговое окно "Частичные проекты"](eplan/subprojectservicesgui_d_teilprojekte.md)
+* [Выгрузка частичных проектов](eplan/subprojectservicesgui_k_auslagern.md)
+* [Сохранение частичных проектов](eplan/subprojectservicesgui_k_einlagern.md)

@@ -35,8 +35,7 @@
 
 Система распознает изделие кабеля лишь потому, что группа продуктов 'Кабель' и подгруппа продуктов 'Не определено' установлены на изделии.
 
-См. также
+**См. также:**
 
-[Схемы кабельных соединений](eplan/cablegui_k_kabeldarstellungsplan.md)
-
-[Сгенерировать схему кабельных соединений](eplan/cablegui_h_kabeldarstellungsplan.md)
+* [Схемы кабельных соединений](eplan/cablegui_k_kabeldarstellungsplan.md)
+* [Сгенерировать схему кабельных соединений](eplan/cablegui_h_kabeldarstellungsplan.md)

@@ -28,10 +28,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Устройства](eplan/devicelistgui_k_start.md)
-
-[Обработать список устройств](eplan/devicelistgui_h_geraetelistebearbeiten.md)
-
-[Диалоговое окно Список устройств](eplan/devicelistgui_d_geraeteliste.md)
+* [Устройства](eplan/devicelistgui_k_start.md)
+* [Обработать список устройств](eplan/devicelistgui_h_geraetelistebearbeiten.md)
+* [Диалоговое окно Список устройств](eplan/devicelistgui_d_geraeteliste.md)

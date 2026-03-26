@@ -66,20 +66,13 @@
 Свойства |  Открывает диалоговое окно Свойства (усл. обозначение): <...>. Обеспечивает обработку функции.  
 Свойства (общие) |  Открывает диалоговое окно Свойства (общие): <...>. Позволяет обрабатывать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
-
-[Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
-
-[Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)
-
-[Разместить функциональные элементы на монтажной плате](eplan/panellayoutgui_h_bauteileplatzieren.md)
-
-[Разместить функциональные элементы на несущей шине](eplan/panellayoutgui_h_hutschienenplatzierung.md)
-
-[Начертить заблокированные области](eplan/panellayoutgui_h_sperrflaechenzeichnen.md)
-
-[Обновить главные элементы](eplan/panellayoutgui_h_hauptbauteileaktualisieren.md)
-
-[Обновить размеры изделий](eplan/panellayoutgui_h_artikelabmessungenaktualisieren.md)
+* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
+* [Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)
+* [Разместить функциональные элементы на монтажной плате](eplan/panellayoutgui_h_bauteileplatzieren.md)
+* [Разместить функциональные элементы на несущей шине](eplan/panellayoutgui_h_hutschienenplatzierung.md)
+* [Начертить заблокированные области](eplan/panellayoutgui_h_sperrflaechenzeichnen.md)
+* [Обновить главные элементы](eplan/panellayoutgui_h_hauptbauteileaktualisieren.md)
+* [Обновить размеры изделий](eplan/panellayoutgui_h_artikelabmessungenaktualisieren.md)

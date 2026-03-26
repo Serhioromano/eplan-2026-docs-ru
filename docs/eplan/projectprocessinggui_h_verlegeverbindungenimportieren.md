@@ -45,6 +45,6 @@
 Нет |  Измененные значения свойств не применяются  
 |  Недействительные |  Нет |  Маршрутизируемое соединение не импортируется  
 
-См. также
+**См. также:**
 
-[Импортировать данные устройств и устройства](eplan/projectprocessinggui_h_betriebsmittelimportieren.md)
+* [Импортировать данные устройств и устройства](eplan/projectprocessinggui_h_betriebsmittelimportieren.md)

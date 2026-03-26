@@ -14,10 +14,8 @@
   
 Все излишние главные функции будут преобразованы во вспомогательные.
 
-См. также
+**См. также:**
 
-[Преобразование вспомогательной функции в главную](eplan/adjustdata_h_nebenfunktionaendern.md)
-
-[Синхронизировать распределенно представленные функции](eplan/adjustdata_h_funktionabgleichen.md)
-
-[Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)
+* [Преобразование вспомогательной функции в главную](eplan/adjustdata_h_nebenfunktionaendern.md)
+* [Синхронизировать распределенно представленные функции](eplan/adjustdata_h_funktionabgleichen.md)
+* [Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)

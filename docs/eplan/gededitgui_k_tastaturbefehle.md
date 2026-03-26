@@ -158,12 +158,9 @@
 Основное представление (навигационный куб) | [Ctrl] \+ [Alt] \+ [8]  
 Точка наблюдения 3D, 90°, справа (навигационный куб) | [Ctrl] \+ [Alt] \+ [9]  
   
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Определить величины шага](eplan/gededitgui_h_schrittweitenfestlegen.md)
-
-[Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
-
-[Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Определить величины шага](eplan/gededitgui_h_schrittweitenfestlegen.md)
+* [Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
+* [Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)

@@ -14,12 +14,9 @@
 3. Нажмите на зеленую точку в желаемом месте изгиба.
 4. Вы можете переместить конечную точку выбранного ребра или набрать новое значение угла на клавиатуре.
 
-См. также
+**См. также:**
 
-[Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
-
-[Медная шина: Изменить длину](eplan/copper_h_kupferteillaengeaendern.md)
-
-[Медная шина: Изменить места изгиба](eplan/copper_h_kupferteilbiegestelleaendern.md)
-
-[Медная шина: Добавить новое место изгиба](eplan/copper_h_kupferteilneuebiegestelle.md)
+* [Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
+* [Медная шина: Изменить длину](eplan/copper_h_kupferteillaengeaendern.md)
+* [Медная шина: Изменить места изгиба](eplan/copper_h_kupferteilbiegestelleaendern.md)
+* [Медная шина: Добавить новое место изгиба](eplan/copper_h_kupferteilneuebiegestelle.md)

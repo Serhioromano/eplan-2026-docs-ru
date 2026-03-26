@@ -53,18 +53,12 @@
 
 Чтобы в таком отчете учитывались только данные текущей страницы функциональной схемы автоматизации, необходимо активировать настройку Текущая страница в диалоговом окне Определить отчет для формы вывода "Размещение вручную".
 
-См. также
+**См. также:**
 
-[Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
-
-[Функциональные схемы автоматизации в предварительном планировании](eplan/planningri_k_start.md)
-
-[Передача данных трубопровода](eplan/planningri_k_rohrleitungsdaten.md)
-
-[Определить трубопроводы на функциональной схеме автоматизации](eplan/planningri_h_rohrleitungdefinieren.md)
-
-[Выделить и обработать трассу трубопровода](eplan/planningri_h_rohrleitungmarkieren.md)
-
-[Вставить прерывания для трубопроводов](eplan/planningri_h_rohrleitungunterbrechen.md)
-
-[Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)
+* [Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
+* [Функциональные схемы автоматизации в предварительном планировании](eplan/planningri_k_start.md)
+* [Передача данных трубопровода](eplan/planningri_k_rohrleitungsdaten.md)
+* [Определить трубопроводы на функциональной схеме автоматизации](eplan/planningri_h_rohrleitungdefinieren.md)
+* [Выделить и обработать трассу трубопровода](eplan/planningri_h_rohrleitungmarkieren.md)
+* [Вставить прерывания для трубопроводов](eplan/planningri_h_rohrleitungunterbrechen.md)
+* [Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)

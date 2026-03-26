@@ -35,16 +35,11 @@
 
 Группы клемм сохраняются при копировании и вставке. Например, копируемые отдельные клеммы, которые относятся к различным многоуровневым клеммам, после вставки не группируются.
 
-См. также
+**См. также:**
 
-[Применение главных клемм](eplan/terminalgui_k_hauptklemmen.md)
-
-[Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-
-[Отчеты по клеммам с отображением выводов устройств](eplan/terminalgui_k_auswertungklemmen.md)
-
-[Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
-
-[Отобразить, добавить или удалить последовательные принадлежности](eplan/terminalgui_h_leistenzubehoererstlloesch.md)
-
-[Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)
+* [Применение главных клемм](eplan/terminalgui_k_hauptklemmen.md)
+* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
+* [Отчеты по клеммам с отображением выводов устройств](eplan/terminalgui_k_auswertungklemmen.md)
+* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
+* [Отобразить, добавить или удалить последовательные принадлежности](eplan/terminalgui_h_leistenzubehoererstlloesch.md)
+* [Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)

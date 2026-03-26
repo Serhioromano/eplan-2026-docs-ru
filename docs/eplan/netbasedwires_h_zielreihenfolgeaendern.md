@@ -18,8 +18,7 @@
   
 Измененная последовательность целей сохраняется.
 
-См. также
+**См. также:**
 
-[Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)
-
-[Определить шлейфы](eplan/netbasedwires_h_verbindungsketten.md)
+* [Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)
+* [Определить шлейфы](eplan/netbasedwires_h_verbindungsketten.md)

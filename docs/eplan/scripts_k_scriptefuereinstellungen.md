@@ -60,6 +60,6 @@ End Class 'SetSettingScriptДля считывания этой настройк
 
  
 
-См. также
+**См. также:**
 
-[Сценарии](eplan/scripts_k_start.md)
+* [Сценарии](eplan/scripts_k_start.md)

@@ -148,14 +148,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
-
-[Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
-
-[Диалоговое окно Тексты замены](eplan/eservicesgui_d_ersetzungstexte.md)
-
-[Диалоговое окно "Настройки: Общее" (проект, перевод) / Вкладка "Общее"](eplan/translategui_r_einstellungprojekt.md)
-
-[Предварительное определение индексированных свойств блока](eplan/blockproperties_k_vordefinition.md)
+* [Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
+* [Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
+* [Диалоговое окно Тексты замены](eplan/eservicesgui_d_ersetzungstexte.md)
+* [Диалоговое окно "Настройки: Общее" (проект, перевод) / Вкладка "Общее"](eplan/translategui_r_einstellungprojekt.md)
+* [Предварительное определение индексированных свойств блока](eplan/blockproperties_k_vordefinition.md)

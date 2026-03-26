@@ -56,14 +56,10 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
-
-[Присвоить набор значений объекту-заполнителю](eplan/macrosgui_h_wertesatzzuweisen.md)
-
-[Создать подробное планирование путем перетаскивания мышью](eplan/planninggui_h_makrosdragdrop.md)
-
-[Свойства блока](eplan/blockproperties_k_start.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
+* [Присвоить набор значений объекту-заполнителю](eplan/macrosgui_h_wertesatzzuweisen.md)
+* [Создать подробное планирование путем перетаскивания мышью](eplan/planninggui_h_makrosdragdrop.md)
+* [Свойства блока](eplan/blockproperties_k_start.md)

@@ -53,10 +53,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Импортировать в проект устройства и маршрутизируемые соединения: Принцип](eplan/projectprocessinggui_k_prinzip.md)
-
-[Диалоговое окно "Импортировать данные устройств"](eplan/projectprocessinggui_d_bmdatenimport.md)
-
-[Диалоговое окно "Импортировать данные соединений"](eplan/projectprocessinggui_d_verbindungsdatenimport.md)
+* [Импортировать в проект устройства и маршрутизируемые соединения: Принцип](eplan/projectprocessinggui_k_prinzip.md)
+* [Диалоговое окно "Импортировать данные устройств"](eplan/projectprocessinggui_d_bmdatenimport.md)
+* [Диалоговое окно "Импортировать данные соединений"](eplan/projectprocessinggui_d_verbindungsdatenimport.md)

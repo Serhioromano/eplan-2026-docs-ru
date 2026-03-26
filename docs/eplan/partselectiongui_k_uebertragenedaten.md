@@ -56,10 +56,8 @@
 Вид соединения |  22254 |  Соединение: обозначение типа |  31048  
 Единица измерения поперечного сечения / диаметра соединения |  22068 |  Единица измерения поперечного сечения / диаметра соединения |  31059  
   
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Диалоговое окно / вкладка "Присвоение данных изделия"](eplan/macrosgui_r_artikeldatenzuweisung.md)
-
-[Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Диалоговое окно / вкладка "Присвоение данных изделия"](eplan/macrosgui_r_artikeldatenzuweisung.md)
+* [Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)

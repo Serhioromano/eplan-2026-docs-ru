@@ -17,12 +17,9 @@
   
 Таким образом настраивается схема, которая будет применяться при вызове операции нумерации соединений.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-
-[Создать группы форматов](eplan/wirenumberinggui_h_formatgruppenerstellen.md)
-
-[Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+* [Создать группы форматов](eplan/wirenumberinggui_h_formatgruppenerstellen.md)
+* [Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)

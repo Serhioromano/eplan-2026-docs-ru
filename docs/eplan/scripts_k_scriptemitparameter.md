@@ -46,8 +46,7 @@ End Class "SimpleScriptWithParameters
 
 С помощью использования общих параметров командной строки, например /NoSplash, /Frame:0 и /Auto, можно запустить программу в невидимом режиме и после выполнения сценария снова закрыть.
 
-См. также
+**См. также:**
 
-[Сценарии](eplan/scripts_k_start.md)
-
-[Параметры командной строки Eplan](eplan/commandlinecall_k_start.md)
+* [Сценарии](eplan/scripts_k_start.md)
+* [Параметры командной строки Eplan](eplan/commandlinecall_k_start.md)

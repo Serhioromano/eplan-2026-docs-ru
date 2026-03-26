@@ -89,10 +89,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
-
-[Размещение точек определения соединений](eplan/wirenumberinggui_k_platzierungvdp.md)
+* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Размещение точек определения соединений](eplan/wirenumberinggui_k_platzierungvdp.md)

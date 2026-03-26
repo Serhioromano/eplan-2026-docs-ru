@@ -23,14 +23,10 @@
 
 В этом поле отображаются все выбранные Вами элементы формата. Чтобы выбрать элемент формата, выделите в поле Доступные элементы формата этот элемент формата и щелкните по кнопке  (Переместить направо).
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат: Свойство блока](eplan/eservicesgui_d_formatblockeigenschaft.md)
-
-[Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
-
-[Диалоговое окно Формат: Комментарий](eplan/eservicesgui_d_formatkommentar.md)
-
-[Диалоговое окно Формат: Вычисление](eplan/eservicesgui_d_formatberechnung.md)
-
-[Определить свойства блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
+* [Диалоговое окно Формат: Свойство блока](eplan/eservicesgui_d_formatblockeigenschaft.md)
+* [Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
+* [Диалоговое окно Формат: Комментарий](eplan/eservicesgui_d_formatkommentar.md)
+* [Диалоговое окно Формат: Вычисление](eplan/eservicesgui_d_formatberechnung.md)
+* [Определить свойства блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)

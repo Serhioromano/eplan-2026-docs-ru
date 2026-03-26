@@ -18,10 +18,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-
-[Вкладка Структура](eplan/prjmanagementgui_r_struktur.md)
-
-[Обозначение страниц согласно стандарту DIN EN 61355-1](eplan/projectstructure_k_objektkennzeichen.md)
+* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
+* [Вкладка Структура](eplan/prjmanagementgui_r_struktur.md)
+* [Обозначение страниц согласно стандарту DIN EN 61355-1](eplan/projectstructure_k_objektkennzeichen.md)

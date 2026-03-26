@@ -11,12 +11,9 @@
 ¶ |  Невозможно. Зарезервировано для символа разрыва строки в графическом редакторе.  
 Табуляция |  Невозможно. Зарезервирована как разделитель для файлов экспорта.  
   
-См. также
+**См. также:**
 
-[Словарь](eplan/translatedbgui_k_start.md)
-
-[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
-
-[Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-
-[Числа в ключевых словах и текстах](eplan/translatedbgui_k_zahlen.md)
+* [Словарь](eplan/translatedbgui_k_start.md)
+* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
+* [Числа в ключевых словах и текстах](eplan/translatedbgui_k_zahlen.md)

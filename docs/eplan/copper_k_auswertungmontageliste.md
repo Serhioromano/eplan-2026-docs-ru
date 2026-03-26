@@ -12,10 +12,8 @@
 
 Если необходимо узнать, какие устройства предусмотрены для генерирования таблицы для сборочного чертежа, создайте для навигатора пространства листа новый фильтр и для данного фильтра выберите свойство Создать таблицу для сборочного чертежа в качестве критерия фильтрации.
 
-См. также
+**См. также:**
 
-[Типы отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md#I_Montageliste)
-
-[Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)
-
-[Таблицы для сборочного чертежа: Принцип](eplan/cabinetgui_k_auswertungmontageliste.md)
+* [Типы отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md#I_Montageliste)
+* [Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)
+* [Таблицы для сборочного чертежа: Принцип](eplan/cabinetgui_k_auswertungmontageliste.md)

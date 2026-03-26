@@ -20,6 +20,6 @@
 7. Щелкните по кнопке [OK].
 8. Для обновления вида нажмите клавишу [F5].
 
-См. также
+**См. также:**
 
-[Разместить функции устройств](eplan/devicelistgui_h_geraeteplatzieren.md)
+* [Разместить функции устройств](eplan/devicelistgui_h_geraeteplatzieren.md)

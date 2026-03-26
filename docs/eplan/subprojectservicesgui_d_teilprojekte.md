@@ -54,12 +54,9 @@
 
 С помощью этой кнопки можно обновить главный проект, т. е. "сохранить" новые состояния частичных проектов без их повторной выгрузки.
 
-См. также
+**См. также:**
 
-[Частичные проекты](eplan/subprojectservicesgui_k_start.md)
-
-[Выгрузка частичных проектов](eplan/subprojectservicesgui_k_auslagern.md)
-
-[Сохранение частичных проектов](eplan/subprojectservicesgui_k_einlagern.md)
-
-[Области обработки](eplan/workingsection_k_start.md)
+* [Частичные проекты](eplan/subprojectservicesgui_k_start.md)
+* [Выгрузка частичных проектов](eplan/subprojectservicesgui_k_auslagern.md)
+* [Сохранение частичных проектов](eplan/subprojectservicesgui_k_einlagern.md)
+* [Области обработки](eplan/workingsection_k_start.md)

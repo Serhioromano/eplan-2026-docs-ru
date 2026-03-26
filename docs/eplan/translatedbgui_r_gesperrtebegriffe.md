@@ -16,8 +16,7 @@
 
 В этом поле изменяется ключевое слово, которое будет заменяться другим. Используя панель инструментов, можно создать, сохранить, скопировать или удалить ключевое слово для автокоррекции.
 
-См. также
+**См. также:**
 
-[Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
-
-[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
+* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)

@@ -68,18 +68,12 @@
 Свойства |  Открывает диалоговое окно Свойства (усл. обозначение): <...>. Обеспечивает обработку функции.  
 Свойства (общие) |  Открывает диалоговое окно Свойства (общие): <...>. Позволяет обрабатывать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
-
-[Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
-
-[Определить свойства соединений](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
-
-[Разместить соединения](eplan/connectionbrowsergui_h_verbindungenplatzieren.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
+* [Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Определить свойства соединений](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
+* [Разместить соединения](eplan/connectionbrowsergui_h_verbindungenplatzieren.md)

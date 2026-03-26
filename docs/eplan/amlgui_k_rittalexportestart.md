@@ -10,6 +10,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Экспорт данных изготовления для механической обработки электрошкафов в Rittal - RiPanel Processing Center](eplan/amlgui_h_rittalripanelprocessingcenterexportieren.md)
+* [Экспорт данных изготовления для механической обработки электрошкафов в Rittal - RiPanel Processing Center](eplan/amlgui_h_rittalripanelprocessingcenterexportieren.md)

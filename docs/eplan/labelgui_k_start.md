@@ -8,14 +8,10 @@
 * При выводе можно выбрать требуемый язык.
 * Для вывода можно использовать файлы в формате *.txt и Excel. В каждой схеме можно указать шаблон Excel, который сразу после вывода запускает Excel. При этом новый файл сразу загружается в Excel. Таким образом можно подготавливать формы в Excel, которые соответствуют определенному выводу.
 
-См. также
+**См. также:**
 
-[Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
-
-[Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-
-[Экспорт данных изготовления / маркировка: Способ действий](eplan/labelgui_k_vorgehensweise.md)
-
-[Шаблон Excel для экспорта данных изготовления / маркировки](eplan/labelgui_k_excelexportvorlagen.md)
-
-[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
+* [Экспорт данных изготовления / маркировка: Способ действий](eplan/labelgui_k_vorgehensweise.md)
+* [Шаблон Excel для экспорта данных изготовления / маркировки](eplan/labelgui_k_excelexportvorlagen.md)
+* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)

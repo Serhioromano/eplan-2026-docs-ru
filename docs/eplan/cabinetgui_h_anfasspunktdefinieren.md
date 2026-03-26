@@ -26,12 +26,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Вкладка Логика (точка захвата)](ged3dmateeditorgui_r_anfasspunkt_logik.htm)
-
-[Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
-
-[Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
-
-[Определить точку монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)
+* [Вкладка Логика (точка захвата)](ged3dmateeditorgui_r_anfasspunkt_logik.htm)
+* [Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
+* [Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
+* [Определить точку монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)

@@ -14,8 +14,7 @@
 
 В этом поле можно изменить слово, которое не требуется переводить.
 
-См. также
+**См. также:**
 
-[Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
-
-[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
+* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)

@@ -19,12 +19,9 @@
 
 При выборе кабеля имеется дополнительный фильтр для свойств жилы кабеля. Кроме того, можно определить специальный предварительный список изделий для изделия кабеля.
 
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
-
-[Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
-
-[Диалоговое окно Предварительный выбор изделий](eplan/partselectiongui_d_artikelvorauswahl.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
+* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Диалоговое окно Предварительный выбор изделий](eplan/partselectiongui_d_artikelvorauswahl.md)

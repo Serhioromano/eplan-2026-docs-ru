@@ -13,8 +13,7 @@
   
 Символы соединения отображаются соответствующим образом.
 
-См. также
+**См. также:**
 
-[Показывать символы соединений с определением цели или как точку](eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
-
-[Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)](eplan/gedviewer_d_einstellungenprojektallgemein.md)
+* [Показывать символы соединений с определением цели или как точку](eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)](eplan/gedviewer_d_einstellungenprojektallgemein.md)

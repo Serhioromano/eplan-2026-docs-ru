@@ -22,12 +22,9 @@
 ---|---  
 Выделить все (только список) |  Выделяет все записи в списке.  
   
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
-
-[Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
+* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)

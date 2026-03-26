@@ -36,12 +36,9 @@
 
 Если этот флажок не установлен, то линия с размерами (независимо от положения размерного числа) никогда не прерывается.
 
-См. также
+**См. также:**
 
-[Указания размеров](eplan/dimensiongui_k_start.md)
-
-[Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
-
-[Обработать указания размеров](eplan/dimensiongui_h_bemassungbearbeiten.md)
-
-[Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)
+* [Указания размеров](eplan/dimensiongui_k_start.md)
+* [Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
+* [Обработать указания размеров](eplan/dimensiongui_h_bemassungbearbeiten.md)
+* [Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)

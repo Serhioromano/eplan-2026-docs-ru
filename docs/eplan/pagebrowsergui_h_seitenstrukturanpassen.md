@@ -40,20 +40,13 @@
 
 Если из проекта со структурными идентификаторами (например, с блоками идентификаторов "Функциональное назначение" и "Место установки") выполняется копирование страниц в проект со структурой страниц, в которой используется схема идентификации "Функциональное назначение идентифицирующее" и "Место установки описывающее", можно пронумеровать эти страницы заново. Без этой нумерации имена страниц могут быть неоднозначными, так как идентифицирующая часть убирается.
 
-См. также
+**См. также:**
 
-[Вкладка Страницы](eplan/pagebrowsergui_r_seitenstruktur.md)
-
-[Вкладка ОУ](eplan/pagebrowsergui_r_ortkaestenstruktur.md)
-
-[Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
-
-[Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
-
-[Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
-
-[Создать идентификаторы при вставке новых страниц, ОУ и макросов](eplan/pleditorgui_h_kennzanlegenbeineuerseite.md)
+* [Вкладка Страницы](eplan/pagebrowsergui_r_seitenstruktur.md)
+* [Вкладка ОУ](eplan/pagebrowsergui_r_ortkaestenstruktur.md)
+* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
+* [Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
+* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
+* [Создать идентификаторы при вставке новых страниц, ОУ и макросов](eplan/pleditorgui_h_kennzanlegenbeineuerseite.md)

@@ -31,6 +31,6 @@
 
 [Вкладка Настройки](eplan/productionwiringgui_r_einstellungen.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Сборка проводов: <машина>](eplan/productionwiringgui_d_exportdrahtdaten.md)
+* [Диалоговое окно Сборка проводов: <машина>](eplan/productionwiringgui_d_exportdrahtdaten.md)

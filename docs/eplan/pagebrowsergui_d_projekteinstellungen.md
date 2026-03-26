@@ -86,14 +86,10 @@
 
 Если этот флажок установлен, то при генерации содержания автоматически запускается прогон отчета, который подсчитывает и перечисляет страницы с одинаковым значением вышеназванного свойства.
 
-См. также
+**См. также:**
 
-[Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-
-[Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-
-[Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-
-[Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
+* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
+* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)

@@ -54,8 +54,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Обзор свойств](eplan/userinterface_k_eigenschaftenuebersicht.md)
-
-[Схемы](eplan/schemeconfig_k_start.md)
+* [Обзор свойств](eplan/userinterface_k_eigenschaftenuebersicht.md)
+* [Схемы](eplan/schemeconfig_k_start.md)

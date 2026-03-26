@@ -26,10 +26,8 @@
 (Создать) |  С помощью этой кнопки можно открыть диалоговое окно Выбор изделия и выбрать там другие изделия, которые переносятся в список предварительного выбора изделия.  
 (Удалить) |  С помощью этой кнопки можно удалить выделенные изделия из текущего списка.  
   
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
-
-[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-
-[Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
+* [Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
+* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)

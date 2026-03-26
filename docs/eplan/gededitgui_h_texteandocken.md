@@ -47,12 +47,9 @@
   
 Текст свойства отсоединяется, и теперь его можно перемещать отдельно.
 
-См. также
+**См. также:**
 
-[Тексты](eplan/gededitgui_k_texte.md)
-
-[Вставить текст](eplan/gededitgui_h_texte.md)
-
-[Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-
-[Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
+* [Тексты](eplan/gededitgui_k_texte.md)
+* [Вставить текст](eplan/gededitgui_h_texte.md)
+* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
+* [Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)

@@ -41,16 +41,11 @@ Eplan обновляет соединения в зависимости от п�
   
 После запроса на подтверждение соответствующие соединения будут удалены.
 
-См. также
+**См. также:**
 
-[Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
-
-[Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
-
-[Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-
-[Определить свойства соединений](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
+* [Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+* [Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
+* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Определить свойства соединений](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)

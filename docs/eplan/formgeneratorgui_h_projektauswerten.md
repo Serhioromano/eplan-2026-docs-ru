@@ -15,12 +15,9 @@
   
 Из всех шаблонов отчетов генерируются отчеты. Дополнительно обновляются все существующие отчеты. Все отчеты выводятся во вкладке Отчеты или в навигаторе страниц.
 
-См. также
+**См. также:**
 
-[Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Автоматическое / не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-
-[Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое / не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)

@@ -85,14 +85,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-
-[Управление изделиями: Модули](eplan/articlesgui_k_module.md)
-
-[Создать модули](eplan/articlesgui_h_moduleanlegen.md)
-
-[Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
-
-[Создать дополнительные части](eplan/articlesgui_h_ergaenzungsteileanlegen.md)
+* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Управление изделиями: Модули](eplan/articlesgui_k_module.md)
+* [Создать модули](eplan/articlesgui_h_moduleanlegen.md)
+* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [Создать дополнительные части](eplan/articlesgui_h_ergaenzungsteileanlegen.md)

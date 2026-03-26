@@ -29,12 +29,9 @@
 Неразмещенное соединение, имеющее всего лишь одну цель, может быть использовано, если эта цель соответствует ему.  
 Неразмещенное соединение без целей может быть использовано всегда. Такие соединения всегда выводятся в самом низу списка.
 
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
-
-[Разместить соединения](eplan/connectionbrowsergui_h_verbindungenplatzieren.md)
-
-[Сгенерировать неразмещенные соединения](eplan/planningconnections_h_createconnections.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
+* [Разместить соединения](eplan/connectionbrowsergui_h_verbindungenplatzieren.md)
+* [Сгенерировать неразмещенные соединения](eplan/planningconnections_h_createconnections.md)

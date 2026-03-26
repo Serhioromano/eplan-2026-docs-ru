@@ -70,12 +70,9 @@
   
 Тексты изделий импортируются.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-
-[Диалоговое окно "Настройки: Вне зависимости от проекта" / вкладка "Общее"](eplan/modaldialogs_r_einstellungprojekt.md)
-
-[Диалоговое окно "Настройки: Управление изделиями (переводимые свойства)" / вкладка "Управление изделиями"](eplan/translategui_r_artikelverwaltung.md)
-
-[Многоязычные тексты ](eplan/translategui_k_mehrsprachigetexte.md)
+* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Диалоговое окно "Настройки: Вне зависимости от проекта" / вкладка "Общее"](eplan/modaldialogs_r_einstellungprojekt.md)
+* [Диалоговое окно "Настройки: Управление изделиями (переводимые свойства)" / вкладка "Управление изделиями"](eplan/translategui_r_artikelverwaltung.md)
+* [Многоязычные тексты ](eplan/translategui_k_mehrsprachigetexte.md)

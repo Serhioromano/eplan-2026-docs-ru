@@ -47,10 +47,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)
-
-[Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-
-[Вкладка Формат (Устройство)](eplan/devicetaggui_r_format.md)
+* [Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)
+* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Вкладка Формат (Устройство)](eplan/devicetaggui_r_format.md)

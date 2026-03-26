@@ -31,8 +31,7 @@
 
 В этом поле при необходимости можно ввести текст описания гиперссылки.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Вставить гиперссылки](eplan/gededitgui_h_hyperlinks.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Вставить гиперссылки](eplan/gededitgui_h_hyperlinks.md)

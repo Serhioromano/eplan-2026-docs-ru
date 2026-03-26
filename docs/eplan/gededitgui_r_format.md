@@ -392,22 +392,14 @@
 
 В этом поле задается размер квадрата для QR-кода.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-
-[Вставить тексты](eplan/gededitgui_h_texte.md)
-
-[Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
-
-[Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)
-
-[Вставить и обработать специальные тексты](eplan/formeditorgui_h_sondertexteeinfuegen.md)
-
-[Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
-
-[Вставить QR-код](eplan/gededitgui_h_qrcodes.md)
-
-[Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
+* [Вставить тексты](eplan/gededitgui_h_texte.md)
+* [Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
+* [Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)
+* [Вставить и обработать специальные тексты](eplan/formeditorgui_h_sondertexteeinfuegen.md)
+* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Вставить QR-код](eplan/gededitgui_h_qrcodes.md)
+* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)

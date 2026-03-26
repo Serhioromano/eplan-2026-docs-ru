@@ -89,12 +89,9 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Управление слоями](eplan/layermanager_k_start.md)
-
-[Слои: Принцип](eplan/layermanager_k_prinzip.md)
-
-[Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
-
-[Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Управление слоями](eplan/layermanager_k_start.md)
+* [Слои: Принцип](eplan/layermanager_k_prinzip.md)
+* [Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
+* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)

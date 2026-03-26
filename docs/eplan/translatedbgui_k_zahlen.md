@@ -70,8 +70,7 @@ Terminal with 3 connectors |  Terminal with 3 connectors
 ---|---  
 Terminal with 3 connectors |  Terminal with %0 connectors  
   
-См. также
+**См. также:**
 
-[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
-
-[Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
+* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)

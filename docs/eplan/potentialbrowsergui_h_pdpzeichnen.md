@@ -17,10 +17,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
-
-[Вкладка Определение потенциала](eplan/devicetaggui_r_pdp.md)
-
-[Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
+* [Вкладка Определение потенциала](eplan/devicetaggui_r_pdp.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)

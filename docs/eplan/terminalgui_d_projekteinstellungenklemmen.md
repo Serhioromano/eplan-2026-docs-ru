@@ -46,8 +46,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Раздельное представление клемм](eplan/terminalgui_k_verteiltedarstellungklemmen.md)
-
-[Создание перемычек при распределенных клеммах](eplan/terminalgui_k_brueckenbildung.md)
+* [Раздельное представление клемм](eplan/terminalgui_k_verteiltedarstellungklemmen.md)
+* [Создание перемычек при распределенных клеммах](eplan/terminalgui_k_brueckenbildung.md)

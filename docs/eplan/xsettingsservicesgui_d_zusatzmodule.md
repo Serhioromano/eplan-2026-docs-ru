@@ -21,8 +21,7 @@
 (Создать) |  Открывает диалоговое окно Выбрать Add-on, в котором можно выбрать файл install.xml соответствующего дополнительного модуля.  
 (Удалить) |  Удаляет Add-on из таблицы. Удаление возможно при условии, что Add-on не зарегистрирован. Как правило, Add-ons программы Eplan удалять нельзя.  
   
-См. также
+**См. также:**
 
-[Зарегистрировать Add-ons вручную / автоматически](eplan/settingsmastergui_h_zusatzmodulregistrieren.md)
-
-[Диалоговое окно Настройки: Add-ons](eplan/xsettingsservicesgui_d_einstellzusatzmodule.md)
+* [Зарегистрировать Add-ons вручную / автоматически](eplan/settingsmastergui_h_zusatzmodulregistrieren.md)
+* [Диалоговое окно Настройки: Add-ons](eplan/xsettingsservicesgui_d_einstellzusatzmodule.md)

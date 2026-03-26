@@ -39,16 +39,11 @@
 
 Кроме того, можно управлять устройствами ПЛК, которые состоят из нескольких интегрированных узлов и имеют несколько разных диапазонов адресов с разными начальными адресами. Для этого доступно до двенадцати подустройств ПЛК, которые определяются с помощью соответствующих свойств.
 
-См. также
+**См. также:**
 
-[Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
-
-[Автоматическая адресация выводов устройства ПЛК](eplan/plcgui_h_automatisch_adressieren.md)
-
-[Диалоговое окно Адресация выводов устройства ПЛК](eplan/plcgui_d_anschluesseneuadressieren.md)
-
-[Вкладка Блок ПЛК](eplan/devicetaggui_r_spskarte.md)
-
-[Подустройства ПЛК](eplan/plcgui_k_untergeraete.md)
+* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Автоматическая адресация выводов устройства ПЛК](eplan/plcgui_h_automatisch_adressieren.md)
+* [Диалоговое окно Адресация выводов устройства ПЛК](eplan/plcgui_d_anschluesseneuadressieren.md)
+* [Вкладка Блок ПЛК](eplan/devicetaggui_r_spskarte.md)
+* [Подустройства ПЛК](eplan/plcgui_k_untergeraete.md)

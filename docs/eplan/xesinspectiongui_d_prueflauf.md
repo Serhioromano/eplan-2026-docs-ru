@@ -22,10 +22,8 @@
 
 В этом случае все другие настройки контрольного прогона или выбор, сделанный в навигаторах, не учитываются. Поэтому поле Настройки и флажок Применить ко всему проекту будут недоступны.
 
-См. также
+**См. также:**
 
-[Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-
-[Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-
-[Проверить данные проекта](eplan/msgmanagementgui_h_prueflauf.md)
+* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
+* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
+* [Проверить данные проекта](eplan/msgmanagementgui_h_prueflauf.md)

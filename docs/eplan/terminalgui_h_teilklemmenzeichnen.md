@@ -64,10 +64,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
-
-[Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
-
-[Диалоговое окно Оптимизация распределенных клемм](eplan/terminalgui_d_teilklemmenoptimieren.md)
+* [Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
+* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
+* [Диалоговое окно Оптимизация распределенных клемм](eplan/terminalgui_d_teilklemmenoptimieren.md)

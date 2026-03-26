@@ -58,12 +58,9 @@
 * Экспортировать: Если выбран этот параметр, выполняется вывод данных, но внешнее приложение не запускается.
 * Экспортировать и запустить приложение: Если выбран этот параметр, выполняется вывод данных и запускается внешнее приложение, например Notepad.
 
-См. также
+**См. также:**
 
-[Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
-
-[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
-
-[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
-
-[Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
+* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
+* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)

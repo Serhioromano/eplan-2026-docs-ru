@@ -17,20 +17,13 @@
 * Выводы устройств клемм можно представлять раздельно с помощью распределенных клемм.
 * Вы можете импортировать и экспортировать клеммники.
 
-См. также
+**См. также:**
 
-[Управление клеммниками](eplan/terminalgui_k_verwaltungleisten.md)
-
-[Управление клеммами](eplan/terminalgui_k_verwaltung.md)
-
-[Обработка клеммных данных](eplan/terminalgui_k_arbeitsweise.md)
-
-[Применение главных клемм](eplan/terminalgui_k_hauptklemmen.md)
-
-[Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-
-[Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)
-
-[Раздельное представление клемм](eplan/terminalgui_k_verteiltedarstellungklemmen.md)
-
-[Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)
+* [Управление клеммниками](eplan/terminalgui_k_verwaltungleisten.md)
+* [Управление клеммами](eplan/terminalgui_k_verwaltung.md)
+* [Обработка клеммных данных](eplan/terminalgui_k_arbeitsweise.md)
+* [Применение главных клемм](eplan/terminalgui_k_hauptklemmen.md)
+* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
+* [Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)
+* [Раздельное представление клемм](eplan/terminalgui_k_verteiltedarstellungklemmen.md)
+* [Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)

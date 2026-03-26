@@ -22,8 +22,7 @@
 
 [Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Трехмерный чертеж монтажных поверхностей: принцип](eplan/cabinetgui_k_prinzip.md)
-
-[Диалоговое окно Пространство листа — <Имя проекта>](eplan/cabinetgui_d_navigator.md)
+* [Трехмерный чертеж монтажных поверхностей: принцип](eplan/cabinetgui_k_prinzip.md)
+* [Диалоговое окно Пространство листа — <Имя проекта>](eplan/cabinetgui_d_navigator.md)

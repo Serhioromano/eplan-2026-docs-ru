@@ -43,14 +43,10 @@
 
 В этом поле отображается имя проекта, выделенного в списке Проекты. Чтобы не перезаписывать уже существующий проект, следует задать другое имя.
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
-
-[Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
-
-[Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
-
-[Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
+* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
+* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
+* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)

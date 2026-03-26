@@ -8,8 +8,7 @@ ECLASS — это стандартизированная межотраслев�
 
 Импорт осуществляется с помощью схемы, которую вы выбираете в выведенном диалоговом окне. В этой схеме происходит конфигурация присвоения групп и признаков ECLASS группам продуктов и свойствам изделий базы данных изделий Eplan.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Импортировать записи данных](eplan/partsmanagementgui_d_artikelimport.md)
-
-[Диалоговое окно Настройки: Импорт ECLASS](eplan/partsimportbmecatgui_d_einstellungeneclass.md)
+* [Диалоговое окно Импортировать записи данных](eplan/partsmanagementgui_d_artikelimport.md)
+* [Диалоговое окно Настройки: Импорт ECLASS](eplan/partsimportbmecatgui_d_einstellungeneclass.md)

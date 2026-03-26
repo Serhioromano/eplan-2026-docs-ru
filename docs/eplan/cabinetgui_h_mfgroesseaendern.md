@@ -24,8 +24,7 @@
   
 
 
-См. также
+**См. также:**
 
-[Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
-
-[Выровнять ось X / Y монтажных поверхностей](eplan/cabinetgui_h_xyachseausrichten.md)
+* [Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
+* [Выровнять ось X / Y монтажных поверхностей](eplan/cabinetgui_h_xyachseausrichten.md)

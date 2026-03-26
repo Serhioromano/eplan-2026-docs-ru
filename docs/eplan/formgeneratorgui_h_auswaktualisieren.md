@@ -22,12 +22,9 @@
   
 Обновляются все отчеты выделенного уровня отчета и все подчиненные отчеты.
 
-См. также
+**См. также:**
 
-[Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-
-[Автоматическое / не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-
-[Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Автоматическое / не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)

@@ -36,14 +36,10 @@
 
 При таком способе данные кабеля и штекеров переносятся на модуль. Один сгенерированный таким способом модуль содержит шаблоны функций для всех функций предварительно определенного кабеля и хранится в проекте как сохраненное изделие. Один или несколько нижестоящих штекеров кабеля заносятся для модуля во вкладку Модуль как подизделия. Если какое-либо не внесенное в определение штекера изделие еще отсутствует в управлении изделиями, это изделие тоже будет сгенерировано (как отдельная часть).
 
-См. также
+**См. также:**
 
-[Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
-
-[Предварительно собранные кабели](eplan/cablegui_k_vorkonfektioniertekabel.md)
-
-[Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
-
-[Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
-
-[Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
+* [Предварительно собранные кабели](eplan/cablegui_k_vorkonfektioniertekabel.md)
+* [Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
+* [Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)

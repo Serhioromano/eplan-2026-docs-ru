@@ -4,12 +4,9 @@
 
 При изменении стандарта страницы проекта можно адаптировать к другой рамке. Данные проекта будут таким образом представлены в горизонтальном или вертикальном формате.
 
-См. также
+**См. также:**
 
-[Изменение стандарта](eplan/changestandardsgui_k_start.md)
-
-[Замена символов](eplan/changestandardsgui_k_symbolaustausch.md)
-
-[Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
-
-[Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
+* [Изменение стандарта](eplan/changestandardsgui_k_start.md)
+* [Замена символов](eplan/changestandardsgui_k_symbolaustausch.md)
+* [Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
+* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)

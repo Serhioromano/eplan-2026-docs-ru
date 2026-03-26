@@ -10,8 +10,7 @@
 
 Дополнительно к Eplan-справке справочная система содержит еще "Обзоры Eplan". Здесь вы можете получить обширную информацию по специальным темам (например, свойства и элементы заполнения Eplan).
 
-См. также
+**См. также:**
 
-[Использование справочной системы](eplan/helpsystem_h_nutzen.md)
-
-[Вид Backstage: Справка](eplan/helpsystem_d_backstagehilfe.md)
+* [Использование справочной системы](eplan/helpsystem_h_nutzen.md)
+* [Вид Backstage: Справка](eplan/helpsystem_d_backstagehilfe.md)

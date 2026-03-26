@@ -61,10 +61,8 @@
 
 [Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Проводной монтаж](eplan/harnessgui_k_start.md)
-
-[Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-
-[Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Проводной монтаж](eplan/harnessgui_k_start.md)
+* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
+* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)

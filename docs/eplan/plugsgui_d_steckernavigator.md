@@ -63,12 +63,9 @@
 Свойства |  Открывает диалоговое окно Свойства (усл. обозначение): <...>. Обеспечивает обработку функции.  
 Свойства (общие) |  Открывает диалоговое окно Свойства (общие): <...>. Позволяет обрабатывать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Штекеры](eplan/plugsgui_k_start.md)
-
-[Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
-
-[Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-
-[Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
+* [Штекеры](eplan/plugsgui_k_start.md)
+* [Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
+* [Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
+* [Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)

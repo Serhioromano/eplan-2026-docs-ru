@@ -44,12 +44,9 @@
 
 Если флажок не установлен, для свойства на просмотр выводится значение первого соединения, которое определяет объем. Это значение в этом случае равно для всего объема (например, сети).
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-
-[Диалоговое окно Нумерация соединений: Форматы](eplan/wirenumberinggui_d_verbnumformate.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+* [Диалоговое окно Нумерация соединений: Форматы](eplan/wirenumberinggui_d_verbnumformate.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)

@@ -99,10 +99,8 @@
 * Отображать пиктограммы только для обрабатываемых полей ввода: обозначаются только те многоязычные поля ввода, в которых возможен ввод.
 * Никогда не отображать пиктограммы: многоязычные поля ввода не обозначаются.
 
-См. также
+**См. также:**
 
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-
-[Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
-
-[Многоязычные тексты](eplan/translategui_k_mehrsprachigetexte.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
+* [Многоязычные тексты](eplan/translategui_k_mehrsprachigetexte.md)

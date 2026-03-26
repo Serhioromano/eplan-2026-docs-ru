@@ -17,12 +17,9 @@
 
 Проект с замечаниями — это проект, который вы хотите проверить. В нем содержится продвинутое состояние проекта Проверьте, удовлетворяет ли ваш собственный проект установленным стандартам или отвечает проект вашим требованиям после прохождения третьей стадии обработки.
 
-См. также
+**См. также:**
 
-[Проверка проекта: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-
-[Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-
-[Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
-
-[Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)
+* [Проверка проекта: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
+* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
+* [Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)

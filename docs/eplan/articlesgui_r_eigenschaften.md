@@ -530,20 +530,13 @@
 
 Введите здесь маркировку Ассоциации электротехники, электроники и информационных технологий.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-
-[Вкладка Обзор](eplan/articlesgui_r_uebersicht.md)
-
-[Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)
-
-[Вкладка Изделия (Список принадлежностей)](eplan/articlesgui_r_zubehoerlisteartikel.md)
-
-[Вкладка Размещение (размещение принадлежностей)](eplan/articlesgui_r_platzierung.md)
-
-[Вкладка Монтажные отверстия (схема сверления)](eplan/articlesgui_r_durchbrueche.md)
-
-[Вкладка "Выводы устройства" (схема соединений)](eplan/articlesgui_r_anschluesse.md)
-
-[Диалоговое окно "Конфигурировать свойства" / диалоговое окно "Конфигурировать представление"](eplan/modaldialogsdb_d_eigenschaftskonfiguration.md)
+* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Вкладка Обзор](eplan/articlesgui_r_uebersicht.md)
+* [Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)
+* [Вкладка Изделия (Список принадлежностей)](eplan/articlesgui_r_zubehoerlisteartikel.md)
+* [Вкладка Размещение (размещение принадлежностей)](eplan/articlesgui_r_platzierung.md)
+* [Вкладка Монтажные отверстия (схема сверления)](eplan/articlesgui_r_durchbrueche.md)
+* [Вкладка "Выводы устройства" (схема соединений)](eplan/articlesgui_r_anschluesse.md)
+* [Диалоговое окно "Конфигурировать свойства" / диалоговое окно "Конфигурировать представление"](eplan/modaldialogsdb_d_eigenschaftskonfiguration.md)

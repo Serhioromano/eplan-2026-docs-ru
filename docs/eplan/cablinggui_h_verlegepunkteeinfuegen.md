@@ -25,12 +25,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Точки маршрутизации топологии](eplan/cablinggui_k_verlegepunkte.md)
-
-[Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
-
-[Маршрутизация соединений между различными структурами идентификаторов](eplan/cablinggui_h_strukturenverbinden.md)
-
-[Вкладка Подключенные структуры](eplan/devicetaggui_r_cablingstrukturen.md)
+* [Точки маршрутизации топологии](eplan/cablinggui_k_verlegepunkte.md)
+* [Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
+* [Маршрутизация соединений между различными структурами идентификаторов](eplan/cablinggui_h_strukturenverbinden.md)
+* [Вкладка Подключенные структуры](eplan/devicetaggui_r_cablingstrukturen.md)

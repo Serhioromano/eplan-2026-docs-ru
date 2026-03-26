@@ -29,8 +29,7 @@
 Схема сохранится, и автоматически будет создан файл сценария (*.cs).
 8. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
-
-[Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)
+* [Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
+* [Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)

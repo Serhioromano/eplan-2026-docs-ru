@@ -16,6 +16,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)

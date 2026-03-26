@@ -52,10 +52,8 @@
 3. Растяните прямоугольник от центра и задайте его конечную точку.
 4. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Использовать область ввода данных](eplan/gededitgui_h_kommandozeile.md)
-
-[Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Использовать область ввода данных](eplan/gededitgui_h_kommandozeile.md)
+* [Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)

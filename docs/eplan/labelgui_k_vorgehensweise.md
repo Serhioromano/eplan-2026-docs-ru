@@ -7,14 +7,10 @@
 * [Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md) или [Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md): Необходимо решить, будет ли маркировка выводится в формате *.txt или Excel и ввести соответствующие настройки.
 * [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md): Следует указать, в каком объеме и в какой последовательности должны выводиться данные.
 
-См. также
+**См. также:**
 
-[Экспорт данных изготовления / маркировка](eplan/labelgui_k_start.md)
-
-[Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
-
-[Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-
-[Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
-
-[Шаблон Excel для экспорта данных изготовления / маркировки](eplan/labelgui_k_excelexportvorlagen.md)
+* [Экспорт данных изготовления / маркировка](eplan/labelgui_k_start.md)
+* [Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
+* [Шаблон Excel для экспорта данных изготовления / маркировки](eplan/labelgui_k_excelexportvorlagen.md)

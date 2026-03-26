@@ -21,8 +21,7 @@
   
 При запуске программы Eplan в следующий раз дополнительный модуль Add-on зарегистрируется автоматически.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Add-ons](eplan/xsettingsservicesgui_d_einstellzusatzmodule.md)
-
-[Диалоговое окно Add-ons](eplan/xsettingsservicesgui_d_zusatzmodule.md)
+* [Диалоговое окно Настройки: Add-ons](eplan/xsettingsservicesgui_d_einstellzusatzmodule.md)
+* [Диалоговое окно Add-ons](eplan/xsettingsservicesgui_d_zusatzmodule.md)

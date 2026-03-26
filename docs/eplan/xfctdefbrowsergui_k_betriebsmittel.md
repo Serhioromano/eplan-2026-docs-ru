@@ -32,8 +32,7 @@
 
 Вспомогательный контакт 58;59 также относится к устройству K1, однако он не соответствует ни одному из шаблонов функций изделий. Соответствующий контрольный прогон предупредит вас об этом.
 
-См. также
+**См. также:**
 
-[Функции](eplan/xfctdefbrowsergui_k_start.md)
-
-[Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
+* [Функции](eplan/xfctdefbrowsergui_k_start.md)
+* [Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)

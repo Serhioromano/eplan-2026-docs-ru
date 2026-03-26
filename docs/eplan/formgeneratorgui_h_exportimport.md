@@ -31,12 +31,9 @@
 В следующем диалоговом окне настроен каталог, который внесен в настройки в качестве каталога схем.
 4. Перейдите в каталог, в котором находятся данные, выделите данные и нажмите [OK].
 
-См. также
+**См. также:**
 
-[Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-
-[Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Отчеты](eplan/formgeneratorgui_k_start.md)

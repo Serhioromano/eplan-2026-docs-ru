@@ -32,14 +32,10 @@
 8. Аналогично поступайте и с другими символами соединения, которые Вы хотите вставить на странице.
 9. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].
 
-См. также
+**См. также:**
 
-[Показывать символы соединений с определением цели или как точку](eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
-
-[Определить настройки отображения символов соединений](eplan/egedgui_h_einstellungenanzeigeverdrahtung.md)
-
-[Диалоговое окно Тройник "Направление"](eplan/egedgui_d_tstueck.md)
-
-[Диалоговое окно Перемычка](eplan/egedgui_d_bruecke.md)
-
-[Диалоговое окно Перекрестное соединение](eplan/egedgui_d_kreuzung.md)
+* [Показывать символы соединений с определением цели или как точку](eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
+* [Определить настройки отображения символов соединений](eplan/egedgui_h_einstellungenanzeigeverdrahtung.md)
+* [Диалоговое окно Тройник "Направление"](eplan/egedgui_d_tstueck.md)
+* [Диалоговое окно Перемычка](eplan/egedgui_d_bruecke.md)
+* [Диалоговое окно Перекрестное соединение](eplan/egedgui_d_kreuzung.md)

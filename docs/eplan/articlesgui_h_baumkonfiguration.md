@@ -27,10 +27,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
-
-[Диалоговое окно Конфигурация дерева](eplan/partsmanagementgui_d_baumkonfiguration.md)
-
-[Диалоговое окно Конфигурация дерева — Главные узлы](eplan/partsmanagementgui_d_baumkonfigurationhauptknoten.md)
+* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [Диалоговое окно Конфигурация дерева](eplan/partsmanagementgui_d_baumkonfiguration.md)
+* [Диалоговое окно Конфигурация дерева — Главные узлы](eplan/partsmanagementgui_d_baumkonfigurationhauptknoten.md)

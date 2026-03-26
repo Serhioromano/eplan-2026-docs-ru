@@ -36,12 +36,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Поворачивание и зеркальное отображение](eplan/gededitgui_k_drehenspiegeln.md)
-
-[Использование области ввода данных](eplan/gededitgui_h_kommandozeile.md)
-
-[Работа с вариантами символов](eplan/symboleditorgui_h_mitsymbolvariantenarbeiten.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Поворачивание и зеркальное отображение](eplan/gededitgui_k_drehenspiegeln.md)
+* [Использование области ввода данных](eplan/gededitgui_h_kommandozeile.md)
+* [Работа с вариантами символов](eplan/symboleditorgui_h_mitsymbolvariantenarbeiten.md)

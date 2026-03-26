@@ -68,8 +68,7 @@
 * Создать
 * Дополнительные.
 
-См. также
+**См. также:**
 
-[Диалоговое окно "Импортировать данные устройств"](eplan/projectprocessinggui_d_bmdatenimport.md)
-
-[Диалоговое окно "Импортировать данные соединений"](eplan/projectprocessinggui_d_verbindungsdatenimport.md)
+* [Диалоговое окно "Импортировать данные устройств"](eplan/projectprocessinggui_d_bmdatenimport.md)
+* [Диалоговое окно "Импортировать данные соединений"](eplan/projectprocessinggui_d_verbindungsdatenimport.md)

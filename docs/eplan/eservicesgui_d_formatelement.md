@@ -34,12 +34,9 @@
 
 Алфавитно-числовые счетчики сортируются по символам слева направа (как в столбцах в Excel). Если, например, Вы предварительно задали символы "AKS", то имеет место следующий счет: A, K, S, AA, AK, AS, KA, ..., AAA, AAK, AAS, AKA ..., AAAA, AAAK, ...
 
-См. также
+**См. также:**
 
-[Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-
-[Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-
-[Исключить группы устройств из автоматической нумерации](eplan/numerationgui_h_einstellungentreffen.md)
-
-[Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)
+* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
+* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
+* [Исключить группы устройств из автоматической нумерации](eplan/numerationgui_h_einstellungentreffen.md)
+* [Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)

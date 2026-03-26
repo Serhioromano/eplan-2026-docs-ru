@@ -41,8 +41,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Исходные точки: Принцип](eplan/cabinetgui_k_bezugspunkte.md)
-
-[Отображение инструмента для монтажных работ](eplan/cabinetgui_h_montagehilfenanzeigen.md)
+* [Исходные точки: Принцип](eplan/cabinetgui_k_bezugspunkte.md)
+* [Отображение инструмента для монтажных работ](eplan/cabinetgui_h_montagehilfenanzeigen.md)

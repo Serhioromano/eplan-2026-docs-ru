@@ -56,8 +56,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Расчет общей мощности потерь на распределительных устройствах: Принцип](eplan/cabinetgui_k_verlustleistungprinzip.md)
-
-[Диалоговое окно "Рассчитать мощность потерь"](eplan/cabinetgui_d_verlustleistungberechnen.md)
+* [Расчет общей мощности потерь на распределительных устройствах: Принцип](eplan/cabinetgui_k_verlustleistungprinzip.md)
+* [Диалоговое окно "Рассчитать мощность потерь"](eplan/cabinetgui_d_verlustleistungberechnen.md)

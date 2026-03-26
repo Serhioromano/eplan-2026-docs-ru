@@ -20,6 +20,6 @@
 
 * [Свойства отображения: Размещенное свойство](eplan/devicetaggui_r_anzeigeeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+* [Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)

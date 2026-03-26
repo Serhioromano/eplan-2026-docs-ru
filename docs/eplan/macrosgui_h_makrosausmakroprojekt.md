@@ -68,22 +68,14 @@
 
  
 
-См. также
+**См. также:**
 
-[Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
-
-[Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
-
-[Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
-
-[Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
-
-[Создать 3D-макросы](cabinetgui_h_3dmakroerstellen.htm)
-
-[Диалоговое окно Макросы — <Имя проекта>](eplan/macrosgui_d_makronavigator.md)
-
-[Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)
-
-[Вкладка Определение макроса](eplan/macrosgui_r_makrodefinition.md)
-
-[Рисование блоков ломаными линиями](eplan/blackbox_h_polygonalekaesten.md)
+* [Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
+* [Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
+* [Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
+* [Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
+* [Создать 3D-макросы](cabinetgui_h_3dmakroerstellen.htm)
+* [Диалоговое окно Макросы — <Имя проекта>](eplan/macrosgui_d_makronavigator.md)
+* [Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)
+* [Вкладка Определение макроса](eplan/macrosgui_r_makrodefinition.md)
+* [Рисование блоков ломаными линиями](eplan/blackbox_h_polygonalekaesten.md)

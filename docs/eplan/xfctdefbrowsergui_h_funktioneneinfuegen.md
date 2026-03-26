@@ -25,16 +25,11 @@
   
 На условном обозначении отображаются новые и измененные свойства (если они выбраны для отображения).
 
-См. также
+**См. также:**
 
-[Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
-
-[Устройства](eplan/devicelistgui_k_start.md)
-
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)
-
-[Изменить функции](eplan/xfctdefbrowsergui_h_funktionaendern.md)
-
-[Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
+* [Устройства](eplan/devicelistgui_k_start.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)
+* [Изменить функции](eplan/xfctdefbrowsergui_h_funktionaendern.md)
+* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)

@@ -85,14 +85,10 @@
 
 На основании большого количества разных видов перекрестных ссылок, которые могут иметь комбинированное условное обозначение на схеме соединений, система Eplan предоставляет возможность различать между собой виды перекрестных ссылок при помощи установки определенного оптического префикса. Префикс может быть определен в виде любого символа или строки символов для различных типов страниц (многополюсной страницы схемы соединений, страницы типа "Обзор" и т. д.). Настройки специфичны для каждого конкретного проекта и могут быть заданы в Файл > Настройки > Проекты > "Имя проекта" > Перекр. ссылки / образы контактов > Общее в таблице со столбцами Тип страниц / Префикс.
 
-См. также
+**См. также:**
 
-[Генерировать перекрестные ссылки оборудования](eplan/xessettingsgui_h_symbolquerverweiseerzeugen.md)
-
-[Генерировать парные перекрестные ссылки](eplan/xessettingsgui_h_paarquerverweiseerzeugen.md)
-
-[Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
-
-[Генерировать перекрестные ссылки точек разрыва](eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
-
-[Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
+* [Генерировать перекрестные ссылки оборудования](eplan/xessettingsgui_h_symbolquerverweiseerzeugen.md)
+* [Генерировать парные перекрестные ссылки](eplan/xessettingsgui_h_paarquerverweiseerzeugen.md)
+* [Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
+* [Генерировать перекрестные ссылки точек разрыва](eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
+* [Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)

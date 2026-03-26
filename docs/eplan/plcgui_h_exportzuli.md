@@ -24,8 +24,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)
-
-[Импортировать или синхронизировать списки присвоений](eplan/plcgui_h_importzuli.md)
+* [Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)
+* [Импортировать или синхронизировать списки присвоений](eplan/plcgui_h_importzuli.md)

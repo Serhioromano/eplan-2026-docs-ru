@@ -54,8 +54,7 @@
   
 Измененные настройки сохраняются в текущей рабочей области.
 
-См. также
+**См. также:**
 
-[Диалоговое окно 'Рабочая область'](eplan/modaldialogs_d_arbeitsbereich.md)
-
-[Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Диалоговое окно 'Рабочая область'](eplan/modaldialogs_d_arbeitsbereich.md)
+* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)

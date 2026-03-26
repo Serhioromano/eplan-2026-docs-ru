@@ -19,8 +19,7 @@
   
 Eplan отображает в структуре дерева все проекты, соответствующие критериям фильтрации.
 
-См. также
+**См. также:**
 
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)

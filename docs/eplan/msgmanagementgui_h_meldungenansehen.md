@@ -63,12 +63,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
-
-[Сообщения контрольного прогона: номера сообщений, классы и категории](eplan/msgmanagementgui_k_prinzip.md)
-
-[Сообщения контрольного прогона: Обзор классов сообщений](eplan/messages_o_start.md)
-
-[Диалоговое окно Управление сообщениями — <Имя проекта>](eplan/msgmanagementgui_d_meldungsverwaltung.md)
+* [Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
+* [Сообщения контрольного прогона: номера сообщений, классы и категории](eplan/msgmanagementgui_k_prinzip.md)
+* [Сообщения контрольного прогона: Обзор классов сообщений](eplan/messages_o_start.md)
+* [Диалоговое окно Управление сообщениями — <Имя проекта>](eplan/msgmanagementgui_d_meldungsverwaltung.md)

@@ -53,12 +53,9 @@
 
 Величина шага не должна превышать конечное значение, установленное в формате адреса для соответствующего счетчика.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
-
-[Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
-
-[Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
-
-[Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
+* [Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
+* [Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
+* [Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
+* [Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)

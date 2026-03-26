@@ -54,10 +54,8 @@
 
 [Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-
-[Присвоить шаблоны сегментов](eplan/planninggui_h_segmentvorlagezuordnen.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
+* [Присвоить шаблоны сегментов](eplan/planninggui_h_segmentvorlagezuordnen.md)

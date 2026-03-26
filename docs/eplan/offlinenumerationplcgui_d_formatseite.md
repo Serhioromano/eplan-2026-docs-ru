@@ -24,8 +24,7 @@
 
 Значение заполняется с помощью этого символа, если минимальное число разрядов больше, чем ширина значения.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
-
-[Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
+* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)

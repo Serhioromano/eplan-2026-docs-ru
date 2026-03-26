@@ -13,6 +13,6 @@
 
 [Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Создать профиль для изогнутых медных шин](eplan/copper_h_verlaufskonturerstellen.md)
+* [Создать профиль для изогнутых медных шин](eplan/copper_h_verlaufskonturerstellen.md)

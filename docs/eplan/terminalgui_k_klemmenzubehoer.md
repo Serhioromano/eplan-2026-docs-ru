@@ -61,14 +61,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
-
-[Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
-
-[Определить строение клеммников](eplan/terminalgui_h_funktionsschabloneerzeugen.md)
-
-[Отобразить, добавить или удалить последовательные принадлежности](eplan/terminalgui_h_leistenzubehoererstlloesch.md)
-
-[Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)
+* [Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
+* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
+* [Определить строение клеммников](eplan/terminalgui_h_funktionsschabloneerzeugen.md)
+* [Отобразить, добавить или удалить последовательные принадлежности](eplan/terminalgui_h_leistenzubehoererstlloesch.md)
+* [Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)

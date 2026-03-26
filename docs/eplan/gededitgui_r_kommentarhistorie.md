@@ -39,16 +39,11 @@
 
 Отображает новое значение свойства после редактирования.
 
-См. также
+**См. также:**
 
-[Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
-
-[Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-
-[Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-
-[Комментарии](eplan/projectcomments_k_start.md)
-
-[Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
-
-[Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
+* [Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
+* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
+* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
+* [Комментарии](eplan/projectcomments_k_start.md)
+* [Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)

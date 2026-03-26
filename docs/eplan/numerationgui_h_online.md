@@ -53,12 +53,9 @@
   
 Устройство / функция создается в навигаторе устройств.
 
-См. также
+**См. также:**
 
-[Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-
-[Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
-
-[Вставить новые устройства без ОУ](eplan/numerationgui_h_ohnebmk.md)
-
-[Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)
+* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
+* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
+* [Вставить новые устройства без ОУ](eplan/numerationgui_h_ohnebmk.md)
+* [Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)

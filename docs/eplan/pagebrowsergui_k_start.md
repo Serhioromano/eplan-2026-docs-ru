@@ -19,34 +19,20 @@
 
  
 
-См. также
+**См. также:**
 
-[Представление страниц проекта](eplan/pagebrowsergui_k_prinzip.md)
-
-[Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-
-[Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-
-[Фильтр страниц](eplan/pagebrowsergui_k_filter.md)
-
-[Внешние документы](eplan/pagebrowsergui_k_fremddokumente.md)
-
-[Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-
-[Открытие и закрытие страниц](eplan/pagebrowsergui_h_seitenoeffnen.md)
-
-[Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
-
-[Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
-
-[Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
-
-[Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Печать страниц](eplan/printgui_h_drucken.md)
-
-[Интерфейс DXF/DWG](eplan/xdxfgui_k_start.md)
-
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Представление страниц проекта](eplan/pagebrowsergui_k_prinzip.md)
+* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
+* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
+* [Фильтр страниц](eplan/pagebrowsergui_k_filter.md)
+* [Внешние документы](eplan/pagebrowsergui_k_fremddokumente.md)
+* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
+* [Открытие и закрытие страниц](eplan/pagebrowsergui_h_seitenoeffnen.md)
+* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
+* [Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
+* [Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
+* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Печать страниц](eplan/printgui_h_drucken.md)
+* [Интерфейс DXF/DWG](eplan/xdxfgui_k_start.md)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)

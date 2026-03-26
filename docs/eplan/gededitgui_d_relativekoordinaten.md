@@ -24,14 +24,10 @@
 
 Укажите длину, на которую должен быть перемещен курсор в направлении введенного угла. При этом значения для полей X и Y в поле Интервал изменяются автоматически.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
-
-[Переместить исходную точку координат](eplan/gededitgui_h_bezugspunktverschiebung.md)
-
-[Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
-
-[Диалоговое окно Ввод координат](eplan/gededitgui_d_koordinateneingabe.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
+* [Переместить исходную точку координат](eplan/gededitgui_h_bezugspunktverschiebung.md)
+* [Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
+* [Диалоговое окно Ввод координат](eplan/gededitgui_d_koordinateneingabe.md)

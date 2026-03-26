@@ -35,6 +35,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Вывод устройства](eplan/symboleditorgui_d_anschlusspunkt.md)
+* [Диалоговое окно Вывод устройства](eplan/symboleditorgui_d_anschlusspunkt.md)

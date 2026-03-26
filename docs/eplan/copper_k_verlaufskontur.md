@@ -22,8 +22,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Создать профиль для изогнутых медных шин](eplan/copper_h_verlaufskonturerstellen.md)
-
-[Редактор контура: Нулевая точка контура](eplan/contoureditorgui_k_nullpunkt.md)
+* [Создать профиль для изогнутых медных шин](eplan/copper_h_verlaufskonturerstellen.md)
+* [Редактор контура: Нулевая точка контура](eplan/contoureditorgui_k_nullpunkt.md)

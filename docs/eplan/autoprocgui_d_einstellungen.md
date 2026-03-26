@@ -24,10 +24,8 @@
 * Выбранные операции: отображает все [операции](eplan/autoprocgui_k_automprojektaktionen.md), которые содержатся в выбранной схеме.
 * Описание: введите здесь информативный текст, чтобы, например, различать одноименные операции.
 
-См. также
+**См. также:**
 
-[Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
-
-[Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
-
-[Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)
+* [Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
+* [Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
+* [Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)

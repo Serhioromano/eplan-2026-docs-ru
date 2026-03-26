@@ -10,14 +10,10 @@
 * Вы можете синхронизировать функции между двумя разными видами представления.
 * В однополюсном представлении можно определить многополюсные соединения. Многополюсный отчет по выводам устройств и соединений можно задать при исключительно однополюсном представлении.
 
-См. также
+**См. также:**
 
-[Однополюсное представление: Принцип](eplan/singlepole_k_hintergrund.md)
-
-[Обзоры установок](eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
-
-[Жгутовое представление соединений в схемах соединений](eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)
-
-[Структуры сети](eplan/singlepole_k_bustopologien.md)
-
-[Синхронизировать распределенно представленные функции](eplan/adjustdata_h_funktionabgleichen.md)
+* [Однополюсное представление: Принцип](eplan/singlepole_k_hintergrund.md)
+* [Обзоры установок](eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
+* [Жгутовое представление соединений в схемах соединений](eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)
+* [Структуры сети](eplan/singlepole_k_bustopologien.md)
+* [Синхронизировать распределенно представленные функции](eplan/adjustdata_h_funktionabgleichen.md)

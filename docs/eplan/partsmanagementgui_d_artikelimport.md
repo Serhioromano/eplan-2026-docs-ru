@@ -42,8 +42,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
-
-[Диалоговое окно Присвоения полей (Управление изделиями](eplan/partsmanagementgui_d_feldzuordnung.md))
+* [Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
+* [Диалоговое окно Присвоения полей (Управление изделиями](eplan/partsmanagementgui_d_feldzuordnung.md)

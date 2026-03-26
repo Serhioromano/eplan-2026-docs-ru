@@ -9,12 +9,9 @@
 * Потенциалы и сигналы можно временно выделять цветом, что позволяет быстро просматривать их расширение.
 * Соединения с различными типами потенциалов при помощи настроек определенных уровней выделяются цветом.
 
-См. также
+**См. также:**
 
-[Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
-
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Начертить точки или выводы определения потенциалов](eplan/potentialbrowsergui_h_pdpzeichnen.md)
-
-[Выделить потенциалы, сигналы или сеть](eplan/potentialbrowsergui_h_potenzialverfolgung.md)
+* [Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Начертить точки или выводы определения потенциалов](eplan/potentialbrowsergui_h_pdpzeichnen.md)
+* [Выделить потенциалы, сигналы или сеть](eplan/potentialbrowsergui_h_potenzialverfolgung.md)

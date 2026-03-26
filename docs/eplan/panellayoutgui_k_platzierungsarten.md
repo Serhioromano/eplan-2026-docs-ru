@@ -51,10 +51,8 @@
 
 Заблокированная область является самостоятельным объектом, который представляет собой прямоугольник.
 
-См. также
+**См. также:**
 
-[Компоновка электрошкафа 2D](eplan/panellayoutgui_k_start.md)
-
-[Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
-
-[Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)
+* [Компоновка электрошкафа 2D](eplan/panellayoutgui_k_start.md)
+* [Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
+* [Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)

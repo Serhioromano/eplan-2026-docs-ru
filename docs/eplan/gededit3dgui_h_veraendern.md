@@ -43,8 +43,7 @@
   
 Содержимое обзора модели будет перемещено в новое место.
 
-См. также
+**См. также:**
 
-[Вкладка Вид (обзор модели)](gededit3dgui_r_modell.htm)
-
-[Переместить тексты свойств в обзоры модели](gededit3dgui_h_eigenschaftstexteverschieben.htm)
+* [Вкладка Вид (обзор модели)](gededit3dgui_r_modell.htm)
+* [Переместить тексты свойств в обзоры модели](gededit3dgui_h_eigenschaftstexteverschieben.htm)

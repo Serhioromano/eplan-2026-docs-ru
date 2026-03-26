@@ -87,14 +87,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Отчеты](eplan/formgeneratorgui_k_start.md)
-
-[Клеммы](eplan/terminalgui_k_start.md)
-
-[Штекер](eplan/plugsgui_k_start.md)
-
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Кабель](eplan/cablegui_k_start.md)
+* [Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Клеммы](eplan/terminalgui_k_start.md)
+* [Штекер](eplan/plugsgui_k_start.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Кабель](eplan/cablegui_k_start.md)

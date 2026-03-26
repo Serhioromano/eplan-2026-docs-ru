@@ -49,6 +49,6 @@
 
 [Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)

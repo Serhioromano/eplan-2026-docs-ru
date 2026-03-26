@@ -22,8 +22,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Сетевые соединения](eplan/netbasedwires_k_start.md)
-
-[Определение шлейфов](eplan/netbasedwires_h_verbindungsketten.md)
+* [Сетевые соединения](eplan/netbasedwires_k_start.md)
+* [Определение шлейфов](eplan/netbasedwires_h_verbindungsketten.md)

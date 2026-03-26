@@ -43,8 +43,7 @@
 
  
 
-См. также
+**См. также:**
 
-[База данных изделий](eplan/articlesgui_k_start.md)
-
-[Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [База данных изделий](eplan/articlesgui_k_start.md)
+* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)

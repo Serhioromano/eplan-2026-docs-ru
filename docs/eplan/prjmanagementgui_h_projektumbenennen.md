@@ -28,10 +28,8 @@
   
 Файл проекта и каталог проекта со всеми содержащимися данными удаляются и копируются в корзину, аналогичную корзине Windows. При необходимости из нее можно восстановить проект.
 
-См. также
+**См. также:**
 
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
-
-[Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)

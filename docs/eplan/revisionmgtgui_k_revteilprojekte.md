@@ -12,14 +12,10 @@
 
 Данные ревизии областей обработки отображаются в свойствах страницы и в диалоговом окне Дополнительно обработать данные ревизии, а также выводятся в обзорах ревизии.
 
-См. также
+**См. также:**
 
-[Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-
-[Области обработки](eplan/workingsection_k_start.md)
-
-[Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
+* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Области обработки](eplan/workingsection_k_start.md)
+* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)

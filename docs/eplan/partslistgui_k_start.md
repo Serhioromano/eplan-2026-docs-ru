@@ -12,14 +12,10 @@
 * В этом диалоговом окне навигатора можно вручную вводить или изменять номер изделия. Также можно изменять количество и выполнять выбор изделий.
 * Кроме того, возможен выбор устройства в навигаторе спецификаций.
 
-См. также
+**См. также:**
 
-[Группы спецификаций](eplan/partslistgui_k_stuecklistengruppen.md)
-
-[Обработать изделие спецификации](eplan/partslistgui_h_artikelbearbeiten.md)
-
-[Добавить изделие](eplan/partslistgui_h_artikelhinzufuegen.md)
-
-[Учитывать изделия у соединений](eplan/partslistgui_h_artikelanverbindungen.md)
-
-[Диалоговое окно Спецификация — <Имя проекта>](eplan/partslistgui_d_artikelstueckliste.md)
+* [Группы спецификаций](eplan/partslistgui_k_stuecklistengruppen.md)
+* [Обработать изделие спецификации](eplan/partslistgui_h_artikelbearbeiten.md)
+* [Добавить изделие](eplan/partslistgui_h_artikelhinzufuegen.md)
+* [Учитывать изделия у соединений](eplan/partslistgui_h_artikelanverbindungen.md)
+* [Диалоговое окно Спецификация — <Имя проекта>](eplan/partslistgui_d_artikelstueckliste.md)

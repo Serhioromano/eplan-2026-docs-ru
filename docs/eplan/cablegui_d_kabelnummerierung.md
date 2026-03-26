@@ -55,6 +55,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумеровать кабели: Предварительный просмотр результата](eplan/cablegui_d_ergebniskabelnummerierung.md)
+* [Диалоговое окно Нумеровать кабели: Предварительный просмотр результата](eplan/cablegui_d_ergebniskabelnummerierung.md)

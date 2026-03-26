@@ -95,6 +95,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Исключения при сверлении: принцип](eplan/ncgui_k_Bohrausnahmen.md)
+* [Исключения при сверлении: принцип](eplan/ncgui_k_Bohrausnahmen.md)

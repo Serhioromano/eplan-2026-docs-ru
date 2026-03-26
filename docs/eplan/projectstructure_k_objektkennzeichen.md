@@ -26,10 +26,8 @@
 * Сортировка страниц ориентируется по сортировке в управлении структурными идентификаторами. Если свободный текст используется как идентификатор объекта, сортировка проводится в алфавитно-цифровом порядке.
 * Если идентификатор в управлении структурными идентификаторами переименовывается, он изменяется также в идентификаторе объекта.
 
-См. также
+**См. также:**
 
-[Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-
-[Структурирование проектов согласно стандарту EN 81346](eplan/projectstructure_k_referenzkennzeichnung.md)
-
-[Диалоговое окно Структура страницы](eplan/prjmanagementgui_d_seitenstruktur.md)
+* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
+* [Структурирование проектов согласно стандарту EN 81346](eplan/projectstructure_k_referenzkennzeichnung.md)
+* [Диалоговое окно Структура страницы](eplan/prjmanagementgui_d_seitenstruktur.md)

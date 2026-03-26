@@ -57,18 +57,12 @@ Eplan проверяет, не существует ли уже введенно
   
 После подтверждения запроса все страницы проекта будут удалены.
 
-См. также
+**См. также:**
 
-[Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-
-[Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-
-[Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-
-[Внешние документы](eplan/pagebrowsergui_k_fremddokumente.md)
-
-[Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Диалоговое окно Свойства страницы / Новая страница](eplan/pagebrowsergui_d_seiteneigenschaften.md)
+* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
+* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
+* [Внешние документы](eplan/pagebrowsergui_k_fremddokumente.md)
+* [Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Диалоговое окно Свойства страницы / Новая страница](eplan/pagebrowsergui_d_seiteneigenschaften.md)

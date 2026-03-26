@@ -16,6 +16,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Группы проектов (определение)](eplan/settingsmastergui_d_projektgruppendefinition.md)
+* [Диалоговое окно Настройки: Группы проектов (определение)](eplan/settingsmastergui_d_projektgruppendefinition.md)

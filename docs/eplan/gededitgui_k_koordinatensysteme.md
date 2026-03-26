@@ -38,14 +38,10 @@
 
 Относительный ввод координат при черчении графических объектов всегда соотносится с последней установленной точкой. Это необязательно должна быть точка графического объекта, это может быть и новая исходная точка координат! Таким образом, если при черчении линии была вставлена первая точка линии, а затем установлена исходная точка координат, относительные координаты будут относиться к исходной точке координат, а не к вставленной ранее точке линии.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Переместить исходную точку координат](eplan/gededitgui_h_bezugspunktverschiebung.md)
-
-[Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
-
-[Диалоговое окно Ввод координат](eplan/gededitgui_d_koordinateneingabe.md)
-
-[Диалоговое окно Относительный ввод координат](eplan/gededitgui_d_relativekoordinaten.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Переместить исходную точку координат](eplan/gededitgui_h_bezugspunktverschiebung.md)
+* [Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
+* [Диалоговое окно Ввод координат](eplan/gededitgui_d_koordinateneingabe.md)
+* [Диалоговое окно Относительный ввод координат](eplan/gededitgui_d_relativekoordinaten.md)

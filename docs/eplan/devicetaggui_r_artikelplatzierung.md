@@ -36,10 +36,8 @@
 
 [Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-
-[Обработать и отобразить свойства размещений изделий](eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
-
-[Компоновка электрошкафа: Виды размещения](eplan/panellayoutgui_k_platzierungsarten.md)
+* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
+* [Обработать и отобразить свойства размещений изделий](eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
+* [Компоновка электрошкафа: Виды размещения](eplan/panellayoutgui_k_platzierungsarten.md)

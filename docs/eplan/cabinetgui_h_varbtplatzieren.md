@@ -81,8 +81,7 @@
   
 Новый размещаемый функциональный элемент будет размещен по центру между двумя выбранными компонентами.
 
-См. также
+**См. также:**
 
-[Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
-
-[Системы сборных шин ](eplan/cabinetgui_k_sammelschienensystem.md)
+* [Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
+* [Системы сборных шин ](eplan/cabinetgui_k_sammelschienensystem.md)

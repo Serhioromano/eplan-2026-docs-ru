@@ -54,14 +54,10 @@
 * Вместо свойств страниц можно выбрать свойства пространства листа, указав в них переменные.
 * Объект-заполнитель отображается не на странице проекта в качестве якорного символа в графике, а в качестве [якорного ярлыка](eplan/cabinetgui_d_navigator.md#I_Icons) в структуре дерева навигатора пространства листа.
 
-См. также
+**См. также:**
 
-[Объединение объектов в пространстве листа](eplan/cabinetgui_h_vereinigen.md)
-
-[Создание 3D-макросов](cabinetgui_h_3dmakroerstellen.htm)
-
-[Разместить 3D-макросы](cabinetgui_h_3dmakroplatzieren.htm)
-
-[Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
-
-[Вкладка Определение макроса](eplan/macrosgui_r_makrodefinition.md)
+* [Объединение объектов в пространстве листа](eplan/cabinetgui_h_vereinigen.md)
+* [Создание 3D-макросов](cabinetgui_h_3dmakroerstellen.htm)
+* [Разместить 3D-макросы](cabinetgui_h_3dmakroplatzieren.htm)
+* [Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
+* [Вкладка Определение макроса](eplan/macrosgui_r_makrodefinition.md)

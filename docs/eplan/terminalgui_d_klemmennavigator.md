@@ -71,10 +71,8 @@
 Свойства |  Открывает диалоговое окно Свойства (усл. обозначение): <...>. Обеспечивает обработку функции.  
 Свойства (общие) |  Открывает диалоговое окно Свойства (общие): <...>. Позволяет обрабатывать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Управление клеммниками](eplan/terminalgui_k_verwaltungleisten.md)
-
-[Управление клеммами](eplan/terminalgui_k_verwaltung.md)
-
-[Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
+* [Управление клеммниками](eplan/terminalgui_k_verwaltungleisten.md)
+* [Управление клеммами](eplan/terminalgui_k_verwaltung.md)
+* [Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)

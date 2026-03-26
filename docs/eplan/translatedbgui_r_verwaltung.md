@@ -46,10 +46,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
-
-[Добавить язык словаря](eplan/translatedbgui_h_woerterbuchanlegen.md#I_WbSpracheHinzufuegen)
-
-[Убрать перевод из проекта](eplan/translategui_h_entfernenuebersetzung.md)
+* [Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
+* [Добавить язык словаря](eplan/translatedbgui_h_woerterbuchanlegen.md#I_WbSpracheHinzufuegen)
+* [Убрать перевод из проекта](eplan/translategui_h_entfernenuebersetzung.md)

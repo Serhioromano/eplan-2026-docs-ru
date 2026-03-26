@@ -28,16 +28,11 @@
 
 Набор настроек для конфигурации свойств, диалоговой памяти и конфигурации в виде дерева и списка будет удален, если текущее выделение расположено на узловой точке "Пользователь" или под ней, и вызывается операция Сбросить на стандарт.
 
-См. также
+**См. также:**
 
-[Настройки](eplan/settingsmastergui_k_start.md)
-
-[Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
-
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-
-[Импорт / экспорт настроек](eplan/settingsmastergui_h_importieren_exportieren.md)
-
-[Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)
-
-[Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
+* [Настройки](eplan/settingsmastergui_k_start.md)
+* [Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Импорт / экспорт настроек](eplan/settingsmastergui_h_importieren_exportieren.md)
+* [Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)
+* [Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)

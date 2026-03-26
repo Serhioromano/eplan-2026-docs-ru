@@ -42,8 +42,7 @@
   
 Опция и все содержащиеся в ней фрагменты удаляются. Если опция была включена, содержащиеся в ней объекты сохраняются в проекте; объекты выключенной опции удаляются из проекта.
 
-См. также
+**См. также:**
 
-[Опции](eplan/projectoptionsgui_k_start.md)
-
-[Включить и выключить опции](eplan/projectoptionsgui_h_optioneneinaus.md)
+* [Опции](eplan/projectoptionsgui_k_start.md)
+* [Включить и выключить опции](eplan/projectoptionsgui_h_optioneneinaus.md)

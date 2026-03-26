@@ -34,8 +34,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
-
-[Отображение инструмента для монтажных работ](eplan/cabinetgui_h_montagehilfenanzeigen.md)
+* [Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
+* [Отображение инструмента для монтажных работ](eplan/cabinetgui_h_montagehilfenanzeigen.md)

@@ -15,10 +15,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)

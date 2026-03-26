@@ -22,6 +22,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)

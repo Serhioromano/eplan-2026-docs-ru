@@ -50,14 +50,10 @@
 
 Открывает диалоговое окно Расширенные структуры проекта. Позволяет определить предшествующий знак и десятичную точку для блоков идентификаторов.
 
-См. также
+**См. также:**
 
-[Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
-
-[Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
-
-[Диалоговое окно Настройки: Совместимость](eplan/xessettingsgui_d_einstellungenprojektkompatibilitaet.md)
+* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Диалоговое окно Настройки: Совместимость](eplan/xessettingsgui_d_einstellungenprojektkompatibilitaet.md)

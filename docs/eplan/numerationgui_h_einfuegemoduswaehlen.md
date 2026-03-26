@@ -34,12 +34,9 @@
   
 Макрос/копия будут размещены. ОУ останется неизменным.
 
-См. также
+**См. также:**
 
-[Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-
-[Вставить новые устройства без ОУ](eplan/numerationgui_h_ohnebmk.md)
-
-[Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-
-[Копировать, вырезать и вставить элементы схемы соединений](eplan/numerationgui_h_kopierenimged.md)
+* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
+* [Вставить новые устройства без ОУ](eplan/numerationgui_h_ohnebmk.md)
+* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
+* [Копировать, вырезать и вставить элементы схемы соединений](eplan/numerationgui_h_kopierenimged.md)

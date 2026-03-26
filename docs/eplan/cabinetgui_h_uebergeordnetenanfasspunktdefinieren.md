@@ -37,10 +37,8 @@
   
 Точки захвата всех отдельных 3D-объектов снова действуют.
 
-См. также
+**См. также:**
 
-[Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
-
-[Вкладка Логика (точка захвата)](ged3dmateeditorgui_r_anfasspunkt_logik.htm)
-
-[Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
+* [Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
+* [Вкладка Логика (точка захвата)](ged3dmateeditorgui_r_anfasspunkt_logik.htm)
+* [Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)

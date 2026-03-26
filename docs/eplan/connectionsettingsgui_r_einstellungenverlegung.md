@@ -74,8 +74,7 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Вкладка Общая дополнительная длина](eplan/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)
+* [Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Вкладка Общая дополнительная длина](eplan/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)

@@ -19,14 +19,10 @@
 
 Открывает диалоговое окно Настройки: Присвоение символов. Позволяет индивидуально присваивать символы исходной библиотеки символам целевой библиотеки.
 
-См. также
+**См. также:**
 
-[Символы](eplan/xsbgui_k_start.md)
-
-[Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
-
-[Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
-
-[Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
-
-[Создать схему присвоения для символов (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Символы](eplan/xsbgui_k_start.md)
+* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
+* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
+* [Создать схему присвоения для символов (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)

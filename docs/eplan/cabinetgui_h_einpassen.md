@@ -27,6 +27,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Изменение длины объектов в пространстве листа](eplan/cabinetgui_h_laengeaendern.md)
+* [Изменение длины объектов в пространстве листа](eplan/cabinetgui_h_laengeaendern.md)

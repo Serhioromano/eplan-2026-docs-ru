@@ -12,8 +12,7 @@
 
 С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](eplan/modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
 
-См. также
+**См. также:**
 
-[Импорт / экспорт настроек](eplan/settingsmastergui_h_importieren_exportieren.md)
-
-[Настройки: Импорт и экспорт](eplan/settingsmastergui_k_import_export.md)
+* [Импорт / экспорт настроек](eplan/settingsmastergui_h_importieren_exportieren.md)
+* [Настройки: Импорт и экспорт](eplan/settingsmastergui_k_import_export.md)

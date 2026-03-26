@@ -75,8 +75,7 @@ Eplan позволяет обрабатывать данные выделенн�
   
 
 
-См. также
+**См. также:**
 
-[Табличная обработка](eplan/functiondatagridgui_k_start.md)
-
-[Табличная обработка данных функций Fluid-Техники](eplan/ftechnic_k_tabellarische_bearbeitung.md)
+* [Табличная обработка](eplan/functiondatagridgui_k_start.md)
+* [Табличная обработка данных функций Fluid-Техники](eplan/ftechnic_k_tabellarische_bearbeitung.md)

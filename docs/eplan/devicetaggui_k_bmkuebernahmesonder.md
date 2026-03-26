@@ -39,10 +39,8 @@
 
 В случае со страницами перечня поиск по умолчанию всегда производится снизу вверх независимо от выравнивания рамки. Посредством переключения направления поиска непосредственно на выводе устройства ПЛК можно инициировать поиск налево.
 
-См. также
+**См. также:**
 
-[Устройство](eplan/devicetaggui_k_start.md)
-
-[Перенос ОУ](eplan/devicetaggui_k_bmkuebernahme.md)
-
-[Определить направление поиска для переноса ОУ](eplan/devicetaggui_h_bmkuebernahmefestlegen.md)
+* [Устройство](eplan/devicetaggui_k_start.md)
+* [Перенос ОУ](eplan/devicetaggui_k_bmkuebernahme.md)
+* [Определить направление поиска для переноса ОУ](eplan/devicetaggui_h_bmkuebernahmefestlegen.md)

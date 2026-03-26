@@ -209,14 +209,10 @@
 
 Если вы открыли диалоговое окно Формат, отталкиваясь от выделенного объекта, также отображается результат, который был определен для выбранного объекта.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат: Свойство блока](eplan/eservicesgui_d_formatblockeigenschaft.md)
-
-[Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
-
-[Диалоговое окно Формат: Комментарий](eplan/eservicesgui_d_formatkommentar.md)
-
-[Определить свойства блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
-
-[Диалоговое окно Конфигурировать представление (дерево)](eplan/modaldialogsdb_d_baumkonfiguration.md)
+* [Диалоговое окно Формат: Свойство блока](eplan/eservicesgui_d_formatblockeigenschaft.md)
+* [Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
+* [Диалоговое окно Формат: Комментарий](eplan/eservicesgui_d_formatkommentar.md)
+* [Определить свойства блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
+* [Диалоговое окно Конфигурировать представление (дерево)](eplan/modaldialogsdb_d_baumkonfiguration.md)

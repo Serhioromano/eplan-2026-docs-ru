@@ -78,10 +78,8 @@
   
 Генерирование легенды не выполняется.
 
-См. также
+**См. также:**
 
-[Компоновка электрошкафа 2D: Легенды](eplan/panellayoutgui_k_legenden.md)
-
-[Обработать позиции легенды](eplan/panellayoutgui_h_legendenaktualisieren.md)
-
-[Вкладка Монтажная плата (компоновка электрошкафа)](eplan/devicetaggui_r_montageplatte.md)
+* [Компоновка электрошкафа 2D: Легенды](eplan/panellayoutgui_k_legenden.md)
+* [Обработать позиции легенды](eplan/panellayoutgui_h_legendenaktualisieren.md)
+* [Вкладка Монтажная плата (компоновка электрошкафа)](eplan/devicetaggui_r_montageplatte.md)

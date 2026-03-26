@@ -33,8 +33,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
-
-[Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
+* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
+* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)

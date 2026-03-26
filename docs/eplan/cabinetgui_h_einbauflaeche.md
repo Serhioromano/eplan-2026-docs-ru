@@ -84,10 +84,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
-
-[Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
-
-[Создание 3D-макросов](cabinetgui_h_3dmakroerstellen.htm)
+* [Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
+* [Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
+* [Создание 3D-макросов](cabinetgui_h_3dmakroerstellen.htm)

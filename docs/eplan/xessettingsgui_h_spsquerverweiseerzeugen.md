@@ -46,10 +46,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
-
-[Диалоговое окно Настройки: Отображение](eplan/xessettingsgui_d_einstellungenprojektqvwanzeige.md)
-
-[Вставить карты и выводы устройства ПЛК](eplan/plcgui_h_spszeichnen.md)
+* [Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
+* [Диалоговое окно Настройки: Отображение](eplan/xessettingsgui_d_einstellungenprojektqvwanzeige.md)
+* [Вставить карты и выводы устройства ПЛК](eplan/plcgui_h_spszeichnen.md)

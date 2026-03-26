@@ -36,6 +36,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)

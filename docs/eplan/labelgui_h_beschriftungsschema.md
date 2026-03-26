@@ -18,12 +18,9 @@
   
 Теперь можно указать [настройки вывода *.txt](eplan/labelgui_h_textausgabe.md) или [настройки вывода Excel](eplan/labelgui_h_exceldatei.md).
 
-См. также
+**См. также:**
 
-[Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-
-[Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
-
-[Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
-
-[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
+* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)

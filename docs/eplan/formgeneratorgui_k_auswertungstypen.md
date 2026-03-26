@@ -64,12 +64,9 @@
 
 * [Блок-схема рабочего процесса](eplan/formgeneratorgui_k_auswertunggrafisch.md#I_Grafik).
 
-См. также
+**См. также:**
 
-[Отчеты](eplan/formgeneratorgui_k_start.md)
-
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)

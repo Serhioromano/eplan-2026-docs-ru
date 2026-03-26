@@ -16,14 +16,10 @@
 
 В противном случае устройство будет вставлено или сгенерировано без принадлежностей. В этом случае принадлежности необходимо сначала добавить через выбор устройства, а затем разместить из навигатора устройств.
 
-См. также
+**См. также:**
 
-[Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
-
-[Порядок действий при размещении устройств](eplan/devicelistgui_k_vorgehengeraeteplatzieren.md)
-
-[Процедура удаления и копирования устройств](eplan/devicelistgui_k_loeschenkopieren.md)
-
-[Присвоение данных функции](eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md)
-
-[Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
+* [Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
+* [Порядок действий при размещении устройств](eplan/devicelistgui_k_vorgehengeraeteplatzieren.md)
+* [Процедура удаления и копирования устройств](eplan/devicelistgui_k_loeschenkopieren.md)
+* [Присвоение данных функции](eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md)
+* [Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)

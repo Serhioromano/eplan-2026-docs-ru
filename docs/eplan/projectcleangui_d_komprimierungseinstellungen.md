@@ -29,6 +29,6 @@
 * [Удалить трехмерные данные](eplan/projectcleangui_k_komprimierungsdaten.md#I_3DDaten)
 * [Удалить защиту](eplan/projectcleangui_k_komprimierungsdaten.md#I_Schutz).
 
-См. также
+**См. также:**
 
-[Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)

@@ -29,10 +29,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Генерировать сеть соединенных сегментов](eplan/routinggui_h_streckennetzerzeugen.md)
-
-[Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)
-
-[Управление маршрутизируемыми соединениями](eplan/routinggui_k_verdrahtungsmanager.md)
+* [Генерировать сеть соединенных сегментов](eplan/routinggui_h_streckennetzerzeugen.md)
+* [Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)
+* [Управление маршрутизируемыми соединениями](eplan/routinggui_k_verdrahtungsmanager.md)

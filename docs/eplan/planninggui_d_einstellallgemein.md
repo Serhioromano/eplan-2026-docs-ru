@@ -79,16 +79,11 @@
 
 Если установить этот флажок, для выделенных цветом трубопроводов дополнительно выделяются цветом условные обозначения, которые относятся к трубопроводу, но не связаны с сегментом в предварительном планировании.
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-
-[Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
-
-[Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
-
-[Создать подробное планирование путем перетаскивания мышью](eplan/planninggui_h_makrosdragdrop.md)
-
-[Выделить цветом условное обозначение и трубопровод со связанными сегментами на функциональной схеме автоматизации](eplan/planningri_h_objekteeinfaerben.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
+* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
+* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
+* [Создать подробное планирование путем перетаскивания мышью](eplan/planninggui_h_makrosdragdrop.md)
+* [Выделить цветом условное обозначение и трубопровод со связанными сегментами на функциональной схеме автоматизации](eplan/planningri_h_objekteeinfaerben.md)

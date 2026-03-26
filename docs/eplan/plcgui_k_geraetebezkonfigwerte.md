@@ -35,12 +35,9 @@
 
 При импорте значений конфигурации, связанных с устройством, присваивается первое подходящее определенное пользователем свойство импортируемого изделия.
 
-См. также
+**См. также:**
 
-[Структура ПЛК](eplan/plcgui_k_prinzip.md)
-
-[Обмен данными ПЛК в формате AutomationML AR APC](eplan/plcgui_k_amlbusdatenaustausch.md)
-
-[Диалоговое окно Настройки: Экспорт AutomationML AR APC](eplan/plcgui_d_optionsaml.md)
-
-[Создать определенные пользователем свойства](eplan/userdefproperties_h_eigenschafterstellen.md)
+* [Структура ПЛК](eplan/plcgui_k_prinzip.md)
+* [Обмен данными ПЛК в формате AutomationML AR APC](eplan/plcgui_k_amlbusdatenaustausch.md)
+* [Диалоговое окно Настройки: Экспорт AutomationML AR APC](eplan/plcgui_d_optionsaml.md)
+* [Создать определенные пользователем свойства](eplan/userdefproperties_h_eigenschafterstellen.md)

@@ -27,8 +27,7 @@
 
 Введите величину угла, чтобы повернуть рисунок вокруг оси X.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)

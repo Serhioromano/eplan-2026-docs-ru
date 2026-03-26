@@ -10,10 +10,8 @@
 * Вы можете определить различные настройки и допустимые спецсимволы для проверки блоков идентификаторов, обозначений устройств и счетных номеров.
 * Eplan также позволяет игнорировать недопустимый символ при синтаксической проверке.
 
-См. также
+**См. также:**
 
-[Проверить обозначение устройства](eplan/devicetagcheckgui_h_bmueberpruefen.md)
-
-[Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
-
-[Диалоговое окно Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_syntaxfehlermeldung.md)
+* [Проверить обозначение устройства](eplan/devicetagcheckgui_h_bmueberpruefen.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_syntaxfehlermeldung.md)

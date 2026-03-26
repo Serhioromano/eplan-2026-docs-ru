@@ -35,10 +35,8 @@
 
  
 
-См. также
+**См. также:**
 
-[База данных изделий: Перенос старых баз данных изделий](eplan/articlesgui_k_migration.md)
-
-[Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
-
-[Диалоговое окно Настройки: Изделие (пользователь)](eplan/partselectiongui_d_datenauswahlbenutzer.md)
+* [База данных изделий: Перенос старых баз данных изделий](eplan/articlesgui_k_migration.md)
+* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [Диалоговое окно Настройки: Изделие (пользователь)](eplan/partselectiongui_d_datenauswahlbenutzer.md)

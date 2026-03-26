@@ -43,10 +43,8 @@
 
 При перемещении курсора и нажатой средней клавише мыши содержимое страницы перемещается в направлении движения курсора. При этом форма курсора изменятся на руку.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Использование функций масштабирования](eplan/gededitgui_h_zoom.md)
-
-[Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Использование функций масштабирования](eplan/gededitgui_h_zoom.md)
+* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)

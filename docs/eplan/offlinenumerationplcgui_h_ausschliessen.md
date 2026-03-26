@@ -12,10 +12,8 @@
   
 При нумерации с данными ПЛК не будет выполнена нумерация устройств, которые подсоединены к этому выводу устройства ПЛК.
 
-См. также
+**См. также:**
 
-[Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
-
-[Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
-
-[Свойства для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_k_eigenschaften.md)
+* [Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
+* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Свойства для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_k_eigenschaften.md)

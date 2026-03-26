@@ -25,12 +25,9 @@
 2. Щелкните дважды по выбранному элементу, чтобы открыть диалоговое окно Свойства, и обработайте в нем свойства элемента.
 3. Чтобы снова отключить этот параметр, выберите команду Обработать фон.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)
-
-[Вставить файлы DXF / DWG в графическом редакторе](eplan/xdxfgui_h_seitengrafeditoreinfuegen.md)
-
-[Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)
+* [Вставить файлы DXF / DWG в графическом редакторе](eplan/xdxfgui_h_seitengrafeditoreinfuegen.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)

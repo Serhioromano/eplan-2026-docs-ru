@@ -47,6 +47,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Монтажное отверстие <Тип>](eplan/cabinetgui_d_durchbrueche.md)
+* [Диалоговое окно Монтажное отверстие <Тип>](eplan/cabinetgui_d_durchbrueche.md)

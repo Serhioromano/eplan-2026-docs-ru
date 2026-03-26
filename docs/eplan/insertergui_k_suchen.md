@@ -93,10 +93,8 @@
 
 Также при поиске в Eplan Data Portal количество найденных совпадений отображается в результатах поиска под строкой навигации. Чтобы отобразить результаты в Eplan Data Portal, можно нажать на пиктограмму  "Data Portal" в результатах поиска.
 
-См. также
+**См. также:**
 
-[Поиск объектов в центре вставки](eplan/insertergui_h_suchen.md)
-
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
+* [Поиск объектов в центре вставки](eplan/insertergui_h_suchen.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)

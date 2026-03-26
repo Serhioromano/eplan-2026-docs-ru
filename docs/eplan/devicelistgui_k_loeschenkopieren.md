@@ -34,10 +34,8 @@
 Неразмещенные устройства |  Неразмещенные устройства невозможно копировать.  
 Шаблоны функций |  Шаблоны функции невозможно копировать. Только определение устройства при копировании главной функции копируется вместе с ней.  
   
-См. также
+**См. также:**
 
-[Устройства](eplan/devicelistgui_k_start.md)
-
-[Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
-
-[Управление неразмещенными вспомогательными функциями на главной функции](eplan/devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
+* [Устройства](eplan/devicelistgui_k_start.md)
+* [Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
+* [Управление неразмещенными вспомогательными функциями на главной функции](eplan/devicetaggui_k_verwaltungnichtplatziertefunktionen.md)

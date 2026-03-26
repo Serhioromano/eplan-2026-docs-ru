@@ -59,18 +59,12 @@
   
 Отображение и обработка определенных интерактивных точек возможна с помощью кнопки Инструмент для монтажных работ (вкладка Вид > группа команд Пространство листа > Инструмент для монтажных работ). Точки монтажа можно настраивать по собственному желанию в диалоговом окне Свойства.
 
-См. также
+**См. также:**
 
-[Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
-
-[Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
-
-[Определение точек монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)
-
-[Определить линии монтажа](eplan/cabinetgui_h_montageliniedefinieren.md)
-
-[Определить и использовать монтажную сетку](eplan/cabinetgui_h_montagerasterdefinieren.md)
-
-[Определить и изменить поверхность установки](eplan/cabinetgui_h_einbauflaeche.md)
-
-[Определить исходную точку](eplan/cabinetgui_h_bezugspunktdefinieren.md)
+* [Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
+* [Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
+* [Определение точек монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)
+* [Определить линии монтажа](eplan/cabinetgui_h_montageliniedefinieren.md)
+* [Определить и использовать монтажную сетку](eplan/cabinetgui_h_montagerasterdefinieren.md)
+* [Определить и изменить поверхность установки](eplan/cabinetgui_h_einbauflaeche.md)
+* [Определить исходную точку](eplan/cabinetgui_h_bezugspunktdefinieren.md)

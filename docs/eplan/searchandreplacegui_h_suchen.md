@@ -26,14 +26,10 @@ Eplan начнет поиск, откроет диалоговое окно Ре
   
 Если диалоговое окно Результаты поиска — <Имя проекта> открыто и находится на переднем плане, оно будет закрыто с помощью этой команды меню.
 
-См. также
+**См. также:**
 
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Определение искомых понятий](eplan/searchandreplacegui_k_prinzip.md)
-
-[Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
-
-[Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
-
-[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Определение искомых понятий](eplan/searchandreplacegui_k_prinzip.md)
+* [Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
+* [Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
+* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)

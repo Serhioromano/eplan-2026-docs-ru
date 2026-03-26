@@ -19,12 +19,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
-
-[Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-
-[Маршрутизация соединений между различными структурами идентификаторов](eplan/cablinggui_h_strukturenverbinden.md)
-
-[Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
+* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Маршрутизация соединений между различными структурами идентификаторов](eplan/cablinggui_h_strukturenverbinden.md)
+* [Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)

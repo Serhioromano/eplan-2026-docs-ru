@@ -24,8 +24,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
-
-[Работа с групповыми спецификациями изделий](eplan/formeditorgui_h_artikelsummenstueckliste.md)
+* [Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
+* [Работа с групповыми спецификациями изделий](eplan/formeditorgui_h_artikelsummenstueckliste.md)

@@ -24,8 +24,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Разместить устройства](eplan/cabinetgui_h_geraetplatzieren.md)
-
-[Диалоговое окно Трехмерный навигатор монтажных поверхностей — <Имя проекта>](cabinetgui_d_navigator3dschaltschrankaufbau.htm)
+* [Разместить устройства](eplan/cabinetgui_h_geraetplatzieren.md)
+* [Диалоговое окно Трехмерный навигатор монтажных поверхностей — <Имя проекта>](cabinetgui_d_navigator3dschaltschrankaufbau.htm)

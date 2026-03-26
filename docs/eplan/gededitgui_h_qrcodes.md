@@ -31,8 +31,7 @@ QR-код состоит из черных и белых квадратов, р�
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)

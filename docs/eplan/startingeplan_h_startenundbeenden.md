@@ -37,8 +37,7 @@
   
 При следующем запуске Eplan появится системное сообщение, а в строке состояния отобразится пиктограмма . Нажав на эту пиктограмму, вы откроете Eplan Download Manager и сможете установить последнюю версию Eplan.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
-
-[Диалоговое окно Настройки: Проверить версию Eplan](eplan/modaldialogs_d_einstellungenupdate.md)
+* [Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
+* [Диалоговое окно Настройки: Проверить версию Eplan](eplan/modaldialogs_d_einstellungenupdate.md)

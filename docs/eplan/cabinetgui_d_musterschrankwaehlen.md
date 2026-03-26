@@ -44,10 +44,8 @@
 
 В списке отображаются изделия, выбранные в качестве объектов шаблонов, с номером изделия и присвоенным графическим макросом.
 
-См. также
+**См. также:**
 
-[Автоматическая интерпретация: Принцип](eplan/cabinetgui_k_schrankinterpretation.md)
-
-[Представить и перенести логику электрошкафа](eplan/cabinetgui_h_schrankinterpretation.md)
-
-[Диалоговое окно Список соответствия](eplan/cabinetgui_d_trefferliste.md)
+* [Автоматическая интерпретация: Принцип](eplan/cabinetgui_k_schrankinterpretation.md)
+* [Представить и перенести логику электрошкафа](eplan/cabinetgui_h_schrankinterpretation.md)
+* [Диалоговое окно Список соответствия](eplan/cabinetgui_d_trefferliste.md)

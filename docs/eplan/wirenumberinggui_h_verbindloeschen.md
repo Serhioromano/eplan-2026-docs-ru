@@ -18,8 +18,7 @@
   
 В соответствии с настройками из проекта будут удалены обозначения соединений и пустые точки определения соединения, если они выбраны.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Диалоговое окно Удалить обозначения соединений](eplan/wirenumberinggui_d_verbindloeschen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Диалоговое окно Удалить обозначения соединений](eplan/wirenumberinggui_d_verbindloeschen.md)

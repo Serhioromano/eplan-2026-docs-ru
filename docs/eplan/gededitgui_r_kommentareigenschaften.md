@@ -33,16 +33,11 @@
 
 Показывает ответы на комментарий, включая автора и дату изменения, добавленные либо в импортированном PDF-файле, либо непосредственно в Eplan. С помощью свойства Текст ответа можно изменять имеющиеся ответы или добавлять новые.
 
-См. также
+**См. также:**
 
-[Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
-
-[Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-
-[Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-
-[Комментарии](eplan/projectcomments_k_start.md)
-
-[Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
-
-[Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
+* [Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
+* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
+* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
+* [Комментарии](eplan/projectcomments_k_start.md)
+* [Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)

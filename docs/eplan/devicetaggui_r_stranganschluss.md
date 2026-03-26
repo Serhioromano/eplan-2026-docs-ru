@@ -19,8 +19,7 @@
 
 Введите здесь описание вывода жгута.
 
-См. также
+**См. также:**
 
-[Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-
-[Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
+* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)

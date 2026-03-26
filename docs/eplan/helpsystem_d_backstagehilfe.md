@@ -27,8 +27,7 @@
 
   
   
-См. также
+**См. также:**
 
-[Использование справочной системы](eplan/helpsystem_h_nutzen.md)
-
-[Справочная система](eplan/helpsystem_k_start.md)
+* [Использование справочной системы](eplan/helpsystem_h_nutzen.md)
+* [Справочная система](eplan/helpsystem_k_start.md)

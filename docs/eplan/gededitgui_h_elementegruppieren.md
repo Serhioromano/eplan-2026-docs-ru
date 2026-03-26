@@ -67,8 +67,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Последовательность обработки сгруппированных объектов](eplan/gededitgui_k_gruppierung.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Последовательность обработки сгруппированных объектов](eplan/gededitgui_k_gruppierung.md)

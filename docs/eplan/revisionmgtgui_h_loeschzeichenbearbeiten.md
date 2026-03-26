@@ -38,10 +38,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Отображение маркеров ревизии](eplan/revisionmgtgui_k_markierungen.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Отображение маркеров ревизии](eplan/revisionmgtgui_k_markierungen.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)

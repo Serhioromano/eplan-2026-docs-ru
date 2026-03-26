@@ -47,12 +47,9 @@
 Направление подсоединения, источник / цель |  Направления подсоединений (например, 'вправо', 'вниз') определяются автоматически на основании выполненной маршрутизации соединения. Они отражают направление маршрутизации провода от устройств по трассе маршрутизации и содержат важную информацию для прокладчика.  
 Предписать двойную трубку (источник / цель) |  Это свойство берется из свойств размещения изделия (вкладка Схема соединений) или изделия (из присвоенной схемы соединения).  
   
-См. также
+**См. также:**
 
-[Маршрутизируемые соединения (пространство листа)](eplan/routinggui_k_start.md)
-
-[Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
-
-[Вкладка Общая дополнительная длина](eplan/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)
-
-[Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)
+* [Маршрутизируемые соединения (пространство листа)](eplan/routinggui_k_start.md)
+* [Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
+* [Вкладка Общая дополнительная длина](eplan/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)
+* [Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)

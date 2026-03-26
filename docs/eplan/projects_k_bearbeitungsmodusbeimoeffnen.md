@@ -19,10 +19,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Проекты](eplan/projects_k_start.md)
-
-[Создать проекты](eplan/projects_h_projekteerstellen.md)
-
-[Синхронизировать основные данные](eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)
+* [Проекты](eplan/projects_k_start.md)
+* [Создать проекты](eplan/projects_h_projekteerstellen.md)
+* [Синхронизировать основные данные](eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)

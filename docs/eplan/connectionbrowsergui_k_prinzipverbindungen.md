@@ -55,16 +55,11 @@
 
 Это свойство можно использовать, например, в макросах устройств или сохранять в самостоятельно созданных символах. В кабельных соединениях данное свойство может использоваться для управления источником и целью кабеля при условии, что активирована настройка проекта Определить источник и цель кабеля через кабельные соединения.
 
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
-
-[Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
-
-[Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
-
-[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-
-[Характеристика кабелей](eplan/cablegui_k_prinzip.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+* [Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
+* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
+* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Характеристика кабелей](eplan/cablegui_k_prinzip.md)

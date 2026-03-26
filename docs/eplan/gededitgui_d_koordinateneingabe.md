@@ -19,14 +19,10 @@
 * Fluid-техника: система координат Fluid-техники начинается внизу слева. Координатные значения выводятся в шагах сетки.
 * Технология производственных процессов: система координат технологии производственных процессов начинается внизу слева. Координатные значения выводятся в шагах сетки.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
-
-[Переместить исходную точку координат](eplan/gededitgui_h_bezugspunktverschiebung.md)
-
-[Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
-
-[Диалоговое окно Относительный ввод координат](eplan/gededitgui_d_relativekoordinaten.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
+* [Переместить исходную точку координат](eplan/gededitgui_h_bezugspunktverschiebung.md)
+* [Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
+* [Диалоговое окно Относительный ввод координат](eplan/gededitgui_d_relativekoordinaten.md)

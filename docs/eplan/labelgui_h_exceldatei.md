@@ -14,12 +14,9 @@
 5. Нажмите рядом с полем Целевой файл на кнопку  и выберите в открывшемся диалоговом окне каталог и файл или задайте в поле Имя файла имя для нового файла.
 6. Нажмите рядом с полем Шаблон на кнопку  и выберите через следующее диалоговое окно [шаблон Excel](eplan/labelgui_k_excelexportvorlagen.md).
 
-См. также
+**См. также:**
 
-[Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-
-[Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
-
-[Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
-
-[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
+* [Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
+* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)

@@ -32,10 +32,8 @@ kcmil |  Американские и канадские единицы изме�
 мкм² |  Квадратный микрометр  
 Не определено |  Доступно в настройках проекта для свойств электротехнических и гидротехнических соединений. Не задана единица измерения.  
   
-См. также
+**См. также:**
 
-[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-
-[Вкладка Электротехника](eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
-
-[Вкладки "Гидравлика" / "Пневматика" / "Охлаждение" / "Смазка" / "Смазочно-охлаждающая жидкость" / "Газовая техника" / "Технология производственных процессов"](eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md)
+* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Вкладка Электротехника](eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
+* [Вкладки "Гидравлика" / "Пневматика" / "Охлаждение" / "Смазка" / "Смазочно-охлаждающая жидкость" / "Газовая техника" / "Технология производственных процессов"](eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md)

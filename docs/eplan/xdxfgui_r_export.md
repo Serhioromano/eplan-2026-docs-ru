@@ -59,8 +59,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт DXF/DWG](eplan/xdxfgui_d_export.md)
-
-[Диалоговое окно Формат: свойство](eplan/eservicesgui_d_formateigenschaft.md)
+* [Диалоговое окно Экспорт DXF/DWG](eplan/xdxfgui_d_export.md)
+* [Диалоговое окно Формат: свойство](eplan/eservicesgui_d_formateigenschaft.md)

@@ -8,12 +8,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
-
-[Формы вывода и блоки отчетов](eplan/formgeneratorgui_k_ausgabeformen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
+* [Формы вывода и блоки отчетов](eplan/formgeneratorgui_k_ausgabeformen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)

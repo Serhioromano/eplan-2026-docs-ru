@@ -22,12 +22,9 @@
   
 [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
 
-См. также
+**См. также:**
 
-[Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-
-[Проект для сравнения и проект с замечаниями](eplan/processreceiptcontrol_k_projekte.md)
-
-[Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-
-[Генерировать проект для сравнения](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
+* [Проект для сравнения и проект с замечаниями](eplan/processreceiptcontrol_k_projekte.md)
+* [Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
+* [Генерировать проект для сравнения](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)

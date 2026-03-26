@@ -33,6 +33,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Виды в навигаторе ПЛК](eplan/plcgui_k_ansichten.md)
+* [Виды в навигаторе ПЛК](eplan/plcgui_k_ansichten.md)

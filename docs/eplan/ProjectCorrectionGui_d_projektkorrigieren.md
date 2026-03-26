@@ -10,8 +10,7 @@
 
 В этом поле выберите схему, содержащую необходимые корректировочные настройки. С помощью кнопки [...] откройте диалоговое окно Настройки: Очистить. Здесь может быть обработана существующая схема или создана новая схема.
 
-См. также
+**См. также:**
 
-[Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
-
-[Диалоговое окно "Настройки: Очистить"](eplan/ProjectCorrectionGui_d_korrektureinstellungen.md)
+* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Диалоговое окно "Настройки: Очистить"](eplan/ProjectCorrectionGui_d_korrektureinstellungen.md)

@@ -62,24 +62,15 @@
 Свойства |  Открывает в зависимости от выделения диалоговое окно свойств для выделенного объекта. Если выделены страницы, то открывается диалоговое окно Свойства страницы, если выделен проект, то открывается вкладка Свойства в виде Backstage. Если выделены символ, форма, рамка или контур, также открывается соответствующее диалоговое окно.  
 Проект |  Позволяет с помощью подменю генерировать, открывать и закрывать проекты.  
   
-См. также
+**См. также:**
 
-[Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-
-[Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-
-[Открытие и закрытие страниц](eplan/pagebrowsergui_h_seitenoeffnen.md)
-
-[Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
-
-[Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
-
-[Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Создать макросы](eplan/macrosgui_h_makroserzeugen.md)
-
-[Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
-
-[Табличная обработка](eplan/functiondatagridgui_k_start.md)
+* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
+* [Открытие и закрытие страниц](eplan/pagebrowsergui_h_seitenoeffnen.md)
+* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
+* [Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
+* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Создать макросы](eplan/macrosgui_h_makroserzeugen.md)
+* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
+* [Табличная обработка](eplan/functiondatagridgui_k_start.md)

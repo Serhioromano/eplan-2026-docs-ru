@@ -60,6 +60,6 @@
   
 ОУ у выбранной функции изменяется.
 
-См. также
+**См. также:**
 
-[Режим-Свойства (общие)](eplan/reverseengineering_k_modus.md)
+* [Режим-Свойства (общие)](eplan/reverseengineering_k_modus.md)

@@ -22,12 +22,9 @@ Eplan отображает все страницы отчетов, измене�
   
 Скрыты все страницы отчетов, которые с даты изменения и точно до момента выбранной даты изменения не изменялись.
 
-См. также
+**См. также:**
 
-[Генерировать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-
-[Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Генерировать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)

@@ -31,8 +31,7 @@
 
 [Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
-
-[Начертить точки или выводы определения потенциалов](eplan/potentialbrowsergui_h_pdpzeichnen.md)
+* [Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
+* [Начертить точки или выводы определения потенциалов](eplan/potentialbrowsergui_h_pdpzeichnen.md)

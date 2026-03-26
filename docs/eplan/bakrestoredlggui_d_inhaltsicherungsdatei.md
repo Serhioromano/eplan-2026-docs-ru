@@ -12,10 +12,8 @@
 
 В списке отображаются все резервированные отдельные файлы. Если каталог не указан, файлы находятся непосредственно в каталоге проекта или в каталоге основных данных, в противном случае дополнительно указываются и подкаталоги.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Восстановить проекты](eplan/bakrestoredlggui_d_projektewiederherstellen.md)
-
-[Диалоговое окно "Восстановить основные данные"](eplan/bakrestoremdatadlggui_d_stammdatenwiederherstellen.md)
-
-[Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+* [Диалоговое окно Восстановить проекты](eplan/bakrestoredlggui_d_projektewiederherstellen.md)
+* [Диалоговое окно "Восстановить основные данные"](eplan/bakrestoremdatadlggui_d_stammdatenwiederherstellen.md)
+* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)

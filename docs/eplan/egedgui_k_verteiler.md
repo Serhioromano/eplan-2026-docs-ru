@@ -36,14 +36,10 @@
 Соединители используются в Fluid-Технике, во-первых, чтобы можно было использовать различные поперечные сечения внутри соединения. При этом применяются так называемые "переходные фитинги". Во-вторых, соединители вообще используются там, где стыкуются различные виды соединений, например трубы и шланги.  
 В электротехнике для соединения жил кабеля используются, например, соединения обжимом.
 
-См. также
+**См. также:**
 
-[Символы соединения: Основные положения](eplan/egedgui_k_grundlagen.md)
-
-[Символы соединения: Отображение направления соединений](eplan/egedgui_k_darstellungverbindungspunkte.md)
-
-[Символы соединения: Сборные шины](eplan/egedgui_k_sammelschienen.md)
-
-[Точки разрыва: Перекрестные ссылки](eplan/interruptionpointgui_k_darstellungabbruchstellen.md)
-
-[Распределители в топологии](eplan/cablinggui_k_verteilertopologie.md)
+* [Символы соединения: Основные положения](eplan/egedgui_k_grundlagen.md)
+* [Символы соединения: Отображение направления соединений](eplan/egedgui_k_darstellungverbindungspunkte.md)
+* [Символы соединения: Сборные шины](eplan/egedgui_k_sammelschienen.md)
+* [Точки разрыва: Перекрестные ссылки](eplan/interruptionpointgui_k_darstellungabbruchstellen.md)
+* [Распределители в топологии](eplan/cablinggui_k_verteilertopologie.md)

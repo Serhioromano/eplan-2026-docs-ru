@@ -29,6 +29,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Структура обозначения устройства](eplan/devicetaggui_k_aufbauvonbm.md)
+* [Структура обозначения устройства](eplan/devicetaggui_k_aufbauvonbm.md)

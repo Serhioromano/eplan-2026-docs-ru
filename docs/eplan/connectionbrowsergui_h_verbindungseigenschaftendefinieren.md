@@ -13,12 +13,9 @@
   
 Выполняется сохранение значений по умолчанию. При генерировании соединения ему автоматически присваиваются соответствующие значения по умолчанию.
 
-См. также
+**См. также:**
 
-[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-
-[Определить свойства соединения для потенциала](eplan/connectionbrowsergui_h_pdpeigenschaften.md)
-
-[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Определить свойства соединения для потенциала](eplan/connectionbrowsergui_h_pdpeigenschaften.md)
+* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)

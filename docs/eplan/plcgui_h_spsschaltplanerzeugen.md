@@ -43,12 +43,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Генерация схемы соединений ПЛК](eplan/plcgui_k_spsschaltplanerzeugen.md)
-
-[Диалоговое окно Генерировать схему соединений ПЛК](eplan/plcgui_d_spsschaltplanerzeugen.md)
-
-[Макрос для генерации схемы соединений ПЛК](eplan/plcgui_k_makrosschaltplanerzeugen.md)
-
-[Макросы](eplan/macrosgui_k_start.md)
+* [Генерация схемы соединений ПЛК](eplan/plcgui_k_spsschaltplanerzeugen.md)
+* [Диалоговое окно Генерировать схему соединений ПЛК](eplan/plcgui_d_spsschaltplanerzeugen.md)
+* [Макрос для генерации схемы соединений ПЛК](eplan/plcgui_k_makrosschaltplanerzeugen.md)
+* [Макросы](eplan/macrosgui_k_start.md)

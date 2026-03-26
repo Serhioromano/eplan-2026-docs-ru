@@ -34,6 +34,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](eplan/xdxfgui_d_einstellungen.md)
+* [Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](eplan/xdxfgui_d_einstellungen.md)

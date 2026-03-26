@@ -10,12 +10,9 @@
 * Индексированные свойства блока можно предварительно определять для символов и проектов.
 * Формулы расчета можно вводить в свойствах блока для определения свойств расчета.
 
-См. также
+**См. также:**
 
-[Свойства блока: Принцип](eplan/blockproperties_k_prinzip.md)
-
-[Предварительное определение индексированных свойств блока](eplan/blockproperties_k_vordefinition.md)
-
-[Определение индексированных свойств блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
-
-[Свойства расчета](eplan/blockproperties_k_berechnung.md)
+* [Свойства блока: Принцип](eplan/blockproperties_k_prinzip.md)
+* [Предварительное определение индексированных свойств блока](eplan/blockproperties_k_vordefinition.md)
+* [Определение индексированных свойств блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
+* [Свойства расчета](eplan/blockproperties_k_berechnung.md)

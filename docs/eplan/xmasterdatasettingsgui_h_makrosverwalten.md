@@ -37,8 +37,7 @@
   
 Проект ищет недостающие основные данные, содержащиеся в макросе, после чего автоматически их сохраняет.
 
-См. также
+**См. также:**
 
-[Основные данные: Управлять данными изделий](eplan/xmasterdatasettingsgui_h_artikeldatenverwalten.md)
-
-[Найти и сохранить недостающие основные данные проекта, обновить проекты](eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
+* [Основные данные: Управлять данными изделий](eplan/xmasterdatasettingsgui_h_artikeldatenverwalten.md)
+* [Найти и сохранить недостающие основные данные проекта, обновить проекты](eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)

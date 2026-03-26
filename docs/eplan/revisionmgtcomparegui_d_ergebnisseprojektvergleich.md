@@ -40,8 +40,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-
-[Диалоговое окно Настройки: Ревизия](eplan/revisionmgtgui_d_einstellungen.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Диалоговое окно Настройки: Ревизия](eplan/revisionmgtgui_d_einstellungen.md)

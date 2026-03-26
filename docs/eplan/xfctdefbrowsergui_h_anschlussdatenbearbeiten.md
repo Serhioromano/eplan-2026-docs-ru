@@ -26,14 +26,10 @@
 4. В диалоговом окне Логическая схема выводов устройства присвойте в поле Вывод устройства символа выводам устройства функции выводы устройства символа. Обычно выводу устройства "1" функции присвоен и вывод устройства "1" символа и т.д. Через раскрывающиеся списки это присвоение можно изменить.
 5. Подтвердите ввод.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
-
-[Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-
-[Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-
-[Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
-
-[Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
+* [Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
+* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)

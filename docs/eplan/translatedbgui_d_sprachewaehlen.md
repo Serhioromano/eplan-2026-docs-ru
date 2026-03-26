@@ -14,8 +14,7 @@
 
 Выделите язык, который необходимо выбрать. Чтобы выбрать несколько языков, выделите нужные языки, удерживая клавишу [Ctrl].
 
-См. также
+**См. также:**
 
-[Убрать перевод из проекта](eplan/translategui_h_entfernenuebersetzung.md)
-
-[Импортировать список отсутствующих слов](eplan/translategui_h_fehlwortimport.md)
+* [Убрать перевод из проекта](eplan/translategui_h_entfernenuebersetzung.md)
+* [Импортировать список отсутствующих слов](eplan/translategui_h_fehlwortimport.md)

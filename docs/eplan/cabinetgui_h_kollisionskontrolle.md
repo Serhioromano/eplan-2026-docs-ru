@@ -32,8 +32,7 @@
 
 5. Разместите изделие на подходящем месте.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: 3D](gedviewer_d_einstellungenbenutzerallgemein3d.htm)
-
-[P026011: 3D-графика размещения изделий совпадает с <x>](messages_p_026011.htm)
+* [Диалоговое окно Настройки: 3D](gedviewer_d_einstellungenbenutzerallgemein3d.htm)
+* [P026011: 3D-графика размещения изделий совпадает с <x>](messages_p_026011.htm)

@@ -9,8 +9,7 @@
 
 Соединения фазных шин, сгенерированные путем преобразования и путем вставки, больше не учитываются при расчете разводки и при сборке проводов.
 
-См. также
+**См. также:**
 
-[Генерировать соединения фазовых шин](eplan/routinggui_h_phasenschienenvbdgerzg.md)
-
-[Вставить фазные шины](eplan/routinggui_h_phasenschieneneinfg.md)
+* [Генерировать соединения фазовых шин](eplan/routinggui_h_phasenschienenvbdgerzg.md)
+* [Вставить фазные шины](eplan/routinggui_h_phasenschieneneinfg.md)

@@ -19,10 +19,8 @@
 5. Щелкните по кнопке  (Сохранить).
 6. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Сжатие](eplan/projectcleangui_d_komprimierungseinstellungen.md)
-
-[Диалоговое окно Сжать проект](eplan/projectcleangui_d_projektkomprimieren.md)
-
-[Сжимаемые данные проекта](eplan/projectcleangui_k_komprimierungsdaten.md)
+* [Диалоговое окно Настройки: Сжатие](eplan/projectcleangui_d_komprimierungseinstellungen.md)
+* [Диалоговое окно Сжать проект](eplan/projectcleangui_d_projektkomprimieren.md)
+* [Сжимаемые данные проекта](eplan/projectcleangui_k_komprimierungsdaten.md)

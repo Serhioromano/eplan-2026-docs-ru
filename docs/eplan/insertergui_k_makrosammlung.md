@@ -49,18 +49,12 @@
 
 Каталоги макросов, указанные в диалоговом окне "Настройки", не будут отображаться как папки в центре вставки.
 
-См. также
+**См. также:**
 
-[Поиск объектов в центре вставки](eplan/insertergui_h_suchen.md)
-
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
-
-[Обновление центра вставки](eplan/insertergui_k_aktualisierung.md)
-
-[Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
-
-[Генерировать макросы из файлов DXF / DWG ](eplan/macrosgui_h_makrosausdxf.md)
-
-[Создание 3D-макросов](cabinetgui_h_3dmakroerstellen.htm)
+* [Поиск объектов в центре вставки](eplan/insertergui_h_suchen.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
+* [Обновление центра вставки](eplan/insertergui_k_aktualisierung.md)
+* [Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
+* [Генерировать макросы из файлов DXF / DWG ](eplan/macrosgui_h_makrosausdxf.md)
+* [Создание 3D-макросов](cabinetgui_h_3dmakroerstellen.htm)

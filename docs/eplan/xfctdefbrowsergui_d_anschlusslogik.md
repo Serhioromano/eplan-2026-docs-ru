@@ -121,10 +121,8 @@
 
 Поскольку клеммы не имеют обозначений штекера, то ввод, например "X2:2", в распределенных клеммах обрабатывается как простое обозначение вывода устройства.
 
-См. также
+**См. также:**
 
-[Обозначения и описания выводов устройств](eplan/fctdeflibdataexchangegui_k_anschluss.md)
-
-[Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
-
-[Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)
+* [Обозначения и описания выводов устройств](eplan/fctdeflibdataexchangegui_k_anschluss.md)
+* [Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
+* [Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)

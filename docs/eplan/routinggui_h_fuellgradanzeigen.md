@@ -34,6 +34,6 @@
   
 Текущая степень заполнения кабельных каналов и созданных вручную сегментов маршрутизации будет подсчитана и отображена при помощи цветных поверхностей.
 
-См. также
+**См. также:**
 
-[Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
+* [Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)

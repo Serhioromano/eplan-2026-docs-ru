@@ -25,8 +25,7 @@ Eplan копирует файл проекта *.elk и соответствую
 
  
 
-См. также
+**См. также:**
 
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)

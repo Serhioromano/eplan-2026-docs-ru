@@ -44,12 +44,9 @@
 
 Показывает количество пространств листа, которые имеются в проекте.
 
-См. также
+**См. также:**
 
-[Проекты](eplan/projects_k_start.md)
-
-[Страницы отчетов](eplan/formgeneratorgui_k_auswertungsseiten.md)
-
-[Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Проекты](eplan/projects_k_start.md)
+* [Страницы отчетов](eplan/formgeneratorgui_k_auswertungsseiten.md)
+* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)

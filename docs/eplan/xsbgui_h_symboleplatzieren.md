@@ -42,10 +42,8 @@
   
 Символы размещаются и объединяются с другими символами на схеме соединений. В этом случае диалоговое окно Свойства <...> не открывается, свойства условного обозначения используются из предварительных настроек и текущего режима нумерации.
 
-См. также
+**См. также:**
 
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Предотвратить новое размещение символа](eplan/xsbgui_h_symbolplatzierungverhindern.md)
-
-[Показать обозначения и описания выводов устройств](eplan/gededitgui_h_anschlussbezanzeigen.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Предотвратить новое размещение символа](eplan/xsbgui_h_symbolplatzierungverhindern.md)
+* [Показать обозначения и описания выводов устройств](eplan/gededitgui_h_anschlussbezanzeigen.md)

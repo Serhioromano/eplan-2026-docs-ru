@@ -16,6 +16,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить стандартные позиции для описания точек разрыва](eplan/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)
+* [Определить стандартные позиции для описания точек разрыва](eplan/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)

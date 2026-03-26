@@ -38,8 +38,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](eplan/xdxfgui_d_einstellungen.md)
-
-[Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](eplan/xdxfgui_d_einstellungen.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)

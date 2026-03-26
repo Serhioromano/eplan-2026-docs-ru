@@ -26,8 +26,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
-
-[Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)
+* [Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
+* [Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)

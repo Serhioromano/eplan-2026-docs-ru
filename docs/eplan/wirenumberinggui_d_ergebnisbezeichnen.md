@@ -23,10 +23,8 @@
 ---|---  
 Все обозначения соединений не изменять |  Переносит для выделенных соединений старое обозначение в поле Нов. обозначение соединения.  
   
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
-
-[Обозначить соединения](eplan/wirenumberinggui_h_verbnumbezeichnen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
+* [Обозначить соединения](eplan/wirenumberinggui_h_verbnumbezeichnen.md)

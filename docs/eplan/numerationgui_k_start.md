@@ -8,10 +8,8 @@ Eplan позволяет выполнить автоматическую нум�
 * С помощью нумерации в режиме подключения можно отключить это режим для всех устройств.
 * С помощью нумерации в режиме подключения можно отключить это режим для выбранных устройств. 
 
-См. также
+**См. также:**
 
-[Формат нумерации в режиме подключения](eplan/numerationgui_k_format.md)
-
-[Функции и нумерация](eplan/numerationgui_k_verhaltenfunktionen.md)
-
-[Нумеровать (автономно)](eplan/offlinenumerationgui_k_start.md)
+* [Формат нумерации в режиме подключения](eplan/numerationgui_k_format.md)
+* [Функции и нумерация](eplan/numerationgui_k_verhaltenfunktionen.md)
+* [Нумеровать (автономно)](eplan/offlinenumerationgui_k_start.md)

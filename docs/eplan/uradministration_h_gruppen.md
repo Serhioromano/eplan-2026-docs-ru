@@ -68,12 +68,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление правами](eplan/uradministration_k_start.md)
-
-[Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)
-
-[Диалоговое окно Управление правами: Группа](eplan/uradministration_d_gruppe.md)
-
-[Управление пользователями](eplan/uradministration_h_benutzer.md)
+* [Управление правами](eplan/uradministration_k_start.md)
+* [Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)
+* [Диалоговое окно Управление правами: Группа](eplan/uradministration_d_gruppe.md)
+* [Управление пользователями](eplan/uradministration_h_benutzer.md)

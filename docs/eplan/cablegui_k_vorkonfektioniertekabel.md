@@ -40,12 +40,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Кабели](eplan/cablegui_k_start.md)
-
-[Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
-
-[Создать модули](eplan/articlesgui_h_moduleanlegen.md)
-
-[Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
+* [Кабели](eplan/cablegui_k_start.md)
+* [Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
+* [Создать модули](eplan/articlesgui_h_moduleanlegen.md)
+* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)

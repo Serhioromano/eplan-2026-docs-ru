@@ -30,12 +30,9 @@
 
 Если нажать эту кнопку, устройства в поле Выбранные сортируются в алфавитно-цифровой последовательности.
 
-См. также
+**См. также:**
 
-[Отчеты, относящиеся к функции](eplan/formgeneratorgui_k_funktionsbezogen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-
-[Свойства Eplan: Принцип](eplan/properties_k_prinzip.md)
+* [Отчеты, относящиеся к функции](eplan/formgeneratorgui_k_funktionsbezogen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Свойства Eplan: Принцип](eplan/properties_k_prinzip.md)

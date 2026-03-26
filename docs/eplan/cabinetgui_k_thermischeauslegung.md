@@ -28,12 +28,9 @@ Thermal Design Integration предоставляет функциональны
 
  
 
-См. также
+**См. также:**
 
-[Виды для теплового расчета](eplan/cabinetgui_k_lueftungspfeile.md)
-
-[Расчет общей мощности потерь на распределительных устройствах: Принцип](eplan/cabinetgui_k_verlustleistungprinzip.md)
-
-[Рассчитать общую мощность потерь на распределительных устройствах](eplan/cabinetgui_h_verlustleistungberechnen.md)
-
-[Определение неравномерного распределения тепловыделения в климатической области](eplan/cabinetgui_h_verlustleistungsverteilung.md)
+* [Виды для теплового расчета](eplan/cabinetgui_k_lueftungspfeile.md)
+* [Расчет общей мощности потерь на распределительных устройствах: Принцип](eplan/cabinetgui_k_verlustleistungprinzip.md)
+* [Рассчитать общую мощность потерь на распределительных устройствах](eplan/cabinetgui_h_verlustleistungberechnen.md)
+* [Определение неравномерного распределения тепловыделения в климатической области](eplan/cabinetgui_h_verlustleistungsverteilung.md)

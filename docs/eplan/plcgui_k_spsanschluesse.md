@@ -78,20 +78,13 @@
 
  
 
-См. также
+**См. также:**
 
-[Структура ПЛК](eplan/plcgui_k_prinzip.md)
-
-[Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
-
-[Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
-
-[Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
-
-[Принадлежность точек подвода питания к каналу](eplan/plcgui_k_kanalzugehoerigkeit.md)
-
-[Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-
-[Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
-
-[Выделить потенциалы, сигналы или сеть](eplan/potentialbrowsergui_h_potenzialverfolgung.md)
+* [Структура ПЛК](eplan/plcgui_k_prinzip.md)
+* [Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
+* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
+* [Принадлежность точек подвода питания к каналу](eplan/plcgui_k_kanalzugehoerigkeit.md)
+* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
+* [Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
+* [Выделить потенциалы, сигналы или сеть](eplan/potentialbrowsergui_h_potenzialverfolgung.md)

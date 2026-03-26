@@ -48,12 +48,9 @@
 
 Если флажок установлен, Eplan останавливает все выбранные сравнения и контрольные прогоны нормоконтроля, как только обнаруживается различие существенных с точки зрения сравнения настроек или свойств в проекте для сравнения и проекте с замечаниями. Откроется диалоговое окно Проверка проекта: Результаты, и Eplan покажет, какие операции больше не проводились.
 
-См. также
+**См. также:**
 
-[Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
-
-[Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)
-
-[Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-
-[Создать схему контрольных прогонов для проверки проекта](eplan/processreceiptcontrol_h_pruefschema.md)
+* [Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
+* [Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)
+* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Создать схему контрольных прогонов для проверки проекта](eplan/processreceiptcontrol_h_pruefschema.md)

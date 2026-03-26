@@ -79,12 +79,9 @@
 
 Эти логические элементы генерируют монтажные поверхности для размещения соединительных отверстий для электропроводки и областей маршрутизации на гребенке для проводов. Это позволяет маршрутизировать соединения в системе направляющих для проводов.
 
-См. также
+**См. также:**
 
-[Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
-
-[Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
-
-[Редактор контура: Основные положения](eplan/contoureditorgui_k_grundlagen.md)
-
-[Маршрутизируемые соединения в системе направляющих для проводов](eplan/routinggui_k_verdrahtungssystem.md)
+* [Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
+* [Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+* [Редактор контура: Основные положения](eplan/contoureditorgui_k_grundlagen.md)
+* [Маршрутизируемые соединения в системе направляющих для проводов](eplan/routinggui_k_verdrahtungssystem.md)

@@ -4,12 +4,9 @@
 
 Если у условного обозначения нет собственного функционального текста, при создании отчетов используется функциональный текст из зоны.
 
-См. также
+**См. также:**
 
-[Функциональные тексты зон: Принцип](eplan/gededitgui_k_pfadtextprinzip.md)
-
-[Оценка функциональных текстов зон](eplan/gededitgui_k_pfadtextauswertung.md)
-
-[Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)
-
-[Графический редактор](eplan/gededitgui_k_start.md)
+* [Функциональные тексты зон: Принцип](eplan/gededitgui_k_pfadtextprinzip.md)
+* [Оценка функциональных текстов зон](eplan/gededitgui_k_pfadtextauswertung.md)
+* [Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)

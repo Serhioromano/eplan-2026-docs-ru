@@ -30,12 +30,9 @@
   
 Все обновляемые страницы отчетов скрыты. Отображаются только необновляемые страницы отчетов.
 
-См. также
+**См. также:**
 
-[Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)

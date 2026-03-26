@@ -27,14 +27,10 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Создать собственные наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
-
-[Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-
-[Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
-
-[Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-
-[Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Создать собственные наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
+* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
+* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)

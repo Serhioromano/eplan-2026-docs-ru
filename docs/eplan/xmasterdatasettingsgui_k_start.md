@@ -20,14 +20,10 @@
 
 Этими данными можно управлять в определенных каталогах, которые могут быть предварительно установлены через настройки пользователя (командный путь: Файл > Настройки > Пользователь > Управление > Каталоги).
 
-См. также
+**См. также:**
 
-[Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)
-
-[Основные данные: Архив данных](eplan/xmasterdatasettingsgui_k_datenablage.md)
-
-[Управление основными данными](eplan/xmasterdatasettingsgui_h_stammdatenverwalten.md)
-
-[Найти и сохранить недостающие основные данные проекта, обновить проекты](eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
-
-[Синхронизировать основные данные](eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)
+* [Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)
+* [Основные данные: Архив данных](eplan/xmasterdatasettingsgui_k_datenablage.md)
+* [Управление основными данными](eplan/xmasterdatasettingsgui_h_stammdatenverwalten.md)
+* [Найти и сохранить недостающие основные данные проекта, обновить проекты](eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
+* [Синхронизировать основные данные](eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)

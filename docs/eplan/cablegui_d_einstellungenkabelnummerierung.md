@@ -21,6 +21,6 @@
 * [Вкладка Формат](eplan/cablegui_r_einstkabelnumformat.md)
 * [Вкладка Последовательность](eplan/cablegui_r_einstkabelnumreihenfolge.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумеровать кабели](eplan/cablegui_d_kabelnummerierung.md)
+* [Диалоговое окно Нумеровать кабели](eplan/cablegui_d_kabelnummerierung.md)

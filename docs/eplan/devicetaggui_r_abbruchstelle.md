@@ -34,8 +34,7 @@
 
 [Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
-
-[Обработать точки разрыва](eplan/interruptionpointgui_h_abbruchstellenbearbeiten.md)
+* [Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
+* [Обработать точки разрыва](eplan/interruptionpointgui_h_abbruchstellenbearbeiten.md)

@@ -13,10 +13,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставка объектов через центр вставки](eplan/insertergui_h_objekteeinfuegen.md)
-
-[Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
-
-[Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
+* [Вставка объектов через центр вставки](eplan/insertergui_h_objekteeinfuegen.md)
+* [Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
+* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)

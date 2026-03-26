@@ -34,12 +34,9 @@
 
 Для клемм и штекеров не имеется специальных однополюсных определений функции. Здесь используются стандартные клеммы и штекеры, которые затем соответствующе анализируются.
 
-См. также
+**См. также:**
 
-[Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
-
-[Собственные обозначения выводов устройства и условные обозначения](eplan/fctdeflibdataexchangegui_k_start.md)
-
-[Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-
-[Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
+* [Собственные обозначения выводов устройства и условные обозначения](eplan/fctdeflibdataexchangegui_k_start.md)
+* [Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)

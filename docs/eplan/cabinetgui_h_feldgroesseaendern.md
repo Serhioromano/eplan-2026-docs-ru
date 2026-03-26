@@ -23,6 +23,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
+* [Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)

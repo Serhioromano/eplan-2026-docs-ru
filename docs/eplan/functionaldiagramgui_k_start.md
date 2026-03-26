@@ -7,10 +7,8 @@
 * При создании блок-схем рабочего процесса Eplan поддерживает набор готовых форм и символов.
 * Для функций и макросов, которые следует разместить в блок-схемах рабочего процесса, доступен вид представления 'Функциональный'.
 
-См. также
+**См. также:**
 
-[Блок-схема рабочего процесса: Принцип](eplan/functionaldiagramgui_k_prinzip.md)
-
-[Диаграммы GRAFCET](eplan/functionaldiagramgui_k_grafcet.md)
-
-[Порядок создания блок-схем рабочего процесса](eplan/functionaldiagramgui_k_funktionsdiagramme.md)
+* [Блок-схема рабочего процесса: Принцип](eplan/functionaldiagramgui_k_prinzip.md)
+* [Диаграммы GRAFCET](eplan/functionaldiagramgui_k_grafcet.md)
+* [Порядок создания блок-схем рабочего процесса](eplan/functionaldiagramgui_k_funktionsdiagramme.md)

@@ -35,8 +35,7 @@
 
 [Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-
-[Медный жгут: Принцип](eplan/copper_k_kupferstrang.md)
+* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
+* [Медный жгут: Принцип](eplan/copper_k_kupferstrang.md)

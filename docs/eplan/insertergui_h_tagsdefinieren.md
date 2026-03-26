@@ -62,12 +62,9 @@
 Отображение количества объектов, присвоенных тегу, уменьшится на значение "1" рядом с соответствующей папкой. Если тегу был присвоен всего один объект, тег удалится полностью.  
 
 
-См. также
+**См. также:**
 
-[Центр вставки](eplan/insertergui_k_start.md)
-
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
-
-[Комбинации клавиш в центре вставки](eplan/insertergui_k_tastaturbedienung.md)
+* [Центр вставки](eplan/insertergui_k_start.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
+* [Комбинации клавиш в центре вставки](eplan/insertergui_k_tastaturbedienung.md)

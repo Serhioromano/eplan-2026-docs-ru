@@ -12,8 +12,7 @@
 * Вы можете предоставить управлению проектами права для обработки проектов.
 * Вы можете выполнять резервное копирование, выгрузку и архивирование проекта.
 
-См. также
+**См. также:**
 
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
-
-[Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)

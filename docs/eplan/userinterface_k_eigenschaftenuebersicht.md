@@ -12,8 +12,7 @@
 
 Обзор свойств также позволяет использовать специальную форму групповой обработки. При этом отображаются и обрабатываются общие для всех различных условных обозначений свойства. Это называется [функционально-независимой групповой обработкой](eplan/multipleselection_k_prinzip.md#I_BlockbearbSchaltzeichen).
 
-См. также
+**См. также:**
 
-[Диалоговые окна](eplan/userinterface_k_dialoge.md)
-
-[Диалоговое окно Обзор свойств — <Имя проекта>](eplan/modaldialogsdb_d_eigenschaftenuebersicht.md)
+* [Диалоговые окна](eplan/userinterface_k_dialoge.md)
+* [Диалоговое окно Обзор свойств — <Имя проекта>](eplan/modaldialogsdb_d_eigenschaftenuebersicht.md)

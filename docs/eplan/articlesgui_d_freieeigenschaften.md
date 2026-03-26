@@ -42,8 +42,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-
-[Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)
+* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)

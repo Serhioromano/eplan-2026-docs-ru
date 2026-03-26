@@ -77,10 +77,8 @@
 
 При сравнении проектов опции не учитываются. Сравниваются только функции, содержащиеся на данный момент в проекте, т. е. включенные опции.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Ревизия (графическое представление)](eplan/revisionmgtgui_d_einstellungengrafisch.md)
-
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Диалоговое окно Настройки: Ревизия (графическое представление)](eplan/revisionmgtgui_d_einstellungengrafisch.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)

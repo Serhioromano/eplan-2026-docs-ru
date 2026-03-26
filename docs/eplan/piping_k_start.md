@@ -20,12 +20,9 @@
 * Генерировать данные изготовления для изгибания трубопроводов с помощью программы трубогибочной машины
 * Изогнуть трубопроводы с помощью трубогибочной машины
 
-См. также
+**См. также:**
 
-[Свободно маршрутизировать трубопроводы](eplan/piping_h_freiverlegen.md)
-
-[Изменить трубопроводы](eplan/piping_h_rohrleitungaendern.md)
-
-[Изменить колена труб](eplan/piping_h_rohrbogenaendern.md)
-
-[Экспортировать трубопровод](eplan/piping_h_rohrleitungexportieren.md)
+* [Свободно маршрутизировать трубопроводы](eplan/piping_h_freiverlegen.md)
+* [Изменить трубопроводы](eplan/piping_h_rohrleitungaendern.md)
+* [Изменить колена труб](eplan/piping_h_rohrbogenaendern.md)
+* [Экспортировать трубопровод](eplan/piping_h_rohrleitungexportieren.md)

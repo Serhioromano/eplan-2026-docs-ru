@@ -8,12 +8,9 @@
 * Разработать расширенное обозначение ссылки со структурой устройства согласно стандарту EN 81346. При этом вы можете использовать маркировку продукции в качестве дополнительного блока идентификаторов.
 * Дополнительно возможно также обозначение страниц согласно стандарту DIN EN 61355-1. При таком типе маркировки для структурирования используется т. н. "Идентификатор объекта".
 
-См. также
+**См. также:**
 
-[Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-
-[Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-
-[Структурирование проектов согласно стандарту EN 81346](eplan/projectstructure_k_referenzkennzeichnung.md)
-
-[Обозначение страниц согласно стандарту DIN EN 61355-1](eplan/projectstructure_k_objektkennzeichen.md)
+* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
+* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
+* [Структурирование проектов согласно стандарту EN 81346](eplan/projectstructure_k_referenzkennzeichnung.md)
+* [Обозначение страниц согласно стандарту DIN EN 61355-1](eplan/projectstructure_k_objektkennzeichen.md)

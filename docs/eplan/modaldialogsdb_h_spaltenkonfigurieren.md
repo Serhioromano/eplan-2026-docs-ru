@@ -60,8 +60,7 @@
   
 Закрывается диалоговое окно Конфигурировать представление, и представление обновляется.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Конфигурировать представление (список)](eplan/modaldialogsdb_d_spaltenkonfiguration.md)
-
-[Диалоговое окно Конфигурировать представление (дерево)](eplan/modaldialogsdb_d_baumkonfiguration.md)
+* [Диалоговое окно Конфигурировать представление (список)](eplan/modaldialogsdb_d_spaltenkonfiguration.md)
+* [Диалоговое окно Конфигурировать представление (дерево)](eplan/modaldialogsdb_d_baumkonfiguration.md)

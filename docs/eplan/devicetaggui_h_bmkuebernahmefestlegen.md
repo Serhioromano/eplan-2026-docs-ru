@@ -25,8 +25,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Перенос ОУ](eplan/devicetaggui_k_bmkuebernahme.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Перенос ОУ](eplan/devicetaggui_k_bmkuebernahme.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)

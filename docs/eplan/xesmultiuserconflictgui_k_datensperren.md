@@ -18,6 +18,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
+* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)

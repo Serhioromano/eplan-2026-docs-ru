@@ -27,6 +27,6 @@
 * [Вкладка Технологические перемычки](eplan/ncgui_r_stegparameterlc.md)
 * [Вкладка "Обозначение поля"](eplan/ncgui_r_feldbezeichner.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт Rittal - Perforex LC / Secarex](eplan/ncgui_d_exportkieslinglc.md)
+* [Диалоговое окно Экспорт Rittal - Perforex LC / Secarex](eplan/ncgui_d_exportkieslinglc.md)

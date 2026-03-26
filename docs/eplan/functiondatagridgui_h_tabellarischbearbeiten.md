@@ -27,10 +27,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Табличная обработка](eplan/functiondatagridgui_k_start.md)
-
-[Диалоговое окно Табличная обработка — <Имя проекта>](eplan/functiondatagridgui_d_tabellarischbearbeiten.md)
-
-[Диалоговое окно Настройки: Табличная обработка](eplan/functiondatagridgui_d_schematabellarischebearbeitung.md)
+* [Табличная обработка](eplan/functiondatagridgui_k_start.md)
+* [Диалоговое окно Табличная обработка — <Имя проекта>](eplan/functiondatagridgui_d_tabellarischbearbeiten.md)
+* [Диалоговое окно Настройки: Табличная обработка](eplan/functiondatagridgui_d_schematabellarischebearbeitung.md)

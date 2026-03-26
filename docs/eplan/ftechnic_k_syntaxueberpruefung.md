@@ -8,8 +8,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление структурными идентификаторами](eplan/pleditorgui_k_start.md)
-
-[Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
+* [Управление структурными идентификаторами](eplan/pleditorgui_k_start.md)
+* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)

@@ -73,14 +73,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Диалоговое окно Вставить](eplan/macrosgui_d_einfuegen.md)
-
-[Диалоговое окно Буфер обмена](eplan/macrosgui_d_zwischenablage.md)
-
-[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
-
-[Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Диалоговое окно Вставить](eplan/macrosgui_d_einfuegen.md)
+* [Диалоговое окно Буфер обмена](eplan/macrosgui_d_zwischenablage.md)
+* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
+* [Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)

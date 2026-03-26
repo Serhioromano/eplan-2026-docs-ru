@@ -49,12 +49,9 @@
 ---|---  
 Обработать структуры |  Открывает диалоговое окно Обработать структуры. Позволяет задавать / обрабатывать главные идентификаторы и до 9 подидентификаторов для отдельных блоков идентификаторов.  
   
-См. также
+**См. также:**
 
-[Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
-
-[Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
-
-[Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
-
-[Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
+* [Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
+* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
+* [Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
+* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)

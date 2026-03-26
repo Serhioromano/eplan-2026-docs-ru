@@ -7,12 +7,9 @@
 * Для каждого определения функции можно сохранить десять наборов обозначений и описаний выводов устройства. Затем эти наборы можно использовать из функции.
 * Наборы обозначений выводов устройства и описаний выводов устройства сохраняются в настройках проекта и экспортируются и импортируются при экспорте и импорте настроек проекта.
 
-См. также
+**См. также:**
 
-[Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
-
-[Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
-
-[Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-
-[Создать собственные наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+* [Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
+* [Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
+* [Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Создать собственные наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)

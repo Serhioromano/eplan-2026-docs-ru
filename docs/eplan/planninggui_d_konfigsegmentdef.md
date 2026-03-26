@@ -243,12 +243,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-
-[Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
-
-[Создать определенные пользователем свойства](eplan/userdefproperties_h_eigenschafterstellen.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
+* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+* [Создать определенные пользователем свойства](eplan/userdefproperties_h_eigenschafterstellen.md)

@@ -55,8 +55,7 @@ Eplan открывает диалоговое окно Сохранить как
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Сохранить как](eplan/macrosgui_d_speichernunter.md)
-
-[Данные сгенерированного макроса](eplan/macrosgui_k_daten.md)
+* [Диалоговое окно Сохранить как](eplan/macrosgui_d_speichernunter.md)
+* [Данные сгенерированного макроса](eplan/macrosgui_k_daten.md)

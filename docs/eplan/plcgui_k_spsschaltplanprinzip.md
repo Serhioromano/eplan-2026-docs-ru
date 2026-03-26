@@ -45,12 +45,9 @@
 
 Обзоры входов и выходов и обзоры создания каркасов различаются по варианту макроса. В обоих случаях макрос размещается в виде представления "Обзор". Вариант макроса А предназначен для обзоров входов и выходов, а вариант макроса Е — для создания каркасов.
 
-См. также
+**См. также:**
 
-[Макрос для генерации схемы соединений ПЛК](eplan/plcgui_k_makrosschaltplanerzeugen.md)
-
-[Генерация схемы соединений ПЛК](eplan/plcgui_k_spsschaltplanerzeugen.md)
-
-[ПЛК](eplan/plcgui_k_start.md)
-
-[Макросы](eplan/macrosgui_k_start.md)
+* [Макрос для генерации схемы соединений ПЛК](eplan/plcgui_k_makrosschaltplanerzeugen.md)
+* [Генерация схемы соединений ПЛК](eplan/plcgui_k_spsschaltplanerzeugen.md)
+* [ПЛК](eplan/plcgui_k_start.md)
+* [Макросы](eplan/macrosgui_k_start.md)

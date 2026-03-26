@@ -13,12 +13,9 @@
   
 Удаляются все страницы отчетов, принадлежащие этому блоку отчетов.
 
-См. также
+**См. также:**
 
-[Удалить встроенный отчет](eplan/formgeneratorgui_h_eingbauswertungloeschen.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Удалить встроенный отчет](eplan/formgeneratorgui_h_eingbauswertungloeschen.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)

@@ -36,6 +36,6 @@ Eplan после ввода свойств устройства проверяе
 
 Закрывает диалоговое окно. Вы вернетесь в диалоговое окно "Свойства" и сможете исправить введенную информацию.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)

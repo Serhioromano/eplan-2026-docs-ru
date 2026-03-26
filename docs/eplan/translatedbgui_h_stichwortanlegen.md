@@ -20,12 +20,9 @@ Eplan отобразит индикатор вставки в поле Ключ�
   
 Ключевое слово будет добавлено в левую часть списка ключевых слов.
 
-См. также
+**См. также:**
 
-[Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
-
-[Ввести предложение по разделению](eplan/translatedbgui_h_trennvorschlag.md)
-
-[Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-
-[Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
+* [Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
+* [Ввести предложение по разделению](eplan/translatedbgui_h_trennvorschlag.md)
+* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
+* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)

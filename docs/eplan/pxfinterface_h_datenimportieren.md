@@ -97,10 +97,8 @@ Excel открывается вместе с экспортированными 
   
 Созданные в Excel объекты будут импортированы. Новые изделия непосредственно доступны в базе данных изделий. Новые функции добавляются в навигатор устройств как неразмещенные функции.
 
-См. также
+**См. также:**
 
-[Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
-
-[Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
-
-[Диалоговое окно Внешняя обработка: импортировать данные изделий](eplan/macrosgui_d_pxfartikelimport.md)
+* [Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
+* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
+* [Диалоговое окно Внешняя обработка: импортировать данные изделий](eplan/macrosgui_d_pxfartikelimport.md)

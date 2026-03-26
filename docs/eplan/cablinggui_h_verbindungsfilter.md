@@ -37,6 +37,6 @@
   
 При маршрутизации соединения маршрутизируются только через обработанный сегмент маршрутизации, соответствующий установленным критериям фильтра.
 
-См. также
+**См. также:**
 
-[Вкладка Фильтр соединений](eplan/connectionsettingsgui_r_einstellungenverbindungsfilter.md)
+* [Вкладка Фильтр соединений](eplan/connectionsettingsgui_r_einstellungenverbindungsfilter.md)

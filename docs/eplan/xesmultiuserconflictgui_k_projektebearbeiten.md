@@ -51,14 +51,10 @@
 
 Если первый пользователь все-таки пытается отменить свой рабочий шаг, он получает сообщение о том, что он не может отменить свои изменения, поскольку другой пользователь уже изменил объект далее.
 
-См. также
+**См. также:**
 
-[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
-
-[Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
-
-[Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
-
-[Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
-
-[Отмена и восстановление операций](eplan/gededitgui_k_undoundredo.md)
+* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
+* [Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
+* [Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
+* [Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+* [Отмена и восстановление операций](eplan/gededitgui_k_undoundredo.md)

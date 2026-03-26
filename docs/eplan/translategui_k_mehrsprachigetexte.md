@@ -35,12 +35,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
-
-[Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
-
-[Диалоговое окно "Настройки: объем" / вкладка "Объем"](eplan/translategui_r_einstellungumfang.md)
-
-[Диалоговое окно "Настройки: Управление изделиями (переводимые свойства)" / вкладка "Управление изделиями"](eplan/translategui_r_artikelverwaltung.md)
+* [Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
+* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
+* [Диалоговое окно "Настройки: объем" / вкладка "Объем"](eplan/translategui_r_einstellungumfang.md)
+* [Диалоговое окно "Настройки: Управление изделиями (переводимые свойства)" / вкладка "Управление изделиями"](eplan/translategui_r_artikelverwaltung.md)

@@ -69,6 +69,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Порядок создания блок-схем рабочего процесса](eplan/functionaldiagramgui_k_funktionsdiagramme.md)
+* [Порядок создания блок-схем рабочего процесса](eplan/functionaldiagramgui_k_funktionsdiagramme.md)

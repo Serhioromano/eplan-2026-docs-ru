@@ -69,8 +69,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Блок-схема рабочего процесса: Принцип](eplan/functionaldiagramgui_k_prinzip.md)
-
-[Диаграммы GRAFCET](eplan/functionaldiagramgui_k_grafcet.md)
+* [Блок-схема рабочего процесса: Принцип](eplan/functionaldiagramgui_k_prinzip.md)
+* [Диаграммы GRAFCET](eplan/functionaldiagramgui_k_grafcet.md)

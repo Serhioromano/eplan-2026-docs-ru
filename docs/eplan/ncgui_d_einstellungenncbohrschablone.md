@@ -25,6 +25,6 @@
 * [Вкладка Маркировка](eplan/ncgui_r_beschriftungbohrschablone.md)
 * [Вкладка Исключения при сверлении](eplan/ncgui_r_bohrausnahmen.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт шаблона сверления](eplan/ncgui_d_exportbohrschablone.md)
+* [Диалоговое окно Экспорт шаблона сверления](eplan/ncgui_d_exportbohrschablone.md)

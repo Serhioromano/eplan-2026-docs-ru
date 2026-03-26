@@ -34,10 +34,8 @@
 
 Открывает диалоговое окно Расширенные структуры проекта. Позволяет определить предшествующий знак и десятичную точку для блоков идентификаторов.
 
-См. также
+**См. также:**
 
-[Структура проекта](eplan/projectstructure_k_start.md)
-
-[Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-
-[Определить структуру проекта](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Структура проекта](eplan/projectstructure_k_start.md)
+* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
+* [Определить структуру проекта](eplan/changestandardsgui_h_projektstrukturanpassen.md)

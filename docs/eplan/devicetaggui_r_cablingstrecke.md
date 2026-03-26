@@ -70,8 +70,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-
-[Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
+* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)

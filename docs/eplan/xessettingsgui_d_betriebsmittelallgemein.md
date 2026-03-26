@@ -78,12 +78,9 @@
 
 Если этот флажок снят, изделия выводятся независимо от их позиции.
 
-См. также
+**См. также:**
 
-[Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
-
-[Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)
-
-[Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
-
-[Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
+* [Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
+* [Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)
+* [Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
+* [Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)

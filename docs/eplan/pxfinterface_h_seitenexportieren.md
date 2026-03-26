@@ -60,12 +60,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Внешняя обработка: Принцип работы](eplan/pxfinterface_k_arbeitsweise.md)
-
-[Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
-
-[Произвести настройки для внешней обработки](eplan/pxfinterface_h_exporteinstellungen.md)
-
-[Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)
+* [Внешняя обработка: Принцип работы](eplan/pxfinterface_k_arbeitsweise.md)
+* [Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
+* [Произвести настройки для внешней обработки](eplan/pxfinterface_h_exporteinstellungen.md)
+* [Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)

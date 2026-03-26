@@ -74,8 +74,7 @@
   
 Объекты присваиваются области. Присвоение можно проверить, выбрав для соответствующей области пункт всплывающего меню Выделить соответствующие объекты.
 
-См. также
+**См. также:**
 
-[Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
-
-[Проверить формы](eplan/formeditorgui_h_formularepruefen.md)
+* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Проверить формы](eplan/formeditorgui_h_formularepruefen.md)

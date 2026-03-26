@@ -51,8 +51,7 @@
   
 База данных записывается в настройках в качестве базы данных управления проектами.
 
-См. также
+**См. также:**
 
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
-
-[Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)

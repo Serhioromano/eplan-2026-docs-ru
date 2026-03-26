@@ -45,12 +45,9 @@
 
 В строке состояния диалогового окна отображаются полное имя страницы, положение на странице, тип страницы, а также язык первой выделенной записи поиска.
 
-См. также
+**См. также:**
 
-[Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
-
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-
-[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)

@@ -102,12 +102,9 @@
 
 Нажмите эту кнопку, чтобы открыть диалоговое окно Логическая схема выводов устройства и просмотреть данные имеющихся выводов устройства и при необходимости их изменить.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
-
-[Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
-
-[Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
-
-[Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
+* [Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
+* [Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
+* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)

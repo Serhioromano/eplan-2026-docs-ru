@@ -27,12 +27,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
-
-[Сегменты маршрутизации топологии](eplan/cablinggui_k_strecken.md)
-
-[Учет разности высотных отметок при маршрутизации](eplan/cablinggui_k_teilstrecke.md)
-
-[Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
+* [Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
+* [Сегменты маршрутизации топологии](eplan/cablinggui_k_strecken.md)
+* [Учет разности высотных отметок при маршрутизации](eplan/cablinggui_k_teilstrecke.md)
+* [Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)

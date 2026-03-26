@@ -23,8 +23,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
-
-[Вкладка Параметры, важные с точки зрения безопасности](eplan/articlesgui_r_sicherheitskennwerte.md)
+* [Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
+* [Вкладка Параметры, важные с точки зрения безопасности](eplan/articlesgui_r_sicherheitskennwerte.md)

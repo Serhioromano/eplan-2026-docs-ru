@@ -29,16 +29,11 @@
 * Исполнитель последовательно просматривает комментарии и помечает их соответствующим образом.
 * По завершении проекта исполнитель удаляет все комментарии из него.
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-
-[Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
-
-[Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-
-[Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-
-[Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
+* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
+* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
+* [Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)

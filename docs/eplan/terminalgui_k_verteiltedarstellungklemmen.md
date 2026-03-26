@@ -58,12 +58,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Клеммы](eplan/terminalgui_k_start.md)
-
-[Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-
-[Создание перемычек при распределенных клеммах](eplan/terminalgui_k_brueckenbildung.md)
-
-[Вставка распределенных клемм](eplan/terminalgui_h_teilklemmenzeichnen.md)
+* [Клеммы](eplan/terminalgui_k_start.md)
+* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
+* [Создание перемычек при распределенных клеммах](eplan/terminalgui_k_brueckenbildung.md)
+* [Вставка распределенных клемм](eplan/terminalgui_h_teilklemmenzeichnen.md)

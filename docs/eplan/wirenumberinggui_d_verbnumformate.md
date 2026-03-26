@@ -61,10 +61,8 @@
 
 Если установлен этот флажок, обозначения выводов жгутов с обозначением соединения будут перезаписаны. При этом будет взято обозначение первого соединения, которое подсоединено к соответствующему выводу жгута.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)

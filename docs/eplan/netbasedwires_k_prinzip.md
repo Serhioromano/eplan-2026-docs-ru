@@ -45,10 +45,8 @@
 
 Свойство Тип управления может использоваться в качестве критерия фильтра в отчетах, чтобы выводить только соединения со значением 'Сетевые'.
 
-См. также
+**См. также:**
 
-[Сетевые соединения](eplan/netbasedwires_k_start.md)
-
-[Обработка в сети](eplan/netbasedwires_k_netzbearbeiten.md)
-
-[Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)
+* [Сетевые соединения](eplan/netbasedwires_k_start.md)
+* [Обработка в сети](eplan/netbasedwires_k_netzbearbeiten.md)
+* [Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)

@@ -20,14 +20,10 @@
 
 Для контуров типа Генерирование записи данных контура ЧУ существует специальное диалоговое окно — [Запись данных контура ЧУ](eplan/contoureditorgui_d_ncdatensatz.md), в данном диалоговом окне для чертежа контура задайте релевантные машинно-зависимые данные. Данные сохраняются на контуре.
 
-См. также
+**См. также:**
 
-[Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
-
-[Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
-
-[Обработать контуры](eplan/contoureditorgui_h_konturenkopieren.md)
-
-[Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
-
-[Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)
+* [Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
+* [Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
+* [Обработать контуры](eplan/contoureditorgui_h_konturenkopieren.md)
+* [Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+* [Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)

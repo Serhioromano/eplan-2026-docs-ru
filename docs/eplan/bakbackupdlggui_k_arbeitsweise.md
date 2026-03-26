@@ -18,12 +18,9 @@
 
 Завершенные проекты можно архивировать, чтобы освободить место и обеспечить лучший обзор на носителе данных. При этом копия проекта сохраняется на другом носителе данных, а исходный проект, за исключением информационного файла, с жесткого диска удаляется.
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
-
-[Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
-
-[Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
+* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
+* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)

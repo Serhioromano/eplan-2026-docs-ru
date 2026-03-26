@@ -35,10 +35,8 @@
   
 Текст-заполнитель размещается на странице формы и заменяется при соответствующем отчете на выбранную в свойствах формы графику.
 
-См. также
+**См. также:**
 
-[Определить общую графику в формах](eplan/formeditorgui_h_allggrafikeninformularendefinieren.md)
-
-[Определить графику в зависимости от определений функций свойство в формах](eplan/formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md)
-
-[Определить графику в зависимости от значений свойство в формах](eplan/formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md)
+* [Определить общую графику в формах](eplan/formeditorgui_h_allggrafikeninformularendefinieren.md)
+* [Определить графику в зависимости от определений функций свойство в формах](eplan/formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md)
+* [Определить графику в зависимости от значений свойство в формах](eplan/formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md)

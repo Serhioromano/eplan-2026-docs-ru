@@ -28,6 +28,6 @@
 * [Вкладка Технологические перемычки](eplan/ncgui_r_stegparameter.md)
 * [Вкладка Исключения при сверлении](eplan/ncgui_r_bohrausnahmen.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт Rittal - Perforex BC / Secarex](eplan/ncgui_d_exportkiesling.md)
+* [Диалоговое окно Экспорт Rittal - Perforex BC / Secarex](eplan/ncgui_d_exportkiesling.md)

@@ -22,10 +22,8 @@
 ---|---  
 Отправить эл. письмо |  Откроется диалоговое окно Сообщение, в котором можно ввести электронное сообщение. Поле для ввода адреса электронной почты уже автоматически заполнено.  
   
-См. также
+**См. также:**
 
-[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
-
-[Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
-
-[Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
+* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
+* [Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
+* [Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)

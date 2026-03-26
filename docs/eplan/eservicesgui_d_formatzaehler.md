@@ -54,10 +54,8 @@
 * Обозначение канала (автоматич.): Обозначение канала точки подвода питания ПЛК. Показывает или содержание обозначения канала, внесенного вручную, или содержание канала, определенного из соседнего вывода устройства В/В.
 * ЦПУ: Имя: Имя центрального обрабатывающего устройства (процессора) блока управления ПЛК.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
-
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
-
-[Свойства Eplan](eplan/properties_o_main.md)
+* [Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Свойства Eplan](eplan/properties_o_main.md)

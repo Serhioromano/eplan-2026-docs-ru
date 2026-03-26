@@ -71,12 +71,9 @@
 
 Если установлен этот флажок, выбранный режим вставки используется для всех других операций вставки. При этом диалоговое окно Режим вставки больше не выводится. Диалоговое окно Режим вставки можно активировать снова, выбрав через Файл > Настройки > Проекты > "Имя проекта" > Устройства > Нумерация (online) опцию С запросом.
 
-См. также
+**См. также:**
 
-[Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-
-[Копировать, вырезать и вставить элементы](eplan/gededitgui_h_elementekopieren.md)
-
-[Дублировать элементы](eplan/gededitgui_h_elementeduplizieren.md)
-
-[Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
+* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
+* [Копировать, вырезать и вставить элементы](eplan/gededitgui_h_elementekopieren.md)
+* [Дублировать элементы](eplan/gededitgui_h_elementeduplizieren.md)
+* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)

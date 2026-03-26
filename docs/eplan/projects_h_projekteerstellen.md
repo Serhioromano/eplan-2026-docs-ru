@@ -23,12 +23,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-
-[Проекты](eplan/projects_k_start.md)
-
-[Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
-
-[Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
+* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
+* [Проекты](eplan/projects_k_start.md)
+* [Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
+* [Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)

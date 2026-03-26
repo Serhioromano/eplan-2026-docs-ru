@@ -83,12 +83,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
-
-[Вкладки <Категория функции > / <Категория функции> (Устройство)](eplan/devicetaggui_r_bmdaten.md)
-
-[Вкладка Данные структуры ПЛК](eplan/devicetaggui_r_spsstruktur.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Вкладки <Категория функции > / <Категория функции> (Устройство)](eplan/devicetaggui_r_bmdaten.md)
+* [Вкладка Данные структуры ПЛК](eplan/devicetaggui_r_spsstruktur.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)

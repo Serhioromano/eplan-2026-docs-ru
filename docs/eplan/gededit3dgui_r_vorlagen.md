@@ -62,6 +62,6 @@
 
    
   
-См. также
+**См. также:**
 
-[Автоматически генерировать страницы с обзорами](gededit3dgui_h_autoansichterstellen.htm)
+* [Автоматически генерировать страницы с обзорами](gededit3dgui_h_autoansichterstellen.htm)

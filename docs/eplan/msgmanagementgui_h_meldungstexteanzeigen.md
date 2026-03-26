@@ -35,10 +35,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
-
-[Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-
-[Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
+* [Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
+* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
+* [Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)

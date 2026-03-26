@@ -35,8 +35,7 @@ ANSI E |  864 x 1118 |  34 x 44
 
 В этих полях отображаются размеры выбранного формата бумаги в настроенных единицах измерения. Размеры переносятся в диалоговое окно Настройки: PDF-выходная величина.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)

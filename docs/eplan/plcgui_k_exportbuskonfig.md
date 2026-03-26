@@ -42,14 +42,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Структура ПЛК](eplan/plcgui_k_prinzip.md)
-
-[Обмен данными файлов конфигурации ПЛК](eplan/plcgui_k_austauschbuskonfig.md)
-
-[Импорт файлов конфигурации ПЛК](eplan/plcgui_k_importbuskonfig.md)
-
-[Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
-
-[Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Структура ПЛК](eplan/plcgui_k_prinzip.md)
+* [Обмен данными файлов конфигурации ПЛК](eplan/plcgui_k_austauschbuskonfig.md)
+* [Импорт файлов конфигурации ПЛК](eplan/plcgui_k_importbuskonfig.md)
+* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)

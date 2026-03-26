@@ -7,8 +7,7 @@
 * Данные проекта сжимаются для всего проекта. Вы можете определить фильтр для исключения сжатия данных проекта или для сжатия только выбранных уровней иерархии.
 * Результаты сжатия представляются в виде системного сообщения.
 
-См. также
+**См. также:**
 
-[Сжимаемые данные проекта](eplan/projectcleangui_k_komprimierungsdaten.md)
-
-[Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+* [Сжимаемые данные проекта](eplan/projectcleangui_k_komprimierungsdaten.md)
+* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)

@@ -30,12 +30,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
-
-[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-
-[Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
-
-[Присвоить данные функции условному обозначению](eplan/navigatorgui_h_funktionzuweisen.md)
+* [Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
+* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
+* [Присвоить данные функции условному обозначению](eplan/navigatorgui_h_funktionzuweisen.md)

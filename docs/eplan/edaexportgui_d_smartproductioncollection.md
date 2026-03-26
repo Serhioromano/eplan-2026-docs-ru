@@ -18,6 +18,6 @@
 
 Введите в этом поле место хранения. Кнопка  открывает диалоговое окно Выбрать папку для выбора любого каталога для места хранения.
 
-См. также
+**См. также:**
 
-[Экспорт данных изготовления для Eplan Smart Production](eplan/edaexportgui_h_smartproductioncollectiondatenexportieren.md)
+* [Экспорт данных изготовления для Eplan Smart Production](eplan/edaexportgui_h_smartproductioncollectiondatenexportieren.md)

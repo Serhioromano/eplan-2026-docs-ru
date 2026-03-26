@@ -10,10 +10,8 @@
 4. В диалоговом окне Выбор символа выберите подходящий символ и щелкните по кнопке [ОК].
 5. Щелкните в диалоговом окне Свойства <...> по [OK].
 
-См. также
+**См. также:**
 
-[Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-
-[Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-
-[Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)

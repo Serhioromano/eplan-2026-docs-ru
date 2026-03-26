@@ -22,10 +22,8 @@
 9. Аналогично переходите ко всем остальным действиям по вводу выбранного символа.
 10. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].
 
-См. также
+**См. также:**
 
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
-
-[Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
+* [Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)

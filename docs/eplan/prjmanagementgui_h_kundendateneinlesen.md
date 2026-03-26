@@ -17,10 +17,8 @@
   
 Данные клиента принимаются в свойства проекта и отображаются на вкладке Свойства.
 
-См. также
+**См. также:**
 
-[Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)
-
-[Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
-
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)
+* [Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)

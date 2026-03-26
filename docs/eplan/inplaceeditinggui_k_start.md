@@ -30,8 +30,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Использование прямой обработки](eplan/inplaceeditinggui_h_direktesbearbeiten.md)
-
-[Тексты](eplan/gededitgui_k_texte.md)
+* [Использование прямой обработки](eplan/inplaceeditinggui_h_direktesbearbeiten.md)
+* [Тексты](eplan/gededitgui_k_texte.md)

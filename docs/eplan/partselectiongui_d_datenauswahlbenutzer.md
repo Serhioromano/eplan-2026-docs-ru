@@ -112,6 +112,6 @@ API:
 
 Щелкните по этой кнопке, чтобы открыть диалоговое окно [Настройки: Управление изделиями](eplan/partsmanagementgui_d_einstellungenartverw.md).
 
-См. также
+**См. также:**
 
-[Управление изделиями](eplan/articlesgui_k_start.md)
+* [Управление изделиями](eplan/articlesgui_k_start.md)

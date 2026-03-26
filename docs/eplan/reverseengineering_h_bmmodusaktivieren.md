@@ -22,8 +22,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Общая обработка на страницах отчетов](eplan/Reverseengineering_k_start.md)
-
-[Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
+* [Общая обработка на страницах отчетов](eplan/Reverseengineering_k_start.md)
+* [Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)

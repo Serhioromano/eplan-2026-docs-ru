@@ -8,12 +8,9 @@
 
 Отображает все исходные и целевые библиотеки символов, для которых на вкладке Основные данные установлен флажок Присвоить отдельно.
 
-См. также
+**См. также:**
 
-[Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
-
-[Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
-
-[Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
-
-[Создать схему присвоения для символов (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
+* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
+* [Создать схему присвоения для символов (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)

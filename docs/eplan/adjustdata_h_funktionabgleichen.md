@@ -19,8 +19,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)
-
-[Последовательность видов представлений при общей обработке и анализе](eplan/reverseengineering_k_reihenfolge.md)
+* [Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)
+* [Последовательность видов представлений при общей обработке и анализе](eplan/reverseengineering_k_reihenfolge.md)

@@ -83,8 +83,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-
-[Настройки: Импорт и экспорт](eplan/settingsmastergui_k_import_export.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Настройки: Импорт и экспорт](eplan/settingsmastergui_k_import_export.md)

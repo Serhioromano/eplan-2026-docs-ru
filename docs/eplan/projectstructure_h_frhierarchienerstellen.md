@@ -58,12 +58,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-
-[Основные и подидентификаторы блоков идентификаторов](eplan/projectstructure_k_hauptkundunterk.md)
-
-[Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
-
-[Вкладка Структура (управление проектами)](eplan/prjmanagementgui_r_struktur.md)
+* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
+* [Основные и подидентификаторы блоков идентификаторов](eplan/projectstructure_k_hauptkundunterk.md)
+* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Вкладка Структура (управление проектами)](eplan/prjmanagementgui_r_struktur.md)

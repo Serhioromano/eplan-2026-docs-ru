@@ -29,12 +29,9 @@ Rittal — Perforex LC: Экспортировать данные изготов
 Перевести |  Переводит проект на выбранные языки.  
 Убрать переводы |  Удаляет из проекта тексты перевода одного или нескольких языков.  
   
-См. также
+**См. также:**
 
-[Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
-
-[Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)
-
-[Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
-
-[Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)
+* [Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
+* [Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)
+* [Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
+* [Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)

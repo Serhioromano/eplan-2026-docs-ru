@@ -37,10 +37,8 @@
 
 Выполненные здесь настройки также отображаются в диалоговом окне Конфигурировать порядки свойств — <Имя проекта>. Там можно обработать все порядки свойств.
 
-См. также
+**См. также:**
 
-[Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)
-
-[Диалоговое окно Конфигурировать порядки свойств — <Имя проекта>](eplan/eservicesgui_d_konfigeigenschaftsanordnungen.md)
-
-[Вкладка Отображение (Нумерация соединений)](eplan/wirenumberinggui_r_anzeige.md)
+* [Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)
+* [Диалоговое окно Конфигурировать порядки свойств — <Имя проекта>](eplan/eservicesgui_d_konfigeigenschaftsanordnungen.md)
+* [Вкладка Отображение (Нумерация соединений)](eplan/wirenumberinggui_r_anzeige.md)

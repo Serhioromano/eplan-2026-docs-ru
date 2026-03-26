@@ -30,16 +30,11 @@
   
 Подключенные к функции соединения получают свойства соответствующего вывода устройства и становятся кабельными соединениями.
 
-См. также
+**См. также:**
 
-[Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
-
-[Диалоговое окно Настройки: Генерация кабеля](eplan/cablegui_d_einstellungenkabelerzeugen.md)
-
-[Диалоговое окно Генерировать кабели](eplan/cablegui_d_kabelerzeugen.md)
-
-[Диалоговое окно Нумеровать кабели: Предварительный просмотр результата](eplan/cablegui_d_ergebniskabelnummerierung.md)
-
-[Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
-
-[Использовать кабель](eplan/cablegui_h_abbuchen.md)
+* [Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
+* [Диалоговое окно Настройки: Генерация кабеля](eplan/cablegui_d_einstellungenkabelerzeugen.md)
+* [Диалоговое окно Генерировать кабели](eplan/cablegui_d_kabelerzeugen.md)
+* [Диалоговое окно Нумеровать кабели: Предварительный просмотр результата](eplan/cablegui_d_ergebniskabelnummerierung.md)
+* [Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
+* [Использовать кабель](eplan/cablegui_h_abbuchen.md)

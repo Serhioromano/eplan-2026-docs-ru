@@ -26,12 +26,9 @@
 
 Для переадресации этого вывода устройства в Eplan введите то же значение для объединенных выводов устройства в поле Обозначение канала.
 
-См. также
+**См. также:**
 
-[Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
-
-[Работа, ориентированная на канал](eplan/plcgui_k_kanalorientiertarbeitsweise.md)
-
-[Принадлежность точек подвода питания к каналу](eplan/plcgui_k_kanalzugehoerigkeit.md)
-
-[Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
+* [Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
+* [Работа, ориентированная на канал](eplan/plcgui_k_kanalorientiertarbeitsweise.md)
+* [Принадлежность точек подвода питания к каналу](eplan/plcgui_k_kanalzugehoerigkeit.md)
+* [Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)

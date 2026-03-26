@@ -35,6 +35,6 @@
   
 Данные вывода устройства присваиваются функции.
 
-См. также
+**См. также:**
 
-[Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)

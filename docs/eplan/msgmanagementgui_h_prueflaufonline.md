@@ -15,12 +15,9 @@
   
 Eplan проверит шаги обработки в соответствии с заданными критериями проверки. При обнаружении несоответствий или ошибок определенные сообщения будут сразу записываться в базу данных сообщений и отображаться в диалоговом окне Управление сообщениями — <Имя проекта>.
 
-См. также
+**См. также:**
 
-[Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-
-[Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
-
-[Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-
-[Диалоговое окно Выполнить контр. прогон](eplan/xesinspectiongui_d_prueflauf.md)
+* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
+* [Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
+* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
+* [Диалоговое окно Выполнить контр. прогон](eplan/xesinspectiongui_d_prueflauf.md)

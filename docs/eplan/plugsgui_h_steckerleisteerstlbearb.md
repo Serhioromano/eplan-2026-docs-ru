@@ -44,16 +44,11 @@
 3. При необходимости контакты штекера можно пронумеровать в диалоговом окне Обработать штекеры или отсортировать их по определенным критериям. Для обработки используйте возможности всплывающего меню.
 4. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
-
-[Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
-
-[Вставить контакты штекеров и определения штекеров](eplan/plugsgui_h_steckerkontaktezeichnen.md)
-
-[Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-
-[Диалоговое окно Штекеры – <Имя проекта>](eplan/plugsgui_d_steckernavigator.md)
-
-[Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)
+* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
+* [Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
+* [Вставить контакты штекеров и определения штекеров](eplan/plugsgui_h_steckerkontaktezeichnen.md)
+* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Диалоговое окно Штекеры – <Имя проекта>](eplan/plugsgui_d_steckernavigator.md)
+* [Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)

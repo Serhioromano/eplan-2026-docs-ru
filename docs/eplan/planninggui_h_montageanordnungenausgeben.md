@@ -27,8 +27,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Предварительное планирование: Монтажные чертежи](eplan/planninggui_k_montageanordnungen.md)
-
-[Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
+* [Предварительное планирование: Монтажные чертежи](eplan/planninggui_k_montageanordnungen.md)
+* [Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)

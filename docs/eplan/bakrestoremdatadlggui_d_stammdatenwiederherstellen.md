@@ -63,8 +63,7 @@
 
 При необходимости использования подкаталога, который не существует, появится запрос о его создании.
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)

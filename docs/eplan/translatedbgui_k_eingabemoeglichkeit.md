@@ -91,10 +91,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
-
-[Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
-
-[Числа в ключевых словах и текстах](eplan/translatedbgui_k_zahlen.md)
+* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
+* [Числа в ключевых словах и текстах](eplan/translatedbgui_k_zahlen.md)

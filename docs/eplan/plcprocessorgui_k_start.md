@@ -7,12 +7,9 @@ Eplan поддерживает вас в процессе распределен
 * Символические адреса могут генерироваться автоматически в соответствии с заданными критериями.
 * Вы можете установить любой формат для списков присвоений.
 
-См. также
+**См. также:**
 
-[Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-
-[ПЛК](eplan/plcgui_k_start.md)
-
-[Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
-
-[Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
+* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
+* [ПЛК](eplan/plcgui_k_start.md)
+* [Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
+* [Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)

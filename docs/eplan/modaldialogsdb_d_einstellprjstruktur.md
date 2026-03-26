@@ -50,6 +50,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Задать представление структуры дерева в навигаторах](eplan/projectstructure_h_kennzeichenausblenden.md)
+* [Задать представление структуры дерева в навигаторах](eplan/projectstructure_h_kennzeichenausblenden.md)

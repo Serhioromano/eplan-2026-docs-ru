@@ -42,14 +42,10 @@ Eplan различает экранирования по их именам. Ес
 
 При подключении нескольких экранирований к одному и тому же соединению будет генерироваться только одно кабельное соединение (если экранирования имеют одно обозначение, и речь идет о единственном экранировании, представленном в виде распределенного экранирования).
 
-См. также
+**См. также:**
 
-[Кабели](eplan/cablegui_k_start.md)
-
-[Характеристика кабелей](eplan/cablegui_k_prinzip.md)
-
-[Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
-
-[Действие экранирования](eplan/cablegui_k_verhaltenabschirmungen.md)
-
-[Позиция и форматирование свойств кабелей](eplan/cablegui_k_kabelbezeichnungformat.md)
+* [Кабели](eplan/cablegui_k_start.md)
+* [Характеристика кабелей](eplan/cablegui_k_prinzip.md)
+* [Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
+* [Действие экранирования](eplan/cablegui_k_verhaltenabschirmungen.md)
+* [Позиция и форматирование свойств кабелей](eplan/cablegui_k_kabelbezeichnungformat.md)

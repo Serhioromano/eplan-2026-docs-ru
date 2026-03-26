@@ -105,10 +105,8 @@
 
 Эта кнопка служит для сохранения в базе данных управления проектами изменений и обновлений во вкладках Свойства, Статистика, Структура и Статус в базе данных управления проектами. Управление проектами переключается в режим Вид.
 
-См. также
+**См. также:**
 
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
-
-[Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)

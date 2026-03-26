@@ -39,6 +39,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Редактор форм и рамок](eplan/formeditorgui_k_start.md)
+* [Редактор форм и рамок](eplan/formeditorgui_k_start.md)

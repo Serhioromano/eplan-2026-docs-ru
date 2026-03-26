@@ -22,14 +22,10 @@
 
 Длина трассы автоматических сегментов маршрутизации не вычисляются автоматически, используется только заданная вручную длина.
 
-См. также
+**См. также:**
 
-[Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
-
-[Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
-
-[Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
-
-[Учет разности высотных отметок при маршрутизации](eplan/cablinggui_k_teilstrecke.md)
-
-[Вид прокладки](eplan/cablinggui_k_verlegeart.md)
+* [Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
+* [Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
+* [Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
+* [Учет разности высотных отметок при маршрутизации](eplan/cablinggui_k_teilstrecke.md)
+* [Вид прокладки](eplan/cablinggui_k_verlegeart.md)

@@ -32,12 +32,9 @@
 
 Единожды определенная ширина фаски применяется до прерывания операции.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Обрезка элементов](eplan/gededitgui_h_elementetrimmen.md)
-
-[Закругление/скашивание углов (фаски)](eplan/gededitgui_h_eckenrunden.md)
-
-[Использование области ввода данных](eplan/gededitgui_h_kommandozeile.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Обрезка элементов](eplan/gededitgui_h_elementetrimmen.md)
+* [Закругление/скашивание углов (фаски)](eplan/gededitgui_h_eckenrunden.md)
+* [Использование области ввода данных](eplan/gededitgui_h_kommandozeile.md)

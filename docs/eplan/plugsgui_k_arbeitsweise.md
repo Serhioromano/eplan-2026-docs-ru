@@ -33,16 +33,11 @@
 
  
 
-См. также
+**См. также:**
 
-[Штекеры](eplan/plugsgui_k_start.md)
-
-[Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
-
-[Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
-
-[Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-
-[Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
-
-[Создать модули](eplan/articlesgui_h_moduleanlegen.md)
+* [Штекеры](eplan/plugsgui_k_start.md)
+* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
+* [Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
+* [Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
+* [Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
+* [Создать модули](eplan/articlesgui_h_moduleanlegen.md)

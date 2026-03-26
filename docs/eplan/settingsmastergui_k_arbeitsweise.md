@@ -38,12 +38,9 @@
 Настройки, относящиеся к фирме, управляются в базе данных с обозначением КОМПАНИЯ.<Версия программы>.<Название фирмы>.xdb. Доступ к базе данных выполняется с помощью файла КОМПАНИЯ.<Версия программы>.<Название фирмы>.xlk.  
 Информация о компании считывается программой из операционной системы. если вы создали в операционной системе имя компании, оно используется для базы данных. Если вы не указали название фирмы в операционной системе, программа использует имя COMPANY.Basic.xlk.
 
-См. также
+**См. также:**
 
-[Настройки](eplan/settingsmastergui_k_start.md)
-
-[Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
-
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-
-[Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
+* [Настройки](eplan/settingsmastergui_k_start.md)
+* [Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)

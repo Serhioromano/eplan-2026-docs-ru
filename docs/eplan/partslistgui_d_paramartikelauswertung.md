@@ -43,14 +43,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Вывести изделия кабелей в отчете](eplan/cablegui_h_kabelauswertung.md)
-
-[Обработать изделие спецификации](eplan/partslistgui_h_artikelbearbeiten.md)
-
-[Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
-
-[Управление проводным монтажом и кабельными сборками (отчеты)](eplan/harnessgui_k_verwaltungkabelbaum.md#Auswertungen)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Вывести изделия кабелей в отчете](eplan/cablegui_h_kabelauswertung.md)
+* [Обработать изделие спецификации](eplan/partslistgui_h_artikelbearbeiten.md)
+* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [Управление проводным монтажом и кабельными сборками (отчеты)](eplan/harnessgui_k_verwaltungkabelbaum.md#Auswertungen)

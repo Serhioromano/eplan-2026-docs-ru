@@ -27,8 +27,7 @@
   
 Уже имеющиеся в этом месте маршрутизируемые соединения будут заменены размещенной фазной шиной и далее не будут отображаться.
 
-См. также
+**См. также:**
 
-[Генерировать соединения фазовых шин](eplan/routinggui_h_phasenschienenvbdgerzg.md)
-
-[Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
+* [Генерировать соединения фазовых шин](eplan/routinggui_h_phasenschienenvbdgerzg.md)
+* [Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)

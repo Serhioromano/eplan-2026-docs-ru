@@ -55,10 +55,8 @@
 
 Результаты отображаются на экране с указанием степени соответствия в процентах в диалоговом окне Список соответствия. Здесь можно выбрать самый подходящий функциональный элемент в качестве шаблона.
 
-См. также
+**См. также:**
 
-[Представить и перенести логику электрошкафа](eplan/cabinetgui_h_schrankinterpretation.md)
-
-[Диалоговое окно Выбор шаблона интерпретации](eplan/cabinetgui_d_musterschrankwaehlen.md)
-
-[Диалоговое окно Список соответствия](eplan/cabinetgui_d_trefferliste.md)
+* [Представить и перенести логику электрошкафа](eplan/cabinetgui_h_schrankinterpretation.md)
+* [Диалоговое окно Выбор шаблона интерпретации](eplan/cabinetgui_d_musterschrankwaehlen.md)
+* [Диалоговое окно Список соответствия](eplan/cabinetgui_d_trefferliste.md)

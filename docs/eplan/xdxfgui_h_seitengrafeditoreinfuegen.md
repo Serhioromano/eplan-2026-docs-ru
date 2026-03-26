@@ -24,12 +24,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Вкладка Импорт](eplan/xdxfgui_r_import.md)
-
-[Диалоговое окно Импорт DXF/DWG](eplan/xdxfgui_d_import.md)
-
-[Диалоговое окно Форматир. импорта](eplan/xdxfgui_d_importformatierung.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Вкладка Импорт](eplan/xdxfgui_r_import.md)
+* [Диалоговое окно Импорт DXF/DWG](eplan/xdxfgui_d_import.md)
+* [Диалоговое окно Форматир. импорта](eplan/xdxfgui_d_importformatierung.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)

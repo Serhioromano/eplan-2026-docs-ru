@@ -50,12 +50,9 @@
 
 Нажмите на эту кнопку, чтобы открыть диалоговое окно [Произвольн. свойства](eplan/articlesgui_d_freieeigenschaften.md).
 
-См. также
+**См. также:**
 
-[Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
-
-[Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-
-[Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
-
-[Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)
+* [Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
+* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
+* [Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)

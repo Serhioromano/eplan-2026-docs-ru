@@ -2,18 +2,12 @@
 
 Так называемая "внешняя обработка" служит для того, чтобы выводить данные из Eplan, производить их внешнюю обработку с помощью других программ (например, Excel), и затем опять считывать. Имеется возможность обмена данных проекта (страниц, функций и т. д.) и базы данных изделий. При этом вы можете задать в настройках, какие именно данные должны учитываться при внешней обработке страниц проекта, функций, соединений и изделий. С помощью внешней обработки данных можно генерировать также дополнительные данные, например страницы, функции и т. п., или новые изделия в базе данных изделий.
 
-См. также
+**См. также:**
 
-[Внешняя обработка: Принцип работы](eplan/pxfinterface_k_arbeitsweise.md)
-
-[Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
-
-[Произвести настройки для внешней обработки](eplan/pxfinterface_h_exporteinstellungen.md)
-
-[Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
-
-[Импортировать свойства с внешней обработкой](eplan/pxfinterface_h_datenimportieren.md)
-
-[Экспортировать проекты](eplan/projects_h_exportieren.md)
-
-[Импортировать проекты](eplan/projects_h_importieren.md)
+* [Внешняя обработка: Принцип работы](eplan/pxfinterface_k_arbeitsweise.md)
+* [Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
+* [Произвести настройки для внешней обработки](eplan/pxfinterface_h_exporteinstellungen.md)
+* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
+* [Импортировать свойства с внешней обработкой](eplan/pxfinterface_h_datenimportieren.md)
+* [Экспортировать проекты](eplan/projects_h_exportieren.md)
+* [Импортировать проекты](eplan/projects_h_importieren.md)

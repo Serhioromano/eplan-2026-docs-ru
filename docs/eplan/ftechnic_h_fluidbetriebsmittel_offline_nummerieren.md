@@ -20,12 +20,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Eplan Fluid: Нумерация ОУ](eplan/ftechnic_k_bmknummerierung.md)
-
-[Нумеровать (автономно)](eplan/offlinenumerationgui_k_start.md)
-
-[Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
-
-[Диалоговое окно Настройки: Нумеровать (автономно)](eplan/offlinenumerationgui_d_nummerierungsformate.md)
+* [Eplan Fluid: Нумерация ОУ](eplan/ftechnic_k_bmknummerierung.md)
+* [Нумеровать (автономно)](eplan/offlinenumerationgui_k_start.md)
+* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
+* [Диалоговое окно Настройки: Нумеровать (автономно)](eplan/offlinenumerationgui_d_nummerierungsformate.md)

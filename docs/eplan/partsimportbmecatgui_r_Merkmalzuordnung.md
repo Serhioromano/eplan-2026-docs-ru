@@ -39,10 +39,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
-
-[Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)
-
-[Диалоговое окно Произвольн. свойства](eplan/articlesgui_d_freieeigenschaften.md)
+* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)
+* [Диалоговое окно Произвольн. свойства](eplan/articlesgui_d_freieeigenschaften.md)

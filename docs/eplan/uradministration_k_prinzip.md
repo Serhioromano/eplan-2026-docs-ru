@@ -38,10 +38,8 @@ Eplan управляет пользователями, паролями и да�
 
 API-действия также могут быть выборочно присвоены или заблокированы.
 
-См. также
+**См. также:**
 
-[Управление пользователями](eplan/uradministration_h_benutzer.md)
-
-[Управление группами пользователей](eplan/uradministration_h_gruppen.md)
-
-[Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)
+* [Управление пользователями](eplan/uradministration_h_benutzer.md)
+* [Управление группами пользователей](eplan/uradministration_h_gruppen.md)
+* [Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)

@@ -46,14 +46,10 @@
 
 С помощью [...] откройте диалоговое окно Формат адреса списка присвоений. Здесь можно изменить формат цифровых и аналоговых адресов ПЛК в адресах списков присвоений.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
-
-[Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
-
-[Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
-
-[Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
-
-[Диалоговое окно Формат адресов ПЛК / Формат строки / Адреса в списке присвоений](eplan/plcprocessorgui_d_formatspsadresse.md)
+* [Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
+* [Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
+* [Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
+* [Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
+* [Диалоговое окно Формат адресов ПЛК / Формат строки / Адреса в списке присвоений](eplan/plcprocessorgui_d_formatspsadresse.md)

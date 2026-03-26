@@ -47,12 +47,9 @@
 
 Эта функция доступна только если отчет создается в нескольких [блоках отчетов](eplan/formgeneratorgui_k_auswertungsbloecke.md). Для каждого блока отчетов необходимо задать нач. страницу. Если этот флажок установлен, не обязательно задавать нач. страницу для каждого блока отчетов или подтвердить предложенные Eplan страницы по отдельности. Нач. страница для всех дальнейших блоков отчетов Eplan задается автоматически.
 
-См. также
+**См. также:**
 
-[Сортировка страниц отчетов](eplan/formgeneratorgui_k_seitensortierung.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Сортировка страниц отчетов](eplan/formgeneratorgui_k_seitensortierung.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)

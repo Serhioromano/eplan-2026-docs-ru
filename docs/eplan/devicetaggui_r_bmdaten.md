@@ -103,20 +103,13 @@
 
  
 
-См. также
+**См. также:**
 
-[Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-
-[Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-
-[Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-
-[Перенос обозначения вывода устройства](eplan/devicetaggui_k_anschlussbezuebergabe.md)
-
-[Создать собственные обозначения и описания вывода устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
-
-[Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-
-[Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
+* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
+* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Перенос обозначения вывода устройства](eplan/devicetaggui_k_anschlussbezuebergabe.md)
+* [Создать собственные обозначения и описания вывода устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
+* [Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)

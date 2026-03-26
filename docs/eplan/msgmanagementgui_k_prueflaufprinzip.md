@@ -21,12 +21,9 @@
 В управлении изделиями у вас есть возможность напрямую проверять основные данные изделий, сохраненные в базе данных изделий. Для этого выполните контрольные прогоны для основных данных изделий в управлении изделиями. Полученные по результатам контрольного прогона сообщения отображаются не в управлении сообщениями, а непосредственно в управлении изделиями на вкладке [Сообщения](eplan/articlesgui_r_meldungen.md).  
 Основные данные изделий можно проверять только в автономном режиме.
 
-См. также
+**См. также:**
 
-[Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-
-[Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
-
-[Проверить данные проекта в режиме подключения](eplan/msgmanagementgui_h_prueflaufonline.md)
-
-[Проверить основные данные изделия](eplan/articlesgui_h_artikelstammdatenpruefen.md)
+* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
+* [Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
+* [Проверить данные проекта в режиме подключения](eplan/msgmanagementgui_h_prueflaufonline.md)
+* [Проверить основные данные изделия](eplan/articlesgui_h_artikelstammdatenpruefen.md)

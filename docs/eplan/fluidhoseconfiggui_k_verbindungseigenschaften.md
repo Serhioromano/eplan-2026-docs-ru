@@ -23,8 +23,7 @@
 * Тип шланга (в положении изделия 3);
 * Код типа (в положении изделия 4).
 
-См. также
+**См. также:**
 
-[Обмен данными шлангопроводов](eplan/fluidhoseconfiggui_k_datenaustausch.md)
-
-[Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
+* [Обмен данными шлангопроводов](eplan/fluidhoseconfiggui_k_datenaustausch.md)
+* [Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)

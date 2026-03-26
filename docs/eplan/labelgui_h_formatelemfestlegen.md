@@ -14,12 +14,9 @@
 
 Элементы формата для области этикетки, нижнего и верхнего колонтитула выбираются таким же образом. Доступность определенного элемента формата зависит от выбранного типа отчета. Элементы формата "Новая строка" и "Разбивка на странице при смене ОУ" доступны только для нижнего колонтитула.
 
-См. также
+**См. также:**
 
-[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
-
-[Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
-
-[Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
-
-[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
+* [Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
+* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)

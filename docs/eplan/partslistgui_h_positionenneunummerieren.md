@@ -22,6 +22,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Спецификация — <Имя проекта>](eplan/partslistgui_d_artikelstueckliste.md)
+* [Диалоговое окно Спецификация — <Имя проекта>](eplan/partslistgui_d_artikelstueckliste.md)

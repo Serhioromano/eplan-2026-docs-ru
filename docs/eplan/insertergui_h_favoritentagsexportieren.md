@@ -17,12 +17,9 @@
   
 
 
-См. также
+**См. также:**
 
-[Центр вставки](eplan/insertergui_k_start.md)
-
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
-
-[Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
+* [Центр вставки](eplan/insertergui_k_start.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
+* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)

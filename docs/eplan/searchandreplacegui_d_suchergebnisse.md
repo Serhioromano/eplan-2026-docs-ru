@@ -33,14 +33,10 @@
 Свойства |  Открывает диалоговое окно свойств для выделенных элементов списка.  
 Свойства (общие) |  Открывает выделенные элементы списка соответствующего диалогового окна для использования "Общей обработки". Если выбран объект, например, функция, открывается диалоговое окно Свойства (общие). В нем можно обработать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
-
-[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
-
-[Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-
-[Общая обработка на страницах отчетов](eplan/Reverseengineering_k_start.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
+* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
+* [Общая обработка на страницах отчетов](eplan/Reverseengineering_k_start.md)

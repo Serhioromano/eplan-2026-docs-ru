@@ -52,8 +52,7 @@
 Свойства |  Открывает диалоговое окно Свойства (усл. обозначение): <...>. Обеспечивает обработку функции.  
 Свойства (общие) |  Открывает диалоговое окно Свойства (общие): <...>. Позволяет обрабатывать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Табличная обработка](eplan/functiondatagridgui_d_schematabellarischebearbeitung.md)
-
-[Обработать объекты в табличном виде](eplan/functiondatagridgui_h_tabellarischbearbeiten.md)
+* [Диалоговое окно Настройки: Табличная обработка](eplan/functiondatagridgui_d_schematabellarischebearbeitung.md)
+* [Обработать объекты в табличном виде](eplan/functiondatagridgui_h_tabellarischbearbeiten.md)

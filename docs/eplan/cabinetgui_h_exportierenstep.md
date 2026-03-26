@@ -17,10 +17,8 @@
   
 Данные будут записан в файл экспорта.
 
-См. также
+**См. также:**
 
-[Экспорт и импорт трехмерных графических данных](cabinetgui_k_exportimport3Dgrafikdaten.htm)
-
-[Диалоговое окно "Экспорт STEP" / "Экспорт VRML" / "Экспорт IFC" / "Экспорт JT"](gededit3dgui_d_stepexport.htm)
-
-[Диалоговое окно "Настройки: Экспорт STEP" / диалоговое окно "Настройки: Экспорт VRML" / диалоговое окно "Настройки: Экспорт IFC" / диалоговое окно "Настройки: Экспорт JT"](gededit3dgui_d_einstellungenstepexport.htm)
+* [Экспорт и импорт трехмерных графических данных](cabinetgui_k_exportimport3Dgrafikdaten.htm)
+* [Диалоговое окно "Экспорт STEP" / "Экспорт VRML" / "Экспорт IFC" / "Экспорт JT"](gededit3dgui_d_stepexport.htm)
+* [Диалоговое окно "Настройки: Экспорт STEP" / диалоговое окно "Настройки: Экспорт VRML" / диалоговое окно "Настройки: Экспорт IFC" / диалоговое окно "Настройки: Экспорт JT"](gededit3dgui_d_einstellungenstepexport.htm)

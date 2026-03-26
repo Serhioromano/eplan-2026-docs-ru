@@ -42,6 +42,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Черные ящики: Возможности использования](eplan/blackbox_k_einsatzmoeglichkeiten.md)
+* [Черные ящики: Возможности использования](eplan/blackbox_k_einsatzmoeglichkeiten.md)

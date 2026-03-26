@@ -31,10 +31,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
-
-[Диалоговое окно Маршрутизируемое соединение](eplan/routinggui_d_verlegeverbindung.md)
-
-[Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)
+* [Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
+* [Диалоговое окно Маршрутизируемое соединение](eplan/routinggui_d_verlegeverbindung.md)
+* [Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)

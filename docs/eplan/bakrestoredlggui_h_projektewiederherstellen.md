@@ -44,12 +44,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
-
-[Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
-
-[Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
+* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
+* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)

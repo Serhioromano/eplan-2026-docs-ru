@@ -7,26 +7,16 @@
 * Вы хотите сохранить для макросов требуемые записи данных (варианты, т.е. таблицы значений для технических данных и элементов), чтобы уменьшить время, затрачиваемое на последующую обработку макросов после вставки. С этой целью для всех возможных данных, содержащихся в макросе, можно определить соответствующие объекты-заполнители.
 * Существует возможность для создания проектов макросов и определения рамок макросов, с помощью последних можно, например, выполнить автоматическую генерацию макросов окон.
 
-См. также
+**См. также:**
 
-[Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
-
-[Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
-
-[Макросы: Защищенные группы](eplan/macrosgui_k_geschuetztegruppen.md)
-
-[Данные сгенерированного макроса ](eplan/macrosgui_k_daten.md)
-
-[Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
-
-[Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
-
-[Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
-
-[Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
-
-[Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
-
-[Создать макросы](eplan/macrosgui_h_makroserzeugen.md)
-
-[Генерировать макросы из файлов DXF / DWG](eplan/macrosgui_h_makrosausdxf.md)
+* [Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
+* [Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
+* [Макросы: Защищенные группы](eplan/macrosgui_k_geschuetztegruppen.md)
+* [Данные сгенерированного макроса ](eplan/macrosgui_k_daten.md)
+* [Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
+* [Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
+* [Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
+* [Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
+* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
+* [Создать макросы](eplan/macrosgui_h_makroserzeugen.md)
+* [Генерировать макросы из файлов DXF / DWG](eplan/macrosgui_h_makrosausdxf.md)

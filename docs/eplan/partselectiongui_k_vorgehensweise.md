@@ -79,8 +79,7 @@
 
 Если черному ящику присваивается не модуль, а узел, то изделия узла сохраняются в черном ящике и не распределяются на содержащиеся в нем функции.
 
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)

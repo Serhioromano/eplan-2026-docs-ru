@@ -14,8 +14,7 @@
 
 Введите здесь описывающий текст для точки монтажа / линии монтажа.
 
-См. также
+**См. также:**
 
-[Определение точек монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)
-
-[Определить линию монтажа](eplan/cabinetgui_h_montageliniedefinieren.md)
+* [Определение точек монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)
+* [Определить линию монтажа](eplan/cabinetgui_h_montageliniedefinieren.md)

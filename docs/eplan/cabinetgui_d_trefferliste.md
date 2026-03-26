@@ -20,8 +20,7 @@
 
 Выделите запись в списке, свойства которой необходимо передать определяемому 3D-объекту. Выбор выделенной записи осуществляется нажатием [OK].
 
-См. также
+**См. также:**
 
-[Автоматическая интерпретация: Принцип](eplan/cabinetgui_k_schrankinterpretation.md)
-
-[Диалоговое окно Выбрать шаблон интерпретации](eplan/cabinetgui_d_musterschrankwaehlen.md)
+* [Автоматическая интерпретация: Принцип](eplan/cabinetgui_k_schrankinterpretation.md)
+* [Диалоговое окно Выбрать шаблон интерпретации](eplan/cabinetgui_d_musterschrankwaehlen.md)

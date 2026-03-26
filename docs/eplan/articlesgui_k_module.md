@@ -71,16 +71,11 @@
   
 Если при разъединении модулей и развертывании узлов должны учитываться дополнительные части, то тогда в перечисленных возможностях настройки можно использовать настройку Учитывать дополнительные части. В результате этого дополнительные части, содержащиеся в модуле или узле, также будут указываться в значениях изделий или выводиться при экспорте данных изготовления.
 
-См. также
+**См. также:**
 
-[База данных изделий](eplan/articlesgui_k_start.md)
-
-[Создать модули](eplan/articlesgui_h_moduleanlegen.md)
-
-[Вкладка Модуль](eplan/articlesgui_r_modul.md)
-
-[Вкладка Узел](eplan/articlesgui_r_baugruppe.md)
-
-[Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
-
-[Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [База данных изделий](eplan/articlesgui_k_start.md)
+* [Создать модули](eplan/articlesgui_h_moduleanlegen.md)
+* [Вкладка Модуль](eplan/articlesgui_r_modul.md)
+* [Вкладка Узел](eplan/articlesgui_r_baugruppe.md)
+* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)

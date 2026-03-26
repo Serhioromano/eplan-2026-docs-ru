@@ -158,12 +158,9 @@
 Форма |  [Схема подключения штекеров (*. f21)](eplan/placeholder_o_main.md#2720025)  
 описание |  Выводит список контактов штекеров (как спецификация штекера, но используются другие формы и несколько слоев). Сортировка согласно последовательности контактов штекера в штекере. Отображаются подсоединенные цели.  
   
-См. также
+**См. также:**
 
-[Отчеты](eplan/formgeneratorgui_k_start.md)
-
-[Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)

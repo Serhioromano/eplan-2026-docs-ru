@@ -39,10 +39,8 @@
   
 Предварительный просмотр закрывается.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Предварительный просмотр графики](eplan/modaldialogsdb_d_grafischevorschau.md)
-
-[Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-
-[Открытие и закрытие страниц](eplan/pagebrowsergui_h_seitenoeffnen.md)
+* [Диалоговое окно Предварительный просмотр графики](eplan/modaldialogsdb_d_grafischevorschau.md)
+* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Открытие и закрытие страниц](eplan/pagebrowsergui_h_seitenoeffnen.md)

@@ -23,12 +23,9 @@
 
 [Вкладка Настройки](eplan/labelgui_d_paramartikelauswertung.md)
 
-См. также
+**См. также:**
 
-[Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-
-[Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
-
-[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
-
-[Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
+* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)

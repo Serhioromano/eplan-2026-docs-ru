@@ -30,8 +30,7 @@
   
 
 
-См. также
+**См. также:**
 
-[Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)
-
-[Показать маршрут](eplan/routinggui_h_streckenansicht.md)
+* [Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)
+* [Показать маршрут](eplan/routinggui_h_streckenansicht.md)

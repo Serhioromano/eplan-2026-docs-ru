@@ -24,8 +24,7 @@
   
 Блок разбивается на элементы, и отдельные объекты теперь снова можно обрабатывать только по отдельности.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Изменить свойства ссылки блока](eplan/gededitgui_d_blockreferenzeigenschaften.md)
-
-[Графический редактор](eplan/gededitgui_k_start.md)
+* [Диалоговое окно Изменить свойства ссылки блока](eplan/gededitgui_d_blockreferenzeigenschaften.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)

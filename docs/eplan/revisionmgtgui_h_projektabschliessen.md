@@ -25,10 +25,8 @@ Eplan позволяет закрывать проекты в любой мом�
   
 Если закрыть область обработки, страницы области обработки защищаются от записи.
 
-См. также
+**См. также:**
 
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)

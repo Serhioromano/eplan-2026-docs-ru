@@ -25,6 +25,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
+* [Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)

@@ -34,8 +34,7 @@
 
 Установите флажок, если подчиненная область должна масштабироваться на основе высоты предыдущей строки данных.
 
-См. также
+**См. также:**
 
-[Динамические формы](eplan/formeditorgui_k_dynamformulare.md)
-
-[Диалоговое окно Условия](eplan/formeditorgui_d_bedingungen.md)
+* [Динамические формы](eplan/formeditorgui_k_dynamformulare.md)
+* [Диалоговое окно Условия](eplan/formeditorgui_d_bedingungen.md)

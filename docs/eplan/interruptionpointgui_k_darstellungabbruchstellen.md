@@ -11,10 +11,8 @@
 
 У каждой точки разрыва есть обратный эквивалент. Если Eplan не может найти обратный эквивалент, это считается ошибкой и заносится в управление сообщениями.
 
-См. также
+**См. также:**
 
-[Точки разрыва](eplan/interruptionpointgui_k_start.md)
-
-[Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
-
-[Символы соединения](eplan/egedgui_k_start.md)
+* [Точки разрыва](eplan/interruptionpointgui_k_start.md)
+* [Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
+* [Символы соединения](eplan/egedgui_k_start.md)

@@ -21,6 +21,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Свойства библиотеки символов <Имя библиотеки>](eplan/symboleditorgui_d_symbolbibliothekseigenschaften.md)
+* [Диалоговое окно Свойства библиотеки символов <Имя библиотеки>](eplan/symboleditorgui_d_symbolbibliothekseigenschaften.md)

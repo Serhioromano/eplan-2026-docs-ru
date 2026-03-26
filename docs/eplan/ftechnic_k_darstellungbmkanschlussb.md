@@ -8,10 +8,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-
-[Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-
-[Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)
+* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)

@@ -68,8 +68,7 @@
 
 * Имя потенциала (ид. 33000).
 
-См. также
+**См. также:**
 
-[Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)

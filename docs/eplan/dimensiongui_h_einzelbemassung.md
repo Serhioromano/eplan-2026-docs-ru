@@ -23,8 +23,7 @@
 По умолчанию числовая мера выравнивается на линии с размерами по центру.
 2. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].
 
-См. также
+**См. также:**
 
-[Указания размеров](eplan/dimensiongui_k_start.md)
-
-[Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
+* [Указания размеров](eplan/dimensiongui_k_start.md)
+* [Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)

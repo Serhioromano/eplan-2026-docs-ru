@@ -40,8 +40,7 @@
 
 Если вы хотите послать электронное сообщение одному из пользователей, перечисленных в данной таблице, необходимо сначала развернуть следующую информационную строку. Нажмите на имя пользователя, представленное в виде гиперссылки.
 
-См. также
+**См. также:**
 
-[Многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_k_start.md)
-
-[Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
+* [Многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_k_start.md)
+* [Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)

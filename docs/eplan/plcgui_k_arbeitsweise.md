@@ -69,16 +69,11 @@
 
 Если, наоборот, символический адрес вывода устройства ПЛК при сравнении необходимо перенести из обзора в вывод устройства ПЛК на схему соединений, то всегда изменяется символический адрес на выводе устройства ПЛК.
 
-См. также
+**См. также:**
 
-[Начертить карты и выводы устройства ПЛК](eplan/plcgui_h_spszeichnen.md)
-
-[Создать и обработать карты ПЛК](eplan/plcgui_h_spsanlegen.md)
-
-[Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
-
-[Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
-
-[Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
-
-[Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Начертить карты и выводы устройства ПЛК](eplan/plcgui_h_spszeichnen.md)
+* [Создать и обработать карты ПЛК](eplan/plcgui_h_spsanlegen.md)
+* [Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
+* [Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
+* [Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
+* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)

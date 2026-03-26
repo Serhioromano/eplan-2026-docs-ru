@@ -29,8 +29,7 @@
 
 Если выбранные точки лежат вне прежней монтажной поверхности, обе точки будут спроецированы на монтажную поверхность и по ним будет выровнена ось X или ось Y.
 
-См. также
+**См. также:**
 
-[Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
-
-[Повернуть объекты вокруг оси](eplan/cabinetgui_h_drehenxyz.md)
+* [Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
+* [Повернуть объекты вокруг оси](eplan/cabinetgui_h_drehenxyz.md)

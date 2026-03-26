@@ -32,10 +32,8 @@
 
 Для многоязычных свойство с помощью раскрывающегося списка можно указать язык вывода.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
-
-[Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
-
-[Нумерация с данными выводов устройства ПЛК](eplan/offlinenumerationplcgui_k_prinzip.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
+* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Нумерация с данными выводов устройства ПЛК](eplan/offlinenumerationplcgui_k_prinzip.md)

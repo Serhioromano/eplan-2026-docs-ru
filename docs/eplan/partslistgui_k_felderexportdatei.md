@@ -134,8 +134,7 @@ P_ARTICLE_FREE_DATA_UNIT |  Произвольн. свойство / едини�
 P_ARTICLE_EXTERNAL_PLACEMENT |  Внешнее размещение  
 REFERENCE_POS |  Базовая позиция изделия задает (при присвоении нескольких изделий) последовательность внесения изделий в диалоговом окне Свойства <...> во вкладке Изделия.  
   
-См. также
+**См. также:**
 
-[Экспортировать спецификации](eplan/partslistgui_h_stuecklistenexportieren.md)
-
-[Импортировать спецификации](eplan/partslistgui_h_stuecklistenimportieren.md)
+* [Экспортировать спецификации](eplan/partslistgui_h_stuecklistenexportieren.md)
+* [Импортировать спецификации](eplan/partslistgui_h_stuecklistenimportieren.md)

@@ -14,8 +14,7 @@
 
 Введите здесь описывающий текст для точки захвата / монтажной сетки.
 
-См. также
+**См. также:**
 
-[Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
-
-[Определить и использовать монтажную сетку](eplan/cabinetgui_h_montagerasterdefinieren.md)
+* [Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
+* [Определить и использовать монтажную сетку](eplan/cabinetgui_h_montagerasterdefinieren.md)

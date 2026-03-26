@@ -87,16 +87,11 @@
 
 Если к устройству добавляется новое изделие и в этом изделии находится шаблон функции, то этот шаблон функции добавляется в устройство. Если изделие удаляется из устройства, то также удаляются все шаблоны функции, которые относятся к этому изделию.
 
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-
-[Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
-
-[Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
-
-[Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
+* [Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
+* [Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)

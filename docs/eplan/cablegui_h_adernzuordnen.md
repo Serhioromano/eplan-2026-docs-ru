@@ -49,6 +49,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Обработать кабель](eplan/cablegui_d_kabelbearbeiten.md)
+* [Диалоговое окно Обработать кабель](eplan/cablegui_d_kabelbearbeiten.md)

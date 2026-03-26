@@ -38,8 +38,7 @@
 
 Количество линий сетки в направлениях X и Y не должно быть одновременно равно 1.
 
-См. также
+**См. также:**
 
-[Определить и использовать монтажную сетку](eplan/cabinetgui_h_montagerasterdefinieren.md)
-
-[Отображение инструмента для монтажных работ](eplan/cabinetgui_h_montagehilfenanzeigen.md)
+* [Определить и использовать монтажную сетку](eplan/cabinetgui_h_montagerasterdefinieren.md)
+* [Отображение инструмента для монтажных работ](eplan/cabinetgui_h_montagehilfenanzeigen.md)

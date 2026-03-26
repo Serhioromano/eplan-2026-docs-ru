@@ -21,8 +21,7 @@
 
 Открывает диалоговое окно [Сетевое расширение](eplan/offlinenumerationplcgui_d_netzerweiterung.md). В этом диалоговом окне можно расширить определение сети. Эта настройка влияет на обозначение, если в качестве объема выбрана "сеть".
 
-См. также
+**См. также:**
 
-[Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
-
-[Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
+* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)

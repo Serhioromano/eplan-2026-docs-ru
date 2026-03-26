@@ -19,6 +19,6 @@
   
 Имеющаяся в проекте библиотека символов меняется на новую библиотеку символов.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+* [Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)

@@ -18,8 +18,7 @@
   
 Отобразится переведенный текст.
 
-См. также
+**См. также:**
 
-[Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
-
-[Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
+* [Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
+* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)

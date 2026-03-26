@@ -23,10 +23,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-
-[Диалоговое окно Настройки: Ревизия (отслеживание изменений)](eplan/revisionlogmgtgui_d_einstellungenaenderung.md)
+* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](eplan/revisionlogmgtgui_d_einstellungenaenderung.md)

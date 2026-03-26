@@ -29,8 +29,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](eplan/pleditorgui_d_kennzeichen.md)
-
-[Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](eplan/pleditorgui_d_kennzeichen.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)

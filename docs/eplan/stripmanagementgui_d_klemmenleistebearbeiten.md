@@ -152,14 +152,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление клеммами](eplan/terminalgui_k_verwaltung.md)
-
-[Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)
-
-[Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)
-
-[Сортировать клеммы](eplan/terminalgui_h_klemmensort.md)
-
-[Диалоговое окно Настройки: Совместимость](eplan/xessettingsgui_d_einstellungenprojektkompatibilitaet.md)
+* [Управление клеммами](eplan/terminalgui_k_verwaltung.md)
+* [Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)
+* [Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)
+* [Сортировать клеммы](eplan/terminalgui_h_klemmensort.md)
+* [Диалоговое окно Настройки: Совместимость](eplan/xessettingsgui_d_einstellungenprojektkompatibilitaet.md)

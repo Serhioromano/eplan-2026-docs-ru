@@ -23,12 +23,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
-
-[Комментарии](eplan/projectcomments_k_start.md)
-
-[Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
-
-[Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
+* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
+* [Комментарии](eplan/projectcomments_k_start.md)
+* [Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)

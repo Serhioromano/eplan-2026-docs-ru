@@ -64,14 +64,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Выбор устройства](eplan/partselectiongui_d_geraeteauswahl.md)
-
-[Выбор устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-
-[Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
-
-[Шаблоны для классов трубы и веществ](eplan/planninggui_k_rohrleitungsvorlagen.md)
-
-[Свойства Eplan: Обзор](eplan/properties_o_main.md)
+* [Диалоговое окно Выбор устройства](eplan/partselectiongui_d_geraeteauswahl.md)
+* [Выбор устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
+* [Шаблоны для классов трубы и веществ](eplan/planninggui_k_rohrleitungsvorlagen.md)
+* [Свойства Eplan: Обзор](eplan/properties_o_main.md)

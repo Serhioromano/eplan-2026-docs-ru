@@ -28,10 +28,8 @@
   
 Чертеж профиля будет сохранен и закрыт. Его можно сразу использовать при размещении медной шины.
 
-См. также
+**См. также:**
 
-[Профиль для изогнутых медных шин: Принцип](eplan/copper_k_verlaufskontur.md)
-
-[Редактор контура: Нулевая точка контура](eplan/contoureditorgui_k_nullpunkt.md)
-
-[Диалоговое окно Свойства профиля (медь)](eplan/contoureditorgui_d_kontureigenschaften.md)
+* [Профиль для изогнутых медных шин: Принцип](eplan/copper_k_verlaufskontur.md)
+* [Редактор контура: Нулевая точка контура](eplan/contoureditorgui_k_nullpunkt.md)
+* [Диалоговое окно Свойства профиля (медь)](eplan/contoureditorgui_d_kontureigenschaften.md)

@@ -30,10 +30,8 @@
 3. В диалоговом окне Свойства <...> во вкладке Определение штекера укажите данные устройства штекера.
 4. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
-
-[Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-
-[Вставить устройства](eplan/devicelistgui_h_geraeteplatzieren.md)
+* [Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
+* [Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
+* [Вставить устройства](eplan/devicelistgui_h_geraeteplatzieren.md)

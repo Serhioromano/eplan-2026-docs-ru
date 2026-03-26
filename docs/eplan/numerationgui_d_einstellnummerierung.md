@@ -76,12 +76,9 @@
 
 С помощью этой кнопки открывается диалоговое окно [Обозначения и описания выводов устройства](eplan/numerationgui_d_anschlussbezeichnungen.md). В этом диалоговом окне у вас есть возможность для каждого определения функции сохранять десять наборов обозначений и описаний выводов устройства.
 
-См. также
+**См. также:**
 
-[Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-
-[Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-
-[Исключить группы устройств из автоматической нумерации](eplan/numerationgui_h_einstellungentreffen.md)
-
-[Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)
+* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
+* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
+* [Исключить группы устройств из автоматической нумерации](eplan/numerationgui_h_einstellungentreffen.md)
+* [Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)

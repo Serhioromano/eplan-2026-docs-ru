@@ -45,10 +45,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Блок выравнивания для текстов](eplan/gededitgui_k_texteeinpassen.md)
-
-[Тексты](eplan/gededitgui_k_texte.md)
-
-[Вставить текст](eplan/gededitgui_h_texte.md)
+* [Блок выравнивания для текстов](eplan/gededitgui_k_texteeinpassen.md)
+* [Тексты](eplan/gededitgui_k_texte.md)
+* [Вставить текст](eplan/gededitgui_h_texte.md)

@@ -28,12 +28,9 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-
-[Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-
-[Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-
-[Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
+* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
+* [Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
+* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)

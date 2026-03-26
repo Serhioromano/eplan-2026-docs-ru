@@ -27,6 +27,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)

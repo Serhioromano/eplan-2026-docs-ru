@@ -44,10 +44,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
-
-[Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](eplan/bakbackupdlggui_d_projektesichern.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](eplan/bakbackupdlggui_d_projektesichern.md)

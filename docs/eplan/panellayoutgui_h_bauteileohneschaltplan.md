@@ -41,10 +41,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Обработать и отобразить свойства размещений изделий](eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
-
-[Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)
-
-[Диалоговое окно Удлинение и интервал](eplan/panellayoutgui_d_ausdehnungabstand.md)
+* [Обработать и отобразить свойства размещений изделий](eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
+* [Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)
+* [Диалоговое окно Удлинение и интервал](eplan/panellayoutgui_d_ausdehnungabstand.md)

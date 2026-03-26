@@ -6,10 +6,8 @@
 
 В дополнение к монтажной плате возможно создание легенд функциональных элементов, которые различным образом встраиваются в проект.
 
-См. также
+**См. также:**
 
-[Компоновка электрошкафа 2D: Основы](eplan/panellayoutgui_k_grundlagen.md)
-
-[Компоновка электрошкафа 2D: Виды размещения](eplan/panellayoutgui_k_platzierungsarten.md)
-
-[Компоновка электрошкафа 2D: Легенды](eplan/panellayoutgui_k_legenden.md)
+* [Компоновка электрошкафа 2D: Основы](eplan/panellayoutgui_k_grundlagen.md)
+* [Компоновка электрошкафа 2D: Виды размещения](eplan/panellayoutgui_k_platzierungsarten.md)
+* [Компоновка электрошкафа 2D: Легенды](eplan/panellayoutgui_k_legenden.md)

@@ -48,10 +48,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Клеммы](eplan/terminalgui_k_start.md)
-
-[Управление клеммами](eplan/terminalgui_k_verwaltung.md)
-
-[Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)
+* [Клеммы](eplan/terminalgui_k_start.md)
+* [Управление клеммами](eplan/terminalgui_k_verwaltung.md)
+* [Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)

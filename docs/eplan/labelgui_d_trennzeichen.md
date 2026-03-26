@@ -26,14 +26,10 @@
 
 В этом поле выводится число символов, введенных в поле Другие символы. Особенно большое значение это имеет в том случае, если введено несколько пробелов.
 
-См. также
+**См. также:**
 
-[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
-
-[Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
-
-[Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
-
-[Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
-
-[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
+* [Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
+* [Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
+* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)

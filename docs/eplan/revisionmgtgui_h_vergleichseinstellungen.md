@@ -15,8 +15,7 @@
   
 Ваши настройки будут сохранены в выбранной схеме, и диалоговое окно Сравнить проекты откроется снова.
 
-См. также
+**См. также:**
 
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-
-[Диалоговое окно Настройки: Сравнение свойств проектов](eplan/revisionmgtgui_d_vergleichseinstellungen.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Диалоговое окно Настройки: Сравнение свойств проектов](eplan/revisionmgtgui_d_vergleichseinstellungen.md)

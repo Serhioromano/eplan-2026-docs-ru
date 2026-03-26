@@ -112,18 +112,12 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговые окна](eplan/userinterface_k_dialoge.md)
-
-[Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
-
-[Фильтр](eplan/modaldialogsdb_k_filter.md)
-
-[Работать с рабочими областями](eplan/modaldialogs_h_mitarbeitsbereichenarbeiten.md)
-
-[Управление Eplan с помощью клавиатуры](eplan/userinterface_h_eplanmittastaturbedienen.md)
-
-[Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
-
-[Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
+* [Диалоговые окна](eplan/userinterface_k_dialoge.md)
+* [Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
+* [Фильтр](eplan/modaldialogsdb_k_filter.md)
+* [Работать с рабочими областями](eplan/modaldialogs_h_mitarbeitsbereichenarbeiten.md)
+* [Управление Eplan с помощью клавиатуры](eplan/userinterface_h_eplanmittastaturbedienen.md)
+* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
+* [Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)

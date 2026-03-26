@@ -10,16 +10,11 @@
 * У каждой функции сохраняется информация, была ли она изменена при выполнении нумерации с данными ПЛК.
 * Как элементы формата предлагаются адреса ПЛК, данные вывода устройства ПЛК (напр., обозначение вывода устройства) и элементы формата обычной нумерации ОУ.
 
-См. также
+**См. также:**
 
-[Нумерация с данными выводов устройства ПЛК](eplan/offlinenumerationplcgui_k_prinzip.md)
-
-[Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
-
-[Определить сетевое расширение для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_h_netzerweiterung.md)
-
-[Продолжить нумерацию после функции](eplan/offlinenumerationplcgui_h_einstellungen.md)
-
-[Исключить выводы устройства ПЛК из нумерации](eplan/offlinenumerationplcgui_h_ausschliessen.md)
-
-[Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
+* [Нумерация с данными выводов устройства ПЛК](eplan/offlinenumerationplcgui_k_prinzip.md)
+* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Определить сетевое расширение для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_h_netzerweiterung.md)
+* [Продолжить нумерацию после функции](eplan/offlinenumerationplcgui_h_einstellungen.md)
+* [Исключить выводы устройства ПЛК из нумерации](eplan/offlinenumerationplcgui_h_ausschliessen.md)
+* [Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)

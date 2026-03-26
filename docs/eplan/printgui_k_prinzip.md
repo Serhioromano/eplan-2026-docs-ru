@@ -42,10 +42,8 @@ Eplan предоставляет возможность изменять нас�
 
  
 
-См. также
+**См. также:**
 
-[Печать](eplan/printgui_k_start.md)
-
-[Печать страниц](eplan/printgui_h_drucken.md)
-
-[Диалоговое окно Настройки: Печать](eplan/printgui_d_druckoptionen.md)
+* [Печать](eplan/printgui_k_start.md)
+* [Печать страниц](eplan/printgui_h_drucken.md)
+* [Диалоговое окно Настройки: Печать](eplan/printgui_d_druckoptionen.md)

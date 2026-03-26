@@ -95,14 +95,10 @@
 ---|---  
 Настройки |  Открывает диалоговое окно Настройки: Изделие (пользователь), в котором можно, например, конфигурировать представление структуры дерева без прерывания производственного процесса.  
   
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Диалоговое окно Предварительный выбор изделий](eplan/partselectiongui_d_artikelvorauswahl.md)
-
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
-
-[Диалоговое окно Настройки: Изделие (пользователь)](eplan/partselectiongui_d_datenauswahlbenutzer.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Диалоговое окно Предварительный выбор изделий](eplan/partselectiongui_d_artikelvorauswahl.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
+* [Диалоговое окно Настройки: Изделие (пользователь)](eplan/partselectiongui_d_datenauswahlbenutzer.md)

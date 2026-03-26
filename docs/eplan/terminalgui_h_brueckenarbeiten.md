@@ -69,8 +69,7 @@
   
 В диалоговом окне Обработать клеммник в столбце Переключаемая перемычка (внешняя) отображается настроенное значение для переключаемых перемычек.
 
-См. также
+**См. также:**
 
-[Вкладка Соединения](eplan/devicetaggui_r_verbindungenklemmen.md)
-
-[Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)
+* [Вкладка Соединения](eplan/devicetaggui_r_verbindungenklemmen.md)
+* [Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)

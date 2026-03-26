@@ -102,10 +102,8 @@
 
 Если данный флажок установлен, то при увеличивающемся указании размеров отображается также начальное значение, т. е. значение в первой точке измерения. Если флажок не отмечен, это значение не отображается.
 
-См. также
+**См. также:**
 
-[Указания размеров](eplan/dimensiongui_k_start.md)
-
-[Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
-
-[Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)
+* [Указания размеров](eplan/dimensiongui_k_start.md)
+* [Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
+* [Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)

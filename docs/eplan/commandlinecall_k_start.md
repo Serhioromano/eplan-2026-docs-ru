@@ -34,8 +34,7 @@ Eplan.exe /ОбщПараметры Операция /Параметр1:Знач
 
 Если при выполнении командной строки возникает ошибка, она регистрируется в системных сообщениях (командный путь: Файл > Дополнительно > группа команд Система > Системные сообщения > Системные сообщения).
 
-См. также
+**См. также:**
 
-[Обзор общих параметров командной строки Eplan](eplan/commandlinecall_k_allgemeineparameter.md)
-
-[Операции Eplan](eplan/availableactions_k_start.md)
+* [Обзор общих параметров командной строки Eplan](eplan/commandlinecall_k_allgemeineparameter.md)
+* [Операции Eplan](eplan/availableactions_k_start.md)

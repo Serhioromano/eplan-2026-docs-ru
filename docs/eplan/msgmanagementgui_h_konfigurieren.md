@@ -23,16 +23,11 @@
 
  
 
-См. также
+**См. также:**
 
-[Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-
-[Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
-
-[Проверить данные проекта в режиме подключения](eplan/msgmanagementgui_h_prueflaufonline.md)
-
-[Диалоговое окно Выполнить контр. прогон](eplan/xesinspectiongui_d_prueflauf.md)
-
-[Диалоговое окно Настройки: Сообщения и контрольные прогоны](eplan/xesinspectiongui_d_einstellungenmeldungen.md)
-
-[Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
+* [Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
+* [Проверить данные проекта в режиме подключения](eplan/msgmanagementgui_h_prueflaufonline.md)
+* [Диалоговое окно Выполнить контр. прогон](eplan/xesinspectiongui_d_prueflauf.md)
+* [Диалоговое окно Настройки: Сообщения и контрольные прогоны](eplan/xesinspectiongui_d_einstellungenmeldungen.md)
+* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)

@@ -17,8 +17,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)

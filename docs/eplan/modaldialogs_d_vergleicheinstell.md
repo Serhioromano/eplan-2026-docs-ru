@@ -14,12 +14,9 @@
 
 Отображает все специфические для проекта настройки, которые Eplan может сравнить при сравнении и проверке проектов в процессе нормоконтроля. Эти настройки соответствуют настройкам, доступным в разделе Файл > Настройки > Проекты > "Имя проекта". Если перед записью флажок установлен, производится проверка того, идентичны ли настройка и все подчиненные настройки [Проекта для сравнения и проекта с замечаниями](eplan/processreceiptcontrol_k_projekte.md).
 
-См. также
+**См. также:**
 
-[Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-
-[Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-
-[Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
-
-[Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
+* [Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
+* [Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
+* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)

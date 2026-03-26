@@ -23,32 +23,19 @@
 * Тексты можно "присоединять", благодаря чему они представляют собой единый блок и могут быть перемещены все вместе.
 * Также на любой странице можно создать гиперссылку для вызова соответствующего документа.
 
-См. также
+**См. также:**
 
-[Элементы управления графического редактора](eplan/gededitgui_k_prinzip.md)
-
-[Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
-
-[Масштаб страницы](eplan/gededitgui_k_seitenmassstab.md)
-
-[Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
-
-[Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
-
-[Отмена и восстановление операций](eplan/gededitgui_k_undoundredo.md)
-
-[Функции масштабирования](eplan/gededitgui_k_zoom.md)
-
-[Тексты](eplan/gededitgui_k_texte.md)
-
-[Захват объекта](eplan/gededitgui_k_objektfang.md)
-
-[Последовательность обработки сгруппированных объектов](eplan/gededitgui_k_gruppierung.md)
-
-[Область ввода данных](eplan/gededitgui_k_kommandozeile.md)
-
-[Функции обрезки](eplan/gededitgui_k_trimmen.md)
-
-[Указания размеров](eplan/dimensiongui_k_start.md)
-
-[Функциональные тексты зон](eplan/gededitgui_k_pfadtextstart.md)
+* [Элементы управления графического редактора](eplan/gededitgui_k_prinzip.md)
+* [Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
+* [Масштаб страницы](eplan/gededitgui_k_seitenmassstab.md)
+* [Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
+* [Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
+* [Отмена и восстановление операций](eplan/gededitgui_k_undoundredo.md)
+* [Функции масштабирования](eplan/gededitgui_k_zoom.md)
+* [Тексты](eplan/gededitgui_k_texte.md)
+* [Захват объекта](eplan/gededitgui_k_objektfang.md)
+* [Последовательность обработки сгруппированных объектов](eplan/gededitgui_k_gruppierung.md)
+* [Область ввода данных](eplan/gededitgui_k_kommandozeile.md)
+* [Функции обрезки](eplan/gededitgui_k_trimmen.md)
+* [Указания размеров](eplan/dimensiongui_k_start.md)
+* [Функциональные тексты зон](eplan/gededitgui_k_pfadtextstart.md)

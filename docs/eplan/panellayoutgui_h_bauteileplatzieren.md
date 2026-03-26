@@ -26,6 +26,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Начертить заблокированные области](eplan/panellayoutgui_h_sperrflaechenzeichnen.md)
+* [Начертить заблокированные области](eplan/panellayoutgui_h_sperrflaechenzeichnen.md)

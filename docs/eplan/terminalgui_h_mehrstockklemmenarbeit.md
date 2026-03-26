@@ -57,8 +57,7 @@
 7. Щелкните по кнопке [OK].
 8. Повторите описанные выше шаги для других клемм, которые являются частью многоуровневой клеммы.
 
-См. также
+**См. также:**
 
-[Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-
-[Вкладка Клемма](eplan/devicetaggui_r_klemmen.md)
+* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
+* [Вкладка Клемма](eplan/devicetaggui_r_klemmen.md)

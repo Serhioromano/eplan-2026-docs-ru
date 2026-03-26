@@ -16,22 +16,14 @@
 
 Доступны для выбора различные формы представления стрелок и выносных линий, что позволяет настраивать размеры с учетом специфики страны или стандарта.
 
-См. также
+**См. также:**
 
-[Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
-
-[Вставить отдельное указание размеров / произвольное указание размеров](eplan/dimensiongui_h_einzelbemassung.md)
-
-[Вставить непрерывное указание размеров](eplan/dimensiongui_h_kettenbemassung.md)
-
-[Вставить инкрементальное указание размеров](eplan/dimensiongui_h_steigendebemassung.md)
-
-[Вставить указание размеров исходной линии](eplan/dimensiongui_h_bezugspunktbemassung.md)
-
-[Вставить угловое указание размеров](eplan/dimensiongui_h_winkelbemassung.md)
-
-[Вставить круговое указание размеров](eplan/dimensiongui_h_kreisbemassung.md)
-
-[Обработать указания размеров](eplan/dimensiongui_h_bemassungbearbeiten.md)
-
-[Графический редактор](eplan/gededitgui_k_start.md)
+* [Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
+* [Вставить отдельное указание размеров / произвольное указание размеров](eplan/dimensiongui_h_einzelbemassung.md)
+* [Вставить непрерывное указание размеров](eplan/dimensiongui_h_kettenbemassung.md)
+* [Вставить инкрементальное указание размеров](eplan/dimensiongui_h_steigendebemassung.md)
+* [Вставить указание размеров исходной линии](eplan/dimensiongui_h_bezugspunktbemassung.md)
+* [Вставить угловое указание размеров](eplan/dimensiongui_h_winkelbemassung.md)
+* [Вставить круговое указание размеров](eplan/dimensiongui_h_kreisbemassung.md)
+* [Обработать указания размеров](eplan/dimensiongui_h_bemassungbearbeiten.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)

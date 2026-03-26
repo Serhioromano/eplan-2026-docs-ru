@@ -133,20 +133,13 @@
 Свойства |  Открывает диалоговое окно Свойства (усл. обозначение): <...>. Позволяет обрабатывать свойства сегмента или функции.  
 Свойства (общие) |  Открывает диалоговое окно Свойства (общие): <...>. Позволяет обрабатывать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Создание и обработка сегментов структуры](eplan/planninggui_h_struktursegmenteerstlbearb.md)
-
-[Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](eplan/planninggui_h_planungsobjekteerstellen.md)
-
-[Создание связей в предварительном планировании](eplan/planninggui_h_verknuepfungenerstellen.md)
-
-[Размещение шаблонов функций и адресов ПЛК объектов планирования](eplan/planninggui_h_objekteplatzieren.md)
-
-[Создание и вставка макросов предварительного планирования](eplan/planninggui_h_vorplanmakroserstl.md)
-
-[Определения трубопровода на функциональной схеме автоматизации](eplan/planningri_k_rdp.md)
-
-[[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md) ](eplan/planninggui_h_vorplanmakroserstl.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Создание и обработка сегментов структуры](eplan/planninggui_h_struktursegmenteerstlbearb.md)
+* [Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](eplan/planninggui_h_planungsobjekteerstellen.md)
+* [Создание связей в предварительном планировании](eplan/planninggui_h_verknuepfungenerstellen.md)
+* [Размещение шаблонов функций и адресов ПЛК объектов планирования](eplan/planninggui_h_objekteplatzieren.md)
+* [Создание и вставка макросов предварительного планирования](eplan/planninggui_h_vorplanmakroserstl.md)
+* [Определения трубопровода на функциональной схеме автоматизации](eplan/planningri_k_rdp.md)
+* [[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)

@@ -41,8 +41,7 @@ Eplan дает возможность разделять структурные 
 
  
 
-См. также
+**См. также:**
 
-[Проверить идентификаторы](eplan/pleditorgui_h_kennzpruefen.md)
-
-[Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](eplan/pleditorgui_d_kennzeichen.md)
+* [Проверить идентификаторы](eplan/pleditorgui_h_kennzpruefen.md)
+* [Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](eplan/pleditorgui_d_kennzeichen.md)

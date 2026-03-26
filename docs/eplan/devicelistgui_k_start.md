@@ -29,18 +29,12 @@
 * Устройства и модули можно копировать из одного проекта в другой.
 * Изделия могут существовать в проекте без графики (и без ОУ) и доступны для использования.
 
-См. также
+**См. также:**
 
-[Устройства: Принцип](eplan/devicelistgui_k_prinzip.md)
-
-[Список устройств](eplan/devicelistgui_k_geraeteliste.md)
-
-[Вставка / размещение устройств](eplan/devicelistgui_k_platzieren.md)
-
-[Процедура удаления и копирования устройств](eplan/devicelistgui_k_loeschenkopieren.md)
-
-[Создать определения устройств](eplan/devicelistgui_h_geraetedefinitionenanlegen.md)
-
-[Обработать список устройств](eplan/devicelistgui_h_geraetelistebearbeiten.md)
-
-[Вставить устройства](eplan/devicelistgui_h_geraeteeinfuegen.md)
+* [Устройства: Принцип](eplan/devicelistgui_k_prinzip.md)
+* [Список устройств](eplan/devicelistgui_k_geraeteliste.md)
+* [Вставка / размещение устройств](eplan/devicelistgui_k_platzieren.md)
+* [Процедура удаления и копирования устройств](eplan/devicelistgui_k_loeschenkopieren.md)
+* [Создать определения устройств](eplan/devicelistgui_h_geraetedefinitionenanlegen.md)
+* [Обработать список устройств](eplan/devicelistgui_h_geraetelistebearbeiten.md)
+* [Вставить устройства](eplan/devicelistgui_h_geraeteeinfuegen.md)

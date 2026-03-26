@@ -135,10 +135,8 @@ PE-клеммы / -контакты штекера... SH-клеммы / -кон�
 
 Если установить этот флажок, в нумерацию будут также включены клеммы/контакты штекеров с влиянием ПЛК.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Нумерация](eplan/terminalplugnumberinggui_d_nummerierungsschema.md)
-
-[Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-
-[Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/terminalplugnumberinggui_d_nummerierungsschema.md)
+* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
+* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)

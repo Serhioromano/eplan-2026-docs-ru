@@ -39,10 +39,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Описание изменения страниц](eplan/revisionlogmgtgui_d_beschreibungseitenaenderung.md)
-
-[Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
-
-[Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Диалоговое окно Описание изменения страниц](eplan/revisionlogmgtgui_d_beschreibungseitenaenderung.md)
+* [Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
+* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)

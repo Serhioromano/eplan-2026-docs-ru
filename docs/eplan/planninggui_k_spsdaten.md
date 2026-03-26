@@ -46,14 +46,10 @@
 
 Для получения дополнительной информации по теме "Унаследование ПЛК данных предварительного планирования" и рекомендаций по данной теме обратитесь в службу поддержки Eplan.
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
-
-[Создание подробного планирования из макросов](eplan/planninggui_k_grafikausmakros.md)
-
-[Использование имеющихся выводов устройства ПЛК](eplan/plcgui_h_anschluesseabbuchen.md)
-
-[Принадлежность точек подвода питания к каналу](eplan/plcgui_k_kanalzugehoerigkeit.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
+* [Создание подробного планирования из макросов](eplan/planninggui_k_grafikausmakros.md)
+* [Использование имеющихся выводов устройства ПЛК](eplan/plcgui_h_anschluesseabbuchen.md)
+* [Принадлежность точек подвода питания к каналу](eplan/plcgui_k_kanalzugehoerigkeit.md)

@@ -29,10 +29,8 @@ GOST_bas001.zw9 |  Подходит для создания проектов п�
 
 Шаблоны проектов из старых версий Eplan (версия 2.9 и более ранняя) преобразуются в базовые проекты с помощью операции XPrjConvertBaseProjectsAction. С помощью этой операции можно выполнить преобразование шаблонов проектов через вызов командной строки, а также через сценарий или Eplan API. Задавая различные параметры, можно выбрать для преобразования отдельные шаблоны проектов, каталоги или определенные типы файлов.
 
-См. также
+**См. также:**
 
-[Создать проекты](eplan/projects_h_projekteerstellen.md)
-
-[Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
-
-[Операция: XPrjConvertBaseProjectsAction](eplan/availableactions_o_xprjconvertbaseprojectsaction.md)
+* [Создать проекты](eplan/projects_h_projekteerstellen.md)
+* [Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
+* [Операция: XPrjConvertBaseProjectsAction](eplan/availableactions_o_xprjconvertbaseprojectsaction.md)

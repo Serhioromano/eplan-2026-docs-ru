@@ -113,18 +113,12 @@
 Табличная обработка |  Открывает табличную обработку с возможностью обрабатывать свойства выделенных объектов.  
 Свойства |  В зависимости от выделения открывает соответствующее диалоговое окно свойств для обработки свойств макроса.  
   
-См. также
+**См. также:**
 
-[Макросы](eplan/macrosgui_k_start.md)
-
-[Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
-
-[Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
-
-[Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
-
-[Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
-
-[Расширить объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerweitern.md)
-
-[Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)
+* [Макросы](eplan/macrosgui_k_start.md)
+* [Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
+* [Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
+* [Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
+* [Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
+* [Расширить объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerweitern.md)
+* [Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)

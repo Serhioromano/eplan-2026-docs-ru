@@ -21,12 +21,9 @@
   
 Если файл конфигурации не содержит определенные пользователем слои, которые отсутствуют в текущем проекте, эти слои будут созданы в проекте. Определенные пользователем слои, которые содержатся как в файле конфигурации, так и в проекте, будут адаптированы в соответствии с настройками, имеющимися в файле конфигурации.
 
-См. также
+**См. также:**
 
-[Управление слоями](eplan/layermanager_k_start.md)
-
-[Слои: Принцип](eplan/layermanager_k_prinzip.md)
-
-[Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
-
-[Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Управление слоями](eplan/layermanager_k_start.md)
+* [Слои: Принцип](eplan/layermanager_k_prinzip.md)
+* [Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)

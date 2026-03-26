@@ -29,6 +29,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Форматир. импорта](eplan/xdxfgui_d_importformatierung.md)
+* [Диалоговое окно Форматир. импорта](eplan/xdxfgui_d_importformatierung.md)

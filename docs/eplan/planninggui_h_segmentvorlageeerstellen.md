@@ -39,12 +39,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
-
-[Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-
-[Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)
-
-[Присвоить шаблоны сегментов](eplan/planninggui_h_segmentvorlagezuordnen.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
+* [Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)
+* [Присвоить шаблоны сегментов](eplan/planninggui_h_segmentvorlagezuordnen.md)

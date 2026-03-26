@@ -37,14 +37,10 @@
 
 Если этот флажок установлен, выводится предварительный просмотр выделенных страниц. В случае многократного выбора выводится максимум 12.
 
-См. также
+**См. также:**
 
-[Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
-
-[Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
-
-[Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
-
-[Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
+* [Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
+* [Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
+* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)

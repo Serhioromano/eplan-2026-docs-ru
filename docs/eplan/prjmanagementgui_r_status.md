@@ -44,14 +44,10 @@
 
 При нажатии на [...] откроется последующее диалоговое окно со списком, в котором будет указано время по каждому выполненному контрольному прогону. Будут показаны только значения для фактически выполненных контрольных прогонов.
 
-См. также
+**См. также:**
 
-[Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-
-[Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-
-[Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
-
-[Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
+* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
+* [Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
+* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)

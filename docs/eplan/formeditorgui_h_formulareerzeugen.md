@@ -26,10 +26,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Проверить формы](eplan/formeditorgui_h_formularepruefen.md)
-
-[Обработать свойства форм](eplan/formeditorgui_h_formulareigenschaftenbearbeiten.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Проверить формы](eplan/formeditorgui_h_formularepruefen.md)
+* [Обработать свойства форм](eplan/formeditorgui_h_formulareigenschaftenbearbeiten.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)

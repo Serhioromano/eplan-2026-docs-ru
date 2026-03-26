@@ -22,14 +22,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-
-[Задать представление структуры дерева в навигаторах](eplan/projectstructure_h_kennzeichenausblenden.md)
-
-[Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
-
-[Вкладка Структура (управление проектами)](eplan/prjmanagementgui_r_struktur.md)
-
-[Диалоговое окно Структура страницы](eplan/prjmanagementgui_d_seitenstruktur.md)
+* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
+* [Задать представление структуры дерева в навигаторах](eplan/projectstructure_h_kennzeichenausblenden.md)
+* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Вкладка Структура (управление проектами)](eplan/prjmanagementgui_r_struktur.md)
+* [Диалоговое окно Структура страницы](eplan/prjmanagementgui_d_seitenstruktur.md)

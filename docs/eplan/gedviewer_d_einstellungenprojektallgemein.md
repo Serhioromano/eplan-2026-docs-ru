@@ -139,14 +139,10 @@
 
 В раскрывающемся списке выберите, какая кодировка будет использоваться для вставленных QR-кодов. По умолчанию QR-код кодируется в UTF-8. Для японских символов доступна кодировка "Shift JIS".
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Определить настройки для отображения символов соединения](eplan/egedgui_h_einstellungenanzeigeverdrahtung.md)
-
-[Диалоговое окно Настройки: Символы соединения](eplan/gedviewer_d_einstellungenverbindungssymbole.md)
-
-[Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
-
-[Вставить QR-коды](eplan/gededitgui_h_qrcodes.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Определить настройки для отображения символов соединения](eplan/egedgui_h_einstellungenanzeigeverdrahtung.md)
+* [Диалоговое окно Настройки: Символы соединения](eplan/gedviewer_d_einstellungenverbindungssymbole.md)
+* [Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
+* [Вставить QR-коды](eplan/gededitgui_h_qrcodes.md)

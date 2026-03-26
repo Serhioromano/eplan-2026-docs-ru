@@ -35,8 +35,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
-
-[Диалоговое окно Опции размещения](eplan/cabinetgui_d_platzieroptionen.md)
+* [Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
+* [Диалоговое окно Опции размещения](eplan/cabinetgui_d_platzieroptionen.md)

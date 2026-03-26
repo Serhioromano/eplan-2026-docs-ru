@@ -15,8 +15,7 @@
   
 В настроенном каталоге вывода файл EPDZ сгенерируется с заранее выбранным именем. Затем вы можете считать этот файл в Eplan Smart Production.
 
-См. также
+**См. также:**
 
-[Данные изготовления для Eplan Smart Production](eplan/edaexportgui_k_start.md)
-
-[Диалоговое окно Экспорт: Eplan Smart Production](eplan/edaexportgui_d_smartproductioncollection.md)
+* [Данные изготовления для Eplan Smart Production](eplan/edaexportgui_k_start.md)
+* [Диалоговое окно Экспорт: Eplan Smart Production](eplan/edaexportgui_d_smartproductioncollection.md)

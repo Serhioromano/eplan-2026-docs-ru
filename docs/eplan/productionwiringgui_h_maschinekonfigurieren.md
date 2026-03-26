@@ -9,8 +9,7 @@
   
 Настроенные данные машины доступны при экспорте в диалоговом окне экспорта под соответствующим именем машины.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Сборка проводов](eplan/productionwiringgui_d_einstellungendrahtkonfektionierung.md)
-
-[Экспортировать сборку проводов](eplan/productionwiringgui_h_drahtdatenexportieren.md)
+* [Диалоговое окно Настройки: Сборка проводов](eplan/productionwiringgui_d_einstellungendrahtkonfektionierung.md)
+* [Экспортировать сборку проводов](eplan/productionwiringgui_h_drahtdatenexportieren.md)

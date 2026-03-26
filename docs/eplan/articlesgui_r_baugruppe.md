@@ -97,12 +97,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-
-[Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
-
-[Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
-
-[Создать дополнительные части](eplan/articlesgui_h_ergaenzungsteileanlegen.md)
+* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
+* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [Создать дополнительные части](eplan/articlesgui_h_ergaenzungsteileanlegen.md)

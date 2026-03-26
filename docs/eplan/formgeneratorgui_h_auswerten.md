@@ -18,12 +18,9 @@ Eplan открывает диалоговое окно Выбрать форму
 Сейчас форме присвоен тип отчета.
 6. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Генерировать формы](eplan/formeditorgui_h_formulareerzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
+* [Генерировать формы](eplan/formeditorgui_h_formulareerzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)

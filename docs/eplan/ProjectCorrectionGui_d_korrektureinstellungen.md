@@ -20,6 +20,6 @@
 * [Соединения](eplan/ProjectCorrectionGui_k_korrekturdaten.md#I_Verbindungen)
 * [ПЛК](eplan/ProjectCorrectionGui_k_korrekturdaten.md#I_SPS).
 
-См. также
+**См. также:**
 
-[Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)

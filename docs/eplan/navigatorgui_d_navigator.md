@@ -84,12 +84,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-
-[Присвоить данные функции условному обозначению](eplan/navigatorgui_h_funktionzuweisen.md)
-
-[Создать неразмещенные устройства в навигаторе устройств](eplan/navigatorgui_h_funktionenanlegen.md)
-
-[Механические устройства](eplan/navigatorgui_k_mechbetriebsmittel.md)
+* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
+* [Присвоить данные функции условному обозначению](eplan/navigatorgui_h_funktionzuweisen.md)
+* [Создать неразмещенные устройства в навигаторе устройств](eplan/navigatorgui_h_funktionenanlegen.md)
+* [Механические устройства](eplan/navigatorgui_k_mechbetriebsmittel.md)

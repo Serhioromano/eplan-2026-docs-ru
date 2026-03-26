@@ -43,8 +43,7 @@
 Укажите здесь обозначение типа изделия соединения (например, номер типа трубы или шланга). Значение переносится в свойство Соединение: Обозначение типа и служит в качестве значения по умолчанию для новых соединений.  
 При выборе изделия значение из базы данных изделий, заданное на вкладке Свойства, перемещается в свойство и заменяет значение по умолчанию.
 
-См. также
+**См. также:**
 
-[Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Вкладка Электротехника](eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
+* [Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Вкладка Электротехника](eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)

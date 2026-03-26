@@ -49,10 +49,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Порядок действий при размещении устройств](eplan/devicelistgui_k_vorgehengeraeteplatzieren.md)
-
-[Удаление размещения и отмена размещенных функций](eplan/sparecomponent_h_funktionenzurueckbuchen.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Порядок действий при размещении устройств](eplan/devicelistgui_k_vorgehengeraeteplatzieren.md)
+* [Удаление размещения и отмена размещенных функций](eplan/sparecomponent_h_funktionenzurueckbuchen.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)

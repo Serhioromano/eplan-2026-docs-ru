@@ -54,18 +54,12 @@
 
 Откройте диалоговое окно [Скопировать файлы со ссылками в проект вручную](eplan/eservicesgui_d_insprojektkopieren.md). Здесь вы можете вручную скопировать файлы со ссылками (внешние документы, графические файлы и т. д.) в текущий или создаваемый базовый проект.
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
-
-[Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
-
-[Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
-
-[Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
-
-[Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
-
-[Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
+* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
+* [Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
+* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+* [Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
+* [Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)

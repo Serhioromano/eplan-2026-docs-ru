@@ -75,12 +75,9 @@ Local-Bus: Расширение |  Все прочие
 
 Необозначенные поля не требуются для обмена данными ПЛК. Если необязательные поля (o) оставить пустыми, импорт в программу конфигурации ПЛК будет возможен, но потребуется дополнительная обработка.
 
-См. также
+**См. также:**
 
-[Структура ПЛК](eplan/plcgui_k_prinzip.md)
-
-[Обмен данными файлов конфигурации ПЛК](eplan/plcgui_k_austauschbuskonfig.md)
-
-[Диалоговое окно Настройки: Экспорт AutomationML](eplan/plcgui_d_optionsaml.md)
-
-[Управление подключаемыми выводами шин на вышестоящем устройстве](eplan/plcgui_h_steckbarebusanschluesseverwalten.md)
+* [Структура ПЛК](eplan/plcgui_k_prinzip.md)
+* [Обмен данными файлов конфигурации ПЛК](eplan/plcgui_k_austauschbuskonfig.md)
+* [Диалоговое окно Настройки: Экспорт AutomationML](eplan/plcgui_d_optionsaml.md)
+* [Управление подключаемыми выводами шин на вышестоящем устройстве](eplan/plcgui_h_steckbarebusanschluesseverwalten.md)

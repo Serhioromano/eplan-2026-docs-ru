@@ -53,8 +53,7 @@ End Class 'SimpleScriptAction
 
 Если сценарий загружен один раз, при следующем запуске Eplan он загружается автоматически, и операция снова доступна. Отмена регистрации такого сценарии выполняется в виде Backstage Дополнительно с помощью команды Выгрузить.
 
-См. также
+**См. также:**
 
-[Сценарии](eplan/scripts_k_start.md)
-
-[Выполнить или загрузить сценарии](eplan/scripts_h_scripteausfuehren.md)
+* [Сценарии](eplan/scripts_k_start.md)
+* [Выполнить или загрузить сценарии](eplan/scripts_h_scripteausfuehren.md)

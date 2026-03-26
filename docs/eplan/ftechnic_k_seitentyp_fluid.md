@@ -27,10 +27,8 @@
 
 При помощи этого свойства можно настроить раздел, который следует использовать для страницы Fluid-техники.
 
-См. также
+**См. также:**
 
-[Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-
-[Eplan Fluid: Точки разрыва](eplan/ftechnic_k_abbruchstellen.md)
-
-[Последовательность видов представлений при общей обработке и анализе](eplan/reverseengineering_k_reihenfolge.md)
+* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
+* [Eplan Fluid: Точки разрыва](eplan/ftechnic_k_abbruchstellen.md)
+* [Последовательность видов представлений при общей обработке и анализе](eplan/reverseengineering_k_reihenfolge.md)

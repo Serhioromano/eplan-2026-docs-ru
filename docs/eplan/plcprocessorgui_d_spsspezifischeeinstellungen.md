@@ -26,14 +26,10 @@
 * Формат списка присвоений: в этой вкладке задается формат списка присвоений.
 * Формат символического адреса: в этой вкладке задаются критерии, по которым будут автоматически генерироваться символические адреса. Кроме того, у вас есть возможность заменять используемые в структурных идентификаторах специальные символы в списках присвоений на другие.
 
-См. также
+**См. также:**
 
-[Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
-
-[Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
-
-[Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
-
-[Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
-
-[Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)
+* [Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
+* [Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
+* [Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
+* [Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
+* [Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)

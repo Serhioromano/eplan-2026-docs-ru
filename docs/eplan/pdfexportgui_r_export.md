@@ -48,18 +48,12 @@
 
 Если этот флажок выключен, границы печати не учитываются. Таким образом, при печати страниц, сгенерированных в Eplan, в Acrobat Reader полей не будет до самой прошивки.
 
-См. также
+**См. также:**
 
-[Вкладка Общее (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_allgemein.md)
-
-[Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
-
-[Вкладка Свойства устройства / Свойства изделия](eplan/pdfexportgui_r_bmeigenschaften.md)
-
-[Диалоговое окно Настройки: Языки вывода PDF ](eplan/pdfexportgui_d_projekteinstellungen.md)
-
-[Диалоговое окно Настройки: Границы печати](eplan/printgui_d_druckraender.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-
-[Диалоговое окно Формат: свойство](eplan/eservicesgui_d_format.md)
+* [Вкладка Общее (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_allgemein.md)
+* [Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
+* [Вкладка Свойства устройства / Свойства изделия](eplan/pdfexportgui_r_bmeigenschaften.md)
+* [Диалоговое окно Настройки: Языки вывода PDF ](eplan/pdfexportgui_d_projekteinstellungen.md)
+* [Диалоговое окно Настройки: Границы печати](eplan/printgui_d_druckraender.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Диалоговое окно Формат: свойство](eplan/eservicesgui_d_format.md)

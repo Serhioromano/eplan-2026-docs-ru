@@ -50,12 +50,9 @@
   
 Все кабели, для которых записана одинаковая форма схемы кабельных соединений, выдаются вместе в одном блоке отчета. Если вы используете для каждого типа кабеля отдельную форму схемы кабельных соединений, генерируется один блок отчета для каждого типа кабеля. В блоке отчетов содержатся страницы отчета для схемы кабельных соединений и групповая спецификация изделий. Возможная сортировка учитывается только внутри блока отчета.
 
-См. также
+**См. также:**
 
-[Блоки отчетов](eplan/formgeneratorgui_k_auswertungsbloecke.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Удалить страницы отчета](eplan/formgeneratorgui_h_auswertungloeschen.md)
-
-[Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Блоки отчетов](eplan/formgeneratorgui_k_auswertungsbloecke.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Удалить страницы отчета](eplan/formgeneratorgui_h_auswertungloeschen.md)
+* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)

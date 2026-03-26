@@ -136,14 +136,10 @@
 
 Если этот флажок установлен, при открытии проекта соответствующая форма автоматически синхронизируется с пулом основных данных, если в диалоговом окне Настройки: Общее (командный путь: Файл > Настройки > Проекты > "Имя проекта" > Управление > Общее) установлен флажок Синхронизировать основные данные проекта при открытии.
 
-См. также
+**См. также:**
 
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-
-[Сортировка страниц отчетов](eplan/formgeneratorgui_k_seitensortierung.md)
-
-[Диалоговое окно Настройки: Общие (проекты, управление)](eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Сортировка страниц отчетов](eplan/formgeneratorgui_k_seitensortierung.md)
+* [Диалоговое окно Настройки: Общие (проекты, управление)](eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)

@@ -54,20 +54,13 @@
 
 Частичные соединения содержат свои данные и в макросах, если в макрос была также включена точка определения соединения с информацией о соединении.
 
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Соединения: Принцип](eplan/connectionbrowsergui_k_prinzipverbindungen.md)
-
-[Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
-
-[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-
-[Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
-
-[Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-
-[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Соединения: Принцип](eplan/connectionbrowsergui_k_prinzipverbindungen.md)
+* [Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
+* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)

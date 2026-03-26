@@ -21,8 +21,7 @@
   
 Символ масштабируется на заданное значение.
 
-См. также
+**См. также:**
 
-[Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
-
-[Предотвратить новое размещение символа](eplan/xsbgui_h_symbolplatzierungverhindern.md)
+* [Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
+* [Предотвратить новое размещение символа](eplan/xsbgui_h_symbolplatzierungverhindern.md)

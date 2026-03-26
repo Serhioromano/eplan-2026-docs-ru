@@ -18,14 +18,10 @@
 * Вы можете нумеровать штекеры и их контакты, а также создавать нумерованные схемы для обозначений контактов штекеров.
 * На контакты штекера можно записать изделия, которые будут потом выводиться в отчетах или использоваться для экспорта данных изготовления / маркировки.
 
-См. также
+**См. также:**
 
-[Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
-
-[Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
-
-[Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
-
-[Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-
-[Сортировать контакты штекеров](eplan/plugsgui_h_steckerkontaktesortieren.md)
+* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
+* [Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
+* [Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
+* [Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
+* [Сортировать контакты штекеров](eplan/plugsgui_h_steckerkontaktesortieren.md)

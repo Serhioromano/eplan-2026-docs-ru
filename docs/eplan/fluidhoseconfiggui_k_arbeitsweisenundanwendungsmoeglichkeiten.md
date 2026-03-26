@@ -7,10 +7,8 @@
 * Он закрывает конфигуратор шлангопроводов. Информация автоматически записывается обратно на шлангопроводы в схеме соединений.
 * После этого он генерирует отчеты для своей документации по установке и для заказа изделий шлангопроводов.
 
-См. также
+**См. также:**
 
-[Eplan Fluid Hose Configurator: Введение](eplan/fluidhoseconfiggui_k_start.md)
-
-[Считать данные шлангопроводов](eplan/fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
-
-[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Eplan Fluid Hose Configurator: Введение](eplan/fluidhoseconfiggui_k_start.md)
+* [Считать данные шлангопроводов](eplan/fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
+* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)

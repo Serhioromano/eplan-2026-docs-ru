@@ -43,10 +43,8 @@
 
 Во время предварительного просмотра отображается страница / пространство листа, куда был вставлен объект-заполнитель. Если этот флажок установлен, область с выбранным объектом-заполнителем и соответствующими объектами отображается с увеличением.
 
-См. также
+**См. также:**
 
-[Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
-
-[Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
-
-[Присвоить набор значений объекту-заполнителю](eplan/macrosgui_h_wertesatzzuweisen.md)
+* [Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
+* [Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
+* [Присвоить набор значений объекту-заполнителю](eplan/macrosgui_h_wertesatzzuweisen.md)

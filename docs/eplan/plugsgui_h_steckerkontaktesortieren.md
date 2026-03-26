@@ -17,6 +17,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)
+* [Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)

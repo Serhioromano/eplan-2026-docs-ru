@@ -85,8 +85,7 @@
 * Клеммники (Определение блока): Если этот флажок установлен, клеммники экспортируются как упрощенный блок.
 * 3D-макросы: Если этот флажок установлен, графические макросы, шины и кабельные каналы упрощаются до прямоугольного параллелепипеда.
 
-См. также
+**См. также:**
 
-[Вкладка Настройки: Импорт пространства конструкции](eplan/xdesignspaceimportgui_r_einstellungenstepimport.md)
-
-[Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
+* [Вкладка Настройки: Импорт пространства конструкции](eplan/xdesignspaceimportgui_r_einstellungenstepimport.md)
+* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)

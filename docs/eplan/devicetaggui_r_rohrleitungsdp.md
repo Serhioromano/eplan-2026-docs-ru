@@ -35,6 +35,6 @@
 
 [Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Определить трубопровод на функциональной схеме автоматизации](eplan/planningri_h_rohrleitungdefinieren.md)
+* [Определить трубопровод на функциональной схеме автоматизации](eplan/planningri_h_rohrleitungdefinieren.md)

@@ -10,8 +10,7 @@
 
 Таблица позволяет управлять информацией о производителе в форме краткого и полного имен. Если в настройках выбрана установленная по умолчанию схема DIN 20066_2012-01, в таблице вам будут предложены на выбор многие известные производители шлангопроводов.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)
-
-[[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md) ](eplan/fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md)
+* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)
+* [[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)

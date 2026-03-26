@@ -91,10 +91,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Создание перемычек](eplan/terminalgui_h_brueckenarbeiten.md)
-
-[Вкладка Соединения](eplan/devicetaggui_r_verbindungenklemmen.md)
-
-[Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+* [Создание перемычек](eplan/terminalgui_h_brueckenarbeiten.md)
+* [Вкладка Соединения](eplan/devicetaggui_r_verbindungenklemmen.md)
+* [Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)

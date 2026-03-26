@@ -30,10 +30,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Обработка фрагментов](eplan/projectoptionsgui_h_ausschnittebearbeiten.md)
-
-[Опции](eplan/projectoptionsgui_k_start.md)
-
-[Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
+* [Обработка фрагментов](eplan/projectoptionsgui_h_ausschnittebearbeiten.md)
+* [Опции](eplan/projectoptionsgui_k_start.md)
+* [Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)

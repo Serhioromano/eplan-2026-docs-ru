@@ -20,12 +20,9 @@
 9. Для открытия файла во внешнем приложении выберите опцию Экспортировать и запустить приложение.
 10. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Экспорт данных изготовления / маркировка](eplan/labelgui_k_start.md)
-
-[Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
-
-[Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-
-[Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
+* [Экспорт данных изготовления / маркировка](eplan/labelgui_k_start.md)
+* [Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)

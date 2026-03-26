@@ -43,8 +43,7 @@
 * [Вкладка Резьба](eplan/ncgui_r_dxfgewinde.md)
 * [Вкладка Контуры](eplan/ncgui_r_dxfkonturen.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт: ЧУ DXF](eplan/ncgui_d_exportperdxf.md)
-
-[Диалоговое окно Экспорт: Медь DXF](eplan/ncgui_d_exportkupferdxf.md)
+* [Диалоговое окно Экспорт: ЧУ DXF](eplan/ncgui_d_exportperdxf.md)
+* [Диалоговое окно Экспорт: Медь DXF](eplan/ncgui_d_exportkupferdxf.md)

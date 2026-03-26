@@ -39,10 +39,8 @@ Eplan автоматически заполняет свойства Дата с
 7. Закройте базу данных изделий и сохраните измененные данные.
 8. Нажмите [Да] в следующем диалоговом окне, чтобы выполнить синхронизацию данных изделий.
 
-См. также
+**См. также:**
 
-[База данных изделий: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
-
-[Вкладка Принадлежности](eplan/articlesgui_r_zubehoer.md)
-
-[Вкладки Изделия (Список принадлежностей)](eplan/articlesgui_r_zubehoerlisteartikel.md)
+* [База данных изделий: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
+* [Вкладка Принадлежности](eplan/articlesgui_r_zubehoer.md)
+* [Вкладки Изделия (Список принадлежностей)](eplan/articlesgui_r_zubehoerlisteartikel.md)

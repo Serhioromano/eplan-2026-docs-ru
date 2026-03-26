@@ -10,6 +10,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Вкладка <Категория функции>](eplan/devicetaggui_r_bmdaten.md)
+* [Вкладка <Категория функции>](eplan/devicetaggui_r_bmdaten.md)

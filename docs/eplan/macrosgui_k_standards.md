@@ -49,12 +49,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Макросы](eplan/macrosgui_k_start.md)
-
-[Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](eplan/articlesgui_r_eigenschaften.md#DatenArtikel)
-
-[Диалоговое окно Настройки: Общие (проекты, управление)](eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
-
-[Центр вставки](eplan/insertergui_k_start.md)
+* [Макросы](eplan/macrosgui_k_start.md)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](eplan/articlesgui_r_eigenschaften.md#DatenArtikel)
+* [Диалоговое окно Настройки: Общие (проекты, управление)](eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
+* [Центр вставки](eplan/insertergui_k_start.md)

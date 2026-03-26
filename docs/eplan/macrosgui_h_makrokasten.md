@@ -100,16 +100,11 @@ Eplan открывает диалоговое окно [Сохранить ка�
   
 При автоматической генерации макросов из проекта макросов точка захвата соответственно сохраняется вместе с рамкой макроса в макрос.
 
-См. также
+**См. также:**
 
-[Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
-
-[Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
-
-[Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
-
-[Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
-
-[Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
-
-[Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)
+* [Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
+* [Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
+* [Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
+* [Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
+* [Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
+* [Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)

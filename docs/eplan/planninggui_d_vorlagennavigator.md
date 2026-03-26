@@ -76,14 +76,10 @@
 Свойства |  Открывает диалоговое окно Свойства (усл. обозначение): <...>. Позволяет обрабатывать свойства сегмента или функции.  
 Свойства (общие) |  Открывает диалоговое окно Свойства (общие): <...>. Позволяет обрабатывать свойства устройства.  
   
-См. также
+**См. также:**
 
-[Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)
-
-[Шаблоны для классов трубы и веществ](eplan/planninggui_k_rohrleitungsvorlagen.md)
-
-[Создать шаблоны сегментов](eplan/planninggui_h_segmentvorlageeerstellen.md)
-
-[Присвоить шаблоны сегментов](eplan/planninggui_h_segmentvorlagezuordnen.md)
-
-[Создать и обработать классы трубы и вещества](eplan/planninggui_h_rohrklasseerstellen.md)
+* [Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)
+* [Шаблоны для классов трубы и веществ](eplan/planninggui_k_rohrleitungsvorlagen.md)
+* [Создать шаблоны сегментов](eplan/planninggui_h_segmentvorlageeerstellen.md)
+* [Присвоить шаблоны сегментов](eplan/planninggui_h_segmentvorlagezuordnen.md)
+* [Создать и обработать классы трубы и вещества](eplan/planninggui_h_rohrklasseerstellen.md)

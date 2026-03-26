@@ -64,12 +64,9 @@
   
 Определенные в шаблоне сегмента значения свойств удаляются из сегмента. Значения, измененные вручную, сохраняются.
 
-См. также
+**См. также:**
 
-[Создать шаблоны сегментов](eplan/planninggui_h_segmentvorlageeerstellen.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
-
-[Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-
-[Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)
+* [Создать шаблоны сегментов](eplan/planninggui_h_segmentvorlageeerstellen.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
+* [Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)

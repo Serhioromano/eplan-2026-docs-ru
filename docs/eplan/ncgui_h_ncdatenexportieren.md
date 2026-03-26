@@ -15,12 +15,9 @@
   
 В настроенном каталоге вывода будут сгенерированы несколько файлов с именами экспортируемых функциональных элементов и координатами отверстий и вырезов ЧУ. Эти данные передаются программному обеспечению машины ЧУ и управляют изготовлением.
 
-См. также
+**См. также:**
 
-[Экспорт ЧУ: Принцип](eplan/ncgui_k_prinzip.md)
-
-[Диалоговое окно Настройки: Экспорт Rittal - Perforex BC / Secarex](eplan/ncgui_d_einstellungenncexportkiesling.md)
-
-[Конфигурирование машины ЧУ](eplan/ncgui_h_ncmaschinekonfigurieren.md)
-
-[Диалоговое окно Настройки: Исходная точка](eplan/cabinetgui_d_einstellungennullschnitt.md)
+* [Экспорт ЧУ: Принцип](eplan/ncgui_k_prinzip.md)
+* [Диалоговое окно Настройки: Экспорт Rittal - Perforex BC / Secarex](eplan/ncgui_d_einstellungenncexportkiesling.md)
+* [Конфигурирование машины ЧУ](eplan/ncgui_h_ncmaschinekonfigurieren.md)
+* [Диалоговое окно Настройки: Исходная точка](eplan/cabinetgui_d_einstellungennullschnitt.md)

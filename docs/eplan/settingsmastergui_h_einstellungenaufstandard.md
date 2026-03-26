@@ -14,6 +14,6 @@
   
 Выбранные настройки (то есть поле или область) сбрасываются на значения по умолчанию.
 
-См. также
+**См. также:**
 
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)

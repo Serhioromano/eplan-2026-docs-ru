@@ -28,8 +28,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
-
-[Нумерация соединений: Принцип](eplan/wirenumberinggui_k_prinzip.md)
+* [Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
+* [Нумерация соединений: Принцип](eplan/wirenumberinggui_k_prinzip.md)

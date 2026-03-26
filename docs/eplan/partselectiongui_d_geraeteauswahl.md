@@ -108,14 +108,10 @@
 
 Открывает диалоговое окно Настройки: Выбор устройства. Установите здесь, какие устройства учитываются при выборе устройства.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
-
-[Диалоговое окно Автоматический фильтр: Выбор устройства](eplan/partselectiongui_d_geraetefilter.md)
-
-[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-
-[Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
-
-[Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
+* [Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
+* [Диалоговое окно Автоматический фильтр: Выбор устройства](eplan/partselectiongui_d_geraetefilter.md)
+* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
+* [Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)

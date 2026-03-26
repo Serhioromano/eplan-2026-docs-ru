@@ -21,10 +21,8 @@
 Схема предварительного выбора изделий будет сохранена и отображена в диалоговом окне Настройки: выбор устройства в раскрывающемся списке Список выбора.
 8. Закройте диалоговое окно Настройки: Выбор устройства нажатием кнопки [OK].
 
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Диалоговое окно Предварительный выбор изделий](eplan/partselectiongui_d_artikelvorauswahl.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Диалоговое окно Предварительный выбор изделий](eplan/partselectiongui_d_artikelvorauswahl.md)

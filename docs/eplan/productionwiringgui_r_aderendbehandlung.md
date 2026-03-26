@@ -19,6 +19,6 @@
 
 В этом столбце обработке концов проводов, расположенной впереди, на машине присваивается обработка концов жил двойных проводов. Определение выбранных значений для данного элемента диалогового окна дается во вкладке [Машинная команда](eplan/productionwiringgui_r_maschinenbefehl.md).
 
-См. также
+**См. также:**
 
-[Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)
+* [Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)

@@ -14,8 +14,7 @@
 
 Если этот флажок установлен, то удаляются данные ревизии проекта и измененных страниц, созданные после сравнения свойств. Сюда относятся, например, сведения о соответствующем исходном проекте.
 
-См. также
+**См. также:**
 
-[Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
-
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)

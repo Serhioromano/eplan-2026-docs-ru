@@ -10,14 +10,10 @@
   
 Eplan вписывает маркеры ревизий в проект.
 
-См. также
+**См. также:**
 
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Сравнить проекты](eplan/revisionmgtgui_h_revvergleichen.md)
-
-[Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
-
-[Диалоговое окно Настройки: Ревизия (сравнение свойств проектов)](eplan/revisionmgtgui_d_einstellungen.md)
-
-[Диалоговое окно Сравнить свойства проектов](eplan/revisionmgtgui_d_revvergleichen.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Сравнить проекты](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Диалоговое окно Настройки: Ревизия (сравнение свойств проектов)](eplan/revisionmgtgui_d_einstellungen.md)
+* [Диалоговое окно Сравнить свойства проектов](eplan/revisionmgtgui_d_revvergleichen.md)

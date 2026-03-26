@@ -41,8 +41,7 @@
 12. Чтобы сгенерировать новый жгут при размещении шины, нажмите клавишу [N].
 13. С помощью щелчка разместите шину на нужном месте.
 
-См. также
+**См. также:**
 
-[Сборная шина (изогнутая): Принцип](eplan/copper_k_kupferanschlusselement.md)
-
-[Диалоговое окно Сборная шина (изогнутая)](eplan/cabinetgui_d_sammelschienegebogen.md)
+* [Сборная шина (изогнутая): Принцип](eplan/copper_k_kupferanschlusselement.md)
+* [Диалоговое окно Сборная шина (изогнутая)](eplan/cabinetgui_d_sammelschienegebogen.md)

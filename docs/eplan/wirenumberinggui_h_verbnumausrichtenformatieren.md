@@ -16,8 +16,7 @@
   
 Точки определения соединений заново выравниваются и форматируются.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Диалоговое окно Выровнять и отформатировать обозначения соединений](eplan/wirenumberinggui_d_verbnumausrichtenformatieren.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Диалоговое окно Выровнять и отформатировать обозначения соединений](eplan/wirenumberinggui_d_verbnumausrichtenformatieren.md)

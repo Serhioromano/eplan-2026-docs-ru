@@ -13,12 +13,9 @@
   
 Отчет генерируется на базе шаблона отчетов и выводится во вкладке Отчеты или в навигаторе страниц. Даже если выделен только один шаблон отчета, анализируются все шаблоны отчетов данного типа отчета, иначе они будут взаимно перезаписаны.
 
-См. также
+**См. также:**
 
-[Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)

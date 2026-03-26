@@ -124,12 +124,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Образ контакта у усл. обозначения / образ контакта в зоне](eplan/xessettingsgui_d_einstellungenprojektmotorschutzschalter.md)
-
-[Произвести настройки для отображения перекрестных ссылок](eplan/xessettingsgui_h_einstellungenqvwanzeige.md)
-
-[Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
-
-[Оптимизировать отображение перекрестных ссылок](eplan/xessettingsgui_h_qvwanzeigeoptimieren.md)
+* [Диалоговое окно Настройки: Образ контакта у усл. обозначения / образ контакта в зоне](eplan/xessettingsgui_d_einstellungenprojektmotorschutzschalter.md)
+* [Произвести настройки для отображения перекрестных ссылок](eplan/xessettingsgui_h_einstellungenqvwanzeige.md)
+* [Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
+* [Оптимизировать отображение перекрестных ссылок](eplan/xessettingsgui_h_qvwanzeigeoptimieren.md)

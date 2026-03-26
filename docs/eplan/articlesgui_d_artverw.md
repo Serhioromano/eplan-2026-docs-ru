@@ -107,24 +107,15 @@
 Проверить на наличие изменений в eStock |  Доступно, только если коллекция eStock настроена в качестве источника данных. Проверяет данные в eStock на наличие изменений. Чтобы обновить данные в управлении изделиями, подтвердите запрос ниже, нажав кнопку [Да].  
 Удалить локальные данные eStock |  Доступно, только если коллекция eStock настроена в качестве источника данных. Удаляются загруженные данные изделий из eStock и прерывается соединение с коллекцией eStock. Это может потребоваться, например, если коллекция eStock больше не существует в сети и нужно убрать локальные данные. Или, например, если вы создали отдельные каталоги для основных данных коллекции eStock и хотели бы их изменить. Эта невозможно сделать, пока вы подключены к коллекции eStock. При удалении локальных данных eStock файлы, связанные с элементами eStock (макросы, изображения и т. д.), не удаляются. Прерывание соединения с коллекцией eStock приведет к сбросу настроек для каталогов и источника базы данных. При этом в настройках для источника базы данных устанавливается подходящая схема (например, схема для другой коллекции eStock). Если подходящая схема не найдена, то эти настройки сбрасываются на стандартные настройки, указанные при установке ($(MD_PARTS)\EPLAN_parts.alk).  
   
-См. также
+**См. также:**
 
-[Экспортировать данные изделий](eplan/articlesgui_h_artikelexportieren.md)
-
-[Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
-
-[Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
-
-[Импортировать свойства с внешней обработкой](eplan/pxfinterface_h_datenimportieren.md)
-
-[Вкладка Информация](eplan/articlesgui_r_info.md)
-
-[Вкладка Обзор](eplan/articlesgui_r_uebersicht.md)
-
-[Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
-
-[Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)
-
-[Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)
-
-[Диалоговое окно Загрузить данные изделия](eplan/partsimportexportedzgui_d_exporttoestock.md)
+* [Экспортировать данные изделий](eplan/articlesgui_h_artikelexportieren.md)
+* [Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
+* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
+* [Импортировать свойства с внешней обработкой](eplan/pxfinterface_h_datenimportieren.md)
+* [Вкладка Информация](eplan/articlesgui_r_info.md)
+* [Вкладка Обзор](eplan/articlesgui_r_uebersicht.md)
+* [Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
+* [Вкладка Определенные пользователем свойства](eplan/articlesgui_r_benutzdefeigenschaften.md)
+* [Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)
+* [Диалоговое окно Загрузить данные изделия](eplan/partsimportexportedzgui_d_exporttoestock.md)

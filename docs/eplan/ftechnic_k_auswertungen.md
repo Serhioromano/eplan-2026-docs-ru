@@ -4,10 +4,8 @@
 
 Отчеты составляются на основании схем. В этих схемах можно устанавливать критерии фильтрации, сортировки и разбивки на странице для анализируемых объектов. После установки Eplan Fluid доступны уже предустановленные схемы для вывода различных отчетов. Наряду с предустановленными схемами можно задавать собственные схемы, таким образом настраивая отчеты в соответствии со своими индивидуальными требованиями.
 
-См. также
+**См. также:**
 
-[Eplan Fluid: Разделы](eplan/ftechnic_k_gewerke_an_schaltzeichen.md)
-
-[Логическая схема выводов устройства функций Fluid-техники](eplan/ftechnic_k_anschlusslogik_fluidfunktionen.md)
-
-[Оценка и вывод списков труб / шлангов](eplan/ftechnic_h_verrohrungsliste_auswerten_ausgeben.md)
+* [Eplan Fluid: Разделы](eplan/ftechnic_k_gewerke_an_schaltzeichen.md)
+* [Логическая схема выводов устройства функций Fluid-техники](eplan/ftechnic_k_anschlusslogik_fluidfunktionen.md)
+* [Оценка и вывод списков труб / шлангов](eplan/ftechnic_h_verrohrungsliste_auswerten_ausgeben.md)

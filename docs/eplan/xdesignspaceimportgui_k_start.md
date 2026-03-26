@@ -18,10 +18,8 @@
 * В области электротехники: Полностью укомплектованный электрошкаф, включая исполнительную документацию для изготовления.
 * В области механики: Полная параметрическая трехмерная модель, дополненная информацией из Eplan в качестве основы для интеграции и документации изготовления корпуса.
 
-См. также
+**См. также:**
 
-[Импорт и экспорт пространства конструкции: Принцип](eplan/xdesignspaceimportgui_k_prinzip.md)
-
-[Импортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumimportieren.md)
-
-[Экспортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumexportieren.md)
+* [Импорт и экспорт пространства конструкции: Принцип](eplan/xdesignspaceimportgui_k_prinzip.md)
+* [Импортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumimportieren.md)
+* [Экспортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumexportieren.md)

@@ -47,6 +47,6 @@
 
 При нумерации соединений графические и внешние соединения не обозначаются.
 
-См. также
+**См. также:**
 
-[Характеристики графических и внешних функций](eplan/devicetaggui_k_verhaltengrafischerschaltzeichen.md)
+* [Характеристики графических и внешних функций](eplan/devicetaggui_k_verhaltengrafischerschaltzeichen.md)

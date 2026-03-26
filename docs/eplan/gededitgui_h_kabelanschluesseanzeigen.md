@@ -21,6 +21,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
+* [Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)

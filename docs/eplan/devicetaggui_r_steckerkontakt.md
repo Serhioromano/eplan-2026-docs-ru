@@ -92,10 +92,8 @@
 
 [Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Генерировать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
-
-[Создать собственные обозначения и описания вывода устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Генерировать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Создать собственные обозначения и описания вывода устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)

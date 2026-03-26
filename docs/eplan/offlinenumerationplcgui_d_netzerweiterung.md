@@ -22,8 +22,7 @@
 ---|---  
 Выделить все (только список) |  Выделяет все записи в списке.  
   
-См. также
+**См. также:**
 
-[Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
-
-[Определить сетевое расширение для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_h_netzerweiterung.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
+* [Определить сетевое расширение для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_h_netzerweiterung.md)

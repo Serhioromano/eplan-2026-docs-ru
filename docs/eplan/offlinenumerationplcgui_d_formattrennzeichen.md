@@ -17,8 +17,7 @@
 
 Если в качестве разделителя выбран пробел, здесь можно указать число символов. В случае выбора опции Другие символы это поле становится недоступным и в нем выводится число введенных символов.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
-
-[Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
+* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)

@@ -41,10 +41,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Экспортировать списки присвоений](eplan/plcgui_h_exportzuli.md)
-
-[Импортировать или синхронизировать списки присвоений](eplan/plcgui_h_importzuli.md)
-
-[Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)
+* [Экспортировать списки присвоений](eplan/plcgui_h_exportzuli.md)
+* [Импортировать или синхронизировать списки присвоений](eplan/plcgui_h_importzuli.md)
+* [Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)

@@ -32,12 +32,9 @@
 
 Обозначения выводов устройства для функции являются опциональной частью символического адреса. Определенный здесь предшествующий знак может быть указан как перед обозначением вывода устройства, так и перед обозначением клеммы. Обозначение клеммы всегда является частью символического адреса, так как вывод устройства ПЛК связано с клеммой.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
-
-[Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
-
-[Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
-
-[Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
+* [Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
+* [Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
+* [Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
+* [Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)

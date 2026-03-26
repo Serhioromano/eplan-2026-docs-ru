@@ -34,6 +34,6 @@
   
 Схемы сверления генерируются в базе данных изделий из импортированных объектов DXF / DWG, которые присвоены границам схем сверления, в виде сверху.
 
-См. также
+**См. также:**
 
-[Вставить границу схемы сверления](eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md)
+* [Вставить границу схемы сверления](eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md)

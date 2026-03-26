@@ -94,10 +94,8 @@
 
 Если флажок не установлен, в области данных таблицы кабелей отображаются только кабельные соединения кабелей, перечисленных в верхнем колонтитуле.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Тексты заполнителей — <Тип формы>](eplan/formeditorgui_d_platzhaltertexteauswahl.md)
-
-[Направление создания отчета форм](eplan/formeditorgui_k_auswertungsrichtung.md)
-
-[Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Диалоговое окно Тексты заполнителей — <Тип формы>](eplan/formeditorgui_d_platzhaltertexteauswahl.md)
+* [Направление создания отчета форм](eplan/formeditorgui_k_auswertungsrichtung.md)
+* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)

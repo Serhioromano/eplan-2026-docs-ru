@@ -36,10 +36,8 @@
 (Переместить вверх) |  Перемещает выделенный язык на одну строку вверх. С помощью данного действия вы определяете языки вывода.  
 (Переместить вниз) |  Перемещает выделенный язык на одну строку вниз. С помощью данного действия вы определяете языки вывода.  
   
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-
-[Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
+* [Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)

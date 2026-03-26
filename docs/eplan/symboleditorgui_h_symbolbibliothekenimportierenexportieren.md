@@ -32,8 +32,7 @@
   
 Файл экспорта создается под указанным именем на указанном дисководе и в указанном каталоге.
 
-См. также
+**См. также:**
 
-[Создать библиотеки символов](eplan/symboleditorgui_h_symbolbibliothekenanlegen.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Создать библиотеки символов](eplan/symboleditorgui_h_symbolbibliothekenanlegen.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)

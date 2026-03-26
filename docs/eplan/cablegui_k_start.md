@@ -14,32 +14,19 @@
 * Кабели могут быть экранированными, при этом возможно управление и многослойным экранированием.
 * Путем расчета количества кабелей генерируются покупные изделия, отражающие фактическую потребность в кабелях. При этом длина кабеля добавляется на каждый тип кабеля.
 
-См. также
+**См. также:**
 
-[Характеристика кабелей](eplan/cablegui_k_prinzip.md)
-
-[Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
-
-[Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
-
-[Позиция и форматирование свойств кабелей](eplan/cablegui_k_kabelbezeichnungformat.md)
-
-[Определение источника и цели](eplan/cablegui_k_quellezielermittlung.md)
-
-[Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
-
-[Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
-
-[Определить кабели и кабельные соединения вручную](eplan/cablegui_h_aderndefinieren.md)
-
-[Присвоить кабельные соединения вручную](eplan/cablegui_h_adernzuordnen.md)
-
-[Присвоить кабельные соединения автоматически](eplan/cablegui_h_kabelauflegen.md)
-
-[Выбрать кабель](eplan/cablegui_h_kabelauswahlautomatisch.md)
-
-[Использование имеющихся кабелей, кабельных соединений и экранирований](eplan/cablegui_h_abbuchen.md)
-
-[Суммировать длину кабелей](eplan/cablegui_h_kabelmengenberechnen.md)
-
-[Вывести изделия кабелей в отчете](eplan/cablegui_h_kabelauswertung.md)
+* [Характеристика кабелей](eplan/cablegui_k_prinzip.md)
+* [Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
+* [Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
+* [Позиция и форматирование свойств кабелей](eplan/cablegui_k_kabelbezeichnungformat.md)
+* [Определение источника и цели](eplan/cablegui_k_quellezielermittlung.md)
+* [Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
+* [Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
+* [Определить кабели и кабельные соединения вручную](eplan/cablegui_h_aderndefinieren.md)
+* [Присвоить кабельные соединения вручную](eplan/cablegui_h_adernzuordnen.md)
+* [Присвоить кабельные соединения автоматически](eplan/cablegui_h_kabelauflegen.md)
+* [Выбрать кабель](eplan/cablegui_h_kabelauswahlautomatisch.md)
+* [Использование имеющихся кабелей, кабельных соединений и экранирований](eplan/cablegui_h_abbuchen.md)
+* [Суммировать длину кабелей](eplan/cablegui_h_kabelmengenberechnen.md)
+* [Вывести изделия кабелей в отчете](eplan/cablegui_h_kabelauswertung.md)

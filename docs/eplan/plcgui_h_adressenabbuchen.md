@@ -74,8 +74,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Использ. имеющихся адресов ПЛК поблочно](eplan/plcgui_d_adressenblockweiseabbuchen.md)
-
-[Диалоговое окно Выбрать для использования имеющегося](eplan/plcgui_d_adressenabbuchen.md)
+* [Диалоговое окно Использ. имеющихся адресов ПЛК поблочно](eplan/plcgui_d_adressenblockweiseabbuchen.md)
+* [Диалоговое окно Выбрать для использования имеющегося](eplan/plcgui_d_adressenabbuchen.md)

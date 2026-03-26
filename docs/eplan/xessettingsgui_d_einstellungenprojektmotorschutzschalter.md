@@ -80,10 +80,8 @@
 
 Выберите из этого раскрывающегося списка внедренную форму для создания образов контактов на основе формы.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
-
-[Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
-
-[Образ контакта на основе формы](eplan/xessettingsgui_k_qvwjapanische.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+* [Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
+* [Образ контакта на основе формы](eplan/xessettingsgui_k_qvwjapanische.md)

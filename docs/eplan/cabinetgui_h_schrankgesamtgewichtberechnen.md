@@ -28,12 +28,9 @@
   
 Общий вес каждого электрошкафа в проекте рассчитывается с использованием введенных значений и выводится в свойстве Общий вес (ID 36108) размещения изделия электрошкафа.
 
-См. также
+**См. также:**
 
-[Расчет общего веса электрошкафов](eplan/cabinetgui_k_schrankgesamtgewicht.md)
-
-[Разместить электрошкафы](eplan/cabinetgui_h_schaltschrankplatzieren.md)
-
-[Разместить функциональные элементы с переменной длиной](eplan/cabinetgui_h_varbtplatzieren.md)
-
-[Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
+* [Расчет общего веса электрошкафов](eplan/cabinetgui_k_schrankgesamtgewicht.md)
+* [Разместить электрошкафы](eplan/cabinetgui_h_schaltschrankplatzieren.md)
+* [Разместить функциональные элементы с переменной длиной](eplan/cabinetgui_h_varbtplatzieren.md)
+* [Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)

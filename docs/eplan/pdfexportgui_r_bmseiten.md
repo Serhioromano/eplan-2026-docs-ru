@@ -27,8 +27,7 @@
 
 Если этот флажок не установлен, то для устройства в области Ссылки не перечисленно ни одной ссылки для представления вида функции или/и ни одной ссылки для отчетов страниц.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)

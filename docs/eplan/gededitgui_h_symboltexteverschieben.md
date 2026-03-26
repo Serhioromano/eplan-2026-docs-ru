@@ -32,14 +32,10 @@ C помощью команды Переместить на вкладке Гл�
 У всех выделенных условных обозначений будут удалены скопированные тексты свойств и выведены тексты свойств символа, которые отображаются по умолчанию.   
 
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Тексты](eplan/gededitgui_k_texte.md)
-
-[Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-
-[Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
-
-[Вставить текст](eplan/gededitgui_h_texte.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Тексты](eplan/gededitgui_k_texte.md)
+* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
+* [Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
+* [Вставить текст](eplan/gededitgui_h_texte.md)

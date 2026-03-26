@@ -57,8 +57,7 @@
   
 Фрагмент будет удален. Объекты остаются в проекте, если была включена соответствующая опция; если же эта опция была выключена, эти объекты также удаляются из проекта.
 
-См. также
+**См. также:**
 
-[Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
-
-[Опции](eplan/projectoptionsgui_k_start.md)
+* [Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
+* [Опции](eplan/projectoptionsgui_k_start.md)

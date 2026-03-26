@@ -19,12 +19,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
-
-[Вставить тексты](eplan/gededitgui_h_texte.md)
-
-[Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-
-[Тексты](eplan/gededitgui_k_texte.md)
+* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Вставить тексты](eplan/gededitgui_h_texte.md)
+* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
+* [Тексты](eplan/gededitgui_k_texte.md)

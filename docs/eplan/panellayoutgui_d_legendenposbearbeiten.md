@@ -22,10 +22,8 @@
 
 Щелкните по этой кнопке, чтобы открыть диалоговое окно Нумеровать, в котором можно ввести настройки нумерации для позиций легенды.
 
-См. также
+**См. также:**
 
-[Обработать позиции легенды](eplan/panellayoutgui_h_legendenaktualisieren.md)
-
-[Диалоговое окно Конфигурировать представление (список)](eplan/modaldialogsdb_d_spaltenkonfiguration.md)
-
-[Диалоговое окно Нумеровать](eplan/panellayoutgui_d_nummerieren.md)
+* [Обработать позиции легенды](eplan/panellayoutgui_h_legendenaktualisieren.md)
+* [Диалоговое окно Конфигурировать представление (список)](eplan/modaldialogsdb_d_spaltenkonfiguration.md)
+* [Диалоговое окно Нумеровать](eplan/panellayoutgui_d_nummerieren.md)

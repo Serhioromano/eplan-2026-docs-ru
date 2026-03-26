@@ -37,8 +37,7 @@
   
 При маршрутизации соединения маршрутизируются только через обработанный сегмент маршрутизации, соответствующий установленным значениям.
 
-См. также
+**См. также:**
 
-[Вкладка Фильтр соединений](eplan/connectionsettingsgui_r_einstellungenverbindungsfilter.md)
-
-[Вкладка Размещение изделия (3D)](devicetaggui_r_artikelplatzierung3d.htm)
+* [Вкладка Фильтр соединений](eplan/connectionsettingsgui_r_einstellungenverbindungsfilter.md)
+* [Вкладка Размещение изделия (3D)](devicetaggui_r_artikelplatzierung3d.htm)

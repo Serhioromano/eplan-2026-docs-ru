@@ -47,14 +47,10 @@ Eplan генерирует ревизию под указанным именем
   
 При изменениях на странице она обозначается как "План".
 
-См. также
+**См. также:**
 
-[Закрыть проекты / области обработки](eplan/revisionmgtgui_h_projektabschliessen.md)
-
-[Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
-
-[Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
-
-[Диалоговое окно Генерировать ревизию](eplan/revisionlogmgtgui_d_revisionerzeugen.md)
-
-[Диалоговое окно Настройки: Ревизия (отслеживание изменений)](eplan/revisionlogmgtgui_d_einstellungenaenderung.md)
+* [Закрыть проекты / области обработки](eplan/revisionmgtgui_h_projektabschliessen.md)
+* [Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
+* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Диалоговое окно Генерировать ревизию](eplan/revisionlogmgtgui_d_revisionerzeugen.md)
+* [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](eplan/revisionlogmgtgui_d_einstellungenaenderung.md)

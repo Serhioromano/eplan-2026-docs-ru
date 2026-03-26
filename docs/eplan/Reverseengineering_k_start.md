@@ -28,12 +28,9 @@
 
 Кроме того, для общей обработки данных проекта в отчетах можно использовать режим обработки Прямая обработка. Если на вкладке Обработать в группе команд Параметры нажата кнопка  Прямая обработка, данные некоторых [свойств функций](eplan/inplaceeditinggui_k_eigenschaften.md) можно изменять непосредственно на страницах отчетов. Для этого после позиционирования курсора на соответствующем тексте заполнителе под точкой ставки выводится рамка обработки для прямого ввода. После обработки измененные данные записываются в объект и выполняется обновление текста-заполнителя.
 
-См. также
+**См. также:**
 
-[Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
-
-[Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-
-[Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
-
-[Прямая обработка](eplan/inplaceeditinggui_k_start.md)
+* [Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
+* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
+* [Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
+* [Прямая обработка](eplan/inplaceeditinggui_k_start.md)

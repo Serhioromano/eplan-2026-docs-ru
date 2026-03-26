@@ -25,10 +25,8 @@
   
 Эта настройка действует таким образом, что при вставке или копировании выводов устройства ПЛК в диалоговом окне Настройки <...> поле Адреса ПЛК остается пустым. Адреса вывода устройства ПЛК нужно будет присвоить вручную.
 
-См. также
+**См. также:**
 
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
-
-[Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
-
-[Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
+* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)

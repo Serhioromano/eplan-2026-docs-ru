@@ -46,6 +46,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Символы соединения](eplan/egedgui_k_start.md)
+* [Символы соединения](eplan/egedgui_k_start.md)

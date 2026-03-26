@@ -64,8 +64,7 @@
 Табличная обработка |  Открывает табличную обработку с возможностью обрабатывать свойства выделенных объектов.  
 Свойства |  Открывает диалоговое окно Свойства <...> для выделенного элемента.  
   
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Потенциалы](eplan/potentialbrowsergui_k_start.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Потенциалы](eplan/potentialbrowsergui_k_start.md)

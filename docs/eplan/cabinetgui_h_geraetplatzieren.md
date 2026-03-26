@@ -42,8 +42,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
-
-[Диалоговое окно Размеры](eplan/cabinetgui_d_abmessungen.md)
+* [Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
+* [Диалоговое окно Размеры](eplan/cabinetgui_d_abmessungen.md)

@@ -44,8 +44,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Подогнать функциональные элементы с переменной длиной](eplan/cabinetgui_h_einpassen.md)
-
-[Разместить функциональные элементы с переменной длиной](eplan/cabinetgui_h_varbtplatzieren.md)
+* [Подогнать функциональные элементы с переменной длиной](eplan/cabinetgui_h_einpassen.md)
+* [Разместить функциональные элементы с переменной длиной](eplan/cabinetgui_h_varbtplatzieren.md)

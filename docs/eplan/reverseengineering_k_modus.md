@@ -33,14 +33,10 @@
 
 На этих вкладках можно обрабатывать только выбранное представление функции главной или вспомогательной функции. Все другие соответствующие представления функции не изменяются.
 
-См. также
+**См. также:**
 
-[Активировать режим Свойства (общие)](eplan/reverseengineering_h_bmmodusaktivieren.md)
-
-[Обработать свойства во всех представлениях главной функции](eplan/reverseengineering_h_alledarstellungenbm.md)
-
-[Обработать свойства во всех представлениях вспомогательной функции](eplan/reverseengineering_h_alledarstellungenfunktion.md)
-
-[Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-
-[Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
+* [Активировать режим Свойства (общие)](eplan/reverseengineering_h_bmmodusaktivieren.md)
+* [Обработать свойства во всех представлениях главной функции](eplan/reverseengineering_h_alledarstellungenbm.md)
+* [Обработать свойства во всех представлениях вспомогательной функции](eplan/reverseengineering_h_alledarstellungenfunktion.md)
+* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
+* [Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)

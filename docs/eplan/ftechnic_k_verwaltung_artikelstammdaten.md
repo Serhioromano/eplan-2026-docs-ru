@@ -8,20 +8,13 @@
 
 При этом управление соответствующими массивами данных осуществляется во внутреннем формате базы данных Eplan или в базе данных сервера SQL, а текущая выбранная база отображается в строке заголовка диалогового окна База данных изделий.
 
-См. также
+**См. также:**
 
-[Создать изделие](eplan/articlesgui_h_artikelerstellen.md)
-
-[Копировать изделие и вставить данные](eplan/articlesgui_h_artikelkopieren.md)
-
-[Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
-
-[Создать модули](eplan/articlesgui_h_moduleanlegen.md)
-
-[Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
-
-[Экспортировать данные изделий](eplan/articlesgui_h_artikelexportieren.md)
-
-[Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
-
-[Управление многоязычными данными изделий](eplan/articlesgui_h_mehrsprachigeartikelverwalten.md)
+* [Создать изделие](eplan/articlesgui_h_artikelerstellen.md)
+* [Копировать изделие и вставить данные](eplan/articlesgui_h_artikelkopieren.md)
+* [Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
+* [Создать модули](eplan/articlesgui_h_moduleanlegen.md)
+* [Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
+* [Экспортировать данные изделий](eplan/articlesgui_h_artikelexportieren.md)
+* [Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
+* [Управление многоязычными данными изделий](eplan/articlesgui_h_mehrsprachigeartikelverwalten.md)

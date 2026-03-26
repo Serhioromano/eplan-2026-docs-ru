@@ -44,8 +44,7 @@
   
 Если форма используется для отчета, то в заполнители для свойств блока будут подставляться значения свойств, определенные в соответствующих форматах или в соответствующих свойствах формата.
 
-См. также
+**См. также:**
 
-[Определить свойства блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
-
-[Редактор форм и рамок](eplan/formeditorgui_k_start.md)
+* [Определить свойства блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
+* [Редактор форм и рамок](eplan/formeditorgui_k_start.md)

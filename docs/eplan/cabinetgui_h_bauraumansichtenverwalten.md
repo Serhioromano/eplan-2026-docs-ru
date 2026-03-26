@@ -61,12 +61,9 @@
 На плитке отображается предварительное изображение сохраненного нового вида.  
 
 
-См. также
+**См. также:**
 
-[Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
-
-[Виды пространства листа](eplan/cabinetgui_k_bauraumansichten.md)
-
-[Диалоговое окно "Виды пространства листа"](eplan/insertergui_d_bauraumansichten.md)
-
-[Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)
+* [Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
+* [Виды пространства листа](eplan/cabinetgui_k_bauraumansichten.md)
+* [Диалоговое окно "Виды пространства листа"](eplan/insertergui_d_bauraumansichten.md)
+* [Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)

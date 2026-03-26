@@ -19,18 +19,12 @@
   
 Настройки будут скопированы.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
-
-[Диалоговое окно Настройки: Отображение](eplan/xessettingsgui_d_einstellungenprojektqvwanzeige.md)
-
-[Диалоговое окно Настройки: Точки разрыва](eplan/xessettingsgui_d_einstellungenprojektabbruchstellen.md)
-
-[Генерировать перекрестные ссылки точек разрыва](eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
-
-[Генерировать перекрестные ссылки монтажных плат](eplan/xessettingsgui_h_montageplattenqvwerzeugen.md)
-
-[Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
-
-[Генерировать перекрестные ссылки на списках обозначений устройств](eplan/xessettingsgui_h_qvwaufbetriebsmittellisten.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+* [Диалоговое окно Настройки: Отображение](eplan/xessettingsgui_d_einstellungenprojektqvwanzeige.md)
+* [Диалоговое окно Настройки: Точки разрыва](eplan/xessettingsgui_d_einstellungenprojektabbruchstellen.md)
+* [Генерировать перекрестные ссылки точек разрыва](eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
+* [Генерировать перекрестные ссылки монтажных плат](eplan/xessettingsgui_h_montageplattenqvwerzeugen.md)
+* [Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
+* [Генерировать перекрестные ссылки на списках обозначений устройств](eplan/xessettingsgui_h_qvwaufbetriebsmittellisten.md)

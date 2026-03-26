@@ -14,8 +14,7 @@
 6. Щелкните по кнопке  (Сохранить).
 7. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Диалоговое окно "Настройки: Очистить"](eplan/ProjectCorrectionGui_d_korrektureinstellungen.md)
-
-[Корректируемые данные проекта](eplan/ProjectCorrectionGui_k_korrekturdaten.md)
+* [Диалоговое окно "Настройки: Очистить"](eplan/ProjectCorrectionGui_d_korrektureinstellungen.md)
+* [Корректируемые данные проекта](eplan/ProjectCorrectionGui_k_korrekturdaten.md)

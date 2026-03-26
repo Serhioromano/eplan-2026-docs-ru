@@ -28,10 +28,8 @@
   
 Выполненные настройки будут сохранены в выбранной схеме.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Внешняя обработка](eplan/macrosgui_d_pxfseitenexport.md)
-
-[Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)
-
-[Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
+* [Диалоговое окно Внешняя обработка](eplan/macrosgui_d_pxfseitenexport.md)
+* [Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)
+* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)

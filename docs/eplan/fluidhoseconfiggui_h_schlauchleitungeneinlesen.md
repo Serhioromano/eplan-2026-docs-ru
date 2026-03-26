@@ -29,8 +29,7 @@
   
 Импортированные данные шлангопроводов отображаются в диалоговом окне Конфигурировать шлангопроводы, и теперь их можно обрабатывать.
 
-См. также
+**См. также:**
 
-[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
-
-[Варианты применения и рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
+* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Варианты применения и рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)

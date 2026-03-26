@@ -7,16 +7,11 @@
 * Можно указать настройки, относящиеся к станции, такие как путь файла, для управления системными сообщениями.
 * Можно выполнить настройки с учетом потребностей предприятия, чтобы указать заданные значения и условия компании для всех используемых рабочих станций.
 
-См. также
+**См. также:**
 
-[Настройки: Принцип работы](eplan/settingsmastergui_k_arbeitsweise.md)
-
-[Права и доступ](eplan/settingsmastergui_k_rechteundzugriff.md)
-
-[Настройки при обновлении программы ](eplan/settingsmastergui_k_einstellungenbeimupdate.md)
-
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-
-[Заменить настройки](eplan/settingsmastergui_h_einstellungenaustauschen.md)
-
-[Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)
+* [Настройки: Принцип работы](eplan/settingsmastergui_k_arbeitsweise.md)
+* [Права и доступ](eplan/settingsmastergui_k_rechteundzugriff.md)
+* [Настройки при обновлении программы ](eplan/settingsmastergui_k_einstellungenbeimupdate.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Заменить настройки](eplan/settingsmastergui_h_einstellungenaustauschen.md)
+* [Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)

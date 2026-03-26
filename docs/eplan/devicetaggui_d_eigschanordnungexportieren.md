@@ -27,6 +27,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Использовать определенные пользователем порядки свойств](eplan/devicetaggui_h_eigschanordnungen.md)
+* [Использовать определенные пользователем порядки свойств](eplan/devicetaggui_h_eigschanordnungen.md)

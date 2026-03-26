@@ -79,10 +79,8 @@
   
 
 
-См. также
+**См. также:**
 
-[Вкладка Схема соединений (Размещение изделия 3D)](eplan/devicetaggui_r_anschlussbild.md)
-
-[Показать выводы устройства графически](eplan/routinggui_h_anschlussansicht.md)
-
-[Перенос локальной схемы соединений в базу данных изделий](eplan/cabinetgui_h_anschlussbildnachartvw.md)
+* [Вкладка Схема соединений (Размещение изделия 3D)](eplan/devicetaggui_r_anschlussbild.md)
+* [Показать выводы устройства графически](eplan/routinggui_h_anschlussansicht.md)
+* [Перенос локальной схемы соединений в базу данных изделий](eplan/cabinetgui_h_anschlussbildnachartvw.md)

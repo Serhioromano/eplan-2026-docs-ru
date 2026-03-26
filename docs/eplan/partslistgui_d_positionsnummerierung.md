@@ -37,8 +37,7 @@
 
 Обратите внимание на то, что устройства без присвоенного номера изделия обрабатываются как разные устройства, то есть всегда получают новый номер позиции.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумеровать позиции: Предварительный просмотр результата](eplan/partslistgui_d_nummerierungsvorschau.md)
-
-[Нумеровать позиции заново](eplan/partslistgui_h_positionenneunummerieren.md)
+* [Диалоговое окно Нумеровать позиции: Предварительный просмотр результата](eplan/partslistgui_d_nummerierungsvorschau.md)
+* [Нумеровать позиции заново](eplan/partslistgui_h_positionenneunummerieren.md)

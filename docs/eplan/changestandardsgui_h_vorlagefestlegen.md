@@ -16,12 +16,9 @@
   
 [Заменить рамки, формы и библиотеки определения функций](eplan/changestandardsgui_h_stammdatenaustauschen.md)
 
-См. также
+**См. также:**
 
-[Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
-
-[Создать схему присвоения для символов (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
-
-[Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
-
-[Определить нумерацию устройств (Изменение стандарта)](eplan/changestandardsgui_h_nummerieren.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
+* [Создать схему присвоения для символов (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Определить нумерацию устройств (Изменение стандарта)](eplan/changestandardsgui_h_nummerieren.md)

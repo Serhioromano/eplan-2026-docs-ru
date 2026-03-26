@@ -96,12 +96,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-
-[Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
-
-[Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
+* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)

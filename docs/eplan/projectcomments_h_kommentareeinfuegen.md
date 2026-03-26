@@ -40,16 +40,11 @@
 7. Щелкните по кнопке [OK].
 8. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].
 
-См. также
+**См. также:**
 
-[Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
-
-[Создание и размещение неразмещенных комментариев](eplan/projectcomments_h_kommentareplatzieren.md)
-
-[Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-
-[Комментарии](eplan/projectcomments_k_start.md)
-
-[Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
-
-[Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
+* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
+* [Создание и размещение неразмещенных комментариев](eplan/projectcomments_h_kommentareplatzieren.md)
+* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
+* [Комментарии](eplan/projectcomments_k_start.md)
+* [Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)

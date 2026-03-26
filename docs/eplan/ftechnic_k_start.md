@@ -13,16 +13,11 @@ Eplan Fluid удовлетворяет ваши требования больш�
 * Отчеты, например спецификации, списки заказов, шлангов и труб, а также схемы групп соединений / проводов, в любое время могут генерироваться и включаться в проект в качестве графических страниц.
 * Автоматические контрольные прогоны придают уверенности в проектировании и помогают составлять не содержащие ошибок схемы подключений и отчеты.
 
-См. также
+**См. также:**
 
-[Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
-
-[Eplan Fluid: Сложные устройства](eplan/ftechnic_k_geraetekaesten_anschluesse.md)
-
-[Eplan Fluid: Отчеты](eplan/ftechnic_k_auswertungen.md)
-
-[Eplan Fluid: Символы соединения](eplan/ftechnic_k_verbindungssymbole.md)
-
-[Табличная обработка данных функций Fluid-Техники](eplan/ftechnic_k_tabellarische_bearbeitung.md)
-
-[Специфические для Fluid-техники контрольные прогоны](eplan/ftechnic_k_prueflaeufe.md)
+* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
+* [Eplan Fluid: Сложные устройства](eplan/ftechnic_k_geraetekaesten_anschluesse.md)
+* [Eplan Fluid: Отчеты](eplan/ftechnic_k_auswertungen.md)
+* [Eplan Fluid: Символы соединения](eplan/ftechnic_k_verbindungssymbole.md)
+* [Табличная обработка данных функций Fluid-Техники](eplan/ftechnic_k_tabellarische_bearbeitung.md)
+* [Специфические для Fluid-техники контрольные прогоны](eplan/ftechnic_k_prueflaeufe.md)

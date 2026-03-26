@@ -52,14 +52,10 @@
 Табличная обработка |  Открывает табличную обработку с возможностью обработки свойств функций, содержащихся в опции или во фрагменте.  
 Свойства |  В зависимости от выделения открывает соответствующее диалоговое окно для обработки опции, фрагмента и т. д.  
   
-См. также
+**См. также:**
 
-[Создать и обработать опциональные группы](eplan/projectoptionsgui_h_optionsgruppenerzeugen.md)
-
-[Создание и обработка опций](eplan/projectoptionsgui_h_optionenerzeugen.md)
-
-[Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
-
-[Обработка фрагментов](eplan/projectoptionsgui_h_ausschnittebearbeiten.md)
-
-[Опции](eplan/projectoptionsgui_k_start.md)
+* [Создать и обработать опциональные группы](eplan/projectoptionsgui_h_optionsgruppenerzeugen.md)
+* [Создание и обработка опций](eplan/projectoptionsgui_h_optionenerzeugen.md)
+* [Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
+* [Обработка фрагментов](eplan/projectoptionsgui_h_ausschnittebearbeiten.md)
+* [Опции](eplan/projectoptionsgui_k_start.md)

@@ -41,10 +41,8 @@
 Добавить текущий вид | Сохраняет на плитке текущий вид, сгенерированный в пространстве листа.  
 Удалить вид | Удаляет сохраненный на плитке вид.  
   
-См. также
+**См. также:**
 
-[Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
-
-[Виды пространства листа](eplan/cabinetgui_k_bauraumansichten.md)
-
-[Управление видами пространства листа](eplan/cabinetgui_h_bauraumansichtenverwalten.md)
+* [Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
+* [Виды пространства листа](eplan/cabinetgui_k_bauraumansichten.md)
+* [Управление видами пространства листа](eplan/cabinetgui_h_bauraumansichtenverwalten.md)

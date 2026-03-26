@@ -37,8 +37,7 @@
 Пиктограмма для соответствующих клемм изменится в столбце Статус.
 4. Подтвердите ввод.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Обработать клеммник](eplan/stripmanagementgui_d_klemmenleistebearbeiten.md)
-
-[Применение клемм рукоятки](eplan/terminalgui_k_hauptklemmen.md)
+* [Диалоговое окно Обработать клеммник](eplan/stripmanagementgui_d_klemmenleistebearbeiten.md)
+* [Применение клемм рукоятки](eplan/terminalgui_k_hauptklemmen.md)

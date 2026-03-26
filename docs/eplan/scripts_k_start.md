@@ -24,20 +24,13 @@
 
  
 
-См. также
+**См. также:**
 
-[Создание простого сценария](eplan/scripts_k_scriptaufbau.md)
-
-[Простые сценарии с параметрами](eplan/scripts_k_scriptemitparameter.md)
-
-[Простые сценарии с операциями Eplan](eplan/scripts_k_scriptemiteplanaktion.md)
-
-[Простые сценарии для настроек](eplan/scripts_k_scriptefuereinstellungen.md)
-
-[Атрибуты сценария](eplan/scripts_k_attribute.md)
-
-[Сценарии с новыми операциями](eplan/scripts_k_scriptemitneueraktion.md)
-
-[Выполнить или загрузить сценарии](eplan/scripts_h_scripteausfuehren.md)
-
-[Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
+* [Создание простого сценария](eplan/scripts_k_scriptaufbau.md)
+* [Простые сценарии с параметрами](eplan/scripts_k_scriptemitparameter.md)
+* [Простые сценарии с операциями Eplan](eplan/scripts_k_scriptemiteplanaktion.md)
+* [Простые сценарии для настроек](eplan/scripts_k_scriptefuereinstellungen.md)
+* [Атрибуты сценария](eplan/scripts_k_attribute.md)
+* [Сценарии с новыми операциями](eplan/scripts_k_scriptemitneueraktion.md)
+* [Выполнить или загрузить сценарии](eplan/scripts_h_scripteausfuehren.md)
+* [Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)

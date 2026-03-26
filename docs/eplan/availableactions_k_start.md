@@ -17,10 +17,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Операции Eplan: Обзор](eplan/availableactions_o_eplanaktionen.md)
-
-[Параметры командной строки Eplan](eplan/commandlinecall_k_start.md)
-
-[Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
+* [Операции Eplan: Обзор](eplan/availableactions_o_eplanaktionen.md)
+* [Параметры командной строки Eplan](eplan/commandlinecall_k_start.md)
+* [Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)

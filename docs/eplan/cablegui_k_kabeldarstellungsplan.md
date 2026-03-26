@@ -21,10 +21,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Сгенерировать схему кабельных соединений](eplan/cablegui_h_kabeldarstellungsplan.md)
-
-[Форма для схемы кабельных соединений](eplan/formeditorgui_k_kdpformular.md)
-
-[Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Сгенерировать схему кабельных соединений](eplan/cablegui_h_kabeldarstellungsplan.md)
+* [Форма для схемы кабельных соединений](eplan/formeditorgui_k_kdpformular.md)
+* [Отчеты](eplan/formgeneratorgui_k_start.md)

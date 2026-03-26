@@ -74,16 +74,11 @@
 
 [Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Обработать соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
-
-[Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-
-[Определить свойства соединений](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Обработать соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Определить свойства соединений](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)

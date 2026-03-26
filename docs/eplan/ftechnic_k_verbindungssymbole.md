@@ -34,10 +34,8 @@
 
 Для перехода между соединениями внутри блоков клапанов и лежащими вне их соединениями, а также внутри блоков в Eplan Fluid используется выводы устройства (двустороннее). В качестве альтернативы этому также используется соединитель. 
 
-См. также
+**См. также:**
 
-[Символы соединения: Основные положения](eplan/egedgui_k_grundlagen.md)
-
-[Символы соединения: Представление точек соединения](eplan/egedgui_k_darstellungverbindungspunkte.md)
-
-[Вставить символы соединений](eplan/egedgui_h_verbindungsstueckeeinfuegen.md)
+* [Символы соединения: Основные положения](eplan/egedgui_k_grundlagen.md)
+* [Символы соединения: Представление точек соединения](eplan/egedgui_k_darstellungverbindungspunkte.md)
+* [Вставить символы соединений](eplan/egedgui_h_verbindungsstueckeeinfuegen.md)

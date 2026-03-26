@@ -29,8 +29,7 @@
   
 При создании функции используется соответствующее буквенное обозначение/соответствующий подкласс.
 
-См. также
+**См. также:**
 
-[Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
-
-[Диалоговое окно Буквенные обозначения](eplan/numerationgui_d_kennbuchstaben.md)
+* [Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
+* [Диалоговое окно Буквенные обозначения](eplan/numerationgui_d_kennbuchstaben.md)

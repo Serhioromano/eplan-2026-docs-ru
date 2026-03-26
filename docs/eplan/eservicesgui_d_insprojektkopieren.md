@@ -45,12 +45,9 @@
 Выбрать все |  Включает флажки для всех документов в списке.  
 Отменить выбор |  выключает все флажки.  
   
-См. также
+**См. также:**
 
-[Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](eplan/bakbackupdlggui_d_projektesichern.md)
-
-[Вставить гиперссылки](eplan/gededitgui_h_hyperlinks.md)
-
-[Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)
-
-[Внешние документы](eplan/pagebrowsergui_k_fremddokumente.md)
+* [Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](eplan/bakbackupdlggui_d_projektesichern.md)
+* [Вставить гиперссылки](eplan/gededitgui_h_hyperlinks.md)
+* [Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)
+* [Внешние документы](eplan/pagebrowsergui_k_fremddokumente.md)

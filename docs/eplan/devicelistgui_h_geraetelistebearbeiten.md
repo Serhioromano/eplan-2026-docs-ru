@@ -39,10 +39,8 @@
   
 Выделенные изделия удаляются из списка устройств. Это не влияет на размещение соответствующего изделия. Это значит только то, что контроль за соответствующими изделиями больше не ведется.
 
-См. также
+**См. также:**
 
-[Список устройств](eplan/devicelistgui_k_geraeteliste.md)
-
-[Диалоговое окно Список устройств](eplan/devicelistgui_d_geraeteliste.md)
-
-[Диалоговое окно Свойства (список устройств)](eplan/devicelistgui_d_eigenschaften.md)
+* [Список устройств](eplan/devicelistgui_k_geraeteliste.md)
+* [Диалоговое окно Список устройств](eplan/devicelistgui_d_geraeteliste.md)
+* [Диалоговое окно Свойства (список устройств)](eplan/devicelistgui_d_eigenschaften.md)

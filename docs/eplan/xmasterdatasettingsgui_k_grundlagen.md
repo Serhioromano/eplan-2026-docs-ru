@@ -10,8 +10,7 @@
 
 Сами основные данные могут, в основном, обрабатываться только в пуле основных данных (как напр., в редакторе символов).
 
-См. также
+**См. также:**
 
-[Основные данные](eplan/xmasterdatasettingsgui_k_start.md)
-
-[Основные данные: Архив данных](eplan/xmasterdatasettingsgui_k_datenablage.md)
+* [Основные данные](eplan/xmasterdatasettingsgui_k_start.md)
+* [Основные данные: Архив данных](eplan/xmasterdatasettingsgui_k_datenablage.md)

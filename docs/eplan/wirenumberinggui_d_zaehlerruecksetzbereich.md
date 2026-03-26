@@ -46,10 +46,8 @@
 
 Если выбран данный параметр, заданные выше критерии используются при целевых функциях соединений. Т.е. область изменяется, если изменяется критерий у цели соединения.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)

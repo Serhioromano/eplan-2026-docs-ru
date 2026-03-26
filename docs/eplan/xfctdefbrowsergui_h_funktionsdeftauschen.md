@@ -20,12 +20,9 @@
 6. При необходимости дополнительно обработайте данные вывода устройства в диалоговом окне Логическая схема выводов устройства или замените символ.
 7. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-
-[Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-
-[Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
-
-[Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
+* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
+* [Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)

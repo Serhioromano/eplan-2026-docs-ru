@@ -27,6 +27,6 @@
   
 Создается проект на основе базового проекта.
 
-См. также
+**См. также:**
 
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)

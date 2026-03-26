@@ -73,16 +73,11 @@
 
  
 
-См. также
+**См. также:**
 
-[3D-макротехника: принцип](cabinetgui_k_3dmakros.htm)
-
-[Разместить 3D-макросы](cabinetgui_h_3dmakroplatzieren.htm)
-
-[Диалоговое окно Сохранить как (3D-макрос)](macrosgui_d_speichernunter3d.htm)
-
-[Импортировать графические 3D-данные](cabinetgui_h_3dgrafikimportieren.htm)
-
-[Определить и изменить поверхность установки](eplan/cabinetgui_h_einbauflaeche.md)
-
-[Вкладка Определение макроса](eplan/macrosgui_r_makrodefinition.md)
+* [3D-макротехника: принцип](cabinetgui_k_3dmakros.htm)
+* [Разместить 3D-макросы](cabinetgui_h_3dmakroplatzieren.htm)
+* [Диалоговое окно Сохранить как (3D-макрос)](macrosgui_d_speichernunter3d.htm)
+* [Импортировать графические 3D-данные](cabinetgui_h_3dgrafikimportieren.htm)
+* [Определить и изменить поверхность установки](eplan/cabinetgui_h_einbauflaeche.md)
+* [Вкладка Определение макроса](eplan/macrosgui_r_makrodefinition.md)

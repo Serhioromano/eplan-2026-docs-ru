@@ -50,8 +50,7 @@
 
 Алфавитно-числовые счетчики сортируются по символам слева направа (как в столбцах в Excel). Например, если предварительно заданы символы "Тех. марк.", то счет осуществляется следующим образом: A, K, S, AA, AK, AS, KA, ..., AAA, AAK, AAS, AKA ..., AAAA, AAAK, ...
 
-См. также
+**См. также:**
 
-[Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
-
-[Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
+* [Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
+* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)

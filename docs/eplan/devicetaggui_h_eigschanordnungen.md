@@ -102,10 +102,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-
-[Диалоговое окно Экспортировать порядок свойств](eplan/devicetaggui_d_eigschanordnungexportieren.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Диалоговое окно Экспортировать порядок свойств](eplan/devicetaggui_d_eigschanordnungexportieren.md)

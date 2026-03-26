@@ -24,8 +24,7 @@
 2. Установите флажок Отображать обозначения выводов устройства в повернутом виде.
 3. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)

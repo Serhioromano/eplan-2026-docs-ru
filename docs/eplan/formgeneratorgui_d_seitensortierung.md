@@ -52,12 +52,9 @@
 
 Если установлен этот флажок, то при составлении отчетов по устройствам в различных структурах проекта учитываются не структурные идентификаторы устройства, а структурные идентификаторы страницы, на которой они размещены.
 
-См. также
+**См. также:**
 
-[Блоки отчетов](eplan/formgeneratorgui_k_auswertungsbloecke.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Блоки отчетов](eplan/formgeneratorgui_k_auswertungsbloecke.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)

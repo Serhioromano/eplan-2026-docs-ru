@@ -42,8 +42,7 @@
 
 После снятия флажка защиту устройства для выделенных объектов можно отключить.
 
-См. также
+**См. также:**
 
-[Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
-
-[Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
+* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
+* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)

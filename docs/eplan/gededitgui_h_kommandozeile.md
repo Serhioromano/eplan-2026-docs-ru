@@ -34,6 +34,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Область ввода данных](eplan/gededitgui_k_kommandozeile.md)
+* [Область ввода данных](eplan/gededitgui_k_kommandozeile.md)

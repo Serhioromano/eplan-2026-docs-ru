@@ -27,8 +27,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Прямая обработка](eplan/inplaceeditinggui_k_start.md)
-
-[Свойства прямой обработки](eplan/inplaceeditinggui_k_eigenschaften.md)
+* [Прямая обработка](eplan/inplaceeditinggui_k_start.md)
+* [Свойства прямой обработки](eplan/inplaceeditinggui_k_eigenschaften.md)

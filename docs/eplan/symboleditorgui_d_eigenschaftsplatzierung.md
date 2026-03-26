@@ -48,8 +48,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Редактор символов](eplan/symboleditorgui_k_start.md)
-
-[Создать символы](eplan/symboleditorgui_h_symboleanlegen.md)
+* [Редактор символов](eplan/symboleditorgui_k_start.md)
+* [Создать символы](eplan/symboleditorgui_h_symboleanlegen.md)

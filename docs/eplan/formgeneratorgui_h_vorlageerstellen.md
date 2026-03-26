@@ -48,12 +48,9 @@ Eplan создаст шаблон отчета и автоматически п�
   
 Настройте не все условия фильтра в соответствии с текущим проектом, что автоматически снимет флажок в поле Шаблон активен . В этом случае согласно инструкциям "Анализировать" и "Анализировать проект" из шаблона отчета не будет создан отчет.
 
-См. также
+**См. также:**
 
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)

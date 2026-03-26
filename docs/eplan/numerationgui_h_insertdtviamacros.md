@@ -57,12 +57,9 @@
 Устройство/функция нумеруются автоматически.
 11. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].
 
-См. также
+**См. также:**
 
-[Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-
-[Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
-
-[Устройства в макросе/добавить копии с неизмененным ОУ](eplan/numerationgui_h_einfuegemoduswaehlen.md)
-
-[Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
+* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
+* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
+* [Устройства в макросе/добавить копии с неизмененным ОУ](eplan/numerationgui_h_einfuegemoduswaehlen.md)
+* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)

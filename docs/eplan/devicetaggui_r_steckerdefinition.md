@@ -74,8 +74,7 @@
 * Без вывода в схеме подключения клемм / штекера
 * Без вывода в перечне клеммников/штекеров.
 
-См. также
+**См. также:**
 
-[Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)

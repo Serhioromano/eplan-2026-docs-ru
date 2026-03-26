@@ -31,12 +31,9 @@
   
 Длина выносной линии изменится.
 
-См. также
+**См. также:**
 
-[Указания размеров](eplan/dimensiongui_k_start.md)
-
-[Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
-
-[Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)
-
-[Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)
+* [Указания размеров](eplan/dimensiongui_k_start.md)
+* [Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
+* [Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)
+* [Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)

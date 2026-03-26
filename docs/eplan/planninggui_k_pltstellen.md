@@ -54,18 +54,12 @@
 
 В предварительном планировании резервуар можно вставить под структурный сегмент, но не под объект планирования или технологический контур. Сами резервуары могут содержать в структуре технологические контуры и объекты планирования.
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-
-[Предварительное планирование: Порядок действий](eplan/planninggui_k_vorgehensweise.md)
-
-[Создание и обработка сегментов структуры](eplan/planninggui_h_struktursegmenteerstlbearb.md)
-
-[Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](eplan/planninggui_h_planungsobjekteerstellen.md)
-
-[Вставить графику форм](eplan/formeditorgui_h_formulargrafikeneinfuegen.md)
-
-[Автоматизация зданий](eplan/planninggui_k_gebaeudeautomation.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
+* [Предварительное планирование: Порядок действий](eplan/planninggui_k_vorgehensweise.md)
+* [Создание и обработка сегментов структуры](eplan/planninggui_h_struktursegmenteerstlbearb.md)
+* [Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](eplan/planninggui_h_planungsobjekteerstellen.md)
+* [Вставить графику форм](eplan/formeditorgui_h_formulargrafikeneinfuegen.md)
+* [Автоматизация зданий](eplan/planninggui_k_gebaeudeautomation.md)

@@ -66,10 +66,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Импортировать или синхронизировать списки присвоений](eplan/plcgui_h_importzuli.md)
-
-[Экспортировать списки присвоений](eplan/plcgui_h_exportzuli.md)
-
-[ПЛК](eplan/plcgui_k_start.md)
+* [Импортировать или синхронизировать списки присвоений](eplan/plcgui_h_importzuli.md)
+* [Экспортировать списки присвоений](eplan/plcgui_h_exportzuli.md)
+* [ПЛК](eplan/plcgui_k_start.md)

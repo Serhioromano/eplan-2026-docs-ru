@@ -17,12 +17,9 @@
 Новый проект автоматически считывается в управление проектами.
 5. Проверьте все записи в диалоговом окне Свойства проекта: <Имя проекта> и скорректируйте их при необходимости.
 
-См. также
+**См. также:**
 
-[Копировать проект](eplan/prjmanagementgui_h_projektkopieren.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
-
-[Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
-
-[Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
+* [Копировать проект](eplan/prjmanagementgui_h_projektkopieren.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
+* [Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)

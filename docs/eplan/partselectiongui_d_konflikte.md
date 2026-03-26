@@ -29,14 +29,10 @@
 
 При помощи флажка Активировать подавленные сообщения в специфических для пользователя настройках можно повторно активировать отображение диалогового окна конфликта (командный путь: Файл > Настройки > Пользователь > Отображение > Интерфейс пользователя).
 
-См. также
+**См. также:**
 
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Сохранить данные ссылки изделия на функции](eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)
-
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)
-
-[Обзор перенесенных данных изделия](eplan/partselectiongui_k_uebertragenedaten.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Сохранить данные ссылки изделия на функции](eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)
+* [Обзор перенесенных данных изделия](eplan/partselectiongui_k_uebertragenedaten.md)

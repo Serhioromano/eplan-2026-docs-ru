@@ -33,16 +33,11 @@
 
 В настройках проекта в диалоговом окне Настройки: Стандартные символы можно указать стандартные символы для точек определения соединения, точек определения потенциала и точек определения сети независимо от пользователя. Это обеспечивает единообразное и последовательное использование этих символов в рамках проекта.
 
-См. также
+**См. также:**
 
-[Соединения](eplan/connectionbrowsergui_k_start.md)
-
-[Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
-
-[Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
-
-[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-
-[Вкладка Размещение (Нумерация соединений)](eplan/wirenumberinggui_r_platzierung.md)
-
-[Диалоговое окно "Настройки: Стандартные символы"](eplan/connectionsettingsgui_d_einstellungenstandardsymbole.md)
+* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
+* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Вкладка Размещение (Нумерация соединений)](eplan/wirenumberinggui_r_platzierung.md)
+* [Диалоговое окно "Настройки: Стандартные символы"](eplan/connectionsettingsgui_d_einstellungenstandardsymbole.md)

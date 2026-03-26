@@ -24,6 +24,6 @@
 * [Вкладка Общее](eplan/ncgui_r_allgemeinkupferexportnc.md)
 * [Вкладка Функциональный элемент](eplan/ncgui_r_bauteilkupferexportnc.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт: ЧУ — медь](eplan/ncgui_d_exportkupfernc.md)
+* [Диалоговое окно Экспорт: ЧУ — медь](eplan/ncgui_d_exportkupfernc.md)

@@ -10,26 +10,16 @@ Eplan оказывает поддержку при проектировании 
 * С помощью функции экспорта и импорта можно обмениваться данными ПЛК (списками присвоений) с различными программами конфигурации ПЛК.
 * Данными конфигурации блоков управления ПЛК систем шин можно обмениваться с различными программами конфигурации ПЛК.
 
-См. также
+**См. также:**
 
-[Структура ПЛК](eplan/plcgui_k_prinzip.md)
-
-[Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
-
-[Каналы ПЛК](eplan/plcgui_k_kanaele.md)
-
-[Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
-
-[Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
-
-[Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
-
-[Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-
-[Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
-
-[Обмен данными файлов конфигурации ПЛК](eplan/plcgui_k_austauschbuskonfig.md)
-
-[Импорт файлов конфигурации ПЛК](eplan/plcgui_k_importbuskonfig.md)
-
-[Генерация схем соединений ПЛК](eplan/plcgui_k_spsschaltplanerzeugen.md)
+* [Структура ПЛК](eplan/plcgui_k_prinzip.md)
+* [Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
+* [Каналы ПЛК](eplan/plcgui_k_kanaele.md)
+* [Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
+* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
+* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
+* [Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
+* [Обмен данными файлов конфигурации ПЛК](eplan/plcgui_k_austauschbuskonfig.md)
+* [Импорт файлов конфигурации ПЛК](eplan/plcgui_k_importbuskonfig.md)
+* [Генерация схем соединений ПЛК](eplan/plcgui_k_spsschaltplanerzeugen.md)

@@ -23,8 +23,7 @@
 * Клеммы
 * Контакты штекеров.
 
-См. также
+**См. также:**
 
-[Перенести обозначения выводов устройства](eplan/devicetaggui_h_anschlusbezuebernehmen.md)
-
-[Устройство](eplan/devicetaggui_k_start.md)
+* [Перенести обозначения выводов устройства](eplan/devicetaggui_h_anschlusbezuebernehmen.md)
+* [Устройство](eplan/devicetaggui_k_start.md)

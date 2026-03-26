@@ -63,10 +63,8 @@ Eplan при вставке устройства проверяет данные
 
 Размещенный макрос можно вторично разместить при помощи курсора. При этом генерируется новое устройство.
 
-См. также
+**См. также:**
 
-[Вставка / размещение устройств](eplan/devicelistgui_k_platzieren.md)
-
-[Процедура удаления и копирования устройств](eplan/devicelistgui_k_loeschenkopieren.md)
-
-[Диалоговое окно Настройки: Общие (Проекты, Устройства)](eplan/xessettingsgui_d_betriebsmittelallgemein.md)
+* [Вставка / размещение устройств](eplan/devicelistgui_k_platzieren.md)
+* [Процедура удаления и копирования устройств](eplan/devicelistgui_k_loeschenkopieren.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Устройства)](eplan/xessettingsgui_d_betriebsmittelallgemein.md)

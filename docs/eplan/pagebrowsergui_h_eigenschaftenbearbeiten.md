@@ -23,8 +23,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-
-[Свойства Eplan](eplan/properties_o_main.md)
+* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
+* [Свойства Eplan](eplan/properties_o_main.md)

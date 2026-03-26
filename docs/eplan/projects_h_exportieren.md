@@ -15,12 +15,9 @@
   
 Выполняется экспорт проекта, указатель процесса показывает ход экспорта. В целевом каталоге сохраняется экспортированный проект *.epj в формате XML.
 
-См. также
+**См. также:**
 
-[Проекты](eplan/projects_k_start.md)
-
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
-
-[Импортировать проекты](eplan/projects_h_importieren.md)
-
-[Внешняя обработка](eplan/pxfinterface_k_start.md)
+* [Проекты](eplan/projects_k_start.md)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Импортировать проекты](eplan/projects_h_importieren.md)
+* [Внешняя обработка](eplan/pxfinterface_k_start.md)

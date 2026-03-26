@@ -17,10 +17,8 @@
 
 Созданные вами схемы для определенных пользователем конфигураций свойств являются зависимыми от проекта, поэтому сохраняются на проекте.
 
-См. также
+**См. также:**
 
-[Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
-
-[Диалоговое окно Конфигурировать свойства](eplan/modaldialogsdb_d_eigenschaftsanordnung.md)
-
-[Задать конфигурацию свойств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md#Eigenschaftskonfiguration)
+* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Диалоговое окно Конфигурировать свойства](eplan/modaldialogsdb_d_eigenschaftsanordnung.md)
+* [Задать конфигурацию свойств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md#Eigenschaftskonfiguration)

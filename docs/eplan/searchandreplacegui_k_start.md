@@ -9,20 +9,13 @@
 * Результаты поиска записываются в списки результатов. С помощью этих списков возможны следующие действия: Так, например, вы можете открывать диалоговое окно свойств для одного выделенного объекта и обрабатывать его свойства.
 * Можно синхронизировать отображения между открытыми навигаторами.
 
-См. также
+**См. также:**
 
-[Определение искомых понятий](eplan/searchandreplacegui_k_prinzip.md)
-
-[Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
-
-[Записи в списках результатов](eplan/searchandreplacegui_k_eintraegeergebnisliste.md)
-
-[Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
-
-[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-
-[Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
-
-[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
-
-[Синхронизировать выбор](eplan/searchandreplacegui_h_auswahlsynchronisieren.md)
+* [Определение искомых понятий](eplan/searchandreplacegui_k_prinzip.md)
+* [Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
+* [Записи в списках результатов](eplan/searchandreplacegui_k_eintraegeergebnisliste.md)
+* [Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
+* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
+* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Синхронизировать выбор](eplan/searchandreplacegui_h_auswahlsynchronisieren.md)

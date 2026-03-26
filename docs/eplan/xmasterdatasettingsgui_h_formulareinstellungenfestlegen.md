@@ -16,6 +16,6 @@
   
 Форма с новыми/измененными настройками загружается в проект.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Вывод в страницах](eplan/formgeneratorgui_d_einstellgrafikausgabe.md)
+* [Диалоговое окно Настройки: Вывод в страницах](eplan/formgeneratorgui_d_einstellgrafikausgabe.md)

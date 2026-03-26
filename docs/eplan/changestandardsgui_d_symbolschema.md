@@ -25,14 +25,10 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Символы](eplan/xsbgui_k_start.md)
-
-[Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
-
-[Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
-
-[Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
-
-[Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Символы](eplan/xsbgui_k_start.md)
+* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
+* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
+* [Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)

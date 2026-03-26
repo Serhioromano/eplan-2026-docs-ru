@@ -20,16 +20,11 @@
 
 Для обнаружения таких ошибок среда Eplan должна знать правильную спецификацию устройства. Ввиду этого в Eplan есть возможность создания "пула функций" для устройства. (Не имеет значения, размещены ли эти функции или нет.) Управляемый пул функций может быть реализован только путем выбора устройства: неразмещенные функции могут проверяться на наличие ошибок с последующим сообщением об этих ошибках, только если было присвоено определение устройства.
 
-См. также
+**См. также:**
 
-[Резервные функциональные элементы: Принцип работы](eplan/sparecomponent_k_arbeitsweise.md)
-
-[Резервные функциональные элементы: Определения устройств](eplan/sparecomponent_k_geraetedefinitionen.md)
-
-[Резервные функциональные элементы: Шаблоны функции](eplan/sparecomponent_k_funktionsschablonen.md)
-
-[Данные неразмещенных устройств](eplan/sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
-
-[Резервные функциональные элементы: Режимы копирования для функций](eplan/sparecomponent_k_kopiermodifunktionen.md)
-
-[Резервные функциональные элементы: Режимы удаления для функций](eplan/sparecomponent_k_loeschmodifunktionen.md)
+* [Резервные функциональные элементы: Принцип работы](eplan/sparecomponent_k_arbeitsweise.md)
+* [Резервные функциональные элементы: Определения устройств](eplan/sparecomponent_k_geraetedefinitionen.md)
+* [Резервные функциональные элементы: Шаблоны функции](eplan/sparecomponent_k_funktionsschablonen.md)
+* [Данные неразмещенных устройств](eplan/sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
+* [Резервные функциональные элементы: Режимы копирования для функций](eplan/sparecomponent_k_kopiermodifunktionen.md)
+* [Резервные функциональные элементы: Режимы удаления для функций](eplan/sparecomponent_k_loeschmodifunktionen.md)

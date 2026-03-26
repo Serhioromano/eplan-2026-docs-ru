@@ -37,14 +37,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
-
-[Создать и обработать карты ПЛК](eplan/plcgui_h_spsanlegen.md)
-
-[Автоматическая адресация выводов устройства ПЛК](eplan/plcgui_h_automatisch_adressieren.md)
-
-[Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)
-
-[Рисование блоков ломаными линиями](eplan/blackbox_h_polygonalekaesten.md)
+* [Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
+* [Создать и обработать карты ПЛК](eplan/plcgui_h_spsanlegen.md)
+* [Автоматическая адресация выводов устройства ПЛК](eplan/plcgui_h_automatisch_adressieren.md)
+* [Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)
+* [Рисование блоков ломаными линиями](eplan/blackbox_h_polygonalekaesten.md)

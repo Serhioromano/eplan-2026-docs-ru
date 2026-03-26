@@ -32,10 +32,8 @@
 
 Если в списке закрепленных проектов имеется заданное максимальное количество проектов, то дальнейшее их закрепление невозможно. Максимальное количество задается в настройках пользователях для интерфейса.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
-
-[Проекты](eplan/projects_k_start.md)
-
-[Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
+* [Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
+* [Проекты](eplan/projects_k_start.md)
+* [Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)

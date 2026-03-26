@@ -32,6 +32,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Рисование блоков ломаными линиями](eplan/blackbox_h_polygonalekaesten.md)
+* [Рисование блоков ломаными линиями](eplan/blackbox_h_polygonalekaesten.md)

@@ -28,10 +28,8 @@
 
 Перейти с одной страницы выбора арматуры на другую и выбрать нужную арматуру можно также с помощью клавиатуры. Для этого воспользуйтесь курсором, управляющими клавишами картинок, а также кнопкой "Enter".
 
-См. также
+**См. также:**
 
-[Выбрать арматуру](eplan/fluidhoseconfiggui_h_armaturenauswaehlen.md)
-
-[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
-
-[Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)
+* [Выбрать арматуру](eplan/fluidhoseconfiggui_h_armaturenauswaehlen.md)
+* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)

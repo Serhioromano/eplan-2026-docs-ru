@@ -23,6 +23,6 @@ Eplan отображает в диалоговом окне Предв. прос
   
 Eplan откроет страницу схемы соединений в графическом редакторе и переместит курсор на условное обозначение.
 
-См. также
+**См. также:**
 
-[Синхронизировать выбор](eplan/searchandreplacegui_h_auswahlsynchronisieren.md)
+* [Синхронизировать выбор](eplan/searchandreplacegui_h_auswahlsynchronisieren.md)

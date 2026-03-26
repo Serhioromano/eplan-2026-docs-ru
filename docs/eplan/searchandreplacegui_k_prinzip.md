@@ -40,10 +40,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
-
-[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
+* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)

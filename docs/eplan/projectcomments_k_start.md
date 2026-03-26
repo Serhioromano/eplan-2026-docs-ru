@@ -14,24 +14,15 @@
 * Можно удалить отдельные выбранные комментарии или все комментарии в проекте.
 * На вкладке История можно проследить, кто и когда вносил изменения в комментарий.
 
-См. также
+**См. также:**
 
-[Комментарии: Процедура](eplan/projectcomments_k_vorgehensweise.md)
-
-[Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
-
-[Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-
-[Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
-
-[Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-
-[Создание и размещение неразмещенных комментариев](eplan/projectcomments_h_kommentareplatzieren.md)
-
-[Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-
-[Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)
-
-[Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Комментарии: Процедура](eplan/projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
+* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
+* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
+* [Создание и размещение неразмещенных комментариев](eplan/projectcomments_h_kommentareplatzieren.md)
+* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
+* [Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)

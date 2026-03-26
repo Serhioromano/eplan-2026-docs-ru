@@ -29,16 +29,11 @@
 
 Открывает диалоговое окно [Сетевое расширение](eplan/wirenumberinggui_d_netzerweiterung.md). В этом диалоговом окне можно расширить определение сети. Эта настройка влияет на обозначение, если в качестве объема выбрана "сеть".
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
-
-[Создать группы форматов](eplan/wirenumberinggui_h_formatgruppenerstellen.md)
-
-[Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
-
-[Нумерация соединений: Принцип](eplan/wirenumberinggui_k_prinzip.md)
-
-[Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)
+* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Создать группы форматов](eplan/wirenumberinggui_h_formatgruppenerstellen.md)
+* [Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
+* [Нумерация соединений: Принцип](eplan/wirenumberinggui_k_prinzip.md)
+* [Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)

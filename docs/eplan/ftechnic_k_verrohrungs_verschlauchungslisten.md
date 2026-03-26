@@ -10,10 +10,8 @@
 
 На соединениях, которые имеют точки определения соединений, определение функции точки определения соединения определяет, является ли соединение "трубой" или "шлангом".
 
-См. также
+**См. также:**
 
-[Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)
-
-[Eplan Fluid: Отчеты](eplan/ftechnic_k_auswertungen.md)
-
-[Оценка и вывод списков труб / шлангов](eplan/ftechnic_h_verrohrungsliste_auswerten_ausgeben.md)
+* [Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)
+* [Eplan Fluid: Отчеты](eplan/ftechnic_k_auswertungen.md)
+* [Оценка и вывод списков труб / шлангов](eplan/ftechnic_h_verrohrungsliste_auswerten_ausgeben.md)

@@ -36,10 +36,8 @@
 ---|---  
 Выделить все |  Выделяет все записи в списке.  
   
-См. также
+**См. также:**
 
-[Создание пользователем конфигураций свойств](eplan/userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
-
-[Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-
-[Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
+* [Создание пользователем конфигураций свойств](eplan/userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
+* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)

@@ -20,10 +20,8 @@
 
 В многопользовательском режиме при вызове пункта всплывающего меню Свойства блокируются все объекты, которые должны быть обработаны. Если блокировка невозможна для всех объектов, эти объекты тоже нельзя обработать, и отображается соответствующее указание. В этом случае измените выбор.
 
-См. также
+**См. также:**
 
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-
-[Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)

@@ -58,12 +58,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
-
-[Свойства Eplan: Принцип](eplan/properties_k_prinzip.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Свойства Eplan: Принцип](eplan/properties_k_prinzip.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)

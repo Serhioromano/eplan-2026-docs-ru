@@ -71,8 +71,7 @@
 * Без вывода в перечне клеммников / штекеров
 * Без вывода в схеме клеммника.
 
-См. также
+**См. также:**
 
-[Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)

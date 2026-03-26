@@ -13,8 +13,7 @@
 7. Выполните аналогичные действия для всех других точек разрыва, которые требуется вставить.
 8. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].
 
-См. также
+**См. также:**
 
-[Определить стандартные позиции для описания точек разрыва](eplan/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)
-
-[Диалоговое окно Использ. имеющ. точку разрыва](eplan/interruptionpointgui_d_abbruchstellenabbuchen.md)
+* [Определить стандартные позиции для описания точек разрыва](eplan/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)
+* [Диалоговое окно Использ. имеющ. точку разрыва](eplan/interruptionpointgui_d_abbruchstellenabbuchen.md)

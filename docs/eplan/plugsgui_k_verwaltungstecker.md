@@ -54,8 +54,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Штекеры](eplan/plugsgui_k_start.md)
-
-[Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
+* [Штекеры](eplan/plugsgui_k_start.md)
+* [Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)

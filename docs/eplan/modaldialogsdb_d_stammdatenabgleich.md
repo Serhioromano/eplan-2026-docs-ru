@@ -72,6 +72,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Основные данные](eplan/xmasterdatasettingsgui_k_start.md)
+* [Основные данные](eplan/xmasterdatasettingsgui_k_start.md)

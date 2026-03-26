@@ -83,14 +83,10 @@
 
 При помощи кнопки [Настроить] перейдите в диалоговое окно Настроить комбинации клавиш, в котором можно настроить комбинации клавиш для отдельных команд.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)
-
-[Диалоговое окно "Правка"](eplan/modaldialogs_d_befehleumbenennen.md)
-
-[Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
-
-[Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
-
-[Обзор операций для ленты](eplan/userinterface_k_aktionenmenueband.md)
+* [Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)
+* [Диалоговое окно "Правка"](eplan/modaldialogs_d_befehleumbenennen.md)
+* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
+* [Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
+* [Обзор операций для ленты](eplan/userinterface_k_aktionenmenueband.md)

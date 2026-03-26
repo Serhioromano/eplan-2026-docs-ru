@@ -10,16 +10,11 @@
 * Настраивать Eplan для работы на нескольких мониторах.
 * Определять последовательность отображения и сортировки данных.
 
-См. также
+**См. также:**
 
-[Элементы интерфейса пользователя](eplan/userinterface_k_hintergrund.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
-
-[Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
-
-[Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
-
-[Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
-
-[Настройка отображения таблиц](eplan/userinterface_h_anzeigesortierreihenfolgefestlegen.md)
+* [Элементы интерфейса пользователя](eplan/userinterface_k_hintergrund.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
+* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
+* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Настройка отображения таблиц](eplan/userinterface_h_anzeigesortierreihenfolgefestlegen.md)

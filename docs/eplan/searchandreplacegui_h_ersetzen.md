@@ -13,10 +13,8 @@
   
 В выделенных записях меняется значение.
 
-См. также
+**См. также:**
 
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-
-[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)

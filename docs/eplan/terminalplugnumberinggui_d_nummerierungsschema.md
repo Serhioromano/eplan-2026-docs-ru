@@ -36,6 +36,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно формата нумерации](eplan/numerationgui_d_nummerierungsformate.md)
+* [Диалоговое окно формата нумерации](eplan/numerationgui_d_nummerierungsformate.md)

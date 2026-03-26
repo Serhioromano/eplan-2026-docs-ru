@@ -72,14 +72,10 @@
 
 [Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Eplan Fluid: Определение групп соединений и проводов](eplan/ftechnic_k_schlauchpakete.md)
-
-[Вставить группы шланговых соединений, трубопроводы и шлангопроводы](eplan/ftechnic_h_paketedefinieren.md)
-
-[Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-
-[Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-
-[Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Eplan Fluid: Определение групп соединений и проводов](eplan/ftechnic_k_schlauchpakete.md)
+* [Вставить группы шланговых соединений, трубопроводы и шлангопроводы](eplan/ftechnic_h_paketedefinieren.md)
+* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
+* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)

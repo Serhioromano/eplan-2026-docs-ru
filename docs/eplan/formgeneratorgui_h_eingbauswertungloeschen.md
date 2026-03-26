@@ -12,12 +12,9 @@
   
 Блок отчетов удаляется. Сохранятся страницы отчета.
 
-См. также
+**См. также:**
 
-[Удалить страницы отчета](eplan/formgeneratorgui_h_auswertungloeschen.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Удалить страницы отчета](eplan/formgeneratorgui_h_auswertungloeschen.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)

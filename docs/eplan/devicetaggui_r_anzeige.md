@@ -60,12 +60,9 @@
 * [Свойства отображения: Размещенное свойство](eplan/devicetaggui_r_anzeigeeigenschaften.md)
 * [Свойства отображения: Образ контакта](eplan/devicetaggui_r_anzeigekontaktspiegel.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Сохранить порядок свойств](eplan/devicetaggui_d_eigschanordnungspeichern.md)
-
-[Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
-
-[Перевести тексты проекта](eplan/translategui_k_start.md)
-
-[Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)
+* [Диалоговое окно Сохранить порядок свойств](eplan/devicetaggui_d_eigschanordnungspeichern.md)
+* [Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
+* [Перевести тексты проекта](eplan/translategui_k_start.md)
+* [Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)

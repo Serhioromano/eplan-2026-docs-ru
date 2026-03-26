@@ -52,12 +52,9 @@ Eplan сначала учитывает свойства многополюсн�
 * Функциональная схема автоматизации
 * Топология.
 
-См. также
+**См. также:**
 
-[Активировать режим Свойства (общие)](eplan/reverseengineering_h_bmmodusaktivieren.md)
-
-[Обработать свойства во всех представлениях главной функции](eplan/reverseengineering_h_alledarstellungenbm.md)
-
-[Обработать свойства во всех представлениях вспомогательной функции](eplan/reverseengineering_h_alledarstellungenfunktion.md)
-
-[Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Активировать режим Свойства (общие)](eplan/reverseengineering_h_bmmodusaktivieren.md)
+* [Обработать свойства во всех представлениях главной функции](eplan/reverseengineering_h_alledarstellungenbm.md)
+* [Обработать свойства во всех представлениях вспомогательной функции](eplan/reverseengineering_h_alledarstellungenfunktion.md)
+* [Отчеты](eplan/formgeneratorgui_k_start.md)

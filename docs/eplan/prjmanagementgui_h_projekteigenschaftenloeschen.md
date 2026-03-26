@@ -35,10 +35,8 @@
 3. Щелкните по кнопке  (Удалить).
 4. Щелкните по кнопке [Сохранить].
 
-См. также
+**См. также:**
 
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
-
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
-
-[Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)

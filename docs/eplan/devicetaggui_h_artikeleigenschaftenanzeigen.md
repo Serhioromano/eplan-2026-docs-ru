@@ -35,12 +35,9 @@ QR-код или графический файл отобразятся на у�
 
  
 
-См. также
+**См. также:**
 
-[Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-
-[Свойства отображения: Размещенное свойство](eplan/devicetaggui_r_anzeigeeigenschaften.md)
-
-[Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)
-
-[Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
+* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Свойства отображения: Размещенное свойство](eplan/devicetaggui_r_anzeigeeigenschaften.md)
+* [Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)
+* [Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)

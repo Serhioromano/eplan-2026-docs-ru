@@ -44,8 +44,7 @@
   
 После подтверждения запроса панель быстрого доступа будет снова сброшена на состояние по умолчанию.
 
-См. также
+**См. также:**
 
-[Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
-
-[Диалоговое окно Настроить](eplan/fp_d_anpassen.md)
+* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
+* [Диалоговое окно Настроить](eplan/fp_d_anpassen.md)

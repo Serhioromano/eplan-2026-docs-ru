@@ -20,8 +20,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Переместить](eplan/terminalplugcommongui_d_verschieben.md)
-
-[Сортировать клеммы](eplan/terminalgui_h_klemmensort.md)
+* [Диалоговое окно Переместить](eplan/terminalplugcommongui_d_verschieben.md)
+* [Сортировать клеммы](eplan/terminalgui_h_klemmensort.md)

@@ -138,12 +138,9 @@
 * Рабочая станция ПЛК: Имя (косвен.): выводит имя станции ЦПУ для блока ПЛК, которому назначен вывод устройства ПЛК.
 * ЦПУ (косвен.): Выводит на выводе устройства ПЛК имя ЦПУ соответствующего блока ПЛК.
 
-См. также
+**См. также:**
 
-[Вкладки <Категория функции > / <Категория функции> (Устройство)](eplan/devicetaggui_r_bmdaten.md)
-
-[Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
-
-[Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
-
-[Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Вкладки <Категория функции > / <Категория функции> (Устройство)](eplan/devicetaggui_r_bmdaten.md)
+* [Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
+* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)

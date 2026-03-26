@@ -70,14 +70,10 @@
 Изделие |  Открывает диалоговое окно Настройки: Изделие. Обеспечивает определение настроек для выполнения отчета по изделиям.  
 Отображение / вывод |  Открывает диалоговое окно Настройки: Отображение / вывод. Обеспечивает ограничение отображения и вывода данных проекта в страницах отчета.  
   
-См. также
+**См. также:**
 
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-
-[Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)

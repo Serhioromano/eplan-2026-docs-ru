@@ -22,12 +22,9 @@
 
 Путем активации точки захвата — как в проекте макросов, так и во вставленном в схему соединений макросе — вы предотвращаете нежелательное смещение макроса и / или его компонентов из-за изменения макроса (например, графики) после обновления.
 
-См. также
+**См. также:**
 
-[Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
-
-[Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
-
-[Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
-
-[Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
+* [Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
+* [Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
+* [Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
+* [Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)

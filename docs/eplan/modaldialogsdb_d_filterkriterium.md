@@ -26,6 +26,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)

@@ -44,10 +44,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-
-[Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
-
-[Альтернативная идентификация](eplan/revisionmgtgui_k_alternativeidentifizierung.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
+* [Альтернативная идентификация](eplan/revisionmgtgui_k_alternativeidentifizierung.md)

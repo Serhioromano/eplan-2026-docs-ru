@@ -12,38 +12,22 @@
 * Соединения доступны для автоматизированного обозначения. При этом можно задать, по каким критериям и с какими соединениями это будет выполняться.
 * Цвет соединения можно сохранить как многоязычный текст. Вы можете указать, какое имя цвета присвоено коду цвета, и перевести имена цветов в автоматическом режиме.
 
-См. также
+**См. также:**
 
-[Соединения: Принцип](eplan/connectionbrowsergui_k_prinzipverbindungen.md)
-
-[Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
-
-[Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
-
-[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-
-[Соединения: Единицы измерения длины и поперечного сечения](eplan/connectionbrowsergui_k_einheitenverbindungen.md)
-
-[Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
-
-[Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)
-
-[Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
-
-[Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
-
-[Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
-
-[Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-
-[Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Определить свойства соединения для потенциала](eplan/connectionbrowsergui_h_pdpeigenschaften.md)
-
-[Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
-
-[Разместить соединения](eplan/connectionbrowsergui_h_verbindungenplatzieren.md)
+* [Соединения: Принцип](eplan/connectionbrowsergui_k_prinzipverbindungen.md)
+* [Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
+* [Соединения: Принцип работы](eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Соединения: Единицы измерения длины и поперечного сечения](eplan/connectionbrowsergui_k_einheitenverbindungen.md)
+* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
+* [Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)
+* [Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
+* [Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
+* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Определить свойства соединения для потенциала](eplan/connectionbrowsergui_h_pdpeigenschaften.md)
+* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
+* [Разместить соединения](eplan/connectionbrowsergui_h_verbindungenplatzieren.md)

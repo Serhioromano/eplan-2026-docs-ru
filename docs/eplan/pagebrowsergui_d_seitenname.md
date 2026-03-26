@@ -30,8 +30,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Свойства страницы / Новая страница](eplan/pagebrowsergui_d_seiteneigenschaften.md)
-
-[Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
+* [Диалоговое окно Свойства страницы / Новая страница](eplan/pagebrowsergui_d_seiteneigenschaften.md)
+* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)

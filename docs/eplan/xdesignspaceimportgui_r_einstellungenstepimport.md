@@ -22,8 +22,7 @@
 
 Низкая степень детализации ускоряет импорт больших файлов STEP, но ведет к более грубому представлению закруглений. Высокая степень детализации улучшает представление закруглений, но увеличивает количество данных и время импорта.
 
-См. также
+**См. также:**
 
-[Вкладка Настройки: Экспорт пространства конструкции](eplan/xdesignspaceimportgui_r_einstellungenstepexport.md)
-
-[Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
+* [Вкладка Настройки: Экспорт пространства конструкции](eplan/xdesignspaceimportgui_r_einstellungenstepexport.md)
+* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)

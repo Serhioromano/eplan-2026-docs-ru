@@ -12,14 +12,10 @@
 
 Если функция встречается на схеме соединений многократно, будучи распределенной по однополюсной, многополюсной или обзорной странице, то это очень скоро привести к расхождению данных у функции в одном из представлений. В этом случае с помощью Eplan можно синхронизировать свойства этих функций по всему проекту.
 
-См. также
+**См. также:**
 
-[Обзоры установок](eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
-
-[Особенности при использовании клемм в однополюсном представлении.](eplan/singlepole_k_besonderheitenklemmen.md)
-
-[Особенности при использовании кабелей в однополюсном представлении](eplan/singlepole_k_besonderheitenkabel.md)
-
-[Начертить схему соединений в однополюсном представлении](eplan/singlepole_h_stromlaufplaenezeichnen.md)
-
-[Жгутовое представление соединений в схемах соединений](eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)
+* [Обзоры установок](eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
+* [Особенности при использовании клемм в однополюсном представлении.](eplan/singlepole_k_besonderheitenklemmen.md)
+* [Особенности при использовании кабелей в однополюсном представлении](eplan/singlepole_k_besonderheitenkabel.md)
+* [Начертить схему соединений в однополюсном представлении](eplan/singlepole_h_stromlaufplaenezeichnen.md)
+* [Жгутовое представление соединений в схемах соединений](eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)

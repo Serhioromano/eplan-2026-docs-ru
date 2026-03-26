@@ -15,20 +15,13 @@
 * Данные ревизии, объединенные при помощи отслеживания изменений в единый проект, можно обработать.
 * Привязанные к одному проекту состояния ревизии можно вывести в обзорах ревизий. Их можно распечатать или ввести в текущий проект в качестве отдельных страниц отчета.
 
-См. также
+**См. также:**
 
-[Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-
-[Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
-
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-
-[Отобразить и скрыть маркеры ревизий](eplan/revisionmgtgui_h_revmarkierungen_anzeigen.md)
-
-[Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
-
-[Восстановить удаленные маркеры ревизий](eplan/revisionmgtgui_h_revmarkierungenerzeugen.md)
-
-[Удалить защиту от записи](eplan/revisionmgtgui_h_schreibschutzentfernen.md)
+* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Отобразить и скрыть маркеры ревизий](eplan/revisionmgtgui_h_revmarkierungen_anzeigen.md)
+* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Восстановить удаленные маркеры ревизий](eplan/revisionmgtgui_h_revmarkierungenerzeugen.md)
+* [Удалить защиту от записи](eplan/revisionmgtgui_h_schreibschutzentfernen.md)

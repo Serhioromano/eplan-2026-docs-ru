@@ -14,20 +14,13 @@
 * Вы можете выполнять в управлении изделиями специальные контрольные прогоны для основных данных изделий. Соответствующие сообщения будут отображаться в управлении изделиями.
 * В справочной системе имеется подробное описание всех сообщений и указания по исправлению ошибок.
 
-См. также
+**См. также:**
 
-[Сообщения контрольного прогона: номера сообщений, классы и категории](eplan/msgmanagementgui_k_prinzip.md)
-
-[Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-
-[Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-
-[Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
-
-[Проверить данные проекта в режиме подключения](eplan/msgmanagementgui_h_prueflaufonline.md)
-
-[Проверить основные данные изделия](eplan/articlesgui_h_artikelstammdatenpruefen.md)
-
-[Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
-
-[Отобразить тексты сообщений в графическом редакторе](eplan/msgmanagementgui_h_meldungstexteanzeigen.md)
+* [Сообщения контрольного прогона: номера сообщений, классы и категории](eplan/msgmanagementgui_k_prinzip.md)
+* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
+* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
+* [Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
+* [Проверить данные проекта в режиме подключения](eplan/msgmanagementgui_h_prueflaufonline.md)
+* [Проверить основные данные изделия](eplan/articlesgui_h_artikelstammdatenpruefen.md)
+* [Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
+* [Отобразить тексты сообщений в графическом редакторе](eplan/msgmanagementgui_h_meldungstexteanzeigen.md)

@@ -13,12 +13,9 @@
 5. В диалоговом окне Свойства <...> введите данные для определения проводного монтажа на вкладке Проводной монтаж или данные для определения кабельной сборки на вкладке Кабельная сборка.
 6. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Проводной монтаж](eplan/harnessgui_k_start.md)
-
-[Диалоговое окно Проводной монтаж — <Имя проекта>](eplan/harnessgui_d_navigator.md)
-
-[Вкладка Проводной монтаж](eplan/devicetaggui_r_kabelbaum.md)
-
-[Вкладка "Кабельная сборка"](eplan/devicetaggui_r_kabeleinheit.md)
+* [Проводной монтаж](eplan/harnessgui_k_start.md)
+* [Диалоговое окно Проводной монтаж — <Имя проекта>](eplan/harnessgui_d_navigator.md)
+* [Вкладка Проводной монтаж](eplan/devicetaggui_r_kabelbaum.md)
+* [Вкладка "Кабельная сборка"](eplan/devicetaggui_r_kabeleinheit.md)

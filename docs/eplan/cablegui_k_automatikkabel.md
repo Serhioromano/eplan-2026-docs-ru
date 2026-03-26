@@ -16,16 +16,11 @@ Eplan автоматически размещает линии определе�
 
  
 
-См. также
+**См. также:**
 
-[Кабели](eplan/cablegui_k_start.md)
-
-[Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
-
-[Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
-
-[Удалить автоматически сгенерированные кабели](eplan/cablegui_h_automatischekabelloeschen.md)
-
-[Выбрать кабель](eplan/cablegui_h_kabelauswahlautomatisch.md)
-
-[Суммировать длину кабелей](eplan/cablegui_h_kabelmengenberechnen.md)
+* [Кабели](eplan/cablegui_k_start.md)
+* [Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
+* [Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
+* [Удалить автоматически сгенерированные кабели](eplan/cablegui_h_automatischekabelloeschen.md)
+* [Выбрать кабель](eplan/cablegui_h_kabelauswahlautomatisch.md)
+* [Суммировать длину кабелей](eplan/cablegui_h_kabelmengenberechnen.md)

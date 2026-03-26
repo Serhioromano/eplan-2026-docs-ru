@@ -16,16 +16,11 @@
 
  
 
-См. также
+**См. также:**
 
-[Макросы](eplan/macrosgui_k_start.md)
-
-[Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
-
-[Группы устройств](eplan/devicelistgui_k_geraetegruppierung.md)
-
-[Работать с группами элементов](eplan/gededitgui_h_elementegruppieren.md)
-
-[Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)
-
-[Вкладка Настройки (рамка макроса)](eplan/macrosgui_r_makrokasteneinstellungen.md)
+* [Макросы](eplan/macrosgui_k_start.md)
+* [Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
+* [Группы устройств](eplan/devicelistgui_k_geraetegruppierung.md)
+* [Работать с группами элементов](eplan/gededitgui_h_elementegruppieren.md)
+* [Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)
+* [Вкладка Настройки (рамка макроса)](eplan/macrosgui_r_makrokasteneinstellungen.md)

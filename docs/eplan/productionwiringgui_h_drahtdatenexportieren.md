@@ -23,10 +23,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Сборка проводов](eplan/productionwiringgui_d_einstellungendrahtkonfektionierung.md)
-
-[Конфигурировать машину по сборке проводов](eplan/productionwiringgui_h_maschinekonfigurieren.md)
-
-[Генерировать данные изготовления для машин по сборке проводов](eplan/productionwiringgui_k_start.md)
+* [Диалоговое окно Настройки: Сборка проводов](eplan/productionwiringgui_d_einstellungendrahtkonfektionierung.md)
+* [Конфигурировать машину по сборке проводов](eplan/productionwiringgui_h_maschinekonfigurieren.md)
+* [Генерировать данные изготовления для машин по сборке проводов](eplan/productionwiringgui_k_start.md)

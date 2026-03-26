@@ -30,8 +30,7 @@ Eplan поддерживает типичные команды Windows для к
   
 В соответствующее место вставляется копия элементов.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Диалоговое окно Настройки: Общие (Пользователь, Представление)](eplan/macrosgui_d_einstellzwischablage.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Диалоговое окно Настройки: Общие (Пользователь, Представление)](eplan/macrosgui_d_einstellzwischablage.md)

@@ -22,10 +22,8 @@
   
 Целевой файл будет сгенерирован в указанном каталоге. Теперь он может быть передан на станок.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт ЧУ, медь](eplan/ncgui_d_exportkupfernc.md)
-
-[Диалоговое окно Настройки: Экспорт ЧУ, медь](eplan/ncgui_d_einstellungenncexportperdxf.md)
-
-[Развертка шины: Принцип](eplan/copper_k_abwicklung.md)
+* [Диалоговое окно Экспорт ЧУ, медь](eplan/ncgui_d_exportkupfernc.md)
+* [Диалоговое окно Настройки: Экспорт ЧУ, медь](eplan/ncgui_d_einstellungenncexportperdxf.md)
+* [Развертка шины: Принцип](eplan/copper_k_abwicklung.md)

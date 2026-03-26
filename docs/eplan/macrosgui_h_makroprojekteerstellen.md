@@ -24,8 +24,7 @@ Eplan открывает диалоговое окно Свойства прое
 
  
 
-См. также
+**См. также:**
 
-[Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
-
-[Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
+* [Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
+* [Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)

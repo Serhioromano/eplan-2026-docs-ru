@@ -43,16 +43,11 @@
 
 При достижении установленного числа со следующей строки начинается новый табличный лист. (Максимально возможное значение — "1 048 500 строк").
 
-См. также
+**См. также:**
 
-[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
-
-[Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
-
-[Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
-
-[Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
-
-[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
-
-[Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md#Aktion)
+* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
+* [Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
+* [Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
+* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md#Aktion)

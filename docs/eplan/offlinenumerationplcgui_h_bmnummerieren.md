@@ -27,8 +27,7 @@
   
 Устройства, содержащиеся в объеме нумерации, нумеруются в соответствии с настройками формата и копируют данные вывода устройства ПЛК в ОУ или обозначение.
 
-См. также
+**См. также:**
 
-[Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
-
-[Диалоговое окно Нумерация с данными ПЛК](eplan/offlinenumerationplcgui_d_nummerierungmitsps.md)
+* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Диалоговое окно Нумерация с данными ПЛК](eplan/offlinenumerationplcgui_d_nummerierungmitsps.md)

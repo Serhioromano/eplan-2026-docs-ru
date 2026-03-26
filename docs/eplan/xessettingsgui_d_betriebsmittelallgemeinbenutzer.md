@@ -44,8 +44,7 @@
 
 Эта настройка не действует для копирования в навигаторе страниц или вставки макросов, и в этом случае информация о перемычке всегда сохраняется.
 
-См. также
+**См. также:**
 
-[Устройства](eplan/devicelistgui_k_start.md)
-
-[Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md#I_ManuelleStegbruecken)
+* [Устройства](eplan/devicelistgui_k_start.md)
+* [Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md#I_ManuelleStegbruecken)

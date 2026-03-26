@@ -29,12 +29,9 @@
 
 С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](eplan/modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
 
-См. также
+**См. также:**
 
-[Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
-
-[Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)
-
-[Диалоговое окно Настройки: Экспорт Excel](eplan/xpxfconverterexcel_d_pxfexceleinstellungen.md)
-
-[Диалоговое окно Настройки: Экспорт текстового файла](eplan/xpxfconvertertext_d_pxftexteinstellungen.md)
+* [Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
+* [Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)
+* [Диалоговое окно Настройки: Экспорт Excel](eplan/xpxfconverterexcel_d_pxfexceleinstellungen.md)
+* [Диалоговое окно Настройки: Экспорт текстового файла](eplan/xpxfconvertertext_d_pxftexteinstellungen.md)

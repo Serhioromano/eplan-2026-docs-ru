@@ -37,12 +37,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Создать проект (Управление проектами)](eplan/prjmanagementgui_h_projektanlegen.md)
-
-[Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
-
-[Проекты](eplan/projects_k_start.md)
-
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Создать проект (Управление проектами)](eplan/prjmanagementgui_h_projektanlegen.md)
+* [Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
+* [Проекты](eplan/projects_k_start.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)

@@ -65,12 +65,9 @@
 
 Теперь в диалоговом окне Выбрать принадлежности возможен выбор нескольких изделий принадлежностей одновременно.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Выбор устройства](eplan/partselectiongui_d_geraeteauswahl.md)
-
-[Диалоговое окно Настройки: Общие (Проекты, Устройства)](eplan/xessettingsgui_d_betriebsmittelallgemein.md)
-
-[Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
-
-[Создать список принадлежностей и присвоить его главному изделию](eplan/articlesgui_h_zubehoerlisteerstellen.md)
+* [Диалоговое окно Выбор устройства](eplan/partselectiongui_d_geraeteauswahl.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Устройства)](eplan/xessettingsgui_d_betriebsmittelallgemein.md)
+* [Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
+* [Создать список принадлежностей и присвоить его главному изделию](eplan/articlesgui_h_zubehoerlisteerstellen.md)

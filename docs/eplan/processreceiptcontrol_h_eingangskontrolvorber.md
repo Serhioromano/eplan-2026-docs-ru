@@ -33,12 +33,9 @@
   
 В управлении сообщениями перечисляются подробные результаты (командный путь: вкладка Инструменты > группа команд Проверка > Сообщения).
 
-См. также
+**См. также:**
 
-[Проект для сравнения и проект с замечаниями](eplan/processreceiptcontrol_k_projekte.md)
-
-[Генерировать проект для сравнения](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
-
-[Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Проект для сравнения и проект с замечаниями](eplan/processreceiptcontrol_k_projekte.md)
+* [Генерировать проект для сравнения](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)

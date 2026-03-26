@@ -10,16 +10,11 @@
   
 Изменения применяются и сразу же становятся видимы на странице. 
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Тексты](eplan/gededitgui_k_texte.md)
-
-[Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
-
-[Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
-
-[Вставить текст](eplan/gededitgui_h_texte.md)
-
-[Отобразить пустые тексты и тексты с небольшим размером шрифта](eplan/gededitgui_h_texteanzeigen.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Тексты](eplan/gededitgui_k_texte.md)
+* [Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
+* [Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
+* [Вставить текст](eplan/gededitgui_h_texte.md)
+* [Отобразить пустые тексты и тексты с небольшим размером шрифта](eplan/gededitgui_h_texteanzeigen.md)

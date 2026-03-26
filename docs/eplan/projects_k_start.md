@@ -6,16 +6,11 @@
 * Проекты можно открывать и закрывать в главном окне Eplan.
 * Можно создавать базовые проекты и использовать их для создания новых проектов.
 
-См. также
+**См. также:**
 
-[Проекты: Принцип](eplan/projects_k_prinzip.md)
-
-[Расширения имен файлов и пиктограммы проекта](eplan/projects_k_icons.md)
-
-[Создать проекты](eplan/projects_h_projekteerstellen.md)
-
-[Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
-
-[Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
-
-[Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Проекты: Принцип](eplan/projects_k_prinzip.md)
+* [Расширения имен файлов и пиктограммы проекта](eplan/projects_k_icons.md)
+* [Создать проекты](eplan/projects_h_projekteerstellen.md)
+* [Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
+* [Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
+* [Управление проектами](eplan/prjmanagementgui_k_start.md)

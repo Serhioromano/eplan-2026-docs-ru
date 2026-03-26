@@ -26,10 +26,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставить соединительные отверстия для проводов](eplan/routinggui_h_verdrahtungsdurchbrucheinfuegen.md)
-
-[Вставить области маршрутизации](eplan/routinggui_h_verlegebereicheinfuegen.md)
-
-[Определить соединительные отверстия для проводов на гребенках для проводов](eplan/contoureditorgui_h_durchbrverdrahtungskaemdefinieren.md)
+* [Вставить соединительные отверстия для проводов](eplan/routinggui_h_verdrahtungsdurchbrucheinfuegen.md)
+* [Вставить области маршрутизации](eplan/routinggui_h_verlegebereicheinfuegen.md)
+* [Определить соединительные отверстия для проводов на гребенках для проводов](eplan/contoureditorgui_h_durchbrverdrahtungskaemdefinieren.md)

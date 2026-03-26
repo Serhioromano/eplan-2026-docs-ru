@@ -7,12 +7,9 @@
 
 Шину, основывающуюся на контуре с отмеченным положением нулевой точки, можно разместить, например, на монтажной поверхности вертикально или горизонтально.
 
-См. также
+**См. также:**
 
-[Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
-
-[Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
-
-[Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
-
-[Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)
+* [Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
+* [Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
+* [Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+* [Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)

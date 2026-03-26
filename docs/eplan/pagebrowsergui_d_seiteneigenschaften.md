@@ -35,14 +35,10 @@
 
 Эта кнопка доступна только при генерировании страниц. С ее помощью можно удалить содержимое полей данных текущей выделенной страницы. Только "тип страницы" занят типом выделенной страницы.
 
-См. также
+**См. также:**
 
-[Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-
-[Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-
-[Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-
-[Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
+* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
+* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)

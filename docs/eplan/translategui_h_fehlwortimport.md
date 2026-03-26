@@ -15,10 +15,8 @@
   
 Допереведенные тексты языков перевода импортируются в словарь.
 
-См. также
+**См. также:**
 
-[Словарь](eplan/translatedbgui_k_start.md)
-
-[Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-
-[Экспортировать список отсутствующих слов](eplan/translategui_h_fehlwortexport.md)
+* [Словарь](eplan/translatedbgui_k_start.md)
+* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
+* [Экспортировать список отсутствующих слов](eplan/translategui_h_fehlwortexport.md)

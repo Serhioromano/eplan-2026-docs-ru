@@ -11,22 +11,14 @@
 * При маршрутизации определяется длина проложенного кабеля или соединения.
 * На основе сети соединенных сегментов и сгенерированных маршрутизируемых соединений можно генерировать ответы, отображающие, например, трассы маршрутизации, сегменты маршрутизации или проходящие через сегменты маршрутизации кабели и соединения.
 
-См. также
+**См. также:**
 
-[Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
-
-[Сегменты маршрутизации топологии](eplan/cablinggui_k_strecken.md)
-
-[Точки маршрутизации топологии](eplan/cablinggui_k_verlegepunkte.md)
-
-[Функции топологии](eplan/cablinggui_k_topologiefunktionen.md)
-
-[Маршрутизируемые соединения (топология)](eplan/cablinggui_k_verlegeverbindungen.md)
-
-[Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
-
-[Учет разности высотных отметок при маршрутизации](eplan/cablinggui_k_teilstrecke.md)
-
-[Определение длины соединения (топология)](eplan/cablinggui_k_laengenermittlung.md)
-
-[Схемы соединений (топология)](eplan/cablinggui_k_anschlussbild.md)
+* [Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
+* [Сегменты маршрутизации топологии](eplan/cablinggui_k_strecken.md)
+* [Точки маршрутизации топологии](eplan/cablinggui_k_verlegepunkte.md)
+* [Функции топологии](eplan/cablinggui_k_topologiefunktionen.md)
+* [Маршрутизируемые соединения (топология)](eplan/cablinggui_k_verlegeverbindungen.md)
+* [Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
+* [Учет разности высотных отметок при маршрутизации](eplan/cablinggui_k_teilstrecke.md)
+* [Определение длины соединения (топология)](eplan/cablinggui_k_laengenermittlung.md)
+* [Схемы соединений (топология)](eplan/cablinggui_k_anschlussbild.md)

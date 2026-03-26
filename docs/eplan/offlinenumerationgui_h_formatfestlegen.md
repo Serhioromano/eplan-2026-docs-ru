@@ -36,6 +36,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумеровать (автономно): Предварительный просмотр результата](eplan/offlinenumerationgui_d_ergebnisvorschau.md)
+* [Диалоговое окно Нумеровать (автономно): Предварительный просмотр результата](eplan/offlinenumerationgui_d_ergebnisvorschau.md)

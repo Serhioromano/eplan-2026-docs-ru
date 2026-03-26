@@ -56,18 +56,12 @@
 
 Для нумерации кабелей существуют специальные возможности форматирования. Таким образом, могут быть, например, занесены данные для источника и цели в ОУ кабеля. Как вариант, кабели можно обозначить и при помощи "обычной" нумерации устройств; но возможности форматирования здесь ограничены.
 
-См. также
+**См. также:**
 
-[Кабели](eplan/cablegui_k_start.md)
-
-[Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
-
-[Действие экранирования](eplan/cablegui_k_verhaltenabschirmungen.md)
-
-[Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
-
-[Определение источника и цели](eplan/cablegui_k_quellezielermittlung.md)
-
-[Выбрать кабель](eplan/cablegui_h_kabelauswahlautomatisch.md)
-
-[Присвоить кабельные соединения автоматически](eplan/cablegui_h_kabelauflegen.md)
+* [Кабели](eplan/cablegui_k_start.md)
+* [Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
+* [Действие экранирования](eplan/cablegui_k_verhaltenabschirmungen.md)
+* [Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
+* [Определение источника и цели](eplan/cablegui_k_quellezielermittlung.md)
+* [Выбрать кабель](eplan/cablegui_h_kabelauswahlautomatisch.md)
+* [Присвоить кабельные соединения автоматически](eplan/cablegui_h_kabelauflegen.md)

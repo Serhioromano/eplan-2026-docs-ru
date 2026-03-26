@@ -37,8 +37,7 @@
 
 Если флажок не установлен, обработка ограничивается только определенной областью.
 
-См. также
+**См. также:**
 
-[Разделение проектов на области обработки](eplan/workingsection_h_bereichedefinieren.md)
-
-[Области обработки определить как администратора проекта](eplan/workingsection_h_adminbereichedefinieren.md)
+* [Разделение проектов на области обработки](eplan/workingsection_h_bereichedefinieren.md)
+* [Области обработки определить как администратора проекта](eplan/workingsection_h_adminbereichedefinieren.md)

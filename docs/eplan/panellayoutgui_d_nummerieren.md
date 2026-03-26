@@ -36,6 +36,7 @@
 Установите этот флажок, если идентичные устройства должны иметь одинаковые позиции легенды. Это особенно важно при работе по ГОСТу.  
 Если этот флажок не установлен, то позиции легенды назначаются независимо от устройств.
 
-См. также
+**См. также:**
 
-[Диалоговое окно ](eplan/panellayoutgui_d_legendenposbearbeiten.md)[Обработать позицию легенды](eplan/panellayoutgui_d_legendenposbearbeiten.md)
+* [Диалоговое окно ](eplan/panellayoutgui_d_legendenposbearbeiten.md)
+* [Обработать позицию легенды](eplan/panellayoutgui_d_legendenposbearbeiten.md)

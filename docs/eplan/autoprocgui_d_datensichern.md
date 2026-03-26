@@ -27,12 +27,9 @@
 
 С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](eplan/modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
-
-[Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
-
-[Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
+* [Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
+* [Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)

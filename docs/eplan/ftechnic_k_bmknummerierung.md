@@ -10,10 +10,8 @@
 
 При выборе ОУ из обозначенных согласно ISO 1219-2 устройств Fluid можно программно выбрать следующий свободный номер логической ячейки или функционального элемента в видимом обозначении устройства.
 
-См. также
+**См. также:**
 
-[Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
-
-[Пронумеровать ОУ Fluid-техники (ISO 1219-2) в режиме online](eplan/ftechnic_h_fluidbetriebsmittel_online_nummerieren.md)
-
-[Выбрать ОУ Fluid-техники (ISO 1219-2)](eplan/ftechnic_h_bmk_auswaehlen.md)
+* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
+* [Пронумеровать ОУ Fluid-техники (ISO 1219-2) в режиме online](eplan/ftechnic_h_fluidbetriebsmittel_online_nummerieren.md)
+* [Выбрать ОУ Fluid-техники (ISO 1219-2)](eplan/ftechnic_h_bmk_auswaehlen.md)

@@ -34,10 +34,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставить кривые](eplan/routinggui_h_kurveeinfuegen.md)
-
-[Вставка новой опорной точки на кривой](eplan/routinggui_h_kurveneuerstuetzpunkt.md)
-
-[Изменить направление кривой](eplan/routinggui_h_kurvenverlaufaendern.md)
+* [Вставить кривые](eplan/routinggui_h_kurveeinfuegen.md)
+* [Вставка новой опорной точки на кривой](eplan/routinggui_h_kurveneuerstuetzpunkt.md)
+* [Изменить направление кривой](eplan/routinggui_h_kurvenverlaufaendern.md)

@@ -102,18 +102,12 @@
 Считать текущие значения |  Только если выделен набор значений: считывает текущие значения (из вкладки Присвоение) в выбранном наборе значений.  
 Присвоить набор значений |  Только если выделен набор значений: присваивает текущий набор значений. Объекты схемы соединений, свойствам которых во вкладке Присвоение присвоена переменная, содержат соответствующие значения.  
   
-См. также
+**См. также:**
 
-[Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
-
-[Присвоить набор значений объекту-заполнителю](eplan/macrosgui_h_wertesatzzuweisen.md)
-
-[Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
-
-[Объекты-заполнители в 3D-макросах](cabinetgui_k_3dmakros.htm#Platzhalterobjekte3DMakros)
-
-[Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-
-[Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
-
-[Вкладка Настройки (объект-заполнитель)](eplan/macrosgui_r_platzhaltereinstellungen.md)
+* [Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
+* [Присвоить набор значений объекту-заполнителю](eplan/macrosgui_h_wertesatzzuweisen.md)
+* [Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
+* [Объекты-заполнители в 3D-макросах](cabinetgui_k_3dmakros.htm#Platzhalterobjekte3DMakros)
+* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
+* [Вкладка Настройки (объект-заполнитель)](eplan/macrosgui_r_platzhaltereinstellungen.md)

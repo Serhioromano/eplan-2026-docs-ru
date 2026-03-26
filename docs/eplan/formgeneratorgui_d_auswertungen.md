@@ -57,12 +57,9 @@
 Изделие |  Открывает диалоговое окно Настройки: Изделие. Позволяет задать настройки для изделий в навигаторе спецификаций и в отчетах "Спецификация изделий", "Групповая спецификация изделий", "Список обозначений устройств" и "Легенда электрошкафа".  
 Отображение / вывод |  Открывает диалоговое окно Настройки: Отображение / вывод. Обеспечивает ограничение отображения и вывода данных проекта в отчетах.  
   
-См. также
+**См. также:**
 
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)

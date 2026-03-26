@@ -28,10 +28,8 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
-
-[Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+* [Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)

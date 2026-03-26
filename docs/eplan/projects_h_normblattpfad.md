@@ -44,10 +44,8 @@
 В диалоговом окне Настройки: Специфические для ПЛК можно задать специфические для ПЛК настройки нумерации.
 4. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Редактор форм и рамок](eplan/formeditorgui_k_start.md)
-
-[Автоматическая адресация выводов устройства ПЛК](eplan/plcgui_h_automatisch_adressieren.md)
-
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Редактор форм и рамок](eplan/formeditorgui_k_start.md)
+* [Автоматическая адресация выводов устройства ПЛК](eplan/plcgui_h_automatisch_adressieren.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)

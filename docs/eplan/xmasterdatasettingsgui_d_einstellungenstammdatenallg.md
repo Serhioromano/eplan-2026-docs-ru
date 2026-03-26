@@ -53,14 +53,10 @@
 
 На основании заданной настройки сгенерированные автоматически макросы схемы соединений при вставке можно отфильтровывать посредством центра вставки в другом проекте.
 
-См. также
+**См. также:**
 
-[Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)
-
-[Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
-
-[Диалоговое окно Настройки: Вывод в страницах](eplan/formgeneratorgui_d_einstellgrafikausgabe.md)
-
-[Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](eplan/articlesgui_r_eigenschaften.md#DatenArtikel)
-
-[Центр вставки](eplan/insertergui_k_start.md)
+* [Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)
+* [Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+* [Диалоговое окно Настройки: Вывод в страницах](eplan/formgeneratorgui_d_einstellgrafikausgabe.md)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](eplan/articlesgui_r_eigenschaften.md#DatenArtikel)
+* [Центр вставки](eplan/insertergui_k_start.md)

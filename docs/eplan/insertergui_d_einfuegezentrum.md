@@ -177,14 +177,10 @@
 Открыть гиперссылку |  Доступно только для устройств. Дает возможность открыть внешние документы или графический файл, если они были присвоены соответствующему изделию в управлении изделиями.  
 Присвоить |  Доступно только для устройств. Позволяет назначить выделенному изделию определенную функцию на схеме соединений.  
   
-См. также
+**См. также:**
 
-[Центр вставки](eplan/insertergui_k_start.md)
-
-[Вставка объектов через центр вставки](eplan/insertergui_h_objekteeinfuegen.md)
-
-[Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
-
-[Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
-
-[Поиск объектов в центре вставки](eplan/insertergui_h_suchen.md)
+* [Центр вставки](eplan/insertergui_k_start.md)
+* [Вставка объектов через центр вставки](eplan/insertergui_h_objekteeinfuegen.md)
+* [Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
+* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
+* [Поиск объектов в центре вставки](eplan/insertergui_h_suchen.md)

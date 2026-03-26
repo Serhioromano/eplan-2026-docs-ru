@@ -8,12 +8,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
-
-[Генерировать легенды электрошкафа](eplan/panellayoutgui_h_legendenanlegen.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
+* [Генерировать легенды электрошкафа](eplan/panellayoutgui_h_legendenanlegen.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)

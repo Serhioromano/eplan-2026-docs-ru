@@ -49,8 +49,7 @@
 
 Щелкните на эту иконку в панели инструментов выше таблицы, чтобы удалить неиспользуемую библиотеку символов из проекта. Eplan проверяет, используются ли символы этой библиотеки символов в проекте и вставляет в этом случае соответствующее примечание.
 
-См. также
+**См. также:**
 
-[Обработать библиотеки символов](eplan/symboleditorgui_h_symbolbibliothekenbearbeiten.md)
-
-[Диалоговое окно Настройки: Общие (проекты, управление)](eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
+* [Обработать библиотеки символов](eplan/symboleditorgui_h_symbolbibliothekenbearbeiten.md)
+* [Диалоговое окно Настройки: Общие (проекты, управление)](eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)

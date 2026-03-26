@@ -47,16 +47,11 @@
 
 Удаляет после запроса все назначенные пользователем комбинации клавиш. После этого будут присвоены стандартные сочетания.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настроить](eplan/fp_d_anpassen.md)
-
-[Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
-
-[Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
-
-[Диалоговое окно Экспортировать настройки](eplan/settingsmastergui_d_einstellexport.md)
-
-[Диалоговое окно Экспортировать настройки (расшир.)](eplan/settingsmastergui_d_einstellerweitert.md)
-
-[Диалоговое окно Импортировать настройки](eplan/settingsmastergui_d_einstellimport.md)
+* [Диалоговое окно Настроить](eplan/fp_d_anpassen.md)
+* [Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
+* [Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
+* [Диалоговое окно Экспортировать настройки](eplan/settingsmastergui_d_einstellexport.md)
+* [Диалоговое окно Экспортировать настройки (расшир.)](eplan/settingsmastergui_d_einstellerweitert.md)
+* [Диалоговое окно Импортировать настройки](eplan/settingsmastergui_d_einstellimport.md)

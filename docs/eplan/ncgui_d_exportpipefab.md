@@ -22,8 +22,7 @@
 
 При экспорте изгибания труб образуются несколько файлов. Поле отключено и действуют условия генерирования имен файлов, определенные в схеме.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Экспорт изгибания труб](eplan/ncgui_d_einstellungenrohrbiegung.md)
-
-[Экспортировать трубопровод](eplan/piping_h_rohrleitungexportieren.md)
+* [Диалоговое окно Настройки: Экспорт изгибания труб](eplan/ncgui_d_einstellungenrohrbiegung.md)
+* [Экспортировать трубопровод](eplan/piping_h_rohrleitungexportieren.md)

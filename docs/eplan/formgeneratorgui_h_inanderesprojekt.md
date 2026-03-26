@@ -52,12 +52,9 @@
   
 Проект будет удален из столбца Значение свойства Исходный проект для всех шаблонов выбранного уровня структуры дерева.
 
-См. также
+**См. также:**
 
-[Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-
-[Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)

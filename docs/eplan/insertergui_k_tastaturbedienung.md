@@ -28,12 +28,9 @@
 [T] |  Присваивает тег объекту в выделенной плитке предварительного просмотра.  
 [V] |  Отображает варианты выделенного объекта.  
   
-См. также
+**См. также:**
 
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Вставка объектов через центр вставки](eplan/insertergui_h_objekteeinfuegen.md)
-
-[Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
-
-[Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Вставка объектов через центр вставки](eplan/insertergui_h_objekteeinfuegen.md)
+* [Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
+* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)

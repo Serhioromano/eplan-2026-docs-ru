@@ -38,8 +38,7 @@
 Предварительное планирование: План объекта планирования |  |  | x |   
 Предварительное планирование: План сегмента структуры |  |  | x |   
   
-См. также
+**См. также:**
 
-[Редактор форм и рамок](eplan/formeditorgui_k_start.md)
-
-[Диалоговое окно Точка вставки следующей формы](eplan/formeditorgui_d_folgeformulareinfuegepunkt.md)
+* [Редактор форм и рамок](eplan/formeditorgui_k_start.md)
+* [Диалоговое окно Точка вставки следующей формы](eplan/formeditorgui_d_folgeformulareinfuegepunkt.md)

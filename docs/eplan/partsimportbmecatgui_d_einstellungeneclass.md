@@ -18,6 +18,6 @@
 
 [Вкладка Настройки ](eplan/partsimportbmecatgui_r_Eigenschaften.md)
 
-См. также
+**См. также:**
 
-[База данных изделий: Импорт данных изделий по стандарту ECLASS](eplan/partsimportbmecatgui_k_start.md)
+* [База данных изделий: Импорт данных изделий по стандарту ECLASS](eplan/partsimportbmecatgui_k_start.md)

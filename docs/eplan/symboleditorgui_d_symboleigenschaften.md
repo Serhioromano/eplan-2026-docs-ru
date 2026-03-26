@@ -41,6 +41,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)
+* [Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)

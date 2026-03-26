@@ -36,14 +36,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)
-
-[Определить строение клеммников](eplan/terminalgui_h_funktionsschabloneerzeugen.md)
-
-[Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-
-[Диалоговое окно Клеммники <Имя проекта>](eplan/terminalgui_d_klemmennavigator.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)
+* [Определить строение клеммников](eplan/terminalgui_h_funktionsschabloneerzeugen.md)
+* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Диалоговое окно Клеммники <Имя проекта>](eplan/terminalgui_d_klemmennavigator.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)

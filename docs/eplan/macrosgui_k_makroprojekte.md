@@ -42,14 +42,10 @@
 
 Если эта настройка проекта отключена, макросы вставляются в проект макросов без изменений — в том виде, в котором они присутствуют в файле. Это предоставляет пользователю возможность применять уже имеющиеся макросы для своего собственного проекта макросов и выполнять их дальнейшую обработку.
 
-См. также
+**См. также:**
 
-[Макросы](eplan/macrosgui_k_start.md)
-
-[Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
-
-[Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
-
-[Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
-
-[Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
+* [Макросы](eplan/macrosgui_k_start.md)
+* [Рамки макросов: принцип](eplan/macrosgui_k_makrokaesten.md)
+* [Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
+* [Создать проекты макросов](eplan/macrosgui_h_makroprojekteerstellen.md)
+* [Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)

@@ -54,10 +54,8 @@
 * [Подавить генерирование легенды электрошкафа](eplan/properties_o_main.md#20441)
 * [Обзор модели: Фиксированный](eplan/properties_o_main.md#36502)
 
-См. также
+**См. также:**
 
-[2D-отображение отверстий: принцип](ncgui_k_2dbohransicht.htm)
-
-[Вставить 2D-отображение отверстий](ncgui_h_2dbohransichterstellen.htm)
-
-[Диалоговое окно Отображения отверстий — <Имя проекта>](gededit3dgui_d_2dbohransichten.htm)
+* [2D-отображение отверстий: принцип](ncgui_k_2dbohransicht.htm)
+* [Вставить 2D-отображение отверстий](ncgui_h_2dbohransichterstellen.htm)
+* [Диалоговое окно Отображения отверстий — <Имя проекта>](gededit3dgui_d_2dbohransichten.htm)

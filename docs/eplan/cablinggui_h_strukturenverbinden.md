@@ -62,12 +62,9 @@
   
 Функции топологии соединятся по порядку с соответствующей точкой маршрутизации структурного идентификатора.
 
-См. также
+**См. также:**
 
-[Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
-
-[Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
-
-[Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
-
-[Вкладка Подключенные структуры](eplan/devicetaggui_r_cablingstrukturen.md)
+* [Сети соединенных сегментов (топология): принцип](eplan/cablinggui_k_prinzip.md)
+* [Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
+* [Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
+* [Вкладка Подключенные структуры](eplan/devicetaggui_r_cablingstrukturen.md)

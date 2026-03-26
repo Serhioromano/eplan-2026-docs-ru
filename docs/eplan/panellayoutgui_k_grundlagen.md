@@ -39,8 +39,7 @@
 
 На вкладке Список данные отображаются в неиерархическом порядке, а объем отображаемых данных можно задать с помощью пункта всплывающего меню Конфигурировать представление.
 
-См. также
+**См. также:**
 
-[Компоновка электрошкафа 2D](eplan/panellayoutgui_k_start.md)
-
-[Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
+* [Компоновка электрошкафа 2D](eplan/panellayoutgui_k_start.md)
+* [Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)

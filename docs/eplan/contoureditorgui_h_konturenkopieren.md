@@ -73,6 +73,6 @@
   
 Копия контура зеркально отображается на указанной оси.
 
-См. также
+**См. также:**
 
-[Редактор контура](eplan/contoureditorgui_k_start.md)
+* [Редактор контура](eplan/contoureditorgui_k_start.md)

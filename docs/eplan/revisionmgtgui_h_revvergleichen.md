@@ -45,10 +45,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
-
-[Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
-
-[Альтернативная идентификация](eplan/revisionmgtgui_k_alternativeidentifizierung.md)
+* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
+* [Альтернативная идентификация](eplan/revisionmgtgui_k_alternativeidentifizierung.md)

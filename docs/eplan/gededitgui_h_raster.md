@@ -35,8 +35,7 @@
   
 Выбранные объекты выравниваются заново (т. е. перемещаются) таким образом, чтобы все их важные точки (например, начальная точка линии, конечная точка дуги и т. д.) находились на сетке.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)

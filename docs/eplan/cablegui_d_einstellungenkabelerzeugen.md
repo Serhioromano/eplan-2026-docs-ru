@@ -49,8 +49,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
-
-[Диалоговое окно Автоматически генерировать кабели](eplan/cablegui_d_kabelerzeugen.md)
+* [Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
+* [Диалоговое окно Автоматически генерировать кабели](eplan/cablegui_d_kabelerzeugen.md)

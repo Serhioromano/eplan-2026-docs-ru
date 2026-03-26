@@ -32,8 +32,7 @@
 
 Введите здесь описывающий текст для фрагмента. Под описанием понимается многоязычный текст, отображаемый по умолчанию в представлении структуры дерева рядом с именем (отделяется пробелом и заключается в круглые скобки).
 
-См. также
+**См. также:**
 
-[Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
-
-[Обработка фрагментов](eplan/projectoptionsgui_h_ausschnittebearbeiten.md)
+* [Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
+* [Обработка фрагментов](eplan/projectoptionsgui_h_ausschnittebearbeiten.md)

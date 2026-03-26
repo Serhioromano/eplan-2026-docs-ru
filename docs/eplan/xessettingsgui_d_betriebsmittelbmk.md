@@ -61,8 +61,7 @@ Fluid-техника: Скрыть буквенное обозначение (к
 
 Если флажок снят, ключ среды отображается как в диалоговом окне "Свойства", так и на странице схемы соединений.
 
-См. также
+**См. также:**
 
-[Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
-
-[Обозначение устройств](eplan/devicetaggui_k_aufbauvonbm.md)
+* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
+* [Обозначение устройств](eplan/devicetaggui_k_aufbauvonbm.md)

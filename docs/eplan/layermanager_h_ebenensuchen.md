@@ -21,12 +21,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление слоями](eplan/layermanager_k_start.md)
-
-[Слои: Принцип](eplan/layermanager_k_prinzip.md)
-
-[Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
-
-[Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Управление слоями](eplan/layermanager_k_start.md)
+* [Слои: Принцип](eplan/layermanager_k_prinzip.md)
+* [Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)

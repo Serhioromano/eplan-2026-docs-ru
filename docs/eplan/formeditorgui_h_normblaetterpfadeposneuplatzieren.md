@@ -18,6 +18,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставить и обработать специальные тексты](eplan/formeditorgui_h_sondertexteeinfuegen.md)
+* [Вставить и обработать специальные тексты](eplan/formeditorgui_h_sondertexteeinfuegen.md)

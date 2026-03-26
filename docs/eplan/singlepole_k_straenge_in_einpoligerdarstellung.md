@@ -57,12 +57,9 @@ Eplan проверяет наличие парных обозначений вы
 
  
 
-См. также
+**См. также:**
 
-[Начертить схему соединений в однополюсном представлении](eplan/singlepole_h_stromlaufplaenezeichnen.md)
-
-[Точки разрыва](eplan/interruptionpointgui_k_start.md)
-
-[Кабель](eplan/cablegui_k_start.md)
-
-[Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
+* [Начертить схему соединений в однополюсном представлении](eplan/singlepole_h_stromlaufplaenezeichnen.md)
+* [Точки разрыва](eplan/interruptionpointgui_k_start.md)
+* [Кабель](eplan/cablegui_k_start.md)
+* [Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)

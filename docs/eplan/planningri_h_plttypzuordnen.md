@@ -21,8 +21,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Технологические контуры / функции ТК на функциональной схеме автоматизации](eplan/planningri_k_risymbole.md)
-
-[Разместить технологический контур / функцию ТК](eplan/planningri_h_pltobjektplatzieren.md)
+* [Технологические контуры / функции ТК на функциональной схеме автоматизации](eplan/planningri_k_risymbole.md)
+* [Разместить технологический контур / функцию ТК](eplan/planningri_h_pltobjektplatzieren.md)

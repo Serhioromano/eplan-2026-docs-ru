@@ -122,10 +122,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Функциональные тексты зон](eplan/gededitgui_k_pfadtextstart.md)
-
-[Функциональные тексты зон: Принцип](eplan/gededitgui_k_pfadtextprinzip.md)
-
-[Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)
+* [Функциональные тексты зон](eplan/gededitgui_k_pfadtextstart.md)
+* [Функциональные тексты зон: Принцип](eplan/gededitgui_k_pfadtextprinzip.md)
+* [Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)

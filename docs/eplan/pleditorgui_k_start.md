@@ -4,18 +4,12 @@
 
 Структурные идентификаторы, специфические для Eplan, могут использоваться как для идентификации, так и для описания. Они позволяют структурировать проект по просмотру продукта, установки, места и т.д. Кроме того, можно конфигурировать страницы пользователя, ОУ и т.д. с помощью структурных идентификаторов по собственным требованиям. Структурный идентификатор может состоять как из отдельного блока идентификаторов, так и из нескольких блоков.
 
-См. также
+**См. также:**
 
-[Блоки идентификаторов для страниц и устройств](eplan/pleditorgui_k_grundlagen.md)
-
-[Создать идентификаторы](eplan/pleditorgui_h_kennzanlegen.md)
-
-[Создать идентификаторы при вставке новых страниц, ОУ и макросов](eplan/pleditorgui_h_kennzanlegenbeineuerseite.md)
-
-[Обработать идентификаторы](eplan/pleditorgui_h_kennzbearbeiten.md)
-
-[Поиск и замена идентификаторов](eplan/pleditorgui_h_kennzsuchen.md)
-
-[Проверить идентификаторы](eplan/pleditorgui_h_kennzpruefen.md)
-
-[Удалить идентификаторы](eplan/pleditorgui_h_kennzloeschen.md)
+* [Блоки идентификаторов для страниц и устройств](eplan/pleditorgui_k_grundlagen.md)
+* [Создать идентификаторы](eplan/pleditorgui_h_kennzanlegen.md)
+* [Создать идентификаторы при вставке новых страниц, ОУ и макросов](eplan/pleditorgui_h_kennzanlegenbeineuerseite.md)
+* [Обработать идентификаторы](eplan/pleditorgui_h_kennzbearbeiten.md)
+* [Поиск и замена идентификаторов](eplan/pleditorgui_h_kennzsuchen.md)
+* [Проверить идентификаторы](eplan/pleditorgui_h_kennzpruefen.md)
+* [Удалить идентификаторы](eplan/pleditorgui_h_kennzloeschen.md)

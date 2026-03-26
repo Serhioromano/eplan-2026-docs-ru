@@ -31,8 +31,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
-
-[Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
+* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)

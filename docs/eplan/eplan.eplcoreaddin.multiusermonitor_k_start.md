@@ -4,14 +4,10 @@
 
 В случае задержек при обработке проекта многопользовательский монитор будет информировать вас о том, вызваны ли проблемы использованием многопользовательского режима.
 
-См. также
+**См. также:**
 
-[Многопользовательский монитор: Принцип](eplan/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md)
-
-[Многопользовательский монитор: Способ действий](eplan/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md)
-
-[Диалоговое окно Многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_monitor.md)
-
-[Диалоговое окно Настройки: многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
-
-[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
+* [Многопользовательский монитор: Принцип](eplan/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md)
+* [Многопользовательский монитор: Способ действий](eplan/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md)
+* [Диалоговое окно Многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_monitor.md)
+* [Диалоговое окно Настройки: многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
+* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)

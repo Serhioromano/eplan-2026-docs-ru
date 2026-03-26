@@ -57,6 +57,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Определение источника и цели](eplan/cablegui_k_quellezielermittlung.md)
+* [Определение источника и цели](eplan/cablegui_k_quellezielermittlung.md)

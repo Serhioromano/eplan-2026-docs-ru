@@ -31,12 +31,9 @@
 
 В прилагаемые формы для обзоров групп изделий помещается текст-заполнитель для макросов, который при генерации отчета заменяется графикой макроса, сохраненного в базе данных изделий.
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
-
-[Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
-
-[Вывести монтажные чертежи для объектов планирования](eplan/planninggui_h_montageanordnungenausgeben.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
+* [Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
+* [Вывести монтажные чертежи для объектов планирования](eplan/planninggui_h_montageanordnungenausgeben.md)

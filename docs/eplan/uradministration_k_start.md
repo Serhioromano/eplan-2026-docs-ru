@@ -11,14 +11,10 @@
 
 При работе в сети действующие в корпоративной локальной сети права доступа всегда имеют приоритет перед внутренними правами для работы в Eplan. Так, например, пользователь с правами "Только чтение" не сможет изменить основные данные изделия, хранящиеся на сервере базы данных изделий, даже если у него есть такие права в Eplan.
 
-См. также
+**См. также:**
 
-[Управление правами: Принцип работы](eplan/uradministration_k_prinzip.md)
-
-[Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)
-
-[Управление пользователями](eplan/uradministration_h_benutzer.md)
-
-[Управление группами пользователей](eplan/uradministration_h_gruppen.md)
-
-[Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
+* [Управление правами: Принцип работы](eplan/uradministration_k_prinzip.md)
+* [Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)
+* [Управление пользователями](eplan/uradministration_h_benutzer.md)
+* [Управление группами пользователей](eplan/uradministration_h_gruppen.md)
+* [Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)

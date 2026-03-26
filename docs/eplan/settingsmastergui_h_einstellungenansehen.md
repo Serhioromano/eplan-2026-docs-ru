@@ -17,6 +17,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
+* [Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)

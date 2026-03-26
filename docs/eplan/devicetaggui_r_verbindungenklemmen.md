@@ -53,10 +53,8 @@
 
 В данных полях вы можете задать тип потенциала для вывода устройства согласно присвоению кабельных соединений. На выбор есть следующие типы потенциалов: -, +, L, M, N, неопределенный, PE, PEN и SH. Как предварительно установленные отображаются значения из диалогового окна Логическая схема выводов устройства.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
-
-[Вкладка Клемма](eplan/devicetaggui_r_klemmen.md)
-
-[Диалоговое окно Обработать клеммник](eplan/stripmanagementgui_d_klemmenleistebearbeiten.md)
+* [Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
+* [Вкладка Клемма](eplan/devicetaggui_r_klemmen.md)
+* [Диалоговое окно Обработать клеммник](eplan/stripmanagementgui_d_klemmenleistebearbeiten.md)

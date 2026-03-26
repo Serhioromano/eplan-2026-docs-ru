@@ -122,16 +122,11 @@
 
  
 
-См. также
+**См. также:**
 
-[Работа с вложенными обозначениями местоположения](eplan/locationbox_h_geschachtelte.md)
-
-[Черные ящики: Основные положения для вкладывания](eplan/blackbox_k_schachteln.md)
-
-[Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-
-[Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-
-[Вкладка Наследование (Расширенные структуры проекта)](eplan/prjmanagementgui_r_vererbung.md)
-
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Работа с вложенными обозначениями местоположения](eplan/locationbox_h_geschachtelte.md)
+* [Черные ящики: Основные положения для вкладывания](eplan/blackbox_k_schachteln.md)
+* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
+* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
+* [Вкладка Наследование (Расширенные структуры проекта)](eplan/prjmanagementgui_r_vererbung.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)

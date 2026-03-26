@@ -36,8 +36,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
-
-[Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
+* [Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
+* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)

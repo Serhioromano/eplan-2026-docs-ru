@@ -26,6 +26,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)
+* [Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)

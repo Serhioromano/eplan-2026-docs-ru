@@ -28,8 +28,7 @@
 3. Введите в поля 1 \- 10 до десяти различных описаний выводов устройства за один вывод устройства.
 4. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
-
-[Диалоговое окно Обозначения и описания выводов устройства](eplan/numerationgui_d_anschlussbezeichnungen.md)
+* [Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
+* [Диалоговое окно Обозначения и описания выводов устройства](eplan/numerationgui_d_anschlussbezeichnungen.md)

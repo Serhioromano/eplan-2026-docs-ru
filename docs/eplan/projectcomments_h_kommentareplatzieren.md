@@ -56,12 +56,9 @@
   
 Графическое представление комментария в схеме соединений удаляется. Комментарий остается неразмещенным и может быть размещен снова из навигатора комментариев.
 
-См. также
+**См. также:**
 
-[Комментарии](eplan/projectcomments_k_start.md)
-
-[Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-
-[Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
-
-[Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
+* [Комментарии](eplan/projectcomments_k_start.md)
+* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
+* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)

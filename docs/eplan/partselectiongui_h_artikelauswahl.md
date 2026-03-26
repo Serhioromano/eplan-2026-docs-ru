@@ -48,14 +48,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
-
-[Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-
-[Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
-
-[Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)
-
-[Обзор перенесенных данных изделия](eplan/partselectiongui_k_uebertragenedaten.md)
+* [Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
+* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
+* [Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)
+* [Обзор перенесенных данных изделия](eplan/partselectiongui_k_uebertragenedaten.md)

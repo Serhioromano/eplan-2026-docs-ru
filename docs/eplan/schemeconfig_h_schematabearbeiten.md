@@ -22,8 +22,7 @@
 3. Введите информативный описательный текст для копии схемы.
 4. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Схемы](eplan/schemeconfig_k_start.md)
-
-[Панель инструментов схемы](eplan/schemeconfig_m_schemaschaltflaechen.md)
+* [Схемы](eplan/schemeconfig_k_start.md)
+* [Панель инструментов схемы](eplan/schemeconfig_m_schemaschaltflaechen.md)

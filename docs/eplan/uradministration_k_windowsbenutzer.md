@@ -18,10 +18,8 @@
 
 Если группы Eplan не должны управляться в Active Directory, то отдельных пользователей системы Windows необходимо импортировать из Active Directory в управление правами Eplan. После этого присвоение пользователей системы Windows группам Eplan выполняется в управлении правами. Действия с новыми и удаленными пользователями необходимо выполнять как в Active Directory, так и в управлении правами.
 
-См. также
+**См. также:**
 
-[Управление пользователями](eplan/uradministration_h_benutzer.md)
-
-[Управление группами пользователей](eplan/uradministration_h_gruppen.md)
-
-[Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)
+* [Управление пользователями](eplan/uradministration_h_benutzer.md)
+* [Управление группами пользователей](eplan/uradministration_h_gruppen.md)
+* [Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)

@@ -42,8 +42,7 @@
 
 Когда вы запускаете Eplan из командной строки с указанием операции, ранее открытые проекты по умолчанию не открываются.  
   
-См. также
+**См. также:**
 
-[Параметры командной строки Eplan](eplan/commandlinecall_k_start.md)
-
-[Операции Eplan: Обзор](eplan/availableactions_o_eplanaktionen.md)
+* [Параметры командной строки Eplan](eplan/commandlinecall_k_start.md)
+* [Операции Eplan: Обзор](eplan/availableactions_o_eplanaktionen.md)

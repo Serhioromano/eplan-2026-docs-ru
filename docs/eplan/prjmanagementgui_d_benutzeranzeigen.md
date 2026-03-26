@@ -25,12 +25,9 @@
 
 Для обновления вида нажмите эту кнопку.
 
-См. также
+**См. также:**
 
-[Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
-
-[Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
-
-[Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
-
-[Заблокированные данные в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_datensperren.md)
+* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
+* [Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
+* [Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
+* [Заблокированные данные в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_datensperren.md)

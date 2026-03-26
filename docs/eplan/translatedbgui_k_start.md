@@ -9,8 +9,7 @@
 * Вы можете определять слова, которые не должны переводиться.
 * В качестве ключевых слов в словарь можно включать специальные символы, например символ авторского права ©.
 
-См. также
+**См. также:**
 
-[Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
-
-[Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
+* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)

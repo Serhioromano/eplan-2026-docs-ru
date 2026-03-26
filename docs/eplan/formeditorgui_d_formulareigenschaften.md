@@ -28,14 +28,10 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Диалоговое окно Присвоение "определения функции к графике"](eplan/formeditorgui_d_zuordnungfunktionsdefzugrafik.md)
-
-[Диалоговое окно Присвоение "индекса графике"](eplan/formeditorgui_d_zuordnungindexzugrafik.md)
-
-[Диалоговое окно Присвоение "свойства / значений к графике"](eplan/formeditorgui_d_zuordnungeigenschaftwertzugrafik.md)
-
-[Диалоговое окно Формат для автоматического описания страниц](eplan/formeditorgui_d_formatfuerautomatseitenbeschreibung.md)
-
-[Обработать свойства форм](eplan/formeditorgui_h_formulareigenschaftenbearbeiten.md)
+* [Диалоговое окно Присвоение "определения функции к графике"](eplan/formeditorgui_d_zuordnungfunktionsdefzugrafik.md)
+* [Диалоговое окно Присвоение "индекса графике"](eplan/formeditorgui_d_zuordnungindexzugrafik.md)
+* [Диалоговое окно Присвоение "свойства / значений к графике"](eplan/formeditorgui_d_zuordnungeigenschaftwertzugrafik.md)
+* [Диалоговое окно Формат для автоматического описания страниц](eplan/formeditorgui_d_formatfuerautomatseitenbeschreibung.md)
+* [Обработать свойства форм](eplan/formeditorgui_h_formulareigenschaftenbearbeiten.md)

@@ -35,14 +35,10 @@
 
 Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
 
-См. также
+**См. также:**
 
-[Диалоговое окно Обзор свойств — <Имя проекта>](eplan/modaldialogsdb_d_eigenschaftenuebersicht.md)
-
-[Вкладка Обзор](eplan/articlesgui_r_uebersicht.md)
-
-[Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
-
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Диалоговое окно "Конфигурировать свойства — Конфигурация" / диалоговое окно "Конфигурировать представление — Конфигурация"](eplan/modaldialogsdb_d_eigenschaftskonfigurationhauptknoten.md)
+* [Диалоговое окно Обзор свойств — <Имя проекта>](eplan/modaldialogsdb_d_eigenschaftenuebersicht.md)
+* [Вкладка Обзор](eplan/articlesgui_r_uebersicht.md)
+* [Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Диалоговое окно "Конфигурировать свойства — Конфигурация" / диалоговое окно "Конфигурировать представление — Конфигурация"](eplan/modaldialogsdb_d_eigenschaftskonfigurationhauptknoten.md)

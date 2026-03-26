@@ -16,10 +16,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: База данных управления проектами](eplan/prjmanagementgui_d_prjverwaltungsdb.md)
-
-[Диалоговое окно Настройки: Изделие (пользователь)](eplan/partselectiongui_d_datenauswahlbenutzer.md)
-
-[Диалоговое окно "Настройки: Словарь" / вкладка "Словарь"](eplan/partselectiongui_d_datenauswahlbenutzer.md)
+* [Диалоговое окно Настройки: База данных управления проектами](eplan/prjmanagementgui_d_prjverwaltungsdb.md)
+* [Диалоговое окно Настройки: Изделие (пользователь)](eplan/partselectiongui_d_datenauswahlbenutzer.md)
+* [Диалоговое окно "Настройки: Словарь" / вкладка "Словарь"](eplan/partselectiongui_d_datenauswahlbenutzer.md)

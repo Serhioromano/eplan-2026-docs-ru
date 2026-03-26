@@ -256,12 +256,9 @@
 Форма |  [Предварительное планирование: Обзор среды (*. f51)](eplan/placeholder_o_main.md#6220141)  
 Описание |  Выводит обзор всех сред и указанных для них данных.  
   
-См. также
+**См. также:**
 
-[Отчеты](eplan/formgeneratorgui_k_start.md)
-
-[Отчеты, относящиеся к функции](eplan/formgeneratorgui_k_funktionsbezogen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Отчеты, относящиеся к функции](eplan/formgeneratorgui_k_funktionsbezogen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)

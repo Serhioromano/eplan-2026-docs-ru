@@ -11,24 +11,15 @@
 * Обозначение соединения имеет свободный формат. Обозначение не ограничивается цифрами, оно может содержать буквы и определенные специальные символы.
 * Кроме представления в виде схем, обозначения соединений могут выводиться в виде списков, а также использоваться в формах. Это позволяет использовать их для устройств нанесения маркировки, печати наклеек и ярлыков, а также для таблиц соединений, используемых для монтажа.
 
-См. также
+**См. также:**
 
-[Нумерация соединений: Принцип](eplan/wirenumberinggui_k_prinzip.md)
-
-[Размещение точек определения соединений](eplan/wirenumberinggui_k_platzierungvdp.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
-
-[Создать группы форматов](eplan/wirenumberinggui_h_formatgruppenerstellen.md)
-
-[Обработать группы форматов](eplan/wirenumberinggui_h_formatgruppenbearbeiten.md)
-
-[Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
-
-[Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
-
-[Обозначить соединения](eplan/wirenumberinggui_h_verbnumbezeichnen.md)
-
-[Заново выровнять и отформат. обозначения соединений](eplan/wirenumberinggui_h_verbnumausrichtenformatieren.md)
-
-[Удалить обозначения соединений](eplan/wirenumberinggui_h_verbindloeschen.md)
+* [Нумерация соединений: Принцип](eplan/wirenumberinggui_k_prinzip.md)
+* [Размещение точек определения соединений](eplan/wirenumberinggui_k_platzierungvdp.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Создать группы форматов](eplan/wirenumberinggui_h_formatgruppenerstellen.md)
+* [Обработать группы форматов](eplan/wirenumberinggui_h_formatgruppenbearbeiten.md)
+* [Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
+* [Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
+* [Обозначить соединения](eplan/wirenumberinggui_h_verbnumbezeichnen.md)
+* [Заново выровнять и отформат. обозначения соединений](eplan/wirenumberinggui_h_verbnumausrichtenformatieren.md)
+* [Удалить обозначения соединений](eplan/wirenumberinggui_h_verbindloeschen.md)

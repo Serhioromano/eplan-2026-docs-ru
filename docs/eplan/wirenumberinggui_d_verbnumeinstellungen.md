@@ -22,8 +22,7 @@
 * [Вкладка Обозначение](eplan/wirenumberinggui_r_bezeichnung.md)
 * [Вкладка Отображение](eplan/wirenumberinggui_r_anzeige.md).
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)

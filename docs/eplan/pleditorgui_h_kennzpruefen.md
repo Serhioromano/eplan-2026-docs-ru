@@ -39,6 +39,6 @@
   
 Если найден недопустимый символ, открывается диалоговое окно Синтакс. проверка ОУ, в котором выделен соответствующий символ.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)

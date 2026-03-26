@@ -37,8 +37,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Свойства символа - <Имя библиотеки>](eplan/symboleditorgui_d_symboleigenschaften.md)
-
-[Диалоговое окно Выбор символа](eplan/xsbgui_d_symbolauswahl.md)
+* [Диалоговое окно Свойства символа - <Имя библиотеки>](eplan/symboleditorgui_d_symboleigenschaften.md)
+* [Диалоговое окно Выбор символа](eplan/xsbgui_d_symbolauswahl.md)

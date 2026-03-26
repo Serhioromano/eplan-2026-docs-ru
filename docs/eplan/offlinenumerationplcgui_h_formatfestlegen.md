@@ -25,14 +25,10 @@
   
 Введенные значения сохраняются в выбранной схеме.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
-
-[Свойства для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_k_eigenschaften.md)
-
-[Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
-
-[Продолжить нумерацию после функции](eplan/offlinenumerationplcgui_h_einstellungen.md)
-
-[Исключить выводы устройства ПЛК из нумерации](eplan/offlinenumerationplcgui_h_ausschliessen.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
+* [Свойства для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_k_eigenschaften.md)
+* [Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
+* [Продолжить нумерацию после функции](eplan/offlinenumerationplcgui_h_einstellungen.md)
+* [Исключить выводы устройства ПЛК из нумерации](eplan/offlinenumerationplcgui_h_ausschliessen.md)

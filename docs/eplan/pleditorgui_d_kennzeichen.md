@@ -95,6 +95,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
+* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)

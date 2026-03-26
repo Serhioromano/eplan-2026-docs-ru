@@ -34,6 +34,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Характеристика кабелей](eplan/cablegui_k_prinzip.md)
+* [Характеристика кабелей](eplan/cablegui_k_prinzip.md)

@@ -35,12 +35,9 @@
 
 Эта функциональность доступна только для [отчетов, относящихся к функции](eplan/formgeneratorgui_k_funktionsbezogen.md). Если этот флажок установлен, то перед генерацией отчета открывается диалоговое окно Выбрать вручную. В этом диалоговом окне вы можете отдельно выбирать устройства для отчета.
 
-См. также
+**См. также:**
 
-[Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
-
-[Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-
-[Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-
-[Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
+* [Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
+* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)

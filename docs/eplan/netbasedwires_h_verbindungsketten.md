@@ -34,8 +34,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)
-
-[Изменить последовательность целей сетевых соединений](eplan/netbasedwires_h_zielreihenfolgeaendern.md)
+* [Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)
+* [Изменить последовательность целей сетевых соединений](eplan/netbasedwires_h_zielreihenfolgeaendern.md)

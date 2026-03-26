@@ -38,12 +38,9 @@
 16. Например, чтобы задать формат ОУ для обозначений выводов клемм, щелкните у поля Клеммы [...], укажите в диалоговом окне Формат ОУ элементы формата и нажмите [OK]. 
 17. Щелкните по кнопке  (Сохранить) и по [OK].
 
-См. также
+**См. также:**
 
-[Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
-
-[Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-
-[Исключить группы устройств из автоматической нумерации](eplan/numerationgui_h_einstellungentreffen.md)
-
-[Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)
+* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
+* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
+* [Исключить группы устройств из автоматической нумерации](eplan/numerationgui_h_einstellungentreffen.md)
+* [Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)

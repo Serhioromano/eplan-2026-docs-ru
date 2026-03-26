@@ -35,18 +35,12 @@
 * Маршрутизация соединений  
 При маршрутизации существующие маршрутизируемые соединения маршрутизируются в сети соединенных сегментов. Трасса маршрутизации и длина соединения вычисляются автоматически для маршрутизируемых соединений.
 
-См. также
+**См. также:**
 
-[Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
-
-[Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
-
-[Вставка функций топологии](eplan/cablinggui_k_funktioneneinfuegen.md)
-
-[Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
-
-[Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
-
-[Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)
-
-[Сгенерировать неразмещенные соединения](eplan/planningconnections_h_createconnections.md)
+* [Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
+* [Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
+* [Вставка функций топологии](eplan/cablinggui_k_funktioneneinfuegen.md)
+* [Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
+* [Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
+* [Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)
+* [Сгенерировать неразмещенные соединения](eplan/planningconnections_h_createconnections.md)

@@ -68,12 +68,9 @@
 
 Переход от страниц отчетов в графическом редакторе также возможен, если данные взяты из другого проекта. Если проект схемы соединений (исходный проект) еще не открыт, то будет отправлено сообщение, предлагающее открыть проект. После подтверждения сообщения нажатием [Да] проект схемы соединений автоматически открывается и переходит к перекрестному объекту.
 
-См. также
+**См. также:**
 
-[Записи в списках результатов](eplan/searchandreplacegui_k_eintraegeergebnisliste.md)
-
-[Найти и заменить](eplan/searchandreplacegui_k_start.md)
-
-[Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-
-[Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Записи в списках результатов](eplan/searchandreplacegui_k_eintraegeergebnisliste.md)
+* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)

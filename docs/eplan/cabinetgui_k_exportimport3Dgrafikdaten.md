@@ -51,12 +51,9 @@ JT
 
  
 
-См. также
+**См. также:**
 
-[Экспортировать трехмерные графические данные](eplan/cabinetgui_h_exportierenstep.md)
-
-[Импортировать графические 3D-данные](cabinetgui_h_3dgrafikimportieren.htm)
-
-[Диалоговое окно "Экспорт STEP" / диалоговое окно "Экспорт VRML" / диалоговое окно "Экспорт IFC" / диалоговое окно "Экспорт JT"](gededit3dgui_d_stepexport.htm)
-
-[Диалоговое окно "Настройки: Экспорт STEP" / диалоговое окно "Настройки: Экспорт VRML" / диалоговое окно "Настройки: Экспорт IFC" / диалоговое окно "Настройки: Экспорт JT"](gededit3dgui_d_einstellungenstepexport.htm)
+* [Экспортировать трехмерные графические данные](eplan/cabinetgui_h_exportierenstep.md)
+* [Импортировать графические 3D-данные](cabinetgui_h_3dgrafikimportieren.htm)
+* [Диалоговое окно "Экспорт STEP" / диалоговое окно "Экспорт VRML" / диалоговое окно "Экспорт IFC" / диалоговое окно "Экспорт JT"](gededit3dgui_d_stepexport.htm)
+* [Диалоговое окно "Настройки: Экспорт STEP" / диалоговое окно "Настройки: Экспорт VRML" / диалоговое окно "Настройки: Экспорт IFC" / диалоговое окно "Настройки: Экспорт JT"](gededit3dgui_d_einstellungenstepexport.htm)

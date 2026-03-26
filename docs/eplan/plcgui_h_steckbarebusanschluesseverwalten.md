@@ -17,8 +17,7 @@
 8. Щелкните по кнопке [OK].
 9. Повторите эти шаги для всех других устройств верхнего уровня.
 
-См. также
+**См. также:**
 
-[Обмен данными ПЛК в формате AutomationML AR APC](eplan/plcgui_k_amlbusdatenaustausch.md)
-
-[Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
+* [Обмен данными ПЛК в формате AutomationML AR APC](eplan/plcgui_k_amlbusdatenaustausch.md)
+* [Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)

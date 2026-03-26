@@ -71,16 +71,11 @@
 
 Правильность применения метода использования рамок макросов в проектах можно проверить с помощью сообщения контрольного прогона 014006 из класса сообщений 014 "Макросы".
 
-См. также
+**См. также:**
 
-[Макросы](eplan/macrosgui_k_start.md)
-
-[Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
-
-[Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
-
-[Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
-
-[Диалоговое окно Макросы — <Имя проекта>](eplan/macrosgui_d_makronavigator.md)
-
-[Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)
+* [Макросы](eplan/macrosgui_k_start.md)
+* [Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
+* [Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
+* [Автоматически генерировать макрос из проекта макросов](eplan/macrosgui_h_makrosausmakroprojekt.md)
+* [Диалоговое окно Макросы — <Имя проекта>](eplan/macrosgui_d_makronavigator.md)
+* [Вкладка Рамка макроса](eplan/macrosgui_r_makrokasten.md)

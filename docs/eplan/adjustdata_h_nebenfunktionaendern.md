@@ -29,10 +29,8 @@
   
 Выделенная клемма становится главной, данные изделия копируются на новую главную клемму и удаляются на исходной клемме.
 
-См. также
+**См. также:**
 
-[Преобразовать излишние главные функции](eplan/adjustdata_h_funktionkorrigieren.md)
-
-[Синхронизировать распределенно представленные функции](eplan/adjustdata_h_funktionabgleichen.md)
-
-[Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)
+* [Преобразовать излишние главные функции](eplan/adjustdata_h_funktionkorrigieren.md)
+* [Синхронизировать распределенно представленные функции](eplan/adjustdata_h_funktionabgleichen.md)
+* [Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)

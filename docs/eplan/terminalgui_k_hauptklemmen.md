@@ -39,12 +39,9 @@
 
 При выборе устройства шаблоны функций присваиваются только в пределах одной самостоятельной области. Многоуровневые клеммы сохраняются и не разделяются.
 
-См. также
+**См. также:**
 
-[Клеммы](eplan/terminalgui_k_start.md)
-
-[Управление клеммами](eplan/terminalgui_k_verwaltung.md)
-
-[Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-
-[Принадлежности клемм и клеммников](eplan/terminalgui_k_klemmenzubehoer.md)
+* [Клеммы](eplan/terminalgui_k_start.md)
+* [Управление клеммами](eplan/terminalgui_k_verwaltung.md)
+* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
+* [Принадлежности клемм и клеммников](eplan/terminalgui_k_klemmenzubehoer.md)

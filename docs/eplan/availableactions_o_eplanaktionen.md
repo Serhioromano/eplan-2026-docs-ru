@@ -123,6 +123,6 @@ XGedClosePage | – | – | X |  Закрывает все выбранные с
 
  
 
-См. также
+**См. также:**
 
-[Операции Eplan](eplan/availableactions_k_start.md)
+* [Операции Eplan](eplan/availableactions_k_start.md)

@@ -83,14 +83,10 @@
   
 Пользователю присваивается введенный пароль, и в будущем он должен ввести его в диалоговое окно Регистрация в Eplan.
 
-См. также
+**См. также:**
 
-[Управление правами](eplan/uradministration_k_start.md)
-
-[Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)
-
-[Диалоговое окно Управление правами: Пользователь](eplan/uradministration_d_benutzer.md)
-
-[Управление группами пользователей](eplan/uradministration_h_gruppen.md)
-
-[Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)
+* [Управление правами](eplan/uradministration_k_start.md)
+* [Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)
+* [Диалоговое окно Управление правами: Пользователь](eplan/uradministration_d_benutzer.md)
+* [Управление группами пользователей](eplan/uradministration_h_gruppen.md)
+* [Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)

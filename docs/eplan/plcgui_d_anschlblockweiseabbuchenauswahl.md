@@ -40,6 +40,6 @@
 
   
   
-См. также
+**См. также:**
 
-[Использование имеющихся выводов устройства ПЛК](eplan/plcgui_h_anschluesseabbuchen.md)
+* [Использование имеющихся выводов устройства ПЛК](eplan/plcgui_h_anschluesseabbuchen.md)

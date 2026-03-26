@@ -43,10 +43,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Определить трубопроводы на функциональной схеме автоматизации](eplan/planningri_h_rohrleitungdefinieren.md)
-
-[Вставить прерывания для трубопроводов](eplan/planningri_h_rohrleitungunterbrechen.md)
-
-[Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Определить трубопроводы на функциональной схеме автоматизации](eplan/planningri_h_rohrleitungdefinieren.md)
+* [Вставить прерывания для трубопроводов](eplan/planningri_h_rohrleitungunterbrechen.md)
+* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)

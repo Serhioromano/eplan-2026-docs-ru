@@ -70,18 +70,12 @@
 
 Если флажок деактивирован, автоматически переводятся зависимые от языка тексты.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Тексты](eplan/gededitgui_k_texte.md)
-
-[Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-
-[Вставить текст](eplan/gededitgui_h_texte.md)
-
-[Отобразить пустые тексты и тексты с небольшим размером шрифта](eplan/gededitgui_h_texteanzeigen.md)
-
-[Функциональные тексты зон](eplan/gededitgui_k_pfadtextstart.md)
-
-[Диалоговое окно Многоязычный ввод](eplan/modaldialogs_d_mehrsprachigeeingabe.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Тексты](eplan/gededitgui_k_texte.md)
+* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
+* [Вставить текст](eplan/gededitgui_h_texte.md)
+* [Отобразить пустые тексты и тексты с небольшим размером шрифта](eplan/gededitgui_h_texteanzeigen.md)
+* [Функциональные тексты зон](eplan/gededitgui_k_pfadtextstart.md)
+* [Диалоговое окно Многоязычный ввод](eplan/modaldialogs_d_mehrsprachigeeingabe.md)

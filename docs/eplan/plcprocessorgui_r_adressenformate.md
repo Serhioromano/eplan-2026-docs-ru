@@ -24,16 +24,11 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
-
-[Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
-
-[Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
-
-[Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
-
-[Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
-
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
+* [Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
+* [Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
+* [Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
+* [Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)

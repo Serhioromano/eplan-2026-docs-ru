@@ -24,10 +24,8 @@
 5. Завершите операцию, выбрав пункт всплывающего меню Прервать операцию или нажав клавишу [Esc].  
 
 
-См. также
+**См. также:**
 
-[Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
-
-[Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-
-[Начертить точки или выводы определения потенциалов](eplan/potentialbrowsergui_h_pdpzeichnen.md)
+* [Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
+* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Начертить точки или выводы определения потенциалов](eplan/potentialbrowsergui_h_pdpzeichnen.md)

@@ -60,12 +60,9 @@ Eplan привлекает внимание в окне указаний на т
 
  
 
-См. также
+**См. также:**
 
-[Основные данные](eplan/xmasterdatasettingsgui_k_start.md)
-
-[Синхронизировать основные данные](eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)
-
-[Обновить символы](eplan/xsbgui_h_symboleaktualisieren.md)
-
-[Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)
+* [Основные данные](eplan/xmasterdatasettingsgui_k_start.md)
+* [Синхронизировать основные данные](eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)
+* [Обновить символы](eplan/xsbgui_h_symboleaktualisieren.md)
+* [Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)

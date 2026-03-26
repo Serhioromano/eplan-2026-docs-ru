@@ -24,10 +24,8 @@ Eplan используется с включенной функцией упра
 
 Eplan используется без управления правами, т. е., Eplan использует имя пользователя Windows без пароля и наделяет всех пользователей правами администратора Eplan.
 
-См. также
+**См. также:**
 
-[Управление правами](eplan/uradministration_k_start.md)
-
-[Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
-
-[Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)
+* [Управление правами](eplan/uradministration_k_start.md)
+* [Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
+* [Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)

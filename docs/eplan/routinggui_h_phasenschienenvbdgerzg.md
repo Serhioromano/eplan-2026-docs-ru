@@ -68,10 +68,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Генерировать соединения фазовых шин](eplan/routinggui_d_phasenschienenvbdgerzg.md)
-
-[Диалоговое окно Присвоить фазную шину](eplan/routinggui_d_phasenschienezuweisen.md)
-
-[Сжатие проекта](eplan/projectcleangui_k_start.md)
+* [Диалоговое окно Генерировать соединения фазовых шин](eplan/routinggui_d_phasenschienenvbdgerzg.md)
+* [Диалоговое окно Присвоить фазную шину](eplan/routinggui_d_phasenschienezuweisen.md)
+* [Сжатие проекта](eplan/projectcleangui_k_start.md)

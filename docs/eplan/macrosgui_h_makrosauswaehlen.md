@@ -56,8 +56,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-
-[Диалоговое окно "Настройки: Макросы"](eplan/macrosgui_d_einstellmakros.md)
+* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Диалоговое окно "Настройки: Макросы"](eplan/macrosgui_d_einstellmakros.md)

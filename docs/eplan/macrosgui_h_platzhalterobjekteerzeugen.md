@@ -45,8 +45,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
-
-[Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
+* [Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
+* [Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)

@@ -36,10 +36,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)
-
-[Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-
-[Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)
+* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)

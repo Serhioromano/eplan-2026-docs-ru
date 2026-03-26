@@ -30,28 +30,17 @@
 
 При подсоединении к выбору изделий данные изделий можно еще дополнять техническими данными через внутреннее присоединение.
 
-См. также
+**См. также:**
 
-[Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
-
-[Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
-
-[Фильтры и предварительный выбор изделия](eplan/partselectiongui_k_filtervorauswahl.md)
-
-[Обзор перенесенных данных изделия](eplan/partselectiongui_k_uebertragenedaten.md)
-
-[Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
-
-[Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
-
-[Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-
-[Сохранить данные ссылки изделия на функции](eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)
-
-[Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
-
-[Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
-
-[Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
-
-[Определить предварительный выбор изделия](eplan/partselectiongui_h_artikelvorauswahl.md)
+* [Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
+* [Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
+* [Фильтры и предварительный выбор изделия](eplan/partselectiongui_k_filtervorauswahl.md)
+* [Обзор перенесенных данных изделия](eplan/partselectiongui_k_uebertragenedaten.md)
+* [Выбрать изделие](eplan/partselectiongui_h_artikelauswahl.md)
+* [Выбрать изделие в Навигаторах или из списка устройств](eplan/partselectiongui_h_artikelauswahlnavigator.md)
+* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Сохранить данные ссылки изделия на функции](eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)
+* [Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
+* [Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
+* [Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+* [Определить предварительный выбор изделия](eplan/partselectiongui_h_artikelvorauswahl.md)

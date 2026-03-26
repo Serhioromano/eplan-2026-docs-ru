@@ -34,8 +34,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Перенос обозначения вывода устройства](eplan/devicetaggui_k_anschlussbezuebergabe.md)
-
-[Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Перенос обозначения вывода устройства](eplan/devicetaggui_k_anschlussbezuebergabe.md)
+* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)

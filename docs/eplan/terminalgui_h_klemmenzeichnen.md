@@ -31,10 +31,8 @@
 3. В диалоговом окне Свойства <...> во вкладке Определение клеммника введите данные клеммника.
 4. Щелкните по кнопке [OK].
 
-См. также
+**См. также:**
 
-[Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
-
-[Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
-
-[Вставить устройства](eplan/devicelistgui_h_geraeteplatzieren.md)
+* [Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
+* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
+* [Вставить устройства](eplan/devicelistgui_h_geraeteplatzieren.md)

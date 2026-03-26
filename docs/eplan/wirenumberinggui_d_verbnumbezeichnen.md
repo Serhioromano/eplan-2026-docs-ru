@@ -90,10 +90,8 @@
 
 Если установлен этот флажок, всем точкам определения соединений, для которых в процессе нумерации соединений было определено обозначение соединения, присваивается свойство Установлено вручную.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Обозначить соединения](eplan/wirenumberinggui_h_verbnumbezeichnen.md)
-
-[Диалоговое окно Обозначить соединения: Предварительный просмотр результата](eplan/wirenumberinggui_d_ergebnisbezeichnen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Обозначить соединения](eplan/wirenumberinggui_h_verbnumbezeichnen.md)
+* [Диалоговое окно Обозначить соединения: Предварительный просмотр результата](eplan/wirenumberinggui_d_ergebnisbezeichnen.md)

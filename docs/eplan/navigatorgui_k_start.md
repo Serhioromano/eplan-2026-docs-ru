@@ -7,8 +7,7 @@
 * Можно определить, размещены функции или нет. 
 * Можно добавить, обработать, удалить или разместить функции
 
-См. также
+**См. также:**
 
-[Присвоение данных функции](eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md)
-
-[Механические устройства](eplan/navigatorgui_k_mechbetriebsmittel.md)
+* [Присвоение данных функции](eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md)
+* [Механические устройства](eplan/navigatorgui_k_mechbetriebsmittel.md)

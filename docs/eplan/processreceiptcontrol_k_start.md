@@ -17,12 +17,9 @@
 
  
 
-См. также
+**См. также:**
 
-[Проверка проекта: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-
-[Контроль проекта](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-
-[Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
-
-[Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)
+* [Проверка проекта: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
+* [Контроль проекта](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
+* [Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)

@@ -22,14 +22,10 @@
   
 Выбранный проект отобразится в навигаторе страниц.
 
-См. также
+**См. также:**
 
-[Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-
-[Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-
-[Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-
-[Удалить защиту от записи](eplan/revisionmgtgui_h_schreibschutzentfernen.md)
+* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
+* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Удалить защиту от записи](eplan/revisionmgtgui_h_schreibschutzentfernen.md)

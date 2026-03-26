@@ -13,6 +13,6 @@
 
 В данном раскрывающемся списке приводятся все созданные, а также заданные по умолчанию порядки свойств.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Обработать порядок свойств](eplan/symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md)
+* [Диалоговое окно Обработать порядок свойств](eplan/symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md)

@@ -26,14 +26,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
-
-[Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-
-[Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-
-[Определить свойства соединения для потенциала](eplan/connectionbrowsergui_h_pdpeigenschaften.md)
-
-[Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
+* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Предварительно определить свойства соединения](eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+* [Определить свойства соединения для потенциала](eplan/connectionbrowsergui_h_pdpeigenschaften.md)
+* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)

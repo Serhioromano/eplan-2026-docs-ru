@@ -44,10 +44,8 @@
 
 В особых случаях выносные линии могут быть скрыты.
 
-См. также
+**См. также:**
 
-[Указания размеров](eplan/dimensiongui_k_start.md)
-
-[Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)
-
-[Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)
+* [Указания размеров](eplan/dimensiongui_k_start.md)
+* [Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)
+* [Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)

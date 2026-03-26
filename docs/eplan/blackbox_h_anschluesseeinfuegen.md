@@ -28,10 +28,8 @@
 
 * Подсоединения устройств, находящиеся не в одном блоке, имеют перекрестные ссылки. При этом главной функцией может быть как вывод устройства, так и блок.
 
-См. также
+**См. также:**
 
-[Вкладка <Категория функции>](eplan/devicetaggui_r_bmdaten.md)
-
-[Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-
-[Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
+* [Вкладка <Категория функции>](eplan/devicetaggui_r_bmdaten.md)
+* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)

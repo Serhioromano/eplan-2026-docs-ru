@@ -29,6 +29,6 @@
 
   
 
-См. также
+**См. также:**
 
-[Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)
+* [Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)

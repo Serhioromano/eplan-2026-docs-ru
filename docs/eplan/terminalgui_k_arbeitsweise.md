@@ -18,8 +18,7 @@
 
 При копировании и вставке клемм они автоматически нумеруются в соответствии с настройками Online-режима нумерации.
 
-См. также
+**См. также:**
 
-[Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
-
-[Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
+* [Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
+* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)

@@ -50,8 +50,7 @@
 
 Этот флажок доступен, если активирована настройка Черно-белый вывод. Если этот флажок установлен, графические элементы, которым присвоены номера цветов Eplan 8, 255, 263, 264, 266, выводятся черным цветом.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Экспорт графических файлов](eplan/gedgraphicexportgui_d_exporteinstellungen.md)
-
-[Вывести страницы в виде графических файлов](eplan/gedgraphicexportgui_h_seitenexportieren.md)
+* [Диалоговое окно Настройки: Экспорт графических файлов](eplan/gedgraphicexportgui_d_exporteinstellungen.md)
+* [Вывести страницы в виде графических файлов](eplan/gedgraphicexportgui_h_seitenexportieren.md)

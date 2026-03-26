@@ -66,22 +66,14 @@
 
 Если на объекте планирования сохранен не макрос, а изделие, которому присвоен макрос, то для размещения функций используется макрос изделия.
 
-См. также
+**См. также:**
 
-[Предварительное планирование](eplan/planninggui_k_start.md)
-
-[Технологические контуры в предварительном планировании](eplan/planninggui_k_pltstellen.md)
-
-[Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
-
-[Предварительное планирование: Порядок действий](eplan/planninggui_k_vorgehensweise.md)
-
-[Создание и обработка сегментов структуры](eplan/planninggui_h_struktursegmenteerstlbearb.md)
-
-[Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](eplan/planninggui_h_planungsobjekteerstellen.md)
-
-[Создание и вставка макросов предварительного планирования](eplan/planninggui_h_vorplanmakroserstl.md)
-
-[Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
-
-[Вкладка Настройки (объект-заполнитель)](eplan/macrosgui_r_platzhaltereinstellungen.md)
+* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Технологические контуры в предварительном планировании](eplan/planninggui_k_pltstellen.md)
+* [Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
+* [Предварительное планирование: Порядок действий](eplan/planninggui_k_vorgehensweise.md)
+* [Создание и обработка сегментов структуры](eplan/planninggui_h_struktursegmenteerstlbearb.md)
+* [Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](eplan/planninggui_h_planungsobjekteerstellen.md)
+* [Создание и вставка макросов предварительного планирования](eplan/planninggui_h_vorplanmakroserstl.md)
+* [Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
+* [Вкладка Настройки (объект-заполнитель)](eplan/macrosgui_r_platzhaltereinstellungen.md)

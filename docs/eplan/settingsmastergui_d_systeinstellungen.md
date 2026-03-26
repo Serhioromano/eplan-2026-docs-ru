@@ -35,8 +35,7 @@
 Импортировать |  Импортирует ранее экспортированный файл xml или базу данных настроек, которую следует указать в следующем диалоговом окне.  
 Сбросить на стандарт |  Сбрасывает все настройки выбранной области на значения по умолчанию.  
   
-См. также
+**См. также:**
 
-[Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-
-[Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)
+* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)

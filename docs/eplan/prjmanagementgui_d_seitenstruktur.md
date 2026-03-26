@@ -37,12 +37,9 @@
 * Структура: Здесь перечислены блоки идентификаторов, соответствующие структуре страницы. В соседнем столбце отображаются соответствующие предшествующие знаки.
 * Значение: В этом столбце определите в раскрывающемся списке, является ли блок идентификаторов идентифицирующим, описывающим или он не должен быть доступен.
 
-См. также
+**См. также:**
 
-[Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
-
-[Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-
-[Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
+* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)

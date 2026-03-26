@@ -24,8 +24,7 @@
 
 Если вы выбрали параметр Фиксированная с помощью этого флажка Вы можете установить режим выравнивания текста по правому краю.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
-
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)

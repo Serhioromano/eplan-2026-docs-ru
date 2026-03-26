@@ -41,10 +41,8 @@
 
 Если вы выбрали в качестве разделителя пробел, табулятор или новую строку, то здесь Вы можете установить число строк. Разделитель может также состоять из нескольких пробелов, табуляторов или новых строк. В случае выбора параметра Другие символы это поле становится недоступным и в нем выводится число введенных символов.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
-
-[Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
-
-[Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
+* [Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
+* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)

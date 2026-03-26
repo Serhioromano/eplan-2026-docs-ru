@@ -65,8 +65,7 @@ Eplan также позволяет одновременно изменять с
 
 Кроме того, возможно поблочное удаление всех строк, даже если эти строки присутствуют не во всех обработанных объектах.
 
-См. также
+**См. также:**
 
-[Групповая обработка](eplan/multipleselection_k_start.md)
-
-[Выбор объектов для групповой обработки](eplan/multipleselection_h_objekteblockbearbeitung.md)
+* [Групповая обработка](eplan/multipleselection_k_start.md)
+* [Выбор объектов для групповой обработки](eplan/multipleselection_h_objekteblockbearbeitung.md)

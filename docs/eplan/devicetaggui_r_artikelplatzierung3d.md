@@ -32,10 +32,8 @@
 
 [Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
 
-См. также
+**См. также:**
 
-[Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-
-[Обработать и отобразить свойства размещений изделий](eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
-
-[Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)
+* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
+* [Обработать и отобразить свойства размещений изделий](eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
+* [Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)

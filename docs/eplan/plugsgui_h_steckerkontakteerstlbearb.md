@@ -37,14 +37,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
-
-[Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
-
-[Вставить контакты штекеров и определения штекеров](eplan/plugsgui_h_steckerkontaktezeichnen.md)
-
-[Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)
-
-[Диалоговое окно Штекеры – <Имя проекта>](eplan/plugsgui_d_steckernavigator.md)
+* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
+* [Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
+* [Вставить контакты штекеров и определения штекеров](eplan/plugsgui_h_steckerkontaktezeichnen.md)
+* [Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)
+* [Диалоговое окно Штекеры – <Имя проекта>](eplan/plugsgui_d_steckernavigator.md)

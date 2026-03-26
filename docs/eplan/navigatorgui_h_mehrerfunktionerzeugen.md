@@ -35,8 +35,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Разместить функции устройств](eplan/devicelistgui_h_geraeteplatzieren.md)
-
-[Диалоговое окно Генерировать функции](eplan/eservicesgui_d_nummusteranschluesse.md)
+* [Разместить функции устройств](eplan/devicelistgui_h_geraeteplatzieren.md)
+* [Диалоговое окно Генерировать функции](eplan/eservicesgui_d_nummusteranschluesse.md)

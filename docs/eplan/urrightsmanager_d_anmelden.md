@@ -14,8 +14,7 @@
 
 Введите здесь пароль. Для защиты введенных данных пароль отображается не открытым текстом, а в виде символов *.
 
-См. также
+**См. также:**
 
-[Управление правами](eplan/uradministration_k_start.md)
-
-[Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
+* [Управление правами](eplan/uradministration_k_start.md)
+* [Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)

@@ -38,6 +38,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Обработка маркеров удаления](eplan/revisionmgtgui_h_loeschzeichenbearbeiten.md)
+* [Обработка маркеров удаления](eplan/revisionmgtgui_h_loeschzeichenbearbeiten.md)

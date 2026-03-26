@@ -41,10 +41,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Автоматически сгенерированные кабели](eplan/cablegui_k_automatikkabel.md)
-
-[Определить кабели и кабельные соединения вручную](eplan/cablegui_h_aderndefinieren.md)
-
-[Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
+* [Автоматически сгенерированные кабели](eplan/cablegui_k_automatikkabel.md)
+* [Определить кабели и кабельные соединения вручную](eplan/cablegui_h_aderndefinieren.md)
+* [Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)

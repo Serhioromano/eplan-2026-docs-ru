@@ -28,8 +28,7 @@
 
 Если установлен этот флажок, точки определения, соединения которых имеют свойство Установлено вручную, не удаляются и сохраняют свои обозначения.
 
-См. также
+**См. также:**
 
-[Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-
-[Удалить обозначения соединений](eplan/wirenumberinggui_h_verbindloeschen.md)
+* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
+* [Удалить обозначения соединений](eplan/wirenumberinggui_h_verbindloeschen.md)

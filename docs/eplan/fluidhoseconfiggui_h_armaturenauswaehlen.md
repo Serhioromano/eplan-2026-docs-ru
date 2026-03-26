@@ -15,6 +15,6 @@
   
 Обозначение типа конструкции записывается в соответствующей позиции в поле Код типа.
 
-См. также
+**См. также:**
 
-[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)

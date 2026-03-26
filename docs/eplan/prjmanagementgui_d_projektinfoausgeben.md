@@ -18,10 +18,8 @@
 
 При выборе этого параметра специфическая для проекта информация обновляется, а затем генерируется общий обзор. В зависимости от размера базы данных проекта эта операция может продлиться некоторое время.
 
-См. также
+**См. также:**
 
-[Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)
-
-[Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
-
-[Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)
+* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)

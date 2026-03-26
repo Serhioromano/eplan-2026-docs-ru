@@ -23,6 +23,6 @@
 
 Если флажок снят, для отчета предлагаются все устройства.
 
-См. также
+**См. также:**
 
-[Генерировать диаграммы соединений](eplan/panellayoutgui_h_verbindungsdiagramme.md)
+* [Генерировать диаграммы соединений](eplan/panellayoutgui_h_verbindungsdiagramme.md)

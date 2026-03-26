@@ -20,12 +20,9 @@
   
 Если открыть страницу отчетов сейчас, то она не обновится.
 
-См. также
+**См. также:**
 
-[Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-
-[Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-
-[Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-
-[Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
+* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)

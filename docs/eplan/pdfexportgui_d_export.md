@@ -83,14 +83,10 @@ PDF-файл:
 Выходная величина |  Открывает диалоговое окно [Настройки: Выходная величина PDF](eplan/pdfexportgui_d_einstellausgabegroesse.md). Укажите здесь, в каком формате бумаги следует выводить экспортируемые страницы проекта.  
 Поля для печати |  Открывает диалоговое окно [Настройки: Поля для печати](eplan/printgui_d_druckraender.md). Здесь вы можете установить существенные для экспорта в PDF настройки печати, например границы печати и положение при печати.  
   
-См. также
+**См. также:**
 
-[Вкладка Экспорт (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_export.md)
-
-[Вкладка Общее (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_allgemein.md)
-
-[Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
-
-[Вкладка Свойства устройства / Свойства изделия](eplan/pdfexportgui_r_bmeigenschaften.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Вкладка Экспорт (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_export.md)
+* [Вкладка Общее (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_allgemein.md)
+* [Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
+* [Вкладка Свойства устройства / Свойства изделия](eplan/pdfexportgui_r_bmeigenschaften.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)

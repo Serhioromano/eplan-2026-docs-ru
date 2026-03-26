@@ -26,12 +26,9 @@
 Данная функция остается активной, вы можете добавить еще несколько мест изгиба на тот же функциональный элемент.  
 
 
-См. также
+**См. также:**
 
-[Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
-
-[Медная шина: Изменить длину](eplan/copper_h_kupferteillaengeaendern.md)
-
-[Медная шина: Изменить угол](eplan/copper_h_kupferteilwinkelaendern.md)
-
-[Медная шина: Изменить места изгиба](eplan/copper_h_kupferteilbiegestelleaendern.md)
+* [Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
+* [Медная шина: Изменить длину](eplan/copper_h_kupferteillaengeaendern.md)
+* [Медная шина: Изменить угол](eplan/copper_h_kupferteilwinkelaendern.md)
+* [Медная шина: Изменить места изгиба](eplan/copper_h_kupferteilbiegestelleaendern.md)

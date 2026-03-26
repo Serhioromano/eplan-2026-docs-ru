@@ -26,12 +26,9 @@
 
 Если установлен флажок Развернуть узлы и/или Разъединить модули, укажите до какой глубины вложения должны разворачиваться узлы.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
-
-[Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-
-[Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
-
-[Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
+* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
+* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)

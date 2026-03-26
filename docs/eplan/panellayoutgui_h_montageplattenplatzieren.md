@@ -39,6 +39,6 @@
   
 Идет создание монтажной платы.
 
-См. также
+**См. также:**
 
-[Компоновка электрошкафа 2D: Виды размещения](eplan/panellayoutgui_k_platzierungsarten.md)
+* [Компоновка электрошкафа 2D: Виды размещения](eplan/panellayoutgui_k_platzierungsarten.md)

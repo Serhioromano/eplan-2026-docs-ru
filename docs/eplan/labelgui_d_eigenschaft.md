@@ -61,14 +61,10 @@
 Этот флажок доступен только для групповых спецификаций изделий!  
 Установите этот флажок, чтобы вывести сумму отдельных значений соответствующего свойства. Таким образом, при помощи этой настройки можно вывести как общее количество (число штук) отдельных изделий, так и общую длину, например, изделия кабеля.
 
-См. также
+**См. также:**
 
-[Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
-
-[Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
-
-[Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
-
-[Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
-
-[Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
+* [Определить настройки вывода *.txt](eplan/labelgui_h_textausgabe.md)
+* [Определить настройки вывода Excel](eplan/labelgui_h_exceldatei.md)
+* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)

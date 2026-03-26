@@ -21,14 +21,10 @@
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
-
-[Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
-
-[Диалоговое окно Ввод координат](eplan/gededitgui_d_koordinateneingabe.md)
-
-[Диалоговое окно Относительный ввод координат](eplan/gededitgui_d_relativekoordinaten.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
+* [Ввести координаты при черчении](eplan/gededitgui_h_koordinatenbeimzeichnen.md)
+* [Диалоговое окно Ввод координат](eplan/gededitgui_d_koordinateneingabe.md)
+* [Диалоговое окно Относительный ввод координат](eplan/gededitgui_d_relativekoordinaten.md)

@@ -98,10 +98,8 @@
 
 Если этот флажок установлен, вам будут предложены символы, которые имеют не больше выводов устройства, чем текущее определение функции. Тогда будет заменен только символ, а определение функции сохранится.
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
-
-[Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
-
-[Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
+* [Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+* [Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
+* [Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)

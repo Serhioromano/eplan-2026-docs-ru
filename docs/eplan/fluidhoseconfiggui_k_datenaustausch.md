@@ -4,10 +4,8 @@
 
 Обмен данными осуществляется с помощью разделенного табуляторами текстового файла Юникод (*.txt). Этот файл обмена при необходимости можно открыть также в других приложениях, например в Excel, обработать там, сохранить и снова считать в конфигуратор шлангопроводов.
 
-См. также
+**См. также:**
 
-[Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
-
-[Считать данные шлангопроводов](eplan/fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
-
-[Диалоговое окно "Конфигурировать шлангопроводы"](eplan/fluidhoseconfiggui_d_schlauchleitungen.md)
+* [Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
+* [Считать данные шлангопроводов](eplan/fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
+* [Диалоговое окно "Конфигурировать шлангопроводы"](eplan/fluidhoseconfiggui_d_schlauchleitungen.md)

@@ -19,8 +19,7 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
-
-[Графический редактор](eplan/gededitgui_k_start.md)
+* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)

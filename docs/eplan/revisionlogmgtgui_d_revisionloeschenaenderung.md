@@ -14,10 +14,8 @@
 
 Если этот флажок установлен, то удаляются все данные ревизий, сгенерированные путем отслеживания изменений. Это касается информации, введенной при закрытии страниц и создании ревизий, а также формата изменения ревизии, сохраненного в символе.
 
-См. также
+**См. также:**
 
-[Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
-
-[Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-
-[Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
+* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)

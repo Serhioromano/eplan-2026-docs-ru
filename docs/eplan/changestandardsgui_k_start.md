@@ -11,12 +11,9 @@
 * Также можно изменить структуру проекта, использовав другой шаблон.
 * Можно скрыть обозначения выводов устройства.
 
-См. также
+**См. также:**
 
-[Замена рамки](eplan/changestandardsgui_k_stammdaten.md)
-
-[Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
-
-[Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-
-[Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
+* [Замена рамки](eplan/changestandardsgui_k_stammdaten.md)
+* [Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
+* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)

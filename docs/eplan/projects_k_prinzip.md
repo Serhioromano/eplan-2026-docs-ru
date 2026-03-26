@@ -18,10 +18,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Проекты](eplan/projects_k_start.md)
-
-[Создать проекты](eplan/projects_h_projekteerstellen.md)
-
-[Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
+* [Проекты](eplan/projects_k_start.md)
+* [Создать проекты](eplan/projects_h_projekteerstellen.md)
+* [Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)

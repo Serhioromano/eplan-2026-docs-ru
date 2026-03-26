@@ -36,10 +36,8 @@
 Как только будет достигнута точка касательной, отобразится дуга окружности.
 5. Щелкните еще раз, чтобы начертить круг/дугу/сектор.
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Захват объекта](eplan/gededitgui_k_objektfang.md)
-
-[Отобразить точки вставки](eplan/gededitgui_h_einfuegepunkte.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Захват объекта](eplan/gededitgui_k_objektfang.md)
+* [Отобразить точки вставки](eplan/gededitgui_h_einfuegepunkte.md)

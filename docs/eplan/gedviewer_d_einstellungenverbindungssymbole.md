@@ -44,10 +44,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Графический редактор](eplan/gededitgui_k_start.md)
-
-[Начертить символы соединений с определением цели или как точку](eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
-
-[Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)](eplan/gedviewer_d_einstellungenprojektallgemein.md)
+* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Начертить символы соединений с определением цели или как точку](eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)](eplan/gedviewer_d_einstellungenprojektallgemein.md)

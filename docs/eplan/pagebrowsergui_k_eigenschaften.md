@@ -105,20 +105,13 @@
 
 Свойство, которое используется в качестве критерия для сравнения, определяется в настройках проекта с помощью настройки Число / имена страниц на свойство. Результат записывается в свойства страницы Количество страниц в свойстве, Имена страниц в свойстве и Счетчик страниц в свойстве.
 
-См. также
+**См. также:**
 
-[Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-
-[Представление страниц проекта](eplan/pagebrowsergui_k_prinzip.md)
-
-[Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-
-[Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-
-[Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
-
-[Свойства Eplan](eplan/properties_o_main.md)
-
-[Диалоговое окно "Настройки: дата / время / числа"](eplan/xessettingsgui_d_einstellungenprojektdatum.md)
-
-[Диалоговое окно Настройки: страницы (проект)](eplan/pagebrowsergui_d_projekteinstellungen.md)
+* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Представление страниц проекта](eplan/pagebrowsergui_k_prinzip.md)
+* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
+* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
+* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Свойства Eplan](eplan/properties_o_main.md)
+* [Диалоговое окно "Настройки: дата / время / числа"](eplan/xessettingsgui_d_einstellungenprojektdatum.md)
+* [Диалоговое окно Настройки: страницы (проект)](eplan/pagebrowsergui_d_projekteinstellungen.md)

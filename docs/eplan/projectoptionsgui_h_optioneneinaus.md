@@ -41,6 +41,6 @@
   
 Выключенные опции полностью скрываются, если они ранее были выведены в прозрачном виде.
 
-См. также
+**См. также:**
 
-[Создание и обработка опций](eplan/projectoptionsgui_h_optionenerzeugen.md)
+* [Создание и обработка опций](eplan/projectoptionsgui_h_optionenerzeugen.md)

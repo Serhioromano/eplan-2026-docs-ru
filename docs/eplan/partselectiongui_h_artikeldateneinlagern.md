@@ -44,10 +44,8 @@
 
  
 
-См. также
+**См. также:**
 
-[Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
-
-[Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
-
-[Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+* [Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
+* [Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
+* [Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)

@@ -12,30 +12,18 @@
 
 При этом управление соответствующими массивами данных осуществляется в базе данных Eplan или в базе данных сервера SQL, а текущая выбранная база отображается в строке заголовка диалогового окна База данных изделий.
 
-См. также
+**См. также:**
 
-[База данных изделий: Основные положения](eplan/articlesgui_k_grundlagen.md)
-
-[Создать изделие](eplan/articlesgui_h_artikelerstellen.md)
-
-[Копировать изделие и вставить данные](eplan/articlesgui_h_artikelkopieren.md)
-
-[Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
-
-[Создать модули](eplan/articlesgui_h_moduleanlegen.md)
-
-[Создать список принадлежностей и присвоить его главному изделию](eplan/articlesgui_h_zubehoerlisteerstellen.md)
-
-[Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
-
-[Экспортировать данные изделий](eplan/articlesgui_h_artikelexportieren.md)
-
-[Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
-
-[Присвоить шаблоны функций](eplan/articlesgui_h_funktionsschablonenzuweisen.md)
-
-[Управление многоязычными данными изделий](eplan/articlesgui_h_mehrsprachigeartikelverwalten.md)
-
-[Создать конфигурации для представления в виде дерева](eplan/articlesgui_h_baumkonfiguration.md)
-
-[Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [База данных изделий: Основные положения](eplan/articlesgui_k_grundlagen.md)
+* [Создать изделие](eplan/articlesgui_h_artikelerstellen.md)
+* [Копировать изделие и вставить данные](eplan/articlesgui_h_artikelkopieren.md)
+* [Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
+* [Создать модули](eplan/articlesgui_h_moduleanlegen.md)
+* [Создать список принадлежностей и присвоить его главному изделию](eplan/articlesgui_h_zubehoerlisteerstellen.md)
+* [Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
+* [Экспортировать данные изделий](eplan/articlesgui_h_artikelexportieren.md)
+* [Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
+* [Присвоить шаблоны функций](eplan/articlesgui_h_funktionsschablonenzuweisen.md)
+* [Управление многоязычными данными изделий](eplan/articlesgui_h_mehrsprachigeartikelverwalten.md)
+* [Создать конфигурации для представления в виде дерева](eplan/articlesgui_h_baumkonfiguration.md)
+* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)

@@ -30,14 +30,10 @@
 Если выбран всего один проект для открытия, здесь отобразится его имя. Чтобы не перезаписывать уже существующий проект, следует задать другое имя.  
 Если выбрано несколько проектов для открытия, это поле будет пустым, и вы не сможете изменить имена проектов.
 
-См. также
+**См. также:**
 
-[Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-
-[Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
-
-[Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
-
-[Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
-
-[Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
+* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
+* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
+* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
+* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)

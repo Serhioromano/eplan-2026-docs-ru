@@ -20,10 +20,8 @@
 
 Для каждой открытой формы / рамки в проекте создается временная страница, которая открывается в специальном редакторе. Если редактор форм / рамок закрывается, то форма / рамка сохраняется и закрывается, и удаляется временная страница.
 
-См. также
+**См. также:**
 
-[Структура форм и рамок](eplan/formeditorgui_k_grundlagen.md)
-
-[Заполнители в формах и рамках](eplan/formeditorgui_k_platzhalter.md)
-
-[Следующие формы](eplan/formeditorgui_k_folgeformulare.md)
+* [Структура форм и рамок](eplan/formeditorgui_k_grundlagen.md)
+* [Заполнители в формах и рамках](eplan/formeditorgui_k_platzhalter.md)
+* [Следующие формы](eplan/formeditorgui_k_folgeformulare.md)

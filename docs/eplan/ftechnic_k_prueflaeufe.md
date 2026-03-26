@@ -73,6 +73,6 @@ P005087 |  <x>
 
  
 
-См. также
+**См. также:**
 
-[Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
+* [Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)

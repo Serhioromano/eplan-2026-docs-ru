@@ -70,10 +70,8 @@
 * DAP/ (Device Access Point)
 * M/ (Module)
 
-См. также
+**См. также:**
 
-[Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
-
-[Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-
-[Вкладка Блок ПЛК](eplan/devicetaggui_r_spskarte.md)
+* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
+* [Вкладка Блок ПЛК](eplan/devicetaggui_r_spskarte.md)

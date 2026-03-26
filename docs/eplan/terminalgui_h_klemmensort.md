@@ -30,6 +30,6 @@
 
  
 
-См. также
+**См. также:**
 
-[Диалоговое окно Обработать клеммник](eplan/stripmanagementgui_d_klemmenleistebearbeiten.md)
+* [Диалоговое окно Обработать клеммник](eplan/stripmanagementgui_d_klemmenleistebearbeiten.md)

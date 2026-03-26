@@ -8,8 +8,7 @@
 
 Так же как и все символы соединений, управление точками разрыва осуществляется в библиотеке символов SPECIAL.slk; они влияют на прохождение соединение и не имеют определений функций.
 
-См. также
+**См. также:**
 
-[Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
-
-[Символы соединения](eplan/egedgui_k_start.md)
+* [Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
+* [Символы соединения](eplan/egedgui_k_start.md)
