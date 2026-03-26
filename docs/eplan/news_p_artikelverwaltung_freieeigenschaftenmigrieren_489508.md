@@ -12,7 +12,7 @@
 
 В этом диалоговом окне вы выбираете произвольные свойства, требуемое действие для соответствующего произвольного свойства (перенести, удалить или нет) и выполняете эти действия.
 
-[](../Pictures/Gui/Lang/articlesgui_freepropertymigration_ls.png)
+![](../Pictures/Gui/Lang/articlesgui_freepropertymigration_ls.png)
 
 ### Области таблицы
 
