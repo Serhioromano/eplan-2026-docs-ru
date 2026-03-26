@@ -12,8 +12,8 @@
 
 **См. также:**
 
-* [Однополюсное представление: Принцип](eplan/singlepole_k_hintergrund.md)
-* [Обзоры установок](eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
-* [Жгутовое представление соединений в схемах соединений](eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)
-* [Структуры сети](eplan/singlepole_k_bustopologien.md)
-* [Синхронизировать распределенно представленные функции](eplan/adjustdata_h_funktionabgleichen.md)
+* [Однополюсное представление: Принцип](singlepole_k_hintergrund.md)
+* [Обзоры установок](singlepole_k_spinnenplaeneundanlagenuebersichten.md)
+* [Жгутовое представление соединений в схемах соединений](singlepole_k_straenge_in_einpoligerdarstellung.md)
+* [Структуры сети](singlepole_k_bustopologien.md)
+* [Синхронизировать распределенно представленные функции](adjustdata_h_funktionabgleichen.md)

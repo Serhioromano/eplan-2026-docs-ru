@@ -33,5 +33,5 @@
 
 **См. также:**
 
-* [Соединения: Принцип](eplan/connectionbrowsergui_k_prinzipverbindungen.md)
-* [Управление неразмещенных вспомогательных функций на главной функции](eplan/devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
+* [Соединения: Принцип](connectionbrowsergui_k_prinzipverbindungen.md)
+* [Управление неразмещенных вспомогательных функций на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.md)

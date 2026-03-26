@@ -9,17 +9,17 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Объем:
 
 В этом поле определяется объем корректировки с помощью соответствующих флажков.
 
-* [Клеммы](eplan/ProjectCorrectionGui_k_korrekturdaten.md#I_Klemmen)
-* [Штекеры](eplan/ProjectCorrectionGui_k_korrekturdaten.md#I_Stecker)
-* [Соединения](eplan/ProjectCorrectionGui_k_korrekturdaten.md#I_Verbindungen)
-* [ПЛК](eplan/ProjectCorrectionGui_k_korrekturdaten.md#I_SPS).
+* [Клеммы](ProjectCorrectionGui_k_korrekturdaten.md#I_Klemmen)
+* [Штекеры](ProjectCorrectionGui_k_korrekturdaten.md#I_Stecker)
+* [Соединения](ProjectCorrectionGui_k_korrekturdaten.md#I_Verbindungen)
+* [ПЛК](ProjectCorrectionGui_k_korrekturdaten.md#I_SPS).
 
 **См. также:**
 
-* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Очистить проект](ProjectCorrectionGui_h_projektkorrigieren.md)

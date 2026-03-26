@@ -24,4 +24,4 @@
 
 **См. также:**
 
-* [Объединить элементы в блок / Разбить блок ](eplan/gededitgui_h_blockbildenaufloesen.md)
+* [Объединить элементы в блок / Разбить блок ](gededitgui_h_blockbildenaufloesen.md)

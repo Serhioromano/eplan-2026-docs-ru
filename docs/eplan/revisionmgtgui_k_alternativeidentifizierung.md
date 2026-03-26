@@ -70,5 +70,5 @@
 
 **См. также:**
 
-* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Управление ревизиями](revisionmgtgui_k_start.md)
+* [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)

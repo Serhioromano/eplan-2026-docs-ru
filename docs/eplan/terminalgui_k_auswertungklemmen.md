@@ -40,4 +40,4 @@
 
 **См. также:**
 
-* [Управление клеммами](eplan/terminalgui_k_verwaltung.md)
+* [Управление клеммами](terminalgui_k_verwaltung.md)

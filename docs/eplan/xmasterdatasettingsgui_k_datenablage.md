@@ -27,5 +27,5 @@
 
 **См. также:**
 
-* [Основные данные](eplan/xmasterdatasettingsgui_k_start.md)
-* [Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)
+* [Основные данные](xmasterdatasettingsgui_k_start.md)
+* [Основные данные: Основные положения](xmasterdatasettingsgui_k_grundlagen.md)

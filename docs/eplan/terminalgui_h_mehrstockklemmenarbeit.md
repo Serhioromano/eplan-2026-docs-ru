@@ -59,5 +59,5 @@
 
 **См. также:**
 
-* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-* [Вкладка Клемма](eplan/devicetaggui_r_klemmen.md)
+* [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)
+* [Вкладка Клемма](devicetaggui_r_klemmen.md)

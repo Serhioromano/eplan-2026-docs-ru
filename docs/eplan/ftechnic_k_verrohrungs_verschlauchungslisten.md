@@ -12,6 +12,6 @@
 
 **См. также:**
 
-* [Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)
-* [Eplan Fluid: Отчеты](eplan/ftechnic_k_auswertungen.md)
-* [Оценка и вывод списков труб / шлангов](eplan/ftechnic_h_verrohrungsliste_auswerten_ausgeben.md)
+* [Eplan Fluid: Соединения](ftechnic_k_verbindungen.md)
+* [Eplan Fluid: Отчеты](ftechnic_k_auswertungen.md)
+* [Оценка и вывод списков труб / шлангов](ftechnic_h_verrohrungsliste_auswerten_ausgeben.md)

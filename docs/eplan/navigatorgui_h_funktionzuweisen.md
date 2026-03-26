@@ -27,7 +27,7 @@
 
 **См. также:**
 
-* [Присвоение данных функции](eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md)
-* [Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-* [Создать неразмещенные устройства в навигаторе устройств](eplan/navigatorgui_h_funktionenanlegen.md)
+* [Присвоение данных функции](navigatorgui_k_zuweisenvonfunktionsdaten.md)
+* [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Создать неразмещенные устройства в навигаторе устройств](navigatorgui_h_funktionenanlegen.md)

@@ -19,5 +19,5 @@
 
 **См. также:**
 
-* [Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)
-* [Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
+* [Создать схемы для автоматизированной обработки](autoprocgui_h_startactions.md)
+* [Обработать проект автоматически](autoprocgui_h_protokolldatei.md)

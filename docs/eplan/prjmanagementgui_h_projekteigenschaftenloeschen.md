@@ -37,6 +37,6 @@
 
 **См. также:**
 
-* [Управление проектами](eplan/prjmanagementgui_k_start.md)
-* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
-* [Отображение информации проекта](eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)
+* [Управление проектами](prjmanagementgui_k_start.md)
+* [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
+* [Отображение информации проекта](prjmanagementgui_h_projekteigenschaftenanzeigen.md#I_ProjektinformationenAnzeigen)

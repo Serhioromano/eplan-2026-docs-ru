@@ -18,4 +18,4 @@
 
 **См. также:**
 
-* [Редактор символов: Принцип работы](eplan/symboleditorgui_k_arbeitsweise.md)
+* [Редактор символов: Принцип работы](symboleditorgui_k_arbeitsweise.md)

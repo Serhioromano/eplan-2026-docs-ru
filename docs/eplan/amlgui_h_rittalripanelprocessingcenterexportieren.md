@@ -20,4 +20,4 @@ Eplan Pro Panel позволяет предоставлять данные из�
 
 **См. также:**
 
-* [Диалоговое окно "Настройки экспорта: Rittal - RiPanel Processing Center"](eplan/amlgui_d_einstellungen_schnittstellen.md)
+* [Диалоговое окно "Настройки экспорта: Rittal - RiPanel Processing Center"](amlgui_d_einstellungen_schnittstellen.md)

@@ -37,4 +37,4 @@
 
 **См. также:**
 
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)

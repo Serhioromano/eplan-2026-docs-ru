@@ -59,5 +59,5 @@
 
 **См. также:**
 
-* [Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
+* [Потенциалы и сигналы](potentialbrowsergui_k_start.md)
+* [Соединения](connectionbrowsergui_k_start.md)

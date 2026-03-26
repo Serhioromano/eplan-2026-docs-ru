@@ -10,11 +10,11 @@
   
 Если дважды щелкнуть по функции, ее свойства автоматически откроются в диалоговом окне Свойства (общие): <...>.  
   
-[Обработать свойства во всех представлениях главной функции](eplan/reverseengineering_h_alledarstellungenbm.md)  
+[Обработать свойства во всех представлениях главной функции](reverseengineering_h_alledarstellungenbm.md)  
   
-[Обработать свойства во всех представлениях вспомогательной функции](eplan/reverseengineering_h_alledarstellungenfunktion.md)  
+[Обработать свойства во всех представлениях вспомогательной функции](reverseengineering_h_alledarstellungenfunktion.md)  
   
-[Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
+[Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
 
 !!! tip "Совет:"
 
@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Общая обработка на страницах отчетов](eplan/Reverseengineering_k_start.md)
-* [Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
+* [Общая обработка на страницах отчетов](Reverseengineering_k_start.md)
+* [Общая обработка свойств на страницах отчетов](reverseengineering_h_uebergreifendesbearbeiten.md)

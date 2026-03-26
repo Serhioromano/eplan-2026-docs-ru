@@ -10,4 +10,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Экспорт Rittal — Perforex / Secarex](eplan/ncgui_d_einstellungenncexportkiesling.md)
+* [Диалоговое окно Настройки: Экспорт Rittal — Perforex / Secarex](ncgui_d_einstellungenncexportkiesling.md)

@@ -10,5 +10,5 @@
 
 **См. также:**
 
-* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
-* [Диалоговое окно Импорт DXF/DWG](eplan/xdxfgui_d_import.md)
+* [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
+* [Диалоговое окно Импорт DXF/DWG](xdxfgui_d_import.md)

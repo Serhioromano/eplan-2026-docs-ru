@@ -34,4 +34,4 @@
   
 **См. также:**
 
-* [Отмена и восстановление операций](eplan/gededitgui_k_undoundredo.md)
+* [Отмена и восстановление операций](gededitgui_k_undoundredo.md)

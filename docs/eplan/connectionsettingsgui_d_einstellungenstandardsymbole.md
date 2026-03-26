@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-* [Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
-* [Вкладка Размещение (Нумерация соединений)](eplan/wirenumberinggui_r_platzierung.md)
+* [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Точки обозначения соединения](connectionbrowsergui_k_vdp.md)
+* [Вкладка Размещение (Нумерация соединений)](wirenumberinggui_r_platzierung.md)

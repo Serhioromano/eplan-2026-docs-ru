@@ -22,6 +22,6 @@
 
 **См. также:**
 
-* [Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
-* [Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)
-* [Диалоговое окно Настройки: Автоматизированная обработка](eplan/autoprocgui_d_einstellungen.md)
+* [Обработать проект автоматически](autoprocgui_h_protokolldatei.md)
+* [Обработать несколько проектов автоматически](autoprocgui_h_ausfuehren.md)
+* [Диалоговое окно Настройки: Автоматизированная обработка](autoprocgui_d_einstellungen.md)

@@ -8,7 +8,7 @@
 
 На этой вкладке указываются свойства выделенного сегмента структуры.
 
-Если в диалоговом окне свойств записи в полях отличаются от стандартных значений присвоенного шаблона сегмента, они выделяются [желтым цветом фона](eplan/planninggui_k_segmentvorlagen.md#GelberHintergrund).
+Если в диалоговом окне свойств записи в полях отличаются от стандартных значений присвоенного шаблона сегмента, они выделяются [желтым цветом фона](planninggui_k_segmentvorlagen.md#GelberHintergrund).
 
 Обзор основных элементов диалогового окна:
 
@@ -52,10 +52,10 @@
 
 * * *
 
-[Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле "Свойства"](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-* [Присвоить шаблоны сегментов](eplan/planninggui_h_segmentvorlagezuordnen.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
+* [Присвоить шаблоны сегментов](planninggui_h_segmentvorlagezuordnen.md)

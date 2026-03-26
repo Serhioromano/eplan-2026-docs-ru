@@ -42,4 +42,4 @@
 
 **См. также:**
 
-* [Объекты-заполнители: Структура и принцип работы](eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
+* [Объекты-заполнители: Структура и принцип работы](macrosgui_k_platzhalteraufbauarbeitsweise.md)

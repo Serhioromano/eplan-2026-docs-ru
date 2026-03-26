@@ -24,4 +24,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Нумеровать (автономно)](eplan/offlinenumerationgui_d_nummerierungsformate.md)
+* [Диалоговое окно Настройки: Нумеровать (автономно)](offlinenumerationgui_d_nummerierungsformate.md)

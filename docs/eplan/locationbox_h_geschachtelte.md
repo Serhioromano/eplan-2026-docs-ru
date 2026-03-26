@@ -41,5 +41,5 @@
 
 **См. также:**
 
-* [Обозначения местоположения: Основные положения](eplan/locationbox_k_grundlagen.md)
-* [Вставить обозначения местоположения](eplan/locationbox_h_einfuegen.md)
+* [Обозначения местоположения: Основные положения](locationbox_k_grundlagen.md)
+* [Вставить обозначения местоположения](locationbox_h_einfuegen.md)

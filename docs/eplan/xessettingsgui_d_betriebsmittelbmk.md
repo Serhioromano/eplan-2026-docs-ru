@@ -63,5 +63,5 @@ Fluid-техника: Скрыть буквенное обозначение (к
 
 **См. также:**
 
-* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
-* [Обозначение устройств](eplan/devicetaggui_k_aufbauvonbm.md)
+* [Установить предшествующий знак в видимом ОУ](numerationgui_h_vorzeichensetzen.md)
+* [Обозначение устройств](devicetaggui_k_aufbauvonbm.md)

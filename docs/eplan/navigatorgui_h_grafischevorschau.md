@@ -25,4 +25,4 @@ Eplan откроет страницу схемы соединений в гра�
 
 **См. также:**
 
-* [Синхронизировать выбор](eplan/searchandreplacegui_h_auswahlsynchronisieren.md)
+* [Синхронизировать выбор](searchandreplacegui_h_auswahlsynchronisieren.md)

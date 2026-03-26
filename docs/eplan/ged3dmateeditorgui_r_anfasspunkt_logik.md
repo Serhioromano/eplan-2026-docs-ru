@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Опции размещения](eplan/cabinetgui_d_platzieroptionen.md#ErweiterteAPLogik)
-* [Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
+* [Диалоговое окно Опции размещения](cabinetgui_d_platzieroptionen.md#ErweiterteAPLogik)
+* [Определить точку захвата](cabinetgui_h_anfasspunktdefinieren.md)

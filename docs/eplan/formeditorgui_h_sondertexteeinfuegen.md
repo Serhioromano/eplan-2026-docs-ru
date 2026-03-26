@@ -64,5 +64,5 @@
 
 **См. также:**
 
-* [Управление выводом текстов-заполнителей и специальных текстов](eplan/formeditorgui_h_platzhaltertexteanzeigen.md)
-* [Удалить и заново разместить нумерацию столбцов и строк](eplan/formeditorgui_h_normblaetterpfadeposneuplatzieren.md)
+* [Управление выводом текстов-заполнителей и специальных текстов](formeditorgui_h_platzhaltertexteanzeigen.md)
+* [Удалить и заново разместить нумерацию столбцов и строк](formeditorgui_h_normblaetterpfadeposneuplatzieren.md)

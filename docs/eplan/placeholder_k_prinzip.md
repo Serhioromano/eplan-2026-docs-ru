@@ -23,5 +23,5 @@
   
 **См. также:**
 
-* [Элементы-заполнители Eplan: Обзор](eplan/placeholder_o_main.md)
-* [Свойства Eplan: Обзор](eplan/properties_o_main.md)
+* [Элементы-заполнители Eplan: Обзор](placeholder_o_main.md)
+* [Свойства Eplan: Обзор](properties_o_main.md)

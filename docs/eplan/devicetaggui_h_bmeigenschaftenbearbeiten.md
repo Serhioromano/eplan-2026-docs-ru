@@ -42,8 +42,8 @@
 
 **См. также:**
 
-* [Вкладки <Категория функции > / <Категория функции> (Устройство)](eplan/devicetaggui_r_bmdaten.md)
-* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-* [Создание пользователем конфигураций свойств](eplan/userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
-* [Диалоговое окно Конфигурировать свойства](eplan/modaldialogsdb_d_eigenschaftsanordnung.md)
-* [Импорт / экспорт настроек](eplan/settingsmastergui_h_importieren_exportieren.md)
+* [Вкладки <Категория функции > / <Категория функции> (Устройство)](devicetaggui_r_bmdaten.md)
+* [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Создание пользователем конфигураций свойств](userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
+* [Диалоговое окно Конфигурировать свойства](modaldialogsdb_d_eigenschaftsanordnung.md)
+* [Импорт / экспорт настроек](settingsmastergui_h_importieren_exportieren.md)

@@ -20,4 +20,4 @@
 
 **См. также:**
 
-* [База данных изделий](eplan/articlesgui_k_start.md)
+* [База данных изделий](articlesgui_k_start.md)

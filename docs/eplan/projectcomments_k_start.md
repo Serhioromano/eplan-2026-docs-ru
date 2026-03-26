@@ -16,13 +16,13 @@
 
 **См. также:**
 
-* [Комментарии: Процедура](eplan/projectcomments_k_vorgehensweise.md)
-* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
-* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
-* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-* [Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
-* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-* [Создание и размещение неразмещенных комментариев](eplan/projectcomments_h_kommentareplatzieren.md)
-* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-* [Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)
-* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Комментарии: Процедура](projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](pdfexportgui_d_kommentarenavigator.md)
+* [Вкладка Комментарий](gededitgui_r_kommentareigenschaften.md)
+* [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)
+* [Импортировать PDF-комментарии](projectcomments_h_kommentareimportieren.md)
+* [Вставить комментарии](projectcomments_h_kommentareeinfuegen.md)
+* [Создание и размещение неразмещенных комментариев](projectcomments_h_kommentareplatzieren.md)
+* [Редактировать комментарии](projectcomments_h_kommentarebearbeiten.md)
+* [Удалить комментарии](projectcomments_h_kommentareloeschen.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](layermanager_d_ebenenverwaltung.md)

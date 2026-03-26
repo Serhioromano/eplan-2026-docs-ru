@@ -69,4 +69,4 @@
 
 **См. также:**
 
-* [Размещение точек определения соединений](eplan/wirenumberinggui_k_platzierungvdp.md)
+* [Размещение точек определения соединений](wirenumberinggui_k_platzierungvdp.md)

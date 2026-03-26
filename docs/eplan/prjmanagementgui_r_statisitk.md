@@ -12,7 +12,7 @@
 
 Тип страницы:
 
-Показывает все [типы страниц](eplan/pagebrowsergui_k_seitentypen.md), доступные в Eplan.
+Показывает все [типы страниц](pagebrowsergui_k_seitentypen.md), доступные в Eplan.
 
 Число:
 
@@ -24,7 +24,7 @@
 
 Необновляемые страницы:
 
-Показывает для каждого типа страниц количество [замороженных страниц отчета](eplan/formgeneratorgui_k_eingefrorseiten.md). В навигаторе страниц вы можете фильтровать замороженные страницы отчета.
+Показывает для каждого типа страниц количество [замороженных страниц отчета](formgeneratorgui_k_eingefrorseiten.md). В навигаторе страниц вы можете фильтровать замороженные страницы отчета.
 
 * * *
 
@@ -46,7 +46,7 @@
 
 **См. также:**
 
-* [Проекты](eplan/projects_k_start.md)
-* [Страницы отчетов](eplan/formgeneratorgui_k_auswertungsseiten.md)
-* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Проекты](projects_k_start.md)
+* [Страницы отчетов](formgeneratorgui_k_auswertungsseiten.md)
+* [Проверка проекта](processreceiptcontrol_k_start.md)
+* [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)

@@ -33,5 +33,5 @@ Eplan дает возможность работать с системами о�
 
 **См. также:**
 
-* [Примеры структуры структурных идентификаторов](eplan/projectstructure_k_aufbaukennzeichnungsbl.md)
-* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
+* [Примеры структуры структурных идентификаторов](projectstructure_k_aufbaukennzeichnungsbl.md)
+* [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)

@@ -16,6 +16,6 @@
 
 **См. также:**
 
-* [Черные ящики: Возможности использования](eplan/blackbox_k_einsatzmoeglichkeiten.md)
-* [Черные ящики: Основные положения для вкладывания](eplan/blackbox_k_schachteln.md)
-* [Вставить черные ящики](eplan/blackbox_h_kasteneinfuegen.md)
+* [Черные ящики: Возможности использования](blackbox_k_einsatzmoeglichkeiten.md)
+* [Черные ящики: Основные положения для вкладывания](blackbox_k_schachteln.md)
+* [Вставить черные ящики](blackbox_h_kasteneinfuegen.md)

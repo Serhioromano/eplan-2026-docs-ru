@@ -16,4 +16,4 @@
 
 **См. также:**
 
-* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)

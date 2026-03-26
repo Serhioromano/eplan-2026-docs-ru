@@ -32,5 +32,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Запись данных контура ЧУ](eplan/contoureditorgui_d_ncdatensatz.md)
-* [Запись данных ЧУ: принцип](eplan/ncgui_k_ncdatensatz.md)
+* [Диалоговое окно Запись данных контура ЧУ](contoureditorgui_d_ncdatensatz.md)
+* [Запись данных ЧУ: принцип](ncgui_k_ncdatensatz.md)

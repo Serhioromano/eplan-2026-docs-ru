@@ -30,5 +30,5 @@
 
 **См. также:**
 
-* [Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
-* [Диалоговое окно Обозначения и описания выводов устройства](eplan/numerationgui_d_anschlussbezeichnungen.md)
+* [Обозначения и описания выводов устройства](fctdeflibdataexchangegui_k_anschluss.md)
+* [Диалоговое окно Обозначения и описания выводов устройства](numerationgui_d_anschlussbezeichnungen.md)

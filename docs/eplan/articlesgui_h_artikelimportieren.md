@@ -18,5 +18,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Импортировать записи данных](eplan/partsmanagementgui_d_artikelimport.md)
-* [Диалоговое окно Присвоения полей (база данных изделий)](eplan/partsmanagementgui_d_feldzuordnung.md)
+* [Диалоговое окно Импортировать записи данных](partsmanagementgui_d_artikelimport.md)
+* [Диалоговое окно Присвоения полей (база данных изделий)](partsmanagementgui_d_feldzuordnung.md)

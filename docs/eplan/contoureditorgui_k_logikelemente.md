@@ -81,7 +81,7 @@
 
 **См. также:**
 
-* [Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
-* [Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
-* [Редактор контура: Основные положения](eplan/contoureditorgui_k_grundlagen.md)
-* [Маршрутизируемые соединения в системе направляющих для проводов](eplan/routinggui_k_verdrahtungssystem.md)
+* [Создание контуров](contoureditorgui_h_konturenerzeugen.md)
+* [Обработать свойства точек определения контуров](contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+* [Редактор контура: Основные положения](contoureditorgui_k_grundlagen.md)
+* [Маршрутизируемые соединения в системе направляющих для проводов](routinggui_k_verdrahtungssystem.md)

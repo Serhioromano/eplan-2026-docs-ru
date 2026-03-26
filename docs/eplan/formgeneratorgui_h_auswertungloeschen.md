@@ -1,6 +1,6 @@
 ## Удалить страницы отчета
 
-При удалении страниц отчетов всегда удаляются страницы отчетов, принадлежащие [блоку отчетов](eplan/formgeneratorgui_k_auswertungsbloecke.md).
+При удалении страниц отчетов всегда удаляются страницы отчетов, принадлежащие [блоку отчетов](formgeneratorgui_k_auswertungsbloecke.md).
 
 Условие:
 
@@ -15,7 +15,7 @@
 
 **См. также:**
 
-* [Удалить встроенный отчет](eplan/formgeneratorgui_h_eingbauswertungloeschen.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Удалить встроенный отчет](formgeneratorgui_h_eingbauswertungloeschen.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)

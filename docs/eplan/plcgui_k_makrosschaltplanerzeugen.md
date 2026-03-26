@@ -82,6 +82,6 @@
 
 **См. также:**
 
-* [Генерация схемы соединений ПЛК](eplan/plcgui_k_spsschaltplanerzeugen.md)
-* [Генерировать схемы соединений ПЛК](eplan/plcgui_h_spsschaltplanerzeugen.md)
-* [Поведение при размещении макроса ПЛК](eplan/plcgui_k_abbuchverhalten.md)
+* [Генерация схемы соединений ПЛК](plcgui_k_spsschaltplanerzeugen.md)
+* [Генерировать схемы соединений ПЛК](plcgui_h_spsschaltplanerzeugen.md)
+* [Поведение при размещении макроса ПЛК](plcgui_k_abbuchverhalten.md)

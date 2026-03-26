@@ -29,5 +29,5 @@
 
 **См. также:**
 
-* [Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
-* [Словарь](eplan/translatedbgui_k_start.md)
+* [Автоматический перевод / перевод вручную](translategui_k_start.md)
+* [Словарь](translatedbgui_k_start.md)

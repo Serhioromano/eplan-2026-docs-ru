@@ -34,6 +34,6 @@
 
 **См. также:**
 
-* [Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
-* [Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
-* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Списки присвоений](plcgui_k_zuordnungslisten.md)
+* [Диалоговое окно Настройки: Специфич. для ПЛК](plcprocessorgui_d_spsspezifischeeinstellungen.md)
+* [Адресация выводов устройства ПЛК](plcgui_k_adressierung.md)

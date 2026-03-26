@@ -8,16 +8,16 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
-[Вкладка Присвоение класса](eplan/partsimportbmecatgui_r_klassenzuordnung.md)
+[Вкладка Присвоение класса](partsimportbmecatgui_r_klassenzuordnung.md)
 
-[Вкладка Присвоение поля BMEcat](eplan/partsimportbmecatgui_r_BMEcatFeldzuordnung.md)
+[Вкладка Присвоение поля BMEcat](partsimportbmecatgui_r_BMEcatFeldzuordnung.md)
 
-[Вкладка Присвоение признака ](eplan/partsimportbmecatgui_r_Merkmalzuordnung.md)
+[Вкладка Присвоение признака ](partsimportbmecatgui_r_Merkmalzuordnung.md)
 
-[Вкладка Настройки ](eplan/partsimportbmecatgui_r_Eigenschaften.md)
+[Вкладка Настройки ](partsimportbmecatgui_r_Eigenschaften.md)
 
 **См. также:**
 
-* [База данных изделий: Импорт данных изделий по стандарту ECLASS](eplan/partsimportbmecatgui_k_start.md)
+* [База данных изделий: Импорт данных изделий по стандарту ECLASS](partsimportbmecatgui_k_start.md)

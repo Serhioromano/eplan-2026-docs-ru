@@ -34,6 +34,6 @@
 
 **См. также:**
 
-* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-* [Создание графического предварительного планирования](eplan/planninggui_h_grafvorplanungerstellen.md)
-* [Назначить сегменты / объекты](eplan/planninggui_h_objektezuweisen.md)
+* [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
+* [Создание графического предварительного планирования](planninggui_h_grafvorplanungerstellen.md)
+* [Назначить сегменты / объекты](planninggui_h_objektezuweisen.md)

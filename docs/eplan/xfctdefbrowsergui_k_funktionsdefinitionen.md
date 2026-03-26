@@ -49,6 +49,6 @@
 
 **См. также:**
 
-* [Функции](eplan/xfctdefbrowsergui_k_start.md)
-* [Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
-* [Управление изделиями](eplan/articlesgui_k_start.md)
+* [Функции](xfctdefbrowsergui_k_start.md)
+* [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
+* [Управление изделиями](articlesgui_k_start.md)

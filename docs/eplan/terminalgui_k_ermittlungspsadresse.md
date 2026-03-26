@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
+* [Создать и обработать клеммы](terminalgui_h_klemmenerstlbearb.md)

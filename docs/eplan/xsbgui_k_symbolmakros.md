@@ -11,6 +11,6 @@
 
 **См. также:**
 
-* [Символы](eplan/xsbgui_k_start.md)
-* [Создать макросы](eplan/macrosgui_h_makroserzeugen.md)
-* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
+* [Символы](xsbgui_k_start.md)
+* [Создать макросы](macrosgui_h_makroserzeugen.md)
+* [Вставить макросы](macrosgui_h_makrosauswaehlen.md)

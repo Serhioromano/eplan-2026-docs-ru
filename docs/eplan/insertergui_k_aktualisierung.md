@@ -3,7 +3,7 @@
 Центр вставки автоматически обновляется после следующих событий:
 
 * Добавление или удаление библиотек символов
-* Генерирование, обновление и удаление [набора макросов](eplan/insertergui_k_makrosammlung.md)
+* Генерирование, обновление и удаление [набора макросов](insertergui_k_makrosammlung.md)
 * Изменение данных изделия в базе данных изделий
 * Импорт избранного или тегов
 
@@ -15,6 +15,6 @@
 
 **См. также:**
 
-* [Вставка объектов через центр вставки](eplan/insertergui_h_objekteeinfuegen.md)
-* [Определение избранного в центре вставки](eplan/insertergui_h_favoritendefinieren.md)
-* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
+* [Вставка объектов через центр вставки](insertergui_h_objekteeinfuegen.md)
+* [Определение избранного в центре вставки](insertergui_h_favoritendefinieren.md)
+* [Определение тегов в центре вставки](insertergui_h_tagsdefinieren.md)

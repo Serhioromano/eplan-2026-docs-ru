@@ -41,6 +41,6 @@ Eplan автоматически заполняет свойства Дата с
 
 **См. также:**
 
-* [База данных изделий: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
-* [Вкладка Принадлежности](eplan/articlesgui_r_zubehoer.md)
-* [Вкладки Изделия (Список принадлежностей)](eplan/articlesgui_r_zubehoerlisteartikel.md)
+* [База данных изделий: Управление принадлежностями](articlesgui_k_zubehoerlisten.md)
+* [Вкладка Принадлежности](articlesgui_r_zubehoer.md)
+* [Вкладки Изделия (Список принадлежностей)](articlesgui_r_zubehoerlisteartikel.md)

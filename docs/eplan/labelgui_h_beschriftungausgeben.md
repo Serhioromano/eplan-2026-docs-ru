@@ -22,7 +22,7 @@
 
 **См. также:**
 
-* [Экспорт данных изготовления / маркировка](eplan/labelgui_k_start.md)
-* [Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
-* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
+* [Экспорт данных изготовления / маркировка](labelgui_k_start.md)
+* [Внешние отчеты](labelgui_k_externeauswertungen.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](labelgui_k_aufbaubeschriftung.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](labelgui_k_formatelemente.md)

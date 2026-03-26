@@ -11,6 +11,6 @@
 
 **См. также:**
 
-* [Печать: Принцип](eplan/printgui_k_prinzip.md)
-* [Печать страниц](eplan/printgui_h_drucken.md)
-* [Печать присоединенных документов](eplan/printgui_h_begleitdokumente.md)
+* [Печать: Принцип](printgui_k_prinzip.md)
+* [Печать страниц](printgui_h_drucken.md)
+* [Печать присоединенных документов](printgui_h_begleitdokumente.md)

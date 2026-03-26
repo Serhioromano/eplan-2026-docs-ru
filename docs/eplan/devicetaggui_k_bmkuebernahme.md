@@ -49,6 +49,6 @@ NFPA |  Горизонтально |  Снизу вверх |  Справа на
 
 **См. также:**
 
-* [Устройство](eplan/devicetaggui_k_start.md)
-* [Особенности при переносе ОУ](eplan/devicetaggui_k_bmkuebernahmesonder.md)
-* [Определить направление поиска для переноса ОУ](eplan/devicetaggui_h_bmkuebernahmefestlegen.md)
+* [Устройство](devicetaggui_k_start.md)
+* [Особенности при переносе ОУ](devicetaggui_k_bmkuebernahmesonder.md)
+* [Определить направление поиска для переноса ОУ](devicetaggui_h_bmkuebernahmefestlegen.md)

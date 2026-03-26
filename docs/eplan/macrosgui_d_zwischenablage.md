@@ -15,6 +15,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Общие (Пользователь, Представление)](eplan/macrosgui_d_einstellzwischablage.md)
-* [Копировать, вырезать и вставить элементы](eplan/gededitgui_h_elementekopieren.md)
-* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
+* [Диалоговое окно Настройки: Общие (Пользователь, Представление)](macrosgui_d_einstellzwischablage.md)
+* [Копировать, вырезать и вставить элементы](gededitgui_h_elementekopieren.md)
+* [Копировать страницы в проекте](pagebrowsergui_h_seitenkopieren.md)

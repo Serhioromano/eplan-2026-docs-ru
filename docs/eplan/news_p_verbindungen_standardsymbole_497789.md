@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Диалоговое окно "Настройки: Стандартные символы"](eplan/connectionsettingsgui_d_einstellungenstandardsymbole.md)
+* [Диалоговое окно "Настройки: Стандартные символы"](connectionsettingsgui_d_einstellungenstandardsymbole.md)

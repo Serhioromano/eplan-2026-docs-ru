@@ -11,8 +11,8 @@
 
 Обзор основных элементов диалогового окна:
 
-[Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле Свойства](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 **См. также:**
 
-* [Создать профиль для изогнутых медных шин](eplan/copper_h_verlaufskonturerstellen.md)
+* [Создать профиль для изогнутых медных шин](copper_h_verlaufskonturerstellen.md)

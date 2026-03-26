@@ -13,16 +13,16 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Определите настройки нумерации соединений на вкладках:
 
-* [Вкладка Фильтр](eplan/wirenumberinggui_r_filter.md)
-* [Вкладка Размещение](eplan/wirenumberinggui_r_platzierung.md)
-* [Вкладка Обозначение](eplan/wirenumberinggui_r_bezeichnung.md)
-* [Вкладка Отображение](eplan/wirenumberinggui_r_anzeige.md).
+* [Вкладка Фильтр](wirenumberinggui_r_filter.md)
+* [Вкладка Размещение](wirenumberinggui_r_platzierung.md)
+* [Вкладка Обозначение](wirenumberinggui_r_bezeichnung.md)
+* [Вкладка Отображение](wirenumberinggui_r_anzeige.md).
 
 **См. также:**
 
-* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
+* [Нумерация соединений](wirenumberinggui_k_start.md)
+* [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)

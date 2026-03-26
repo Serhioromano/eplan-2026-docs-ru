@@ -14,4 +14,4 @@
 
 **См. также:**
 
-* [Устройство](eplan/devicetaggui_k_start.md)
+* [Устройство](devicetaggui_k_start.md)

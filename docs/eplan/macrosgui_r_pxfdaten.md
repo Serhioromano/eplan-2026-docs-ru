@@ -48,4 +48,4 @@
   
 **См. также:**
 
-* [Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)
+* [Диалоговое окно Настройки: Внешняя обработка](macrosgui_d_pxfeinstellungenexport.md)

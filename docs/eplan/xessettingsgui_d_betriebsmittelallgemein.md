@@ -80,7 +80,7 @@
 
 **См. также:**
 
-* [Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
-* [Синхронизация и корректировочный прогон](eplan/adjustdata_k_start.md)
-* [Принцип работы при вставке устройств](eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
-* [Управление изделиями: Управление принадлежностями](eplan/articlesgui_k_zubehoerlisten.md)
+* [Синхронизация распределенных функций](adjustdata_h_funktionabgleichen.md)
+* [Синхронизация и корректировочный прогон](adjustdata_k_start.md)
+* [Принцип работы при вставке устройств](devicelistgui_k_vorgehengeraeteeinfuegen.md)
+* [Управление изделиями: Управление принадлежностями](articlesgui_k_zubehoerlisten.md)

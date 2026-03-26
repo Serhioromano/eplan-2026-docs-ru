@@ -5,8 +5,8 @@
 
 Возможности настройки на вкладке Провода или вкладка Одиночные жилы различаются в зависимости от используемой машины:
 
-[Вкладка Провода (CadCabel)](eplan/productionwiringgui_r_draehtecadcabel.md)
+[Вкладка Провода (CadCabel)](productionwiringgui_r_draehtecadcabel.md)
 
-[Вкладка "Провода" (Schleuniger — EASY ProductionServer)](eplan/productionwiringgui_r_draehteschleuniger.md)
+[Вкладка "Провода" (Schleuniger — EASY ProductionServer)](productionwiringgui_r_draehteschleuniger.md)
 
-[Вкладка "Одиночные жилы" (Komax — Zeta)](eplan/productionwiringgui_r_einzeladernkomax.md)
+[Вкладка "Одиночные жилы" (Komax — Zeta)](productionwiringgui_r_einzeladernkomax.md)

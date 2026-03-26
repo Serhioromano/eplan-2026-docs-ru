@@ -41,4 +41,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Результаты измерений](eplan/gedviewer_d_messergebnis.md)
+* [Диалоговое окно Результаты измерений](gedviewer_d_messergebnis.md)

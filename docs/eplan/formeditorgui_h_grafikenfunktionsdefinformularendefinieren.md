@@ -45,4 +45,4 @@
 
 **См. также:**
 
-* [Вставить графику форм](eplan/formeditorgui_h_formulargrafikeneinfuegen.md)
+* [Вставить графику форм](formeditorgui_h_formulargrafikeneinfuegen.md)

@@ -13,4 +13,4 @@ DeclareUnregister |  Данная функция вызывается перед
   
 **См. также:**
 
-* [Сценарии](eplan/scripts_k_start.md)
+* [Сценарии](scripts_k_start.md)

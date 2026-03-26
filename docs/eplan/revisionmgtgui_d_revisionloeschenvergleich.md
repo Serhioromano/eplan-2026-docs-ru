@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
-* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
+* [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)

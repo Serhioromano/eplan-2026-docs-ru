@@ -22,9 +22,9 @@
 
 **См. также:**
 
-* [Резервные функциональные элементы: Принцип работы](eplan/sparecomponent_k_arbeitsweise.md)
-* [Резервные функциональные элементы: Определения устройств](eplan/sparecomponent_k_geraetedefinitionen.md)
-* [Резервные функциональные элементы: Шаблоны функции](eplan/sparecomponent_k_funktionsschablonen.md)
-* [Данные неразмещенных устройств](eplan/sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
-* [Резервные функциональные элементы: Режимы копирования для функций](eplan/sparecomponent_k_kopiermodifunktionen.md)
-* [Резервные функциональные элементы: Режимы удаления для функций](eplan/sparecomponent_k_loeschmodifunktionen.md)
+* [Резервные функциональные элементы: Принцип работы](sparecomponent_k_arbeitsweise.md)
+* [Резервные функциональные элементы: Определения устройств](sparecomponent_k_geraetedefinitionen.md)
+* [Резервные функциональные элементы: Шаблоны функции](sparecomponent_k_funktionsschablonen.md)
+* [Данные неразмещенных устройств](sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
+* [Резервные функциональные элементы: Режимы копирования для функций](sparecomponent_k_kopiermodifunktionen.md)
+* [Резервные функциональные элементы: Режимы удаления для функций](sparecomponent_k_loeschmodifunktionen.md)

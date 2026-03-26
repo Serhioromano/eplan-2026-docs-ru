@@ -32,5 +32,5 @@
 
 **См. также:**
 
-* [Работа, ориентированная на канал](eplan/plcgui_k_kanalorientiertarbeitsweise.md)
-* [Конфигурировать представления в виде списка и структуры дерева](eplan/modaldialogsdb_h_spaltenkonfigurieren.md)
+* [Работа, ориентированная на канал](plcgui_k_kanalorientiertarbeitsweise.md)
+* [Конфигурировать представления в виде списка и структуры дерева](modaldialogsdb_h_spaltenkonfigurieren.md)

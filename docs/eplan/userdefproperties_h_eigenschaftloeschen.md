@@ -40,7 +40,7 @@
 
 **См. также:**
 
-* [Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
+* [Определенные пользователем свойства](userdefproperties_k_start.md)
 Удалить определенные пользователем свойства
 
-[Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+[Сжать проект](projectcleangui_h_projektsaeubern.md)

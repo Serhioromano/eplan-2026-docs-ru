@@ -44,6 +44,6 @@ Fluid-соединения определяются также в виде пр�
 
 **См. также:**
 
-* [Вставить группы шланговых соединений, трубопроводы и шлангопроводы](eplan/ftechnic_h_paketedefinieren.md)
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)
+* [Вставить группы шланговых соединений, трубопроводы и шлангопроводы](ftechnic_h_paketedefinieren.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Eplan Fluid: Соединения](ftechnic_k_verbindungen.md)

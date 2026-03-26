@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
-* [Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
-* [Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
+* [Сети соединенных сегментов (топология)](cablinggui_k_start.md)
+* [Маршрутизируемые соединения (топология): порядок действий](cablinggui_k_vorgehensweise.md)
+* [Маршрутизировать соединения (топологию)](cablinggui_h_verlegen.md)

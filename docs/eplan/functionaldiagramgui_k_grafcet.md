@@ -38,5 +38,5 @@
 
 **См. также:**
 
-* [Блок-схема рабочего процесса: Принцип](eplan/functionaldiagramgui_k_prinzip.md)
-* [Порядок создания блок-схем рабочего процесса](eplan/functionaldiagramgui_k_funktionsdiagramme.md)
+* [Блок-схема рабочего процесса: Принцип](functionaldiagramgui_k_prinzip.md)
+* [Порядок создания блок-схем рабочего процесса](functionaldiagramgui_k_funktionsdiagramme.md)

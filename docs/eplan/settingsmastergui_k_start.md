@@ -9,9 +9,9 @@
 
 **См. также:**
 
-* [Настройки: Принцип работы](eplan/settingsmastergui_k_arbeitsweise.md)
-* [Права и доступ](eplan/settingsmastergui_k_rechteundzugriff.md)
-* [Настройки при обновлении программы ](eplan/settingsmastergui_k_einstellungenbeimupdate.md)
-* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-* [Заменить настройки](eplan/settingsmastergui_h_einstellungenaustauschen.md)
-* [Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)
+* [Настройки: Принцип работы](settingsmastergui_k_arbeitsweise.md)
+* [Права и доступ](settingsmastergui_k_rechteundzugriff.md)
+* [Настройки при обновлении программы ](settingsmastergui_k_einstellungenbeimupdate.md)
+* [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
+* [Заменить настройки](settingsmastergui_h_einstellungenaustauschen.md)
+* [Сброс настроек на стандартные значения](settingsmastergui_h_einstellungenaufstandard.md)

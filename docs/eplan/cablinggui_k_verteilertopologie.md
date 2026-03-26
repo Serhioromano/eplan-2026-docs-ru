@@ -27,7 +27,7 @@
 
 **См. также:**
 
-* [Символы соединения: Основные положения](eplan/egedgui_k_grundlagen.md)
-* [Символы соединения: Распределители и соединители](eplan/egedgui_k_verteiler.md)
-* [Маршрутизируемые соединения (топология)](eplan/cablinggui_k_verlegeverbindungen.md)
-* [Изменить маршрутизацию (топология)](eplan/cablinggui_h_verlegewegaendern.md)
+* [Символы соединения: Основные положения](egedgui_k_grundlagen.md)
+* [Символы соединения: Распределители и соединители](egedgui_k_verteiler.md)
+* [Маршрутизируемые соединения (топология)](cablinggui_k_verlegeverbindungen.md)
+* [Изменить маршрутизацию (топология)](cablinggui_h_verlegewegaendern.md)

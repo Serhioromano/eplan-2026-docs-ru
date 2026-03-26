@@ -19,7 +19,7 @@
 Библиотека символов будет занесена в столбец Создать имя.
 5. Чтобы присвоить всю библиотеку символов, щелкните на вкладке Основные данные по [Далее], и щелкните на вкладке Символы по [Далее].  
   
-[Определить Структура проекта](eplan/changestandardsgui_h_projektstrukturanpassen.md).
+[Определить Структура проекта](changestandardsgui_h_projektstrukturanpassen.md).
 6. Чтобы по отдельности присвоить символы исходной библиотеки символов символам целевой библиотеки символов, на вкладке Основные данные рядом с целевой библиотекой символов установите флажок Присвоить отдельно и щелкните по [Далее].  
   
 Исходная и целевая библиотека символов будут внесены на вкладку Символы.
@@ -27,14 +27,14 @@
   
 Если вы хотите использовать существующую схему присвоения, щелкните [Схема] и составьте схему присвоения.  
   
-[Создать схему присвоения для символов](eplan/changestandardsgui_h_stammdatenersetzen.md)
+[Создать схему присвоения для символов](changestandardsgui_h_stammdatenersetzen.md)
 8. Щелкните по [Далее].  
   
-[Определить Структура проекта](eplan/changestandardsgui_h_projektstrukturanpassen.md).
+[Определить Структура проекта](changestandardsgui_h_projektstrukturanpassen.md).
 
 **См. также:**
 
-* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
-* [Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
-* [Определить нумерацию устройств (Изменение стандарта)](eplan/changestandardsgui_h_nummerieren.md)
+* [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
+* [Создать схему присвоения для символов (изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
+* [Определить нумерацию устройств (Изменение стандарта)](changestandardsgui_h_nummerieren.md)

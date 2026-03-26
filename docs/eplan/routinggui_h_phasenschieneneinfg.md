@@ -29,5 +29,5 @@
 
 **См. также:**
 
-* [Генерировать соединения фазовых шин](eplan/routinggui_h_phasenschienenvbdgerzg.md)
-* [Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
+* [Генерировать соединения фазовых шин](routinggui_h_phasenschienenvbdgerzg.md)
+* [Маршрутизировать соединения](routinggui_h_verlegen.md)

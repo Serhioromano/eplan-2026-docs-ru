@@ -15,4 +15,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Обработать порядок свойств](eplan/symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md)
+* [Диалоговое окно Обработать порядок свойств](symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md)

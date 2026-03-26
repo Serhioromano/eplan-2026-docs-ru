@@ -30,4 +30,4 @@
 
 **См. также:**
 
-* [Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Отчеты](formgeneratorgui_k_start.md)

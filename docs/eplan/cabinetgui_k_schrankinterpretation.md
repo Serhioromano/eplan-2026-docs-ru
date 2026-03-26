@@ -57,6 +57,6 @@
 
 **См. также:**
 
-* [Представить и перенести логику электрошкафа](eplan/cabinetgui_h_schrankinterpretation.md)
-* [Диалоговое окно Выбор шаблона интерпретации](eplan/cabinetgui_d_musterschrankwaehlen.md)
-* [Диалоговое окно Список соответствия](eplan/cabinetgui_d_trefferliste.md)
+* [Представить и перенести логику электрошкафа](cabinetgui_h_schrankinterpretation.md)
+* [Диалоговое окно Выбор шаблона интерпретации](cabinetgui_d_musterschrankwaehlen.md)
+* [Диалоговое окно Список соответствия](cabinetgui_d_trefferliste.md)

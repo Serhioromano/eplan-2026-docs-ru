@@ -15,9 +15,9 @@ Eplan Fluid удовлетворяет ваши требования больш�
 
 **См. также:**
 
-* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
-* [Eplan Fluid: Сложные устройства](eplan/ftechnic_k_geraetekaesten_anschluesse.md)
-* [Eplan Fluid: Отчеты](eplan/ftechnic_k_auswertungen.md)
-* [Eplan Fluid: Символы соединения](eplan/ftechnic_k_verbindungssymbole.md)
-* [Табличная обработка данных функций Fluid-Техники](eplan/ftechnic_k_tabellarische_bearbeitung.md)
-* [Специфические для Fluid-техники контрольные прогоны](eplan/ftechnic_k_prueflaeufe.md)
+* [Eplan Fluid: Структура устройства](ftechnic_k_betriebsmittelstruktur.md)
+* [Eplan Fluid: Сложные устройства](ftechnic_k_geraetekaesten_anschluesse.md)
+* [Eplan Fluid: Отчеты](ftechnic_k_auswertungen.md)
+* [Eplan Fluid: Символы соединения](ftechnic_k_verbindungssymbole.md)
+* [Табличная обработка данных функций Fluid-Техники](ftechnic_k_tabellarische_bearbeitung.md)
+* [Специфические для Fluid-техники контрольные прогоны](ftechnic_k_prueflaeufe.md)

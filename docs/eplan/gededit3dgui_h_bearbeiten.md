@@ -19,5 +19,5 @@
 
 **См. также:**
 
-* [Вкладка Вид (обзор модели)](gededit3dgui_r_modell.htm)
-* [Изменение обзора модели](gededit3dgui_h_veraendern.htm)
+* [Вкладка Вид (обзор модели)](gededit3dgui_r_modell.md)
+* [Изменение обзора модели](gededit3dgui_h_veraendern.md)

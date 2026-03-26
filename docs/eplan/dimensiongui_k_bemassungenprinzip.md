@@ -46,6 +46,6 @@
 
 **См. также:**
 
-* [Указания размеров](eplan/dimensiongui_k_start.md)
-* [Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)
-* [Вкладка Указания размеров](eplan/dimensiongui_r_bemassung.md)
+* [Указания размеров](dimensiongui_k_start.md)
+* [Диалоговое окно Настройки: Указание размеров](dimensiongui_d_projektbemassung.md)
+* [Вкладка Указания размеров](dimensiongui_r_bemassung.md)

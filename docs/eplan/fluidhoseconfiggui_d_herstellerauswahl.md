@@ -1,6 +1,6 @@
 ## Диалоговое окно "Выбор производителя"
 
-Открыто диалоговое окно [Обработать <...>](eplan/fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md). Щелкните внутри группового поля Прочие данные рядом с полем Производитель по кнопке [...].
+Открыто диалоговое окно [Обработать <...>](fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md). Щелкните внутри группового поля Прочие данные рядом с полем Производитель по кнопке [...].
 
 Выберите нужного производителя шлангопровода в этом диалоговом окне. Эта информация нужна для вывода обозначения шлангопровода.
 
@@ -12,5 +12,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)
-* [[Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](fluidhoseconfiggui_d_einstellungen.md)
+* [[Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)

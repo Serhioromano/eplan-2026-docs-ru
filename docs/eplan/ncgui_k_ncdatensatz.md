@@ -59,5 +59,5 @@
 
 **См. также:**
 
-* [Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)
-* [Диалоговое окно Запись данных контура ЧУ](eplan/contoureditorgui_d_ncdatensatz.md)
+* [Генерирование и обработка записей данных контура ЧУ](contoureditorgui_h_nckonturdatenbearbeiten.md)
+* [Диалоговое окно Запись данных контура ЧУ](contoureditorgui_d_ncdatensatz.md)

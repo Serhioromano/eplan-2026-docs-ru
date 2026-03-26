@@ -11,5 +11,5 @@
 
 **См. также:**
 
-* [Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
-* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Создать / выбрать словарь](translatedbgui_h_woerterbuchanlegen.md)
+* [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)

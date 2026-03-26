@@ -37,5 +37,5 @@ ANSI E |  864 x 1118 |  34 x 44
 
 **См. также:**
 
-* [Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
-* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
+* [Диалоговое окно Экспорт PDF](pdfexportgui_d_export.md)
+* [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)

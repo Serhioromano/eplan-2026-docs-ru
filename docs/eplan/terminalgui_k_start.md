@@ -19,11 +19,11 @@
 
 **См. также:**
 
-* [Управление клеммниками](eplan/terminalgui_k_verwaltungleisten.md)
-* [Управление клеммами](eplan/terminalgui_k_verwaltung.md)
-* [Обработка клеммных данных](eplan/terminalgui_k_arbeitsweise.md)
-* [Применение главных клемм](eplan/terminalgui_k_hauptklemmen.md)
-* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-* [Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)
-* [Раздельное представление клемм](eplan/terminalgui_k_verteiltedarstellungklemmen.md)
-* [Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)
+* [Управление клеммниками](terminalgui_k_verwaltungleisten.md)
+* [Управление клеммами](terminalgui_k_verwaltung.md)
+* [Обработка клеммных данных](terminalgui_k_arbeitsweise.md)
+* [Применение главных клемм](terminalgui_k_hauptklemmen.md)
+* [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)
+* [Управление перемычками](terminalgui_k_verwendungbruecken.md)
+* [Раздельное представление клемм](terminalgui_k_verteiltedarstellungklemmen.md)
+* [Вставить клеммы и определения клеммников](terminalgui_h_klemmenzeichnen.md)

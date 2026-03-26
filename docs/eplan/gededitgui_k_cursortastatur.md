@@ -34,6 +34,6 @@
   
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Определить величины шага](eplan/gededitgui_h_schrittweitenfestlegen.md)
-* [Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)
+* [Обзор комбинаций клавиш](gededitgui_k_tastaturbefehle.md)

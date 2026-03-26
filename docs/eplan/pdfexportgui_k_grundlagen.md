@@ -79,10 +79,10 @@
 
 **См. также:**
 
-* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-* [Вкладка Экспорт (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_export.md)
-* [Вкладка Общее (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_allgemein.md)
-* [Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
-* [Вкладка Свойства устройства / Свойства изделия](eplan/pdfexportgui_r_bmeigenschaften.md)
-* [Диалоговое окно Настройки: Языки вывода PDF](eplan/pdfexportgui_d_projekteinstellungen.md)
-* [Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
+* [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)
+* [Вкладка Экспорт (пользователь, Экспорт PDF)](pdfexportgui_r_export.md)
+* [Вкладка Общее (пользователь, Экспорт PDF)](pdfexportgui_r_allgemein.md)
+* [Вкладка Страницы устройства](pdfexportgui_r_bmseiten.md)
+* [Вкладка Свойства устройства / Свойства изделия](pdfexportgui_r_bmeigenschaften.md)
+* [Диалоговое окно Настройки: Языки вывода PDF](pdfexportgui_d_projekteinstellungen.md)
+* [Диалоговое окно Экспорт PDF](pdfexportgui_d_export.md)

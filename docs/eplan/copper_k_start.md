@@ -11,6 +11,6 @@
 
 **См. также:**
 
-* [Проектирование электрошкафа с медными функциональными элементами: Принцип работы](eplan/copper_k_arbeitsweise.md)
-* [Разместить медную шину](eplan/copper_h_kupferschieneplatzieren.md)
-* [Сборная шина (изогнутая): Принцип](eplan/copper_k_kupferanschlusselement.md)
+* [Проектирование электрошкафа с медными функциональными элементами: Принцип работы](copper_k_arbeitsweise.md)
+* [Разместить медную шину](copper_h_kupferschieneplatzieren.md)
+* [Сборная шина (изогнутая): Принцип](copper_k_kupferanschlusselement.md)

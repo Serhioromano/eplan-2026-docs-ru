@@ -12,6 +12,6 @@ Eplan позволяет создавать дополнительные опр�
 
 **См. также:**
 
-* [Определенные пользователем свойства: Принцип](eplan/userdefproperties_k_prinzip.md)
-* [Дополнительные поля и произвольные свойства](eplan/userdefproperties_k_zusatzfelder.md)
-* [Создать определенные пользователем свойства](eplan/userdefproperties_h_eigenschafterstellen.md)
+* [Определенные пользователем свойства: Принцип](userdefproperties_k_prinzip.md)
+* [Дополнительные поля и произвольные свойства](userdefproperties_k_zusatzfelder.md)
+* [Создать определенные пользователем свойства](userdefproperties_h_eigenschafterstellen.md)

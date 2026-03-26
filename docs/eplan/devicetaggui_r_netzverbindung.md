@@ -80,6 +80,6 @@
   
 **См. также:**
 
-* [Определение шлейфов](eplan/netbasedwires_h_verbindungsketten.md)
-* [Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
-* [Диалоговое окно Настройки: Общие (проект, соединения)](eplan/connectionsettingsgui_d_einstellungenallgemein.md)
+* [Определение шлейфов](netbasedwires_h_verbindungsketten.md)
+* [Определение потенциалов и сигналов](potentialbrowsergui_k_prinzippotenziale.md)
+* [Диалоговое окно Настройки: Общие (проект, соединения)](connectionsettingsgui_d_einstellungenallgemein.md)

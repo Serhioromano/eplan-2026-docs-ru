@@ -41,7 +41,7 @@
 
 **См. также:**
 
-* [Вставка новой опорной точки на кривой](eplan/routinggui_h_kurveneuerstuetzpunkt.md)
-* [Изменить направление кривой](eplan/routinggui_h_kurvenverlaufaendern.md)
-* [Выровнять направление кривой по касательной](eplan/routinggui_h_kurvenverlauftangential.md)
-* [Вкладка Кривая](eplan/devicetaggui_r_kurve.md)
+* [Вставка новой опорной точки на кривой](routinggui_h_kurveneuerstuetzpunkt.md)
+* [Изменить направление кривой](routinggui_h_kurvenverlaufaendern.md)
+* [Выровнять направление кривой по касательной](routinggui_h_kurvenverlauftangential.md)
+* [Вкладка Кривая](devicetaggui_r_kurve.md)

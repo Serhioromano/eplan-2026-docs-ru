@@ -13,9 +13,9 @@
 
 **См. также:**
 
-* [Создать профиль для изогнутых медных шин](eplan/copper_h_verlaufskonturerstellen.md)
-* [Определить медное изделие](eplan/copper_h_kupferartikeldefinieren.md)
-* [Разместить медную шину](eplan/copper_h_kupferschieneplatzieren.md)
-* [Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
-* [Создать развертку шины](eplan/copper_h_kupferabwicklungerstellen.md)
-* [Экспортировать развертку шины](eplan/copper_h_kupferabwicklungexportieren.md)
+* [Создать профиль для изогнутых медных шин](copper_h_verlaufskonturerstellen.md)
+* [Определить медное изделие](copper_h_kupferartikeldefinieren.md)
+* [Разместить медную шину](copper_h_kupferschieneplatzieren.md)
+* [Обработать медную шину](copper_h_kupferteilbearbeiten.md)
+* [Создать развертку шины](copper_h_kupferabwicklungerstellen.md)
+* [Экспортировать развертку шины](copper_h_kupferabwicklungexportieren.md)

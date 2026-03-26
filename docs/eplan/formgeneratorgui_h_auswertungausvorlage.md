@@ -1,6 +1,6 @@
 ## Генерация отчета из шаблона
 
-Если вы генерируете отчет из [шаблона отчетов](eplan/formgeneratorgui_k_auswertungsvorlagen.md), то вам не нужно больше устанавливать все настройки. Все настройки, которые уже были установлены в шаблоне, применяются для отчета.
+Если вы генерируете отчет из [шаблона отчетов](formgeneratorgui_k_auswertungsvorlagen.md), то вам не нужно больше устанавливать все настройки. Все настройки, которые уже были установлены в шаблоне, применяются для отчета.
 
 Условия:
 
@@ -15,7 +15,7 @@
 
 **См. также:**
 
-* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Создать шаблон отчета](formgeneratorgui_h_vorlageerstellen.md)
+* [Присвоение формы типу отчета](formgeneratorgui_h_auswerten.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)

@@ -26,11 +26,11 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-* [Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
-* [Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)
-* [Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
-* [Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
-* [Создать и обработать классы трубы и вещества](eplan/planninggui_h_rohrklasseerstellen.md)
-* [Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
+* [Объекты планирования, соединения](planninggui_k_verbindungsvorplanung.md)
+* [Шаблоны сегментов](planninggui_k_segmentvorlagen.md)
+* [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
+* [Определенные пользователем свойства](userdefproperties_k_start.md)
+* [Создать и обработать классы трубы и вещества](planninggui_h_rohrklasseerstellen.md)
+* [Диалоговое окно Настройки: Выбор устройства](partselectiongui_d_einstellungengeraeteauswahl.md)

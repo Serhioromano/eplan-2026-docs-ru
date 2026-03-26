@@ -44,5 +44,5 @@
 
 **См. также:**
 
-* [Вставка и изменение кривых](eplan/routinggui_h_kurveeinfuegen.md)
-* [Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)
+* [Вставка и изменение кривых](routinggui_h_kurveeinfuegen.md)
+* [Изменить маршрутизацию](routinggui_h_verlegewegaendern.md)

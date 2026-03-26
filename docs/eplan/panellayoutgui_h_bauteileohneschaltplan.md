@@ -8,7 +8,7 @@
 * Вы открыли в графическом редакторе страницу проекта типа "Компоновка электрошкафа".
 * Вы вставили монтажную плату.
 * Вы открыли диалоговое окно Компоновка электрошкафа 2D - <Имя проекта> (вкладка Устройства > группа команд Компоновка электрошкафа 2D > Навигатор).
-* В диалоговом окне [Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md) не выбран ни один параметр Ввод вручную <...>.
+* В диалоговом окне [Настройки: Компоновка электрошкафа 2D](panellayoutgui_d_schaltschrankaufbaueinstellungen.md) не выбран ни один параметр Ввод вручную <...>.
 
 1. В диалоговом окне Компоновка электрошкафа 2D — <Имя проекта> выберите пункт всплывающего меню Новое устройство.
 2. В диалоговом окне Выбор изделия выберите требуемое изделие.
@@ -43,6 +43,6 @@
 
 **См. также:**
 
-* [Обработать и отобразить свойства размещений изделий](eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
-* [Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)
-* [Диалоговое окно Удлинение и интервал](eplan/panellayoutgui_d_ausdehnungabstand.md)
+* [Обработать и отобразить свойства размещений изделий](panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
+* [Вкладка Размещение изделия](devicetaggui_r_artikelplatzierung.md)
+* [Диалоговое окно Удлинение и интервал](panellayoutgui_d_ausdehnungabstand.md)

@@ -16,5 +16,5 @@
   
 **См. также:**
 
-* [Управление Eplan с помощью клавиатуры](eplan/userinterface_h_eplanmittastaturbedienen.md)
-* [Вид Backstage: область команд](eplan/prjmanagementgui_d_backstagebefehle.md)
+* [Управление Eplan с помощью клавиатуры](userinterface_h_eplanmittastaturbedienen.md)
+* [Вид Backstage: область команд](prjmanagementgui_d_backstagebefehle.md)

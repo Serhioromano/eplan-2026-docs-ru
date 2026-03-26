@@ -9,6 +9,6 @@
 
 **См. также:**
 
-* [Eplan Fluid Hose Configurator: Введение](eplan/fluidhoseconfiggui_k_start.md)
-* [Считать данные шлангопроводов](eplan/fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
-* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Eplan Fluid Hose Configurator: Введение](fluidhoseconfiggui_k_start.md)
+* [Считать данные шлангопроводов](fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
+* [Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)

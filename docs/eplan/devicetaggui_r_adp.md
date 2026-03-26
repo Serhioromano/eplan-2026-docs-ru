@@ -39,4 +39,4 @@
 
 **См. также:**
 
-* [Начертить точку определения изделия](eplan/partselectiongui_h_adpzeichnen.md)
+* [Начертить точку определения изделия](partselectiongui_h_adpzeichnen.md)

@@ -18,4 +18,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Вывод в страницах](eplan/formgeneratorgui_d_einstellgrafikausgabe.md)
+* [Диалоговое окно Настройки: Вывод в страницах](formgeneratorgui_d_einstellgrafikausgabe.md)

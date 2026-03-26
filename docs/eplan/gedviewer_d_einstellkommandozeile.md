@@ -22,5 +22,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Использовать область ввода данных](eplan/gededitgui_h_kommandozeile.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Использовать область ввода данных](gededitgui_h_kommandozeile.md)

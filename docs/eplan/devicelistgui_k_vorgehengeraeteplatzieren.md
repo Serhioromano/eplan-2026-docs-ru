@@ -40,5 +40,5 @@
 
 **См. также:**
 
-* [Вставка / размещение устройств](eplan/devicelistgui_k_platzieren.md)
-* [Процедура удаления и копирования устройств](eplan/devicelistgui_k_loeschenkopieren.md)
+* [Вставка / размещение устройств](devicelistgui_k_platzieren.md)
+* [Процедура удаления и копирования устройств](devicelistgui_k_loeschenkopieren.md)

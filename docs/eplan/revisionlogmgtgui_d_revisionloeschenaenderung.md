@@ -16,6 +16,6 @@
 
 **См. также:**
 
-* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
-* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-* [Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
+* [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
+* [Закрыть страницы](revisionmgtgui_h_seitenabschliessen.md)

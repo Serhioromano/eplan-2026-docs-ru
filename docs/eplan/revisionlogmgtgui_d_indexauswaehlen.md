@@ -12,4 +12,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Описание изменения страниц](eplan/revisionlogmgtgui_d_beschreibungseitenaenderung.md)
+* [Диалоговое окно Описание изменения страниц](revisionlogmgtgui_d_beschreibungseitenaenderung.md)

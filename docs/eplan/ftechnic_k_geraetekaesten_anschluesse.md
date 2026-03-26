@@ -14,6 +14,6 @@
 
 **См. также:**
 
-* [Черные ящики](eplan/blackbox_k_start.md)
-* [Вставить выводы устройств](eplan/blackbox_h_anschluesseeinfuegen.md)
-* [Группы устройств](eplan/devicelistgui_k_geraetegruppierung.md)
+* [Черные ящики](blackbox_k_start.md)
+* [Вставить выводы устройств](blackbox_h_anschluesseeinfuegen.md)
+* [Группы устройств](devicelistgui_k_geraetegruppierung.md)

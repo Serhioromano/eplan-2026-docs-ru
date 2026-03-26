@@ -40,7 +40,7 @@
 
 **См. также:**
 
-* [Центр вставки](eplan/insertergui_k_start.md)
-* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-* [Определение тегов в центре вставки](eplan/insertergui_h_tagsdefinieren.md)
-* [Комбинации клавиш в центре вставки](eplan/insertergui_k_tastaturbedienung.md)
+* [Центр вставки](insertergui_k_start.md)
+* [Диалоговое окно "Центр вставки"](insertergui_d_einfuegezentrum.md)
+* [Определение тегов в центре вставки](insertergui_h_tagsdefinieren.md)
+* [Комбинации клавиш в центре вставки](insertergui_k_tastaturbedienung.md)

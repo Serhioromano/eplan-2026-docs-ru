@@ -22,11 +22,11 @@
 
 **См. также:**
 
-* [Комментарии](eplan/projectcomments_k_start.md)
-* [Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
-* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
-* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
-* [Вывести страницы в PDF-файл](eplan/pdfexportgui_h_seitenexportieren.md)
-* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-* [Удалить комментарии](eplan/projectcomments_h_kommentareloeschen.md)
+* [Комментарии](projectcomments_k_start.md)
+* [Комментирование : Процедура](projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](pdfexportgui_d_kommentarenavigator.md)
+* [Вкладка Комментарий](gededitgui_r_kommentareigenschaften.md)
+* [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)
+* [Вставить комментарии](projectcomments_h_kommentareeinfuegen.md)
+* [Редактировать комментарии](projectcomments_h_kommentarebearbeiten.md)
+* [Удалить комментарии](projectcomments_h_kommentareloeschen.md)

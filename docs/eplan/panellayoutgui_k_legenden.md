@@ -20,4 +20,4 @@
 
 **См. также:**
 
-* [Компоновка электрошкафа 2D](eplan/panellayoutgui_k_start.md)
+* [Компоновка электрошкафа 2D](panellayoutgui_k_start.md)

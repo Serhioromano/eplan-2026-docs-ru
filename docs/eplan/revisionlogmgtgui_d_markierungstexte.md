@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-* [Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
+* [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
+* [Диалоговое окно Формат](eservicesgui_d_format.md)

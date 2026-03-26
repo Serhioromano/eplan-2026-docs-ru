@@ -46,5 +46,5 @@
 
 **См. также:**
 
-* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
-* [Диалоговое окно Настроить](eplan/fp_d_anpassen.md)
+* [Настроить ленту](userinterface_h_menuebandanpassen.md)
+* [Диалоговое окно Настроить](fp_d_anpassen.md)

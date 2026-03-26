@@ -46,5 +46,5 @@
 
 **См. также:**
 
-* [Определить свойства блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
-* [Редактор форм и рамок](eplan/formeditorgui_k_start.md)
+* [Определить свойства блока](blockproperties_h_blockeigenschaftendefinieren.md)
+* [Редактор форм и рамок](formeditorgui_k_start.md)

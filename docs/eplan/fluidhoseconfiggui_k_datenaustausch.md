@@ -6,6 +6,6 @@
 
 **См. также:**
 
-* [Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
-* [Считать данные шлангопроводов](eplan/fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
-* [Диалоговое окно "Конфигурировать шлангопроводы"](eplan/fluidhoseconfiggui_d_schlauchleitungen.md)
+* [Рабочий процесс](fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
+* [Считать данные шлангопроводов](fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
+* [Диалоговое окно "Конфигурировать шлангопроводы"](fluidhoseconfiggui_d_schlauchleitungen.md)

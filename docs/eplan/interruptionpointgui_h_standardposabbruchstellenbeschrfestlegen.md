@@ -31,5 +31,5 @@
 
 **См. также:**
 
-* [Вставить точки разрыва](eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
-* [Обработать точки разрыва](eplan/interruptionpointgui_h_abbruchstellenbearbeiten.md)
+* [Вставить точки разрыва](interruptionpointgui_h_abbruchstelleneinfuegen.md)
+* [Обработать точки разрыва](interruptionpointgui_h_abbruchstellenbearbeiten.md)

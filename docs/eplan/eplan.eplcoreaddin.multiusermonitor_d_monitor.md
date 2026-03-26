@@ -42,5 +42,5 @@
 
 **См. также:**
 
-* [Многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_k_start.md)
-* [Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
+* [Многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_k_start.md)
+* [Обработка проекта в многопользовательском режиме](xesmultiuserconflictgui_k_projektebearbeiten.md)

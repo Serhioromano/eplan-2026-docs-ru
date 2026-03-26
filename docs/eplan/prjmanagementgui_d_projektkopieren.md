@@ -47,7 +47,7 @@
 
 **См. также:**
 
-* [Копировать проект (Управление проектами)](eplan/prjmanagementgui_h_projektkopieren.md)
-* [Отчеты](eplan/formgeneratorgui_k_start.md)
-* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-* [Проекты](eplan/projects_k_start.md)
+* [Копировать проект (Управление проектами)](prjmanagementgui_h_projektkopieren.md)
+* [Отчеты](formgeneratorgui_k_start.md)
+* [Типы страниц](pagebrowsergui_k_seitentypen.md)
+* [Проекты](projects_k_start.md)

@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Вкладка Настройки: Экспорт пространства конструкции](eplan/xdesignspaceimportgui_r_einstellungenstepexport.md)
-* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
+* [Вкладка Настройки: Экспорт пространства конструкции](xdesignspaceimportgui_r_einstellungenstepexport.md)
+* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)

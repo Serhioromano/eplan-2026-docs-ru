@@ -43,6 +43,6 @@
 
 **См. также:**
 
-* [Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
-* [Использование имеющихся кабелей, кабельных соединений и экранирований](eplan/cablegui_h_abbuchen.md)
-* [Диалоговое окно Настройки: Символы соединения](eplan/gedviewer_d_einstellungenverbindungssymbole.md)
+* [Графическое представление кабелей и экранирований](cablegui_k_grafischedarstellung.md)
+* [Использование имеющихся кабелей, кабельных соединений и экранирований](cablegui_h_abbuchen.md)
+* [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)

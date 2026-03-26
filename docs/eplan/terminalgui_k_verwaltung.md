@@ -37,9 +37,9 @@
 
 **См. также:**
 
-* [Применение главных клемм](eplan/terminalgui_k_hauptklemmen.md)
-* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
-* [Отчеты по клеммам с отображением выводов устройств](eplan/terminalgui_k_auswertungklemmen.md)
-* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
-* [Отобразить, добавить или удалить последовательные принадлежности](eplan/terminalgui_h_leistenzubehoererstlloesch.md)
-* [Определить многоуровневые клеммы](eplan/terminalgui_h_mehrstockklemmenarbeit.md)
+* [Применение главных клемм](terminalgui_k_hauptklemmen.md)
+* [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)
+* [Отчеты по клеммам с отображением выводов устройств](terminalgui_k_auswertungklemmen.md)
+* [Создать и обработать клеммы](terminalgui_h_klemmenerstlbearb.md)
+* [Отобразить, добавить или удалить последовательные принадлежности](terminalgui_h_leistenzubehoererstlloesch.md)
+* [Определить многоуровневые клеммы](terminalgui_h_mehrstockklemmenarbeit.md)

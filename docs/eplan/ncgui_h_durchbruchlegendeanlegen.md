@@ -25,5 +25,5 @@
 
 **См. также:**
 
-* [Вставить 2D-отображение отверстий](ncgui_h_2dbohransichterstellen.htm)
-* [Вкладка Отчеты](eplan/formgeneratorgui_d_auswertungen.md#Einstellungen)
+* [Вставить 2D-отображение отверстий](ncgui_h_2dbohransichterstellen.md)
+* [Вкладка Отчеты](formgeneratorgui_d_auswertungen.md#Einstellungen)

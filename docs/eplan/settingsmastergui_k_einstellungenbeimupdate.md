@@ -6,7 +6,7 @@
 
 **См. также:**
 
-* [Настройки](eplan/settingsmastergui_k_start.md)
-* [Настройки: Принцип работы](eplan/settingsmastergui_k_arbeitsweise.md)
-* [Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
-* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
+* [Настройки](settingsmastergui_k_start.md)
+* [Настройки: Принцип работы](settingsmastergui_k_arbeitsweise.md)
+* [Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.md)
+* [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)

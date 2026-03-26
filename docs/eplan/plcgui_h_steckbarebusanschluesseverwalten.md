@@ -19,5 +19,5 @@
 
 **См. также:**
 
-* [Обмен данными ПЛК в формате AutomationML AR APC](eplan/plcgui_k_amlbusdatenaustausch.md)
-* [Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
+* [Обмен данными ПЛК в формате AutomationML AR APC](plcgui_k_amlbusdatenaustausch.md)
+* [Выводы устройства ПЛК](plcgui_k_spsanschluesse.md)

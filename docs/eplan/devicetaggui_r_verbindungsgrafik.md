@@ -15,7 +15,7 @@
 
 Слой:
 
-Слой соединения будет автоматически передан из определения функции соединения и настройки Подвод давления / управляющий вывод устройства (в [Логической схеме выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md) \- функции, подключенной к соединению).
+Слой соединения будет автоматически передан из определения функции соединения и настройки Подвод давления / управляющий вывод устройства (в [Логической схеме выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md) \- функции, подключенной к соединению).
 
 Для точек определения соединения, точек определения потенциала, выводов потенциала и точек определения сети слой по умолчанию не указывается, то есть используется автоматически передаваемый слой соединения.
 
@@ -29,7 +29,7 @@
 
 **См. также:**
 
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)
+* [Чертить точки обозначения соединения](connectionbrowsergui_h_definitionspunktezeichnen.md)

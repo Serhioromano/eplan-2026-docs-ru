@@ -22,5 +22,5 @@
 
 **См. также:**
 
-* [Кабели](eplan/cablegui_k_start.md)
-* [Чертить линии определения кабелей или экранирования](eplan/cablegui_h_kabelzeichnen.md)
+* [Кабели](cablegui_k_start.md)
+* [Чертить линии определения кабелей или экранирования](cablegui_h_kabelzeichnen.md)

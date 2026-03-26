@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Черные ящики: Принцип работы](eplan/blackbox_k_arbeitsweise.md)
-* [Черные ящики: Основные положения для вкладывания](eplan/blackbox_k_schachteln.md)
+* [Черные ящики: Принцип работы](blackbox_k_arbeitsweise.md)
+* [Черные ящики: Основные положения для вкладывания](blackbox_k_schachteln.md)

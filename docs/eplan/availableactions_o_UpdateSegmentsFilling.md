@@ -15,4 +15,4 @@ PROJECTNAME |  Имя проекта с полным путем файла (яв
 
 **См. также:**
 
-* [Определить степень заполнения (топология)](eplan/cablinggui_h_fuellgradbestimmen.md)
+* [Определить степень заполнения (топология)](cablinggui_h_fuellgradbestimmen.md)

@@ -79,6 +79,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Ревизия (графическое представление)](eplan/revisionmgtgui_d_einstellungengrafisch.md)
-* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
+* [Диалоговое окно Настройки: Ревизия (графическое представление)](revisionmgtgui_d_einstellungengrafisch.md)
+* [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
+* [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)

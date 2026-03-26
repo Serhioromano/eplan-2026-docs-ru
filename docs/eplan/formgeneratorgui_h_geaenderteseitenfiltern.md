@@ -24,7 +24,7 @@ Eplan отображает все страницы отчетов, измене�
 
 **См. также:**
 
-* [Генерировать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Генерировать шаблон отчета](formgeneratorgui_h_vorlageerstellen.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
+* [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)

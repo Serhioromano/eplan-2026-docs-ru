@@ -27,4 +27,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Изменить направление подсоединения](eplan/routinggui_d_verlegerichtungaendern.md)
+* [Диалоговое окно Изменить направление подсоединения](routinggui_d_verlegerichtungaendern.md)

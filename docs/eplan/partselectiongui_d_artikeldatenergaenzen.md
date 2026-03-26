@@ -21,4 +21,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Изделие (пользователь)](eplan/partselectiongui_d_datenauswahlbenutzer.md)
+* [Диалоговое окно Настройки: Изделие (пользователь)](partselectiongui_d_datenauswahlbenutzer.md)

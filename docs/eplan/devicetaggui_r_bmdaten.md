@@ -29,7 +29,7 @@
 
 Видимое ОУ будет показано в графическом редакторе рядом с условным обозначением. Если вы определили в настройках проекта, что устройство должно автоматически нумероваться при вставке символов, здесь вам будет автоматически предложено ОУ. Вы можете сохранить или переписать вручную это ОУ.
 
-Кроме того, можно использовать [всплывающее меню или кнопку [...]](eplan/devicetaggui_r_feldsichtbaresbmk.md), чтобы cгенерировать или выбрать ОУ.
+Кроме того, можно использовать [всплывающее меню или кнопку [...]](devicetaggui_r_feldsichtbaresbmk.md), чтобы cгенерировать или выбрать ОУ.
 
 Полное ОУ:
 
@@ -95,7 +95,7 @@
 
 * * *
 
-[Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле "Свойства"](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 !!! note "Замечание:"
 
@@ -105,11 +105,11 @@
 
 **См. также:**
 
-* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-* [Перенос обозначения вывода устройства](eplan/devicetaggui_k_anschlussbezuebergabe.md)
-* [Создать собственные обозначения и описания вывода устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
-* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-* [Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
+* [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
+* [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Перенос обозначения вывода устройства](devicetaggui_k_anschlussbezuebergabe.md)
+* [Создать собственные обозначения и описания вывода устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
+* [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
+* [Синхронизация распределенных функций](adjustdata_h_funktionabgleichen.md)

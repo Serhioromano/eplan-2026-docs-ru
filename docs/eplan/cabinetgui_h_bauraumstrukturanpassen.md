@@ -23,4 +23,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Адаптировать структуру](eplan/cabinetgui_d_strukturanpassen.md)
+* [Диалоговое окно Адаптировать структуру](cabinetgui_d_strukturanpassen.md)

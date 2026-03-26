@@ -5,16 +5,16 @@
 
 Возможности настройки на вкладке Настройки различаются в зависимости от используемой машины:
 
-[Вкладка Настройки (общая спецификация проводов)](eplan/productionwiringgui_r_einstellungenallgemdrahtsl.md)
+[Вкладка Настройки (общая спецификация проводов)](productionwiringgui_r_einstellungenallgemdrahtsl.md)
 
-[Вкладка Настройки (CadCabel)](eplan/productionwiringgui_r_einstellungencadcabel.md)
+[Вкладка Настройки (CadCabel)](productionwiringgui_r_einstellungencadcabel.md)
 
-[Вкладка "Настройки" (Komax — Zeta)](eplan/productionwiringgui_r_einstellungenkomax.md)
+[Вкладка "Настройки" (Komax — Zeta)](productionwiringgui_r_einstellungenkomax.md)
 
-[Вкладка "Настройки" (Metzner — Triathlon)](eplan/productionwiringgui_r_einstellungenmetzner.md)
+[Вкладка "Настройки" (Metzner — Triathlon)](productionwiringgui_r_einstellungenmetzner.md)
 
-[Вкладка Настройки (Rittal — Wire Terminal WT)](eplan/productionwiringgui_r_einstellungenwireterminal.md)
+[Вкладка Настройки (Rittal — Wire Terminal WT)](productionwiringgui_r_einstellungenwireterminal.md)
 
-[Вкладка "Настройки" (Schleuniger — EASY ProductionService)](eplan/productionwiringgui_r_einstellungenschleuniger.md)
+[Вкладка "Настройки" (Schleuniger — EASY ProductionService)](productionwiringgui_r_einstellungenschleuniger.md)
 
-[Вкладка "Настройки" (Steinhauer — PWA)](eplan/productionwiringgui_r_einstellungensteinhauerpwa.md)
+[Вкладка "Настройки" (Steinhauer — PWA)](productionwiringgui_r_einstellungensteinhauerpwa.md)

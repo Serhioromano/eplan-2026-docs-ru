@@ -28,5 +28,5 @@ Eplan проверит, зарегистрирован ли пользовате
 
 **См. также:**
 
-* [Управление правами](eplan/uradministration_k_start.md)
-* [Диалоговое окно Регистрация в Eplan](eplan/urrightsmanager_d_anmelden.md)
+* [Управление правами](uradministration_k_start.md)
+* [Диалоговое окно Регистрация в Eplan](urrightsmanager_d_anmelden.md)

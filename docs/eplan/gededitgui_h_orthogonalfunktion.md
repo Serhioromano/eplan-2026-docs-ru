@@ -41,5 +41,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Определить величины шага](eplan/gededitgui_h_schrittweitenfestlegen.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)

@@ -27,7 +27,7 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)
-* [Вставить файлы DXF / DWG в графическом редакторе](eplan/xdxfgui_h_seitengrafeditoreinfuegen.md)
-* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Вставить графические файлы](gededitgui_h_bilddateien.md)
+* [Вставить файлы DXF / DWG в графическом редакторе](xdxfgui_h_seitengrafeditoreinfuegen.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](layermanager_d_ebenenverwaltung.md)

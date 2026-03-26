@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Управление курсором с помощью клавиатуры](gededitgui_k_cursortastatur.md)

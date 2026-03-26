@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Изменить свойства ссылки блока](eplan/gededitgui_d_blockreferenzeigenschaften.md)
-* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Диалоговое окно Изменить свойства ссылки блока](gededitgui_d_blockreferenzeigenschaften.md)
+* [Графический редактор](gededitgui_k_start.md)

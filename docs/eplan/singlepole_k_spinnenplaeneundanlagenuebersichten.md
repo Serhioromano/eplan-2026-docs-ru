@@ -4,7 +4,7 @@
 
 **См. также:**
 
-* [Черчение схемы соединений в однополюсном представлении](eplan/singlepole_h_stromlaufplaenezeichnen.md)
-* [Управление структурными идентификаторами](eplan/pleditorgui_k_start.md)
-* [Кабели](eplan/cablegui_k_start.md)
-* [Обозначение местоположения](eplan/locationbox_k_start.md)
+* [Черчение схемы соединений в однополюсном представлении](singlepole_h_stromlaufplaenezeichnen.md)
+* [Управление структурными идентификаторами](pleditorgui_k_start.md)
+* [Кабели](cablegui_k_start.md)
+* [Обозначение местоположения](locationbox_k_start.md)

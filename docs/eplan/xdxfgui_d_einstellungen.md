@@ -11,24 +11,24 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Вкладки:
 
 Для ввода настроек имеются следующие вкладки.
 
-[Вкладка Экспорт (Пользователь, DXF)](eplan/xdxfgui_r_export.md)
+[Вкладка Экспорт (Пользователь, DXF)](xdxfgui_r_export.md)
 
-[Вкладка Импорт](eplan/xdxfgui_r_import.md)
+[Вкладка Импорт](xdxfgui_r_import.md)
 
-[Вкладка Слои](eplan/xdxfgui_r_ebenen.md)
+[Вкладка Слои](xdxfgui_r_ebenen.md)
 
-[Вкладка Цвета](eplan/xdxfgui_r_farben.md)
+[Вкладка Цвета](xdxfgui_r_farben.md)
 
-[Вкладка Виды шрифтов](eplan/xdxfgui_r_schriftarten.md)
+[Вкладка Виды шрифтов](xdxfgui_r_schriftarten.md)
 
-[Вкладка Типы линий](eplan/xdxfgui_r_linientypen.md)
+[Вкладка Типы линий](xdxfgui_r_linientypen.md)
 
-[Вкладка Определение блока](eplan/xdxfgui_r_blockdefinition.md)
+[Вкладка Определение блока](xdxfgui_r_blockdefinition.md)
 
-[Вкладка Атрибут блока](eplan/xdxfgui_r_blockattribut.md)
+[Вкладка Атрибут блока](xdxfgui_r_blockattribut.md)

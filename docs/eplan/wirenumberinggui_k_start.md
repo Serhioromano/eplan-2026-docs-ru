@@ -13,13 +13,13 @@
 
 **См. также:**
 
-* [Нумерация соединений: Принцип](eplan/wirenumberinggui_k_prinzip.md)
-* [Размещение точек определения соединений](eplan/wirenumberinggui_k_platzierungvdp.md)
-* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
-* [Создать группы форматов](eplan/wirenumberinggui_h_formatgruppenerstellen.md)
-* [Обработать группы форматов](eplan/wirenumberinggui_h_formatgruppenbearbeiten.md)
-* [Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
-* [Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
-* [Обозначить соединения](eplan/wirenumberinggui_h_verbnumbezeichnen.md)
-* [Заново выровнять и отформат. обозначения соединений](eplan/wirenumberinggui_h_verbnumausrichtenformatieren.md)
-* [Удалить обозначения соединений](eplan/wirenumberinggui_h_verbindloeschen.md)
+* [Нумерация соединений: Принцип](wirenumberinggui_k_prinzip.md)
+* [Размещение точек определения соединений](wirenumberinggui_k_platzierungvdp.md)
+* [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
+* [Создать группы форматов](wirenumberinggui_h_formatgruppenerstellen.md)
+* [Обработать группы форматов](wirenumberinggui_h_formatgruppenbearbeiten.md)
+* [Определить сетевое расширение для нумерации соединений](wirenumberinggui_h_netzerweiterung.md)
+* [Разместить точки определения соединения](wirenumberinggui_h_vdpplatzieren.md)
+* [Обозначить соединения](wirenumberinggui_h_verbnumbezeichnen.md)
+* [Заново выровнять и отформат. обозначения соединений](wirenumberinggui_h_verbnumausrichtenformatieren.md)
+* [Удалить обозначения соединений](wirenumberinggui_h_verbindloeschen.md)

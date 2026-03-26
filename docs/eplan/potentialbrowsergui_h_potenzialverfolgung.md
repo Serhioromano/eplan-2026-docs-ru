@@ -27,5 +27,5 @@ Eplan найдет соответствующий потенциал и полн
 
 **См. также:**
 
-* [Потенциалы и сигналы](eplan/potentialbrowsergui_k_start.md)
-* [Диалоговое окно "Настройки": Общие (пользователь)](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Потенциалы и сигналы](potentialbrowsergui_k_start.md)
+* [Диалоговое окно "Настройки": Общие (пользователь)](gedviewer_d_einstellungenbenutzerallgemein.md)

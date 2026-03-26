@@ -36,4 +36,4 @@
 
 **См. также:**
 
-* [Графические и внешние условные обозначения и соединения](eplan/devicetaggui_k_grafischeschaltzeichen.md)
+* [Графические и внешние условные обозначения и соединения](devicetaggui_k_grafischeschaltzeichen.md)

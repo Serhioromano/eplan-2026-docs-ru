@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
-* [Диалоговое окно Настройки: 3D-навигационный куб](gedviewer_d_einstellungennavigationswuerfel3d.htm)
+* [Навигационный куб](cabinetgui_k_navigationswuerfel.md)
+* [Диалоговое окно Настройки: 3D-навигационный куб](gedviewer_d_einstellungennavigationswuerfel3d.md)

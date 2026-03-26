@@ -24,7 +24,7 @@
 
 **См. также:**
 
-* [Настройка навигационного куба](eplan/cabinetgui_h_navigationswuerfeleinstellen.md)
-* [Управление навигационным кубом](eplan/cabinetgui_h_navigationswuerfelsteuern.md)
-* [Диалоговое окно Настройки: 3D-навигационный куб](gedviewer_d_einstellungennavigationswuerfel3d.htm)
-* [Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
+* [Настройка навигационного куба](cabinetgui_h_navigationswuerfeleinstellen.md)
+* [Управление навигационным кубом](cabinetgui_h_navigationswuerfelsteuern.md)
+* [Диалоговое окно Настройки: 3D-навигационный куб](gedviewer_d_einstellungennavigationswuerfel3d.md)
+* [Обзор комбинаций клавиш](gededitgui_k_tastaturbefehle.md)

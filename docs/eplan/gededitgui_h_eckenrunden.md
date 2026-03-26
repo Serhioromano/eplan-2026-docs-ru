@@ -65,5 +65,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Функции обрезки](eplan/gededitgui_k_trimmen.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Функции обрезки](gededitgui_k_trimmen.md)

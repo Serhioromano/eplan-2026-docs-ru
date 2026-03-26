@@ -15,4 +15,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
+* [Диалоговое окно Формат](eservicesgui_d_format.md)

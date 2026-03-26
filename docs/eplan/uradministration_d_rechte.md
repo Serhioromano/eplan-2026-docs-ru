@@ -35,9 +35,9 @@
 
 **См. также:**
 
-* [Диалоговое окно Управление правами: Пользователь](eplan/uradministration_d_benutzer.md)
-* [Диалоговое окно Управление правами: Группы](eplan/uradministration_d_gruppe.md)
-* [Диалоговое окно Управление правами: Рабочий режим](eplan/uradministration_d_arbeitsmodus.md)
-* [Управление правами](eplan/uradministration_k_start.md)
-* [Управление пользователями](eplan/uradministration_h_benutzer.md)
-* [Управление группами пользователей](eplan/uradministration_h_gruppen.md)
+* [Диалоговое окно Управление правами: Пользователь](uradministration_d_benutzer.md)
+* [Диалоговое окно Управление правами: Группы](uradministration_d_gruppe.md)
+* [Диалоговое окно Управление правами: Рабочий режим](uradministration_d_arbeitsmodus.md)
+* [Управление правами](uradministration_k_start.md)
+* [Управление пользователями](uradministration_h_benutzer.md)
+* [Управление группами пользователей](uradministration_h_gruppen.md)

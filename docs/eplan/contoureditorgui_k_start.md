@@ -18,4 +18,4 @@
 
 **См. также:**
 
-* [Редактор контура: Основные положения](eplan/contoureditorgui_k_grundlagen.md)
+* [Редактор контура: Основные положения](contoureditorgui_k_grundlagen.md)

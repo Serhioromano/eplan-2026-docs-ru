@@ -39,4 +39,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Формат: Вычисление](eplan/eservicesgui_d_formatberechnung.md)
+* [Диалоговое окно Формат: Вычисление](eservicesgui_d_formatberechnung.md)

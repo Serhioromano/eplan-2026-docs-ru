@@ -39,5 +39,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
-* [Диалоговое окно Настройки: Проверить версию Eplan](eplan/modaldialogs_d_einstellungenupdate.md)
+* [Диалоговое окно Настройки: Интерфейс пользователя](settingsmastergui_d_oberflaecheneinstellungen.md)
+* [Диалоговое окно Настройки: Проверить версию Eplan](modaldialogs_d_einstellungenupdate.md)

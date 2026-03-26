@@ -22,7 +22,7 @@ Eplan отобразит индикатор вставки в поле Ключ�
 
 **См. также:**
 
-* [Создать / выбрать словарь](eplan/translatedbgui_h_woerterbuchanlegen.md)
-* [Ввести предложение по разделению](eplan/translatedbgui_h_trennvorschlag.md)
-* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
+* [Создать / выбрать словарь](translatedbgui_h_woerterbuchanlegen.md)
+* [Ввести предложение по разделению](translatedbgui_h_trennvorschlag.md)
+* [Структура ключевых слов](translatedbgui_k_eingabemoeglichkeit.md)
+* [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)

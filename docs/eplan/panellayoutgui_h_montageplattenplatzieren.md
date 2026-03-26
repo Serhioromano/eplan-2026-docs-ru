@@ -41,4 +41,4 @@
 
 **См. также:**
 
-* [Компоновка электрошкафа 2D: Виды размещения](eplan/panellayoutgui_k_platzierungsarten.md)
+* [Компоновка электрошкафа 2D: Виды размещения](panellayoutgui_k_platzierungsarten.md)

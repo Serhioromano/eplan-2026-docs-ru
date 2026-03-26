@@ -12,4 +12,4 @@
 
 **См. также:**
 
-* [Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](eplan/xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)
+* [Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)

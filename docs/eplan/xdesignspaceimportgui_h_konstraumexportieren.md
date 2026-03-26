@@ -18,9 +18,9 @@
 Для каждого изделия, размещенного с помощью Eplan Pro Panel, при экспорте данных экспортируется файл STEP.  
   
 Для каждого пространства листа при экспорте данных генерируется файл XML с данными всех объектов в пространстве листа (объекты, импортированные из системы CAD, объекты, добавленные с помощью Eplan Pro Panel, монтажные отверстия, сгенерированные автоматически при размещении изделия или вставленные вручную).
-5. Импортируйте сгенерированные файлы STEP с помощью [дополнительного модуля CAD](eplan/xdesignspaceimportgui_k_prinzip.md#CADAddIn) обратно в трехмерную модель в программу 3D-CAD-
+5. Импортируйте сгенерированные файлы STEP с помощью [дополнительного модуля CAD](xdesignspaceimportgui_k_prinzip.md#CADAddIn) обратно в трехмерную модель в программу 3D-CAD-
 
 **См. также:**
 
-* [Диалоговое окно "Экспорт пространства конструкции"](eplan/xdesignspaceimportgui_d_konstruktionsraumexport.md)
-* [Импортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumimportieren.md)
+* [Диалоговое окно "Экспорт пространства конструкции"](xdesignspaceimportgui_d_konstruktionsraumexport.md)
+* [Импортировать пространство конструкции](xdesignspaceimportgui_h_konstraumimportieren.md)

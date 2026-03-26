@@ -87,8 +87,8 @@
 
 **См. также:**
 
-* [Генерировать перекрестные ссылки оборудования](eplan/xessettingsgui_h_symbolquerverweiseerzeugen.md)
-* [Генерировать парные перекрестные ссылки](eplan/xessettingsgui_h_paarquerverweiseerzeugen.md)
-* [Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
-* [Генерировать перекрестные ссылки точек разрыва](eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
-* [Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
+* [Генерировать перекрестные ссылки оборудования](xessettingsgui_h_symbolquerverweiseerzeugen.md)
+* [Генерировать парные перекрестные ссылки](xessettingsgui_h_paarquerverweiseerzeugen.md)
+* [Произвести настройки для просмотра образов контактов](xessettingsgui_h_einstellungenkontaktspiegel.md)
+* [Генерировать перекрестные ссылки точек разрыва](xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
+* [Генерировать перекрестную ссылку ПЛК](xessettingsgui_h_spsquerverweiseerzeugen.md)

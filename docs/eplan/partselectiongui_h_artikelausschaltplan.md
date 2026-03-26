@@ -38,8 +38,8 @@
 
 **См. также:**
 
-* [Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
-* [Предварительно собранные кабели](eplan/cablegui_k_vorkonfektioniertekabel.md)
-* [Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
-* [Удалить свойства сохраненных изделий](eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
-* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Поведение изделий при выборе устройств](partselectiongui_k_prinzip.md)
+* [Предварительно собранные кабели](cablegui_k_vorkonfektioniertekabel.md)
+* [Синхронизировать сохраненные изделия с базой данных изделий](partselectiongui_h_artikeldateneinlagern.md)
+* [Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+* [Диалоговое окно Управление изделиями](articlesgui_d_artverw.md)

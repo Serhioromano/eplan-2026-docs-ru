@@ -22,6 +22,6 @@
 
 **См. также:**
 
-* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
-* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-* [Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
+* [Найти и заменить](searchandreplacegui_k_start.md)
+* [Поиск данных проекта](searchandreplacegui_h_suchen.md)
+* [Заменить данные проекта](searchandreplacegui_h_ersetzen.md)

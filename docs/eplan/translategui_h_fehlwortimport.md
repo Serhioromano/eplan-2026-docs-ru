@@ -17,6 +17,6 @@
 
 **См. также:**
 
-* [Словарь](eplan/translatedbgui_k_start.md)
-* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-* [Экспортировать список отсутствующих слов](eplan/translategui_h_fehlwortexport.md)
+* [Словарь](translatedbgui_k_start.md)
+* [Структура ключевых слов](translatedbgui_k_eingabemoeglichkeit.md)
+* [Экспортировать список отсутствующих слов](translategui_h_fehlwortexport.md)

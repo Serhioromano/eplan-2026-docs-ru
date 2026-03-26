@@ -10,7 +10,7 @@ Eplan позволяет выполнить повторную нумераци�
 
 **См. также:**
 
-* [Объем нумерации](eplan/offlinenumerationgui_k_umfang.md)
-* [Нумерация и функции](eplan/offlinenumerationgui_k_funktion.md)
-* [Нумерация вложенных устройств](eplan/offlinenumerationgui_k_geschachteltebmk.md)
-* [Нумерация (online)](eplan/numerationgui_k_start.md)
+* [Объем нумерации](offlinenumerationgui_k_umfang.md)
+* [Нумерация и функции](offlinenumerationgui_k_funktion.md)
+* [Нумерация вложенных устройств](offlinenumerationgui_k_geschachteltebmk.md)
+* [Нумерация (online)](numerationgui_k_start.md)

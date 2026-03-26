@@ -44,6 +44,6 @@
 
 **См. также:**
 
-* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-* [Предотвратить новое размещение символа](eplan/xsbgui_h_symbolplatzierungverhindern.md)
-* [Показать обозначения и описания выводов устройств](eplan/gededitgui_h_anschlussbezanzeigen.md)
+* [Диалоговое окно "Центр вставки"](insertergui_d_einfuegezentrum.md)
+* [Предотвратить новое размещение символа](xsbgui_h_symbolplatzierungverhindern.md)
+* [Показать обозначения и описания выводов устройств](gededitgui_h_anschlussbezanzeigen.md)

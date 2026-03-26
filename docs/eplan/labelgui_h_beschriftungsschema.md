@@ -16,11 +16,11 @@
   
 Тип отчета выводится в диалоговом окне Настройки: Экспорт данных изготовления / маркировка в поле Тип отчета.  
   
-Теперь можно указать [настройки вывода *.txt](eplan/labelgui_h_textausgabe.md) или [настройки вывода Excel](eplan/labelgui_h_exceldatei.md).
+Теперь можно указать [настройки вывода *.txt](labelgui_h_textausgabe.md) или [настройки вывода Excel](labelgui_h_exceldatei.md).
 
 **См. также:**
 
-* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
-* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
-* [Вывести данные изготовления / маркировку](eplan/labelgui_h_beschriftungausgeben.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](labelgui_k_aufbaubeschriftung.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](labelgui_k_formatelemente.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](labelgui_h_formatelemfestlegen.md)
+* [Вывести данные изготовления / маркировку](labelgui_h_beschriftungausgeben.md)

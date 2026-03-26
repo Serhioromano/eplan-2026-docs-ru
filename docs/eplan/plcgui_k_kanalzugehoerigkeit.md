@@ -40,4 +40,4 @@
 
 **См. также:**
 
-* [ПЛК](eplan/plcgui_k_start.md)
+* [ПЛК](plcgui_k_start.md)

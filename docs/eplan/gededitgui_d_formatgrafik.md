@@ -24,12 +24,12 @@
 
 Здесь выполните специфические настройки для графического элемента, например указание координат и длины. В зависимости от вида графического элемента здесь отображается один из следующих уровней иерархии:
 
-* [Линия](eplan/gededitgui_r_linie.md)
-* [Ломаная линия](eplan/gededitgui_r_polylinie.md)
-* [Прямоугольник](eplan/gededitgui_r_rechteck.md)
-* [Дуга / сектор / круг](eplan/gededitgui_r_kreis.md)
-* [Эллипс](eplan/gededitgui_r_ellipse.md)
-* [Кривая Безье](eplan/gededitgui_r_bezierkurve.md)
+* [Линия](gededitgui_r_linie.md)
+* [Ломаная линия](gededitgui_r_polylinie.md)
+* [Прямоугольник](gededitgui_r_rechteck.md)
+* [Дуга / сектор / круг](gededitgui_r_kreis.md)
+* [Эллипс](gededitgui_r_ellipse.md)
+* [Кривая Безье](gededitgui_r_bezierkurve.md)
 
 * * *
 
@@ -67,5 +67,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Диалоговое окно Настройки: 2D](gedviewer_d_einstellungenbenutzerallgemein.md)

@@ -70,7 +70,7 @@
 
 **См. также:**
 
-* [Управление правами](eplan/uradministration_k_start.md)
-* [Диалоговое окно Управление правами](eplan/uradministration_d_rechte.md)
-* [Диалоговое окно Управление правами: Группа](eplan/uradministration_d_gruppe.md)
-* [Управление пользователями](eplan/uradministration_h_benutzer.md)
+* [Управление правами](uradministration_k_start.md)
+* [Диалоговое окно Управление правами](uradministration_d_rechte.md)
+* [Диалоговое окно Управление правами: Группа](uradministration_d_gruppe.md)
+* [Управление пользователями](uradministration_h_benutzer.md)

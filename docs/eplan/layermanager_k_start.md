@@ -9,7 +9,7 @@
 
 **См. также:**
 
-* [Слои: Принцип](eplan/layermanager_k_prinzip.md)
-* [Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
-* [Поиск слоев](eplan/layermanager_h_ebenensuchen.md)
-* [Импорт и экспорт конфигурации управления слоями](eplan/layermanager_h_ebenenkonfigurationexportieren.md)
+* [Слои: Принцип](layermanager_k_prinzip.md)
+* [Работа со слоями](layermanager_h_ebenenbearbeiten.md)
+* [Поиск слоев](layermanager_h_ebenensuchen.md)
+* [Импорт и экспорт конфигурации управления слоями](layermanager_h_ebenenkonfigurationexportieren.md)

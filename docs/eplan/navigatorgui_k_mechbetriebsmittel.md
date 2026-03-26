@@ -6,5 +6,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Устройство — <Имя проекта>](eplan/navigatorgui_d_navigator.md)
-* [Трехмерный чертеж монтажных поверхностей с Eplan Pro Panel](eplan/cabinetgui_k_start.md)
+* [Диалоговое окно Устройство — <Имя проекта>](navigatorgui_d_navigator.md)
+* [Трехмерный чертеж монтажных поверхностей с Eplan Pro Panel](cabinetgui_k_start.md)

@@ -1,6 +1,6 @@
 ## Отобразить / фильтровать необновляемые страницы отчета
 
-Эта функция дает возможность фильтровать [необновляемые страницы отчета](eplan/formgeneratorgui_k_eingefrorseiten.md). Также можно отобразить число необновляемых страниц отчета в статистике проекта.
+Эта функция дает возможность фильтровать [необновляемые страницы отчета](formgeneratorgui_k_eingefrorseiten.md). Также можно отобразить число необновляемых страниц отчета в статистике проекта.
 
 Условия:
 
@@ -32,7 +32,7 @@
 
 **См. также:**
 
-* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)

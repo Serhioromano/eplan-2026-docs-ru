@@ -35,4 +35,4 @@
 
 **См. также:**
 
-* [Области обработки](eplan/workingsection_k_start.md)
+* [Области обработки](workingsection_k_start.md)

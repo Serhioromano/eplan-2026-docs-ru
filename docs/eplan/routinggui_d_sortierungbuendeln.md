@@ -8,7 +8,7 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Категория / свойство:
 
@@ -53,6 +53,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Объединить](eplan/routinggui_d_einstellungenbuendeln.md)
-* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
-* [Диалоговое окно Новые объединенные провода с измененным значением свойства](eplan/routinggui_d_neuesbuendeleigenschaft.md)
+* [Диалоговое окно Настройки: Объединить](routinggui_d_einstellungenbuendeln.md)
+* [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
+* [Диалоговое окно Новые объединенные провода с измененным значением свойства](routinggui_d_neuesbuendeleigenschaft.md)

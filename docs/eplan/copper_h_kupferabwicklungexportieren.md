@@ -24,6 +24,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Экспорт ЧУ, медь](eplan/ncgui_d_exportkupfernc.md)
-* [Диалоговое окно Настройки: Экспорт ЧУ, медь](eplan/ncgui_d_einstellungenncexportperdxf.md)
-* [Развертка шины: Принцип](eplan/copper_k_abwicklung.md)
+* [Диалоговое окно Экспорт ЧУ, медь](ncgui_d_exportkupfernc.md)
+* [Диалоговое окно Настройки: Экспорт ЧУ, медь](ncgui_d_einstellungenncexportperdxf.md)
+* [Развертка шины: Принцип](copper_k_abwicklung.md)

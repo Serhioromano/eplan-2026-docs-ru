@@ -10,6 +10,6 @@ Eplan позволяет выполнить автоматическую нум�
 
 **См. также:**
 
-* [Формат нумерации в режиме подключения](eplan/numerationgui_k_format.md)
-* [Функции и нумерация](eplan/numerationgui_k_verhaltenfunktionen.md)
-* [Нумеровать (автономно)](eplan/offlinenumerationgui_k_start.md)
+* [Формат нумерации в режиме подключения](numerationgui_k_format.md)
+* [Функции и нумерация](numerationgui_k_verhaltenfunktionen.md)
+* [Нумеровать (автономно)](offlinenumerationgui_k_start.md)

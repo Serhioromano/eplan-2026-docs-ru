@@ -6,6 +6,6 @@
 
 **См. также:**
 
-* [Вывести страницы в виде графических файлов](eplan/gedgraphicexportgui_h_seitenexportieren.md)
-* [Диалоговое окно Настройки: Экспорт графических файлов](eplan/gedgraphicexportgui_d_exporteinstellungen.md)
-* [Диалоговое окно Экспорт графических файлов](eplan/modaldialogsdb_d_export.md)
+* [Вывести страницы в виде графических файлов](gedgraphicexportgui_h_seitenexportieren.md)
+* [Диалоговое окно Настройки: Экспорт графических файлов](gedgraphicexportgui_d_exporteinstellungen.md)
+* [Диалоговое окно Экспорт графических файлов](modaldialogsdb_d_export.md)

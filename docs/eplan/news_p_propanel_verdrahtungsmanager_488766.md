@@ -42,5 +42,5 @@
 
 **См. также:**
 
-* [Управление маршрутизируемыми соединениями](eplan/routinggui_k_verdrahtungsmanager.md)
-* [Диалоговое окно "Диспетчер разводки"](eplan/routinggui_d_verdrahtungsmanager.md)
+* [Управление маршрутизируемыми соединениями](routinggui_k_verdrahtungsmanager.md)
+* [Диалоговое окно "Диспетчер разводки"](routinggui_d_verdrahtungsmanager.md)

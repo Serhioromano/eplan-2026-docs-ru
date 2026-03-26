@@ -1,6 +1,6 @@
 ## Генерация отчета по проекту
 
-При "генерации отчета по проекту" анализируется весь проект. При этом отчеты генерируются из всех существующих [шаблонов отчетов](eplan/formgeneratorgui_k_auswertungsvorlagen.md). Дополнительно обновляются все уже созданные отчеты.
+При "генерации отчета по проекту" анализируется весь проект. При этом отчеты генерируются из всех существующих [шаблонов отчетов](formgeneratorgui_k_auswertungsvorlagen.md). Дополнительно обновляются все уже созданные отчеты.
 
 Условия:
 
@@ -17,7 +17,7 @@
 
 **См. также:**
 
-* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Автоматическое / не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Создать шаблон отчета](formgeneratorgui_h_vorlageerstellen.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое / не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
+* [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)

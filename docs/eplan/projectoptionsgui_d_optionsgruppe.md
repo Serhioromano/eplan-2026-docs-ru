@@ -19,4 +19,4 @@
 
 **См. также:**
 
-* [Создать и обработать опциональные группы](eplan/projectoptionsgui_h_optionsgruppenerzeugen.md)
+* [Создать и обработать опциональные группы](projectoptionsgui_h_optionsgruppenerzeugen.md)

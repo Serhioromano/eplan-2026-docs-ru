@@ -4,5 +4,5 @@
 
 **См. также:**
 
-* [Экспорт данных изготовления для Eplan Smart Production](eplan/edaexportgui_h_smartproductioncollectiondatenexportieren.md)
-* [Диалоговое окно Экспорт Eplan Smart Production](eplan/edaexportgui_d_smartproductioncollection.md)
+* [Экспорт данных изготовления для Eplan Smart Production](edaexportgui_h_smartproductioncollectiondatenexportieren.md)
+* [Диалоговое окно Экспорт Eplan Smart Production](edaexportgui_d_smartproductioncollection.md)

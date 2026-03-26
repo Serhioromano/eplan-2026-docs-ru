@@ -1,6 +1,6 @@
 ## Необновляемые страницы отчета
 
-Страницы отчетов можно зафиксировать. В этом случае обновление соответствующих страниц больше не выполняется. Блок отчетов удаляется. Необновляемые страницы отчета остаются в навигаторе страниц. [Встроенные отчеты](eplan/formgeneratorgui_k_ausgabeformen.md) не фиксируются.
+Страницы отчетов можно зафиксировать. В этом случае обновление соответствующих страниц больше не выполняется. Блок отчетов удаляется. Необновляемые страницы отчета остаются в навигаторе страниц. [Встроенные отчеты](formgeneratorgui_k_ausgabeformen.md) не фиксируются.
 
 Обновляемые страницы отчета далее обновляются.
 
@@ -17,7 +17,7 @@
 
 **См. также:**
 
-* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
-* [Отобразить / фильтровать необновляемые страницы отчета](eplan/formgeneratorgui_h_eingefroreneseitenfiltern.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-* [Автоматическое / не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)
+* [Отобразить / фильтровать необновляемые страницы отчета](formgeneratorgui_h_eingefroreneseitenfiltern.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
+* [Автоматическое / не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)

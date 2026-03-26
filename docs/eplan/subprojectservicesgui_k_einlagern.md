@@ -14,4 +14,4 @@
 
 **См. также:**
 
-* [Диалоговое окно "Частичные проекты"](eplan/subprojectservicesgui_d_teilprojekte.md)
+* [Диалоговое окно "Частичные проекты"](subprojectservicesgui_d_teilprojekte.md)

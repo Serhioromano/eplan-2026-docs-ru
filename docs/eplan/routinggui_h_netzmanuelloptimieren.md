@@ -41,4 +41,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Оптимизировать сеть вручную](eplan/routinggui_d_netzmanuelloptimieren.md)
+* [Диалоговое окно Оптимизировать сеть вручную](routinggui_d_netzmanuelloptimieren.md)

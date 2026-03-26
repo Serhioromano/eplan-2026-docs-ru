@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Синхронизировать функциональные тексты](eplan/egedgui_d_funktionstextabgleich.md)
+* [Диалоговое окно Синхронизировать функциональные тексты](egedgui_d_funktionstextabgleich.md)

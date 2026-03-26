@@ -15,9 +15,9 @@ Eplan предоставляет возможность автоматическ
 
 **См. также:**
 
-* [ПЛК](eplan/plcgui_k_start.md)
-* [Макросы](eplan/macrosgui_k_start.md)
-* [Генерация схемы соединений ПЛК: Принцип](eplan/plcgui_k_spsschaltplanprinzip.md)
-* [Макрос для генерации схемы соединений ПЛК](eplan/plcgui_k_makrosschaltplanerzeugen.md)
-* [Поведение при размещении макроса ПЛК](eplan/plcgui_k_abbuchverhalten.md)
-* [Генерировать схемы соединений ПЛК](eplan/plcgui_h_spsschaltplanerzeugen.md)
+* [ПЛК](plcgui_k_start.md)
+* [Макросы](macrosgui_k_start.md)
+* [Генерация схемы соединений ПЛК: Принцип](plcgui_k_spsschaltplanprinzip.md)
+* [Макрос для генерации схемы соединений ПЛК](plcgui_k_makrosschaltplanerzeugen.md)
+* [Поведение при размещении макроса ПЛК](plcgui_k_abbuchverhalten.md)
+* [Генерировать схемы соединений ПЛК](plcgui_h_spsschaltplanerzeugen.md)

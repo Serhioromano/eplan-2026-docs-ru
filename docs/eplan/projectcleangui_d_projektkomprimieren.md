@@ -12,4 +12,4 @@
 
 **См. также:**
 
-* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+* [Сжать проект](projectcleangui_h_projektsaeubern.md)

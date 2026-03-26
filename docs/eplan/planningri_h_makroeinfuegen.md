@@ -29,8 +29,8 @@
 
 **См. также:**
 
-* [Создать макросы](eplan/macrosgui_h_makroserzeugen.md)
-* [Технологические контуры / функции ТК на функциональной схеме автоматизации](eplan/planningri_k_risymbole.md)
-* [Резервуары и выводы резервуара на функциональной схеме автоматизации](eplan/planningri_k_rifliessbild.md)
-* [Диалоговое окно Выбрать структуру](eplan/planninggui_d_strukturauswahl.md)
-* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Создать макросы](macrosgui_h_makroserzeugen.md)
+* [Технологические контуры / функции ТК на функциональной схеме автоматизации](planningri_k_risymbole.md)
+* [Резервуары и выводы резервуара на функциональной схеме автоматизации](planningri_k_rifliessbild.md)
+* [Диалоговое окно Выбрать структуру](planninggui_d_strukturauswahl.md)
+* [Диалоговое окно "Центр вставки"](insertergui_d_einfuegezentrum.md)

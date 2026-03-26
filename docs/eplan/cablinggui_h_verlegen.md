@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Изменить маршрутизацию (топология)](eplan/cablinggui_h_verlegewegaendern.md)
-* [Маршрутизируемые соединения (топология)](eplan/cablinggui_k_verlegeverbindungen.md)
+* [Изменить маршрутизацию (топология)](cablinggui_h_verlegewegaendern.md)
+* [Маршрутизируемые соединения (топология)](cablinggui_k_verlegeverbindungen.md)

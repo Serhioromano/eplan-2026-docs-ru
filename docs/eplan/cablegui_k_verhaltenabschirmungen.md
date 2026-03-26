@@ -47,8 +47,8 @@
 
 **См. также:**
 
-* [Кабели](eplan/cablegui_k_start.md)
-* [Характеристика кабелей](eplan/cablegui_k_prinzip.md)
-* [Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
-* [Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
-* [Позиция и форматирование свойств кабелей](eplan/cablegui_k_kabelbezeichnungformat.md)
+* [Кабели](cablegui_k_start.md)
+* [Характеристика кабелей](cablegui_k_prinzip.md)
+* [Определение кабелей](cablegui_k_arbeitsweise.md)
+* [Графическое представление кабелей и экранирований](cablegui_k_grafischedarstellung.md)
+* [Позиция и форматирование свойств кабелей](cablegui_k_kabelbezeichnungformat.md)

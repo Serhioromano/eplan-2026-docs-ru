@@ -27,7 +27,7 @@
 * P502021: "Свойство изделия 'Номер ERP / PDM <x>' неоднозначно"
 * P502036: "Свойство изделия 'Номер ERP / PDM <x>' отличается в разных вариантах изделия"
 
-[Улучшение контрольных прогонов для основных данных изделий](news_p_artikelverwaltung_artikelprueflaeufe_489829.htm)
+[Улучшение контрольных прогонов для основных данных изделий](news_p_artikelverwaltung_artikelprueflaeufe_489829.md)
 
 #### Совместное отображение номеров ERP / PDM
 
@@ -103,4 +103,4 @@
 
 **См. также:**
 
-* [Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
+* [Вкладка Свойства](articlesgui_r_eigenschaften.md)

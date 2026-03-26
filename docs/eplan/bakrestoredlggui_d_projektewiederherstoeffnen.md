@@ -14,7 +14,7 @@
 
 Укажите каталог, в который будет сохранен восстановленный проект. При помощи  можно открыть диалоговое окно для выбора каталога и перейти в нем к нужному каталогу.
 
-С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](eplan/modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
+С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
 
 Подкаталог:
 
@@ -32,8 +32,8 @@
 
 **См. также:**
 
-* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
-* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
-* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
-* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+* [Резервирование данных](bakbackupdlggui_k_start.md)
+* [Резервирование данных проекта](bakbackupdlggui_k_arbeitsweise.md)
+* [Резервирование данных: Принцип](bakbackupdlggui_k_prinzip.md)
+* [Резервировать проекты](bakbackupdlggui_h_projektesichern.md)
+* [Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.md)

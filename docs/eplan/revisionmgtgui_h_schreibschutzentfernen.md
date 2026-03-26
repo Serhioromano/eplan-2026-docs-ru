@@ -26,6 +26,6 @@
 
 **См. также:**
 
-* [Закрыть проекты / области обработки](eplan/revisionmgtgui_h_projektabschliessen.md)
-* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
-* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Закрыть проекты / области обработки](revisionmgtgui_h_projektabschliessen.md)
+* [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)

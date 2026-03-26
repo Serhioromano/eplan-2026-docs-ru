@@ -24,7 +24,7 @@
 
 * * *
 
-[Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле Свойства](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 !!! note "Замечание:"
 
@@ -40,4 +40,4 @@
 
 **См. также:**
 
-* [Обработка маркеров удаления](eplan/revisionmgtgui_h_loeschzeichenbearbeiten.md)
+* [Обработка маркеров удаления](revisionmgtgui_h_loeschzeichenbearbeiten.md)

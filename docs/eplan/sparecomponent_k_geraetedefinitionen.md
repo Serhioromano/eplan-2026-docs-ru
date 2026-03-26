@@ -18,4 +18,4 @@
 
 **См. также:**
 
-* [Резервные функциональные элементы: Основы](eplan/sparecomponent_k_grundlagen.md)
+* [Резервные функциональные элементы: Основы](sparecomponent_k_grundlagen.md)

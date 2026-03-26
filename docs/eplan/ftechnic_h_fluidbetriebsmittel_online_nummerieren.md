@@ -56,8 +56,8 @@
 
 **См. также:**
 
-* [Eplan Fluid: Нумерация ОУ](eplan/ftechnic_k_bmknummerierung.md)
-* [Нумерация (online)](eplan/numerationgui_k_start.md)
-* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
-* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
-* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Eplan Fluid: Нумерация ОУ](ftechnic_k_bmknummerierung.md)
+* [Нумерация (online)](numerationgui_k_start.md)
+* [Eplan Fluid: Структура устройства](ftechnic_k_betriebsmittelstruktur.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)

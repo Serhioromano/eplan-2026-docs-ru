@@ -17,6 +17,6 @@
 
 **См. также:**
 
-* [Проекты](eplan/projects_k_start.md)
-* [Управление проектами](eplan/prjmanagementgui_k_start.md)
-* [Экспортировать проекты](eplan/projects_h_exportieren.md)
+* [Проекты](projects_k_start.md)
+* [Управление проектами](prjmanagementgui_k_start.md)
+* [Экспортировать проекты](projects_h_exportieren.md)

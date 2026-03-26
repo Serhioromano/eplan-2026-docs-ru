@@ -29,6 +29,6 @@
 
 **См. также:**
 
-* [Структура обозначения устройства](eplan/devicetaggui_k_aufbauvonbm.md)
-* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-* [Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)
+* [Структура обозначения устройства](devicetaggui_k_aufbauvonbm.md)
+* [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Использовать определенный пользователем порядок свойств](devicetaggui_h_eigschanordnungen.md)

@@ -11,8 +11,8 @@
 
 **См. также:**
 
-* [Управление символами](eplan/xsbgui_k_arbeitsweise.md)
-* [Символы: Конструкция и идентифицирующие свойства](eplan/xsbgui_k_aufbaueigenschaften.md)
-* [Макросы символов ](eplan/xsbgui_k_symbolmakros.md)
-* [Символы: Порядок действий](eplan/xsbgui_k_vorgehensweise.md)
-* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
+* [Управление символами](xsbgui_k_arbeitsweise.md)
+* [Символы: Конструкция и идентифицирующие свойства](xsbgui_k_aufbaueigenschaften.md)
+* [Макросы символов ](xsbgui_k_symbolmakros.md)
+* [Символы: Порядок действий](xsbgui_k_vorgehensweise.md)
+* [Диалоговое окно "Центр вставки"](insertergui_d_einfuegezentrum.md)

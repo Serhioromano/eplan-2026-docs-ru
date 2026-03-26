@@ -55,4 +55,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Диалоговое окно Настройки: 2D](gedviewer_d_einstellungenbenutzerallgemein.md)

@@ -36,4 +36,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Экспортировать записи данных](eplan/partsmanagementgui_d_artikelexport.md)
+* [Диалоговое окно Экспортировать записи данных](partsmanagementgui_d_artikelexport.md)

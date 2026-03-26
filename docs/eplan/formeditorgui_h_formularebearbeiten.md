@@ -40,7 +40,7 @@
 
 **См. также:**
 
-* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
-* [Вставить и обработать специальные тексты](eplan/formeditorgui_h_sondertexteeinfuegen.md)
-* [Проверить формы](eplan/formeditorgui_h_formularepruefen.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Вставить и обработать специальные тексты](formeditorgui_h_sondertexteeinfuegen.md)
+* [Проверить формы](formeditorgui_h_formularepruefen.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)

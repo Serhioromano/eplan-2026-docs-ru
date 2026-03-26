@@ -31,7 +31,7 @@
 
 **См. также:**
 
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
-* [Разместить соединения](eplan/connectionbrowsergui_h_verbindungenplatzieren.md)
-* [Сгенерировать неразмещенные соединения](eplan/planningconnections_h_createconnections.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Использовать имеющиеся соединения](connectionbrowsergui_h_abbuchen.md)
+* [Разместить соединения](connectionbrowsergui_h_verbindungenplatzieren.md)
+* [Сгенерировать неразмещенные соединения](planningconnections_h_createconnections.md)

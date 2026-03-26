@@ -18,4 +18,4 @@
 
 **См. также:**
 
-* [Разместить устройства в трехмерном чертеже монтажных поверхностей](eplan/cabinetgui_h_geraetplatzieren.md#Abmessungen)
+* [Разместить устройства в трехмерном чертеже монтажных поверхностей](cabinetgui_h_geraetplatzieren.md#Abmessungen)

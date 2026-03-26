@@ -23,5 +23,5 @@
 
 **См. также:**
 
-* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-* [Диалоговое окно Настройки: Структура дерева (...)](eplan/modaldialogsdb_d_einstellprjstruktur.md)
+* [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
+* [Диалоговое окно Настройки: Структура дерева (...)](modaldialogsdb_d_einstellprjstruktur.md)

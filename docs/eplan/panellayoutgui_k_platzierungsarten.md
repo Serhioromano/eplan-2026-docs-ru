@@ -41,7 +41,7 @@
 
 Вставка монтажных плат в качестве устройств на открытых страницах типа "Компоновка электрошкафа" осуществляется следующим образом:
 
-* с помощью [центра вставки](eplan/insertergui_k_start.md), тип объекта Устройства
+* с помощью [центра вставки](insertergui_k_start.md), тип объекта Устройства
 * с помощью функции перетаскивания мышью (Drag & Drop) из списков устройств
 * через вставку изделия как устройства из Eplan Data Portal.
 
@@ -53,6 +53,6 @@
 
 **См. также:**
 
-* [Компоновка электрошкафа 2D](eplan/panellayoutgui_k_start.md)
-* [Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
-* [Вкладка Размещение изделия](eplan/devicetaggui_r_artikelplatzierung.md)
+* [Компоновка электрошкафа 2D](panellayoutgui_k_start.md)
+* [Диалоговое окно Настройки: Компоновка электрошкафа 2D](panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
+* [Вкладка Размещение изделия](devicetaggui_r_artikelplatzierung.md)

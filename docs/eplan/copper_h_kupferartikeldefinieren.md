@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Медное изделие: Принцип](eplan/copper_k_kupferartikel.md)
-* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [Медное изделие: Принцип](copper_k_kupferartikel.md)
+* [Диалоговое окно База данных изделий](articlesgui_d_artverw.md)

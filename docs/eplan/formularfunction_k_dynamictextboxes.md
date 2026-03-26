@@ -26,4 +26,4 @@
 
 **См. также:**
 
-* [Функции формы](eplan/formularfunction_k_start.md)
+* [Функции формы](formularfunction_k_start.md)

@@ -1,6 +1,6 @@
 ## Экспортировать / импортировать шаблоны отчетов
 
-Экспорт и импорт [шаблонов отчетов](eplan/formgeneratorgui_k_auswertungsvorlagen.md) позволяют сохранить настройки отчета, передать третьим лицам и использовать в других проектах. Экспортированные шаблоны отчетов сохраняются в виде файла *.xml.
+Экспорт и импорт [шаблонов отчетов](formgeneratorgui_k_auswertungsvorlagen.md) позволяют сохранить настройки отчета, передать третьим лицам и использовать в других проектах. Экспортированные шаблоны отчетов сохраняются в виде файла *.xml.
 
 ### Экспортировать шаблон отчетов
 
@@ -33,7 +33,7 @@
 
 **См. также:**
 
-* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-* [Отчеты](eplan/formgeneratorgui_k_start.md)
+* [Создать шаблон отчета](formgeneratorgui_h_vorlageerstellen.md)
+* [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
+* [Отчеты](formgeneratorgui_k_start.md)

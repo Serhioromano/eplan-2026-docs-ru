@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Управление видами пространства листа](eplan/cabinetgui_h_bauraumansichtenverwalten.md)
+* [Управление видами пространства листа](cabinetgui_h_bauraumansichtenverwalten.md)

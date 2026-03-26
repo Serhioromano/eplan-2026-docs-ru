@@ -6,10 +6,10 @@
 
 **См. также:**
 
-* [Блоки идентификаторов для страниц и устройств](eplan/pleditorgui_k_grundlagen.md)
-* [Создать идентификаторы](eplan/pleditorgui_h_kennzanlegen.md)
-* [Создать идентификаторы при вставке новых страниц, ОУ и макросов](eplan/pleditorgui_h_kennzanlegenbeineuerseite.md)
-* [Обработать идентификаторы](eplan/pleditorgui_h_kennzbearbeiten.md)
-* [Поиск и замена идентификаторов](eplan/pleditorgui_h_kennzsuchen.md)
-* [Проверить идентификаторы](eplan/pleditorgui_h_kennzpruefen.md)
-* [Удалить идентификаторы](eplan/pleditorgui_h_kennzloeschen.md)
+* [Блоки идентификаторов для страниц и устройств](pleditorgui_k_grundlagen.md)
+* [Создать идентификаторы](pleditorgui_h_kennzanlegen.md)
+* [Создать идентификаторы при вставке новых страниц, ОУ и макросов](pleditorgui_h_kennzanlegenbeineuerseite.md)
+* [Обработать идентификаторы](pleditorgui_h_kennzbearbeiten.md)
+* [Поиск и замена идентификаторов](pleditorgui_h_kennzsuchen.md)
+* [Проверить идентификаторы](pleditorgui_h_kennzpruefen.md)
+* [Удалить идентификаторы](pleditorgui_h_kennzloeschen.md)

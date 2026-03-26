@@ -55,11 +55,11 @@
 
 **См. также:**
 
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)
-* [Определить схему соединений в пространстве листа](eplan/cabinetgui_h_anschlussdefinieren.md)
-* [Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
-* [Свободная маршрутизация соединений](eplan/routinggui_h_freiverlegen.md)
-* [Изменить маршрутизацию](eplan/routinggui_h_verlegewegaendern.md)
-* [Изменить направление подсоединения](eplan/cabinetgui_h_anschlussrichtungaendern.md)
-* [Вставка принадлежностей для маршрутизации](eplan/routinggui_k_verlegezubehoer.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Eplan Fluid: Соединения](ftechnic_k_verbindungen.md)
+* [Определить схему соединений в пространстве листа](cabinetgui_h_anschlussdefinieren.md)
+* [Маршрутизировать соединения](routinggui_h_verlegen.md)
+* [Свободная маршрутизация соединений](routinggui_h_freiverlegen.md)
+* [Изменить маршрутизацию](routinggui_h_verlegewegaendern.md)
+* [Изменить направление подсоединения](cabinetgui_h_anschlussrichtungaendern.md)
+* [Вставка принадлежностей для маршрутизации](routinggui_k_verlegezubehoer.md)

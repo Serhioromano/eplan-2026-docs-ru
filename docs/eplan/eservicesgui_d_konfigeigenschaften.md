@@ -184,6 +184,6 @@
 
 **См. также:**
 
-* [Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+* [Определенные пользователем свойства](userdefproperties_k_start.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Сжать проект](projectcleangui_h_projektsaeubern.md)

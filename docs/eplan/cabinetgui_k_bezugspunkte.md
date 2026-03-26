@@ -51,4 +51,4 @@
 
 **См. также:**
 
-* [Определить исходную точку](eplan/cabinetgui_h_bezugspunktdefinieren.md)
+* [Определить исходную точку](cabinetgui_h_bezugspunktdefinieren.md)

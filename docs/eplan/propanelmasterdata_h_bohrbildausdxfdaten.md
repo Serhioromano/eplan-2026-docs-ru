@@ -36,4 +36,4 @@
 
 **См. также:**
 
-* [Вставить границу схемы сверления](eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md)
+* [Вставить границу схемы сверления](propanelmasterdata_h_bohrbildkasteneinfuegen.md)

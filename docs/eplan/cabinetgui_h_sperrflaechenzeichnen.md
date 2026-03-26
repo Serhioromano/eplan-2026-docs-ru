@@ -35,6 +35,6 @@
 
 **См. также:**
 
-* [Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
-* [Диалоговое окно Настройки: Сообщения и контрольные прогоны](eplan/xesinspectiongui_d_einstellungenmeldungen.md)
-* [Черчение заблокированной для монтажных отверстий области](eplan/cabinetgui_h_bohrsperrflaechenzeichnen.md)
+* [Активировать монтажные поверхности](cabinetgui_h_aktivierenautomatisch.md)
+* [Диалоговое окно Настройки: Сообщения и контрольные прогоны](xesinspectiongui_d_einstellungenmeldungen.md)
+* [Черчение заблокированной для монтажных отверстий области](cabinetgui_h_bohrsperrflaechenzeichnen.md)

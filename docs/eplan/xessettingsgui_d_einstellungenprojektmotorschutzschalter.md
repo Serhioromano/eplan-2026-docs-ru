@@ -82,6 +82,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
-* [Произвести настройки для просмотра образов контактов](eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
-* [Образ контакта на основе формы](eplan/xessettingsgui_k_qvwjapanische.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+* [Произвести настройки для просмотра образов контактов](xessettingsgui_h_einstellungenkontaktspiegel.md)
+* [Образ контакта на основе формы](xessettingsgui_k_qvwjapanische.md)

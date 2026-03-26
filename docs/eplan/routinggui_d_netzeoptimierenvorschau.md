@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Автоматически оптимизировать сети](eplan/routinggui_d_netzeoptimieren.md)
+* [Диалоговое окно Автоматически оптимизировать сети](routinggui_d_netzeoptimieren.md)

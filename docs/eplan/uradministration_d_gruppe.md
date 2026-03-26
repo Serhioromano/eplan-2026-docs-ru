@@ -70,5 +70,5 @@
 
 **См. также:**
 
-* [Управление правами](eplan/uradministration_k_start.md)
-* [Управление группами пользователей](eplan/uradministration_h_gruppen.md)
+* [Управление правами](uradministration_k_start.md)
+* [Управление группами пользователей](uradministration_h_gruppen.md)

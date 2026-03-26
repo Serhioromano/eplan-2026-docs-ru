@@ -37,6 +37,6 @@
 
 **См. также:**
 
-* [Нумерация устройств, подсоединенных к ПЛК](eplan/offlinenumerationplcgui_k_start.md)
-* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
-* [Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
+* [Нумерация устройств, подсоединенных к ПЛК](offlinenumerationplcgui_k_start.md)
+* [Определить формат и объем нумерации](offlinenumerationplcgui_h_formatfestlegen.md)
+* [Нумеровать подсоединенные к ПЛК устройства](offlinenumerationplcgui_h_bmnummerieren.md)

@@ -19,9 +19,9 @@
 
 * * *
 
-[Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле "Свойства"](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 **См. также:**
 
-* [Шаблоны для классов трубы и веществ](eplan/planninggui_k_rohrleitungsvorlagen.md)
-* [Создать и обработать классы трубы и вещества](eplan/planninggui_h_rohrklasseerstellen.md)
+* [Шаблоны для классов трубы и веществ](planninggui_k_rohrleitungsvorlagen.md)
+* [Создать и обработать классы трубы и вещества](planninggui_h_rohrklasseerstellen.md)

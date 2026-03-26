@@ -51,5 +51,5 @@
 
 **См. также:**
 
-* [Свойства отображения: Образ контакта](eplan/devicetaggui_r_anzeigekontaktspiegel.md)
-* [Диалоговое окно Настройки: Образ контакта у усл. обозначения / образ контакта в зоне](eplan/xessettingsgui_d_einstellungenprojektmotorschutzschalter.md)
+* [Свойства отображения: Образ контакта](devicetaggui_r_anzeigekontaktspiegel.md)
+* [Диалоговое окно Настройки: Образ контакта у усл. обозначения / образ контакта в зоне](xessettingsgui_d_einstellungenprojektmotorschutzschalter.md)

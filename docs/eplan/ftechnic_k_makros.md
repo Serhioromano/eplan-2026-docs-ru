@@ -12,4 +12,4 @@
 
 **См. также:**
 
-* [Макросы](eplan/macrosgui_k_start.md)
+* [Макросы](macrosgui_k_start.md)

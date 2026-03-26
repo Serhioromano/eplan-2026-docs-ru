@@ -16,7 +16,7 @@
 
 **См. также:**
 
-* [Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
-* [Медная шина: Изменить длину](eplan/copper_h_kupferteillaengeaendern.md)
-* [Медная шина: Изменить места изгиба](eplan/copper_h_kupferteilbiegestelleaendern.md)
-* [Медная шина: Добавить новое место изгиба](eplan/copper_h_kupferteilneuebiegestelle.md)
+* [Обработать медную шину](copper_h_kupferteilbearbeiten.md)
+* [Медная шина: Изменить длину](copper_h_kupferteillaengeaendern.md)
+* [Медная шина: Изменить места изгиба](copper_h_kupferteilbiegestelleaendern.md)
+* [Медная шина: Добавить новое место изгиба](copper_h_kupferteilneuebiegestelle.md)

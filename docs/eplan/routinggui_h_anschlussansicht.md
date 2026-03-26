@@ -27,4 +27,4 @@
 
 **См. также:**
 
-* [Определить схему соединений в пространстве листа](eplan/cabinetgui_h_anschlussdefinieren.md)
+* [Определить схему соединений в пространстве листа](cabinetgui_h_anschlussdefinieren.md)

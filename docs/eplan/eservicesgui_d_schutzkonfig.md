@@ -44,5 +44,5 @@
 
 **См. также:**
 
-* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
-* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
+* [Защита устройства](devicetaggui_k_geschuetztebm.md)
+* [Защита от изменений](devicetaggui_k_aenderungsschutz.md)

@@ -86,7 +86,7 @@
 
 **См. также:**
 
-* [ПЛК](eplan/plcgui_k_start.md)
-* [Каналы ПЛК](eplan/plcgui_k_kanaele.md)
-* [Последовательность видов представлений при общей обработке и анализе](eplan/reverseengineering_k_reihenfolge.md)
-* [Использование имеющихся выводов устройства ПЛК](eplan/plcgui_h_anschluesseabbuchen.md)
+* [ПЛК](plcgui_k_start.md)
+* [Каналы ПЛК](plcgui_k_kanaele.md)
+* [Последовательность видов представлений при общей обработке и анализе](reverseengineering_k_reihenfolge.md)
+* [Использование имеющихся выводов устройства ПЛК](plcgui_h_anschluesseabbuchen.md)

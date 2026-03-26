@@ -39,5 +39,5 @@
 
 **См. также:**
 
-* [Диалоговое окно "Конфигурировать свойства" / диалоговое окно "Конфигурировать представление"](eplan/modaldialogsdb_d_eigenschaftskonfiguration.md)
-* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Диалоговое окно "Конфигурировать свойства" / диалоговое окно "Конфигурировать представление"](modaldialogsdb_d_eigenschaftskonfiguration.md)
+* [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)

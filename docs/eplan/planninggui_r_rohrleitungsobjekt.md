@@ -7,7 +7,7 @@
 
 На этой вкладке задаются свойства выделенного объекта планирования (трубопровода).
 
-Если в диалоговом окне свойств записи в полях отличаются от стандартных значений присвоенного шаблона сегмента, они выделяются [желтым цветом фона](eplan/planninggui_k_segmentvorlagen.md#GelberHintergrund).
+Если в диалоговом окне свойств записи в полях отличаются от стандартных значений присвоенного шаблона сегмента, они выделяются [желтым цветом фона](planninggui_k_segmentvorlagen.md#GelberHintergrund).
 
 Обзор основных элементов диалогового окна:
 
@@ -46,9 +46,9 @@
 
 * * *
 
-[Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле "Свойства"](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Графическое предварительное планирование](eplan/planninggui_k_grafischevorplanung.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Графическое предварительное планирование](planninggui_k_grafischevorplanung.md)

@@ -18,4 +18,4 @@
 
 **См. также:**
 
-* [Области обработки: Принцип](eplan/workingsection_k_prinzip.md)
+* [Области обработки: Принцип](workingsection_k_prinzip.md)

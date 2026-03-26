@@ -10,7 +10,7 @@
 
 **См. также:**
 
-* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-* [Структурирование проектов согласно стандарту EN 81346](eplan/projectstructure_k_referenzkennzeichnung.md)
-* [Обозначение страниц согласно стандарту DIN EN 61355-1](eplan/projectstructure_k_objektkennzeichen.md)
+* [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
+* [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)
+* [Структурирование проектов согласно стандарту EN 81346](projectstructure_k_referenzkennzeichnung.md)
+* [Обозначение страниц согласно стандарту DIN EN 61355-1](projectstructure_k_objektkennzeichen.md)

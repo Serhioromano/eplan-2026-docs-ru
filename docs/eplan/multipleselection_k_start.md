@@ -11,5 +11,5 @@ Eplan позволяет одновременно изменять свойст�
 
 **См. также:**
 
-* [Групповая обработка: Принцип](eplan/multipleselection_k_prinzip.md)
-* [Выбор объектов для групповой обработки](eplan/multipleselection_h_objekteblockbearbeitung.md)
+* [Групповая обработка: Принцип](multipleselection_k_prinzip.md)
+* [Выбор объектов для групповой обработки](multipleselection_h_objekteblockbearbeitung.md)

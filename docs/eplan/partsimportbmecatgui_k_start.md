@@ -10,5 +10,5 @@ ECLASS — это стандартизированная межотраслев�
 
 **См. также:**
 
-* [Диалоговое окно Импортировать записи данных](eplan/partsmanagementgui_d_artikelimport.md)
-* [Диалоговое окно Настройки: Импорт ECLASS](eplan/partsimportbmecatgui_d_einstellungeneclass.md)
+* [Диалоговое окно Импортировать записи данных](partsmanagementgui_d_artikelimport.md)
+* [Диалоговое окно Настройки: Импорт ECLASS](partsimportbmecatgui_d_einstellungeneclass.md)

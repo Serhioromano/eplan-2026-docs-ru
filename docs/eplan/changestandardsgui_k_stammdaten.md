@@ -6,7 +6,7 @@
 
 **См. также:**
 
-* [Изменение стандарта](eplan/changestandardsgui_k_start.md)
-* [Замена символов](eplan/changestandardsgui_k_symbolaustausch.md)
-* [Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
-* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
+* [Изменение стандарта](changestandardsgui_k_start.md)
+* [Замена символов](changestandardsgui_k_symbolaustausch.md)
+* [Повернутые страницы / Неповернутые страницы](changestandardsgui_k_seitendrehung.md)
+* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](changestandardsgui_h_stammdatenaustauschen.md)

@@ -27,5 +27,5 @@
 
 **См. также:**
 
-* [Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
-* [Диалоговое окно Настройки: Точки разрыва](eplan/xessettingsgui_d_einstellungenprojektabbruchstellen.md)
+* [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
+* [Диалоговое окно Настройки: Точки разрыва](xessettingsgui_d_einstellungenprojektabbruchstellen.md)

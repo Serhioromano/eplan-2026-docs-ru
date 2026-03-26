@@ -21,7 +21,7 @@
 
 **См. также:**
 
-* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
-* [Комментарии](eplan/projectcomments_k_start.md)
-* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
-* [Вкладка Комментарий](eplan/gededitgui_r_kommentareigenschaften.md)
+* [Сжать проект](projectcleangui_h_projektsaeubern.md)
+* [Комментарии](projectcomments_k_start.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](pdfexportgui_d_kommentarenavigator.md)
+* [Вкладка Комментарий](gededitgui_r_kommentareigenschaften.md)

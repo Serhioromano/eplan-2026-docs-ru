@@ -30,7 +30,7 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Нумерация с данными ПЛК](eplan/offlinenumerationplcgui_d_einstellungen.md)
-* [Диалоговое окно Нумерация с данными ПЛК: Предварительный просмотр результата](eplan/offlinenumerationplcgui_d_ergebnisvorschau.md)
-* [Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
-* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+* [Диалоговое окно Настройки: Нумерация с данными ПЛК](offlinenumerationplcgui_d_einstellungen.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Предварительный просмотр результата](offlinenumerationplcgui_d_ergebnisvorschau.md)
+* [Нумеровать подсоединенные к ПЛК устройства](offlinenumerationplcgui_h_bmnummerieren.md)
+* [Определить формат и объем нумерации](offlinenumerationplcgui_h_formatfestlegen.md)

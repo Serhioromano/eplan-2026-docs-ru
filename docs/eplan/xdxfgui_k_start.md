@@ -18,8 +18,8 @@ Eplan поддерживает импорт и экспорт данных в ф
 
 **См. также:**
 
-* [Интерфейс DXF/DWG: Основные положения](eplan/xdxfgui_k_grundlagen.md)
-* [Экспортировать страницы в формате DXF / DWG](eplan/xdxfgui_h_seitendxfexportieren.md)
-* [Импортировать страницы в формате DXF/DWG](eplan/xdxfgui_h_seitendxfimportieren.md)
-* [Вставить файлы DXF / DWG в графическом редакторе](eplan/xdxfgui_h_seitengrafeditoreinfuegen.md)
-* [Создать макросы из файлов DXF / DWG](eplan/macrosgui_h_makrosausdxf.md)
+* [Интерфейс DXF/DWG: Основные положения](xdxfgui_k_grundlagen.md)
+* [Экспортировать страницы в формате DXF / DWG](xdxfgui_h_seitendxfexportieren.md)
+* [Импортировать страницы в формате DXF/DWG](xdxfgui_h_seitendxfimportieren.md)
+* [Вставить файлы DXF / DWG в графическом редакторе](xdxfgui_h_seitengrafeditoreinfuegen.md)
+* [Создать макросы из файлов DXF / DWG](macrosgui_h_makrosausdxf.md)

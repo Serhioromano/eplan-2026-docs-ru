@@ -27,5 +27,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Отмена и восстановление операций](eplan/gededitgui_k_undoundredo.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Отмена и восстановление операций](gededitgui_k_undoundredo.md)

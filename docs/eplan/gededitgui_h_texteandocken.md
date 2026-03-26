@@ -49,7 +49,7 @@
 
 **См. также:**
 
-* [Тексты](eplan/gededitgui_k_texte.md)
-* [Вставить текст](eplan/gededitgui_h_texte.md)
-* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-* [Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
+* [Тексты](gededitgui_k_texte.md)
+* [Вставить текст](gededitgui_h_texte.md)
+* [Обработать свойства текста](gededitgui_h_textebearbeiten.md)
+* [Переместить тексты свойств](gededitgui_h_symboltexteverschieben.md)

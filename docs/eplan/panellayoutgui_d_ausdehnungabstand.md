@@ -16,4 +16,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Компоновка электрошкафа 2D](eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
+* [Диалоговое окно Настройки: Компоновка электрошкафа 2D](panellayoutgui_d_schaltschrankaufbaueinstellungen.md)

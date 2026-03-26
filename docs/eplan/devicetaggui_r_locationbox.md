@@ -39,9 +39,9 @@
 
 * * *
 
-[Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле "Свойства"](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 **См. также:**
 
-* [Вставить обозначения местоположения](eplan/locationbox_h_einfuegen.md)
-* [Диалоговое окно Настройки: Условные обозначения](eplan/pleditorgui_d_einstellungenkennzeichen.md)
+* [Вставить обозначения местоположения](locationbox_h_einfuegen.md)
+* [Диалоговое окно Настройки: Условные обозначения](pleditorgui_d_einstellungenkennzeichen.md)

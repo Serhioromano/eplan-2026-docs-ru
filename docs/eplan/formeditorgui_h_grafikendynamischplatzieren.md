@@ -76,5 +76,5 @@
 
 **См. также:**
 
-* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
-* [Проверить формы](eplan/formeditorgui_h_formularepruefen.md)
+* [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Проверить формы](formeditorgui_h_formularepruefen.md)

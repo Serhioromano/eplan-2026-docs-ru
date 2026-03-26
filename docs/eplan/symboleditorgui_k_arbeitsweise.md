@@ -12,4 +12,4 @@
 
 **См. также:**
 
-* [Редактор символов](eplan/symboleditorgui_k_start.md)
+* [Редактор символов](symboleditorgui_k_start.md)

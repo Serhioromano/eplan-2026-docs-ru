@@ -8,6 +8,6 @@
 
 **См. также:**
 
-* [Обозначения местоположения: Основные положения](eplan/locationbox_k_grundlagen.md)
-* [Вставить обозначения местоположения](eplan/locationbox_h_einfuegen.md)
-* [Работа с вложенными обозначениями местоположения](eplan/locationbox_h_geschachtelte.md)
+* [Обозначения местоположения: Основные положения](locationbox_k_grundlagen.md)
+* [Вставить обозначения местоположения](locationbox_h_einfuegen.md)
+* [Работа с вложенными обозначениями местоположения](locationbox_h_geschachtelte.md)

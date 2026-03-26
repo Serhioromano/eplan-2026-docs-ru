@@ -17,13 +17,13 @@
 
 **См. также:**
 
-* [Свойства устройства](eplan/devicetaggui_k_bmeigenschaften.md)
-* [Структура обозначения устройства](eplan/devicetaggui_k_aufbauvonbm.md)
-* [Перенос ОУ](eplan/devicetaggui_k_bmkuebernahme.md)
-* [Перенос обозначения вывода устройства](eplan/devicetaggui_k_anschlussbezuebergabe.md)
-* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-* [Присвоить изделия устройству](eplan/devicetaggui_h_artikeldatenzuweisen.md)
-* [Генерировать перекрестные ссылки оборудования](eplan/xessettingsgui_h_symbolquerverweiseerzeugen.md)
-* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
-* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
+* [Свойства устройства](devicetaggui_k_bmeigenschaften.md)
+* [Структура обозначения устройства](devicetaggui_k_aufbauvonbm.md)
+* [Перенос ОУ](devicetaggui_k_bmkuebernahme.md)
+* [Перенос обозначения вывода устройства](devicetaggui_k_anschlussbezuebergabe.md)
+* [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Присвоить изделия устройству](devicetaggui_h_artikeldatenzuweisen.md)
+* [Генерировать перекрестные ссылки оборудования](xessettingsgui_h_symbolquerverweiseerzeugen.md)
+* [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
+* [Защита устройства](devicetaggui_k_geschuetztebm.md)

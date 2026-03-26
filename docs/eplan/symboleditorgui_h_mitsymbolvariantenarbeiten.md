@@ -60,4 +60,4 @@
 
 **См. также:**
 
-* [Выбрать вариант символа](eplan/xsbgui_h_symbolvarianteausw.md)
+* [Выбрать вариант символа](xsbgui_h_symbolvarianteausw.md)

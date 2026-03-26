@@ -43,6 +43,6 @@
 
 **См. также:**
 
-* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
-* [Элементы-заполнители Eplan](eplan/placeholder_o_main.md)
-* [Свойства Eplan](eplan/properties_o_main.md)
+* [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Элементы-заполнители Eplan](placeholder_o_main.md)
+* [Свойства Eplan](properties_o_main.md)

@@ -21,7 +21,7 @@
 
 **См. также:**
 
-* [Шаблоны для классов трубы и веществ](eplan/planninggui_k_rohrleitungsvorlagen.md)
-* [Диалоговое окно Шаблоны сегментов — <Имя проекта>](eplan/planninggui_d_vorlagennavigator.md)
-* [Вкладка "<Отображаемое имя класса трубы>" / вкладка "<Отображаемое имя вещества>"](eplan/planninggui_r_rohrklassestoff.md)
-* [Диалоговое окно Конфигурировать определения сегментов — <Имя проекта>](eplan/planninggui_d_konfigsegmentdef.md)
+* [Шаблоны для классов трубы и веществ](planninggui_k_rohrleitungsvorlagen.md)
+* [Диалоговое окно Шаблоны сегментов — <Имя проекта>](planninggui_d_vorlagennavigator.md)
+* [Вкладка "<Отображаемое имя класса трубы>" / вкладка "<Отображаемое имя вещества>"](planninggui_r_rohrklassestoff.md)
+* [Диалоговое окно Конфигурировать определения сегментов — <Имя проекта>](planninggui_d_konfigsegmentdef.md)

@@ -12,6 +12,6 @@
 
 **См. также:**
 
-* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Определения функции: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)

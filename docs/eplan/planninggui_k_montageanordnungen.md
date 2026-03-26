@@ -33,7 +33,7 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
-* [Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
-* [Вывести монтажные чертежи для объектов планирования](eplan/planninggui_h_montageanordnungenausgeben.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
+* [Типы отчетов](formgeneratorgui_k_auswertungstypen.md)
+* [Вывести монтажные чертежи для объектов планирования](planninggui_h_montageanordnungenausgeben.md)

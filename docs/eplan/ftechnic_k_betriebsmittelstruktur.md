@@ -21,7 +21,7 @@
 # |  Определенная пользователем структура  
 - |  Устройство (состоит из элементов идентификатора "Предш. цифра", "Буквенное обозначение", "Счетчик", "Разделитель" и "Подсчетчик")  
   
-Благодаря этим блокам идентификаторов Eplan Fluid предоставляет множество различных способов структурирования. Например, можно структурировать ОУ согласно стандарту [EN 81436](eplan/projectstructure_k_referenzkennzeichnung.md) или ISO 1219-2.
+Благодаря этим блокам идентификаторов Eplan Fluid предоставляет множество различных способов структурирования. Например, можно структурировать ОУ согласно стандарту [EN 81436](projectstructure_k_referenzkennzeichnung.md) или ISO 1219-2.
 
 ### Обозначение устройства согласно стандарту Fluid-техники ISO 1219-2
 
@@ -69,7 +69,7 @@
 
 **См. также:**
 
-* [Структура проекта](eplan/projectstructure_k_start.md)
-* [Вкладка Структура](eplan/prjmanagementgui_r_struktur.md)
-* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-* [Диалоговое окно Настройки: ОУ (Проекты, Устройства)](eplan/xessettingsgui_d_betriebsmittelbmk.md)
+* [Структура проекта](projectstructure_k_start.md)
+* [Вкладка Структура](prjmanagementgui_r_struktur.md)
+* [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Диалоговое окно Настройки: ОУ (Проекты, Устройства)](xessettingsgui_d_betriebsmittelbmk.md)

@@ -17,5 +17,5 @@
 
 **См. также:**
 
-* [Переместить клеммы](eplan/terminalgui_h_klemmenverschieb.md)
-* [Клеммы](eplan/terminalgui_k_start.md)
+* [Переместить клеммы](terminalgui_h_klemmenverschieb.md)
+* [Клеммы](terminalgui_k_start.md)

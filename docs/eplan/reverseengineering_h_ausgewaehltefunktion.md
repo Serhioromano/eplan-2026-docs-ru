@@ -18,6 +18,6 @@
 
 **См. также:**
 
-* [Обработать свойства во всех представлениях главной функции](eplan/reverseengineering_h_alledarstellungenbm.md)
-* [Обработать свойства во всех представлениях вспомогательной функции](eplan/reverseengineering_h_alledarstellungenfunktion.md)
-* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
+* [Обработать свойства во всех представлениях главной функции](reverseengineering_h_alledarstellungenbm.md)
+* [Обработать свойства во всех представлениях вспомогательной функции](reverseengineering_h_alledarstellungenfunktion.md)
+* [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)

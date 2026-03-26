@@ -14,5 +14,5 @@
 
 **См. также:**
 
-* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
-* [Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)
+* [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)
+* [Считать каталоги и проекты](prjmanagementgui_h_verzeichniseinlesen.md)

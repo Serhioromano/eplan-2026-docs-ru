@@ -24,7 +24,7 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Список / конфигурация:
 
@@ -38,6 +38,6 @@
   
 **См. также:**
 
-* [Создание пользователем конфигураций свойств](eplan/userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
-* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-* [Вкладка Свойства](eplan/articlesgui_r_eigenschaften.md)
+* [Создание пользователем конфигураций свойств](userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
+* [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Вкладка Свойства](articlesgui_r_eigenschaften.md)

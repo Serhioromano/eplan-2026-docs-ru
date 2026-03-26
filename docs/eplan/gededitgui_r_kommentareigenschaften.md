@@ -35,9 +35,9 @@
 
 **См. также:**
 
-* [Импортировать PDF-комментарии](eplan/projectcomments_h_kommentareimportieren.md)
-* [Вставить комментарии](eplan/projectcomments_h_kommentareeinfuegen.md)
-* [Редактировать комментарии](eplan/projectcomments_h_kommentarebearbeiten.md)
-* [Комментарии](eplan/projectcomments_k_start.md)
-* [Комментирование : Процедура](eplan/projectcomments_k_vorgehensweise.md)
-* [Диалоговое окно Комментарии — <Имя проекта>](eplan/pdfexportgui_d_kommentarenavigator.md)
+* [Импортировать PDF-комментарии](projectcomments_h_kommentareimportieren.md)
+* [Вставить комментарии](projectcomments_h_kommentareeinfuegen.md)
+* [Редактировать комментарии](projectcomments_h_kommentarebearbeiten.md)
+* [Комментарии](projectcomments_k_start.md)
+* [Комментирование : Процедура](projectcomments_k_vorgehensweise.md)
+* [Диалоговое окно Комментарии — <Имя проекта>](pdfexportgui_d_kommentarenavigator.md)

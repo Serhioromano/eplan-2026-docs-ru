@@ -19,4 +19,4 @@
 
 **См. также:**
 
-* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Поиск данных проекта](searchandreplacegui_h_suchen.md)

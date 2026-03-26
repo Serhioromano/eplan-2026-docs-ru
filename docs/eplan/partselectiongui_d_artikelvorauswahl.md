@@ -11,7 +11,7 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Описание:
 
@@ -28,6 +28,6 @@
   
 **См. также:**
 
-* [Диалоговое окно Настройки: Выбор устройства](eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
-* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
-* [Выбор устройства: Способ действий](eplan/partselectiongui_k_vorgehensweise.md)
+* [Диалоговое окно Настройки: Выбор устройства](partselectiongui_d_einstellungengeraeteauswahl.md)
+* [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
+* [Выбор устройства: Способ действий](partselectiongui_k_vorgehensweise.md)

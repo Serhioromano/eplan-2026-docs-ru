@@ -1,6 +1,6 @@
 ## Проект для сравнения и проект с замечаниями
 
-В процессе [проверки проекта](eplan/processreceiptcontrol_k_start.md) сравниваются между собой два проекта: проект сравнения и проект с замечаниями.
+В процессе [проверки проекта](processreceiptcontrol_k_start.md) сравниваются между собой два проекта: проект сравнения и проект с замечаниями.
 
 ###  Проект сравнения
 
@@ -19,7 +19,7 @@
 
 **См. также:**
 
-* [Проверка проекта: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-* [Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
-* [Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)
+* [Проверка проекта: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
+* [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Создать схему сравнения настроек](processreceiptcontrol_h_vergleichsschema.md)
+* [Создать схему сравнения свойств](processreceiptcontrol_h_eigenschaftenvergleich.md)

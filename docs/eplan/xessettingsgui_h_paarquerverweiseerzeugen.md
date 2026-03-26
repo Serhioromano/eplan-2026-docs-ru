@@ -29,4 +29,4 @@
 
 **См. также:**
 
-* [Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
+* [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)

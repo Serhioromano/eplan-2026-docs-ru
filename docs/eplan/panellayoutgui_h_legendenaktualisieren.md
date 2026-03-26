@@ -23,6 +23,6 @@
 
 **См. также:**
 
-* [Компоновка электрошкафа 2D: Легенды](eplan/panellayoutgui_k_legenden.md)
-* [Диалоговое окно Обработать позицию легенды](eplan/panellayoutgui_d_legendenposbearbeiten.md)
-* [Диалоговое окно Нумеровать](eplan/panellayoutgui_d_nummerieren.md)
+* [Компоновка электрошкафа 2D: Легенды](panellayoutgui_k_legenden.md)
+* [Диалоговое окно Обработать позицию легенды](panellayoutgui_d_legendenposbearbeiten.md)
+* [Диалоговое окно Нумеровать](panellayoutgui_d_nummerieren.md)

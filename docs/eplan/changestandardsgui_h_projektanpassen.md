@@ -20,12 +20,12 @@
 4. Выберите в диалоговом окне Выбрать папку каталог для сохранения нового проекта и щелкните по кнопке [OK].
 5. Нажмите на кнопку [Далее].  
   
-[Задать базовый проект и поворот / инверсию](eplan/changestandardsgui_h_vorlagefestlegen.md)
+[Задать базовый проект и поворот / инверсию](changestandardsgui_h_vorlagefestlegen.md)
 
 **См. также:**
 
-* [Заменить рамки, формы и библиотеку определения функций (изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
-* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
-* [Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
-* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
-* [Определить нумерацию устройств (Изменение стандарта)](eplan/changestandardsgui_h_nummerieren.md)
+* [Заменить рамки, формы и библиотеку определения функций (изменение стандарта)](changestandardsgui_h_stammdatenaustauschen.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](changestandardsgui_h_symboletauschen.md)
+* [Создать схему присвоения для символов (изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
+* [Определить структуру проекта (изменение стандарта)](changestandardsgui_h_projektstrukturanpassen.md)
+* [Определить нумерацию устройств (Изменение стандарта)](changestandardsgui_h_nummerieren.md)

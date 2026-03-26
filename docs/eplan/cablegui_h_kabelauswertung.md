@@ -31,5 +31,5 @@
 
 **См. также:**
 
-* [Отчеты](eplan/formgeneratorgui_k_start.md)
-* [Фильтр](eplan/modaldialogsdb_k_filter.md)
+* [Отчеты](formgeneratorgui_k_start.md)
+* [Фильтр](modaldialogsdb_k_filter.md)

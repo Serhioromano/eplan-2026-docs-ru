@@ -102,7 +102,7 @@
 
 **См. также:**
 
-* [Указания размеров](eplan/dimensiongui_k_start.md)
-* [Указания размеров: Принцип](eplan/dimensiongui_k_bemassungenprinzip.md)
-* [Обработать указания размеров](eplan/dimensiongui_h_bemassungbearbeiten.md)
-* [Диалоговое окно Настройки: Указание размеров](eplan/dimensiongui_d_projektbemassung.md)
+* [Указания размеров](dimensiongui_k_start.md)
+* [Указания размеров: Принцип](dimensiongui_k_bemassungenprinzip.md)
+* [Обработать указания размеров](dimensiongui_h_bemassungbearbeiten.md)
+* [Диалоговое окно Настройки: Указание размеров](dimensiongui_d_projektbemassung.md)

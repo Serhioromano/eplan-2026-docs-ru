@@ -25,5 +25,5 @@
 
 **См. также:**
 
-* [Типы страниц для Eplan Fluid](eplan/ftechnic_k_seitentyp_fluid.md)
-* [Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
+* [Типы страниц для Eplan Fluid](ftechnic_k_seitentyp_fluid.md)
+* [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)

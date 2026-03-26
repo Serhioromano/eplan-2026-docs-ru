@@ -27,4 +27,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Управление правами: Рабочий режим](eplan/uradministration_d_arbeitsmodus.md)
+* [Диалоговое окно Управление правами: Рабочий режим](uradministration_d_arbeitsmodus.md)

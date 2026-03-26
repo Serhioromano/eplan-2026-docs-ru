@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Схемы](eplan/schemeconfig_k_start.md)
-* [Панель инструментов схемы](eplan/schemeconfig_m_schemaschaltflaechen.md)
+* [Схемы](schemeconfig_k_start.md)
+* [Панель инструментов схемы](schemeconfig_m_schemaschaltflaechen.md)

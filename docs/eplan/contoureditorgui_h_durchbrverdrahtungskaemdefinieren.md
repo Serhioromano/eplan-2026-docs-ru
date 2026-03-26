@@ -47,5 +47,5 @@
 
 **См. также:**
 
-* [Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
-* [Маршрутизируемые соединения в системе направляющих для проводов](eplan/routinggui_k_verdrahtungssystem.md)
+* [Редактор контура: Логические элементы](contoureditorgui_k_logikelemente.md)
+* [Маршрутизируемые соединения в системе направляющих для проводов](routinggui_k_verdrahtungssystem.md)

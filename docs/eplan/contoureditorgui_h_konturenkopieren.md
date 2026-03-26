@@ -75,4 +75,4 @@
 
 **См. также:**
 
-* [Редактор контура](eplan/contoureditorgui_k_start.md)
+* [Редактор контура](contoureditorgui_k_start.md)

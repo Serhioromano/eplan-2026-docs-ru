@@ -136,5 +136,5 @@ REFERENCE_POS |  Базовая позиция изделия задает (пр
   
 **См. также:**
 
-* [Экспортировать спецификации](eplan/partslistgui_h_stuecklistenexportieren.md)
-* [Импортировать спецификации](eplan/partslistgui_h_stuecklistenimportieren.md)
+* [Экспортировать спецификации](partslistgui_h_stuecklistenexportieren.md)
+* [Импортировать спецификации](partslistgui_h_stuecklistenimportieren.md)

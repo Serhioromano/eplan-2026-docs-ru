@@ -99,6 +99,6 @@ Excel открывается вместе с экспортированными 
 
 **См. также:**
 
-* [Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
-* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
-* [Диалоговое окно Внешняя обработка: импортировать данные изделий](eplan/macrosgui_d_pxfartikelimport.md)
+* [Шаблоны Excel для внешней обработки](pxfinterface_k_excelexportvorlagen.md)
+* [Экспорт данных для внешней обработки](pxfinterface_h_seitenexportieren.md)
+* [Диалоговое окно Внешняя обработка: импортировать данные изделий](macrosgui_d_pxfartikelimport.md)

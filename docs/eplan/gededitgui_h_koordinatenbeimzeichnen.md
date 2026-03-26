@@ -44,9 +44,9 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Использование области ввода данных](eplan/gededitgui_h_kommandozeile.md)
-* [Системы координат](eplan/gededitgui_k_koordinatensysteme.md)
-* [Переместить исходную точку координат](eplan/gededitgui_h_bezugspunktverschiebung.md)
-* [Диалоговое окно Ввод координат](eplan/gededitgui_d_koordinateneingabe.md)
-* [Диалоговое окно Относительный ввод координат](eplan/gededitgui_d_relativekoordinaten.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Использование области ввода данных](gededitgui_h_kommandozeile.md)
+* [Системы координат](gededitgui_k_koordinatensysteme.md)
+* [Переместить исходную точку координат](gededitgui_h_bezugspunktverschiebung.md)
+* [Диалоговое окно Ввод координат](gededitgui_d_koordinateneingabe.md)
+* [Диалоговое окно Относительный ввод координат](gededitgui_d_relativekoordinaten.md)

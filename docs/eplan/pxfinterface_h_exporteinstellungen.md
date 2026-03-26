@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Внешняя обработка](eplan/macrosgui_d_pxfseitenexport.md)
-* [Диалоговое окно Настройки: Внешняя обработка](eplan/macrosgui_d_pxfeinstellungenexport.md)
-* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
+* [Диалоговое окно Внешняя обработка](macrosgui_d_pxfseitenexport.md)
+* [Диалоговое окно Настройки: Внешняя обработка](macrosgui_d_pxfeinstellungenexport.md)
+* [Экспорт данных для внешней обработки](pxfinterface_h_seitenexportieren.md)

@@ -26,4 +26,4 @@
 
 **См. также:**
 
-* [Вставить кривые](eplan/routinggui_h_kurveeinfuegen.md)
+* [Вставить кривые](routinggui_h_kurveeinfuegen.md)

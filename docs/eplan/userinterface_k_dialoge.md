@@ -93,6 +93,6 @@
 
 **См. также:**
 
-* [Элементы интерфейса пользователя](eplan/userinterface_k_hintergrund.md)
-* [Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
-* [Присоединение / отсоединение элементов управления](eplan/userinterface_h_bedienelementeandocken.md)
+* [Элементы интерфейса пользователя](userinterface_k_hintergrund.md)
+* [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
+* [Присоединение / отсоединение элементов управления](userinterface_h_bedienelementeandocken.md)

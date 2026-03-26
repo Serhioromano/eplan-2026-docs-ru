@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Обозначения местоположения](eplan/locationbox_k_start.md)
-* [Работа с вложенными обозначениями местоположения](eplan/locationbox_h_geschachtelte.md)
+* [Обозначения местоположения](locationbox_k_start.md)
+* [Работа с вложенными обозначениями местоположения](locationbox_h_geschachtelte.md)

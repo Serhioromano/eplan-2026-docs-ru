@@ -51,4 +51,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Монтажная сетка](ged3dmateeditorgui_d_montageraster.htm)
+* [Диалоговое окно Монтажная сетка](ged3dmateeditorgui_d_montageraster.md)

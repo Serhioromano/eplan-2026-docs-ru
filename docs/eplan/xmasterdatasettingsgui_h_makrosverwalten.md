@@ -39,5 +39,5 @@
 
 **См. также:**
 
-* [Основные данные: Управлять данными изделий](eplan/xmasterdatasettingsgui_h_artikeldatenverwalten.md)
-* [Найти и сохранить недостающие основные данные проекта, обновить проекты](eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
+* [Основные данные: Управлять данными изделий](xmasterdatasettingsgui_h_artikeldatenverwalten.md)
+* [Найти и сохранить недостающие основные данные проекта, обновить проекты](xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)

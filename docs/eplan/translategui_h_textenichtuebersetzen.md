@@ -14,5 +14,5 @@
 
 **См. также:**
 
-* [Переводить типы страниц везде / не переводить](eplan/translategui_h_seitennichtuebersetzen.md)
-* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
+* [Переводить типы страниц везде / не переводить](translategui_h_seitennichtuebersetzen.md)
+* [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)

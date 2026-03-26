@@ -12,9 +12,9 @@
 
 **См. также:**
 
-* [Элементы интерфейса пользователя](eplan/userinterface_k_hintergrund.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
-* [Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
-* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
-* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
-* [Настройка отображения таблиц](eplan/userinterface_h_anzeigesortierreihenfolgefestlegen.md)
+* [Элементы интерфейса пользователя](userinterface_k_hintergrund.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
+* [Настроить панель быстрого доступа](userinterface_h_schnellzugriffanpassen.md)
+* [Настроить ленту](userinterface_h_menuebandanpassen.md)
+* [Обработка схем](schemeconfig_h_schematabearbeiten.md)
+* [Настройка отображения таблиц](userinterface_h_anzeigesortierreihenfolgefestlegen.md)

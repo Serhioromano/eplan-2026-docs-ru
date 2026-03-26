@@ -13,4 +13,4 @@
 
 **См. также:**
 
-* [База данных изделий: Импорт данных изделий по стандарту ECLASS](eplan/partsimportbmecatgui_k_start.md)
+* [База данных изделий: Импорт данных изделий по стандарту ECLASS](partsimportbmecatgui_k_start.md)

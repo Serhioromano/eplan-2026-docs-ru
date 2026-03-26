@@ -40,7 +40,7 @@ Eplan Design Space Exchange используется в 3 следующих р�
 
 **См. также:**
 
-* [Диалоговое окно "Импорт пространства конструкции"](eplan/xdesignspaceimportgui_d_konstruktionsraumimport.md)
-* [Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](eplan/xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)
-* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
-* [Экспортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumexportieren.md)
+* [Диалоговое окно "Импорт пространства конструкции"](xdesignspaceimportgui_d_konstruktionsraumimport.md)
+* [Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)
+* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
+* [Экспортировать пространство конструкции](xdesignspaceimportgui_h_konstraumexportieren.md)

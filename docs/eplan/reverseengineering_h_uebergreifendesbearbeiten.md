@@ -43,7 +43,7 @@
 
 **См. также:**
 
-* [Общая обработка на страницах отчетов](eplan/Reverseengineering_k_start.md)
-* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Общая обработка на страницах отчетов](Reverseengineering_k_start.md)
+* [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)

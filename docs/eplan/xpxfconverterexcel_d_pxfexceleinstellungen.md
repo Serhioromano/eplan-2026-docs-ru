@@ -28,4 +28,4 @@
 
 **См. также:**
 
-* [Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
+* [Шаблоны Excel для внешней обработки](pxfinterface_k_excelexportvorlagen.md)

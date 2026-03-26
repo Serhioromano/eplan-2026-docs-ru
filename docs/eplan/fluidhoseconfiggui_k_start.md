@@ -15,4 +15,4 @@ Eplan Fluid Hose Configurator, именуемый в дальнейшем "Ко�
 
 **См. также:**
 
-* [Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
+* [Рабочий процесс](fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)

@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Разместить функции устройств](eplan/devicelistgui_h_geraeteplatzieren.md)
+* [Разместить функции устройств](devicelistgui_h_geraeteplatzieren.md)

@@ -63,5 +63,5 @@
   
 **См. также:**
 
-* [Прямая обработка](eplan/inplaceeditinggui_k_start.md)
-* [Использование прямой обработки](eplan/inplaceeditinggui_h_direktesbearbeiten.md)
+* [Прямая обработка](inplaceeditinggui_k_start.md)
+* [Использование прямой обработки](inplaceeditinggui_h_direktesbearbeiten.md)

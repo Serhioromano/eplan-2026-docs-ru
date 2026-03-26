@@ -121,8 +121,8 @@
 
 **См. также:**
 
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Вкладка Электротехника](eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
-* [Вкладки Гидравлика/Пневматика/Охлаждение/Смазка/Технология производственных процессов](eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md)
-* [Диалоговое окно Настройки: Цвета соединений](eplan/connectionsettingsgui_d_einstellungenaderfarben.md)
-* [Соединения: Единицы измерения длины и поперечного сечения](eplan/connectionbrowsergui_k_einheitenverbindungen.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Вкладка Электротехника](connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
+* [Вкладки Гидравлика/Пневматика/Охлаждение/Смазка/Технология производственных процессов](connectionsettingsgui_r_projekteinstellungenhydraulik.md)
+* [Диалоговое окно Настройки: Цвета соединений](connectionsettingsgui_d_einstellungenaderfarben.md)
+* [Соединения: Единицы измерения длины и поперечного сечения](connectionbrowsergui_k_einheitenverbindungen.md)

@@ -16,11 +16,11 @@
 
 **См. также:**
 
-* [Сообщения контрольного прогона: номера сообщений, классы и категории](eplan/msgmanagementgui_k_prinzip.md)
-* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-* [Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
-* [Проверить данные проекта в режиме подключения](eplan/msgmanagementgui_h_prueflaufonline.md)
-* [Проверить основные данные изделия](eplan/articlesgui_h_artikelstammdatenpruefen.md)
-* [Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
-* [Отобразить тексты сообщений в графическом редакторе](eplan/msgmanagementgui_h_meldungstexteanzeigen.md)
+* [Сообщения контрольного прогона: номера сообщений, классы и категории](msgmanagementgui_k_prinzip.md)
+* [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
+* [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
+* [Проверить проекты](msgmanagementgui_h_prueflauf.md)
+* [Проверить данные проекта в режиме подключения](msgmanagementgui_h_prueflaufonline.md)
+* [Проверить основные данные изделия](articlesgui_h_artikelstammdatenpruefen.md)
+* [Просмотреть и обработать сообщения контрольного прогона](msgmanagementgui_h_meldungenansehen.md)
+* [Отобразить тексты сообщений в графическом редакторе](msgmanagementgui_h_meldungstexteanzeigen.md)

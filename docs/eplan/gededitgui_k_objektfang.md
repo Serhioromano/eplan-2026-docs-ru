@@ -33,6 +33,6 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Активировать захват объекта](eplan/gededitgui_h_fangpunkte.md)
-* [Начертить перпендикулярные или касательные линии](eplan/gededitgui_h_lotrechttangentialzeichnen.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Активировать захват объекта](gededitgui_h_fangpunkte.md)
+* [Начертить перпендикулярные или касательные линии](gededitgui_h_lotrechttangentialzeichnen.md)

@@ -22,7 +22,7 @@
 
 **См. также:**
 
-* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Закрепить страницы отчета](eplan/formgeneratorgui_h_auswerteinfrieren.md)
+* [Создать шаблон отчета](formgeneratorgui_h_vorlageerstellen.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)

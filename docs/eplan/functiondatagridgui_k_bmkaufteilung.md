@@ -45,4 +45,4 @@
 
 **См. также:**
 
-* [Табличная обработка](eplan/functiondatagridgui_k_start.md)
+* [Табличная обработка](functiondatagridgui_k_start.md)

@@ -36,4 +36,4 @@
 
 **См. также:**
 
-* [Генерировать сеть соединенных сегментов](eplan/routinggui_h_streckennetzerzeugen.md)
+* [Генерировать сеть соединенных сегментов](routinggui_h_streckennetzerzeugen.md)

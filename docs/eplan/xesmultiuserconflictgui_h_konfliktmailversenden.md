@@ -29,6 +29,6 @@
 
 **См. также:**
 
-* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
-* [Диалоговое окно Многопользовательский конфликт](eplan/xesmultiuserconflictgui_d_konflikte.md)
-* [Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
+* [Многопользовательский режим](xesmultiuserconflictgui_k_start.md)
+* [Диалоговое окно Многопользовательский конфликт](xesmultiuserconflictgui_d_konflikte.md)
+* [Диалоговое окно Настройки: Ид. пользователя / адрес](xusersettingsgui_d_einstellungenmehrbenutzer.md)

@@ -44,15 +44,15 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Предварительное планирование](planninggui_k_start.md)
 Предварительное планирование: Принцип
 
-[Создать подробное планирование путем перетаскивания мышью](eplan/planninggui_h_makrosdragdrop.md)
+[Создать подробное планирование путем перетаскивания мышью](planninggui_h_makrosdragdrop.md)
 
-[Соединить сегменты со страницами](eplan/planninggui_h_seitenzuordnen.md)
+[Соединить сегменты со страницами](planninggui_h_seitenzuordnen.md)
 
-[Использовать рамки макросов](eplan/macrosgui_h_makrokasten.md)
+[Использовать рамки макросов](macrosgui_h_makrokasten.md)
 
-[Диалоговое окно Настройки: Общее (предварительное планирование)](eplan/planninggui_d_einstellallgemein.md)
+[Диалоговое окно Настройки: Общее (предварительное планирование)](planninggui_d_einstellallgemein.md)
 
-[Диалоговое окно Обновить детальное планирование](eplan/planninggui_d_detailplanungaktualisieren.md)
+[Диалоговое окно Обновить детальное планирование](planninggui_d_detailplanungaktualisieren.md)

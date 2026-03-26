@@ -20,11 +20,11 @@
 9. В столбце Вид проверки используйте раскрывающийся список, чтобы определить, будет ли проверка выполняться как в режиме онлайн, так и в автономном режиме (настройка "Online / Offline"), либо только в автономном режиме (настройка "Offline"), или же соответствующая проверка не будет выполняться (настройка "Нет").
 10. Щелкните по кнопкам [Сохранить] и [OK].  
   
-[Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+[Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
 
 **См. также:**
 
-* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-* [Проект для сравнения и проект с замечаниями](eplan/processreceiptcontrol_k_projekte.md)
-* [Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-* [Генерировать проект для сравнения](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Проверка проекта](processreceiptcontrol_k_start.md)
+* [Проект для сравнения и проект с замечаниями](processreceiptcontrol_k_projekte.md)
+* [Нормоконтроль: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
+* [Генерировать проект для сравнения](revisionmgtgui_h_vergleichsprojekterzeugen.md)

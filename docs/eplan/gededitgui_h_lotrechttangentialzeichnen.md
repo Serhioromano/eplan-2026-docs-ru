@@ -38,6 +38,6 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Захват объекта](eplan/gededitgui_k_objektfang.md)
-* [Отобразить точки вставки](eplan/gededitgui_h_einfuegepunkte.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Захват объекта](gededitgui_k_objektfang.md)
+* [Отобразить точки вставки](gededitgui_h_einfuegepunkte.md)

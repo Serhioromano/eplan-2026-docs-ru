@@ -36,6 +36,6 @@
 
 **См. также:**
 
-* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
-* [Диалоговое окно "Импорт пространства конструкции"](eplan/xdesignspaceimportgui_d_konstruktionsraumimport.md)
-* [Импортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumimportieren.md)
+* [Вкладка Настройки: Пространство конструкции — Определения функций (импорт)](xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
+* [Диалоговое окно "Импорт пространства конструкции"](xdesignspaceimportgui_d_konstruktionsraumimport.md)
+* [Импортировать пространство конструкции](xdesignspaceimportgui_h_konstraumimportieren.md)

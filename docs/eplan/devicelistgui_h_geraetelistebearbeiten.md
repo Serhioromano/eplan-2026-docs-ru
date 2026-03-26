@@ -41,6 +41,6 @@
 
 **См. также:**
 
-* [Список устройств](eplan/devicelistgui_k_geraeteliste.md)
-* [Диалоговое окно Список устройств](eplan/devicelistgui_d_geraeteliste.md)
-* [Диалоговое окно Свойства (список устройств)](eplan/devicelistgui_d_eigenschaften.md)
+* [Список устройств](devicelistgui_k_geraeteliste.md)
+* [Диалоговое окно Список устройств](devicelistgui_d_geraeteliste.md)
+* [Диалоговое окно Свойства (список устройств)](devicelistgui_d_eigenschaften.md)

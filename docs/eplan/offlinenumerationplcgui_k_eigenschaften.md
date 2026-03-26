@@ -21,5 +21,5 @@
 
 **См. также:**
 
-* [Нумерация устройств, подсоединенных к ПЛК](eplan/offlinenumerationplcgui_k_start.md)
-* [Продолжить нумерацию после функции](eplan/offlinenumerationplcgui_h_einstellungen.md)
+* [Нумерация устройств, подсоединенных к ПЛК](offlinenumerationplcgui_k_start.md)
+* [Продолжить нумерацию после функции](offlinenumerationplcgui_h_einstellungen.md)

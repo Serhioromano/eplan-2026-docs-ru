@@ -8,7 +8,7 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Выбор символа:
 
@@ -28,5 +28,5 @@
 
 **См. также:**
 
-* [Использовать интеллектуальное соединение](eplan/connectionbrowsergui_h_smartconnecting.md)
-* [Обработать точки разрыва](eplan/interruptionpointgui_h_abbruchstellenbearbeiten.md)
+* [Использовать интеллектуальное соединение](connectionbrowsergui_h_smartconnecting.md)
+* [Обработать точки разрыва](interruptionpointgui_h_abbruchstellenbearbeiten.md)

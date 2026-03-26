@@ -54,5 +54,5 @@
 
 **См. также:**
 
-* [Eplan Fluid: Нумерация устройства](eplan/ftechnic_k_bmknummerierung.md)
-* [Диалоговое окно Выбор ОУ](eplan/modaldialogsdb_d_bmkauswahl.md)
+* [Eplan Fluid: Нумерация устройства](ftechnic_k_bmknummerierung.md)
+* [Диалоговое окно Выбор ОУ](modaldialogsdb_d_bmkauswahl.md)

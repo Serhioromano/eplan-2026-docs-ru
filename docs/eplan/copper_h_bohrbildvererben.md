@@ -64,4 +64,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Изгиб шины (пользователь)](eplan/cabinetgui_d_einstellungenkupferbiegungbenutzer.md)
+* [Диалоговое окно Настройки: Изгиб шины (пользователь)](cabinetgui_d_einstellungenkupferbiegungbenutzer.md)

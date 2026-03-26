@@ -38,7 +38,7 @@
 
 **См. также:**
 
-* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
-* [Устройства в макросе/добавить копии с неизмененным ОУ](eplan/numerationgui_h_einfuegemoduswaehlen.md)
+* [Определить формат нумерации в режиме подключения](numerationgui_h_onlineformat.md)
+* [Автоматическая нумерация новых устройств](numerationgui_h_online.md)
+* [Установить предшествующий знак в видимом ОУ](numerationgui_h_vorzeichensetzen.md)
+* [Устройства в макросе/добавить копии с неизмененным ОУ](numerationgui_h_einfuegemoduswaehlen.md)

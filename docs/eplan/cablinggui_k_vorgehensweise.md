@@ -37,10 +37,10 @@
 
 **См. также:**
 
-* [Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
-* [Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
-* [Вставка функций топологии](eplan/cablinggui_k_funktioneneinfuegen.md)
-* [Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
-* [Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
-* [Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)
-* [Сгенерировать неразмещенные соединения](eplan/planningconnections_h_createconnections.md)
+* [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
+* [Вставить сегменты маршрутизации (топология)](cablinggui_h_streckeeinfuegen.md)
+* [Вставка функций топологии](cablinggui_k_funktioneneinfuegen.md)
+* [Маршрутизировать соединения (топологию)](cablinggui_h_verlegen.md)
+* [Вкладка Маршрутизация](connectionsettingsgui_r_einstellungenverlegung.md)
+* [Вкладка Обработка концов проводов](connectionsettingsgui_r_einstellungenverbindungsende.md)
+* [Сгенерировать неразмещенные соединения](planningconnections_h_createconnections.md)

@@ -12,9 +12,9 @@
 
 **См. также:**
 
-* [Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
-* [Сегменты маршрутизации топологии](eplan/cablinggui_k_strecken.md)
-* [Точки маршрутизации топологии](eplan/cablinggui_k_verlegepunkte.md)
-* [Функции топологии](eplan/cablinggui_k_topologiefunktionen.md)
-* [Маршрутизируемые соединения (топология)](eplan/cablinggui_k_verlegeverbindungen.md)
-* [Выбор и обработка фоновых изображений](eplan/gededitgui_h_hintergrundbearbeiten.md)
+* [Сети соединенных сегментов (топология)](cablinggui_k_start.md)
+* [Сегменты маршрутизации топологии](cablinggui_k_strecken.md)
+* [Точки маршрутизации топологии](cablinggui_k_verlegepunkte.md)
+* [Функции топологии](cablinggui_k_topologiefunktionen.md)
+* [Маршрутизируемые соединения (топология)](cablinggui_k_verlegeverbindungen.md)
+* [Выбор и обработка фоновых изображений](gededitgui_h_hintergrundbearbeiten.md)

@@ -64,4 +64,4 @@
 
 **См. также:**
 
-* [Синхронизировать данные проекта](eplan/projects_h_projekteabgleichen.md)
+* [Синхронизировать данные проекта](projects_h_projekteabgleichen.md)

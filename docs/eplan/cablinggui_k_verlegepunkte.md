@@ -19,7 +19,7 @@
 
 **См. также:**
 
-* [Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
-* [Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
-* [Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
-* [Маршрутизация соединений между различными структурами идентификаторов](eplan/cablinggui_h_strukturenverbinden.md)
+* [Сети соединенных сегментов (топология)](cablinggui_k_start.md)
+* [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
+* [Маршрутизируемые соединения (топология): порядок действий](cablinggui_k_vorgehensweise.md)
+* [Маршрутизация соединений между различными структурами идентификаторов](cablinggui_h_strukturenverbinden.md)

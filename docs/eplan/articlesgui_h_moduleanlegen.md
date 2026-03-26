@@ -80,6 +80,6 @@
 
 **См. также:**
 
-* [Управление изделиями: Модули](eplan/articlesgui_k_module.md)
-* [Вкладка Модуль](eplan/articlesgui_r_modul.md)
-* [Разместить устройства на трехмерном чертеже монтажных поверхностей](eplan/cabinetgui_h_geraetplatzieren.md)
+* [Управление изделиями: Модули](articlesgui_k_module.md)
+* [Вкладка Модуль](articlesgui_r_modul.md)
+* [Разместить устройства на трехмерном чертеже монтажных поверхностей](cabinetgui_h_geraetplatzieren.md)

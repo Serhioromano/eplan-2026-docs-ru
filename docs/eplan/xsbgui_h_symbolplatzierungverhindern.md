@@ -24,4 +24,4 @@
 
 **См. также:**
 
-* [Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
+* [Разместить символы](xsbgui_h_symboleplatzieren.md)

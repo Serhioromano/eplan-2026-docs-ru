@@ -11,26 +11,26 @@
 
 В объеме поставок содержится определение машины с именем производителя. Если в качестве схемы сгенерирована другая машина, можно выбрать из раскрывающегося списка другие определения машины и работать с ними.
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Вкладки:
 
 Для конфигурации сборки проводов имеются, в зависимости от машины, следующие вкладки:
 
-[Вкладка "Общие" (сборка проводов)](eplan/productionwiringgui_r_allgemein.md)
+[Вкладка "Общие" (сборка проводов)](productionwiringgui_r_allgemein.md)
 
-[Вкладка "Общие" (Komax — Zeta)](eplan/productionwiringgui_r_allgemeinkomax.md)
+[Вкладка "Общие" (Komax — Zeta)](productionwiringgui_r_allgemeinkomax.md)
 
-[Вкладка "Провода" / вкладка "Одиночные жилы"](eplan/productionwiringgui_r_draehte.md)
+[Вкладка "Провода" / вкладка "Одиночные жилы"](productionwiringgui_r_draehte.md)
 
-[Вкладка Обработка концов проводников](eplan/productionwiringgui_r_aderendbehandlung.md)
+[Вкладка Обработка концов проводников](productionwiringgui_r_aderendbehandlung.md)
 
-[Вкладка Машинная команда](eplan/productionwiringgui_r_maschinenbefehl.md)
+[Вкладка Машинная команда](productionwiringgui_r_maschinenbefehl.md)
 
-[Вкладка Маркировка](eplan/productionwiringgui_r_beschriftung.md)
+[Вкладка Маркировка](productionwiringgui_r_beschriftung.md)
 
-[Вкладка Настройки](eplan/productionwiringgui_r_einstellungen.md)
+[Вкладка Настройки](productionwiringgui_r_einstellungen.md)
 
 **См. также:**
 
-* [Диалоговое окно Сборка проводов: <машина>](eplan/productionwiringgui_d_exportdrahtdaten.md)
+* [Диалоговое окно Сборка проводов: <машина>](productionwiringgui_d_exportdrahtdaten.md)

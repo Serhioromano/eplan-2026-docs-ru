@@ -63,10 +63,10 @@ Eplan Fluid поддерживает соответствующие станда
 
 **См. также:**
 
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Eplan Fluid: Предварительное назначение свойств для соединений Fluid-техники](eplan/ftechnic_k_einstellungen_fluidverbindungen.md)
-* [Eplan Fluid: Символы соединения](eplan/ftechnic_k_verbindungssymbole.md)
-* [Eplan Fluid: Разделы](eplan/ftechnic_k_gewerke_an_schaltzeichen.md)
-* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
-* [Определить и выделить цветом трубопроводы Fluid](eplan/ftechnic_h_fluidleitungen_farblich_hervorheben.md)
-* [Eplan Fluid: Определение групп соединений и проводов](eplan/ftechnic_k_schlauchpakete.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Eplan Fluid: Предварительное назначение свойств для соединений Fluid-техники](ftechnic_k_einstellungen_fluidverbindungen.md)
+* [Eplan Fluid: Символы соединения](ftechnic_k_verbindungssymbole.md)
+* [Eplan Fluid: Разделы](ftechnic_k_gewerke_an_schaltzeichen.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](layermanager_d_ebenenverwaltung.md)
+* [Определить и выделить цветом трубопроводы Fluid](ftechnic_h_fluidleitungen_farblich_hervorheben.md)
+* [Eplan Fluid: Определение групп соединений и проводов](ftechnic_k_schlauchpakete.md)

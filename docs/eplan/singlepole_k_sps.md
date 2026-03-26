@@ -8,5 +8,5 @@
 
 **См. также:**
 
-* [ПЛК](eplan/plcgui_k_start.md)
-* [Структуры сети](eplan/singlepole_k_bustopologien.md)
+* [ПЛК](plcgui_k_start.md)
+* [Структуры сети](singlepole_k_bustopologien.md)

@@ -34,7 +34,7 @@
 
 **См. также:**
 
-* [Использование защищенных устройств](eplan/devicetaggui_k_geschuetztebmverwendung.md)
-* [Управление неразмещенных вспомогательных функций на главной функции](eplan/devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
-* [Защитить устройства](eplan/devicetaggui_h_bmschuetzen.md)
-* [Определить многополюсные соединения в однополюсной точке определения соединений](eplan/singlepole_h_allpoligeverbindungendefinieren.md)
+* [Использование защищенных устройств](devicetaggui_k_geschuetztebmverwendung.md)
+* [Управление неразмещенных вспомогательных функций на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
+* [Защитить устройства](devicetaggui_h_bmschuetzen.md)
+* [Определить многополюсные соединения в однополюсной точке определения соединений](singlepole_h_allpoligeverbindungendefinieren.md)

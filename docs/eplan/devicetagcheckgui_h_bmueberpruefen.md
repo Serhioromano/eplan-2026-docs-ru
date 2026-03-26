@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
-* [Диалоговое окно Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_syntaxfehlermeldung.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Синтаксическая проверка ОУ](devicetagcheckgui_d_syntaxfehlermeldung.md)

@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [3D-макротехника: принцип](cabinetgui_k_3dmakros.htm)
-* [Создание 3D-макроов](cabinetgui_h_3dmakroerstellen.htm)
-* [Изменить угол поворота при вставке 3D-макросов](cabinetgui_h_3dmakrodrehwinkelaendern.htm)
+* [3D-макротехника: принцип](cabinetgui_k_3dmakros.md)
+* [Создание 3D-макроов](cabinetgui_h_3dmakroerstellen.md)
+* [Изменить угол поворота при вставке 3D-макросов](cabinetgui_h_3dmakrodrehwinkelaendern.md)

@@ -57,7 +57,7 @@
 
 **См. также:**
 
-* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-* [Диалоговое окно Выбор изделия](eplan/partselectiongui_d_artikelauswahl.md)
-* [Диалоговое окно Настройки: Предварительная фильтрация изделий](eplan/partsextensiongui_d_artikelvorfilterung.md)
+* [Диалоговое окно Управление изделиями](articlesgui_d_artverw.md)
+* [Диалоговое окно "Центр вставки"](insertergui_d_einfuegezentrum.md)
+* [Диалоговое окно Выбор изделия](partselectiongui_d_artikelauswahl.md)
+* [Диалоговое окно Настройки: Предварительная фильтрация изделий](partsextensiongui_d_artikelvorfilterung.md)

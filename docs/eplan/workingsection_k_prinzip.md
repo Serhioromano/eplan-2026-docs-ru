@@ -54,5 +54,5 @@
 
 **См. также:**
 
-* [Разделение проектов на области обработки](eplan/workingsection_h_bereichedefinieren.md)
-* [Вывод отчета в другой проект](eplan/formgeneratorgui_h_inanderesprojekt.md)
+* [Разделение проектов на области обработки](workingsection_h_bereichedefinieren.md)
+* [Вывод отчета в другой проект](formgeneratorgui_h_inanderesprojekt.md)

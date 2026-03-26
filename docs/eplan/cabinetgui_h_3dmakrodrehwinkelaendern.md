@@ -28,4 +28,4 @@
 
 **См. также:**
 
-* [Разместить 3D-макросы](cabinetgui_h_3dmakroplatzieren.htm)
+* [Разместить 3D-макросы](cabinetgui_h_3dmakroplatzieren.md)

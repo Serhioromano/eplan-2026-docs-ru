@@ -70,6 +70,6 @@
 
 **См. также:**
 
-* [Eplan Fluid: Определение групп соединений и проводов](eplan/ftechnic_k_schlauchpakete.md)
-* [Eplan Fluid: Нумерация ОУ](eplan/ftechnic_k_bmknummerierung.md)
-* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
+* [Eplan Fluid: Определение групп соединений и проводов](ftechnic_k_schlauchpakete.md)
+* [Eplan Fluid: Нумерация ОУ](ftechnic_k_bmknummerierung.md)
+* [Eplan Fluid: Структура устройства](ftechnic_k_betriebsmittelstruktur.md)

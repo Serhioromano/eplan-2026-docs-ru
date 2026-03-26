@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Вкладка Шаблоны сегментов](eplan/planninggui_r_segmentvorlage.md)
-* [Создать шаблоны сегментов](eplan/planninggui_h_segmentvorlageeerstellen.md)
+* [Вкладка Шаблоны сегментов](planninggui_r_segmentvorlage.md)
+* [Создать шаблоны сегментов](planninggui_h_segmentvorlageeerstellen.md)

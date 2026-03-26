@@ -58,6 +58,6 @@
   
 **См. также:**
 
-* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-* [Диалоговое окно / вкладка "Присвоение данных изделия"](eplan/macrosgui_r_artikeldatenzuweisung.md)
-* [Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)
+* [Выбор изделия / устройства](partselectiongui_k_start.md)
+* [Диалоговое окно / вкладка "Присвоение данных изделия"](macrosgui_r_artikeldatenzuweisung.md)
+* [Вкладка Шаблоны функций](articlesgui_r_funktionsschablone.md)

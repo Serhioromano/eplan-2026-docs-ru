@@ -36,6 +36,6 @@
 
 **См. также:**
 
-* [Символы соединения: Основные положения](eplan/egedgui_k_grundlagen.md)
-* [Символы соединения: Представление точек соединения](eplan/egedgui_k_darstellungverbindungspunkte.md)
-* [Вставить символы соединений](eplan/egedgui_h_verbindungsstueckeeinfuegen.md)
+* [Символы соединения: Основные положения](egedgui_k_grundlagen.md)
+* [Символы соединения: Представление точек соединения](egedgui_k_darstellungverbindungspunkte.md)
+* [Вставить символы соединений](egedgui_h_verbindungsstueckeeinfuegen.md)

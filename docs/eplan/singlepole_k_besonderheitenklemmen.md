@@ -10,4 +10,4 @@
 
 **См. также:**
 
-* [Клеммы](eplan/terminalgui_k_start.md)
+* [Клеммы](terminalgui_k_start.md)

@@ -40,5 +40,5 @@
   
 **См. также:**
 
-* [Редактор форм и рамок](eplan/formeditorgui_k_start.md)
-* [Диалоговое окно Точка вставки следующей формы](eplan/formeditorgui_d_folgeformulareinfuegepunkt.md)
+* [Редактор форм и рамок](formeditorgui_k_start.md)
+* [Диалоговое окно Точка вставки следующей формы](formeditorgui_d_folgeformulareinfuegepunkt.md)

@@ -163,5 +163,5 @@ AutomationML GUIDs |  Удаляет все GUID AutomationML. Такие GUID �
   
 **См. также:**
 
-* [Диалоговое окно Настройки: Сжатие](eplan/projectcleangui_d_komprimierungseinstellungen.md)
-* [Сжать проект](eplan/projectcleangui_h_projektsaeubern.md)
+* [Диалоговое окно Настройки: Сжатие](projectcleangui_d_komprimierungseinstellungen.md)
+* [Сжать проект](projectcleangui_h_projektsaeubern.md)

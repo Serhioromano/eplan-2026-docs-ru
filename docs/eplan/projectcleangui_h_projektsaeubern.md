@@ -21,6 +21,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Сжатие](eplan/projectcleangui_d_komprimierungseinstellungen.md)
-* [Диалоговое окно Сжать проект](eplan/projectcleangui_d_projektkomprimieren.md)
-* [Сжимаемые данные проекта](eplan/projectcleangui_k_komprimierungsdaten.md)
+* [Диалоговое окно Настройки: Сжатие](projectcleangui_d_komprimierungseinstellungen.md)
+* [Диалоговое окно Сжать проект](projectcleangui_d_projektkomprimieren.md)
+* [Сжимаемые данные проекта](projectcleangui_k_komprimierungsdaten.md)

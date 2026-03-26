@@ -11,4 +11,4 @@
 
 **См. также:**
 
-* [Словарь](eplan/translatedbgui_k_start.md)
+* [Словарь](translatedbgui_k_start.md)

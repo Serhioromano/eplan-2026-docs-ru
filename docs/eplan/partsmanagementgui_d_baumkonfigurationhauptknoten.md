@@ -27,5 +27,5 @@
 
 **См. также:**
 
-* [Управление изделиями](eplan/articlesgui_k_start.md)
-* [Диалоговое окно Фильтр](eplan/modaldialogsdb_d_filternnach.md)
+* [Управление изделиями](articlesgui_k_start.md)
+* [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)

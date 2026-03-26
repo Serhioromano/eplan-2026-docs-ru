@@ -54,7 +54,7 @@
 
 **См. также:**
 
-* [Перекрестные ссылки: Виды перекрестных ссылок](eplan/xessettingsgui_k_querverweisarten.md)
-* [Диалоговое окно Настройки: Отображение](eplan/xessettingsgui_d_einstellungenprojektqvwanzeige.md)
-* [Разместить монтажные платы ](eplan/panellayoutgui_h_montageplattenplatzieren.md)
-* [Разместить функциональные элементы на монтажной плате](eplan/panellayoutgui_h_bauteileplatzieren.md)
+* [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
+* [Диалоговое окно Настройки: Отображение](xessettingsgui_d_einstellungenprojektqvwanzeige.md)
+* [Разместить монтажные платы ](panellayoutgui_h_montageplattenplatzieren.md)
+* [Разместить функциональные элементы на монтажной плате](panellayoutgui_h_bauteileplatzieren.md)

@@ -20,7 +20,7 @@
 
 **См. также:**
 
-* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
-* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
-* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+* [Резервирование данных](bakbackupdlggui_k_start.md)
+* [Резервирование данных: Принцип](bakbackupdlggui_k_prinzip.md)
+* [Резервировать проекты](bakbackupdlggui_h_projektesichern.md)
+* [Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.md)

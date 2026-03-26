@@ -16,11 +16,11 @@
 4. Для изменения схемы идентификаторов для устройств выберите из соответствующего раскрывающегося списка схему идентификаторов.
 5. Нажмите кнопку [Далее].  
   
-[Определить Нумерацию Устройства](eplan/changestandardsgui_h_nummerieren.md).
+[Определить Нумерацию Устройства](changestandardsgui_h_nummerieren.md).
 
 **См. также:**
 
-* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
-* [Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
+* [Создать схему присвоения для символов (изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
 Определить структуру проекта (изменение стандарта)

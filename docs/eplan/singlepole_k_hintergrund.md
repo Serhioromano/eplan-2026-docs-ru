@@ -14,8 +14,8 @@
 
 **См. также:**
 
-* [Обзоры установок](eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
-* [Особенности при использовании клемм в однополюсном представлении.](eplan/singlepole_k_besonderheitenklemmen.md)
-* [Особенности при использовании кабелей в однополюсном представлении](eplan/singlepole_k_besonderheitenkabel.md)
-* [Начертить схему соединений в однополюсном представлении](eplan/singlepole_h_stromlaufplaenezeichnen.md)
-* [Жгутовое представление соединений в схемах соединений](eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)
+* [Обзоры установок](singlepole_k_spinnenplaeneundanlagenuebersichten.md)
+* [Особенности при использовании клемм в однополюсном представлении.](singlepole_k_besonderheitenklemmen.md)
+* [Особенности при использовании кабелей в однополюсном представлении](singlepole_k_besonderheitenkabel.md)
+* [Начертить схему соединений в однополюсном представлении](singlepole_h_stromlaufplaenezeichnen.md)
+* [Жгутовое представление соединений в схемах соединений](singlepole_k_straenge_in_einpoligerdarstellung.md)

@@ -8,7 +8,7 @@
 
 **См. также:**
 
-* [Автоматизированные операции](eplan/autoprocgui_k_automprojektaktionen.md)
-* [Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)
-* [Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
-* [Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)
+* [Автоматизированные операции](autoprocgui_k_automprojektaktionen.md)
+* [Создать схемы для автоматизированной обработки](autoprocgui_h_startactions.md)
+* [Обработать проект автоматически](autoprocgui_h_protokolldatei.md)
+* [Обработать несколько проектов автоматически](autoprocgui_h_ausfuehren.md)

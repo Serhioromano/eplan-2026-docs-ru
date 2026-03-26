@@ -50,6 +50,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
+* [Диалоговое окно Управление изделиями](articlesgui_d_artverw.md)
 * [Сообщения контрольного прогона: Основные данные изделия](messages_o_502Partmasterdata.htm)
-* [Управление дополнительными частями](news_p_artikelverwaltung_ergaenzungsteile_488170.htm)
+* [Управление дополнительными частями](news_p_artikelverwaltung_ergaenzungsteile_488170.md)

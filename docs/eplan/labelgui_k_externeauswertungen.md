@@ -4,7 +4,7 @@
 
 **См. также:**
 
-* [Экспорт данных изготовления / маркировка](eplan/labelgui_k_start.md)
-* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-* [Экспорт данных изготовления / маркировка: Способ действий](eplan/labelgui_k_vorgehensweise.md)
-* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Экспорт данных изготовления / маркировка](labelgui_k_start.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](labelgui_k_aufbaubeschriftung.md)
+* [Экспорт данных изготовления / маркировка: Способ действий](labelgui_k_vorgehensweise.md)
+* [Создать схему экспорта / маркировки](labelgui_h_beschriftungsschema.md)

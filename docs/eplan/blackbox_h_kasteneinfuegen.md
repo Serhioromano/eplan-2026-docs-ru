@@ -27,8 +27,8 @@
 
 **См. также:**
 
-* [Вкладка Черный ящик](eplan/devicetaggui_r_blackboxdaten.md)
-* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-* [Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
-* [Вкладка Изделие](eplan/partselectiongui_r_artikel.md)
-* [Вкладка Формат (Устройство)](eplan/devicetaggui_r_format.md)
+* [Вкладка Черный ящик](devicetaggui_r_blackboxdaten.md)
+* [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)
+* [Вкладка Данные символа / функции](devicetaggui_r_symbolfunktionsdaten.md)
+* [Вкладка Изделие](partselectiongui_r_artikel.md)
+* [Вкладка Формат (Устройство)](devicetaggui_r_format.md)

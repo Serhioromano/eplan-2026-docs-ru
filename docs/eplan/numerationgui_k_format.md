@@ -23,7 +23,7 @@
 -M3 |  ОУ с предшествующим знаком  
 M3 |  ОУ без предшествующего знака  
   
-Предшествующий знак (знак "минус", дефис) содержится в ОУ только в том случае, если для вида устройства активирована настройка [Установить предш. знак](eplan/xessettingsgui_d_betriebsmittelbmk.md#AllgemeineBMK).
+Предшествующий знак (знак "минус", дефис) содержится в ОУ только в том случае, если для вида устройства активирована настройка [Установить предш. знак](xessettingsgui_d_betriebsmittelbmk.md#AllgemeineBMK).
 
 #### Буквенное обозначение
 
@@ -82,7 +82,7 @@ IEC |  IEC 61346 |  IEC 81346 |  NFPA |  Определяемый пользов
 
 **См. также:**
 
-* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-* [Установить предшествующий знак в видимом ОУ](eplan/numerationgui_h_vorzeichensetzen.md)
-* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-* [Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)
+* [Определить формат нумерации в режиме подключения](numerationgui_h_onlineformat.md)
+* [Установить предшествующий знак в видимом ОУ](numerationgui_h_vorzeichensetzen.md)
+* [Автоматическая нумерация новых устройств](numerationgui_h_online.md)
+* [Устройства в макросе/автоматически нумеровать копии](numerationgui_h_insertdtviamacros.md)

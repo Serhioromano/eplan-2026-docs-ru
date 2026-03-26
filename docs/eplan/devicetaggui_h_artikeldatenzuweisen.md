@@ -19,4 +19,4 @@
 
 **См. также:**
 
-* [Вкладка Изделия](eplan/partselectiongui_r_artikel.md)
+* [Вкладка Изделия](partselectiongui_r_artikel.md)

@@ -40,11 +40,11 @@
 
 **См. также:**
 
-* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-* [Отображение маркеров ревизии](eplan/revisionmgtgui_k_markierungen.md)
-* [Закрыть проекты / области обработки](eplan/revisionmgtgui_h_projektabschliessen.md)
-* [Закрыть страницы](eplan/revisionmgtgui_h_seitenabschliessen.md)
-* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
-* [Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
-* [Редактор форм и рамок](eplan/formeditorgui_k_start.md)
+* [Управление ревизиями](revisionmgtgui_k_start.md)
+* [Отображение маркеров ревизии](revisionmgtgui_k_markierungen.md)
+* [Закрыть проекты / области обработки](revisionmgtgui_h_projektabschliessen.md)
+* [Закрыть страницы](revisionmgtgui_h_seitenabschliessen.md)
+* [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
+* [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)
+* [Редактор форм и рамок](formeditorgui_k_start.md)

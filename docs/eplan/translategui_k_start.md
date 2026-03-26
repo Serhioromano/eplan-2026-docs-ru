@@ -12,5 +12,5 @@
 
 **См. также:**
 
-* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
-* [Переводить во время ввода](eplan/translategui_h_onlineuebersetzen.md)
+* [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
+* [Переводить во время ввода](translategui_h_onlineuebersetzen.md)

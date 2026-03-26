@@ -22,7 +22,7 @@
 
 **См. также:**
 
-* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-* [Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
-* [Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
+* [Определения функции: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Заменить символы](xfctdefbrowsergui_h_symboltauschen.md)
+* [Обработать логическую схему выводов устройства](xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)

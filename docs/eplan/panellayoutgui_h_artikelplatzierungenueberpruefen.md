@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Сообщения и контрольные прогоны](eplan/xesinspectiongui_d_einstellungenmeldungen.md)
+* [Диалоговое окно Настройки: Сообщения и контрольные прогоны](xesinspectiongui_d_einstellungenmeldungen.md)

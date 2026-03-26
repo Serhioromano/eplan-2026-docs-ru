@@ -66,7 +66,7 @@
 
 **См. также:**
 
-* [Создать шаблоны сегментов](eplan/planninggui_h_segmentvorlageeerstellen.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
-* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-* [Шаблоны сегментов](eplan/planninggui_k_segmentvorlagen.md)
+* [Создать шаблоны сегментов](planninggui_h_segmentvorlageeerstellen.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
+* [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
+* [Шаблоны сегментов](planninggui_k_segmentvorlagen.md)

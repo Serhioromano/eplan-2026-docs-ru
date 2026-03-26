@@ -37,6 +37,6 @@
 
 **См. также:**
 
-* [Вкладка "Граница схемы сверления"](eplan/cabinetgui_r_bohrbildkasten.md)
-* [Генерировать схемы сверления из файлов DXF / DWG](eplan/propanelmasterdata_h_bohrbildausdxfdaten.md)
-* [Рисование блоков ломаными линиями](eplan/blackbox_h_polygonalekaesten.md)
+* [Вкладка "Граница схемы сверления"](cabinetgui_r_bohrbildkasten.md)
+* [Генерировать схемы сверления из файлов DXF / DWG](propanelmasterdata_h_bohrbildausdxfdaten.md)
+* [Рисование блоков ломаными линиями](blackbox_h_polygonalekaesten.md)

@@ -32,8 +32,8 @@
 
 **См. также:**
 
-* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-* [Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
-* [Диалоговое окно Настройки: Технологические контуры (предварительное планирование) ](eplan/planninggui_d_einstellpltstellen.md)
-* [Создание объектов планирования в качестве устройств](eplan/planninggui_h_planungsobjektmitartikel.md)
-* [Создание графического предварительного планирования](eplan/planninggui_h_grafvorplanungerstellen.md)
+* [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
+* [Объекты планирования, соединения](planninggui_k_verbindungsvorplanung.md)
+* [Диалоговое окно Настройки: Технологические контуры (предварительное планирование) ](planninggui_d_einstellpltstellen.md)
+* [Создание объектов планирования в качестве устройств](planninggui_h_planungsobjektmitartikel.md)
+* [Создание графического предварительного планирования](planninggui_h_grafvorplanungerstellen.md)

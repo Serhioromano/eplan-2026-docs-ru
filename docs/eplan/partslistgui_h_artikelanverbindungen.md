@@ -21,4 +21,4 @@
 
 **См. также:**
 
-* [Генерировать отчеты](eplan/formgeneratorgui_h_auswerterzeugen.md)
+* [Генерировать отчеты](formgeneratorgui_h_auswerterzeugen.md)

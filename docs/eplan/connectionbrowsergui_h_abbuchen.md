@@ -27,6 +27,6 @@
 
 **См. также:**
 
-* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
-* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Неразмещенные соединения](connectionbrowsergui_k_npv.md)
+* [Чертить точки обозначения соединения](connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)

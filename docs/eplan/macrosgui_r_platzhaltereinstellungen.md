@@ -34,5 +34,5 @@
 
 **См. также:**
 
-* [Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
-* [Макросы на объектах планирования](eplan/planninggui_k_prinzip.md#MakrosPlanungsobjekte)
+* [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
+* [Макросы на объектах планирования](planninggui_k_prinzip.md#MakrosPlanungsobjekte)

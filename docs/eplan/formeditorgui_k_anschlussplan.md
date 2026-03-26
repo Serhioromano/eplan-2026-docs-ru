@@ -31,5 +31,5 @@
 
 **См. также:**
 
-* [Вставить вилки соединений и линии кабелей в схемы подключений](eplan/formularfunction_h_insforksandcablesintoconndiagrams.md)
-* [Вставить фиксированную графику в схемы подключений](eplan/formularfunction_h_insfixedgraphicsintoconndiagrams.md)
+* [Вставить вилки соединений и линии кабелей в схемы подключений](formularfunction_h_insforksandcablesintoconndiagrams.md)
+* [Вставить фиксированную графику в схемы подключений](formularfunction_h_insfixedgraphicsintoconndiagrams.md)

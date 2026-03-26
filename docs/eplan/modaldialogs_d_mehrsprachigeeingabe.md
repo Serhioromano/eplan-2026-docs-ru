@@ -59,6 +59,6 @@
 
 **См. также:**
 
-* [Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
-* [Добавление языка словаря](eplan/translatedbgui_h_woerterbuchanlegen.md)
-* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
+* [Автоматический перевод / перевод вручную](translategui_k_start.md)
+* [Добавление языка словаря](translatedbgui_h_woerterbuchanlegen.md)
+* [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)

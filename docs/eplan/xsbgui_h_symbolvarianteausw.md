@@ -24,6 +24,6 @@
 
 **См. также:**
 
-* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-* [Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
-* [Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+* [Диалоговое окно "Центр вставки"](insertergui_d_einfuegezentrum.md)
+* [Разместить символы](xsbgui_h_symboleplatzieren.md)
+* [Диалоговое окно Настройки: Библиотеки символов](xmasterdatasettingsgui_d_einstellungensymbolbibl.md)

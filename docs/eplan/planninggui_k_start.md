@@ -32,10 +32,10 @@
 
 **См. также:**
 
-* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-* [Предварительное планирование: Порядок действий](eplan/planninggui_k_vorgehensweise.md)
-* [Предварительное планирование: Нумерация ОУ](eplan/planninggui_k_bmknummerierung.md)
-* [Графическое предварительное планирование](eplan/planninggui_k_grafischevorplanung.md)
-* [Предварительное планирование: Связи](eplan/planninggui_k_verknuepfungen.md)
-* [Предварительное планирование: Отчеты](eplan/planninggui_k_auswertungen.md)
-* [Однополюсное представление](eplan/singlepole_k_start.md)
+* [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
+* [Предварительное планирование: Порядок действий](planninggui_k_vorgehensweise.md)
+* [Предварительное планирование: Нумерация ОУ](planninggui_k_bmknummerierung.md)
+* [Графическое предварительное планирование](planninggui_k_grafischevorplanung.md)
+* [Предварительное планирование: Связи](planninggui_k_verknuepfungen.md)
+* [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
+* [Однополюсное представление](singlepole_k_start.md)

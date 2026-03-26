@@ -18,6 +18,6 @@
 
 **См. также:**
 
-* [Кабели](eplan/cablegui_k_start.md)
-* [Представление кабелей с помощью выводов жгута](eplan/singlepole_h_gostnorm.md)
-* [Жгутовое представление соединений в схемах соединений](eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)
+* [Кабели](cablegui_k_start.md)
+* [Представление кабелей с помощью выводов жгута](singlepole_h_gostnorm.md)
+* [Жгутовое представление соединений в схемах соединений](singlepole_k_straenge_in_einpoligerdarstellung.md)

@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](eplan/xdxfgui_d_einstellungen.md)
-* [Динамические формы](eplan/formeditorgui_k_dynamformulare.md)
+* [Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](xdxfgui_d_einstellungen.md)
+* [Динамические формы](formeditorgui_k_dynamformulare.md)

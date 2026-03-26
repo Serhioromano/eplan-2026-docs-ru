@@ -19,6 +19,6 @@
 
 **См. также:**
 
-* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
-* [Диалоговое окно Конфигурировать свойства](eplan/modaldialogsdb_d_eigenschaftsanordnung.md)
-* [Задать конфигурацию свойств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md#Eigenschaftskonfiguration)
+* [Обработка схем](schemeconfig_h_schematabearbeiten.md)
+* [Диалоговое окно Конфигурировать свойства](modaldialogsdb_d_eigenschaftsanordnung.md)
+* [Задать конфигурацию свойств](devicetaggui_h_bmeigenschaftenbearbeiten.md#Eigenschaftskonfiguration)

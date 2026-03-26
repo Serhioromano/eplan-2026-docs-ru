@@ -71,9 +71,9 @@
 
 **См. также:**
 
-* [Начертить карты и выводы устройства ПЛК](eplan/plcgui_h_spszeichnen.md)
-* [Создать и обработать карты ПЛК](eplan/plcgui_h_spsanlegen.md)
-* [Генерировать перекрестную ссылку ПЛК](eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
-* [Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md)
-* [Синхронизация распределенных функций](eplan/adjustdata_h_funktionabgleichen.md)
-* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Начертить карты и выводы устройства ПЛК](plcgui_h_spszeichnen.md)
+* [Создать и обработать карты ПЛК](plcgui_h_spsanlegen.md)
+* [Генерировать перекрестную ссылку ПЛК](xessettingsgui_h_spsquerverweiseerzeugen.md)
+* [Типы отчетов](formgeneratorgui_k_auswertungstypen.md)
+* [Синхронизация распределенных функций](adjustdata_h_funktionabgleichen.md)
+* [Очистить проект](ProjectCorrectionGui_h_projektkorrigieren.md)

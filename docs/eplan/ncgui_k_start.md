@@ -30,7 +30,7 @@ Eplan Pro Panel позволяет выводить схемы сверлени�
 
 **См. также:**
 
-* [Экспорт ЧУ: Принцип](eplan/ncgui_k_prinzip.md)
-* [Экспортировать данные ЧУ](eplan/ncgui_h_ncdatenexportieren.md)
-* [Конфигурировать машину ЧУ](eplan/ncgui_h_ncmaschinekonfigurieren.md)
-* [Диалоговое окно Запись данных контура ЧУ](eplan/contoureditorgui_d_ncdatensatz.md)
+* [Экспорт ЧУ: Принцип](ncgui_k_prinzip.md)
+* [Экспортировать данные ЧУ](ncgui_h_ncdatenexportieren.md)
+* [Конфигурировать машину ЧУ](ncgui_h_ncmaschinekonfigurieren.md)
+* [Диалоговое окно Запись данных контура ЧУ](contoureditorgui_d_ncdatensatz.md)

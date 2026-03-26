@@ -6,7 +6,7 @@
 
 **См. также:**
 
-* [Функциональные тексты зон: Принцип](eplan/gededitgui_k_pfadtextprinzip.md)
-* [Оценка функциональных текстов зон](eplan/gededitgui_k_pfadtextauswertung.md)
-* [Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)
-* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Функциональные тексты зон: Принцип](gededitgui_k_pfadtextprinzip.md)
+* [Оценка функциональных текстов зон](gededitgui_k_pfadtextauswertung.md)
+* [Вставить и обработать функциональные тексты зоны](gededitgui_h_pfadtexteinfuegen.md)
+* [Графический редактор](gededitgui_k_start.md)

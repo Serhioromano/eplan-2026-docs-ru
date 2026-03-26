@@ -46,8 +46,8 @@
 
 **См. также:**
 
-* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-* [Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
-* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
+* [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
+* [Просмотреть и обработать сообщения контрольного прогона](msgmanagementgui_h_meldungenansehen.md)
+* [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)

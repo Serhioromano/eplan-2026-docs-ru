@@ -70,9 +70,9 @@
 
 **См. также:**
 
-* [Выводы устройства ПЛК](eplan/plcgui_k_spsanschluesse.md)
-* [Каналы ПЛК](eplan/plcgui_k_kanaele.md)
-* [Обработка данных ПЛК](eplan/plcgui_k_arbeitsweise.md)
-* [Символические адреса](eplan/plcgui_k_symbolischeadressen.md)
-* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-* [Списки присвоений](eplan/plcgui_k_zuordnungslisten.md)
+* [Выводы устройства ПЛК](plcgui_k_spsanschluesse.md)
+* [Каналы ПЛК](plcgui_k_kanaele.md)
+* [Обработка данных ПЛК](plcgui_k_arbeitsweise.md)
+* [Символические адреса](plcgui_k_symbolischeadressen.md)
+* [Форматы адресов](plcprocessorgui_k_adressformate.md)
+* [Списки присвоений](plcgui_k_zuordnungslisten.md)

@@ -29,6 +29,6 @@
 
 **См. также:**
 
-* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-* [Eplan Fluid: Точки разрыва](eplan/ftechnic_k_abbruchstellen.md)
-* [Последовательность видов представлений при общей обработке и анализе](eplan/reverseengineering_k_reihenfolge.md)
+* [Типы страниц](pagebrowsergui_k_seitentypen.md)
+* [Eplan Fluid: Точки разрыва](ftechnic_k_abbruchstellen.md)
+* [Последовательность видов представлений при общей обработке и анализе](reverseengineering_k_reihenfolge.md)

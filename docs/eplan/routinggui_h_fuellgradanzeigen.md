@@ -36,4 +36,4 @@
 
 **См. также:**
 
-* [Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
+* [Вкладка Маршрутизация](connectionsettingsgui_r_einstellungenverlegung.md)

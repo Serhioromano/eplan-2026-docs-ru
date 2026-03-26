@@ -57,6 +57,6 @@
 
 **См. также:**
 
-* [Импортировать данные устройств и устройства](eplan/projectprocessinggui_h_betriebsmittelimportieren.md)
-* [Импортировать данные соединений и маршрутизируемые соединения](eplan/projectprocessinggui_h_verlegeverbindungenimportieren.md)
-* [Диалоговое окно "Присвоение поля (импорт устройств / маршрутизируемых соединений)" / диалоговое окно "Настройки: Импорт"](eplan/projectprocessinggui_d_feldzuordnung.md)
+* [Импортировать данные устройств и устройства](projectprocessinggui_h_betriebsmittelimportieren.md)
+* [Импортировать данные соединений и маршрутизируемые соединения](projectprocessinggui_h_verlegeverbindungenimportieren.md)
+* [Диалоговое окно "Присвоение поля (импорт устройств / маршрутизируемых соединений)" / диалоговое окно "Настройки: Импорт"](projectprocessinggui_d_feldzuordnung.md)

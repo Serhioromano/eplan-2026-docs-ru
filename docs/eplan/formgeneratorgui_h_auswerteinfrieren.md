@@ -1,6 +1,6 @@
 ## Закрепить страницы отчета
 
-Вы можете закрепить страницы отчета для исключения обновления. Тогда данные проекта в текстах заполнителя на [закрепленных страницах отчета](eplan/formgeneratorgui_k_eingefrorseiten.md) больше не будут обновляться. Обновляемые и необновляемые страницы отчета в навигаторе страниц обозначены разными пиктограммами.
+Вы можете закрепить страницы отчета для исключения обновления. Тогда данные проекта в текстах заполнителя на [закрепленных страницах отчета](formgeneratorgui_k_eingefrorseiten.md) больше не будут обновляться. Обновляемые и необновляемые страницы отчета в навигаторе страниц обозначены разными пиктограммами.
 
 Условия:
 
@@ -22,7 +22,7 @@
 
 **См. также:**
 
-* [Отобразить / фильтровать необновляемые страницы отчета](eplan/formgeneratorgui_h_eingefroreneseitenfiltern.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
+* [Отобразить / фильтровать необновляемые страницы отчета](formgeneratorgui_h_eingefroreneseitenfiltern.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)

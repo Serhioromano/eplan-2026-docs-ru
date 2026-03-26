@@ -34,4 +34,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Синхронизировать данные проекта — <Имя проекта>](eplan/prjmanagementgui_d_projektdatenabgleich.md)
+* [Диалоговое окно Синхронизировать данные проекта — <Имя проекта>](prjmanagementgui_d_projektdatenabgleich.md)

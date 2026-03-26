@@ -31,6 +31,6 @@
 
 **См. также:**
 
-* [Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
-* [Просмотреть и обработать сообщения контрольного прогона](eplan/msgmanagementgui_h_meldungenansehen.md)
-* [Сообщения контрольного прогона: Обзор классов сообщений](eplan/messages_o_start.md)
+* [Управление сообщениями Eplan](msgmanagementgui_k_start.md)
+* [Просмотреть и обработать сообщения контрольного прогона](msgmanagementgui_h_meldungenansehen.md)
+* [Сообщения контрольного прогона: Обзор классов сообщений](messages_o_start.md)

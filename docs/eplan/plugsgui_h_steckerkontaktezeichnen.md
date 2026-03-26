@@ -32,6 +32,6 @@
 
 **См. также:**
 
-* [Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
-* [Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-* [Вставить устройства](eplan/devicelistgui_h_geraeteplatzieren.md)
+* [Создать и обработать штекер](plugsgui_h_steckerleisteerstlbearb.md)
+* [Создать и обработать контакты штекера](plugsgui_h_steckerkontakteerstlbearb.md)
+* [Вставить устройства](devicelistgui_h_geraeteplatzieren.md)

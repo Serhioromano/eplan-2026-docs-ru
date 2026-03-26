@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Определить величины шага](eplan/gededitgui_h_schrittweitenfestlegen.md)
+* [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)

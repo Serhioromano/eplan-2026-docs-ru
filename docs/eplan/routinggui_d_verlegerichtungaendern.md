@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Изменить направление подсоединения](eplan/cabinetgui_h_anschlussrichtungaendern.md)
+* [Изменить направление подсоединения](cabinetgui_h_anschlussrichtungaendern.md)

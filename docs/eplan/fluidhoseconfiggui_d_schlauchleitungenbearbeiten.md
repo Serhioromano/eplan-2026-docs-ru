@@ -1,6 +1,6 @@
 ## Диалоговое окно Обработать <...>
 
-Вы открыли диалоговое окно [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_d_schlauchleitungen.md).
+Вы открыли диалоговое окно [Конфигурировать шлангопроводы](fluidhoseconfiggui_d_schlauchleitungen.md).
 
 * Дважды щелкните по нужной строке таблицы с данными шлангопровода.
 * Или выделите в таблице несколько строк с данными шлангопровода и выберите пункт всплывающего меню Обработать.
@@ -98,7 +98,7 @@
 
 **См. также:**
 
-* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
-* [Диалоговое окно "Выбор производителя"](eplan/fluidhoseconfiggui_d_herstellerauswahl.md)
-* [Диалоговое окно "Выбрать арматуру"](eplan/fluidhoseconfiggui_d_armaturauswahl.md)
-* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)
+* [Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Диалоговое окно "Выбор производителя"](fluidhoseconfiggui_d_herstellerauswahl.md)
+* [Диалоговое окно "Выбрать арматуру"](fluidhoseconfiggui_d_armaturauswahl.md)
+* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](fluidhoseconfiggui_d_einstellungen.md)

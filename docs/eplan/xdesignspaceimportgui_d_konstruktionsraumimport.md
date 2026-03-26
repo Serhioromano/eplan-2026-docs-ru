@@ -22,5 +22,5 @@
 
 **См. также:**
 
-* [Вкладка Настройки: Импорт пространства конструкции](eplan/xdesignspaceimportgui_r_einstellungenstepimport.md)
-* [Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](eplan/xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)
+* [Вкладка Настройки: Импорт пространства конструкции](xdesignspaceimportgui_r_einstellungenstepimport.md)
+* [Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)

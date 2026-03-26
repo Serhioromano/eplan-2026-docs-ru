@@ -29,4 +29,4 @@
 
 **См. также:**
 
-* [Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Управление проектами](prjmanagementgui_k_start.md)

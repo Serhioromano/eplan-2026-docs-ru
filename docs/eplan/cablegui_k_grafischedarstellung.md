@@ -44,8 +44,8 @@ Eplan различает экранирования по их именам. Ес
 
 **См. также:**
 
-* [Кабели](eplan/cablegui_k_start.md)
-* [Характеристика кабелей](eplan/cablegui_k_prinzip.md)
-* [Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
-* [Действие экранирования](eplan/cablegui_k_verhaltenabschirmungen.md)
-* [Позиция и форматирование свойств кабелей](eplan/cablegui_k_kabelbezeichnungformat.md)
+* [Кабели](cablegui_k_start.md)
+* [Характеристика кабелей](cablegui_k_prinzip.md)
+* [Определение кабелей](cablegui_k_arbeitsweise.md)
+* [Действие экранирования](cablegui_k_verhaltenabschirmungen.md)
+* [Позиция и форматирование свойств кабелей](cablegui_k_kabelbezeichnungformat.md)

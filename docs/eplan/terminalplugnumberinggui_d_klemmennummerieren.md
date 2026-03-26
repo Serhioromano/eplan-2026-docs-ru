@@ -137,6 +137,6 @@ PE-клеммы / -контакты штекера... SH-клеммы / -кон�
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Нумерация](eplan/terminalplugnumberinggui_d_nummerierungsschema.md)
-* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-* [Многоуровневые клеммы](eplan/terminalgui_k_mehrstockklemmen.md)
+* [Диалоговое окно Настройки: Нумерация](terminalplugnumberinggui_d_nummerierungsschema.md)
+* [Определить формат нумерации в режиме подключения](numerationgui_h_onlineformat.md)
+* [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)

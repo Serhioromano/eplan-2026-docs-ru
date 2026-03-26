@@ -2,10 +2,10 @@
 
 Размещенную медную шину можно изменить при помощи следующих функций:
 
-* [Изменить длину](eplan/copper_h_kupferteillaengeaendern.md)
-* [Изменить угол](eplan/copper_h_kupferteilwinkelaendern.md)
-* [Изменить место изгиба](eplan/copper_h_kupferteilbiegestelleaendern.md)
-* [Новое место изгиба](eplan/copper_h_kupferteilneuebiegestelle.md)
+* [Изменить длину](copper_h_kupferteillaengeaendern.md)
+* [Изменить угол](copper_h_kupferteilwinkelaendern.md)
+* [Изменить место изгиба](copper_h_kupferteilbiegestelleaendern.md)
+* [Новое место изгиба](copper_h_kupferteilneuebiegestelle.md)
 * Удалить, копировать, вставить, вырезать, переместить, дублировать, обработать свойства, объединить, повернуть вокруг оси.
 
 Все функции применимы к шинам, сгенерированным с плоским изгибом или изгибом на ребро.
@@ -18,4 +18,4 @@
 
 **См. также:**
 
-* [Обработать медный функциональный элемент: Принцип](eplan/copper_k_kupferbauteilbearbeiten.md)
+* [Обработать медный функциональный элемент: Принцип](copper_k_kupferbauteilbearbeiten.md)

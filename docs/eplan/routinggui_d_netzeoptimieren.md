@@ -28,5 +28,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Автоматически оптимизировать сети: Предв. просмотр результата](eplan/routinggui_d_netzeoptimierenvorschau.md)
-* [Автоматически оптимизировать сети](eplan/routinggui_h_netzautooptimieren.md)
+* [Диалоговое окно Автоматически оптимизировать сети: Предв. просмотр результата](routinggui_d_netzeoptimierenvorschau.md)
+* [Автоматически оптимизировать сети](routinggui_h_netzautooptimieren.md)

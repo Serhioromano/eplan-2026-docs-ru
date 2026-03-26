@@ -26,6 +26,6 @@
 
 **См. также:**
 
-* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-* [Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
+* [Навигатор страниц](pagebrowsergui_k_start.md)
+* [Создать и удалить страницы](pagebrowsergui_h_seitenanlegen.md)
+* [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)

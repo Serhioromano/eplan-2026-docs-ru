@@ -1,6 +1,6 @@
 ## Перенести обозначения выводов устройства
 
-Обозначения выводов устройств, как и при [переносе ОУ](eplan/devicetaggui_k_bmkuebernahme.md), можно скопировать с одной из функций, лежащих в направлении поиска.
+Обозначения выводов устройств, как и при [переносе ОУ](devicetaggui_k_bmkuebernahme.md), можно скопировать с одной из функций, лежащих в направлении поиска.
 
 Условия:
 
@@ -36,5 +36,5 @@
 
 **См. также:**
 
-* [Перенос обозначения вывода устройства](eplan/devicetaggui_k_anschlussbezuebergabe.md)
-* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Перенос обозначения вывода устройства](devicetaggui_k_anschlussbezuebergabe.md)
+* [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)

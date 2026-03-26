@@ -19,4 +19,4 @@
 
 **См. также:**
 
-* [Символы соединения](eplan/egedgui_k_start.md)
+* [Символы соединения](egedgui_k_start.md)

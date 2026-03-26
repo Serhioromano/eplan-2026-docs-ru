@@ -5,7 +5,7 @@
 Вы открыли проект. Вы открыли редактор, например графический редактор, редактор рамок и т. д.
 
 1. Выберите следующие команды: Вкладка Вставить > группа команд Текст > Текст.
-2. Введите требуемый текст на вкладке [Текст](eplan/gededitgui_r_text.md) диалогового окна Свойства.  
+2. Введите требуемый текст на вкладке [Текст](gededitgui_r_text.md) диалогового окна Свойства.  
   
 При открытии диалогового окна для ввода/обработки текста, в строке состояния отображается текущий язык ввода.  
 
@@ -26,11 +26,11 @@
 
 **См. также:**
 
-* [Тексты](eplan/gededitgui_k_texte.md)
-* [Отобразить пустые тексты и тексты с небольшим размером шрифта](eplan/gededitgui_h_texteanzeigen.md)
-* [Подогнать тексты в блоке выравнивания](eplan/gededitgui_h_texteeinpassen.md)
-* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-* [Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
-* [Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
-* [Вкладка Текст](eplan/gededitgui_r_text.md)
-* [Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)
+* [Тексты](gededitgui_k_texte.md)
+* [Отобразить пустые тексты и тексты с небольшим размером шрифта](gededitgui_h_texteanzeigen.md)
+* [Подогнать тексты в блоке выравнивания](gededitgui_h_texteeinpassen.md)
+* [Обработать свойства текста](gededitgui_h_textebearbeiten.md)
+* [Присоединить / отсоединить тексты](gededitgui_h_texteandocken.md)
+* [Переместить тексты свойств](gededitgui_h_symboltexteverschieben.md)
+* [Вкладка Текст](gededitgui_r_text.md)
+* [Вкладка Формат (тексты)](gededitgui_r_format.md)

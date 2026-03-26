@@ -15,5 +15,5 @@
 
 **См. также:**
 
-* [Автоматически генерировать кабели](eplan/cablegui_h_kabelerzeugen.md)
-* [Автоматически сгенерированные кабели](eplan/cablegui_k_automatikkabel.md)
+* [Автоматически генерировать кабели](cablegui_h_kabelerzeugen.md)
+* [Автоматически сгенерированные кабели](cablegui_k_automatikkabel.md)

@@ -20,8 +20,8 @@
 
 **См. также:**
 
-* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
-* [Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
-* [Создать и обработать штекер](eplan/plugsgui_h_steckerleisteerstlbearb.md)
-* [Создать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-* [Сортировать контакты штекеров](eplan/plugsgui_h_steckerkontaktesortieren.md)
+* [Управление штекерами](plugsgui_k_verwaltungstecker.md)
+* [Обработка данных штекеров](plugsgui_k_arbeitsweise.md)
+* [Создать и обработать штекер](plugsgui_h_steckerleisteerstlbearb.md)
+* [Создать и обработать контакты штекера](plugsgui_h_steckerkontakteerstlbearb.md)
+* [Сортировать контакты штекеров](plugsgui_h_steckerkontaktesortieren.md)

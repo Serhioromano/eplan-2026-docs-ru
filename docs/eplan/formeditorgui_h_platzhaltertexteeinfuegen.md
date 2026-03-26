@@ -33,5 +33,5 @@
 
 **См. также:**
 
-* [Управление выводом текстов-заполнителей и специальных текстов](eplan/formeditorgui_h_platzhaltertexteanzeigen.md)
-* [Обработать формы](eplan/formeditorgui_h_formularebearbeiten.md)
+* [Управление выводом текстов-заполнителей и специальных текстов](formeditorgui_h_platzhaltertexteanzeigen.md)
+* [Обработать формы](formeditorgui_h_formularebearbeiten.md)

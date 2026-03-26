@@ -17,11 +17,11 @@
 8. Чтобы исключить настройку из сравнения, снимите флажок перед настройкой в поле Сравниваемые настройки.
 9. Щелкните по кнопкам [Сохранить] и [OK].  
   
-[Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+[Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
 
 **См. также:**
 
-* [Проверка проекта](eplan/processreceiptcontrol_k_start.md)
-* [Нормоконтроль: Способ действий](eplan/processreceiptcontrol_k_vorgehensweise.md)
-* [Проект для сравнения и проект с замечаниями](eplan/processreceiptcontrol_k_projekte.md)
-* [Генерировать проект для сравнения](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Проверка проекта](processreceiptcontrol_k_start.md)
+* [Нормоконтроль: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
+* [Проект для сравнения и проект с замечаниями](processreceiptcontrol_k_projekte.md)
+* [Генерировать проект для сравнения](revisionmgtgui_h_vergleichsprojekterzeugen.md)

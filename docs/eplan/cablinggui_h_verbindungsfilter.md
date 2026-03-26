@@ -39,4 +39,4 @@
 
 **См. также:**
 
-* [Вкладка Фильтр соединений](eplan/connectionsettingsgui_r_einstellungenverbindungsfilter.md)
+* [Вкладка Фильтр соединений](connectionsettingsgui_r_einstellungenverbindungsfilter.md)

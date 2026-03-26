@@ -43,5 +43,5 @@
 
 **См. также:**
 
-* [Управление слоями](eplan/layermanager_k_start.md)
-* [Работа со слоями](eplan/layermanager_h_ebenenbearbeiten.md)
+* [Управление слоями](layermanager_k_start.md)
+* [Работа со слоями](layermanager_h_ebenenbearbeiten.md)

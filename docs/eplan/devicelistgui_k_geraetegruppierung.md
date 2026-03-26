@@ -58,7 +58,7 @@
 
 **См. также:**
 
-* [Устройства](eplan/devicelistgui_k_start.md)
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-* [Свойства блока](eplan/blockproperties_k_start.md)
-* [Работать с группами элементов](eplan/gededitgui_h_elementegruppieren.md)
+* [Устройства](devicelistgui_k_start.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Свойства блока](blockproperties_k_start.md)
+* [Работать с группами элементов](gededitgui_h_elementegruppieren.md)

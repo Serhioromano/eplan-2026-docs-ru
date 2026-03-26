@@ -22,6 +22,6 @@
 
 **См. также:**
 
-* [Предварительное планирование: Связи](eplan/planninggui_k_verknuepfungen.md)
-* [Диалоговое окно Предварительное планирование — <Имя проекта>](eplan/planninggui_d_navigator.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Предварительное планирование: Связи](planninggui_k_verknuepfungen.md)
+* [Диалоговое окно Предварительное планирование — <Имя проекта>](planninggui_d_navigator.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)

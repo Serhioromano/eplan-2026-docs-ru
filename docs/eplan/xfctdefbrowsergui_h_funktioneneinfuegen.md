@@ -27,9 +27,9 @@
 
 **См. также:**
 
-* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
-* [Устройства](eplan/devicelistgui_k_start.md)
-* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-* [Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)
-* [Изменить функции](eplan/xfctdefbrowsergui_h_funktionaendern.md)
-* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
+* [Устройства](devicelistgui_k_start.md)
+* [Выбор изделия / устройства](partselectiongui_k_start.md)
+* [Диалоговое окно Определения функций](xfctdefbrowsergui_d_funktionsdefinitionen.md)
+* [Изменить функции](xfctdefbrowsergui_h_funktionaendern.md)
+* [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)

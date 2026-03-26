@@ -1,6 +1,6 @@
 ## Присвоение формы типу отчета
 
-Прежде чем использовать [Типы отчетов](eplan/formgeneratorgui_k_auswertungstypen.md) для генерации отчетов, типу отчета необходимо присвоить форму. Формы для отчетов по умолчанию содержатся в комплекте поставки Eplan.
+Прежде чем использовать [Типы отчетов](formgeneratorgui_k_auswertungstypen.md) для генерации отчетов, типу отчета необходимо присвоить форму. Формы для отчетов по умолчанию содержатся в комплекте поставки Eplan.
 
 Условия:
 
@@ -20,7 +20,7 @@ Eplan открывает диалоговое окно Выбрать форму
 
 **См. также:**
 
-* [Генерировать формы](eplan/formeditorgui_h_formulareerzeugen.md)
-* [Генерация относящегося к функции отчета без шаблона](eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
-* [Генерация перечня отчетов без шаблона](eplan/formgeneratorgui_h_auswerterzeugen.md)
-* [Размещения отчета на странице вручную](eplan/formgeneratorgui_h_auswplatzieren.md)
+* [Генерировать формы](formeditorgui_h_formulareerzeugen.md)
+* [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
+* [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
+* [Размещения отчета на странице вручную](formgeneratorgui_h_auswplatzieren.md)

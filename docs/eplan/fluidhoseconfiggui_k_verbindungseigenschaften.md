@@ -25,5 +25,5 @@
 
 **См. также:**
 
-* [Обмен данными шлангопроводов](eplan/fluidhoseconfiggui_k_datenaustausch.md)
-* [Рабочий процесс](eplan/fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
+* [Обмен данными шлангопроводов](fluidhoseconfiggui_k_datenaustausch.md)
+* [Рабочий процесс](fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)

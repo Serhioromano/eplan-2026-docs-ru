@@ -16,7 +16,7 @@
 
 **См. также:**
 
-* [Устройства](eplan/devicetaggui_k_start.md)
-* [Обозначение устройств](eplan/devicetaggui_k_aufbauvonbm.md)
-* [Определение нумерации устройств](eplan/changestandardsgui_h_nummerieren.md)
-* [Формат нумерации в режиме подключения](eplan/numerationgui_k_format.md)
+* [Устройства](devicetaggui_k_start.md)
+* [Обозначение устройств](devicetaggui_k_aufbauvonbm.md)
+* [Определение нумерации устройств](changestandardsgui_h_nummerieren.md)
+* [Формат нумерации в режиме подключения](numerationgui_k_format.md)

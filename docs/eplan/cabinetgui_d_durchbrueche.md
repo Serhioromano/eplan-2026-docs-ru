@@ -49,4 +49,4 @@
   
 **См. также:**
 
-* [Вставить монтажные отверстия](eplan/cabinetgui_h_durchbrucheinfuegen.md)
+* [Вставить монтажные отверстия](cabinetgui_h_durchbrucheinfuegen.md)

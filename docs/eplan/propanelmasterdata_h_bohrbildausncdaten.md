@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Вкладка "Свойства" (уровень иерархии "Данные" (для схем сверления))](eplan/articlesgui_r_eigenschaften.md#DatenBohrbild)
-* [Вкладка Монтажные отверстия](eplan/articlesgui_r_durchbrueche.md)
-* [Диалоговое окно Генерировать схемы сверления / контуры](eplan/cabinetgui_d_bohrbilderzeugen.md)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для схем сверления))](articlesgui_r_eigenschaften.md#DatenBohrbild)
+* [Вкладка Монтажные отверстия](articlesgui_r_durchbrueche.md)
+* [Диалоговое окно Генерировать схемы сверления / контуры](cabinetgui_d_bohrbilderzeugen.md)

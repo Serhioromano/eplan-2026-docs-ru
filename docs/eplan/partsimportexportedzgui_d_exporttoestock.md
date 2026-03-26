@@ -14,5 +14,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Управление изделиями](eplan/articlesgui_d_artverw.md)
-* [Коллекция eStock в качестве источника данных](eplan/partselectiongui_d_datenauswahlbenutzer.md#eStock)
+* [Диалоговое окно Управление изделиями](articlesgui_d_artverw.md)
+* [Коллекция eStock в качестве источника данных](partselectiongui_d_datenauswahlbenutzer.md#eStock)

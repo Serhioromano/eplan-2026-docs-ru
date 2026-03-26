@@ -21,8 +21,8 @@
 
 **См. также:**
 
-* [Символы](eplan/xsbgui_k_start.md)
-* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenaustauschen.md)
-* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
-* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
-* [Создать схему присвоения для символов (Изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
+* [Символы](xsbgui_k_start.md)
+* [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](changestandardsgui_h_stammdatenaustauschen.md)
+* [Определить структуру проекта (изменение стандарта)](changestandardsgui_h_projektstrukturanpassen.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](changestandardsgui_h_symboletauschen.md)
+* [Создать схему присвоения для символов (Изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)

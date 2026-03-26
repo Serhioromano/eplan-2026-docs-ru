@@ -26,6 +26,6 @@ Eplan используется без управления правами, т. �
 
 **См. также:**
 
-* [Управление правами](eplan/uradministration_k_start.md)
-* [Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
-* [Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)
+* [Управление правами](uradministration_k_start.md)
+* [Зарегистрировать или поменять пользователя](uradministration_h_benutzerwechseln.md)
+* [Импорт пользователей Windows](uradministration_k_windowsbenutzer.md)

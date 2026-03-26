@@ -37,5 +37,5 @@ Eplan открывает диалоговое окно Экспорт графи
 
 **См. также:**
 
-* [Диалоговое окно Экспорт графических файлов](eplan/modaldialogsdb_d_export.md)
-* [Диалоговое окно Настройки: Экспорт графических файлов](eplan/gedgraphicexportgui_d_exporteinstellungen.md)
+* [Диалоговое окно Экспорт графических файлов](modaldialogsdb_d_export.md)
+* [Диалоговое окно Настройки: Экспорт графических файлов](gedgraphicexportgui_d_exporteinstellungen.md)

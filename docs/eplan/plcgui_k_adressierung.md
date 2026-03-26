@@ -29,7 +29,7 @@
 
 ### Карты ПЛК с различными диапазонами адресов
 
-Для карт ПЛК с уже существующими входами и выходами можно задать два отдельных диапазона адресов и два отдельных начальных адреса для входов и выходов. Для этого на вкладке Блок ПЛК диалогового окна свойств предусмотрены свойства Начальный адрес карты ПЛК и Начальный адрес 2 карты ПЛК. Эти свойства можно использовать при адресации со [значением конфигурации](eplan/eservicesgui_d_formatzaehler.md#Konfigurationswert).
+Для карт ПЛК с уже существующими входами и выходами можно задать два отдельных диапазона адресов и два отдельных начальных адреса для входов и выходов. Для этого на вкладке Блок ПЛК диалогового окна свойств предусмотрены свойства Начальный адрес карты ПЛК и Начальный адрес 2 карты ПЛК. Эти свойства можно использовать при адресации со [значением конфигурации](eservicesgui_d_formatzaehler.md#Konfigurationswert).
 
 !!! tip "Совет:"
 
@@ -41,9 +41,9 @@
 
 **См. также:**
 
-* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
-* [Автоматическая адресация выводов устройства ПЛК](eplan/plcgui_h_automatisch_adressieren.md)
-* [Диалоговое окно Адресация выводов устройства ПЛК](eplan/plcgui_d_anschluesseneuadressieren.md)
-* [Вкладка Блок ПЛК](eplan/devicetaggui_r_spskarte.md)
-* [Подустройства ПЛК](eplan/plcgui_k_untergeraete.md)
+* [Форматы адресов](plcprocessorgui_k_adressformate.md)
+* [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
+* [Автоматическая адресация выводов устройства ПЛК](plcgui_h_automatisch_adressieren.md)
+* [Диалоговое окно Адресация выводов устройства ПЛК](plcgui_d_anschluesseneuadressieren.md)
+* [Вкладка Блок ПЛК](devicetaggui_r_spskarte.md)
+* [Подустройства ПЛК](plcgui_k_untergeraete.md)

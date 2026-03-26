@@ -37,4 +37,4 @@
 
 **См. также:**
 
-* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)

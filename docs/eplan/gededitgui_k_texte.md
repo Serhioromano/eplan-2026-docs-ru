@@ -35,12 +35,12 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Вставить текст](eplan/gededitgui_h_texte.md)
-* [Обработать свойства текста](eplan/gededitgui_h_textebearbeiten.md)
-* [Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
-* [Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
-* [Отобразить пустые тексты и тексты с небольшим размером шрифта](eplan/gededitgui_h_texteanzeigen.md)
-* [Вкладка Текст](eplan/gededitgui_r_text.md)
-* [Вкладка Формат (тексты)](eplan/gededitgui_r_format.md)
-* [Прямая обработка](eplan/inplaceeditinggui_k_start.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Вставить текст](gededitgui_h_texte.md)
+* [Обработать свойства текста](gededitgui_h_textebearbeiten.md)
+* [Присоединить / отсоединить тексты](gededitgui_h_texteandocken.md)
+* [Переместить тексты свойств](gededitgui_h_symboltexteverschieben.md)
+* [Отобразить пустые тексты и тексты с небольшим размером шрифта](gededitgui_h_texteanzeigen.md)
+* [Вкладка Текст](gededitgui_r_text.md)
+* [Вкладка Формат (тексты)](gededitgui_r_format.md)
+* [Прямая обработка](inplaceeditinggui_k_start.md)

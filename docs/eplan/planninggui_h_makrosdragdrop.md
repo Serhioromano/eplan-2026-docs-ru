@@ -57,7 +57,7 @@
 
 **См. также:**
 
-* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-* [Создание подробного планирования из макросов](eplan/planninggui_k_grafikausmakros.md)
-* [Диалоговое окно Настройки: Общее (предварительное планирование)](eplan/planninggui_d_einstellallgemein.md)
-* [Вкладка Макрос](eplan/planninggui_r_makro.md)
+* [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
+* [Создание подробного планирования из макросов](planninggui_k_grafikausmakros.md)
+* [Диалоговое окно Настройки: Общее (предварительное планирование)](planninggui_d_einstellallgemein.md)
+* [Вкладка Макрос](planninggui_r_makro.md)

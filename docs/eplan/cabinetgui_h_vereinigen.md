@@ -28,4 +28,4 @@
 
 **См. также:**
 
-* [3D-макротехника: принцип](cabinetgui_k_3dmakros.htm)
+* [3D-макротехника: принцип](cabinetgui_k_3dmakros.md)

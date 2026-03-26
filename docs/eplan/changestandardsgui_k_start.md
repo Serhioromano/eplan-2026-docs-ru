@@ -13,7 +13,7 @@
 
 **См. также:**
 
-* [Замена рамки](eplan/changestandardsgui_k_stammdaten.md)
-* [Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
-* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
+* [Замена рамки](changestandardsgui_k_stammdaten.md)
+* [Повернутые страницы / Неповернутые страницы](changestandardsgui_k_seitendrehung.md)
+* [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)

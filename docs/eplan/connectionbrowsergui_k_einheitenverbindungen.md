@@ -34,6 +34,6 @@ kcmil |  Американские и канадские единицы изме�
   
 **См. также:**
 
-* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-* [Вкладка Электротехника](eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
-* [Вкладки "Гидравлика" / "Пневматика" / "Охлаждение" / "Смазка" / "Смазочно-охлаждающая жидкость" / "Газовая техника" / "Технология производственных процессов"](eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md)
+* [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Вкладка Электротехника](connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
+* [Вкладки "Гидравлика" / "Пневматика" / "Охлаждение" / "Смазка" / "Смазочно-охлаждающая жидкость" / "Газовая техника" / "Технология производственных процессов"](connectionsettingsgui_r_projekteinstellungenhydraulik.md)

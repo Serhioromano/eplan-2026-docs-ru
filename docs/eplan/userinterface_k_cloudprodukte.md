@@ -10,4 +10,4 @@
 
 **См. также:**
 
-* [Элементы интерфейса пользователя](eplan/userinterface_k_hintergrund.md)
+* [Элементы интерфейса пользователя](userinterface_k_hintergrund.md)

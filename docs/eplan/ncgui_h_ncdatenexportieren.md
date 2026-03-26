@@ -17,7 +17,7 @@
 
 **См. также:**
 
-* [Экспорт ЧУ: Принцип](eplan/ncgui_k_prinzip.md)
-* [Диалоговое окно Настройки: Экспорт Rittal - Perforex BC / Secarex](eplan/ncgui_d_einstellungenncexportkiesling.md)
-* [Конфигурирование машины ЧУ](eplan/ncgui_h_ncmaschinekonfigurieren.md)
-* [Диалоговое окно Настройки: Исходная точка](eplan/cabinetgui_d_einstellungennullschnitt.md)
+* [Экспорт ЧУ: Принцип](ncgui_k_prinzip.md)
+* [Диалоговое окно Настройки: Экспорт Rittal - Perforex BC / Secarex](ncgui_d_einstellungenncexportkiesling.md)
+* [Конфигурирование машины ЧУ](ncgui_h_ncmaschinekonfigurieren.md)
+* [Диалоговое окно Настройки: Исходная точка](cabinetgui_d_einstellungennullschnitt.md)

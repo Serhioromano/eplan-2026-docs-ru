@@ -20,4 +20,4 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
+* [Графический редактор](gededitgui_k_start.md)

@@ -17,7 +17,7 @@
 
 7. Выделите в поле Доступные элементы формата элемент формата и перенесите его с помощью клавиши со стрелкой вправо в список выбранных элементов формата.  
   
-В зависимости от элемента формата открывается следующее диалоговое окно. В зависимости от выбранного элемента формата это может быть одно из следующих диалоговых окон: [Формат: Свойства](eplan/wirenumberinggui_d_formateigenschaften.md), [Формат: Счетчик](eplan/wirenumberinggui_d_formatzaehler.md), [Формат: Страница / Столбец / Строка](eplan/wirenumberinggui_d_formatseite.md) или [Формат: Разделитель](eplan/wirenumberinggui_d_formattrennzeichen.md).
+В зависимости от элемента формата открывается следующее диалоговое окно. В зависимости от выбранного элемента формата это может быть одно из следующих диалоговых окон: [Формат: Свойства](wirenumberinggui_d_formateigenschaften.md), [Формат: Счетчик](wirenumberinggui_d_formatzaehler.md), [Формат: Страница / Столбец / Строка](wirenumberinggui_d_formatseite.md) или [Формат: Разделитель](wirenumberinggui_d_formattrennzeichen.md).
 8. Определите форматирование в следующем диалоговом окне.  
   
 В поле Предварительный просмотр выводится предварительный просмотр формата обозначения. Отдельные элементы формата выводятся в обозначении соединения в той последовательности, в которой они стоят в списке.
@@ -28,7 +28,7 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-* [Диалоговое окно Нумерация соединений: Форматы](eplan/wirenumberinggui_d_verbnumformate.md)
-* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
-* [Определить сетевое расширение для нумерации соединений](eplan/wirenumberinggui_h_netzerweiterung.md)
+* [Диалоговое окно Настройки: Нумерация соединений](wirenumberinggui_d_verbnumeinstellungen.md)
+* [Диалоговое окно Нумерация соединений: Форматы](wirenumberinggui_d_verbnumformate.md)
+* [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
+* [Определить сетевое расширение для нумерации соединений](wirenumberinggui_h_netzerweiterung.md)

@@ -61,5 +61,5 @@
 
 **См. также:**
 
-* [Направление создания отчета форм](eplan/formeditorgui_k_auswertungsrichtung.md)
-* [Динамическое размещение графики](eplan/formeditorgui_h_grafikendynamischplatzieren.md)
+* [Направление создания отчета форм](formeditorgui_k_auswertungsrichtung.md)
+* [Динамическое размещение графики](formeditorgui_h_grafikendynamischplatzieren.md)

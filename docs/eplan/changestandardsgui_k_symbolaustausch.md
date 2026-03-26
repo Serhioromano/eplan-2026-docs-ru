@@ -10,8 +10,8 @@
 
 **См. также:**
 
-* [Изменение стандарта](eplan/changestandardsgui_k_start.md)
-* [Повернутые страницы / Неповернутые страницы](eplan/changestandardsgui_k_seitendrehung.md)
-* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
-* [Заменить библиотеки символов и символы (Изменение стандарта)](eplan/changestandardsgui_h_symboletauschen.md)
+* [Изменение стандарта](changestandardsgui_k_start.md)
+* [Повернутые страницы / Неповернутые страницы](changestandardsgui_k_seitendrehung.md)
+* [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
+* [Заменить библиотеки символов и символы (Изменение стандарта)](changestandardsgui_h_symboletauschen.md)

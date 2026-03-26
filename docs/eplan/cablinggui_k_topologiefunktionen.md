@@ -42,7 +42,7 @@
 
 **См. также:**
 
-* [Сети соединенных сегментов (топология)](eplan/cablinggui_k_start.md)
-* [Вставка функций топологии](eplan/cablinggui_k_funktioneneinfuegen.md)
-* [Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
-* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
+* [Сети соединенных сегментов (топология)](cablinggui_k_start.md)
+* [Вставка функций топологии](cablinggui_k_funktioneneinfuegen.md)
+* [Маршрутизируемые соединения (топология): порядок действий](cablinggui_k_vorgehensweise.md)
+* [Управление штекерами](plugsgui_k_verwaltungstecker.md)

@@ -54,4 +54,4 @@
 
 **См. также:**
 
-* [Вкладка Импорт](eplan/xdxfgui_r_import.md)
+* [Вкладка Импорт](xdxfgui_r_import.md)

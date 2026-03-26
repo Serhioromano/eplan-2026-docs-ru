@@ -12,5 +12,5 @@
 
 **См. также:**
 
-* [Использование справочной системы](eplan/helpsystem_h_nutzen.md)
-* [Вид Backstage: Справка](eplan/helpsystem_d_backstagehilfe.md)
+* [Использование справочной системы](helpsystem_h_nutzen.md)
+* [Вид Backstage: Справка](helpsystem_d_backstagehilfe.md)

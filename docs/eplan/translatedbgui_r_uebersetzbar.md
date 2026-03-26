@@ -46,7 +46,7 @@
 
 **См. также:**
 
-* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
-* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
-* [Ввести предложение по разделению](eplan/translatedbgui_h_trennvorschlag.md)
+* [Структура ключевых слов](translatedbgui_k_eingabemoeglichkeit.md)
+* [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)
+* [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
+* [Ввести предложение по разделению](translatedbgui_h_trennvorschlag.md)

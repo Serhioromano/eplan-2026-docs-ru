@@ -10,13 +10,13 @@
 
 **См. также:**
 
-* [Конструкция устройств в Eplan](eplan/xfctdefbrowsergui_k_betriebsmittel.md)
-* [Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
-* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-* [Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
-* [Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-* [Изменить функции](eplan/xfctdefbrowsergui_h_funktionaendern.md)
-* [Обработать логическую схему выводов устройства](eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
-* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
-* [Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
+* [Конструкция устройств в Eplan](xfctdefbrowsergui_k_betriebsmittel.md)
+* [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
+* [Определения функции: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Обозначения и описания выводов устройства](fctdeflibdataexchangegui_k_anschluss.md)
+* [Наборы буквенных обозначений](fctdeflibdataexchangegui_k_kennbuchstaben.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Изменить функции](xfctdefbrowsergui_h_funktionaendern.md)
+* [Обработать логическую схему выводов устройства](xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
+* [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Заменить символы](xfctdefbrowsergui_h_symboltauschen.md)

@@ -27,6 +27,6 @@
 
 **См. также:**
 
-* [Вкладка Маршрутизация](eplan/connectionsettingsgui_r_einstellungenverlegung.md)
-* [Удалить автоматические сегменты маршрутизации](eplan/routinggui_h_autostreckenloeschen.md)
-* [Показать маршрут](eplan/routinggui_h_streckenansicht.md)
+* [Вкладка Маршрутизация](connectionsettingsgui_r_einstellungenverlegung.md)
+* [Удалить автоматические сегменты маршрутизации](routinggui_h_autostreckenloeschen.md)
+* [Показать маршрут](routinggui_h_streckenansicht.md)

@@ -46,5 +46,5 @@
 
 **См. также:**
 
-* [Устройства](eplan/devicelistgui_k_start.md)
-* [Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md#I_ManuelleStegbruecken)
+* [Устройства](devicelistgui_k_start.md)
+* [Управление перемычками](terminalgui_k_verwendungbruecken.md#I_ManuelleStegbruecken)

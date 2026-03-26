@@ -11,7 +11,7 @@
 
 **См. также:**
 
-* [Определение потенциалов и сигналов](eplan/potentialbrowsergui_k_prinzippotenziale.md)
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Начертить точки или выводы определения потенциалов](eplan/potentialbrowsergui_h_pdpzeichnen.md)
-* [Выделить потенциалы, сигналы или сеть](eplan/potentialbrowsergui_h_potenzialverfolgung.md)
+* [Определение потенциалов и сигналов](potentialbrowsergui_k_prinzippotenziale.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Начертить точки или выводы определения потенциалов](potentialbrowsergui_h_pdpzeichnen.md)
+* [Выделить потенциалы, сигналы или сеть](potentialbrowsergui_h_potenzialverfolgung.md)

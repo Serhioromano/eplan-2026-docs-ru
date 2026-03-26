@@ -38,5 +38,5 @@
 
 **См. также:**
 
-* [Диалоговое окно ](eplan/panellayoutgui_d_legendenposbearbeiten.md)
-* [Обработать позицию легенды](eplan/panellayoutgui_d_legendenposbearbeiten.md)
+* [Диалоговое окно ](panellayoutgui_d_legendenposbearbeiten.md)
+* [Обработать позицию легенды](panellayoutgui_d_legendenposbearbeiten.md)

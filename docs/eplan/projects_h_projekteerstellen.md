@@ -1,10 +1,10 @@
 ## Создать проекты
 
-Проекты можно создавать с помощью вида Backstage или управления проектами. В обоих случаях проект создается на основе базового проекта. Ниже описывается, как создать проект с помощью вида Backstage. Если вы сами еще не создали базовый проект, можно использовать [Примерные шаблоны](eplan/projects_k_basisprojekteerweitert.md#Beispielvorlagen) Eplan.
+Проекты можно создавать с помощью вида Backstage или управления проектами. В обоих случаях проект создается на основе базового проекта. Ниже описывается, как создать проект с помощью вида Backstage. Если вы сами еще не создали базовый проект, можно использовать [Примерные шаблоны](projects_k_basisprojekteerweitert.md#Beispielvorlagen) Eplan.
 
 Условие:
 
-Вы имеете доступ к [Базовые проекты](eplan/projects_k_basisprojekteerweitert.md).
+Вы имеете доступ к [Базовые проекты](projects_k_basisprojekteerweitert.md).
 
 1. Выберите следующие команды: Файл > Создать.
 2. В поле Имя проекта диалогового окна Создать проект введите имя проекта без расширения файла.
@@ -25,7 +25,7 @@
 
 **См. также:**
 
-* [Определить структуру проекта](eplan/projectstructure_h_prjstrukturdefinieren.md)
-* [Проекты](eplan/projects_k_start.md)
-* [Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
-* [Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
+* [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
+* [Проекты](projects_k_start.md)
+* [Создать базовые проекты](projects_h_basisprojekterstellen.md)
+* [Режимы обработки при открытии проектов](projects_k_bearbeitungsmodusbeimoeffnen.md)

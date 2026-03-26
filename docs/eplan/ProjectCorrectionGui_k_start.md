@@ -8,5 +8,5 @@
 
 **См. также:**
 
-* [Корректируемые данные проекта](eplan/ProjectCorrectionGui_k_korrekturdaten.md)
-* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Корректируемые данные проекта](ProjectCorrectionGui_k_korrekturdaten.md)
+* [Очистить проект](ProjectCorrectionGui_h_projektkorrigieren.md)

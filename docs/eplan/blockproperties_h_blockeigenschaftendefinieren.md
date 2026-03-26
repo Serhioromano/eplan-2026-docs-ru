@@ -45,7 +45,7 @@
 
 **См. также:**
 
-* [Диалоговое окно Формат](eplan/eservicesgui_d_format.md)
-* [Свойства блока: Принцип](eplan/blockproperties_k_prinzip.md)
-* [Предварительное определение индексированных свойств блока](eplan/blockproperties_k_vordefinition.md)
-* [Просмотреть свойства блока](eplan/blockproperties_h_blockeigenschaftenanzeigen.md)
+* [Диалоговое окно Формат](eservicesgui_d_format.md)
+* [Свойства блока: Принцип](blockproperties_k_prinzip.md)
+* [Предварительное определение индексированных свойств блока](blockproperties_k_vordefinition.md)
+* [Просмотреть свойства блока](blockproperties_h_blockeigenschaftenanzeigen.md)

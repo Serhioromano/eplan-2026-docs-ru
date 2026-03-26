@@ -73,7 +73,7 @@
 
 **См. также:**
 
-* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-* [Копировать, вырезать и вставить элементы](eplan/gededitgui_h_elementekopieren.md)
-* [Дублировать элементы](eplan/gededitgui_h_elementeduplizieren.md)
-* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
+* [Определить формат нумерации в режиме подключения](numerationgui_h_onlineformat.md)
+* [Копировать, вырезать и вставить элементы](gededitgui_h_elementekopieren.md)
+* [Дублировать элементы](gededitgui_h_elementeduplizieren.md)
+* [Вставить макросы](macrosgui_h_makrosauswaehlen.md)

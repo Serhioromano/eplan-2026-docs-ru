@@ -51,5 +51,5 @@
 
 **См. также:**
 
-* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
-* [Расширения для индивидуального разъединения узлов и модулей](news_p_artikelverwaltung_baugruppenaufloesen_496411.htm)
+* [Управление изделиями: Дополнительные части](articlesgui_k_ergaenzungsteile.md)
+* [Расширения для индивидуального разъединения узлов и модулей](news_p_artikelverwaltung_baugruppenaufloesen_496411.md)

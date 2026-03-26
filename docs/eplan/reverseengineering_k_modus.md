@@ -10,8 +10,8 @@
 
 За несколькими исключениями можно обрабатывать все свойства, доступные в диалоговом окне Свойства (общие) <...> в следующих вкладках.
 
-* [Вкладка <Категория функции>](eplan/devicetaggui_r_bmdaten.md)
-* [Вкладка <Категория функции> (Устройство)](eplan/devicetaggui_r_bmdaten.md)
+* [Вкладка <Категория функции>](devicetaggui_r_bmdaten.md)
+* [Вкладка <Категория функции> (Устройство)](devicetaggui_r_bmdaten.md)
 
 Следующая таблица показывает, какие свойства на вкладках в режиме "Свойства (общие)" не могут обрабатываться.
 
@@ -35,8 +35,8 @@
 
 **См. также:**
 
-* [Активировать режим Свойства (общие)](eplan/reverseengineering_h_bmmodusaktivieren.md)
-* [Обработать свойства во всех представлениях главной функции](eplan/reverseengineering_h_alledarstellungenbm.md)
-* [Обработать свойства во всех представлениях вспомогательной функции](eplan/reverseengineering_h_alledarstellungenfunktion.md)
-* [Изменить ОУ функций](eplan/devicetaggui_h_bmkaendern.md)
-* [Общая обработка свойств на страницах отчетов](eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
+* [Активировать режим Свойства (общие)](reverseengineering_h_bmmodusaktivieren.md)
+* [Обработать свойства во всех представлениях главной функции](reverseengineering_h_alledarstellungenbm.md)
+* [Обработать свойства во всех представлениях вспомогательной функции](reverseengineering_h_alledarstellungenfunktion.md)
+* [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
+* [Общая обработка свойств на страницах отчетов](reverseengineering_h_uebergreifendesbearbeiten.md)

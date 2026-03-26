@@ -21,7 +21,7 @@
 
 **См. также:**
 
-* [Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
-* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-* [Диалоговое окно Выполнить контр. прогон](eplan/xesinspectiongui_d_prueflauf.md)
-* [Вкладка Сообщения](eplan/articlesgui_r_meldungen.md)
+* [Управление сообщениями Eplan](msgmanagementgui_k_start.md)
+* [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
+* [Диалоговое окно Выполнить контр. прогон](xesinspectiongui_d_prueflauf.md)
+* [Вкладка Сообщения](articlesgui_r_meldungen.md)

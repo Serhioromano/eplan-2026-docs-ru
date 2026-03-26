@@ -2,9 +2,9 @@
 
 В Eplan Fluid предусмотрено несколько способов нумерации обозначений устройств Fluid-техники:
 
-* [Нумерация (online)](eplan/numerationgui_k_start.md)
-* [Нумеровать (автономно)](eplan/offlinenumerationgui_k_start.md)
-* Нумерация посредством диалогового окна [Выбор ОУ](eplan/modaldialogsdb_d_bmkauswahl.md).
+* [Нумерация (online)](numerationgui_k_start.md)
+* [Нумеровать (автономно)](offlinenumerationgui_k_start.md)
+* Нумерация посредством диалогового окна [Выбор ОУ](modaldialogsdb_d_bmkauswahl.md).
 
 Если для устройств Fluid используется обозначение согласно ISO 1219-2, то при вставке символов номер функционального элемента по умолчанию будет увеличиваться по нарастающей. В окне Вставка макросов или копий можно определить, как должна работать программа при нумерации ОУ Fluid-техники. Вы можете задать подсчет по возрастанию либо номеров схемы, либо номеров функциональных элементов.
 
@@ -12,6 +12,6 @@
 
 **См. также:**
 
-* [Eplan Fluid: Структура устройства](eplan/ftechnic_k_betriebsmittelstruktur.md)
-* [Пронумеровать ОУ Fluid-техники (ISO 1219-2) в режиме online](eplan/ftechnic_h_fluidbetriebsmittel_online_nummerieren.md)
-* [Выбрать ОУ Fluid-техники (ISO 1219-2)](eplan/ftechnic_h_bmk_auswaehlen.md)
+* [Eplan Fluid: Структура устройства](ftechnic_k_betriebsmittelstruktur.md)
+* [Пронумеровать ОУ Fluid-техники (ISO 1219-2) в режиме online](ftechnic_h_fluidbetriebsmittel_online_nummerieren.md)
+* [Выбрать ОУ Fluid-техники (ISO 1219-2)](ftechnic_h_bmk_auswaehlen.md)

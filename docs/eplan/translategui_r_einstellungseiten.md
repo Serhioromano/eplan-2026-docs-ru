@@ -13,6 +13,6 @@
 
 **См. также:**
 
-* [Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
-* [Переводить тексты и свойства везде / не переводить](eplan/translategui_h_textenichtuebersetzen.md)
-* [Переводить типы страниц везде / не переводить](eplan/translategui_h_seitennichtuebersetzen.md)
+* [Автоматический перевод / перевод вручную](translategui_k_start.md)
+* [Переводить тексты и свойства везде / не переводить](translategui_h_textenichtuebersetzen.md)
+* [Переводить типы страниц везде / не переводить](translategui_h_seitennichtuebersetzen.md)

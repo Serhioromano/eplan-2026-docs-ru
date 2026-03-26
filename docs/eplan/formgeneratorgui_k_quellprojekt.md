@@ -36,5 +36,5 @@
 
 **См. также:**
 
-* [Отчеты](eplan/formgeneratorgui_k_start.md)
-* [Вывести отчет в другой проект](eplan/formgeneratorgui_h_inanderesprojekt.md)
+* [Отчеты](formgeneratorgui_k_start.md)
+* [Вывести отчет в другой проект](formgeneratorgui_h_inanderesprojekt.md)

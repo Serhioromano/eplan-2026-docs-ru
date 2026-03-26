@@ -14,6 +14,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Обработать позицию легенды](eplan/panellayoutgui_d_legendenposbearbeiten.md)
-* [Диалоговое окно Нумеровать](eplan/panellayoutgui_d_nummerieren.md)
-* [Диалоговое окно Пространство листа — <Имя проекта>](eplan/cabinetgui_d_navigator.md)
+* [Диалоговое окно Обработать позицию легенды](panellayoutgui_d_legendenposbearbeiten.md)
+* [Диалоговое окно Нумеровать](panellayoutgui_d_nummerieren.md)
+* [Диалоговое окно Пространство листа — <Имя проекта>](cabinetgui_d_navigator.md)

@@ -10,7 +10,7 @@
 
 Схема:
 
-В этом поле находится имя текущей схемы идентификаторов. При помощи расположенной рядом [панели инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md) можно создавать схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
+В этом поле находится имя текущей схемы идентификаторов. При помощи расположенной рядом [панели инструментов](schemeconfig_m_schemaschaltflaechen.md) можно создавать схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
 
 Описание:
 
@@ -25,7 +25,7 @@
 
 **См. также:**
 
-* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-* [Обработать свойства проекта (Управление проектами)](eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
-* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
+* [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
+* [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)
+* [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)

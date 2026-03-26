@@ -30,4 +30,4 @@
 
 **См. также:**
 
-* [Набор макросов для центра вставки](eplan/insertergui_k_makrosammlung.md)
+* [Набор макросов для центра вставки](insertergui_k_makrosammlung.md)

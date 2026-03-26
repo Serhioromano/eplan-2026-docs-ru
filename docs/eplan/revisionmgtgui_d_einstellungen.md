@@ -18,6 +18,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Ревизия (графическое представление)](eplan/revisionmgtgui_d_einstellungengrafisch.md)
-* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Диалоговое окно Настройки: Ревизия (графическое представление)](revisionmgtgui_d_einstellungengrafisch.md)
+* [Управление ревизиями](revisionmgtgui_k_start.md)
+* [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)

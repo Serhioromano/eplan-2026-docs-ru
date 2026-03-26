@@ -70,5 +70,5 @@
 
 **См. также:**
 
-* [Опции](eplan/projectoptionsgui_k_start.md)
-* [Включить и выключить опции](eplan/projectoptionsgui_h_optioneneinaus.md)
+* [Опции](projectoptionsgui_k_start.md)
+* [Включить и выключить опции](projectoptionsgui_h_optioneneinaus.md)

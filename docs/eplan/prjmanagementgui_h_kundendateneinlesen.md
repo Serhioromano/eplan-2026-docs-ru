@@ -19,6 +19,6 @@
 
 **См. также:**
 
-* [Считать каталоги и проекты](eplan/prjmanagementgui_h_verzeichniseinlesen.md)
-* [Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
-* [Открыть проект (Управление проектами)](eplan/prjmanagementgui_h_projektoeffnen.md)
+* [Считать каталоги и проекты](prjmanagementgui_h_verzeichniseinlesen.md)
+* [Создать основные персональные данные](articlesgui_h_kundenerstellen.md)
+* [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)

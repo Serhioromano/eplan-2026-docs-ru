@@ -21,8 +21,8 @@
 
 **См. также:**
 
-* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-* [Поведение изделий при выборе устройств](eplan/partselectiongui_k_prinzip.md)
-* [Синхронизировать сохраненные изделия с базой данных изделий](eplan/partselectiongui_h_artikeldateneinlagern.md)
-* [Генерировать изделия из данных схемы соединений](eplan/partselectiongui_h_artikelausschaltplan.md)
-* [Диалоговое окно Удалить сохраненные свойства изделия](eplan/partselectiongui_d_artikeleigenschaftenloeschen.md)
+* [Выбор изделия / устройства](partselectiongui_k_start.md)
+* [Поведение изделий при выборе устройств](partselectiongui_k_prinzip.md)
+* [Синхронизировать сохраненные изделия с базой данных изделий](partselectiongui_h_artikeldateneinlagern.md)
+* [Генерировать изделия из данных схемы соединений](partselectiongui_h_artikelausschaltplan.md)
+* [Диалоговое окно Удалить сохраненные свойства изделия](partselectiongui_d_artikeleigenschaftenloeschen.md)

@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Вкладка Медный жгут](eplan/devicetaggui_r_kupferstrang.md)
-* [Вкладка Сборная шина](eplan/devicetaggui_r_sammelschiene.md)
+* [Вкладка Медный жгут](devicetaggui_r_kupferstrang.md)
+* [Вкладка Сборная шина](devicetaggui_r_sammelschiene.md)

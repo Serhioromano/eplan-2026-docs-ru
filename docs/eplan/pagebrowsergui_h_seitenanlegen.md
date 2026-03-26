@@ -59,10 +59,10 @@ Eplan проверяет, не существует ли уже введенно
 
 **См. также:**
 
-* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-* [Внешние документы](eplan/pagebrowsergui_k_fremddokumente.md)
-* [Адаптировать структуру страниц](eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
-* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
-* [Диалоговое окно Свойства страницы / Новая страница](eplan/pagebrowsergui_d_seiteneigenschaften.md)
+* [Навигатор страниц](pagebrowsergui_k_start.md)
+* [Типы страниц](pagebrowsergui_k_seitentypen.md)
+* [Свойства страницы](pagebrowsergui_k_eigenschaften.md)
+* [Внешние документы](pagebrowsergui_k_fremddokumente.md)
+* [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)
+* [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Диалоговое окно Свойства страницы / Новая страница](pagebrowsergui_d_seiteneigenschaften.md)

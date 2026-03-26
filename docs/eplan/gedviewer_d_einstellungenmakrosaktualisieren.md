@@ -12,7 +12,7 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Предпочитать графическое выполнение присвоения:
 
@@ -32,6 +32,6 @@
 
 **См. также:**
 
-* [Проекты макросов](eplan/macrosgui_k_makroprojekte.md)
-* [Навигатор макросов](eplan/macrosgui_k_makronavigator.md)
-* [Обновить макросы](eplan/macrosgui_h_makrokasten.md#I_MakroTauschen)
+* [Проекты макросов](macrosgui_k_makroprojekte.md)
+* [Навигатор макросов](macrosgui_k_makronavigator.md)
+* [Обновить макросы](macrosgui_h_makrokasten.md#I_MakroTauschen)

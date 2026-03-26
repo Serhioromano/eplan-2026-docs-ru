@@ -24,6 +24,6 @@
 
 **См. также:**
 
-* [Черные ящики: Возможности использования](eplan/blackbox_k_einsatzmoeglichkeiten.md)
-* [Черные ящики: Основные положения для вкладывания](eplan/blackbox_k_schachteln.md)
-* [Определить направление поиска для переноса ОУ](eplan/devicetaggui_h_bmkuebernahmefestlegen.md)
+* [Черные ящики: Возможности использования](blackbox_k_einsatzmoeglichkeiten.md)
+* [Черные ящики: Основные положения для вкладывания](blackbox_k_schachteln.md)
+* [Определить направление поиска для переноса ОУ](devicetaggui_h_bmkuebernahmefestlegen.md)

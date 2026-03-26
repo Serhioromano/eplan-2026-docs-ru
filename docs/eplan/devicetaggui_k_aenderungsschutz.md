@@ -29,7 +29,7 @@
 
 **См. также:**
 
-* [Выгрузка частичных проектов](eplan/subprojectservicesgui_k_auslagern.md)
-* [Защищенные сегменты](eplan/planninggui_k_geschuetztesegmente.md)
-* [Импорт и экспорт пространства конструкции](eplan/xdesignspaceimportgui_k_start.md)
-* [Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](eplan/pleditorgui_d_kennzeichen.md)
+* [Выгрузка частичных проектов](subprojectservicesgui_k_auslagern.md)
+* [Защищенные сегменты](planninggui_k_geschuetztesegmente.md)
+* [Импорт и экспорт пространства конструкции](xdesignspaceimportgui_k_start.md)
+* [Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](pleditorgui_d_kennzeichen.md)

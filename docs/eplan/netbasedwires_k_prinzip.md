@@ -47,6 +47,6 @@
 
 **См. также:**
 
-* [Сетевые соединения](eplan/netbasedwires_k_start.md)
-* [Обработка в сети](eplan/netbasedwires_k_netzbearbeiten.md)
-* [Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)
+* [Сетевые соединения](netbasedwires_k_start.md)
+* [Обработка в сети](netbasedwires_k_netzbearbeiten.md)
+* [Вставить точки определения сети](netbasedwires_h_ndpzeichnen.md)

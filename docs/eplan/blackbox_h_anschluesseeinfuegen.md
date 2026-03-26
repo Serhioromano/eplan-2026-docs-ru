@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Вкладка <Категория функции>](eplan/devicetaggui_r_bmdaten.md)
-* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-* [Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
+* [Вкладка <Категория функции>](devicetaggui_r_bmdaten.md)
+* [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)
+* [Вкладка Данные символа / функции](devicetaggui_r_symbolfunktionsdaten.md)

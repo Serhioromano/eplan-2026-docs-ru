@@ -11,7 +11,7 @@
 
 В комплекте поставки содержится определение машины с названием "Стандарт". Если в качестве схемы сгенерирована другая машина, можно выбрать из раскрывающегося списка другие определения машины и работать с ними.
 
-Через расположенную рядом [панель инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
+Через расположенную рядом [панель инструментов](schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
 
 Описание:
 
@@ -21,13 +21,13 @@
 
 Для конфигурирования экспорта ЧУ в формате Rittal - Perforex BC / Secarex доступны следующие вкладки:
 
-* [Вкладка Общ.](eplan/ncgui_r_allgemeinexportkiesling.md)
-* [Вкладка "Обозначение поля"](eplan/ncgui_r_feldbezeichner.md)
-* [Вкладка Инструменты](eplan/ncgui_r_werkzeuge.md)
-* [Вкладка Выбор инструмента](eplan/ncgui_r_werkzeugauswahl.md)
-* [Вкладка Технологические перемычки](eplan/ncgui_r_stegparameter.md)
-* [Вкладка Исключения при сверлении](eplan/ncgui_r_bohrausnahmen.md)
+* [Вкладка Общ.](ncgui_r_allgemeinexportkiesling.md)
+* [Вкладка "Обозначение поля"](ncgui_r_feldbezeichner.md)
+* [Вкладка Инструменты](ncgui_r_werkzeuge.md)
+* [Вкладка Выбор инструмента](ncgui_r_werkzeugauswahl.md)
+* [Вкладка Технологические перемычки](ncgui_r_stegparameter.md)
+* [Вкладка Исключения при сверлении](ncgui_r_bohrausnahmen.md)
 
 **См. также:**
 
-* [Диалоговое окно Экспорт Rittal - Perforex BC / Secarex](eplan/ncgui_d_exportkiesling.md)
+* [Диалоговое окно Экспорт Rittal - Perforex BC / Secarex](ncgui_d_exportkiesling.md)

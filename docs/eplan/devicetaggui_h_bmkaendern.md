@@ -62,4 +62,4 @@
 
 **См. также:**
 
-* [Режим-Свойства (общие)](eplan/reverseengineering_k_modus.md)
+* [Режим-Свойства (общие)](reverseengineering_k_modus.md)

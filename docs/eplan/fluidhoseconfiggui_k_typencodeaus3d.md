@@ -19,8 +19,8 @@
 
 **См. также:**
 
-* [Eplan Fluid Hose Configurator: Введение](eplan/fluidhoseconfiggui_k_start.md)
-* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
-* [Eplan Fluid: Определение групп соединений и проводов](eplan/ftechnic_k_schlauchpakete.md)
-* [Eplan Fluid: Маршрутизация соединений Fluid-техники](eplan/ftechnic_k_verlegen.md)
-* [Трубопроводы в пространстве листа](eplan/piping_k_start.md)
+* [Eplan Fluid Hose Configurator: Введение](fluidhoseconfiggui_k_start.md)
+* [Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Eplan Fluid: Определение групп соединений и проводов](ftechnic_k_schlauchpakete.md)
+* [Eplan Fluid: Маршрутизация соединений Fluid-техники](ftechnic_k_verlegen.md)
+* [Трубопроводы в пространстве листа](piping_k_start.md)

@@ -39,4 +39,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Перенести произвольные свойства](eplan/articlesgui_d_migrationfreieeigenschaften.md)
+* [Диалоговое окно Перенести произвольные свойства](articlesgui_d_migrationfreieeigenschaften.md)

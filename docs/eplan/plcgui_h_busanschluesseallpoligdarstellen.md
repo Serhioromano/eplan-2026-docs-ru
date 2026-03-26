@@ -45,5 +45,5 @@
 
 **См. также:**
 
-* [Создать и обработать карты ПЛК](eplan/plcgui_h_spsanlegen.md)
-* [Структура ПЛК](eplan/plcgui_k_prinzip.md)
+* [Создать и обработать карты ПЛК](plcgui_h_spsanlegen.md)
+* [Структура ПЛК](plcgui_k_prinzip.md)

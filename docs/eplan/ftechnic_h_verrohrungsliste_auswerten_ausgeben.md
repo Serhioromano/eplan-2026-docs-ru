@@ -47,9 +47,9 @@
 
 **См. также:**
 
-* [Eplan Fluid: Соединения](eplan/ftechnic_k_verbindungen.md)
-* [Eplan Fluid: Отчеты](eplan/ftechnic_k_auswertungen.md)
-* [Создание отчетов и вывод списков трубных / шланговых соединений](eplan/ftechnic_k_verrohrungs_verschlauchungslisten.md)
-* [Диалоговое окно <Тип отчета>](eplan/formgeneratorgui_d_struktur.md)
-* [Диалоговое окно Определить отчет](eplan/formgeneratorgui_d_auswertfestlegen.md)
-* [Диалоговое окно Настройки — <Тип отчета>](eplan/formgeneratorgui_d_grafikausgabe.md)
+* [Eplan Fluid: Соединения](ftechnic_k_verbindungen.md)
+* [Eplan Fluid: Отчеты](ftechnic_k_auswertungen.md)
+* [Создание отчетов и вывод списков трубных / шланговых соединений](ftechnic_k_verrohrungs_verschlauchungslisten.md)
+* [Диалоговое окно <Тип отчета>](formgeneratorgui_d_struktur.md)
+* [Диалоговое окно Определить отчет](formgeneratorgui_d_auswertfestlegen.md)
+* [Диалоговое окно Настройки — <Тип отчета>](formgeneratorgui_d_grafikausgabe.md)

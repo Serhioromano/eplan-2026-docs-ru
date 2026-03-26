@@ -18,6 +18,6 @@
 
 **См. также:**
 
-* [2D-отображение отверстий: принцип](ncgui_k_2dbohransicht.htm)
-* [Диалоговое окно Отображения отверстий — <Имя проекта>](gededit3dgui_d_2dbohransichten.htm)
-* [Вкладка Вид (Отобразить отверстия)](gededit3dgui_r_ansicht2dbohransicht.htm)
+* [2D-отображение отверстий: принцип](ncgui_k_2dbohransicht.md)
+* [Диалоговое окно Отображения отверстий — <Имя проекта>](gededit3dgui_d_2dbohransichten.md)
+* [Вкладка Вид (Отобразить отверстия)](gededit3dgui_r_ansicht2dbohransicht.md)

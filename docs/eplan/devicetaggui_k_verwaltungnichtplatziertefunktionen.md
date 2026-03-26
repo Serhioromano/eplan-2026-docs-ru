@@ -17,4 +17,4 @@
   
 **См. также:**
 
-* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
+* [Защита устройства](devicetaggui_k_geschuetztebm.md)

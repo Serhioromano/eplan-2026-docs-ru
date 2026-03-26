@@ -91,5 +91,5 @@ Eplan поддерживает имена, соответствующие сог
 
 **См. также:**
 
-* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
+* [Резервирование данных](bakbackupdlggui_k_start.md)
+* [Резервирование данных проекта](bakbackupdlggui_k_arbeitsweise.md)

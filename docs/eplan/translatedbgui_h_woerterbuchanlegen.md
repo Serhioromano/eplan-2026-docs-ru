@@ -34,5 +34,5 @@ Eplan покажет все языки, которые можно добавит
 
 **См. также:**
 
-* [Создать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
-* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
+* [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
+* [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)

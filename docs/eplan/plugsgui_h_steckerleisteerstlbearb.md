@@ -14,7 +14,7 @@
 
 Вы можете сначала создать штекеры, отличные от заданных до этого, и позже обработать их свойства Тем не менее, у вас есть возможность задать свойства штекера прямо при его создании. С помощью определений функций вы можете задать штекер с предопределенными свойствами.
 
-Во вкладке [Определение штекера](eplan/devicetaggui_r_steckerdefinition.md) в диалоговом окне, описывающем свойства, отредактируйте свойства штекера.
+Во вкладке [Определение штекера](devicetaggui_r_steckerdefinition.md) в диалоговом окне, описывающем свойства, отредактируйте свойства штекера.
 
 ### Создать штекер
 
@@ -46,9 +46,9 @@
 
 **См. также:**
 
-* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
-* [Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
-* [Вставить контакты штекеров и определения штекеров](eplan/plugsgui_h_steckerkontaktezeichnen.md)
-* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-* [Диалоговое окно Штекеры – <Имя проекта>](eplan/plugsgui_d_steckernavigator.md)
-* [Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)
+* [Управление штекерами](plugsgui_k_verwaltungstecker.md)
+* [Обработка данных штекеров](plugsgui_k_arbeitsweise.md)
+* [Вставить контакты штекеров и определения штекеров](plugsgui_h_steckerkontaktezeichnen.md)
+* [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Диалоговое окно Штекеры – <Имя проекта>](plugsgui_d_steckernavigator.md)
+* [Диалоговое окно Обработать штекер](connectormanagementgui_d_steckerbearbeiten.md)

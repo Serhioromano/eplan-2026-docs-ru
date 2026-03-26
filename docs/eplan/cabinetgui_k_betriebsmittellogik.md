@@ -61,10 +61,10 @@
 
 **См. также:**
 
-* [Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
-* [Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
-* [Определение точек монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)
-* [Определить линии монтажа](eplan/cabinetgui_h_montageliniedefinieren.md)
-* [Определить и использовать монтажную сетку](eplan/cabinetgui_h_montagerasterdefinieren.md)
-* [Определить и изменить поверхность установки](eplan/cabinetgui_h_einbauflaeche.md)
-* [Определить исходную точку](eplan/cabinetgui_h_bezugspunktdefinieren.md)
+* [Определить монтажную поверхность](cabinetgui_h_montageflaechedefinieren.md)
+* [Определить точку захвата](cabinetgui_h_anfasspunktdefinieren.md)
+* [Определение точек монтажа](cabinetgui_h_zielmatesdefinieren.md)
+* [Определить линии монтажа](cabinetgui_h_montageliniedefinieren.md)
+* [Определить и использовать монтажную сетку](cabinetgui_h_montagerasterdefinieren.md)
+* [Определить и изменить поверхность установки](cabinetgui_h_einbauflaeche.md)
+* [Определить исходную точку](cabinetgui_h_bezugspunktdefinieren.md)

@@ -1,6 +1,6 @@
 ## Размещения отчета на странице вручную
 
-Размещение отчетов вручную позволяет разместить данные проекта как [встроенные отчеты](eplan/formgeneratorgui_k_ausgabeformen.md) на имеющихся страницах проекта.
+Размещение отчетов вручную позволяет разместить данные проекта как [встроенные отчеты](formgeneratorgui_k_ausgabeformen.md) на имеющихся страницах проекта.
 
 !!! note "Замечание:"
 
@@ -31,7 +31,7 @@
 
 **См. также:**
 
-* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-* [Генерировать легенды электрошкафа](eplan/panellayoutgui_h_legendenanlegen.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
-* [Автоматическое/не автоматическое обновление отчета](eplan/formgeneratorgui_h_automatischaktualisieren.md)
+* [Присвоение формы типу отчета](formgeneratorgui_h_auswerten.md)
+* [Генерировать легенды электрошкафа](panellayoutgui_h_legendenanlegen.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
+* [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)

@@ -33,7 +33,7 @@
 
 **См. также:**
 
-* [Маршрутизируемые соединения (пространство листа)](eplan/routinggui_k_start.md)
-* [Маршрутизируемые соединения: Принцип](eplan/routinggui_k_prinzip.md)
-* [Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
-* [Генерировать данные изготовления для машин по сборке проводов](eplan/productionwiringgui_k_start.md)
+* [Маршрутизируемые соединения (пространство листа)](routinggui_k_start.md)
+* [Маршрутизируемые соединения: Принцип](routinggui_k_prinzip.md)
+* [Маршрутизировать соединения](routinggui_h_verlegen.md)
+* [Генерировать данные изготовления для машин по сборке проводов](productionwiringgui_k_start.md)

@@ -59,5 +59,5 @@
 
 **См. также:**
 
-* [Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
-* [Опции](eplan/projectoptionsgui_k_start.md)
+* [Создание фрагментов](projectoptionsgui_h_ausschnitteerzeugen.md)
+* [Опции](projectoptionsgui_k_start.md)

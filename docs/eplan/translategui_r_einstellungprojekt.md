@@ -171,5 +171,5 @@ Eplan выполняет поиск соответствующего ключе�
 
 **См. также:**
 
-* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-* [Определить языки перевода и языки отображения](eplan/translategui_h_sprachenwaehlen.md)
+* [Структура ключевых слов](translatedbgui_k_eingabemoeglichkeit.md)
+* [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)

@@ -25,4 +25,4 @@
 
 **См. также:**
 
-* [Рассчитать общий вес электрошкафов](eplan/cabinetgui_h_schrankgesamtgewichtberechnen.md)
+* [Рассчитать общий вес электрошкафов](cabinetgui_h_schrankgesamtgewichtberechnen.md)

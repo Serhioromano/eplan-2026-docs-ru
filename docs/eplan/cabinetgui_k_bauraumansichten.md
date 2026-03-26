@@ -13,6 +13,6 @@
 
 **См. также:**
 
-* [Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
-* [Диалоговое окно "Виды пространства листа"](eplan/insertergui_d_bauraumansichten.md)
-* [Управление видами пространства листа](eplan/cabinetgui_h_bauraumansichtenverwalten.md)
+* [Навигационный куб](cabinetgui_k_navigationswuerfel.md)
+* [Диалоговое окно "Виды пространства листа"](insertergui_d_bauraumansichten.md)
+* [Управление видами пространства листа](cabinetgui_h_bauraumansichtenverwalten.md)

@@ -16,4 +16,4 @@
 
 **См. также:**
 
-* [Определить медное изделие](eplan/copper_h_kupferartikeldefinieren.md)
+* [Определить медное изделие](copper_h_kupferartikeldefinieren.md)

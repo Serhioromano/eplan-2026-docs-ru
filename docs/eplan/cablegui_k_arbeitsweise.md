@@ -44,5 +44,5 @@
 
 **См. также:**
 
-* [Кабели](eplan/cablegui_k_start.md)
-* [Графическое представление кабелей и экранирований](eplan/cablegui_k_grafischedarstellung.md)
+* [Кабели](cablegui_k_start.md)
+* [Графическое представление кабелей и экранирований](cablegui_k_grafischedarstellung.md)

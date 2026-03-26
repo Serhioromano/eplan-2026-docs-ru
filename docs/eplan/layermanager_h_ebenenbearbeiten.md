@@ -63,8 +63,8 @@
 
 **См. также:**
 
-* [Управление слоями](eplan/layermanager_k_start.md)
-* [Слои: Принцип](eplan/layermanager_k_prinzip.md)
-* [Поиск слоев](eplan/layermanager_h_ebenensuchen.md)
-* [Импорт и экспорт конфигурации управления слоями](eplan/layermanager_h_ebenenkonfigurationexportieren.md)
-* [Диалоговое окно Управление слоями — <Имя проекта>](eplan/layermanager_d_ebenenverwaltung.md)
+* [Управление слоями](layermanager_k_start.md)
+* [Слои: Принцип](layermanager_k_prinzip.md)
+* [Поиск слоев](layermanager_h_ebenensuchen.md)
+* [Импорт и экспорт конфигурации управления слоями](layermanager_h_ebenenkonfigurationexportieren.md)
+* [Диалоговое окно Управление слоями — <Имя проекта>](layermanager_d_ebenenverwaltung.md)

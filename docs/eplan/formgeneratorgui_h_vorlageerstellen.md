@@ -1,6 +1,6 @@
 ## Генерировать шаблон отчета
 
-В [шаблонах отчетов](eplan/formgeneratorgui_k_auswertungsvorlagen.md) можно сохранить настройки для отчетов. Эти настройки можно использовать при генерации новых отчетов. Шаблоны отчетов могут быть созданы "с чистого листа" или на базе существующего отчета.
+В [шаблонах отчетов](formgeneratorgui_k_auswertungsvorlagen.md) можно сохранить настройки для отчетов. Эти настройки можно использовать при генерации новых отчетов. Шаблоны отчетов могут быть созданы "с чистого листа" или на базе существующего отчета.
 
 Условие:
 
@@ -33,7 +33,7 @@ Eplan создаст шаблон отчета и автоматически п�
 
 ### [Создать шаблон отчета для условных отчетов](javascript:void\(0\);)
 
-Следующие инструкции помогут генерировать [условные отчеты](eplan/formgeneratorgui_k_auswertungsvorlagen.md#Bedingte).
+Следующие инструкции помогут генерировать [условные отчеты](formgeneratorgui_k_auswertungsvorlagen.md#Bedingte).
 
 Условие:
 
@@ -50,7 +50,7 @@ Eplan создаст шаблон отчета и автоматически п�
 
 **См. также:**
 
-* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-* [Обновление отчета вручную](eplan/formgeneratorgui_h_auswaktualisieren.md)
+* [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
+* [Присвоение формы типу отчета](formgeneratorgui_h_auswerten.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
+* [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)

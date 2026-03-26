@@ -22,7 +22,7 @@
 
 **См. также:**
 
-* [Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
-* [Медная шина: Изменить длину](eplan/copper_h_kupferteillaengeaendern.md)
-* [Медная шина: Изменить угол](eplan/copper_h_kupferteilwinkelaendern.md)
-* [Медная шина: Добавить новое место изгиба](eplan/copper_h_kupferteilneuebiegestelle.md)
+* [Обработать медную шину](copper_h_kupferteilbearbeiten.md)
+* [Медная шина: Изменить длину](copper_h_kupferteillaengeaendern.md)
+* [Медная шина: Изменить угол](copper_h_kupferteilwinkelaendern.md)
+* [Медная шина: Добавить новое место изгиба](copper_h_kupferteilneuebiegestelle.md)

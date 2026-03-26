@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Устройство](eplan/devicetaggui_k_start.md)
-* [Свойства устройства](eplan/devicetaggui_k_bmeigenschaften.md)
+* [Устройство](devicetaggui_k_start.md)
+* [Свойства устройства](devicetaggui_k_bmeigenschaften.md)

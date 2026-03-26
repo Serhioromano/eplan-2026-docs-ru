@@ -12,8 +12,8 @@ Eplan оказывает поддержку при проектировании 
 
 **См. также:**
 
-* [Управление проводным монтажом и кабельными сборками](eplan/harnessgui_k_verwaltungkabelbaum.md)
-* [Импортировать данные проводного монтажа](eplan/harnessgui_h_importkabelbaum.md)
-* [Вставить определения проводного монтажа или определения кабельных сборок](eplan/harnessgui_h_definitioneneinfuegen.md)
-* [Экспортировать данные проводного монтажа](eplan/harnessgui_h_datenexportieren.md)
-* [Диалоговое окно Проводной монтаж — <Имя проекта>](eplan/harnessgui_d_navigator.md)
+* [Управление проводным монтажом и кабельными сборками](harnessgui_k_verwaltungkabelbaum.md)
+* [Импортировать данные проводного монтажа](harnessgui_h_importkabelbaum.md)
+* [Вставить определения проводного монтажа или определения кабельных сборок](harnessgui_h_definitioneneinfuegen.md)
+* [Экспортировать данные проводного монтажа](harnessgui_h_datenexportieren.md)
+* [Диалоговое окно Проводной монтаж — <Имя проекта>](harnessgui_d_navigator.md)

@@ -20,4 +20,4 @@
 
 **См. также:**
 
-* [Вкладка Настройки: Экспорт пространства конструкции](eplan/xdesignspaceimportgui_r_einstellungenstepexport.md)
+* [Вкладка Настройки: Экспорт пространства конструкции](xdesignspaceimportgui_r_einstellungenstepexport.md)

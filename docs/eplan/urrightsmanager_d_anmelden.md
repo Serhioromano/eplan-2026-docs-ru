@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Управление правами](eplan/uradministration_k_start.md)
-* [Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
+* [Управление правами](uradministration_k_start.md)
+* [Зарегистрировать или поменять пользователя](uradministration_h_benutzerwechseln.md)

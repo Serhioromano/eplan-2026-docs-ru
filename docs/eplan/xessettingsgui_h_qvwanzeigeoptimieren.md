@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+* [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](xessettingsgui_d_einstellungenprojektqvwallgemein.md)

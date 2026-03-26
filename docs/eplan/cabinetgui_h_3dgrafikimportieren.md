@@ -30,7 +30,7 @@
 
 **См. также:**
 
-* [Экспорт и импорт трехмерных графических данных](cabinetgui_k_exportimport3Dgrafikdaten.htm)
-* [Диалоговое окно Настройки: 3D-импорт](xstepgui_d_einstellungen3dimport.htm)
-* [Повернуть объекты вокруг оси](eplan/cabinetgui_h_drehenxyz.md)
-* [Объединение объектов в пространстве листа](eplan/cabinetgui_h_vereinigen.md)
+* [Экспорт и импорт трехмерных графических данных](cabinetgui_k_exportimport3Dgrafikdaten.md)
+* [Диалоговое окно Настройки: 3D-импорт](xstepgui_d_einstellungen3dimport.md)
+* [Повернуть объекты вокруг оси](cabinetgui_h_drehenxyz.md)
+* [Объединение объектов в пространстве листа](cabinetgui_h_vereinigen.md)

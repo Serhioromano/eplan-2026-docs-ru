@@ -24,5 +24,5 @@
 
 **См. также:**
 
-* [Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
-* [Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
+* [Навигационный куб](cabinetgui_k_navigationswuerfel.md)
+* [Обзор комбинаций клавиш](gededitgui_k_tastaturbefehle.md)

@@ -40,7 +40,7 @@
 
 **См. также:**
 
-* [Отображение маркеров ревизии](eplan/revisionmgtgui_k_markierungen.md)
-* [Удалить ревизии](eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
-* [Восстановить удаленные маркеры ревизий](eplan/revisionmgtgui_h_revmarkierungenerzeugen.md)
-* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
+* [Отображение маркеров ревизии](revisionmgtgui_k_markierungen.md)
+* [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
+* [Восстановить удаленные маркеры ревизий](revisionmgtgui_h_revmarkierungenerzeugen.md)
+* [Найти и заменить](searchandreplacegui_k_start.md)

@@ -77,6 +77,6 @@
 
 **См. также:**
 
-* [Печать](eplan/printgui_k_start.md)
-* [Печать: Принцип](eplan/printgui_k_prinzip.md)
-* [Печать страниц](eplan/printgui_h_drucken.md)
+* [Печать](printgui_k_start.md)
+* [Печать: Принцип](printgui_k_prinzip.md)
+* [Печать страниц](printgui_h_drucken.md)

@@ -41,4 +41,4 @@
 
 **См. также:**
 
-* [Блок-схемы рабочего процесса](eplan/functionaldiagramgui_k_start.md)
+* [Блок-схемы рабочего процесса](functionaldiagramgui_k_start.md)

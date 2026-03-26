@@ -29,5 +29,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
-* [Элементы интерфейса пользователя](eplan/userinterface_k_hintergrund.md)
+* [Диалоговое окно Настройки: 2D](gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Элементы интерфейса пользователя](userinterface_k_hintergrund.md)

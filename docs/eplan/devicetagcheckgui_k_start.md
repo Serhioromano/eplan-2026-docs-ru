@@ -12,6 +12,6 @@
 
 **См. также:**
 
-* [Проверить обозначение устройства](eplan/devicetagcheckgui_h_bmueberpruefen.md)
-* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
-* [Диалоговое окно Синтаксическая проверка ОУ](eplan/devicetagcheckgui_d_syntaxfehlermeldung.md)
+* [Проверить обозначение устройства](devicetagcheckgui_h_bmueberpruefen.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Синтаксическая проверка ОУ](devicetagcheckgui_d_syntaxfehlermeldung.md)

@@ -39,4 +39,4 @@
 
 **См. также:**
 
-* [Использовать имеющиеся соединения](eplan/connectionbrowsergui_h_abbuchen.md)
+* [Использовать имеющиеся соединения](connectionbrowsergui_h_abbuchen.md)

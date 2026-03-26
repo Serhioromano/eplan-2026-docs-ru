@@ -42,7 +42,7 @@
 
 * * *
 
-[Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле "Свойства"](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 Для карт ПЛК доступны, в частности, следующие свойства:
 
@@ -91,6 +91,6 @@
 
 **См. также:**
 
-* [Вкладки <Категория функции > / <Категория функции> (Устройство)](eplan/devicetaggui_r_bmdaten.md)
-* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
-* [Структура ПЛК](eplan/plcgui_k_prinzip.md)
+* [Вкладки <Категория функции > / <Категория функции> (Устройство)](devicetaggui_r_bmdaten.md)
+* [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
+* [Структура ПЛК](plcgui_k_prinzip.md)

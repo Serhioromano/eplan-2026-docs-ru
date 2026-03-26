@@ -31,6 +31,6 @@
 
 **См. также:**
 
-* [Редактор контура: Нулевая точка контура](eplan/contoureditorgui_k_nullpunkt.md)
-* [Проверка контуров](eplan/contoureditorgui_h_konturenpruefen.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Редактор контура: Нулевая точка контура](contoureditorgui_k_nullpunkt.md)
+* [Проверка контуров](contoureditorgui_h_konturenpruefen.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)

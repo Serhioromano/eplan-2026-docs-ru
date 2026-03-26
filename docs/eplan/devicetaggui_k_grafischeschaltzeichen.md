@@ -49,4 +49,4 @@
 
 **См. также:**
 
-* [Характеристики графических и внешних функций](eplan/devicetaggui_k_verhaltengrafischerschaltzeichen.md)
+* [Характеристики графических и внешних функций](devicetaggui_k_verhaltengrafischerschaltzeichen.md)

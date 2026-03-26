@@ -28,6 +28,6 @@
 
 **См. также:**
 
-* [Вкладка Узел](eplan/articlesgui_r_baugruppe.md)
-* [Вкладка Модуль](eplan/articlesgui_r_modul.md)
-* [Управление дополнительными частями](news_p_artikelverwaltung_ergaenzungsteile_488170.htm)
+* [Вкладка Узел](articlesgui_r_baugruppe.md)
+* [Вкладка Модуль](articlesgui_r_modul.md)
+* [Управление дополнительными частями](news_p_artikelverwaltung_ergaenzungsteile_488170.md)

@@ -27,12 +27,12 @@
 
 Всплывающее меню:
 
-Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
+Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](userinterface_m_kontextmenu.md).
 
 **См. также:**
 
-* [Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
-* [Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-* [Диалоговое окно Определения функций](eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)
-* [Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
-* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Обозначения и описания выводов устройства](fctdeflibdataexchangegui_k_anschluss.md)
+* [Создать собственные обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Диалоговое окно Определения функций](xfctdefbrowsergui_d_funktionsdefinitionen.md)
+* [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
+* [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)

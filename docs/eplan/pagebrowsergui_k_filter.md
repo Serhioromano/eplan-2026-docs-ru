@@ -43,4 +43,4 @@
 
 **См. также:**
 
-* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
+* [Навигатор страниц](pagebrowsergui_k_start.md)

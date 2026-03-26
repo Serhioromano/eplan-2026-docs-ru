@@ -31,5 +31,5 @@
 
 **См. также:**
 
-* [Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
-* [Диалоговое окно Буквенные обозначения](eplan/numerationgui_d_kennbuchstaben.md)
+* [Наборы буквенных обозначений](fctdeflibdataexchangegui_k_kennbuchstaben.md)
+* [Диалоговое окно Буквенные обозначения](numerationgui_d_kennbuchstaben.md)

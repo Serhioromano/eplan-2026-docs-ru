@@ -32,4 +32,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Выбор символа](eplan/xsbgui_d_symbolauswahl.md)
+* [Диалоговое окно Выбор символа](xsbgui_d_symbolauswahl.md)

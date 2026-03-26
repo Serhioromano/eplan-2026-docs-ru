@@ -13,7 +13,7 @@ Fluid-страницы |  Тип страниц "Схема соединений
   
 **См. также:**
 
-* [Изменение стандарта](eplan/changestandardsgui_k_start.md)
-* [Замена рамки](eplan/changestandardsgui_k_stammdaten.md)
-* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
+* [Изменение стандарта](changestandardsgui_k_start.md)
+* [Замена рамки](changestandardsgui_k_stammdaten.md)
+* [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)

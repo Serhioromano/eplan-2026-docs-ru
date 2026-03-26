@@ -8,4 +8,4 @@
 
 **См. также:**
 
-* [Устройства](eplan/devicelistgui_k_start.md)
+* [Устройства](devicelistgui_k_start.md)

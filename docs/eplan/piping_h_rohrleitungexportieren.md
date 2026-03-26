@@ -18,5 +18,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Экспорт изгибания труб](eplan/ncgui_d_exportpipefab.md)
-* [Диалоговое окно Настройки: Экспорт изгибания труб](eplan/ncgui_d_einstellungenrohrbiegung.md)
+* [Диалоговое окно Экспорт изгибания труб](ncgui_d_exportpipefab.md)
+* [Диалоговое окно Настройки: Экспорт изгибания труб](ncgui_d_einstellungenrohrbiegung.md)

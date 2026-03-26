@@ -21,4 +21,4 @@
 
 **См. также:**
 
-* [Присвоить данные функции условному обозначению](eplan/navigatorgui_h_funktionzuweisen.md)
+* [Присвоить данные функции условному обозначению](navigatorgui_h_funktionzuweisen.md)

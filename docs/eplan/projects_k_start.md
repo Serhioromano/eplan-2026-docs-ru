@@ -8,9 +8,9 @@
 
 **См. также:**
 
-* [Проекты: Принцип](eplan/projects_k_prinzip.md)
-* [Расширения имен файлов и пиктограммы проекта](eplan/projects_k_icons.md)
-* [Создать проекты](eplan/projects_h_projekteerstellen.md)
-* [Режимы обработки при открытии проектов](eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
-* [Создать базовые проекты](eplan/projects_h_basisprojekterstellen.md)
-* [Управление проектами](eplan/prjmanagementgui_k_start.md)
+* [Проекты: Принцип](projects_k_prinzip.md)
+* [Расширения имен файлов и пиктограммы проекта](projects_k_icons.md)
+* [Создать проекты](projects_h_projekteerstellen.md)
+* [Режимы обработки при открытии проектов](projects_k_bearbeitungsmodusbeimoeffnen.md)
+* [Создать базовые проекты](projects_h_basisprojekterstellen.md)
+* [Управление проектами](prjmanagementgui_k_start.md)

@@ -9,23 +9,23 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Тип отчета:
 
 Схема для экспорта / маркировки всегда создается вместе с типом отчета. В этом поле выводится тип отчета, который был выбран для текущей схемы.
 
-[Вкладка Файл](eplan/labelgui_r_datei.md)
+[Вкладка Файл](labelgui_r_datei.md)
 
-[Вкладки Верхний колонтитул / Нижний колонтитул](eplan/labelgui_r_kopfzeile.md)
+[Вкладки Верхний колонтитул / Нижний колонтитул](labelgui_r_kopfzeile.md)
 
-[Вкладка Этикетка](eplan/labelgui_r_datensatz.md)
+[Вкладка Этикетка](labelgui_r_datensatz.md)
 
-[Вкладка Настройки](eplan/labelgui_d_paramartikelauswertung.md)
+[Вкладка Настройки](labelgui_d_paramartikelauswertung.md)
 
 **См. также:**
 
-* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_formatelemente.md)
-* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
-* [Определить верхний колонтитул, область этикетки и нижний колонтитул](eplan/labelgui_h_formatelemfestlegen.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](labelgui_k_aufbaubeschriftung.md)
+* [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](labelgui_k_formatelemente.md)
+* [Создать схему экспорта / маркировки](labelgui_h_beschriftungsschema.md)
+* [Определить верхний колонтитул, область этикетки и нижний колонтитул](labelgui_h_formatelemfestlegen.md)

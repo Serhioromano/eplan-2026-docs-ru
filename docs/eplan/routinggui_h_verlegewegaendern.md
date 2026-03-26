@@ -46,5 +46,5 @@
 
 **См. также:**
 
-* [Генерировать маршрутизируемые соединения: Принцип](eplan/routinggui_k_prinzip.md)
-* [Маршрутизировать соединения](eplan/routinggui_h_verlegen.md)
+* [Генерировать маршрутизируемые соединения: Принцип](routinggui_k_prinzip.md)
+* [Маршрутизировать соединения](routinggui_h_verlegen.md)

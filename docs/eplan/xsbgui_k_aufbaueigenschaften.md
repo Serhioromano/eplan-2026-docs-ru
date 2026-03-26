@@ -11,5 +11,5 @@
 
 **См. также:**
 
-* [Диалоговое окно "Центр вставки"](eplan/insertergui_d_einfuegezentrum.md)
-* [Диалоговое окно Выбор символа](eplan/xsbgui_d_symbolauswahl.md)
+* [Диалоговое окно "Центр вставки"](insertergui_d_einfuegezentrum.md)
+* [Диалоговое окно Выбор символа](xsbgui_d_symbolauswahl.md)

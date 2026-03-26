@@ -13,8 +13,8 @@
 
 **См. также:**
 
-* [Управление правами: Принцип работы](eplan/uradministration_k_prinzip.md)
-* [Импорт пользователей Windows](eplan/uradministration_k_windowsbenutzer.md)
-* [Управление пользователями](eplan/uradministration_h_benutzer.md)
-* [Управление группами пользователей](eplan/uradministration_h_gruppen.md)
-* [Зарегистрировать или поменять пользователя](eplan/uradministration_h_benutzerwechseln.md)
+* [Управление правами: Принцип работы](uradministration_k_prinzip.md)
+* [Импорт пользователей Windows](uradministration_k_windowsbenutzer.md)
+* [Управление пользователями](uradministration_h_benutzer.md)
+* [Управление группами пользователей](uradministration_h_gruppen.md)
+* [Зарегистрировать или поменять пользователя](uradministration_h_benutzerwechseln.md)

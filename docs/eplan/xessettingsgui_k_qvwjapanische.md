@@ -14,4 +14,4 @@ Eplan предоставляет возможность индивидуальн
 
 **См. также:**
 
-* [Подчиненные формы](eplan/formeditorgui_k_bedingteformulare.md)
+* [Подчиненные формы](formeditorgui_k_bedingteformulare.md)

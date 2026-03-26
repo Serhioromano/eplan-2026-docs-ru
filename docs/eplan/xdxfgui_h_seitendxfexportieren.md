@@ -15,5 +15,5 @@
 
 **См. также:**
 
-* [Вкладка Экспорт (Пользователь, DXF)](eplan/xdxfgui_r_export.md)
-* [Диалоговое окно "Экспорт DXF/DWG"](eplan/xdxfgui_d_export.md)
+* [Вкладка Экспорт (Пользователь, DXF)](xdxfgui_r_export.md)
+* [Диалоговое окно "Экспорт DXF/DWG"](xdxfgui_d_export.md)

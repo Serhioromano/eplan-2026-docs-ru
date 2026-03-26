@@ -34,5 +34,5 @@
 
 **См. также:**
 
-* [Создать библиотеки символов](eplan/symboleditorgui_h_symbolbibliothekenanlegen.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Создать библиотеки символов](symboleditorgui_h_symbolbibliothekenanlegen.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)

@@ -21,6 +21,6 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Вставить гиперссылки](eplan/gededitgui_h_hyperlinks.md)
-* [Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](eplan/bakbackupdlggui_d_projektesichern.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Вставить гиперссылки](gededitgui_h_hyperlinks.md)
+* [Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](bakbackupdlggui_d_projektesichern.md)

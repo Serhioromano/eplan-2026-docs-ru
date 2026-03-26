@@ -10,8 +10,8 @@
 
 **См. также:**
 
-* [Внешние отчеты](eplan/labelgui_k_externeauswertungen.md)
-* [Файл экспорта / маркировки / Внешний файл отчетов](eplan/labelgui_k_aufbaubeschriftung.md)
-* [Экспорт данных изготовления / маркировка: Способ действий](eplan/labelgui_k_vorgehensweise.md)
-* [Шаблон Excel для экспорта данных изготовления / маркировки](eplan/labelgui_k_excelexportvorlagen.md)
-* [Создать схему экспорта / маркировки](eplan/labelgui_h_beschriftungsschema.md)
+* [Внешние отчеты](labelgui_k_externeauswertungen.md)
+* [Файл экспорта / маркировки / Внешний файл отчетов](labelgui_k_aufbaubeschriftung.md)
+* [Экспорт данных изготовления / маркировка: Способ действий](labelgui_k_vorgehensweise.md)
+* [Шаблон Excel для экспорта данных изготовления / маркировки](labelgui_k_excelexportvorlagen.md)
+* [Создать схему экспорта / маркировки](labelgui_h_beschriftungsschema.md)

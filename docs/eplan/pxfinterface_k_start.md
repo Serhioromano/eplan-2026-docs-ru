@@ -4,10 +4,10 @@
 
 **См. также:**
 
-* [Внешняя обработка: Принцип работы](eplan/pxfinterface_k_arbeitsweise.md)
-* [Шаблоны Excel для внешней обработки](eplan/pxfinterface_k_excelexportvorlagen.md)
-* [Произвести настройки для внешней обработки](eplan/pxfinterface_h_exporteinstellungen.md)
-* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
-* [Импортировать свойства с внешней обработкой](eplan/pxfinterface_h_datenimportieren.md)
-* [Экспортировать проекты](eplan/projects_h_exportieren.md)
-* [Импортировать проекты](eplan/projects_h_importieren.md)
+* [Внешняя обработка: Принцип работы](pxfinterface_k_arbeitsweise.md)
+* [Шаблоны Excel для внешней обработки](pxfinterface_k_excelexportvorlagen.md)
+* [Произвести настройки для внешней обработки](pxfinterface_h_exporteinstellungen.md)
+* [Экспорт данных для внешней обработки](pxfinterface_h_seitenexportieren.md)
+* [Импортировать свойства с внешней обработкой](pxfinterface_h_datenimportieren.md)
+* [Экспортировать проекты](projects_h_exportieren.md)
+* [Импортировать проекты](projects_h_importieren.md)

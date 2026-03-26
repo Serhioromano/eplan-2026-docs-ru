@@ -28,7 +28,7 @@
 
 Укажите путь и имя файла списка присвоений вручную либо нажмите на , чтобы открыть диалоговое окно для выбора файла.
 
-С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](eplan/modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
+С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
 
 Строка верхн. колонт.:
 
@@ -48,8 +48,8 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Специфич. для ПЛК](eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
-* [Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
-* [Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
-* [Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
-* [Диалоговое окно Формат адресов ПЛК / Формат строки / Адреса в списке присвоений](eplan/plcprocessorgui_d_formatspsadresse.md)
+* [Диалоговое окно Настройки: Специфич. для ПЛК](plcprocessorgui_d_spsspezifischeeinstellungen.md)
+* [Вкладка Адреса (форматы адресов ПЛК)](plcprocessorgui_r_adressen.md)
+* [Вкладка Форматы адресов](plcprocessorgui_r_adressenformate.md)
+* [Вкладка Формат символического адреса](plcprocessorgui_r_formatsymbolischeadresse.md)
+* [Диалоговое окно Формат адресов ПЛК / Формат строки / Адреса в списке присвоений](plcprocessorgui_d_formatspsadresse.md)

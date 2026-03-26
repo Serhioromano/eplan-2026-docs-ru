@@ -20,6 +20,6 @@
 
 **См. также:**
 
-* [Импорт и экспорт пространства конструкции: Принцип](eplan/xdesignspaceimportgui_k_prinzip.md)
-* [Импортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumimportieren.md)
-* [Экспортировать пространство конструкции](eplan/xdesignspaceimportgui_h_konstraumexportieren.md)
+* [Импорт и экспорт пространства конструкции: Принцип](xdesignspaceimportgui_k_prinzip.md)
+* [Импортировать пространство конструкции](xdesignspaceimportgui_h_konstraumimportieren.md)
+* [Экспортировать пространство конструкции](xdesignspaceimportgui_h_konstraumexportieren.md)

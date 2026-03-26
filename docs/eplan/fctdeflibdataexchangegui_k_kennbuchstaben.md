@@ -6,7 +6,7 @@
 
 **См. также:**
 
-* [Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
-* [Собственные обозначения выводов устройства и условные обозначения](eplan/fctdeflibdataexchangegui_k_start.md)
-* [Создать собственные наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
-* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
+* [Собственные обозначения выводов устройства и условные обозначения](fctdeflibdataexchangegui_k_start.md)
+* [Создать собственные наборы буквенных обозначений](fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+* [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)

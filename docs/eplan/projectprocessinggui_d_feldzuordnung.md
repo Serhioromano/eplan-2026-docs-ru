@@ -22,7 +22,7 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Панель инструментов Таблица:
 
@@ -55,6 +55,6 @@
 
 **См. также:**
 
-* [Импортировать в проект устройства и маршрутизируемые соединения: Принцип](eplan/projectprocessinggui_k_prinzip.md)
-* [Диалоговое окно "Импортировать данные устройств"](eplan/projectprocessinggui_d_bmdatenimport.md)
-* [Диалоговое окно "Импортировать данные соединений"](eplan/projectprocessinggui_d_verbindungsdatenimport.md)
+* [Импортировать в проект устройства и маршрутизируемые соединения: Принцип](projectprocessinggui_k_prinzip.md)
+* [Диалоговое окно "Импортировать данные устройств"](projectprocessinggui_d_bmdatenimport.md)
+* [Диалоговое окно "Импортировать данные соединений"](projectprocessinggui_d_verbindungsdatenimport.md)

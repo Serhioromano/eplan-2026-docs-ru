@@ -56,4 +56,4 @@ GRAFCET |  3 / OS3 |  - |  Отключено |  Текст
 
 **См. также:**
 
-* [Диаграммы GRAFCET](eplan/functionaldiagramgui_k_grafcet.md)
+* [Диаграммы GRAFCET](functionaldiagramgui_k_grafcet.md)

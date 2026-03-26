@@ -5,16 +5,16 @@
 Вы открыли редактор, например графический редактор, редактор рамок и т. д.
 
 1. Дважды щелкните по тексту. 
-2. В диалоговом окне Свойства (текст) обрабатываются текст и его свойства. Используйте вкладки [Текст](eplan/gededitgui_r_text.md) и [Формат](eplan/gededitgui_r_format.md), как описано в разделе "Вставить тексты". 
+2. В диалоговом окне Свойства (текст) обрабатываются текст и его свойства. Используйте вкладки [Текст](gededitgui_r_text.md) и [Формат](gededitgui_r_format.md), как описано в разделе "Вставить тексты". 
 3. Щелкните по кнопке [OK].  
   
 Изменения применяются и сразу же становятся видимы на странице. 
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Тексты](eplan/gededitgui_k_texte.md)
-* [Присоединить / отсоединить тексты](eplan/gededitgui_h_texteandocken.md)
-* [Переместить тексты свойств](eplan/gededitgui_h_symboltexteverschieben.md)
-* [Вставить текст](eplan/gededitgui_h_texte.md)
-* [Отобразить пустые тексты и тексты с небольшим размером шрифта](eplan/gededitgui_h_texteanzeigen.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Тексты](gededitgui_k_texte.md)
+* [Присоединить / отсоединить тексты](gededitgui_h_texteandocken.md)
+* [Переместить тексты свойств](gededitgui_h_symboltexteverschieben.md)
+* [Вставить текст](gededitgui_h_texte.md)
+* [Отобразить пустые тексты и тексты с небольшим размером шрифта](gededitgui_h_texteanzeigen.md)

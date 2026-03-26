@@ -16,4 +16,4 @@
 
 **См. также:**
 
-* [Оптимизировать сеть вручную](eplan/routinggui_h_netzmanuelloptimieren.md)
+* [Оптимизировать сеть вручную](routinggui_h_netzmanuelloptimieren.md)

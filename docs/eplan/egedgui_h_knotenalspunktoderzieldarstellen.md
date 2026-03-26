@@ -11,6 +11,6 @@
 
 **См. также:**
 
-* [Определить настройки отображения символов соединений](eplan/egedgui_h_einstellungenanzeigeverdrahtung.md)
-* [Диалоговое окно Настройки: 2D](eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
-* [Диалоговое окно Настройки: Символы соединения](eplan/gedviewer_d_einstellungenverbindungssymbole.md)
+* [Определить настройки отображения символов соединений](egedgui_h_einstellungenanzeigeverdrahtung.md)
+* [Диалоговое окно Настройки: 2D](gedviewer_d_einstellungenbenutzerallgemein.md)
+* [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)

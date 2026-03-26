@@ -37,5 +37,5 @@
 
 **См. также:**
 
-* [Схемы кабельных соединений](eplan/cablegui_k_kabeldarstellungsplan.md)
-* [Сгенерировать схему кабельных соединений](eplan/cablegui_h_kabeldarstellungsplan.md)
+* [Схемы кабельных соединений](cablegui_k_kabeldarstellungsplan.md)
+* [Сгенерировать схему кабельных соединений](cablegui_h_kabeldarstellungsplan.md)

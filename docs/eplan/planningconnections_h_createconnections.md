@@ -58,7 +58,7 @@
 
 **См. также:**
 
-* [Разместить подсоединенные функции](eplan/planningconnections_h_platzieren.md)
-* [Предв. планирование соединений](eplan/planningconnections_k_start.md)
-* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
-* [Автоматически генерировать функции с помощью схемы нумерации](eplan/navigatorgui_h_mehrerfunktionerzeugen.md)
+* [Разместить подсоединенные функции](planningconnections_h_platzieren.md)
+* [Предв. планирование соединений](planningconnections_k_start.md)
+* [Неразмещенные соединения](connectionbrowsergui_k_npv.md)
+* [Автоматически генерировать функции с помощью схемы нумерации](navigatorgui_h_mehrerfunktionerzeugen.md)

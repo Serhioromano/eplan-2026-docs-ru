@@ -11,11 +11,11 @@
 
 **См. также:**
 
-* [Определение искомых понятий](eplan/searchandreplacegui_k_prinzip.md)
-* [Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
-* [Записи в списках результатов](eplan/searchandreplacegui_k_eintraegeergebnisliste.md)
-* [Использование символов-заполнителей](eplan/searchandreplacegui_k_platzhalter.md)
-* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-* [Заменить данные проекта](eplan/searchandreplacegui_h_ersetzen.md)
-* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
-* [Синхронизировать выбор](eplan/searchandreplacegui_h_auswahlsynchronisieren.md)
+* [Определение искомых понятий](searchandreplacegui_k_prinzip.md)
+* [Список результатов](searchandreplacegui_k_ergebnislisten.md)
+* [Записи в списках результатов](searchandreplacegui_k_eintraegeergebnisliste.md)
+* [Использование символов-заполнителей](searchandreplacegui_k_platzhalter.md)
+* [Поиск данных проекта](searchandreplacegui_h_suchen.md)
+* [Заменить данные проекта](searchandreplacegui_h_ersetzen.md)
+* [Обработать записи для поиска](searchandreplacegui_h_bearbeiten.md)
+* [Синхронизировать выбор](searchandreplacegui_h_auswahlsynchronisieren.md)

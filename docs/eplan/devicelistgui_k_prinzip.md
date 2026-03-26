@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Устройства](eplan/devicelistgui_k_start.md)
-* [Список устройств](eplan/devicelistgui_k_geraeteliste.md)
-* [База данных изделий: Модули](eplan/articlesgui_k_module.md)
+* [Устройства](devicelistgui_k_start.md)
+* [Список устройств](devicelistgui_k_geraeteliste.md)
+* [База данных изделий: Модули](articlesgui_k_module.md)

@@ -55,8 +55,8 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](eplan/revisionlogmgtgui_d_einstellungenaenderung.md)
-* [Диалоговое окно Настройки: Ревизия (сравнение свойств проектов)](eplan/revisionmgtgui_d_einstellungen.md)
-* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-* [Генерировать исходный проект](eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+* [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](revisionlogmgtgui_d_einstellungenaenderung.md)
+* [Диалоговое окно Настройки: Ревизия (сравнение свойств проектов)](revisionmgtgui_d_einstellungen.md)
+* [Управление ревизиями](revisionmgtgui_k_start.md)
+* [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
+* [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)

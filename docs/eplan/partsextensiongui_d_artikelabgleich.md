@@ -66,4 +66,4 @@
 
 **См. также:**
 
-* [Основные данные: Управлять данными изделий ](eplan/xmasterdatasettingsgui_h_artikeldatenverwalten.md)
+* [Основные данные: Управлять данными изделий ](xmasterdatasettingsgui_h_artikeldatenverwalten.md)

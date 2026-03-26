@@ -9,16 +9,16 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Вкладки:
 
 Для ввода настроек имеются следующие вкладки.
 
-[Вкладка Экспорт (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_export.md)
+[Вкладка Экспорт (пользователь, Экспорт PDF)](pdfexportgui_r_export.md)
 
-[Вкладка Общее (пользователь, Экспорт PDF)](eplan/pdfexportgui_r_allgemein.md)
+[Вкладка Общее (пользователь, Экспорт PDF)](pdfexportgui_r_allgemein.md)
 
-[Вкладка Страницы устройства](eplan/pdfexportgui_r_bmseiten.md)
+[Вкладка Страницы устройства](pdfexportgui_r_bmseiten.md)
 
-[Вкладка Свойства устройства / Свойства изделия](eplan/pdfexportgui_r_bmeigenschaften.md)
+[Вкладка Свойства устройства / Свойства изделия](pdfexportgui_r_bmeigenschaften.md)

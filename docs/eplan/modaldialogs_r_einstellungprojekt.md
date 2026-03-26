@@ -139,7 +139,7 @@ Eplan выполняет поиск соответствующего ключе�
 
 **См. также:**
 
-* [Автоматический перевод / перевод вручную](eplan/translategui_k_start.md)
-* [Словарь](eplan/translatedbgui_k_start.md)
-* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
+* [Автоматический перевод / перевод вручную](translategui_k_start.md)
+* [Словарь](translatedbgui_k_start.md)
+* [Структура ключевых слов](translatedbgui_k_eingabemoeglichkeit.md)
+* [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)

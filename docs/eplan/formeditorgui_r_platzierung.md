@@ -37,7 +37,7 @@
 
 Форматированные / рассчитанные свойства:
 
-В этом поле можно построчно задавать форматирование и расчет: Щелкните кнопку [...], чтобы открыть диалоговое окно [Формат: Свойство](eplan/eservicesgui_d_formateigenschaft.md) и задать там настройки форматирования для свойств и / или расчетов.
+В этом поле можно построчно задавать форматирование и расчет: Щелкните кнопку [...], чтобы открыть диалоговое окно [Формат: Свойство](eservicesgui_d_formateigenschaft.md) и задать там настройки форматирования для свойств и / или расчетов.
 
 Операция:
 
@@ -96,6 +96,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Тексты заполнителей — <Тип формы>](eplan/formeditorgui_d_platzhaltertexteauswahl.md)
-* [Направление создания отчета форм](eplan/formeditorgui_k_auswertungsrichtung.md)
-* [Вставить и обработать тексты заполнители](eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
+* [Диалоговое окно Тексты заполнителей — <Тип формы>](formeditorgui_d_platzhaltertexteauswahl.md)
+* [Направление создания отчета форм](formeditorgui_k_auswertungsrichtung.md)
+* [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)

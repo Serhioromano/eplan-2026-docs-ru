@@ -81,4 +81,4 @@
 
 **См. также:**
 
-* [Генерировать перекрестные ссылки точек разрыва](eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
+* [Генерировать перекрестные ссылки точек разрыва](xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)

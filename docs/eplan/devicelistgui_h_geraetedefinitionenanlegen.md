@@ -20,5 +20,5 @@
 
 **См. также:**
 
-* [Устройства](eplan/devicelistgui_k_start.md)
-* [Вставить устройства](eplan/devicelistgui_h_geraeteplatzieren.md)
+* [Устройства](devicelistgui_k_start.md)
+* [Вставить устройства](devicelistgui_h_geraeteplatzieren.md)

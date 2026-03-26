@@ -39,6 +39,6 @@
 
 **См. также:**
 
-* [Использовать определенный пользователем порядок свойств](eplan/devicetaggui_h_eigschanordnungen.md)
-* [Диалоговое окно Конфигурировать порядки свойств — <Имя проекта>](eplan/eservicesgui_d_konfigeigenschaftsanordnungen.md)
-* [Вкладка Отображение (Нумерация соединений)](eplan/wirenumberinggui_r_anzeige.md)
+* [Использовать определенный пользователем порядок свойств](devicetaggui_h_eigschanordnungen.md)
+* [Диалоговое окно Конфигурировать порядки свойств — <Имя проекта>](eservicesgui_d_konfigeigenschaftsanordnungen.md)
+* [Вкладка Отображение (Нумерация соединений)](wirenumberinggui_r_anzeige.md)

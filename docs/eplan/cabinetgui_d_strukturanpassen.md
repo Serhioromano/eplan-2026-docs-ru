@@ -36,4 +36,4 @@
 
 **См. также:**
 
-* [Адаптировать структуру пространства листа](eplan/cabinetgui_h_bauraumstrukturanpassen.md)
+* [Адаптировать структуру пространства листа](cabinetgui_h_bauraumstrukturanpassen.md)

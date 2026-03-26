@@ -160,7 +160,7 @@
   
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Определить величины шага](eplan/gededitgui_h_schrittweitenfestlegen.md)
-* [Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
-* [Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)
+* [Управление курсором с помощью клавиатуры](gededitgui_k_cursortastatur.md)
+* [Диалоговое окно Настроить комбинации клавиш](fp_d_tastenkombinationen.md)

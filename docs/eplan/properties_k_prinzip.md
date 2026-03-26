@@ -25,4 +25,4 @@ API-Define (API-имя) |  Имя, под которым свойство мож
 
 **См. также:**
 
-* [Свойства Eplan: Обзор](eplan/properties_o_main.md)
+* [Свойства Eplan: Обзор](properties_o_main.md)

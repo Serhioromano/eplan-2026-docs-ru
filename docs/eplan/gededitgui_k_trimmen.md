@@ -34,7 +34,7 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Обрезка элементов](eplan/gededitgui_h_elementetrimmen.md)
-* [Закругление/скашивание углов (фаски)](eplan/gededitgui_h_eckenrunden.md)
-* [Использование области ввода данных](eplan/gededitgui_h_kommandozeile.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Обрезка элементов](gededitgui_h_elementetrimmen.md)
+* [Закругление/скашивание углов (фаски)](gededitgui_h_eckenrunden.md)
+* [Использование области ввода данных](gededitgui_h_kommandozeile.md)

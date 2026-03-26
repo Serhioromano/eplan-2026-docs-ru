@@ -38,7 +38,7 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Отчеты](eplan/formgeneratorgui_k_start.md)
-* [Вкладка ПЛК](eplan/planninggui_r_sps.md)
-* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Отчеты](formgeneratorgui_k_start.md)
+* [Вкладка ПЛК](planninggui_r_sps.md)
+* [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)

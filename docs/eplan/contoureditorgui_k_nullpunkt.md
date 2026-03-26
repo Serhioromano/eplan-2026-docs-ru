@@ -9,7 +9,7 @@
 
 **См. также:**
 
-* [Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
-* [Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
-* [Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
-* [Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)
+* [Редактор контура: Логические элементы](contoureditorgui_k_logikelemente.md)
+* [Создание контуров](contoureditorgui_h_konturenerzeugen.md)
+* [Обработать свойства точек определения контуров](contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+* [Генерирование и обработка записей данных контура ЧУ](contoureditorgui_h_nckonturdatenbearbeiten.md)

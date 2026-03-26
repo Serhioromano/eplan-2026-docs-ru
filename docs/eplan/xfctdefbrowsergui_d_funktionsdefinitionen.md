@@ -84,12 +84,12 @@
 
 Всплывающее меню:
 
-Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](eplan/userinterface_m_kontextmenu.md).
+Всплывающее меню дает доступ, в зависимости от типа поля (например, дата, целое число, многоязычный), к пунктам меню, при помощи которых вы можете по необходимости, например, влиять на представление таблиц или обрабатывать значения в полях. Обзор пунктов этого всплывающего меню вы можете найти в разделе [Пункты всплывающего меню](userinterface_m_kontextmenu.md).
 
 **См. также:**
 
-* [Функции: Принцип](eplan/xfctdefbrowsergui_k_prinzip.md)
-* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-* [Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
-* [Вкладка Шаблоны функций](eplan/articlesgui_r_funktionsschablone.md)
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
+* [Определения функции: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
+* [Вкладка Шаблоны функций](articlesgui_r_funktionsschablone.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)

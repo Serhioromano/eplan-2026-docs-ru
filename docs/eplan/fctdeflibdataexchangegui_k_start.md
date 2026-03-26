@@ -9,7 +9,7 @@
 
 **См. также:**
 
-* [Обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_k_anschluss.md)
-* [Наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
-* [Создать собственные обозначения и описания выводов устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-* [Создать собственные наборы буквенных обозначений](eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+* [Обозначения и описания выводов устройства](fctdeflibdataexchangegui_k_anschluss.md)
+* [Наборы буквенных обозначений](fctdeflibdataexchangegui_k_kennbuchstaben.md)
+* [Создать собственные обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Создать собственные наборы буквенных обозначений](fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)

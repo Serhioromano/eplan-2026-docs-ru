@@ -35,5 +35,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Символы соединения](eplan/gedviewer_d_einstellungenverbindungssymbole.md)
-* [Вставить символы соединений](eplan/egedgui_h_verbindungsstueckeeinfuegen.md)
+* [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)
+* [Вставить символы соединений](egedgui_h_verbindungsstueckeeinfuegen.md)

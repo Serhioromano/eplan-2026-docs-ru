@@ -42,11 +42,11 @@
 
 **См. также:**
 
-* [Вкладка Страницы](eplan/pagebrowsergui_r_seitenstruktur.md)
-* [Вкладка ОУ](eplan/pagebrowsergui_r_ortkaestenstruktur.md)
-* [Копировать страницы в проекте](eplan/pagebrowsergui_h_seitenkopieren.md)
-* [Копировать страницы между различными проектами](eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
-* [Нумеровать и переименовать страницы](eplan/pagebrowsergui_h_seitennummerieren.md)
-* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
-* [Вставить макросы](eplan/macrosgui_h_makrosauswaehlen.md)
-* [Создать идентификаторы при вставке новых страниц, ОУ и макросов](eplan/pleditorgui_h_kennzanlegenbeineuerseite.md)
+* [Вкладка Страницы](pagebrowsergui_r_seitenstruktur.md)
+* [Вкладка ОУ](pagebrowsergui_r_ortkaestenstruktur.md)
+* [Копировать страницы в проекте](pagebrowsergui_h_seitenkopieren.md)
+* [Копировать страницы между различными проектами](pagebrowsergui_h_seitenkopierenprojekte.md)
+* [Нумеровать и переименовать страницы](pagebrowsergui_h_seitennummerieren.md)
+* [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
+* [Создать идентификаторы при вставке новых страниц, ОУ и макросов](pleditorgui_h_kennzanlegenbeineuerseite.md)

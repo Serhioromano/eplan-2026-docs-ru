@@ -57,12 +57,12 @@
   
 **См. также:**
 
-* [Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
-* [Диалоговое окно Пространство листа — <Имя проекта>](eplan/cabinetgui_d_navigator.md)
-* [Диалоговое окно Предварительное планирование — <Имя проекта>](eplan/planninggui_d_navigator.md)
-* [Диалоговое окно ПЛК — <Имя проекта>](eplan/plcgui_d_spsdaten.md)
-* [Диалоговое окно Топология — <Имя проекта>](eplan/cablinggui_d_navigator.md)
-* [Диалоговое окно Потенциалы - <Имя проекта>](eplan/potentialbrowsergui_d_potenziale.md)
-* [Диалоговое окно Трубопроводы - <Имя проекта>](eplan/potentialbrowsergui_d_rohrleitungen.md)
-* [Диалоговое окно Макросы — <Имя проекта>](eplan/macrosgui_d_makronavigator.md)
-* [Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
+* [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
+* [Диалоговое окно Пространство листа — <Имя проекта>](cabinetgui_d_navigator.md)
+* [Диалоговое окно Предварительное планирование — <Имя проекта>](planninggui_d_navigator.md)
+* [Диалоговое окно ПЛК — <Имя проекта>](plcgui_d_spsdaten.md)
+* [Диалоговое окно Топология — <Имя проекта>](cablinggui_d_navigator.md)
+* [Диалоговое окно Потенциалы - <Имя проекта>](potentialbrowsergui_d_potenziale.md)
+* [Диалоговое окно Трубопроводы - <Имя проекта>](potentialbrowsergui_d_rohrleitungen.md)
+* [Диалоговое окно Макросы — <Имя проекта>](macrosgui_d_makronavigator.md)
+* [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)

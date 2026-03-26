@@ -6,4 +6,4 @@
 
 **См. также:**
 
-* [Введение в Eplan Fluid](eplan/ftechnic_k_start.md)
+* [Введение в Eplan Fluid](ftechnic_k_start.md)

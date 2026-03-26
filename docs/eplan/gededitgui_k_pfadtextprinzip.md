@@ -38,6 +38,6 @@
 
 **См. также:**
 
-* [Функциональные тексты зон](eplan/gededitgui_k_pfadtextstart.md)
-* [Оценка функциональных текстов зон](eplan/gededitgui_k_pfadtextauswertung.md)
-* [Вставить и обработать функциональные тексты зоны](eplan/gededitgui_h_pfadtexteinfuegen.md)
+* [Функциональные тексты зон](gededitgui_k_pfadtextstart.md)
+* [Оценка функциональных текстов зон](gededitgui_k_pfadtextauswertung.md)
+* [Вставить и обработать функциональные тексты зоны](gededitgui_h_pfadtexteinfuegen.md)

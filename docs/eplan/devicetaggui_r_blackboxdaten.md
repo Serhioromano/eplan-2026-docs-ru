@@ -16,7 +16,7 @@
 
 Видимое ОУ будет показано в графическом редакторе рядом с условным обозначением. Если вы определили в настройках проекта, что устройство должно автоматически нумероваться при вставке символов, здесь вам будет автоматически предложено ОУ. Вы можете сохранить или переписать вручную это ОУ.
 
-Кроме того, можно использовать [всплывающее меню или кнопку [...]](eplan/devicetaggui_r_feldsichtbaresbmk.md), чтобы cгенерировать или выбрать ОУ.
+Кроме того, можно использовать [всплывающее меню или кнопку [...]](devicetaggui_r_feldsichtbaresbmk.md), чтобы cгенерировать или выбрать ОУ.
 
 Полное ОУ:
 
@@ -56,11 +56,11 @@
 
 * * *
 
-[Групповое поле "Свойства"](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле "Свойства"](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 **См. также:**
 
-* [Вставить черные ящики](eplan/blackbox_h_kasteneinfuegen.md)
-* [Диалоговое окно Полное ОУ](eplan/devicetaggui_d_vollstaendigesbmk.md)
-* [Определить и форматировать свойства устройства](eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
-* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
+* [Вставить черные ящики](blackbox_h_kasteneinfuegen.md)
+* [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
+* [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
+* [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)

@@ -17,7 +17,7 @@ Eplan проверит шаги обработки в соответствии �
 
 **См. также:**
 
-* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-* [Проверить проекты](eplan/msgmanagementgui_h_prueflauf.md)
-* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-* [Диалоговое окно Выполнить контр. прогон](eplan/xesinspectiongui_d_prueflauf.md)
+* [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
+* [Проверить проекты](msgmanagementgui_h_prueflauf.md)
+* [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
+* [Диалоговое окно Выполнить контр. прогон](xesinspectiongui_d_prueflauf.md)

@@ -22,5 +22,5 @@
 
 **См. также:**
 
-* [Автоматическая интерпретация: Принцип](eplan/cabinetgui_k_schrankinterpretation.md)
-* [Диалоговое окно Выбрать шаблон интерпретации](eplan/cabinetgui_d_musterschrankwaehlen.md)
+* [Автоматическая интерпретация: Принцип](cabinetgui_k_schrankinterpretation.md)
+* [Диалоговое окно Выбрать шаблон интерпретации](cabinetgui_d_musterschrankwaehlen.md)

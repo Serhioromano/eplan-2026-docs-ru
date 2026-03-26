@@ -34,6 +34,6 @@
 
 **См. также:**
 
-* [Типы отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md#I_Montageliste)
-* [Перечни отчетов](eplan/formgeneratorgui_k_auswertungsuebersicht.md)
-* [Управление изделиями: Дополнительные части](eplan/articlesgui_k_ergaenzungsteile.md)
+* [Типы отчетов](formgeneratorgui_k_auswertungsuebersicht.md#I_Montageliste)
+* [Перечни отчетов](formgeneratorgui_k_auswertungsuebersicht.md)
+* [Управление изделиями: Дополнительные части](articlesgui_k_ergaenzungsteile.md)

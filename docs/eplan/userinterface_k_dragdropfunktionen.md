@@ -141,4 +141,4 @@ DXF / DWG |  Вставляет данные AutoCAD.
   
 **См. также:**
 
-* [Интерфейс пользователя](eplan/userinterface_k_start.md)
+* [Интерфейс пользователя](userinterface_k_start.md)

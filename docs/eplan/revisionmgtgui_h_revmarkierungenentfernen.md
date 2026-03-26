@@ -51,4 +51,4 @@
 
 **См. также:**
 
-* [Отображение маркеров ревизии](eplan/revisionmgtgui_k_markierungen.md)
+* [Отображение маркеров ревизии](revisionmgtgui_k_markierungen.md)

@@ -12,5 +12,5 @@
 
 **См. также:**
 
-* [Очистить проект](eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
-* [Диалоговое окно "Настройки: Очистить"](eplan/ProjectCorrectionGui_d_korrektureinstellungen.md)
+* [Очистить проект](ProjectCorrectionGui_h_projektkorrigieren.md)
+* [Диалоговое окно "Настройки: Очистить"](ProjectCorrectionGui_d_korrektureinstellungen.md)

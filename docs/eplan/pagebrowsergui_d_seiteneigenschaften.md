@@ -13,7 +13,7 @@
 
 Полное имя страницы:
 
-При создании страницы Eplan автоматически предлагает для нее имя. Вы можете его скопировать или изменить вручную. Нажав кнопку [...], можно открыть диалоговое окно [Полное имя страницы](eplan/pagebrowsergui_d_seitenname.md) и обработать в нем структурные идентификаторы и имя страницы.
+При создании страницы Eplan автоматически предлагает для нее имя. Вы можете его скопировать или изменить вручную. Нажав кнопку [...], можно открыть диалоговое окно [Полное имя страницы](pagebrowsergui_d_seitenname.md) и обработать в нем структурные идентификаторы и имя страницы.
 
 Тип страницы:
 
@@ -25,7 +25,7 @@
 
 * * *
 
-[Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле Свойства](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 В этой таблице выводятся свойства текущей страницы, которые можно обработать.
 
@@ -37,8 +37,8 @@
 
 **См. также:**
 
-* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-* [Создать и удалить страницы](eplan/pagebrowsergui_h_seitenanlegen.md)
-* [Обработать свойства страниц](eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+* [Навигатор страниц](pagebrowsergui_k_start.md)
+* [Типы страниц](pagebrowsergui_k_seitentypen.md)
+* [Свойства страницы](pagebrowsergui_k_eigenschaften.md)
+* [Создать и удалить страницы](pagebrowsergui_h_seitenanlegen.md)
+* [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)

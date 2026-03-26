@@ -20,4 +20,4 @@
 
 **См. также:**
 
-* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
+* [Выбор изделия / устройства](partselectiongui_k_start.md)

@@ -47,7 +47,7 @@
 
 **См. также:**
 
-* [Список результатов](eplan/searchandreplacegui_k_ergebnislisten.md)
-* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
-* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
-* [Обработать записи для поиска](eplan/searchandreplacegui_h_bearbeiten.md)
+* [Список результатов](searchandreplacegui_k_ergebnislisten.md)
+* [Найти и заменить](searchandreplacegui_k_start.md)
+* [Поиск данных проекта](searchandreplacegui_h_suchen.md)
+* [Обработать записи для поиска](searchandreplacegui_h_bearbeiten.md)

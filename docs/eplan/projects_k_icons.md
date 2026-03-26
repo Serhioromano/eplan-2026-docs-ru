@@ -25,9 +25,9 @@
 
 **См. также:**
 
-* [Проекты](eplan/projects_k_start.md)
-* [Проекты: Принцип](eplan/projects_k_prinzip.md)
-* [Управление проектами](eplan/prjmanagementgui_k_start.md)
-* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-* [Резервирование данных](eplan/bakbackupdlggui_k_start.md)
-* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
+* [Проекты](projects_k_start.md)
+* [Проекты: Принцип](projects_k_prinzip.md)
+* [Управление проектами](prjmanagementgui_k_start.md)
+* [Типы страниц](pagebrowsergui_k_seitentypen.md)
+* [Резервирование данных](bakbackupdlggui_k_start.md)
+* [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)

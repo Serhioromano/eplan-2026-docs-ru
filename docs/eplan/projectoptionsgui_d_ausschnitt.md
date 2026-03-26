@@ -34,5 +34,5 @@
 
 **См. также:**
 
-* [Создание фрагментов](eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
-* [Обработка фрагментов](eplan/projectoptionsgui_h_ausschnittebearbeiten.md)
+* [Создание фрагментов](projectoptionsgui_h_ausschnitteerzeugen.md)
+* [Обработка фрагментов](projectoptionsgui_h_ausschnittebearbeiten.md)

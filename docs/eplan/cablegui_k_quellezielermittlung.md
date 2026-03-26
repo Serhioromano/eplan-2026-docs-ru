@@ -43,5 +43,5 @@
 
 **См. также:**
 
-* [Кабели](eplan/cablegui_k_start.md)
-* [Определение кабелей](eplan/cablegui_k_arbeitsweise.md)
+* [Кабели](cablegui_k_start.md)
+* [Определение кабелей](cablegui_k_arbeitsweise.md)

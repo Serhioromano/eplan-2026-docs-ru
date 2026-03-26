@@ -18,7 +18,7 @@
 
 **См. также:**
 
-* [Макросы](eplan/macrosgui_k_start.md)
-* [Создать макросы](eplan/macrosgui_h_makroserzeugen.md)
-* [Генерировать макросы из файлов DXF / DWG](eplan/macrosgui_h_makrosausdxf.md)
-* [Основные данные: Управлять макросами](eplan/xmasterdatasettingsgui_h_makrosverwalten.md)
+* [Макросы](macrosgui_k_start.md)
+* [Создать макросы](macrosgui_h_makroserzeugen.md)
+* [Генерировать макросы из файлов DXF / DWG](macrosgui_h_makrosausdxf.md)
+* [Основные данные: Управлять макросами](xmasterdatasettingsgui_h_makrosverwalten.md)

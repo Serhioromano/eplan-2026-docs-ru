@@ -9,8 +9,8 @@
 
 **См. также:**
 
-* [Маршрутизируемые соединения (топология): порядок действий](eplan/cablinggui_k_vorgehensweise.md)
-* [Вставить точки маршрутизации (топология)](eplan/cablinggui_h_verlegepunkteeinfuegen.md)
-* [Вставить сегменты маршрутизации (топология)](eplan/cablinggui_h_streckeeinfuegen.md)
-* [Маршрутизировать соединения (топологию)](eplan/cablinggui_h_verlegen.md)
-* [Центр вставки](eplan/insertergui_k_start.md)
+* [Маршрутизируемые соединения (топология): порядок действий](cablinggui_k_vorgehensweise.md)
+* [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
+* [Вставить сегменты маршрутизации (топология)](cablinggui_h_streckeeinfuegen.md)
+* [Маршрутизировать соединения (топологию)](cablinggui_h_verlegen.md)
+* [Центр вставки](insertergui_k_start.md)

@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Импортировать данные предварительного планирования](eplan/planninggui_h_importvorplanung.md)
+* [Импортировать данные предварительного планирования](planninggui_h_importvorplanung.md)

@@ -21,7 +21,7 @@
 
 **См. также:**
 
-* [Создать шаблон отчета](eplan/formgeneratorgui_h_vorlageerstellen.md)
-* [Генерация отчета из шаблона](eplan/formgeneratorgui_h_auswertungausvorlage.md)
-* [Генерация отчета по проекту](eplan/formgeneratorgui_h_projektauswerten.md)
-* [Присвоение формы типу отчета](eplan/formgeneratorgui_h_auswerten.md)
+* [Создать шаблон отчета](formgeneratorgui_h_vorlageerstellen.md)
+* [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
+* [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
+* [Присвоение формы типу отчета](formgeneratorgui_h_auswerten.md)

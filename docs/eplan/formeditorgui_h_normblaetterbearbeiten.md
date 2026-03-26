@@ -34,5 +34,5 @@
 
 **См. также:**
 
-* [Вставить и обработать специальные тексты](eplan/formeditorgui_h_sondertexteeinfuegen.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Вставить и обработать специальные тексты](formeditorgui_h_sondertexteeinfuegen.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)

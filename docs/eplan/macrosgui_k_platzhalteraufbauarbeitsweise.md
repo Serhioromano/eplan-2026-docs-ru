@@ -19,8 +19,8 @@
 
 **См. также:**
 
-* [Макросы](eplan/macrosgui_k_start.md)
-* [Генерировать объекты-заполнители](eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
-* [Вкладка Объект-заполнитель](eplan/macrosgui_d_platzhalterobjekt.md)
-* [Диалоговое окно Настройки: Общие (Пользователь, Представление)](eplan/macrosgui_d_einstellzwischablage.md)
-* [Слои: Принцип](eplan/layermanager_k_prinzip.md)
+* [Макросы](macrosgui_k_start.md)
+* [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
+* [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
+* [Диалоговое окно Настройки: Общие (Пользователь, Представление)](macrosgui_d_einstellzwischablage.md)
+* [Слои: Принцип](layermanager_k_prinzip.md)

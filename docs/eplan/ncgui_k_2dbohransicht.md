@@ -14,6 +14,6 @@
 
 **См. также:**
 
-* [Вставить двухмерное отображение отверстий](ncgui_h_2dbohransichterstellen.htm)
-* [Диалоговое окно Отображения отверстий — <Имя проекта>](gededit3dgui_d_2dbohransichten.htm)
-* [Вкладка Вид (Отобразить отверстия)](gededit3dgui_r_ansicht2dbohransicht.htm)
+* [Вставить двухмерное отображение отверстий](ncgui_h_2dbohransichterstellen.md)
+* [Диалоговое окно Отображения отверстий — <Имя проекта>](gededit3dgui_d_2dbohransichten.md)
+* [Вкладка Вид (Отобразить отверстия)](gededit3dgui_r_ansicht2dbohransicht.md)

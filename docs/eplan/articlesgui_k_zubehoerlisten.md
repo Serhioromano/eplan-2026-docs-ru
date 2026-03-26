@@ -39,7 +39,7 @@
 
 **См. также:**
 
-* [База данных изделий](eplan/articlesgui_k_start.md)
-* [Создать список принадлежностей и присвоить его главному изделию](eplan/articlesgui_h_zubehoerlisteerstellen.md)
-* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
-* [База данных изделий: Модули](eplan/articlesgui_k_module.md)
+* [База данных изделий](articlesgui_k_start.md)
+* [Создать список принадлежностей и присвоить его главному изделию](articlesgui_h_zubehoerlisteerstellen.md)
+* [Диалоговое окно База данных изделий](articlesgui_d_artverw.md)
+* [База данных изделий: Модули](articlesgui_k_module.md)

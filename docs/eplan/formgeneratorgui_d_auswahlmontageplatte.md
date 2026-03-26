@@ -25,4 +25,4 @@
 
 **См. также:**
 
-* [Генерировать диаграммы соединений](eplan/panellayoutgui_h_verbindungsdiagramme.md)
+* [Генерировать диаграммы соединений](panellayoutgui_h_verbindungsdiagramme.md)

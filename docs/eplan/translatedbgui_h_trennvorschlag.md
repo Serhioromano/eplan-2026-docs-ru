@@ -32,6 +32,6 @@ Eplan вставит вертикальную черту.
 
 **См. также:**
 
-* [Создать / выбрать ключевые слова](eplan/translatedbgui_h_stichwortanlegen.md)
-* [Структура ключевых слов](eplan/translatedbgui_k_eingabemoeglichkeit.md)
-* [Зарезервированные специальные символы в ключевых словах](eplan/translatedbgui_k_ueberblickzeichen.md)
+* [Создать / выбрать ключевые слова](translatedbgui_h_stichwortanlegen.md)
+* [Структура ключевых слов](translatedbgui_k_eingabemoeglichkeit.md)
+* [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)

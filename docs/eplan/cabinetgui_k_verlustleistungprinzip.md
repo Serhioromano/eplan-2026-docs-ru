@@ -83,6 +83,6 @@ l = длина шины в [м].
 
 **См. также:**
 
-* [Расчет общей мощности потерь на распределительных устройствах](eplan/cabinetgui_k_verlustleistung.md)
-* [Рассчитать общую мощность потерь на распределительных устройствах](eplan/cabinetgui_h_verlustleistungberechnen.md)
-* [Диалоговое окно "Рассчитать мощность потерь"](eplan/cabinetgui_d_verlustleistungberechnen.md)
+* [Расчет общей мощности потерь на распределительных устройствах](cabinetgui_k_verlustleistung.md)
+* [Рассчитать общую мощность потерь на распределительных устройствах](cabinetgui_h_verlustleistungberechnen.md)
+* [Диалоговое окно "Рассчитать мощность потерь"](cabinetgui_d_verlustleistungberechnen.md)

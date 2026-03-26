@@ -17,7 +17,7 @@
 
 **См. также:**
 
-* [Проекты](eplan/projects_k_start.md)
-* [Управление проектами](eplan/prjmanagementgui_k_start.md)
-* [Импортировать проекты](eplan/projects_h_importieren.md)
-* [Внешняя обработка](eplan/pxfinterface_k_start.md)
+* [Проекты](projects_k_start.md)
+* [Управление проектами](prjmanagementgui_k_start.md)
+* [Импортировать проекты](projects_h_importieren.md)
+* [Внешняя обработка](pxfinterface_k_start.md)

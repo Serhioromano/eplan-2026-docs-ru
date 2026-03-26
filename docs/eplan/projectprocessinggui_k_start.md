@@ -12,6 +12,6 @@
 
 **См. также:**
 
-* [Импортировать в проект устройства и маршрутизируемые соединения: Принцип](eplan/projectprocessinggui_k_prinzip.md)
-* [Импортировать данные устройств и устройства](eplan/projectprocessinggui_h_betriebsmittelimportieren.md)
-* [Импортировать данные соединений и маршрутизируемые соединения](eplan/projectprocessinggui_h_verlegeverbindungenimportieren.md)
+* [Импортировать в проект устройства и маршрутизируемые соединения: Принцип](projectprocessinggui_k_prinzip.md)
+* [Импортировать данные устройств и устройства](projectprocessinggui_h_betriebsmittelimportieren.md)
+* [Импортировать данные соединений и маршрутизируемые соединения](projectprocessinggui_h_verlegeverbindungenimportieren.md)

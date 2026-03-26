@@ -9,5 +9,5 @@
 
 **См. также:**
 
-* [Присвоение данных функции](eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md)
-* [Механические устройства](eplan/navigatorgui_k_mechbetriebsmittel.md)
+* [Присвоение данных функции](navigatorgui_k_zuweisenvonfunktionsdaten.md)
+* [Механические устройства](navigatorgui_k_mechbetriebsmittel.md)

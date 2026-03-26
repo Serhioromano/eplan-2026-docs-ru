@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Автоматически объединить соединения](eplan/routinggui_d_autobuendeln.md)
-* [Автоматически объединить соединения](eplan/routinggui_h_autobuendeln.md)
+* [Диалоговое окно Автоматически объединить соединения](routinggui_d_autobuendeln.md)
+* [Автоматически объединить соединения](routinggui_h_autobuendeln.md)

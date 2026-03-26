@@ -20,5 +20,5 @@
 
 **См. также:**
 
-* [Маршрутизируемые соединения: Принцип](eplan/routinggui_k_prinzip.md)
-* [Управление маршрутизируемыми соединениями](eplan/routinggui_k_verdrahtungsmanager.md)
+* [Маршрутизируемые соединения: Принцип](routinggui_k_prinzip.md)
+* [Управление маршрутизируемыми соединениями](routinggui_k_verdrahtungsmanager.md)

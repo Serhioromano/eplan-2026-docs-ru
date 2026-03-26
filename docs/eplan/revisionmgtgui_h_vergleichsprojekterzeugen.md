@@ -6,7 +6,7 @@
 * Вы обладаете полномочиями на генерирование исходных проектов.
 
 1. Выберите следующие команды: Файл > Управление ревизиями > группа команд Проект > Сравнение свойств > Сгенерировать исходный проект.
-2. В диалоговом окне [Сгенерировать исходный проект](eplan/revisionmgtgui_d_vergleichsprojekterzeugen.md) введите в соответствующих полях имя и краткое описание (необязательно) исходного проекта.
+2. В диалоговом окне [Сгенерировать исходный проект](revisionmgtgui_d_vergleichsprojekterzeugen.md) введите в соответствующих полях имя и краткое описание (необязательно) исходного проекта.
 3. Установите флажок Сгенерировать временный исходный проект, если необходимо сгенерировать временный исходный проект.
 4. Щелкните по кнопке [OK].  
   
@@ -24,8 +24,8 @@
 
 **См. также:**
 
-* [Управление ревизиями](eplan/revisionmgtgui_k_start.md)
-* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-* [Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
-* [Генерировать ревизию](eplan/revisionmgtgui_h_reverzeugen.md)
-* [Удалить защиту от записи](eplan/revisionmgtgui_h_schreibschutzentfernen.md)
+* [Управление ревизиями](revisionmgtgui_k_start.md)
+* [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
+* [Определение настроек сравнения](revisionmgtgui_h_vergleichseinstellungen.md)
+* [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
+* [Удалить защиту от записи](revisionmgtgui_h_schreibschutzentfernen.md)

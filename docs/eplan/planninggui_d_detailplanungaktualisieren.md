@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Предварительное планирование — <Имя проекта>](eplan/planninggui_d_navigator.md)
-* [Синхронизировать изделия предварительного планирования с детальным планированием](eplan/planninggui_h_artikelabgleichen.md)
-* [Создание подробного планирования из макросов](eplan/planninggui_k_grafikausmakros.md)
+* [Диалоговое окно Предварительное планирование — <Имя проекта>](planninggui_d_navigator.md)
+* [Синхронизировать изделия предварительного планирования с детальным планированием](planninggui_h_artikelabgleichen.md)
+* [Создание подробного планирования из макросов](planninggui_k_grafikausmakros.md)

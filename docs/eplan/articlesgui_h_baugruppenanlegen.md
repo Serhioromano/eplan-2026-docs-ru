@@ -53,4 +53,4 @@
 
 **См. также:**
 
-* [Вкладка Узел](eplan/articlesgui_r_baugruppe.md)
+* [Вкладка Узел](articlesgui_r_baugruppe.md)

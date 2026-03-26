@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Неразмещенные соединения](eplan/connectionbrowsergui_k_npv.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Неразмещенные соединения](connectionbrowsergui_k_npv.md)

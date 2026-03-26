@@ -46,5 +46,5 @@
 
 **См. также:**
 
-* [Собственные обозначения выводов устройства и условные обозначения](eplan/fctdeflibdataexchangegui_k_start.md)
-* [Диалоговое окно Настройки: Нумерация (online)](eplan/numerationgui_d_einstellnummerierung.md)
+* [Собственные обозначения выводов устройства и условные обозначения](fctdeflibdataexchangegui_k_start.md)
+* [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)

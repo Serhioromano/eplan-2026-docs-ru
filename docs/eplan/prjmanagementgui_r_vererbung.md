@@ -68,9 +68,9 @@
 
 **См. также:**
 
-* [Работа с вложенными обозначениями местоположения](eplan/locationbox_h_geschachtelte.md)
-* [Черные ящики: Основные положения для вкладывания](eplan/blackbox_k_schachteln.md)
-* [Структура проекта: Основные положения](eplan/projectstructure_k_hinterg.md)
-* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
-* [Вкладка Представление (Расширенные структуры проекта)](eplan/prjmanagementgui_r_darstellungerwprjstrukturen.md)
-* [Создать / выбрать базу данных управления проектами](eplan/prjmanagementgui_h_projekteverwalten.md)
+* [Работа с вложенными обозначениями местоположения](locationbox_h_geschachtelte.md)
+* [Черные ящики: Основные положения для вкладывания](blackbox_k_schachteln.md)
+* [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
+* [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)
+* [Вкладка Представление (Расширенные структуры проекта)](prjmanagementgui_r_darstellungerwprjstrukturen.md)
+* [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)

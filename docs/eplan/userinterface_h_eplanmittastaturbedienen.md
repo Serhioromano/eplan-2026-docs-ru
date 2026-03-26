@@ -68,6 +68,6 @@
 
 **См. также:**
 
-* [Управление курсором с помощью клавиатуры](eplan/gededitgui_k_cursortastatur.md)
-* [Обзор комбинаций клавиш](eplan/gededitgui_k_tastaturbefehle.md)
-* [Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)
+* [Управление курсором с помощью клавиатуры](gededitgui_k_cursortastatur.md)
+* [Обзор комбинаций клавиш](gededitgui_k_tastaturbefehle.md)
+* [Диалоговое окно Настроить комбинации клавиш](fp_d_tastenkombinationen.md)

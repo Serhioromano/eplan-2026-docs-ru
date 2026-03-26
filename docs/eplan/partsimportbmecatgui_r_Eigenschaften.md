@@ -29,4 +29,4 @@
 
 **См. также:**
 
-* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
+* [Диалоговое окно База данных изделий](articlesgui_d_artverw.md)

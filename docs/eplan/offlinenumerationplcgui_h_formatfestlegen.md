@@ -16,7 +16,7 @@
 
 6. Выделите элемент формата в поле Доступные элементы формата и перенесите его с помощью  вправо в список выбранных элементов формата.  
   
-В зависимости от элемента формата открывается следующее диалоговое окно. В зависимости от выбранного элемента формата это может быть одно из следующих диалоговых окон: [Формат: Данные ПЛК](eplan/offlinenumerationplcgui_d_formateigenschaften.md), [Формат: Буквенное обозначение](eplan/offlinenumerationplcgui_d_formatkennbuchstabe.md), [Формат: Страница / столбец / строка](eplan/offlinenumerationplcgui_d_formatseite.md) или [Формат: Разделитель](eplan/offlinenumerationplcgui_d_formattrennzeichen.md).
+В зависимости от элемента формата открывается следующее диалоговое окно. В зависимости от выбранного элемента формата это может быть одно из следующих диалоговых окон: [Формат: Данные ПЛК](offlinenumerationplcgui_d_formateigenschaften.md), [Формат: Буквенное обозначение](offlinenumerationplcgui_d_formatkennbuchstabe.md), [Формат: Страница / столбец / строка](offlinenumerationplcgui_d_formatseite.md) или [Формат: Разделитель](offlinenumerationplcgui_d_formattrennzeichen.md).
 7. Определите форматирование в следующем диалоговом окне.  
   
 В поле Предв. просмотр отображается предварительный просмотр формата нумерации. Отдельные элементы формата выводятся в обозначении соединения в той последовательности, в которой они стоят в списке.
@@ -27,8 +27,8 @@
 
 **См. также:**
 
-* [Диалоговое окно Нумерация с данными ПЛК: Формат](eplan/offlinenumerationplcgui_d_format.md)
-* [Свойства для нумерации с данными ПЛК](eplan/offlinenumerationplcgui_k_eigenschaften.md)
-* [Нумеровать подсоединенные к ПЛК устройства](eplan/offlinenumerationplcgui_h_bmnummerieren.md)
-* [Продолжить нумерацию после функции](eplan/offlinenumerationplcgui_h_einstellungen.md)
-* [Исключить выводы устройства ПЛК из нумерации](eplan/offlinenumerationplcgui_h_ausschliessen.md)
+* [Диалоговое окно Нумерация с данными ПЛК: Формат](offlinenumerationplcgui_d_format.md)
+* [Свойства для нумерации с данными ПЛК](offlinenumerationplcgui_k_eigenschaften.md)
+* [Нумеровать подсоединенные к ПЛК устройства](offlinenumerationplcgui_h_bmnummerieren.md)
+* [Продолжить нумерацию после функции](offlinenumerationplcgui_h_einstellungen.md)
+* [Исключить выводы устройства ПЛК из нумерации](offlinenumerationplcgui_h_ausschliessen.md)

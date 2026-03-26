@@ -17,4 +17,4 @@ Eplan сравнивает библиотеки между собой и выв�
 
 **См. также:**
 
-* [Диалоговое окно Синхронизация основных данных — <Имя проекта>](eplan/prjmanagementgui_d_stammdatenabgleich.md)
+* [Диалоговое окно Синхронизация основных данных — <Имя проекта>](prjmanagementgui_d_stammdatenabgleich.md)

@@ -63,7 +63,7 @@
 
 **См. также:**
 
-* [Навигационный куб](eplan/cabinetgui_k_navigationswuerfel.md)
-* [Виды пространства листа](eplan/cabinetgui_k_bauraumansichten.md)
-* [Диалоговое окно "Виды пространства листа"](eplan/insertergui_d_bauraumansichten.md)
-* [Диалоговое окно Настроить комбинации клавиш](eplan/fp_d_tastenkombinationen.md)
+* [Навигационный куб](cabinetgui_k_navigationswuerfel.md)
+* [Виды пространства листа](cabinetgui_k_bauraumansichten.md)
+* [Диалоговое окно "Виды пространства листа"](insertergui_d_bauraumansichten.md)
+* [Диалоговое окно Настроить комбинации клавиш](fp_d_tastenkombinationen.md)

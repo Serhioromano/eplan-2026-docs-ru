@@ -65,6 +65,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Свойства пространства листа](eplan/cabinetgui_d_bauraumeigenschaften.md)
-* [Диалоговое окно Пространство листа — <Имя проекта>](eplan/cabinetgui_d_navigator.md)
-* [Применение главных клемм](eplan/terminalgui_k_hauptklemmen.md)
+* [Диалоговое окно Свойства пространства листа](cabinetgui_d_bauraumeigenschaften.md)
+* [Диалоговое окно Пространство листа — <Имя проекта>](cabinetgui_d_navigator.md)
+* [Применение главных клемм](terminalgui_k_hauptklemmen.md)

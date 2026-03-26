@@ -31,4 +31,4 @@
 
 **См. также:**
 
-* [Автоматическое указание информации о странице](eplan/formeditorgui_h_seiteninfosautomatischvergeben.md)
+* [Автоматическое указание информации о странице](formeditorgui_h_seiteninfosautomatischvergeben.md)

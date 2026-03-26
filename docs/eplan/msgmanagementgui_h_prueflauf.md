@@ -34,6 +34,6 @@ Eplan проверяет проект в соответствии с настр�
 
 **См. также:**
 
-* [Контрольные прогоны](eplan/msgmanagementgui_k_prueflaufprinzip.md)
-* [Конфигурировать контрольные прогоны](eplan/msgmanagementgui_h_konfigurieren.md)
-* [Диалоговое окно Выполнить контр. прогон](eplan/xesinspectiongui_d_prueflauf.md)
+* [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
+* [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
+* [Диалоговое окно Выполнить контр. прогон](xesinspectiongui_d_prueflauf.md)

@@ -30,7 +30,7 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Защита устройства](eplan/devicetaggui_k_geschuetztebm.md)
-* [Защита от изменений](eplan/devicetaggui_k_aenderungsschutz.md)
-* [Диалоговое окно Настройки: Общее (предварительное планирование)](eplan/planninggui_d_einstellallgemein.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Защита устройства](devicetaggui_k_geschuetztebm.md)
+* [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
+* [Диалоговое окно Настройки: Общее (предварительное планирование)](planninggui_d_einstellallgemein.md)

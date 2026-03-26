@@ -17,9 +17,9 @@
 
 **См. также:**
 
-* [Резервирование данных проекта](eplan/bakbackupdlggui_k_arbeitsweise.md)
-* [Резервирование данных: Принцип](eplan/bakbackupdlggui_k_prinzip.md)
-* [Расширения имен файлов и пиктограммы для проектов](eplan/projects_k_icons.md)
-* [Резервировать проекты](eplan/bakbackupdlggui_h_projektesichern.md)
-* [Восстановить проекты](eplan/bakrestoredlggui_h_projektewiederherstellen.md)
-* [Распаковка проектов](eplan/bakbackupdlggui_h_entpacken.md)
+* [Резервирование данных проекта](bakbackupdlggui_k_arbeitsweise.md)
+* [Резервирование данных: Принцип](bakbackupdlggui_k_prinzip.md)
+* [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)
+* [Резервировать проекты](bakbackupdlggui_h_projektesichern.md)
+* [Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.md)
+* [Распаковка проектов](bakbackupdlggui_h_entpacken.md)

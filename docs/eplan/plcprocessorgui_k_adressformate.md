@@ -67,6 +67,6 @@ C |  ЦПУ: Имя
 
 **См. также:**
 
-* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
-* [Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
-* [ПЛК](eplan/plcgui_k_start.md)
+* [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Формат адреса ПЛК](plcprocessorgui_d_formatspsadresse.md)
+* [ПЛК](plcgui_k_start.md)

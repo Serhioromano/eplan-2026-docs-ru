@@ -26,4 +26,4 @@
 
 **См. также:**
 
-* [Автоматизация зданий](eplan/planninggui_k_gebaeudeautomation.md)
+* [Автоматизация зданий](planninggui_k_gebaeudeautomation.md)

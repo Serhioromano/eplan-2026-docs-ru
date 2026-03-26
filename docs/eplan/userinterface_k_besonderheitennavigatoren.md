@@ -75,5 +75,5 @@
 
 **См. также:**
 
-* [Элементы интерфейса пользователя](eplan/userinterface_k_hintergrund.md)
-* [Пиктограммы в навигаторах](eplan/userinterface_k_iconsnavigatoren.md)
+* [Элементы интерфейса пользователя](userinterface_k_hintergrund.md)
+* [Пиктограммы в навигаторах](userinterface_k_iconsnavigatoren.md)

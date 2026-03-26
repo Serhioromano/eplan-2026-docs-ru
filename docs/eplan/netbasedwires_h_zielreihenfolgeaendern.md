@@ -20,5 +20,5 @@
 
 **См. также:**
 
-* [Вставить точки определения сети](eplan/netbasedwires_h_ndpzeichnen.md)
-* [Определить шлейфы](eplan/netbasedwires_h_verbindungsketten.md)
+* [Вставить точки определения сети](netbasedwires_h_ndpzeichnen.md)
+* [Определить шлейфы](netbasedwires_h_verbindungsketten.md)

@@ -63,6 +63,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Нумерация соединений](eplan/wirenumberinggui_d_verbnumeinstellungen.md)
-* [Произвести настройки для нумерации соединений](eplan/wirenumberinggui_h_einstellungen.md)
-* [Диалоговое окно Сохранить порядок свойств](eplan/devicetaggui_d_eigschanordnungspeichern.md)
+* [Диалоговое окно Настройки: Нумерация соединений](wirenumberinggui_d_verbnumeinstellungen.md)
+* [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
+* [Диалоговое окно Сохранить порядок свойств](devicetaggui_d_eigschanordnungspeichern.md)

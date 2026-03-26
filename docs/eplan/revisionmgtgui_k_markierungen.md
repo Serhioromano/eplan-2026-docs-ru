@@ -40,9 +40,9 @@
 
 **См. также:**
 
-* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-* [Отобразить и скрыть маркеры ревизий](eplan/revisionmgtgui_h_revmarkierungen_anzeigen.md)
-* [Обработать маркер удаления в проектах ревизии](eplan/revisionmgtgui_h_loeschzeichenbearbeiten.md)
-* [Удалить маркеры удаления в проектах со сравнением свойств](eplan/revisionmgtgui_h_loeschzeichenentfernen.md)
-* [Восстановить удаленные маркеры ревизий](eplan/revisionmgtgui_h_revmarkierungenerzeugen.md)
-* [Диалоговое окно Настройки: Общие (Пользователь, Представление)](eplan/macrosgui_d_einstellzwischablage.md)
+* [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
+* [Отобразить и скрыть маркеры ревизий](revisionmgtgui_h_revmarkierungen_anzeigen.md)
+* [Обработать маркер удаления в проектах ревизии](revisionmgtgui_h_loeschzeichenbearbeiten.md)
+* [Удалить маркеры удаления в проектах со сравнением свойств](revisionmgtgui_h_loeschzeichenentfernen.md)
+* [Восстановить удаленные маркеры ревизий](revisionmgtgui_h_revmarkierungenerzeugen.md)
+* [Диалоговое окно Настройки: Общие (Пользователь, Представление)](macrosgui_d_einstellzwischablage.md)

@@ -51,7 +51,7 @@
 
 **См. также:**
 
-* [Определить формат нумерации в режиме подключения](eplan/numerationgui_h_onlineformat.md)
-* [Автоматическая нумерация новых устройств](eplan/numerationgui_h_online.md)
-* [Исключить группы устройств из автоматической нумерации](eplan/numerationgui_h_einstellungentreffen.md)
-* [Устройства в макросе/автоматически нумеровать копии](eplan/numerationgui_h_insertdtviamacros.md)
+* [Определить формат нумерации в режиме подключения](numerationgui_h_onlineformat.md)
+* [Автоматическая нумерация новых устройств](numerationgui_h_online.md)
+* [Исключить группы устройств из автоматической нумерации](numerationgui_h_einstellungentreffen.md)
+* [Устройства в макросе/автоматически нумеровать копии](numerationgui_h_insertdtviamacros.md)

@@ -8,7 +8,7 @@
 
 Обзор основных элементов диалогового окна:
 
-[Определение целей:](eplan/egedgui_d_bruecke.md#Ziele)
+[Определение целей:](egedgui_d_bruecke.md#Ziele)
 
 1\. цель <справа>, 2. цель <слева>:
 
@@ -28,6 +28,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Символы соединения](eplan/gedviewer_d_einstellungenverbindungssymbole.md)
-* [Символы соединения: Отображение направления соединений](eplan/egedgui_k_darstellungverbindungspunkte.md)
-* [Вставить символы соединений](eplan/egedgui_h_verbindungsstueckeeinfuegen.md)
+* [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)
+* [Символы соединения: Отображение направления соединений](egedgui_k_darstellungverbindungspunkte.md)
+* [Вставить символы соединений](egedgui_h_verbindungsstueckeeinfuegen.md)

@@ -14,5 +14,5 @@
 
 **См. также:**
 
-* [Нумерация соединений](eplan/wirenumberinggui_k_start.md)
-* [Разместить точки определения соединения](eplan/wirenumberinggui_h_vdpplatzieren.md)
+* [Нумерация соединений](wirenumberinggui_k_start.md)
+* [Разместить точки определения соединения](wirenumberinggui_h_vdpplatzieren.md)

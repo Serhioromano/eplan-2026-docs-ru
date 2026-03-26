@@ -22,8 +22,8 @@
 
 **См. также:**
 
-* [Основные данные: Основные положения](eplan/xmasterdatasettingsgui_k_grundlagen.md)
-* [Основные данные: Архив данных](eplan/xmasterdatasettingsgui_k_datenablage.md)
-* [Управление основными данными](eplan/xmasterdatasettingsgui_h_stammdatenverwalten.md)
-* [Найти и сохранить недостающие основные данные проекта, обновить проекты](eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
-* [Синхронизировать основные данные](eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)
+* [Основные данные: Основные положения](xmasterdatasettingsgui_k_grundlagen.md)
+* [Основные данные: Архив данных](xmasterdatasettingsgui_k_datenablage.md)
+* [Управление основными данными](xmasterdatasettingsgui_h_stammdatenverwalten.md)
+* [Найти и сохранить недостающие основные данные проекта, обновить проекты](xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
+* [Синхронизировать основные данные](xmasterdatasettingsgui_h_stammdatenabgleichen.md)

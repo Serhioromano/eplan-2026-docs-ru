@@ -31,7 +31,7 @@ Rittal — Perforex LC: Экспортировать данные изготов
   
 **См. также:**
 
-* [Автоматизированная обработка проектов](eplan/autoprocgui_k_start.md)
-* [Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)
-* [Обработать проект автоматически](eplan/autoprocgui_h_protokolldatei.md)
-* [Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)
+* [Автоматизированная обработка проектов](autoprocgui_k_start.md)
+* [Создать схемы для автоматизированной обработки](autoprocgui_h_startactions.md)
+* [Обработать проект автоматически](autoprocgui_h_protokolldatei.md)
+* [Обработать несколько проектов автоматически](autoprocgui_h_ausfuehren.md)

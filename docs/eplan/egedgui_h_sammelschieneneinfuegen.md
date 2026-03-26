@@ -16,4 +16,4 @@
 
 **См. также:**
 
-* [Символы соединения: Сборные шины ](eplan/egedgui_k_sammelschienen.md)
+* [Символы соединения: Сборные шины ](egedgui_k_sammelschienen.md)

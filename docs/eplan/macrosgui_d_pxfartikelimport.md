@@ -26,6 +26,6 @@
 
 **См. также:**
 
-* [Внешняя обработка: Принцип работы](eplan/pxfinterface_k_arbeitsweise.md)
-* [Экспорт данных для внешней обработки](eplan/pxfinterface_h_seitenexportieren.md)
-* [Импортировать свойства с внешней обработкой](eplan/pxfinterface_h_datenimportieren.md)
+* [Внешняя обработка: Принцип работы](pxfinterface_k_arbeitsweise.md)
+* [Экспорт данных для внешней обработки](pxfinterface_h_seitenexportieren.md)
+* [Импортировать свойства с внешней обработкой](pxfinterface_h_datenimportieren.md)

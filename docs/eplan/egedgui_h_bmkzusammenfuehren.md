@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Обзор свойств — <Имя проекта>](eplan/modaldialogsdb_d_eigenschaftenuebersicht.md)
+* [Диалоговое окно Обзор свойств — <Имя проекта>](modaldialogsdb_d_eigenschaftenuebersicht.md)

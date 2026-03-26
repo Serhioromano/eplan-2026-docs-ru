@@ -43,5 +43,5 @@
 
 **См. также:**
 
-* [Сборная шина (изогнутая): Принцип](eplan/copper_k_kupferanschlusselement.md)
-* [Диалоговое окно Сборная шина (изогнутая)](eplan/cabinetgui_d_sammelschienegebogen.md)
+* [Сборная шина (изогнутая): Принцип](copper_k_kupferanschlusselement.md)
+* [Диалоговое окно Сборная шина (изогнутая)](cabinetgui_d_sammelschienegebogen.md)

@@ -11,7 +11,7 @@
 
 В комплекте поставки содержится определение машины с названием "Стандарт". Если в качестве схемы сгенерирована другая машина, можно выбрать из раскрывающегося списка другие определения машины и работать с ними.
 
-Через расположенную рядом [панель инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
+Через расположенную рядом [панель инструментов](schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
 
 Описание:
 
@@ -21,12 +21,12 @@
 
 Для конфигурирования экспорта ЧУ в формате Rittal - Perforex LC / Secarex доступны следующие вкладки:
 
-* [Вкладка Общее](eplan/ncgui_r_allgemeinexportkieslinglc.md)
-* [Вкладка Инструменты](eplan/ncgui_r_werkzeuge.md)
-* [Вкладка Выбор инструмента](eplan/ncgui_r_werkzeugauswahl.md)
-* [Вкладка Технологические перемычки](eplan/ncgui_r_stegparameterlc.md)
-* [Вкладка "Обозначение поля"](eplan/ncgui_r_feldbezeichner.md)
+* [Вкладка Общее](ncgui_r_allgemeinexportkieslinglc.md)
+* [Вкладка Инструменты](ncgui_r_werkzeuge.md)
+* [Вкладка Выбор инструмента](ncgui_r_werkzeugauswahl.md)
+* [Вкладка Технологические перемычки](ncgui_r_stegparameterlc.md)
+* [Вкладка "Обозначение поля"](ncgui_r_feldbezeichner.md)
 
 **См. также:**
 
-* [Диалоговое окно Экспорт Rittal - Perforex LC / Secarex](eplan/ncgui_d_exportkieslinglc.md)
+* [Диалоговое окно Экспорт Rittal - Perforex LC / Secarex](ncgui_d_exportkieslinglc.md)

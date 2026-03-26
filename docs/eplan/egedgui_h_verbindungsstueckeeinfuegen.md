@@ -34,8 +34,8 @@
 
 **См. также:**
 
-* [Показывать символы соединений с определением цели или как точку](eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
-* [Определить настройки отображения символов соединений](eplan/egedgui_h_einstellungenanzeigeverdrahtung.md)
-* [Диалоговое окно Тройник "Направление"](eplan/egedgui_d_tstueck.md)
-* [Диалоговое окно Перемычка](eplan/egedgui_d_bruecke.md)
-* [Диалоговое окно Перекрестное соединение](eplan/egedgui_d_kreuzung.md)
+* [Показывать символы соединений с определением цели или как точку](egedgui_h_knotenalspunktoderzieldarstellen.md)
+* [Определить настройки отображения символов соединений](egedgui_h_einstellungenanzeigeverdrahtung.md)
+* [Диалоговое окно Тройник "Направление"](egedgui_d_tstueck.md)
+* [Диалоговое окно Перемычка](egedgui_d_bruecke.md)
+* [Диалоговое окно Перекрестное соединение](egedgui_d_kreuzung.md)

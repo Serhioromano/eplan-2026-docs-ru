@@ -47,4 +47,4 @@
 
 **См. также:**
 
-* [Следующие формы](eplan/formeditorgui_k_folgeformulare.md)
+* [Следующие формы](formeditorgui_k_folgeformulare.md)

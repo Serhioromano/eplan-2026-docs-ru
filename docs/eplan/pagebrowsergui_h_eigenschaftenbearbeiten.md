@@ -8,7 +8,7 @@
 
 1. Выделите необходимую страницу в дереве или списке. Возможен многократный выбор.
 2. Выберите пункт всплывающего меню Свойства.
-3. Измените требуемые свойства в диалоговом окне [Свойства страницы](eplan/pagebrowsergui_d_seiteneigenschaften.md).
+3. Измените требуемые свойства в диалоговом окне [Свойства страницы](pagebrowsergui_d_seiteneigenschaften.md).
 4. Щелкните по кнопке [OK].
 
 !!! note "Замечание:"
@@ -25,5 +25,5 @@
 
 **См. также:**
 
-* [Свойства страницы](eplan/pagebrowsergui_k_eigenschaften.md)
-* [Свойства Eplan](eplan/properties_o_main.md)
+* [Свойства страницы](pagebrowsergui_k_eigenschaften.md)
+* [Свойства Eplan](properties_o_main.md)

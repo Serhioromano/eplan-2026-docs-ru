@@ -16,7 +16,7 @@
 
 Видимое ОУ будет показано в графическом редакторе рядом с условным обозначением. Если вы определили в настройках проекта, что устройство должно автоматически нумероваться при вставке символов, здесь вам будет автоматически предложено ОУ. Вы можете сохранить или переписать вручную это ОУ.
 
-Кроме того, можно использовать [всплывающее меню или кнопку [...]](eplan/devicetaggui_r_feldsichtbaresbmk.md), чтобы cгенерировать или выбрать ОУ.
+Кроме того, можно использовать [всплывающее меню или кнопку [...]](devicetaggui_r_feldsichtbaresbmk.md), чтобы cгенерировать или выбрать ОУ.
 
 Полное ОУ:
 
@@ -90,10 +90,10 @@
 
 * * *
 
-[Групповое поле Свойства](eplan/devicetaggui_r_gruppenfeldeigenschaften.md)
+[Групповое поле Свойства](devicetaggui_r_gruppenfeldeigenschaften.md)
 
 **См. также:**
 
-* [Генерировать и обработать контакты штекера](eplan/plugsgui_h_steckerkontakteerstlbearb.md)
-* [Диалоговое окно Настройки: Нумерация](eplan/numerationgui_d_einstellnummerierung.md)
-* [Создать собственные обозначения и описания вывода устройства](eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+* [Генерировать и обработать контакты штекера](plugsgui_h_steckerkontakteerstlbearb.md)
+* [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
+* [Создать собственные обозначения и описания вывода устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)

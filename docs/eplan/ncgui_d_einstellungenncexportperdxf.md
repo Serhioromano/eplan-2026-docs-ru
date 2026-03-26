@@ -18,7 +18,7 @@
 
 В комплекте поставки содержится соответствующее определение машины с названием "Стандарт". Если в качестве схемы сгенерирована другая машина, можно выбрать из раскрывающегося списка другие определения машины и работать с ними.
 
-Через расположенную рядом [панель инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
+Через расположенную рядом [панель инструментов](schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
 
 Описание:
 
@@ -28,22 +28,22 @@
 
 Для конфигурирования экспорта ЧУ в формате DXF доступны следующие вкладки:
 
-* [Вкладка DXF общ.](eplan/ncgui_r_dxfallgemein.md)
-* [Вкладка Функциональные элементы](eplan/ncgui_r_dxfbauteile.md)
-* [Вкладка Отверстия](eplan/ncgui_r_dxfbohrungen.md)
-* [Вкладка Резьба](eplan/ncgui_r_dxfgewinde.md)
-* [Вкладка Контуры](eplan/ncgui_r_dxfkonturen.md)
-* [Вкладка Исключения при сверлении](eplan/ncgui_r_bohrausnahmen.md)
+* [Вкладка DXF общ.](ncgui_r_dxfallgemein.md)
+* [Вкладка Функциональные элементы](ncgui_r_dxfbauteile.md)
+* [Вкладка Отверстия](ncgui_r_dxfbohrungen.md)
+* [Вкладка Резьба](ncgui_r_dxfgewinde.md)
+* [Вкладка Контуры](ncgui_r_dxfkonturen.md)
+* [Вкладка Исключения при сверлении](ncgui_r_bohrausnahmen.md)
 
 Для конфигурирования экспорта меди в формате DXF доступны следующие вкладки:
 
-* [Вкладка DXF общ.](eplan/ncgui_r_dxfallgemein.md)
-* [Вкладка Функциональные элементы](eplan/ncgui_r_dxfbauteile.md)
-* [Вкладка Отверстия](eplan/ncgui_r_dxfbohrungen.md)
-* [Вкладка Резьба](eplan/ncgui_r_dxfgewinde.md)
-* [Вкладка Контуры](eplan/ncgui_r_dxfkonturen.md)
+* [Вкладка DXF общ.](ncgui_r_dxfallgemein.md)
+* [Вкладка Функциональные элементы](ncgui_r_dxfbauteile.md)
+* [Вкладка Отверстия](ncgui_r_dxfbohrungen.md)
+* [Вкладка Резьба](ncgui_r_dxfgewinde.md)
+* [Вкладка Контуры](ncgui_r_dxfkonturen.md)
 
 **См. также:**
 
-* [Диалоговое окно Экспорт: ЧУ DXF](eplan/ncgui_d_exportperdxf.md)
-* [Диалоговое окно Экспорт: Медь DXF](eplan/ncgui_d_exportkupferdxf.md)
+* [Диалоговое окно Экспорт: ЧУ DXF](ncgui_d_exportperdxf.md)
+* [Диалоговое окно Экспорт: Медь DXF](ncgui_d_exportkupferdxf.md)

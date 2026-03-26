@@ -34,5 +34,5 @@
 
 **См. также:**
 
-* [Активировать монтажные поверхности](eplan/cabinetgui_h_aktivierenautomatisch.md)
-* [Черчение запретных для размещения зон в трехмерном чертеже монтажных поверхностей](eplan/cabinetgui_h_sperrflaechenzeichnen.md)
+* [Активировать монтажные поверхности](cabinetgui_h_aktivierenautomatisch.md)
+* [Черчение запретных для размещения зон в трехмерном чертеже монтажных поверхностей](cabinetgui_h_sperrflaechenzeichnen.md)

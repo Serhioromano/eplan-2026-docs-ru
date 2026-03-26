@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Нумерация / технологические контуры](eplan/planninggui_d_einstellpltstellen.md)
-* [Технологические контуры в предварительном планировании](eplan/planninggui_k_pltstellen.md)
+* [Диалоговое окно Настройки: Нумерация / технологические контуры](planninggui_d_einstellpltstellen.md)
+* [Технологические контуры в предварительном планировании](planninggui_k_pltstellen.md)

@@ -81,5 +81,5 @@
 
 **См. также:**
 
-* [Выбор изделия / устройства](eplan/partselectiongui_k_start.md)
-* [Выбрать устройства](eplan/partselectiongui_h_geraeteauswahl.md)
+* [Выбор изделия / устройства](partselectiongui_k_start.md)
+* [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)

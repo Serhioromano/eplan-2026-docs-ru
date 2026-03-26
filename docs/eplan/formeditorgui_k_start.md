@@ -22,6 +22,6 @@
 
 **См. также:**
 
-* [Структура форм и рамок](eplan/formeditorgui_k_grundlagen.md)
-* [Заполнители в формах и рамках](eplan/formeditorgui_k_platzhalter.md)
-* [Следующие формы](eplan/formeditorgui_k_folgeformulare.md)
+* [Структура форм и рамок](formeditorgui_k_grundlagen.md)
+* [Заполнители в формах и рамках](formeditorgui_k_platzhalter.md)
+* [Следующие формы](formeditorgui_k_folgeformulare.md)

@@ -33,5 +33,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Работать с группами элементов](eplan/gededitgui_h_elementegruppieren.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Работать с группами элементов](gededitgui_h_elementegruppieren.md)

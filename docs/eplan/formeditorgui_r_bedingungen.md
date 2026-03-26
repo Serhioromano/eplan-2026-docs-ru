@@ -36,5 +36,5 @@
 
 **См. также:**
 
-* [Динамические формы](eplan/formeditorgui_k_dynamformulare.md)
-* [Диалоговое окно Условия](eplan/formeditorgui_d_bedingungen.md)
+* [Динамические формы](formeditorgui_k_dynamformulare.md)
+* [Диалоговое окно Условия](formeditorgui_d_bedingungen.md)

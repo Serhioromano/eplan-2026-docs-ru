@@ -34,6 +34,6 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
-* [Проекты](eplan/projects_k_start.md)
-* [Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
+* [Диалоговое окно Настройки: Интерфейс пользователя](settingsmastergui_d_oberflaecheneinstellungen.md)
+* [Проекты](projects_k_start.md)
+* [Базовые проекты](projects_k_basisprojekteerweitert.md)

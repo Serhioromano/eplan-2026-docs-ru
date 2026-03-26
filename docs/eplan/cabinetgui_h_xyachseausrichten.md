@@ -31,5 +31,5 @@
 
 **См. также:**
 
-* [Определить монтажную поверхность](eplan/cabinetgui_h_montageflaechedefinieren.md)
-* [Повернуть объекты вокруг оси](eplan/cabinetgui_h_drehenxyz.md)
+* [Определить монтажную поверхность](cabinetgui_h_montageflaechedefinieren.md)
+* [Повернуть объекты вокруг оси](cabinetgui_h_drehenxyz.md)

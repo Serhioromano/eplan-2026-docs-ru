@@ -86,10 +86,10 @@
 
 **См. также:**
 
-* [Определить формат и объем нумерации](eplan/offlinenumerationplcgui_h_formatfestlegen.md)
-* [Нумерация с данными выводов устройства ПЛК](eplan/offlinenumerationplcgui_k_prinzip.md)
-* [Диалоговое окно Настройки: Нумерация с данными ПЛК](eplan/offlinenumerationplcgui_d_einstellungen.md)
-* [Диалоговое окно Формат: Данные ПЛК](eplan/offlinenumerationplcgui_d_formateigenschaften.md)
-* [Диалоговое окно Формат: Страница / столбец / строка (нумерация с данными ПЛК)](eplan/offlinenumerationplcgui_d_formatseite.md)
-* [Диалоговое окно Формат: Буквенное обозначение](eplan/offlinenumerationplcgui_d_formatkennbuchstabe.md)
-* [Диалоговое окно Формат: Разделитель (нумерация с данными ПЛК)](eplan/offlinenumerationplcgui_d_formattrennzeichen.md)
+* [Определить формат и объем нумерации](offlinenumerationplcgui_h_formatfestlegen.md)
+* [Нумерация с данными выводов устройства ПЛК](offlinenumerationplcgui_k_prinzip.md)
+* [Диалоговое окно Настройки: Нумерация с данными ПЛК](offlinenumerationplcgui_d_einstellungen.md)
+* [Диалоговое окно Формат: Данные ПЛК](offlinenumerationplcgui_d_formateigenschaften.md)
+* [Диалоговое окно Формат: Страница / столбец / строка (нумерация с данными ПЛК)](offlinenumerationplcgui_d_formatseite.md)
+* [Диалоговое окно Формат: Буквенное обозначение](offlinenumerationplcgui_d_formatkennbuchstabe.md)
+* [Диалоговое окно Формат: Разделитель (нумерация с данными ПЛК)](offlinenumerationplcgui_d_formattrennzeichen.md)

@@ -6,8 +6,8 @@
 
 **См. также:**
 
-* [Многопользовательский монитор: Принцип](eplan/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md)
-* [Многопользовательский монитор: Способ действий](eplan/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md)
-* [Диалоговое окно Многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_monitor.md)
-* [Диалоговое окно Настройки: многопользовательский монитор](eplan/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
-* [Многопользовательский режим](eplan/xesmultiuserconflictgui_k_start.md)
+* [Многопользовательский монитор: Принцип](eplan.eplcoreaddin.multiusermonitor_k_prinzip.md)
+* [Многопользовательский монитор: Способ действий](eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md)
+* [Диалоговое окно Многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_d_monitor.md)
+* [Диалоговое окно Настройки: многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
+* [Многопользовательский режим](xesmultiuserconflictgui_k_start.md)

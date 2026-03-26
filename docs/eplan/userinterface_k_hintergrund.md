@@ -1,6 +1,6 @@
 ## Элементы интерфейса пользователя
 
-При запуске Eplan открывается с предварительно сконфигурированным пользовательским интерфейсом. Вы можете выбрать светлый или темный дизайн интерфейса пользователя. Соответствующие действия можно выполнить в настройках пользователя интерфейса с помощью настройки [Дизайн интерфейса](eplan/settingsmastergui_d_oberflaecheneinstellungen.md).
+При запуске Eplan открывается с предварительно сконфигурированным пользовательским интерфейсом. Вы можете выбрать светлый или темный дизайн интерфейса пользователя. Соответствующие действия можно выполнить в настройках пользователя интерфейса с помощью настройки [Дизайн интерфейса](settingsmastergui_d_oberflaecheneinstellungen.md).
 
 Вы можете настроить стандартный вид интерфейса пользователя в соответствии с собственными потребностями. Диалоговые окна, например навигатор страниц, которые вы часто используете для обработки данных, можно оставить на экране Eplan на необходимый период времени, отсоединив их от главного окна Eplan.
 
@@ -114,10 +114,10 @@
 
 **См. также:**
 
-* [Диалоговые окна](eplan/userinterface_k_dialoge.md)
-* [Особенности навигаторов](eplan/userinterface_k_besonderheitennavigatoren.md)
-* [Фильтр](eplan/modaldialogsdb_k_filter.md)
-* [Работать с рабочими областями](eplan/modaldialogs_h_mitarbeitsbereichenarbeiten.md)
-* [Управление Eplan с помощью клавиатуры](eplan/userinterface_h_eplanmittastaturbedienen.md)
-* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
-* [Настроить панель быстрого доступа](eplan/userinterface_h_schnellzugriffanpassen.md)
+* [Диалоговые окна](userinterface_k_dialoge.md)
+* [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
+* [Фильтр](modaldialogsdb_k_filter.md)
+* [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
+* [Управление Eplan с помощью клавиатуры](userinterface_h_eplanmittastaturbedienen.md)
+* [Настроить ленту](userinterface_h_menuebandanpassen.md)
+* [Настроить панель быстрого доступа](userinterface_h_schnellzugriffanpassen.md)

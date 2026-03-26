@@ -37,4 +37,4 @@
 
 **См. также:**
 
-* [Обработать медную шину](eplan/copper_h_kupferteilbearbeiten.md)
+* [Обработать медную шину](copper_h_kupferteilbearbeiten.md)

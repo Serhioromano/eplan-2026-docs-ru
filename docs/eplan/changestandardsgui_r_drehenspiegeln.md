@@ -10,7 +10,7 @@
 
 Если на вкладке Проект установлен флажок Скопировать свойства проекта из исходного проекта, свойства проекта будут скопированы не из базового проекта, а из исходного.
 
-С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](eplan/modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
+С помощью пункта всплывающего меню Вставить переменную пути перейдите в диалоговое окно [Выбрать переменную пути](modaldialogsdb_d_pfadvariablen.md), из которого можно будет скопировать одну из доступных переменных пути.
 
 Поворот / инверсия:
 
@@ -22,8 +22,8 @@
 
 **См. также:**
 
-* [Базовые проекты](eplan/projects_k_basisprojekteerweitert.md)
-* [Настроить целевой проект (изменение стандарта)](eplan/changestandardsgui_h_projektanpassen.md)
-* [Задать базовый проект и поворот / инверсию (изменение стандарта)](eplan/changestandardsgui_h_vorlagefestlegen.md)
-* [Создать схему присвоения для символов (изменение стандарта)](eplan/changestandardsgui_h_stammdatenersetzen.md)
-* [Определить структуру проекта (изменение стандарта)](eplan/changestandardsgui_h_projektstrukturanpassen.md)
+* [Базовые проекты](projects_k_basisprojekteerweitert.md)
+* [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
+* [Задать базовый проект и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
+* [Создать схему присвоения для символов (изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
+* [Определить структуру проекта (изменение стандарта)](changestandardsgui_h_projektstrukturanpassen.md)

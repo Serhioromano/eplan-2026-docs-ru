@@ -12,4 +12,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Генерировать ревизию](eplan/revisionlogmgtgui_d_revisionerzeugen.md)
+* [Диалоговое окно Генерировать ревизию](revisionlogmgtgui_d_revisionerzeugen.md)

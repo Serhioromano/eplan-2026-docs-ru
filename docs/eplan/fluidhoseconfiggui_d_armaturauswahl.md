@@ -1,6 +1,6 @@
 ## Диалоговое окно "Выбрать арматуру"
 
-Открыто диалоговое окно [Обработать <...>](eplan/fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md). Щелкните в поле Арматура слева или Арматура справа по [...].
+Открыто диалоговое окно [Обработать <...>](fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md). Щелкните в поле Арматура слева или Арматура справа по [...].
 
 В этом диалоговом окне выберите арматуру, которую необходимо монтировать на шланг слева или справа. Если в настройках вы выбрали по умолчанию настроенную схему DIN 20066_2012-01, вам будут предложены на выбор типы конструкций и серии, представленные в стандарте DIN 20066, с соответствующей графикой предварительного просмотра.
 
@@ -30,6 +30,6 @@
 
 **См. также:**
 
-* [Выбрать арматуру](eplan/fluidhoseconfiggui_h_armaturenauswaehlen.md)
-* [Конфигурировать шлангопроводы](eplan/fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
-* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](eplan/fluidhoseconfiggui_d_einstellungen.md)
+* [Выбрать арматуру](fluidhoseconfiggui_h_armaturenauswaehlen.md)
+* [Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
+* [Диалоговое окно Настройки: Конфигуратор шлангопроводов](fluidhoseconfiggui_d_einstellungen.md)

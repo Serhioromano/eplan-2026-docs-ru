@@ -30,9 +30,9 @@
 
 **См. также:**
 
-* [Настройки](eplan/settingsmastergui_k_start.md)
-* [Диалоговое окно Настройки](eplan/settingsmastergui_d_systeinstellungen.md)
-* [Просмотр и изменение настроек](eplan/settingsmastergui_h_einstellungenansehen.md)
-* [Импорт / экспорт настроек](eplan/settingsmastergui_h_importieren_exportieren.md)
-* [Сброс настроек на стандартные значения](eplan/settingsmastergui_h_einstellungenaufstandard.md)
-* [Диалоговое окно Настройки: Интерфейс пользователя](eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
+* [Настройки](settingsmastergui_k_start.md)
+* [Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.md)
+* [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
+* [Импорт / экспорт настроек](settingsmastergui_h_importieren_exportieren.md)
+* [Сброс настроек на стандартные значения](settingsmastergui_h_einstellungenaufstandard.md)
+* [Диалоговое окно Настройки: Интерфейс пользователя](settingsmastergui_d_oberflaecheneinstellungen.md)

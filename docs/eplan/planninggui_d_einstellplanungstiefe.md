@@ -19,5 +19,5 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Управление сообщениями Eplan](eplan/msgmanagementgui_k_start.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Управление сообщениями Eplan](msgmanagementgui_k_start.md)

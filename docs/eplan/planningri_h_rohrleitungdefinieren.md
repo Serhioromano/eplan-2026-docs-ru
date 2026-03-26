@@ -46,7 +46,7 @@
 
 **См. также:**
 
-* [Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](eplan/planninggui_h_planungsobjekteerstellen.md)
-* [Определения трубопровода на функциональной схеме автоматизации](eplan/planningri_k_rdp.md)
-* [Маркировать и обработать трассу трубопровода](eplan/planningri_h_rohrleitungmarkieren.md)
-* [Вставить прерывания для трубопроводов](eplan/planningri_h_rohrleitungunterbrechen.md)
+* [Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](planninggui_h_planungsobjekteerstellen.md)
+* [Определения трубопровода на функциональной схеме автоматизации](planningri_k_rdp.md)
+* [Маркировать и обработать трассу трубопровода](planningri_h_rohrleitungmarkieren.md)
+* [Вставить прерывания для трубопроводов](planningri_h_rohrleitungunterbrechen.md)

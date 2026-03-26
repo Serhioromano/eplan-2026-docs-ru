@@ -8,7 +8,7 @@
 
 Вы можете сначала создать клеммники без предварительного определения, а позднее обработать их свойства. Однако, Вы можете также устанавливать свойства клеммников сразу при их создании. С помощью определений функций Вы можете создавать клеммник с предварительно определенными свойствами.
 
-Во вкладке [Определение клеммника](eplan/devicetaggui_r_klemmenleisten.md) диалогового окна Свойства выполняется обработка свойств клеммника.
+Во вкладке [Определение клеммника](devicetaggui_r_klemmenleisten.md) диалогового окна Свойства выполняется обработка свойств клеммника.
 
 ### Создание клеммников
 
@@ -38,8 +38,8 @@
 
 **См. также:**
 
-* [Вставить клеммы и определения клеммников](eplan/terminalgui_h_klemmenzeichnen.md)
-* [Определить строение клеммников](eplan/terminalgui_h_funktionsschabloneerzeugen.md)
-* [Обработать свойства устройств](eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
-* [Диалоговое окно Клеммники <Имя проекта>](eplan/terminalgui_d_klemmennavigator.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Вставить клеммы и определения клеммников](terminalgui_h_klemmenzeichnen.md)
+* [Определить строение клеммников](terminalgui_h_funktionsschabloneerzeugen.md)
+* [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
+* [Диалоговое окно Клеммники <Имя проекта>](terminalgui_d_klemmennavigator.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)

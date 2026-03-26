@@ -67,4 +67,4 @@
 
 **См. также:**
 
-* [Определить пользовательскую структуру проекта](eplan/projectstructure_h_frhierarchienerstellen.md)
+* [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)

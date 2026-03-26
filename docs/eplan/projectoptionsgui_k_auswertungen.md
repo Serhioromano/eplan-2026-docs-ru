@@ -31,4 +31,4 @@
 
 **См. также:**
 
-* [Опции](eplan/projectoptionsgui_k_start.md)
+* [Опции](projectoptionsgui_k_start.md)

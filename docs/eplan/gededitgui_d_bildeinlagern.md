@@ -16,6 +16,6 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Вставить графические файлы](eplan/gededitgui_h_bilddateien.md)
-* [Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](eplan/bakbackupdlggui_d_projektesichern.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Вставить графические файлы](gededitgui_h_bilddateien.md)
+* [Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"](bakbackupdlggui_d_projektesichern.md)

@@ -11,7 +11,7 @@
 Схема:
 
 Выберите из раскрывающегося списка схему, которая задает специфические для ПЛК настройки. Предварительная настройка для схемы зависит от записи, выбранной в раскрывающемся списке Специфические для ПЛК настройки (диалоговое окно Настройки: ПЛК).  
-Через расположенную рядом [панель инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
+Через расположенную рядом [панель инструментов](schemeconfig_m_schemaschaltflaechen.md) можно создавать новые схемы, сохранять изменения в схеме, копировать или удалить схему. Кроме того, схемы можно импортировать и экспортировать.
 
 Описание:
 
@@ -28,8 +28,8 @@
 
 **См. также:**
 
-* [Вкладка Адреса (форматы адресов ПЛК)](eplan/plcprocessorgui_r_adressen.md)
-* [Вкладка Форматы адресов](eplan/plcprocessorgui_r_adressenformate.md)
-* [Вкладка Формат списка присвоений](eplan/plcprocessorgui_r_formatzuordnungsliste.md)
-* [Вкладка Формат символического адреса](eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
-* [Диалоговое окно Настройки: ПЛК](eplan/plcgui_d_allgemeinespseinstellungen.md)
+* [Вкладка Адреса (форматы адресов ПЛК)](plcprocessorgui_r_adressen.md)
+* [Вкладка Форматы адресов](plcprocessorgui_r_adressenformate.md)
+* [Вкладка Формат списка присвоений](plcprocessorgui_r_formatzuordnungsliste.md)
+* [Вкладка Формат символического адреса](plcprocessorgui_r_formatsymbolischeadresse.md)
+* [Диалоговое окно Настройки: ПЛК](plcgui_d_allgemeinespseinstellungen.md)

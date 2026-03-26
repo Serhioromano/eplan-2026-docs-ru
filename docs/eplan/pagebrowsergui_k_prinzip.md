@@ -68,8 +68,8 @@
 
 **См. также:**
 
-* [Навигатор страниц](eplan/pagebrowsergui_k_start.md)
-* [Типы страниц](eplan/pagebrowsergui_k_seitentypen.md)
-* [Управление проектами](eplan/prjmanagementgui_k_start.md)
-* [Диалоговое окно Настройки: Структура дерева (...)](eplan/modaldialogsdb_d_einstellprjstruktur.md)
-* [Задать представление структуры дерева в навигаторах](eplan/projectstructure_h_kennzeichenausblenden.md)
+* [Навигатор страниц](pagebrowsergui_k_start.md)
+* [Типы страниц](pagebrowsergui_k_seitentypen.md)
+* [Управление проектами](prjmanagementgui_k_start.md)
+* [Диалоговое окно Настройки: Структура дерева (...)](modaldialogsdb_d_einstellprjstruktur.md)
+* [Задать представление структуры дерева в навигаторах](projectstructure_h_kennzeichenausblenden.md)

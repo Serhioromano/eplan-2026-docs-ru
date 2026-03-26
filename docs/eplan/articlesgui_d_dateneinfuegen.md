@@ -42,5 +42,5 @@
 
 **См. также:**
 
-* [Диалоговое окно База данных изделий](eplan/articlesgui_d_artverw.md)
-* [Копировать изделие и вставить данные](eplan/articlesgui_h_artikelkopieren.md)
+* [Диалоговое окно База данных изделий](articlesgui_d_artverw.md)
+* [Копировать изделие и вставить данные](articlesgui_h_artikelkopieren.md)

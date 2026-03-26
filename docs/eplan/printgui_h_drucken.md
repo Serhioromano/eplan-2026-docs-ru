@@ -32,7 +32,7 @@
 
 **См. также:**
 
-* [Печать](eplan/printgui_k_start.md)
-* [Диалоговое окно Печать](eplan/printgui_d_drucken.md)
-* [Диалоговое окно Настройки: Печать](eplan/printgui_d_druckoptionen.md)
-* [Диалоговое окно Страницы — <Имя проекта>](eplan/pagebrowsergui_d_seitenuebersicht.md)
+* [Печать](printgui_k_start.md)
+* [Диалоговое окно Печать](printgui_d_drucken.md)
+* [Диалоговое окно Настройки: Печать](printgui_d_druckoptionen.md)
+* [Диалоговое окно Страницы — <Имя проекта>](pagebrowsergui_d_seitenuebersicht.md)

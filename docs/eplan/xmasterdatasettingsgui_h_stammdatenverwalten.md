@@ -4,15 +4,15 @@
 
 Собственно сохранение и управление зависят, в таком случае, от соответствующего типа основных данных, при этом различают управление следующими объектами:
 
-* [Данные изделия](eplan/xmasterdatasettingsgui_h_artikeldatenverwalten.md)
+* [Данные изделия](xmasterdatasettingsgui_h_artikeldatenverwalten.md)
 * Формы
 * Рамки
-* [Макросы](eplan/xmasterdatasettingsgui_h_makrosverwalten.md)
+* [Макросы](xmasterdatasettingsgui_h_makrosverwalten.md)
 * Библиотеки символов.
 
 Если настроенной формы / рамки и т.д. нет в пуле основных данных, ее можно найти и, в случае необходимости, автоматически сохранить с помощью команды Дополнить проект. если отсутствующие основные данные не могут быть дополнительно загружены из пула основных данных, появляется соответствующее сообщение.
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Каталоги](eplan/modaldialogs_d_einstellungenverzeichnisse.md)
-* [Найти и сохранить недостающие основные данные проекта, обновить проекты](eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
+* [Диалоговое окно Настройки: Каталоги](modaldialogs_d_einstellungenverzeichnisse.md)
+* [Найти и сохранить недостающие основные данные проекта, обновить проекты](xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)

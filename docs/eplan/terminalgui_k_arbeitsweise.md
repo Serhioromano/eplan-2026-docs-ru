@@ -20,5 +20,5 @@
 
 **См. также:**
 
-* [Создать и обработать клеммники](eplan/terminalgui_h_klemmenleistenerstlbearb.md)
-* [Создать и обработать клеммы](eplan/terminalgui_h_klemmenerstlbearb.md)
+* [Создать и обработать клеммники](terminalgui_h_klemmenleistenerstlbearb.md)
+* [Создать и обработать клеммы](terminalgui_h_klemmenerstlbearb.md)

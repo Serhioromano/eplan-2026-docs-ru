@@ -26,5 +26,5 @@
 
 **См. также:**
 
-* [Определенные пользователем свойства](eplan/userdefproperties_k_start.md)
-* [Диалоговое окно Произвольн. свойства](eplan/articlesgui_d_freieeigenschaften.md)
+* [Определенные пользователем свойства](userdefproperties_k_start.md)
+* [Диалоговое окно Произвольн. свойства](articlesgui_d_freieeigenschaften.md)

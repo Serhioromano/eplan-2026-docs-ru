@@ -41,6 +41,6 @@
 
 **См. также:**
 
-* [Устройство](eplan/devicetaggui_k_start.md)
-* [Перенос ОУ](eplan/devicetaggui_k_bmkuebernahme.md)
-* [Определить направление поиска для переноса ОУ](eplan/devicetaggui_h_bmkuebernahmefestlegen.md)
+* [Устройство](devicetaggui_k_start.md)
+* [Перенос ОУ](devicetaggui_k_bmkuebernahme.md)
+* [Определить направление поиска для переноса ОУ](devicetaggui_h_bmkuebernahmefestlegen.md)

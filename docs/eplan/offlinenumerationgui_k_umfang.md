@@ -16,4 +16,4 @@
   
 **См. также:**
 
-* [Автономная нумерация устройств](eplan/offlinenumerationgui_h_formatfestlegen.md)
+* [Автономная нумерация устройств](offlinenumerationgui_h_formatfestlegen.md)

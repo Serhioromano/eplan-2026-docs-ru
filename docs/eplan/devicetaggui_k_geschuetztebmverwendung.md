@@ -21,4 +21,4 @@
 
 **См. также:**
 
-* [Защитить устройства](eplan/devicetaggui_h_bmschuetzen.md)
+* [Защитить устройства](devicetaggui_h_bmschuetzen.md)

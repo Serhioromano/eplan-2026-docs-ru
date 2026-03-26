@@ -12,15 +12,15 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 * * *
 
 Вкладки:
 
-* [Вкладка Формат](eplan/cablegui_r_einstkabelnumformat.md)
-* [Вкладка Последовательность](eplan/cablegui_r_einstkabelnumreihenfolge.md)
+* [Вкладка Формат](cablegui_r_einstkabelnumformat.md)
+* [Вкладка Последовательность](cablegui_r_einstkabelnumreihenfolge.md)
 
 **См. также:**
 
-* [Диалоговое окно Нумеровать кабели](eplan/cablegui_d_kabelnummerierung.md)
+* [Диалоговое окно Нумеровать кабели](cablegui_d_kabelnummerierung.md)

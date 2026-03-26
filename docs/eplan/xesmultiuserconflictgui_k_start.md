@@ -11,9 +11,9 @@
 
 **См. также:**
 
-* [Диалоговое окно Управление проектами](eplan/prjmanagementgui_d_projektverwaltung.md)
-* [Обработка проекта в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
-* [Заблокированные данные в многопользовательском режиме](eplan/xesmultiuserconflictgui_k_datensperren.md)
-* [Отправить эл. почту в случае конфликта](eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
-* [Диалоговое окно Многопользовательский конфликт](eplan/xesmultiuserconflictgui_d_konflikte.md)
-* [Диалоговое окно Настройки: Ид. пользователя / адрес](eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
+* [Диалоговое окно Управление проектами](prjmanagementgui_d_projektverwaltung.md)
+* [Обработка проекта в многопользовательском режиме](xesmultiuserconflictgui_k_projektebearbeiten.md)
+* [Заблокированные данные в многопользовательском режиме](xesmultiuserconflictgui_k_datensperren.md)
+* [Отправить эл. почту в случае конфликта](xesmultiuserconflictgui_h_konfliktmailversenden.md)
+* [Диалоговое окно Многопользовательский конфликт](xesmultiuserconflictgui_d_konflikte.md)
+* [Диалоговое окно Настройки: Ид. пользователя / адрес](xusersettingsgui_d_einstellungenmehrbenutzer.md)

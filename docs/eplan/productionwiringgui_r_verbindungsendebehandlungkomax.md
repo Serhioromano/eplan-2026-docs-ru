@@ -116,4 +116,4 @@ TerminalKey:
   
 **См. также:**
 
-* [Вкладка Обработка концов проводов](eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)
+* [Вкладка Обработка концов проводов](connectionsettingsgui_r_einstellungenverbindungsende.md)

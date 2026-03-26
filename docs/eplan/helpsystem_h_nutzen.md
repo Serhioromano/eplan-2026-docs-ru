@@ -48,5 +48,5 @@
 
 **См. также:**
 
-* [Справочная система](eplan/helpsystem_k_start.md)
-* [Вид Backstage: Справка](eplan/helpsystem_d_backstagehilfe.md)
+* [Справочная система](helpsystem_k_start.md)
+* [Вид Backstage: Справка](helpsystem_d_backstagehilfe.md)

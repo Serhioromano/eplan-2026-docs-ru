@@ -51,5 +51,5 @@
 
 **См. также:**
 
-* [Обработать библиотеки символов](eplan/symboleditorgui_h_symbolbibliothekenbearbeiten.md)
-* [Диалоговое окно Настройки: Общие (проекты, управление)](eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
+* [Обработать библиотеки символов](symboleditorgui_h_symbolbibliothekenbearbeiten.md)
+* [Диалоговое окно Настройки: Общие (проекты, управление)](xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)

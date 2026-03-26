@@ -16,7 +16,7 @@
 
 **См. также:**
 
-* [Генерировать схемы сверления из данных ЧУ](eplan/propanelmasterdata_h_bohrbildausncdaten.md)
-* [Вставить границу схемы сверления](eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md)
-* [Генерировать схемы сверления из файлов DXF / DWG](eplan/propanelmasterdata_h_bohrbildausdxfdaten.md)
-* [Графическое определение схем сверления](eplan/propanelmasterdata_h_bohrbildgrafischdefinieren.md)
+* [Генерировать схемы сверления из данных ЧУ](propanelmasterdata_h_bohrbildausncdaten.md)
+* [Вставить границу схемы сверления](propanelmasterdata_h_bohrbildkasteneinfuegen.md)
+* [Генерировать схемы сверления из файлов DXF / DWG](propanelmasterdata_h_bohrbildausdxfdaten.md)
+* [Графическое определение схем сверления](propanelmasterdata_h_bohrbildgrafischdefinieren.md)

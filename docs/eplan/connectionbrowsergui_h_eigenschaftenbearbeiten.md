@@ -2,7 +2,7 @@
 
 1. Выберите следующие команды: Вкладка Соединения > группа команд Соединения > Навигатор.
 2. Выделите в диалоговом окне Соединения — <Имя проекта> нужные соединения и выберите пункт всплывающего меню Свойства.
-3. В диалоговом окне Свойства <...> во вкладке [Соединение](eplan/devicetaggui_r_verbindung.md) измените свойства соединений, а во вкладке [Графика соединения](eplan/devicetaggui_r_verbindungsgrafik.md) — графические свойства линий соединений.
+3. В диалоговом окне Свойства <...> во вкладке [Соединение](devicetaggui_r_verbindung.md) измените свойства соединений, а во вкладке [Графика соединения](devicetaggui_r_verbindungsgrafik.md) — графические свойства линий соединений.
 4. Щелкните по кнопке [OK].
 
 Свойства соединения можно просмотреть и обработать в диалоговом окне Соединения — <Имя проекта>.
@@ -21,8 +21,8 @@
 
 **См. также:**
 
-* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-* [Диалоговое окно Соединения — <имя проекта>](eplan/connectionbrowsergui_d_verbindungen.md)
-* [Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
-* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+* [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Диалоговое окно Соединения — <имя проекта>](connectionbrowsergui_d_verbindungen.md)
+* [Обновить соединения](connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Чертить точки обозначения соединения](connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)

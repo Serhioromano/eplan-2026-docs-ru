@@ -20,5 +20,5 @@
 
 **См. также:**
 
-* [Управление ревизиями: Принцип](eplan/revisionmgtgui_k_prinzip.md)
-* [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](eplan/revisionlogmgtgui_d_einstellungenaenderung.md)
+* [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
+* [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](revisionlogmgtgui_d_einstellungenaenderung.md)

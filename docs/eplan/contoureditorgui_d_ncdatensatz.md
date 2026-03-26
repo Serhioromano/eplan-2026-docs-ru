@@ -37,4 +37,4 @@
 
 **См. также:**
 
-* [Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)
+* [Генерирование и обработка записей данных контура ЧУ](contoureditorgui_h_nckonturdatenbearbeiten.md)

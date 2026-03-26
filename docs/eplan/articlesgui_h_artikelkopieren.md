@@ -48,4 +48,4 @@ Eplan генерирует новое изделие с номером <исхо
 
 **См. также:**
 
-* [Диалоговое окно Вставить данные](eplan/articlesgui_d_dateneinfuegen.md)
+* [Диалоговое окно Вставить данные](articlesgui_d_dateneinfuegen.md)

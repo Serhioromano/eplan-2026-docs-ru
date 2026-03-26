@@ -55,5 +55,5 @@ End Class 'SimpleScriptAction
 
 **См. также:**
 
-* [Сценарии](eplan/scripts_k_start.md)
-* [Выполнить или загрузить сценарии](eplan/scripts_h_scripteausfuehren.md)
+* [Сценарии](scripts_k_start.md)
+* [Выполнить или загрузить сценарии](scripts_h_scripteausfuehren.md)

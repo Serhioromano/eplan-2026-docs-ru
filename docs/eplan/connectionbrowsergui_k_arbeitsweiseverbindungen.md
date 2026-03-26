@@ -10,8 +10,8 @@
 
 На страницах схемы соединений автоматически появляются линии автоматического соединения, если два вывода устройств условных обозначений или символов соединения находятся прямо друг напротив друга по горизонтали или по вертикали. Посредством символов соединений укажите прохождение соединений.
 
-* [Вставить символы соединений](eplan/egedgui_h_verbindungsstueckeeinfuegen.md)
-* [Прервать соединения](eplan/egedgui_h_verbindungenunterbrechen.md)
+* [Вставить символы соединений](egedgui_h_verbindungsstueckeeinfuegen.md)
+* [Прервать соединения](egedgui_h_verbindungenunterbrechen.md)
 
 !!! warning "Предупреждение:"
 
@@ -56,11 +56,11 @@
 
 **См. также:**
 
-* [Соединения](eplan/connectionbrowsergui_k_start.md)
-* [Соединения: Принцип](eplan/connectionbrowsergui_k_prinzipverbindungen.md)
-* [Точки обозначения соединения](eplan/connectionbrowsergui_k_vdp.md)
-* [Свойства соединения](eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
-* [Обновить соединения](eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
-* [Чертить точки обозначения соединения](eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
-* [Определить свойства соединения посредством точек определения соединения](eplan/connectionbrowsergui_h_vdpeigenschaften.md)
-* [Просмотреть и обработать свойства соединения](eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+* [Соединения](connectionbrowsergui_k_start.md)
+* [Соединения: Принцип](connectionbrowsergui_k_prinzipverbindungen.md)
+* [Точки обозначения соединения](connectionbrowsergui_k_vdp.md)
+* [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)
+* [Обновить соединения](connectionbrowsergui_h_verbindungenbearbeiten.md)
+* [Чертить точки обозначения соединения](connectionbrowsergui_h_definitionspunktezeichnen.md)
+* [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)
+* [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)

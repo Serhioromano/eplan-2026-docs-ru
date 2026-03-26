@@ -24,7 +24,7 @@
 
 **См. также:**
 
-* [Форматы адресов](eplan/plcprocessorgui_k_adressformate.md)
-* [Диалоговое окно Формат адреса ПЛК](eplan/plcprocessorgui_d_formatspsadresse.md)
-* [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
-* [Диалоговое окно Формат: Разделитель](eplan/eservicesgui_d_formattrennzeichen.md)
+* [Форматы адресов](plcprocessorgui_k_adressformate.md)
+* [Диалоговое окно Формат адреса ПЛК](plcprocessorgui_d_formatspsadresse.md)
+* [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eservicesgui_d_formatzaehler.md)
+* [Диалоговое окно Формат: Разделитель](eservicesgui_d_formattrennzeichen.md)

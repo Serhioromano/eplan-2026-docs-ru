@@ -45,5 +45,5 @@
 
 **См. также:**
 
-* [Проекты](eplan/projects_k_start.md)
+* [Проекты](projects_k_start.md)
 * [Сообщение контрольного прогона P022017](messages_p_022017.htm)

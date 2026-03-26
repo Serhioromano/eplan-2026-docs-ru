@@ -20,4 +20,4 @@
 
 **См. также:**
 
-* [Обработка схем](eplan/schemeconfig_h_schematabearbeiten.md)
+* [Обработка схем](schemeconfig_h_schematabearbeiten.md)

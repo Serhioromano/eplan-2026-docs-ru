@@ -4,7 +4,7 @@
 
 Если вы создаете контакт штекера, определите, какой это будет контакт: штырь, гнездо, или комбинация штырей и гнезд, а затем отредактируйте свойства. Кроме того, с помощью определений функций вы можете создать контакт штекера с предопределенными свойствами.
 
-Во вкладке [Контакт штекера](eplan/devicetaggui_r_steckerkontakt.md) в диалоговом окне, описывающем свойства, отредактируйте свойства штекера.
+Во вкладке [Контакт штекера](devicetaggui_r_steckerkontakt.md) в диалоговом окне, описывающем свойства, отредактируйте свойства штекера.
 
 ### Создать контакт штекера
 
@@ -39,8 +39,8 @@
 
 **См. также:**
 
-* [Управление штекерами](eplan/plugsgui_k_verwaltungstecker.md)
-* [Обработка данных штекеров](eplan/plugsgui_k_arbeitsweise.md)
-* [Вставить контакты штекеров и определения штекеров](eplan/plugsgui_h_steckerkontaktezeichnen.md)
-* [Диалоговое окно Обработать штекер](eplan/connectormanagementgui_d_steckerbearbeiten.md)
-* [Диалоговое окно Штекеры – <Имя проекта>](eplan/plugsgui_d_steckernavigator.md)
+* [Управление штекерами](plugsgui_k_verwaltungstecker.md)
+* [Обработка данных штекеров](plugsgui_k_arbeitsweise.md)
+* [Вставить контакты штекеров и определения штекеров](plugsgui_h_steckerkontaktezeichnen.md)
+* [Диалоговое окно Обработать штекер](connectormanagementgui_d_steckerbearbeiten.md)
+* [Диалоговое окно Штекеры – <Имя проекта>](plugsgui_d_steckernavigator.md)

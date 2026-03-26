@@ -45,4 +45,4 @@
 
 **См. также:**
 
-* [Настроить ленту](eplan/userinterface_h_menuebandanpassen.md)
+* [Настроить ленту](userinterface_h_menuebandanpassen.md)

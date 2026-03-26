@@ -17,5 +17,5 @@
 
 **См. также:**
 
-* [Данные изготовления для Eplan Smart Production](eplan/edaexportgui_k_start.md)
-* [Диалоговое окно Экспорт: Eplan Smart Production](eplan/edaexportgui_d_smartproductioncollection.md)
+* [Данные изготовления для Eplan Smart Production](edaexportgui_k_start.md)
+* [Диалоговое окно Экспорт: Eplan Smart Production](edaexportgui_d_smartproductioncollection.md)

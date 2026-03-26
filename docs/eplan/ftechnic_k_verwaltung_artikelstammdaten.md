@@ -10,11 +10,11 @@
 
 **См. также:**
 
-* [Создать изделие](eplan/articlesgui_h_artikelerstellen.md)
-* [Копировать изделие и вставить данные](eplan/articlesgui_h_artikelkopieren.md)
-* [Создать узлы](eplan/articlesgui_h_baugruppenanlegen.md)
-* [Создать модули](eplan/articlesgui_h_moduleanlegen.md)
-* [Создать основные персональные данные](eplan/articlesgui_h_kundenerstellen.md)
-* [Экспортировать данные изделий](eplan/articlesgui_h_artikelexportieren.md)
-* [Импортировать данные изделий](eplan/articlesgui_h_artikelimportieren.md)
-* [Управление многоязычными данными изделий](eplan/articlesgui_h_mehrsprachigeartikelverwalten.md)
+* [Создать изделие](articlesgui_h_artikelerstellen.md)
+* [Копировать изделие и вставить данные](articlesgui_h_artikelkopieren.md)
+* [Создать узлы](articlesgui_h_baugruppenanlegen.md)
+* [Создать модули](articlesgui_h_moduleanlegen.md)
+* [Создать основные персональные данные](articlesgui_h_kundenerstellen.md)
+* [Экспортировать данные изделий](articlesgui_h_artikelexportieren.md)
+* [Импортировать данные изделий](articlesgui_h_artikelimportieren.md)
+* [Управление многоязычными данными изделий](articlesgui_h_mehrsprachigeartikelverwalten.md)

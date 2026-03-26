@@ -20,5 +20,5 @@
 
 **См. также:**
 
-* [Создать схемы для автоматизированной обработки](eplan/autoprocgui_h_startactions.md)
-* [Обработать несколько проектов автоматически](eplan/autoprocgui_h_ausfuehren.md)
+* [Создать схемы для автоматизированной обработки](autoprocgui_h_startactions.md)
+* [Обработать несколько проектов автоматически](autoprocgui_h_ausfuehren.md)

@@ -12,5 +12,5 @@
 
 **См. также:**
 
-* [Спецификации](eplan/partslistgui_k_start.md)
-* [Диалоговое окно Спецификация — <Имя проекта>](eplan/partslistgui_d_artikelstueckliste.md)
+* [Спецификации](partslistgui_k_start.md)
+* [Диалоговое окно Спецификация — <Имя проекта>](partslistgui_d_artikelstueckliste.md)

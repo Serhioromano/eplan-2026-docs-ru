@@ -9,5 +9,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Библиотеки символов](eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
-* [Разместить символы](eplan/xsbgui_h_symboleplatzieren.md)
+* [Диалоговое окно Настройки: Библиотеки символов](xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+* [Разместить символы](xsbgui_h_symboleplatzieren.md)

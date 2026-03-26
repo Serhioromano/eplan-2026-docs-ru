@@ -99,8 +99,8 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
-* [Предварительное планирование: Принцип](eplan/planninggui_k_prinzip.md)
-* [Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
-* [Графическое предварительное планирование](eplan/planninggui_k_grafischevorplanung.md)
-* [Функция перетаскивания мышью](eplan/userinterface_k_dragdropfunktionen.md)
+* [Предварительное планирование](planninggui_k_start.md)
+* [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
+* [Объекты планирования, соединения](planninggui_k_verbindungsvorplanung.md)
+* [Графическое предварительное планирование](planninggui_k_grafischevorplanung.md)
+* [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)

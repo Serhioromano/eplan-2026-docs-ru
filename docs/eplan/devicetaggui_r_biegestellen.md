@@ -24,4 +24,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Изгиб шины](eplan/cabinetgui_d_einstellungenkupferbiegung.md)
+* [Диалоговое окно Настройки: Изгиб шины](cabinetgui_d_einstellungenkupferbiegung.md)

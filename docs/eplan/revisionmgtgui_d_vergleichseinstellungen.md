@@ -12,7 +12,7 @@
 
 Схема:
 
-Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](eplan/schemeconfig_m_schemaschaltflaechen.md).
+Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
 Категория:
 
@@ -46,6 +46,6 @@
 
 **См. также:**
 
-* [Сравнить свойства проектов](eplan/revisionmgtgui_h_revvergleichen.md)
-* [Определение настроек сравнения](eplan/revisionmgtgui_h_vergleichseinstellungen.md)
-* [Альтернативная идентификация](eplan/revisionmgtgui_k_alternativeidentifizierung.md)
+* [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
+* [Определение настроек сравнения](revisionmgtgui_h_vergleichseinstellungen.md)
+* [Альтернативная идентификация](revisionmgtgui_k_alternativeidentifizierung.md)

@@ -16,6 +16,6 @@
 
 **См. также:**
 
-* [Клеммы](eplan/terminalgui_k_start.md)
-* [Раздельное представление клемм](eplan/terminalgui_k_verteiltedarstellungklemmen.md)
-* [Управление перемычками](eplan/terminalgui_k_verwendungbruecken.md)
+* [Клеммы](terminalgui_k_start.md)
+* [Раздельное представление клемм](terminalgui_k_verteiltedarstellungklemmen.md)
+* [Управление перемычками](terminalgui_k_verwendungbruecken.md)

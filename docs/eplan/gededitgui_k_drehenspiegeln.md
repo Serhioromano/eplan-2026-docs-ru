@@ -47,5 +47,5 @@
 
 **См. также:**
 
-* [Графический редактор](eplan/gededitgui_k_start.md)
-* [Поворачивание и зеркальное отображение элементов](eplan/gededitgui_h_elementedrehenspiegeln.md)
+* [Графический редактор](gededitgui_k_start.md)
+* [Поворачивание и зеркальное отображение элементов](gededitgui_h_elementedrehenspiegeln.md)

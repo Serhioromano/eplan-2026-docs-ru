@@ -12,7 +12,7 @@
 
 **См. также:**
 
-* [Свойства блока: Принцип](eplan/blockproperties_k_prinzip.md)
-* [Предварительное определение индексированных свойств блока](eplan/blockproperties_k_vordefinition.md)
-* [Определение индексированных свойств блока](eplan/blockproperties_h_blockeigenschaftendefinieren.md)
-* [Свойства расчета](eplan/blockproperties_k_berechnung.md)
+* [Свойства блока: Принцип](blockproperties_k_prinzip.md)
+* [Предварительное определение индексированных свойств блока](blockproperties_k_vordefinition.md)
+* [Определение индексированных свойств блока](blockproperties_h_blockeigenschaftendefinieren.md)
+* [Свойства расчета](blockproperties_k_berechnung.md)

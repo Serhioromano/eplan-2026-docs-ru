@@ -18,12 +18,12 @@
 * Монтажные поверхности ЧУ: Эти элементы могут быть размещены на прямом сегменте контура попарно по часовой стрелке (внешний контур) / против часовой стрелки (внутренний контур)
 * Размер поля: Размещаемые попарно по часовой стрелке относительно внешнего контура.
 
-Для контуров типа Генерирование записи данных контура ЧУ существует специальное диалоговое окно — [Запись данных контура ЧУ](eplan/contoureditorgui_d_ncdatensatz.md), в данном диалоговом окне для чертежа контура задайте релевантные машинно-зависимые данные. Данные сохраняются на контуре.
+Для контуров типа Генерирование записи данных контура ЧУ существует специальное диалоговое окно — [Запись данных контура ЧУ](contoureditorgui_d_ncdatensatz.md), в данном диалоговом окне для чертежа контура задайте релевантные машинно-зависимые данные. Данные сохраняются на контуре.
 
 **См. также:**
 
-* [Редактор контура: Логические элементы](eplan/contoureditorgui_k_logikelemente.md)
-* [Создание контуров](eplan/contoureditorgui_h_konturenerzeugen.md)
-* [Обработать контуры](eplan/contoureditorgui_h_konturenkopieren.md)
-* [Обработать свойства точек определения контуров](eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
-* [Генерирование и обработка записей данных контура ЧУ](eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)
+* [Редактор контура: Логические элементы](contoureditorgui_k_logikelemente.md)
+* [Создание контуров](contoureditorgui_h_konturenerzeugen.md)
+* [Обработать контуры](contoureditorgui_h_konturenkopieren.md)
+* [Обработать свойства точек определения контуров](contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+* [Генерирование и обработка записей данных контура ЧУ](contoureditorgui_h_nckonturdatenbearbeiten.md)

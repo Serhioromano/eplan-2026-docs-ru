@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Убрать перевод из проекта](eplan/translategui_h_entfernenuebersetzung.md)
-* [Импортировать список отсутствующих слов](eplan/translategui_h_fehlwortimport.md)
+* [Убрать перевод из проекта](translategui_h_entfernenuebersetzung.md)
+* [Импортировать список отсутствующих слов](translategui_h_fehlwortimport.md)

@@ -16,5 +16,5 @@
 
 **См. также:**
 
-* [Диалоговое окно Экспорт PDF](eplan/pdfexportgui_d_export.md)
-* [Диалоговое окно Настройки: Печать](eplan/printgui_d_druckoptionen.md)
+* [Диалоговое окно Экспорт PDF](pdfexportgui_d_export.md)
+* [Диалоговое окно Настройки: Печать](printgui_d_druckoptionen.md)

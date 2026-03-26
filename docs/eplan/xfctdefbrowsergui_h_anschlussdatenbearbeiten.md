@@ -28,8 +28,8 @@
 
 **См. также:**
 
-* [Диалоговое окно Логическая схема выводов устройства](eplan/xfctdefbrowsergui_d_anschlusslogik.md)
-* [Определения функции: Принцип](eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
-* [Вставить функции](eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
-* [Заменить определения функций](eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
-* [Заменить символы](eplan/xfctdefbrowsergui_h_symboltauschen.md)
+* [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
+* [Определения функции: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.md)
+* [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
+* [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)
+* [Заменить символы](xfctdefbrowsergui_h_symboltauschen.md)

@@ -34,4 +34,4 @@
 
 **См. также:**
 
-* [Размещение медной шины](eplan/copper_h_kupferschieneplatzieren.md)
+* [Размещение медной шины](copper_h_kupferschieneplatzieren.md)

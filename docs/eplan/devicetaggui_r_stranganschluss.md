@@ -21,5 +21,5 @@
 
 **См. также:**
 
-* [Вкладка Отображение (Устройство)](eplan/devicetaggui_r_anzeige.md)
-* [Вкладка Данные символа / функции](eplan/devicetaggui_r_symbolfunktionsdaten.md)
+* [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)
+* [Вкладка Данные символа / функции](devicetaggui_r_symbolfunktionsdaten.md)

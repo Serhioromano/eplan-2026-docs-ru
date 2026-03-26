@@ -36,7 +36,7 @@
 
 Сравнить структуры проектов:
 
-Если флажок установлен, производится сравнение структур проекта для сравнения и проекта с замечаниями. Сравниваются все настройки, заданные в свойствах проекта на вкладке [](eplan/prjmanagementgui_r_struktur.md)Структура.
+Если флажок установлен, производится сравнение структур проекта для сравнения и проекта с замечаниями. Сравниваются все настройки, заданные в свойствах проекта на вкладке [](prjmanagementgui_r_struktur.md)Структура.
 
 Сравнить слои:
 
@@ -50,7 +50,7 @@
 
 **См. также:**
 
-* [Создать схему сравнения настроек](eplan/processreceiptcontrol_h_vergleichsschema.md)
-* [Создать схему сравнения свойств](eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)
-* [Проверить проект](eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
-* [Создать схему контрольных прогонов для проверки проекта](eplan/processreceiptcontrol_h_pruefschema.md)
+* [Создать схему сравнения настроек](processreceiptcontrol_h_vergleichsschema.md)
+* [Создать схему сравнения свойств](processreceiptcontrol_h_eigenschaftenvergleich.md)
+* [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
+* [Создать схему контрольных прогонов для проверки проекта](processreceiptcontrol_h_pruefschema.md)

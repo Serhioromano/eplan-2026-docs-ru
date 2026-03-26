@@ -76,6 +76,6 @@
 
 **См. также:**
 
-* [Логика устройства: Принцип](eplan/cabinetgui_k_betriebsmittellogik.md)
-* [Определить точку захвата](eplan/cabinetgui_h_anfasspunktdefinieren.md)
-* [Определение точек монтажа](eplan/cabinetgui_h_zielmatesdefinieren.md)
+* [Логика устройства: Принцип](cabinetgui_k_betriebsmittellogik.md)
+* [Определить точку захвата](cabinetgui_h_anfasspunktdefinieren.md)
+* [Определение точек монтажа](cabinetgui_h_zielmatesdefinieren.md)

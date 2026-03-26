@@ -24,6 +24,6 @@
 
 **См. также:**
 
-* [Настроить форматы адресов](eplan/plcprocessorgui_h_adressenformateeinstellen.md)
-* [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eplan/eservicesgui_d_formatzaehler.md)
-* [Адресация выводов устройства ПЛК](eplan/plcgui_k_adressierung.md)
+* [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
+* [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eservicesgui_d_formatzaehler.md)
+* [Адресация выводов устройства ПЛК](plcgui_k_adressierung.md)

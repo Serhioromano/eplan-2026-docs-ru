@@ -27,5 +27,5 @@
 
 **См. также:**
 
-* [Найти и заменить](eplan/searchandreplacegui_k_start.md)
-* [Поиск данных проекта](eplan/searchandreplacegui_h_suchen.md)
+* [Найти и заменить](searchandreplacegui_k_start.md)
+* [Поиск данных проекта](searchandreplacegui_h_suchen.md)

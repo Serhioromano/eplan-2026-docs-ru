@@ -47,11 +47,11 @@
 
 **См. также:**
 
-* [Предварительное планирование](eplan/planninggui_k_start.md)
+* [Предварительное планирование](planninggui_k_start.md)
 Предварительное планирование: Принцип
 
-[Объекты планирования, соединения](eplan/planninggui_k_verbindungsvorplanung.md)
+[Объекты планирования, соединения](planninggui_k_verbindungsvorplanung.md)
 
-[Перекрестные ссылки в графическом предварительном планировании и на функциональной схеме автоматизации](eplan/planninggui_k_querverweise.md)
+[Перекрестные ссылки в графическом предварительном планировании и на функциональной схеме автоматизации](planninggui_k_querverweise.md)
 
-[Создание графического предварительного планирования](eplan/planninggui_h_grafvorplanungerstellen.md)
+[Создание графического предварительного планирования](planninggui_h_grafvorplanungerstellen.md)
