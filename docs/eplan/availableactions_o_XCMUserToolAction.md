@@ -1,6 +1,5 @@
 ## Операция: XCMUserToolAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 command |  Имя исполняемого файла с полным путем к нему.  
@@ -12,4 +11,3 @@ ExecuteInFolder |  Рабочий каталог для внешней прог�
     Интеграция текстового редактора при помощи указания пути, по которому находится исполняемый файл:XCMUserToolAction /command:"c:\Windows\notepad.exe"Интеграция текстового редактора с указанием файла, который будет открыт при его вызове:XCMUserToolAction /command:"c:\Windows\notepad.exe" /arguments:"Notizen.txt" 
 /ExecuteInFolder:"d:\Temp\"
 
- 

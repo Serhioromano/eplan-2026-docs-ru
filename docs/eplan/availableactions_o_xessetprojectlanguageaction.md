@@ -1,6 +1,5 @@
 ## Операция: SetProjectLanguage
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PROJECTNAME |  Полное имя проекта. Проект должен быть открыт.   
@@ -12,10 +11,6 @@ SOURCE |  Исходный язык.
 
 !!! note "Замечание:"
 
-    
-
- 
-
 !!! example "Пример:"
 
     SetProjectLanguage 
@@ -24,4 +19,3 @@ SOURCE |  Исходный язык.
 /DISPLAY:en_US;de_DE;pl_PL;fr_FR 
 /VARIABLE:04_04
 
- 

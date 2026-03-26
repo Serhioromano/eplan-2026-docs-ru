@@ -1,6 +1,5 @@
 ## Операция: XMExportConnectionsAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 DatabaseId |  Идентификатор проекта для проекта (является опцией).  
@@ -29,4 +28,3 @@ IncludeGraphicalConnections |  Графические соединения пр�
 /Destination:C:\temp\Connection.xls 
 /ExecutionMode:0
 
- 

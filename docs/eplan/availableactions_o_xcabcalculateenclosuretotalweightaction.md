@@ -1,6 +1,5 @@
 ## Операция: XCabCalculateEnclosureTotalWeightAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 ProjectName |  Имя проекта с полным путем файла (является опцией).  
@@ -15,4 +14,3 @@ CabinetTotalWeight |  Общий вес одного отдельного эле
 XCabCalculateEnclosureTotalWeightAction 
 /ProjectName:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 
- 

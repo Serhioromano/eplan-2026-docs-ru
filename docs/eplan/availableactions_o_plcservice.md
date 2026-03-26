@@ -1,6 +1,5 @@
 ## Операция: plcservice
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 TYPE |  Вид задачи, которую должна выполнить операция:  
@@ -94,4 +93,3 @@ PLCCPU |  Имя ЦПУ, которое необходимо экспортир�
 /PLCCPU:"1" 
 /DESTINATIONFILE:"c:\tempdir\address_overview_export.csv"
 
- 

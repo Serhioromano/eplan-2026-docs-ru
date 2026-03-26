@@ -13,10 +13,6 @@
 
 !!! tip "Совет:"
 
-    
-
- 
-
 **См. также:**
 
 * [Диалоговое окно Обработать штекер](connectormanagementgui_d_steckerbearbeiten.md)

@@ -1,6 +1,5 @@
 ## Операция: ProjectOpen
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 Project  |  Используемый проект.  
@@ -14,4 +13,3 @@ EXCLUSIVE: Проект открывается только для текуще�
     ProjectOpen 
 /Project:"C:\EPLANmy own ProjectsDEMO.elk"
 
- 

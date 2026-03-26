@@ -1,6 +1,5 @@
 ## Операция: XEsGetProjectPropertyAction
 
-  
 **Параметр** |  **описание**  
 ---|---  
 PropertyId |  Идентификатор определяемого свойства (= номер свойства)  
@@ -14,4 +13,3 @@ PropertyValue |  Полученное значение свойства
 /PropertyId:? 
 /PropertyIndex:0
 
- 

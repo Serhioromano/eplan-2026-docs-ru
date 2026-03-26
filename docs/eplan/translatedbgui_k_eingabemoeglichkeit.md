@@ -8,8 +8,6 @@
 
     В следующей таблице показаны отдельные слова, предложения, ряды предложений и ключевые слова с заполнителями на исходном языкеen_US.Отдельное словоПредложениеРяд предложенийКлючевое слово с заполнителемcontactorconnection pointCirc.-Breaker, Parts a. Devices. Part and device tag listsRectifier%0phasedeviceActuator sheetCaution! HotTerminal with%0connectorsmeasurandScrew compressor, with electric motorScrew compressor. With electric motorPE terminal,%0targetslubricationSeveral macro boxes are managed on the pageLevel sensor with display. Filling level in fresh water tankWith LED (%0=)%1st lev. with%2lev./supply bl
 
- 
-
 ### Отдельные слова
 
 Под отдельными словами понимаются ключевые слова, состоящие только из одного слова. Ключевое слово, которое в исходном языке представлено одним словом, в тексте перевода на другой язык может соответствовать целому предложению.
@@ -17,8 +15,6 @@
 !!! example "Пример:"
 
     Ключевые слова, являющиеся в исходном языкеen_USотдельными словами,и переводимые в языке переводаfr_FRтакжеотдельными словами.en_USfr_FRwirefildevicecomposantchannelcanalprojectprojetКлючевые слова, являющиеся в исходном языкеen_USотдельными словами,и переводимые в языке переводаfr_FRпредложениями.en_USfr_FRangleangle de rotationassemblygroupe de composantscomponentsymbole graphiquemeasurandgrandeur de mesure
-
- 
 
 ### Предложения
 
@@ -29,8 +25,6 @@
 !!! example "Пример:"
 
     Ключевые слова, являющиеся в исходном языкеen_USпредложениями, и переводимые в языке переводаfr_FRтакжепредложениями.en_USfr_FRBridge RectifierRedresseur en pontPCT loopPosition PCTNumber of pagesNombre de pagesPart and device tag listsListes des articles et des composantsRemains energized when mainswitch is openedSous tension lorsquel'interrupteur principal est ouvertКлючевые слова, являющиеся в исходном языкеen_USпредложениями, и переводимые в языке переводаfr_FRотдельными словами.en_USfr_FRconnection pointraccordementActuator motorServomoteur
-
- 
 
 #### Вид сегментации
 
@@ -44,12 +38,9 @@
 
     Следующая таблица показывает, когда Eplan при переводе по предложениям интерпретирует знак препинания как знак в конце предложения. При включенной настройке пользователяУбрать знаки в конце предложениядля того чтобы текст можно было перевести, ключевые слова, отображаемые в столбце "Ключевые слова", должны содержаться в словаре.СегментированиеТекстКлючевые словаПредложениеScrew compressor, with electric motor.Screw compressor, with electric motorПредложениеLevel sensor with display. Filling level in fresh water tank.Level sensor with displayFilling level in fresh water tankПредложениеCirc.-Breaker, Parts a. Devices. Part and device tag lists!Circ.-Breaker, Parts aDevicesPart and device tag lists
 
- 
-
 !!! tip "Совет:"
 
     Если вы экспортируетеСписок отсутствующих слов, вы можете определить, какие ключевые слова в словаре нужны для перевода.
-
 
 ### Общая запись
 
@@ -58,7 +49,6 @@
 !!! example "Пример:"
 
     При переводе с сегментацией "Общая запись" Eplan интерпретирует как знак в конце предложения только последний знак препинания всей записи. При включенной настройке пользователяУбрать знаки в конце предложениядля того чтобы текст можно было перевести, ключевые слова, отображаемые в столбце "Ключевые слова", должны содержаться в словаре.СегментированиеТекстКлючевые словаОбщая записьCirc.-Breaker, Parts a. Devices. Part and device tag lists!Circ.-Breaker, Parts a. Devices. Part and device tag listsОбщая записьLevel sensor with display. Filling level in fresh water tank.Level sensor with display. Filling level in fresh water tank
-
 
 ### Ключевые слова с заполнителями
 
@@ -75,8 +65,6 @@
 
     Следующая таблица наглядно показывает выбор возможных ключевых слов с заполнителями на исходном языкеen_USи языке переводаfr_FR.en_USfr_FRRectifier%0phaseRedresseur%0-phase(s)%0terminals with%1connection points%0bornes avec%1raccordementsplant section%0plant part%1separator%2section de l'installation%0partie d'installation%1collecteur%2
 
- 
-
 Ключевые слова с заполнителями также можно использовать для текстов, где одна составная часть всегда остается неизменной и переводится, а другая изменяется и имеет обозначение "Не переводить", например:
 
 * Аварийный переключатель +A
@@ -88,8 +76,6 @@
 !!! example "Пример:"
 
     На нескольких устройствах ПЛК перечисленные нижефункциональные текстыуказаны на исходном языкеen_US.Emergency-stop switch +AEmergency-stop switch +BEmergency-stop switch +APДля перевода только первой части текстов, то есть строки символовEmergency-stop switch, укажите для элементов+A,+Bи+AP"не переводить". В диалоговых окнах свойств это отображается в форме{{+A}},{{+B}}и{{+AP}}. Затем в словаре введите следующее ключевое слово со знаком-заполнителем, а также относящийся к нему перевод:Emergency-stop switch %0При последующем переводе на язык переводаfr_FRс опцией "Общая запись" обозначенные составные части не изменяются. Перевод будет выглядеть следующим образом:Commutateur d'arrêt d'urgence +ACommutateur d'arrêt d'urgence +BCommutateur d'arrêt d'urgence +AP
-
- 
 
 **См. также:**
 

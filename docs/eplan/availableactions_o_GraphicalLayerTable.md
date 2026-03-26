@@ -1,6 +1,5 @@
 ## Операция: GraphicalLayerTable
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 TYPE  |  Вид задачи, которую должна выполнить операция:  
@@ -18,4 +17,3 @@ EXPORTFILE  |  Каталог и имя файла конфигурации сл
 /PROJECTNAME:C:\Projects\EPLAN\DEMO2_D.elk
 /IMPORTFILE:C:\EPLAN\EPLAN_Sample_Project.elc
 
- 

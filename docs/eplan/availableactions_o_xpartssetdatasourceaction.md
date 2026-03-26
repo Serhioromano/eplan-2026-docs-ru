@@ -1,6 +1,5 @@
 ## Операция: XPartsSetDataSourceAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 DataSourceType |  Тип источника базы данных (0 = база данных Eplan (значение по умолчанию), 1 = сервер SQL, 3 = коллекция eStock).  
@@ -15,10 +14,6 @@ CollectionName |  Имя коллекции eStock.
 CollectionId |  Идентификатор коллекции eStock.  
 
 !!! note "Замечание:"
-
-    
-
- 
 
 !!! example "Пример:"
 
@@ -42,4 +37,3 @@ CollectionId |  Идентификатор коллекции eStock.
 /CollectionName:ESTOCK_COLLECTION_NAME 
 /CollectionId:ESTOCK_COLLECTION_ID
 
- 

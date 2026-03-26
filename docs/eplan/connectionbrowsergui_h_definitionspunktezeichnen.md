@@ -11,10 +11,6 @@
 
 !!! tip "Совет:"
 
-    
-
- 
-
 **См. также:**
 
 * [Соединения](connectionbrowsergui_k_start.md)

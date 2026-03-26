@@ -1,6 +1,5 @@
 ## Операция: MfExportRibbonBarAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 FileName |  Имя экспортируемого XML-файла, включая путь к файлу (необязательно).  
@@ -10,4 +9,3 @@ FileName |  Имя экспортируемого XML-файла, включая
     MfExportRibbonBarAction 
 /FileName:"?"
 
- 

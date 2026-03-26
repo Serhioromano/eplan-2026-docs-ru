@@ -1,6 +1,5 @@
 ## Операция: XPrjActionUpgradeProjects
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 Project  |  Имя проекта с полным путем к файлу.  
@@ -19,13 +18,8 @@ FileDescription |  0: Добавляет новое описание в конц
 
 !!! note "Замечание:"
 
-    
-
- 
-
 !!! example "Пример:"
 
     XPrjActionUpgradeProjects 
 /Project:$(MD_PROJECTS)EPLAN_Sample_Project.elk
 
- 

@@ -1,6 +1,5 @@
 ## Операция: OpenWorkspaceAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 Workspacename  |  Имя открываемой рабочей области (символьная строка)  
@@ -11,4 +10,3 @@ Silent  |  Установить или сбросить фоновый режи�
     OpenWorkspaceAction 
 /Workspacename:"?"
 
- 

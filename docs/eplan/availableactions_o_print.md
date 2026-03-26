@@ -1,6 +1,5 @@
 ## Операция: print
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 TYPE |  Вид выполняемой задачи:  
@@ -24,10 +23,6 @@ PRINTCHANGEDPAGES |  Печатать только измененные стра
 
 !!! note "Замечание:"
 
-    
-
- 
-
 !!! example "Пример:"
 
     Печатать страницу:print 
@@ -48,4 +43,3 @@ PRINTCHANGEDPAGES |  Печатать только измененные стра
 /PRINTREVERSE:1 
 /DESTINATIONFILE:C:\temp\EPLAN_print.prn
 
- 

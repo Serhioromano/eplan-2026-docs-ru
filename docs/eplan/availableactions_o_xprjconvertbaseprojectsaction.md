@@ -1,6 +1,5 @@
 ## Операция: XPrjConvertBaseProjectsAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 ProjectTemplate |  Полный путь и имя шаблона проекта (*.ept или *.epb).  
@@ -16,4 +15,3 @@ FileTypes |  Тип файла для выполняемого преобраз�
 /Folder:$(MD_TEMPLATES) 
 /FileTypes:*.ept
 
- 

@@ -1,6 +1,5 @@
 ## Операция: compress
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PROJECTNAME |  Имя проекта с полным путем файла (является опцией).  
@@ -21,4 +20,3 @@ USEFILTER |  Используется схема фильтра, заданна�
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk 
 /FILTERSCHEME:filter_scheme
 
- 

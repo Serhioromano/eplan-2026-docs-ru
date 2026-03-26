@@ -1,6 +1,5 @@
 ## Операция: XEsGetPagePropertyAction
 
-  
 **Параметр** |  **описание**  
 ---|---  
 PropertyId |  Идентификатор определяемого свойства (= номер свойства)  
@@ -15,4 +14,3 @@ PropertyValue |  Полученное значение свойства
 /PropertyIndex:0 
 /PropertyValue:"?"
 
- 

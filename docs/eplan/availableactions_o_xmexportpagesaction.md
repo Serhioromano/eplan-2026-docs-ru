@@ -1,6 +1,5 @@
 ## Операция: XMExportPagesAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 DatabaseId |  Идентификатор проекта для проекта (является опцией).  
@@ -27,4 +26,3 @@ ImmediateImport  |  После обработки подтверждение и�
 /Destination:C:\temp\Pages.xls 
 /ExecutionMode:0
 
- 

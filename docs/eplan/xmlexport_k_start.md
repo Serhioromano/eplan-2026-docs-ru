@@ -4,10 +4,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 ### Тэги
 
 [<partsmanagement>](xmlexport_o_tags.md#partsmanagement)  

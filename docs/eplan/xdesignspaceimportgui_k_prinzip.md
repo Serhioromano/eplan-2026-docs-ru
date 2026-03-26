@@ -14,10 +14,6 @@ Design Space Exchange (DSE) предлагает следующие возмож
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Импорт и экспорт пространства конструкции](xdesignspaceimportgui_k_start.md)

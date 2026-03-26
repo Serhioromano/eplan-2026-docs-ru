@@ -32,10 +32,6 @@
 
 !!! tip "Совет:"
 
-    
-
- 
-
 **См. также:**
 
 * [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)

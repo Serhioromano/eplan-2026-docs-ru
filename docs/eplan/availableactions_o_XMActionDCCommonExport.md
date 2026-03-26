@@ -1,6 +1,5 @@
 ## Операция: XMActionDCCommonExport
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 DATABASEID |  Идентификатор проекта для проекта (является опцией).  
@@ -27,4 +26,3 @@ XMActionDCCommonExport
 /DESTINATION:c:\temp\Pages.xls 
 /EXECUTIONMODE:0
 
- 

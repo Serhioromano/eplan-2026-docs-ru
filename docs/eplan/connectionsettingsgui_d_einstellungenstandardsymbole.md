@@ -24,10 +24,6 @@
 
 !!! tip "Совет:"
 
-    
-
- 
-
 **См. также:**
 
 * [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)

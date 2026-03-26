@@ -15,10 +15,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Генерировать отчеты](formgeneratorgui_h_auswerterzeugen.md)

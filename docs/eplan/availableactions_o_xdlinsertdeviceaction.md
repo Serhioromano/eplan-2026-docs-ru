@@ -1,6 +1,5 @@
 ## Операция: XDLInsertDeviceAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PartNr  |  Номер изделия  
@@ -16,4 +15,3 @@ PropertyIndex  |  Индекс покупных изделий ограниче�
 /PropertyIndex:0 
 /ProjectId:0
 
- 

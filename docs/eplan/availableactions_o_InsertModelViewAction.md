@@ -1,6 +1,5 @@
 ## Операция: InsertModelViewAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PROJECTNAME |  Имя проекта с полным путем файла (является опцией).  
@@ -45,4 +44,3 @@ OBJECTID |  Идентифицирующее имя сгенерированно
 /SCALESETTING:0
 /OBJECTID:NewModelView
 
- 

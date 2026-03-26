@@ -1,6 +1,5 @@
 ## Операция: Topology
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PROJECTNAME |  Имя проекта с полным путем файла (является опцией).  
@@ -13,4 +12,3 @@ CreateFunctions: Автоматически генерирует функции 
 
     Маршрутизировать соединения топологии:Topology /TYPE:RouteConnections /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elkГенерировать функции топологии:Topology /TYPE:CreateFunctions /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elk
 
- 

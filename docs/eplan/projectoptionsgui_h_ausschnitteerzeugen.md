@@ -26,10 +26,6 @@
 
 !!! tip "Совет:"
 
-    
-
- 
-
 **См. также:**
 
 * [Обработка фрагментов](projectoptionsgui_h_ausschnittebearbeiten.md)

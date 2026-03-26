@@ -1,6 +1,5 @@
 ## Операция: devicelist
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 TYPE |  Вид задачи, которую должна выполнить операция:  
@@ -26,4 +25,3 @@ FORMAT |  Необязательно: формат файла ("XDLXmlExporter",
 /TYPE:DELETE 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 
- 

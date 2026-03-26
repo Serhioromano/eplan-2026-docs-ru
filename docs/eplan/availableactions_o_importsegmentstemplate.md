@@ -1,6 +1,5 @@
 ## Операция: ImportSegmentsTemplate
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PROJECTNAME |  Имя проекта с полным путем файла (является опцией).  
@@ -13,4 +12,3 @@ FILENAME |  Полный путь и имя исходного файла. Не 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk 
 /FILENAME:C:\EPLAN\Templates\SegmentTemplates.txt
 
- 

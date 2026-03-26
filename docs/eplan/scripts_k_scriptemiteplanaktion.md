@@ -5,27 +5,24 @@
 В соответствии с классом атрибуту [Start], а также функции в сценарии в первую очередь нужно задать набор параметров операции, а затем выполнить операцию с помощью CommandLineInterpreter().Execute().
 
 Общая структура соответствующего сценария C# выглядит так:
-    
-    
+
     public class <ScriptName>
     {
-    
+
          [Start]
          public void <FunctionName>
          {
-    
+
                ActionCallingContext <ActionName>Context = new ActionCallingContext ();
                <ActionName>Context .AddParameter("<ActionParameter1>","<Value>");
                <ActionName>Context .AddParameter("<ActionParameter2>","<Value>");
                ...
                new CommandLineInterpreter().Execute("<ActionName>",<ActionName>Context);
                return;
-    
+
          }
-    
+
     }
-
-
 
 !!! example "Пример:"
 

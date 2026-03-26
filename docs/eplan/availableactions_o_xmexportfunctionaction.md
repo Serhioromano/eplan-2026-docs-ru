@@ -1,6 +1,5 @@
 ## Операция: XMExportFunctionAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 DatabaseId |  Идентификатор проекта для проекта (является опцией).  
@@ -27,4 +26,3 @@ ImmediateImport  |  После обработки подтверждение и�
 /Destination:C:\temp\Function.xls 
 /ExecutionMode:0
 
- 

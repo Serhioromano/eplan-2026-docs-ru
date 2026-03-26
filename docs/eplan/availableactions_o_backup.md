@@ -1,6 +1,5 @@
 ## Операция: backup
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 TYPE |  Вид выполняемой задачи:  
@@ -93,4 +92,3 @@ FILENAME |  Имя резервируемого файла.
 /COMMENT:"Hello world" 
 /MDTYPE:STANDARDSHEET
 
- 

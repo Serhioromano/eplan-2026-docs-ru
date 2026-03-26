@@ -1,6 +1,5 @@
 ## Операция: XMExportDCArticleDataAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 COMPLETEPROJECT |  Экспортируется вся база данных изделий, а не только выделенные объекты (необязательно, 0 = Нет, 1 = Да).   
@@ -23,4 +22,3 @@ IMMEDIATEIMPORT |  После обработки подтверждение им
 /EXECUTIONMODE:0 
 /COMPLETEPROJECT:1
 
- 

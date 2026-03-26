@@ -21,10 +21,6 @@
 
 !!! tip "Совет:"
 
-    
-
- 
-
 **См. также:**
 
 * [Присвоение данных функции](navigatorgui_k_zuweisenvonfunktionsdaten.md)

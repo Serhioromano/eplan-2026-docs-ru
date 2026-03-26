@@ -13,10 +13,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Eplan Fluid Hose Configurator: Введение](fluidhoseconfiggui_k_start.md)

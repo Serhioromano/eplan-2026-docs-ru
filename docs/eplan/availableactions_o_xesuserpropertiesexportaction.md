@@ -1,6 +1,5 @@
 ## Операция: XEsUserPropertiesExportAction
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 XMLFile |  Имя файла XML, в который следует экспортировать, вкл. полный путь  
@@ -12,4 +11,3 @@ Project  |  Полное имя проекта, определенные пол�
 /XMLFile:c:\my_user.xml 
 /Project:c:\...\EPLAN_Sample_Project.elk
 
- 

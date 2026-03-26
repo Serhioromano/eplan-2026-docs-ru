@@ -1,6 +1,5 @@
 ## Операция: ExportSegmentsTemplate
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PROJECTNAME |  Имя проекта с полным путем файла (является опцией).  
@@ -15,4 +14,3 @@ DESCRIPTION |  Описание внутри экспортируемого фа
 /FILENAME:C:\EPLAN\Templates\SegmentTemplates.txt 
 /DESCRIPTION:Segment templates exported from EPLAN_Sample_Project
 
- 

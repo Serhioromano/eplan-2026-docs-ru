@@ -68,10 +68,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Основные данные](xmasterdatasettingsgui_k_start.md)

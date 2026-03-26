@@ -14,10 +14,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)

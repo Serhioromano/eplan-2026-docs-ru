@@ -1,6 +1,5 @@
 ## Операция: reports
 
-  
 **Параметр** |  **описание**  
 ---|---  
 TYPE |  Вид выполняемой задачи:  
@@ -28,4 +27,3 @@ REPLACEEXISTING |  Заменяет имеющиеся обзоры модели
 /TYPE:PROJECT 
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 
- 

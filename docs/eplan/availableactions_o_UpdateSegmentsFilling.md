@@ -1,6 +1,5 @@
 ## Операция: UpdateSegmentsFilling
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 PROJECTNAME |  Имя проекта с полным путем файла (является опцией).  
@@ -10,8 +9,6 @@ PROJECTNAME |  Имя проекта с полным путем файла (яв
 
     UpdateSegmentsFilling
  /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elk
-
- 
 
 **См. также:**
 

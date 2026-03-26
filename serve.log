@@ -1055,3 +1055,4 @@ INFO    -  Doc file 'eplan/xmlexport_o_tags.md' contains a link 'xmlexport_o_pro
 INFO    -  Doc file 'eplan/xmlexport_o_tags.md' contains a link 'xmlexport_o_sellists.md#characteristics', but the doc 'eplan/xmlexport_o_sellists.md' does not contain an anchor '#characteristics'.
 INFO    -  Documentation built in 141.54 seconds
 INFO    -  [09:39:52] Serving on http://127.0.0.1:8000/eplan-2026-docs-ru/
+INFO    -  Shutting down...

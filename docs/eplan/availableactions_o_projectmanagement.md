@@ -1,6 +1,5 @@
 ## Операция: projectmanagement
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 TYPE |  Вид выполняемой задачи:  
@@ -34,4 +33,3 @@ SCANSUBDIRECTORIES |  Определяет, будут ли подкаталог
 /PROJECTNAME:"C:\Projects\EPLAN projects\EPLAN_Sample_Project.elk" 
 /EXTENDEDMODE:"1"
 
- 

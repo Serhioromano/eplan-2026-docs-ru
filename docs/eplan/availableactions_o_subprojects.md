@@ -1,6 +1,5 @@
 ## Операция: subprojects
 
-  
 **Параметр** |  **описание**  
 ---|---  
 TYPE |  Вид выполняемой задачи:  
@@ -20,4 +19,3 @@ EXPANDONLY |  Только расширить частичный проект (�
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk 
 /SPNR:1
 
- 

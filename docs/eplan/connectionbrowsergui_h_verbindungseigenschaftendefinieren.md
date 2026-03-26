@@ -10,7 +10,7 @@
 2. Выберите требуемую вкладку, например [Электротехника](connectionsettingsgui_r_projekteinstellungenelektrotechnik.md), [Гидравлика](connectionsettingsgui_r_projekteinstellungenhydraulik.md) или [Технология производственных процессов](connectionsettingsgui_r_projekteinstellungenhydraulik.md).
 3. Укажите в отдельных полях значения по умолчанию для свойств соединения.
 4. Подтвердите ввод.  
-  
+
 Выполняется сохранение значений по умолчанию. При генерировании соединения ему автоматически присваиваются соответствующие значения по умолчанию.
 
 **См. также:**

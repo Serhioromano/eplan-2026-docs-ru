@@ -32,15 +32,11 @@ W3u.exe ExecuteScript /ScriptFile:<Значение> /Param:<Значение>
 
 End Class "SimpleScriptWithParameters
 
- 
-
 Важно, что все параметры, которые используются в функции сценария, также применяются при вызове. В ином случае сценарий не выполняется.
 
 !!! example "Пример:"
 
     Для приложения Eplan Electric P8 ввод в командную строку для операционной системы Windows 7 выглядел бы следующим образом:"C:\Program Files (x86)\EPLAN\Electric P8\<Номер версии>\BIN\W3u.exe" ExecuteScript /ScriptFile:"C:\Users\Public\EPLAN\Electric P8\Scripte\<Идентификатор фирмы>\SimpleScriptWithParameters.cs" /Param1:Hello /Param2:" Eplan " /Param3:User!
-
- 
 
 С помощью этой функции можно расширить вызов командной строки Eplan на собственный параметр. 
 

@@ -60,10 +60,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Диалоговое окно Выбор устройства](partselectiongui_d_geraeteauswahl.md)

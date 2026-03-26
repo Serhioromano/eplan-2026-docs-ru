@@ -60,10 +60,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Основные данные: Управлять данными изделий ](xmasterdatasettingsgui_h_artikeldatenverwalten.md)

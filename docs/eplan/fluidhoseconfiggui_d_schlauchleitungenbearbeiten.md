@@ -92,10 +92,6 @@
 
 !!! note "Замечание:"
 
-    
-
- 
-
 **См. также:**
 
 * [Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)

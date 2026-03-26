@@ -1,6 +1,5 @@
 ## Операция: restore
 
-  
 **Параметр** |  **Описание**  
 ---|---  
 TYPE |  Вид выполняемой задачи:  
@@ -30,4 +29,3 @@ MODE  |  Указывает, как следует восстанавливат�
 /ARCHIVENAME:U:\temp\SSHmy_MasterData.zw2 
 /DESTINATIONPATH:U:\temp
 
- 
