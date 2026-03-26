@@ -31,7 +31,7 @@
 
 Если установлена предварительная фильтрация изделий, то поиск в Eplan Data Portal невозможен и пиктограмма  "Data Portal" не отображается.
 
-Дополнительную информацию по Eplan Data Portal см. [здесь](../../../../EDP_Cloud/Content/htm/DataPortalCS_k_home.htm).
+Дополнительную информацию по Eplan Data Portal см. [здесь](../../../../EDP_Cloud/Content/htm/DataPortalCS_k_home.md).
 
 Фильтр:
 

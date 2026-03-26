@@ -31,4 +31,4 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Автоматическое проставление размеров](gededit3dgui_d_einstellautobemassung.md)
-* [Вкладка Вид (обзор модели)](gededit3dgui_r_modell.htm#Bauteilbeschriftung)
+* [Вкладка Вид (обзор модели)](gededit3dgui_r_modell.md)

@@ -1,32 +1,15 @@
-
-
-* placeholder
-
-* Все файлы
-
-
-
 ## Платформа Eplan
 
-Проекты
-
-Графический редактор
-
-Центр вставки
-
-Макросы
-
-Соединения
-
-Отчеты
-
-Лицензии
-
-Новости
-
-Примечания к выпуску
-
-Company
+- Проекты
+- Графический редактор
+- Центр вставки
+- Макросы
+- Соединения
+- Отчеты
+- Лицензии
+- Новости
+- Примечания к выпуску
+- Company
 
 * [About us](https://www.eplan-software.com/company/portrait/about-us/ "About us")
 * [Career](https://www.eplan-software.com/company/career/ "Career")
@@ -65,10 +48,3 @@ Follow EPLAN
 * <http://www.youtube.com/eplan>
 * <https://www.eplan.blog/>
 
-Process Consulting 
-
-Engineering-Software 
-
-Implementation 
-
-Global Support 

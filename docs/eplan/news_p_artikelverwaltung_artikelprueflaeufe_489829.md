@@ -51,5 +51,5 @@
 **См. также:**
 
 * [Диалоговое окно Управление изделиями](articlesgui_d_artverw.md)
-* [Сообщения контрольного прогона: Основные данные изделия](messages_o_502Partmasterdata.htm)
+* [Сообщения контрольного прогона: Основные данные изделия](messages_o_502Partmasterdata.md)
 * [Управление дополнительными частями](news_p_artikelverwaltung_ergaenzungsteile_488170.md)
