@@ -42,10 +42,12 @@ def strip_list_indent(content):
     return content
 
 def delete_before_first_heading(content):
-    """Delete everything before the first ## heading."""
+    """Delete everything before the first ## heading and make it level 1."""
     match = re.search(r'^## ', content, re.MULTILINE)
     if match:
         content = content[match.start():]
+        # Change first ## to #
+        content = '# ' + content[3:]
     return content
 
 def fix_javascript_links(content):
