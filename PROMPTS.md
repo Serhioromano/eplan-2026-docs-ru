@@ -61,10 +61,10 @@ Do not delete that script it might be needed later.
 Please analyze file `serve.log`. there you find something like this
 
 ```
-WARNING -  Doc file 'eplan/wirenumberinggui_r_bezeichnung.md' contains a link 'wirenumberinggui_h_netzerweiterung.md', but the target 'eplan/wirenumberinggui_h_netzerweiterung.md' is not found among documentation files.
+WARNING -  Doc file 'eplan/messages_o_001Terminals.md' contains a link 'messages_p_001001.md', but the target 'eplan/messages_p_001001.md' is not found among documentation files.
 ```
 
-Please extract unfound file name and convert it to URL
+Please extract unfound file that refer to .md not .png name and convert it to URL
 
 https://www.eplan.help/ru-ru/Infoportal/Content/Plattform/2026/Content/htm/wirenumberinggui_h_netzerweiterung.htm
 
