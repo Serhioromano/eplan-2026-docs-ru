@@ -45,4 +45,4 @@
 
 * [Управление проектами](prjmanagementgui_k_start.md)
 * [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
-* [Отображение информации проекта](prjmanagementgui_h_projekteigenschaftenanzeigen.htm#I_ProjektinformationenAnzeigen)
+* [Отображение информации проекта](prjmanagementgui_h_projekteigenschaftenanzeigen.md)

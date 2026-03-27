@@ -27,4 +27,4 @@
 **См. также:**
 
 * [Диалоговое окно База данных изделий](articlesgui_d_artverw.md)
-* [Вкладка "Свойства" (уровень иерархии "Данные" (для размещения принадлежностей))](articlesgui_r_eigenschaften.htm#DatenZubehoerplatzierung)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для размещения принадлежностей))](articlesgui_r_eigenschaften.md)

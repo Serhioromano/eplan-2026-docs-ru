@@ -15,10 +15,10 @@
 
 В этом поле определяется объем корректировки с помощью соответствующих флажков.
 
-* [Клеммы](ProjectCorrectionGui_k_korrekturdaten.htm#I_Klemmen)
-* [Штекеры](ProjectCorrectionGui_k_korrekturdaten.htm#I_Stecker)
-* [Соединения](ProjectCorrectionGui_k_korrekturdaten.htm#I_Verbindungen)
-* [ПЛК](ProjectCorrectionGui_k_korrekturdaten.htm#I_SPS).
+* [Клеммы](ProjectCorrectionGui_k_korrekturdaten.md)
+* [Штекеры](ProjectCorrectionGui_k_korrekturdaten.md)
+* [Соединения](ProjectCorrectionGui_k_korrekturdaten.md)
+* [ПЛК](ProjectCorrectionGui_k_korrekturdaten.md).
 
 **См. также:**
 

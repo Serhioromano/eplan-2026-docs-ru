@@ -15,8 +15,8 @@
 ---|---|---
 ![](images/formgeneratorgui_sourceproject_as.png) |  Исходный проект (если указан) |  Содержит проект, записанный как исходный для проекта или отчетов / шаблонов.
 ![](images/formgeneratorgui_reportpages_as.png) |  [Страницы (отчетов)](formgeneratorgui_k_auswertungsseiten.md) |  Содержит все сгенерированные страницы отчетов.
-![](images/formgeneratorgui_functionrelatedreport_as.png) |  [Относящиеся к функциям типы отчетов](formgeneratorgui_k_auswertungstypen.htm#I_Funktionsbezogene) |  Содержит все отчеты типа отчетов, относящегося к функциям.
-![](images/formgeneratorgui_overviewreport_as.png) |  [Тип отчета для перечня отчетов](formgeneratorgui_k_auswertungstypen.htm#I_Auswertungsuebersicht) |  Содержит все отчеты типа отчетов для перечней отчетов.
+![](images/formgeneratorgui_functionrelatedreport_as.png) |  [Относящиеся к функциям типы отчетов](formgeneratorgui_k_auswertungstypen.md) |  Содержит все отчеты типа отчетов, относящегося к функциям.
+![](images/formgeneratorgui_overviewreport_as.png) |  [Тип отчета для перечня отчетов](formgeneratorgui_k_auswertungstypen.md) |  Содержит все отчеты типа отчетов для перечней отчетов.
 ![](images/formgeneratorgui_functionrelatedreportblock_as.png) |  [Блоки отчетов](formgeneratorgui_k_auswertungsbloecke.md) (отчеты, связанные с функциями) |  Содержит все отчеты, относящиеся к одному блоку отчетов (отчеты, связанные с функциями).
 ![](images/formgeneratorgui_overviewreportblock_as.png) |  [Блоки отчетов](formgeneratorgui_k_auswertungsbloecke.md) (обзор отчетов) |  Содержит все отчеты, относящиеся к одному блоку отчетов (перечни отчетов).
 ![](images/pagebrowsergui_pageautomatic_as.png) |  Страницы отчета / размещенные отчеты |  Представляет страницу отчета или ручное размещение встроенного отчета.
@@ -43,7 +43,7 @@
 
 ### Свойство / Значение:
 
-В этих столбцах выводятся свойства и значения выделенных отчетов. Некоторые [Свойства](formgeneratorgui_d_vorlagen.htm#Ueberblick) доступны как на вкладке Отчеты, так и на вкладке Шаблоны.
+В этих столбцах выводятся свойства и значения выделенных отчетов. Некоторые [Свойства](formgeneratorgui_d_vorlagen.md) доступны как на вкладке Отчеты, так и на вкладке Шаблоны.
 
 ### [Настройки]:
 

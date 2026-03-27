@@ -32,6 +32,6 @@
 
 **См. также:**
 
-* [Типы отчетов](formgeneratorgui_k_auswertungsuebersicht.htm#I_Montageliste)
+* [Типы отчетов](formgeneratorgui_k_auswertungsuebersicht.md)
 * [Перечни отчетов](formgeneratorgui_k_auswertungsuebersicht.md)
 * [Управление изделиями: Дополнительные части](articlesgui_k_ergaenzungsteile.md)

@@ -22,7 +22,7 @@
 
 Функциональность |  Проект схемы соед. |  Проект макросов
 ---|---|---
-[Группировать устройства](devicelistgui_k_geraetegruppierung.htm#I_GeraetegruppeErstellen) |  - |  X
+[Группировать устройства](devicelistgui_k_geraetegruppierung.md) |  - |  X
 [Вставить границу схемы сверления](propanelmasterdata_h_bohrbildkasteneinfuegen.md) |  - |  X
 [Вставить рамку макроса](macrosgui_h_makrosausmakroprojekt.md) |  - |  X
 [Генерировать макросы автоматически из проекта макросов](macrosgui_h_makrosausmakroprojekt.md) |  - |  X

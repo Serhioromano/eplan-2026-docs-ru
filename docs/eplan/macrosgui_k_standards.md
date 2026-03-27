@@ -50,6 +50,6 @@
 **См. также:**
 
 * [Макросы](macrosgui_k_start.md)
-* [Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](articlesgui_r_eigenschaften.htm#DatenArtikel)
+* [Вкладка "Свойства" (уровень иерархии "Данные" (для изделия))](articlesgui_r_eigenschaften.md)
 * [Диалоговое окно Настройки: Общие (проекты, управление)](xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
 * [Центр вставки](insertergui_k_start.md)

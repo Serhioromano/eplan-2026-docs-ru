@@ -60,7 +60,7 @@ Terminal with 3 connectors |  Terminal with 3 connectors
 ---|---
 Terminal with 3 connectors |  Terminal with 3 connectors
 
-Если система Eplan не находит подходящего ключевого слова, ищется ключевое слово, в котором на месте цифр находится заполнитель. В этом случае при переводе используются [ключевые слова с заполнителями](translatedbgui_k_eingabemoeglichkeit.htm#Platzhalter).
+Если система Eplan не находит подходящего ключевого слова, ищется ключевое слово, в котором на месте цифр находится заполнитель. В этом случае при переводе используются [ключевые слова с заполнителями](translatedbgui_k_eingabemoeglichkeit.md).
 
 Текст |  Ключевое слово в словаре системы Eplan
 ---|---

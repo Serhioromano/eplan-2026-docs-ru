@@ -21,4 +21,4 @@
 
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Диалоговое окно Конфигурировать свойства](modaldialogsdb_d_eigenschaftsanordnung.md)
-* [Задать конфигурацию свойств](devicetaggui_h_bmeigenschaftenbearbeiten.htm#Eigenschaftskonfiguration)
+* [Задать конфигурацию свойств](devicetaggui_h_bmeigenschaftenbearbeiten.md)

@@ -34,4 +34,4 @@
 
 * [Проекты макросов](macrosgui_k_makroprojekte.md)
 * [Навигатор макросов](macrosgui_k_makronavigator.md)
-* [Обновить макросы](macrosgui_h_makrokasten.htm#I_MakroTauschen)
+* [Обновить макросы](macrosgui_h_makrokasten.md)

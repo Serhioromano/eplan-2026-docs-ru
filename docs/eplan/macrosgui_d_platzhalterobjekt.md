@@ -105,7 +105,7 @@
 * [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
 * [Присвоить набор значений объекту-заполнителю](macrosgui_h_wertesatzzuweisen.md)
 * [Объекты-заполнители: Структура и принцип работы](macrosgui_k_platzhalteraufbauarbeitsweise.md)
-* [Объекты-заполнители в 3D-макросах](cabinetgui_k_3dmakros.htm#Platzhalterobjekte3DMakros)
+* [Объекты-заполнители в 3D-макросах](cabinetgui_k_3dmakros.md)
 * [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)
 * [Вкладка Данные символа / функции](devicetaggui_r_symbolfunktionsdaten.md)
 * [Вкладка Настройки (объект-заполнитель)](macrosgui_r_platzhaltereinstellungen.md)

@@ -61,8 +61,10 @@ def fix_stray_semicolon_paren(content):
     return re.sub(r';\)', '', content)
 
 def fix_htm_links(content):
-    """Change .htm to .md in markdown links."""
-    return re.sub(r'(\[[^\]]+\]\([^)]+)\.htm(\))', r'\1.md\2', content)
+    """Change .htm to .md in markdown links and remove #fragment anchors."""
+    content = re.sub(r'(\[[^\]]+\]\([^)]+)\.htm#[^)]*(\))', r'\1.md\2', content)
+    content = re.sub(r'(\[[^\]]+\]\([^)]+)\.htm(\))', r'\1.md\2', content)
+    return content
 
 def fix_merged_words(content):
     """Insert space between a lowercase Cyrillic letter and an uppercase one (merged words)."""

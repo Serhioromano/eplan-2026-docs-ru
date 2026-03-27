@@ -10,7 +10,7 @@
 
 Эта настройка имеет значение только для следующих систем шин:
 
-* [Системы шин на базе Ethernet](plcgui_k_spsanschluesse.htm#I_Netzwerkanschluesse)
+* [Системы шин на базе Ethernet](plcgui_k_spsanschluesse.md)
 * DRIVE-CLiQ
 * IO-Link
 * PortToPort
