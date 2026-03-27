@@ -28,12 +28,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install \
-            mkdocs \
-            mkdocs-material \
-            mkdocs-git-authors-plugin \
-            mkdocs-git-revision-date-localized-plugin \
-            mkdocs-git-committers-plugin
+          pip install -r requirements.txt
 
       - name: Configure git
         run: |
