@@ -7,7 +7,7 @@
 * Управление изделиями: В правой части управления изделиями Eplan Data Portal отображается в виде вкладки в окне браузера.
 * Центр вставки: В главном окне платформы Eplan открывается специальное окно для Eplan Data Portal. Несмотря на то, что это окно выглядит как обычное окно Data Portal, оно не зависит от других окон Data Portal и обозначается текстом **Data Portal (центр вставки)** в строке заголовка. Даже если окно Data Portal уже открыто через ленту, все равно будет открыто окно Data Portal для центра вставки.
 
-[![](images/articlesgui_dataportaltab_ls_thumb_0_60.png)](images/articlesgui_dataportaltab_ls.png)
+![](images/articlesgui_dataportaltab_ls.png)
 
 ![](images/benefit.png)Эффект:
 

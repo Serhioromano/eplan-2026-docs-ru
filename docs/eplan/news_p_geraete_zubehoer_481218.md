@@ -23,7 +23,7 @@
 
 Если этот флажок снят, то, как и прежде, устройство вставляется или генерируется без принадлежностей. Это настройка по умолчанию.
 
-[![](images/xessettingsgui_newgeneraldevicessettings_ls_thumb_0_60.png)](images/xessettingsgui_newgeneraldevicessettings_ls.png)
+![](images/xessettingsgui_newgeneraldevicessettings_ls.png)
 
 #### Запустить выбор устройства для выбираемых принадлежностей
 
@@ -37,7 +37,7 @@
 
 Если этот флажок установлен, то при вставке или генерировании устройств открывается диалоговое окно **Выбор устройства**. Там уже выбрано подходящее главное изделие. Соответствующее изделие принадлежностей или соответствующие изделия принадлежностей можно выбрать в списке **Принадлежности**, щелкнув в столбце **Выбор** и на ++"..."++.
 
-[![](images/partselectiongui_deviceselectiondialog_ls_thumb_0_60.png)](images/partselectiongui_deviceselectiondialog_ls.png)
+![](images/partselectiongui_deviceselectiondialog_ls.png)
 
 Если этот флажок снят, то устройство добавляется только с необходимыми принадлежностями, но без выбираемых принадлежностей.
 

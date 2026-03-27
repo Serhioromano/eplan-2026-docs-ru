@@ -71,5 +71,5 @@
 
 * [Управление сообщениями Eplan](msgmanagementgui_k_start.md)
 * [Сообщения контрольного прогона: номера сообщений, классы и категории](msgmanagementgui_k_prinzip.md)
-* [Сообщения контрольного прогона: Обзор классов сообщений](messages_o_start.md)
+* [Сообщения контрольного прогона: Обзор классов сообщений](msg/messages_o_start.md)
 * [Диалоговое окно Управление сообщениями — <Имя проекта>](msgmanagementgui_d_meldungsverwaltung.md)

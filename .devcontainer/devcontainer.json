@@ -5,8 +5,7 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/python:3-3.14-trixie",
 	"features": {
-		"ghcr.io/stu-bell/devcontainer-features/node:0": {},
-		"ghcr.io/devcontainers-extra/features/mkdocs:2": {}
+		"ghcr.io/stu-bell/devcontainer-features/node:0": {}
 	},
 	"customizations": {
 		"vscode": {
