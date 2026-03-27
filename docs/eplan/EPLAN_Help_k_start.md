@@ -81,8 +81,3 @@ Engineering-Software
 
 Implementation
 
-Global Support
-
-![EPLAN - efficient engineering](images/eplan-img-logo.svg)
-
-![Friedhelm LOH Group](images/img-powerline-meta.svg)

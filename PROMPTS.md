@@ -77,7 +77,7 @@ Create json file like `tree.json` with only one level of structure and put there
 Create script any apply. When a line in the file that starts with arrow image, example
 
 ```
-![](images/arrow.png) Функции будет присвоено свойство Главная функция.
+![](images/arrow.png) Функции будет присвоено свойство **Главная функция**.
 ```
 
 convert into admonition info

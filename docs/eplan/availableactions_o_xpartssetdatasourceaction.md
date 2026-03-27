@@ -9,15 +9,15 @@ SqlCatalog |  Имя базы данных SQL.
 SqlUserName |  Имя пользователя.
 SqlPassword |  Пароль пользователя.
 SqlLogin |  Вход в SQL (0 = реестр Windows (значение по умолчанию), 1 = реестр сервера SQL (имя пользователя + пароль)).
-SqlFullName |  Полное имя сервера SQL. Не может использоваться вместе с одним из параметров SqlServer, SqlCatalog, SqlUserName или SqlPassword.
+SqlFullName |  Полное имя сервера SQL. Не может использоваться вместе с одним из параметров  `SqlServer`,  `SqlCatalog`,  `SqlUserName` или  `SqlPassword`.
 CollectionName |  Имя коллекции eStock.
 CollectionId |  Идентификатор коллекции eStock.
 
 !!! note "Замечание:"
 
-    * Если DataSourceType = 0, можно использовать параметр DataBaseFileName.
-    * Если DataSourceType = 1, можно использовать параметры SqlServer, SqlCatalog, SqlUserName, SqlPassword, SqlLogin и SqlFullName. Параметр SqlFullName используется только в том случае, если SqlLogin = 1.
-    * Если DataSourceType = 3, можно использовать параметры CollectionName и CollectionId.
+* Если  `DataSourceType = 0`, можно использовать параметр  `DataBaseFileName`.
+* Если  `DataSourceType = 1`, можно использовать параметры  `SqlServer`,  `SqlCatalog`,  `SqlUserName`,  `SqlPassword`,  `SqlLogin` и  `SqlFullName`. Параметр  `SqlFullName` используется только в том случае, если  `SqlLogin = 1`.
+* Если  `DataSourceType = 3`, можно использовать параметры  `CollectionName` и  `CollectionId`.
 
 !!! example "Пример:"
 
