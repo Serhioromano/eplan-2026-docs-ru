@@ -91,3 +91,12 @@ convert into admonition info
 1. There should be one empty line before admonition
 2. There should be one empty line after admonition
 3. there should be a line between title and body
+
+
+В тексте можно встретить такой пример.
+
+[![](images/settingsmastergui_newsettingforpartreports_ls_thumb_0_60.png)](../Pictures/Gui/Lang/settingsmastergui_newsettingforpartreports_ls.png)
+
+Это картинка превью (_thumb) как ссылка на полную картинку. Нужно сделать скрипт который уберет картинку превью и оставит только размещенную основную картинку, при этом нужно исправить ссылку на картинку. 
+
+images/settingsmastergui_newsettingforpartreports_ls.png

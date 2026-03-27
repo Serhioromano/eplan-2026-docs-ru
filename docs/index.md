@@ -1,38 +1,38 @@
 # Платформа Eplan
 
-![](images/Projekte.svg)
+![](eplan/images/Projekte.svg)
 
 Проекты
 
-![](images/Grafischer_Editor.svg)
+![](eplan/images/Grafischer_Editor.svg)
 
 Графический редактор
 
-![](images/Einfuegezentrum.svg)
+![](eplan/images/Einfuegezentrum.svg)
 
 Центр вставки
 
-![](images/Makros.svg)
+![](eplan/images/Makros.svg)
 
 Макросы
 
-![](images/Verbindungen.svg)
+![](eplan/images/Verbindungen.svg)
 
 Соединения
 
-![](images/Auswertung.svg)
+![](eplan/images/Auswertung.svg)
 
 Отчеты
 
-![](images/Lizenzen.svg)
+![](eplan/images/Lizenzen.svg)
 
 Лицензии
 
-![](images/News.svg)
+![](eplan/images/News.svg)
 
 Новости
 
-![](images/ReleaseNotes.svg)
+![](eplan/images/ReleaseNotes.svg)
 
 Примечания к выпуску
 
