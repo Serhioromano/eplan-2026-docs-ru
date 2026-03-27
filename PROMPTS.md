@@ -136,4 +136,8 @@ Cоздай скрипт и примени
 <Библиотека символов>;<Присвоение библиотеки символов в проекте>;<Номер символа>;<Вариант>
 
 
-Can you create script that will chek image size in docs/eplan/images
+Can you create script that will check image size in docs/eplan/images and if it is less than 22x22 add a ui-icon class like this
+
+![](images/all_new_as.png){ .ui-icon }
+
+Also apply this to all images that are inside the string. Do not apply it to images that a on a separate line.

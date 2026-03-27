@@ -17,4 +17,4 @@
 
 См. также
 
-![](images/link_helpsystem_book.png)[Управление видами пространства листа](cabinetgui_h_bauraumansichtenverwalten.md)
+![](images/link_helpsystem_book.png){ .ui-icon }[Управление видами пространства листа](cabinetgui_h_bauraumansichtenverwalten.md)

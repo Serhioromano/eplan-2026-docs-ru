@@ -15,12 +15,12 @@
 
 Пиктограмма |  Значение
 ---|---
-![](images/all_project_as.png) |  Обозначает уровень проекта. Эти пиктограммы отображаются только в том случае, если открыто несколько проектов.
-![](images/navigatorgui_risubstance_as.png) |  Вещество
-![](images/navigatorgui_ripiping_as.png) |  Имя трубопровода
-![](images/navigatorgui_ristate_as.png) |  Состояние
-![](images/navigatorgui_ripipingdefpoint_as.png) |  Размещенная точка определения трубопровода
-![](images/navigatorgui_ripipingconnectpoint_as.png) |  Размещенный вывод трубопровода
+![](images/all_project_as.png){ .ui-icon } |  Обозначает уровень проекта. Эти пиктограммы отображаются только в том случае, если открыто несколько проектов.
+![](images/navigatorgui_risubstance_as.png){ .ui-icon } |  Вещество
+![](images/navigatorgui_ripiping_as.png){ .ui-icon } |  Имя трубопровода
+![](images/navigatorgui_ristate_as.png){ .ui-icon } |  Состояние
+![](images/navigatorgui_ripipingdefpoint_as.png){ .ui-icon } |  Размещенная точка определения трубопровода
+![](images/navigatorgui_ripipingconnectpoint_as.png){ .ui-icon } |  Размещенный вывод трубопровода
 
 (Обзор основных пиктограмм для данных проекта вы найдете в разделе [Пиктограммы для навигаторов](userinterface_k_iconsnavigatoren.md).)
 

@@ -12,4 +12,4 @@
 
 См. также
 
-![](images/link_helpsystem_book.png)[Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)
+![](images/link_helpsystem_book.png){ .ui-icon }[Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"](xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)

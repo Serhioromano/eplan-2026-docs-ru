@@ -9,10 +9,13 @@
 7. Convert button references [Text] to ++Text++ (pymdownx.keys format)
 8. Delete transparent.gif / javascript:void lines (collapsed section headers)
 9. Convert arrow.png lines to admonition info blocks
+10. Add { .ui-icon } to inline images smaller than 22x22 px
 """
 
 import re
 import glob
+import struct
+from pathlib import Path
 
 def fix_see_also(content):
     """Reformat 'См. также' sections."""
@@ -81,6 +84,45 @@ def delete_transparent_gif_lines(content):
     content = re.sub(r'^.*\[!\[[^\]]*\]\([^)]*transparent\.gif\)[^\]]*\]\(javascript:void\\\(0\\\).*\n?', '', content, flags=re.MULTILINE)
     return content
 
+def _load_small_images(images_dir='docs/eplan/images'):
+    """Return set of image filenames that are smaller than 22x22 px."""
+    small = set()
+    for p in Path(images_dir).glob('*.png'):
+        try:
+            with open(p, 'rb') as f:
+                h = f.read(24)
+            if h[:8] == b'\x89PNG\r\n\x1a\n' and h[12:16] == b'IHDR':
+                w = struct.unpack('>I', h[16:20])[0]
+                ht = struct.unpack('>I', h[20:24])[0]
+                if w < 22 and ht < 22:
+                    small.add(p.name)
+        except Exception:
+            pass
+    return small
+
+_SMALL_IMAGES = None
+
+def fix_ui_icons(content):
+    """Add { .ui-icon } to inline image refs where image is < 22x22 px."""
+    global _SMALL_IMAGES
+    if _SMALL_IMAGES is None:
+        _SMALL_IMAGES = _load_small_images()
+
+    img_re = re.compile(r'!\[([^\]]*)\]\((images/([^)]+\.png))\)(?!\s*\{)')
+    strip_re = re.compile(r'!\[[^\]]*\]\([^)]*\)(\s*\{[^}]*\})?')
+
+    def process_line(line):
+        remainder = strip_re.sub('', line).strip()
+        if remainder == '':
+            return line  # standalone image line — skip
+        def replace(m):
+            if m.group(3) in _SMALL_IMAGES:
+                return m.group(0) + '{ .ui-icon }'
+            return m.group(0)
+        return img_re.sub(replace, line)
+
+    return '\n'.join(process_line(l) for l in content.split('\n'))
+
 def fix_merged_words(content):
     """Insert space between a lowercase Cyrillic letter and an uppercase one (merged words)."""
     return re.sub(r'([а-яё])([А-ЯЁ])', r'\1 \2', content)
@@ -129,6 +171,7 @@ def process_file(path):
     content = fix_merged_words(content)
     content = fix_button_brackets(content)
     content = fix_arrow_admonitions(content)
+    content = fix_ui_icons(content)
     content = collapse_blank_lines(content)
 
     if content != original:

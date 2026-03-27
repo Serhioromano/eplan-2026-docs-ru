@@ -24,10 +24,10 @@
 
 Пиктограмма |  Значение
 ---|---
-![](images/user.png) |  Пользователь
-![](images/userwindows.png) |  Пользователи, импортированные из Windows
-![](images/usergroupwindows.png) |  Импортированная из Windows группа Active Directory, отображается и управляется в управлении правами как пользователь
-![](images/usergroup.png) |  Группа пользователей
+![](images/user.png){ .ui-icon } |  Пользователь
+![](images/userwindows.png){ .ui-icon } |  Пользователи, импортированные из Windows
+![](images/usergroupwindows.png){ .ui-icon } |  Импортированная из Windows группа Active Directory, отображается и управляется в управлении правами как пользователь
+![](images/usergroup.png){ .ui-icon } |  Группа пользователей
 
 ### [Импортировать]:
 
