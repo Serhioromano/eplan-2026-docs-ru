@@ -7,6 +7,8 @@
 5. Change .htm to .md in markdown links
 6. Convert javascript: links to plain text
 7. Convert button references [Text] to ++Text++ (pymdownx.keys format)
+8. Delete transparent.gif / javascript:void lines (collapsed section headers)
+9. Convert arrow.png lines to admonition info blocks
 """
 
 import re
@@ -66,6 +68,20 @@ def fix_htm_links(content):
     content = re.sub(r'(\[[^\]]+\]\([^)]+)\.htm(\))', r'\1.md\2', content)
     return content
 
+def fix_arrow_admonitions(content):
+    """Convert ![](images/arrow.png) lines to !!! info admonition blocks."""
+    pattern = re.compile(r'^!\[[^\]]*\]\(images/arrow\.png\)\s*(.+)$', re.MULTILINE)
+    def replace(m):
+        text = m.group(1).strip()
+        return f'\n!!! info "Для сведения:"\n\n    {text}\n'
+    content = pattern.sub(replace, content)
+    return content
+
+def delete_transparent_gif_lines(content):
+    """Delete lines with transparent.gif + javascript:void (collapsed section headers from EPLAN help)."""
+    content = re.sub(r'^.*\[!\[[^\]]*\]\([^)]*transparent\.gif\)[^\]]*\]\(javascript:void\\\(0\\\).*\n?', '', content, flags=re.MULTILINE)
+    return content
+
 def fix_merged_words(content):
     """Insert space between a lowercase Cyrillic letter and an uppercase one (merged words)."""
     return re.sub(r'([а-яё])([А-ЯЁ])', r'\1 \2', content)
@@ -82,10 +98,21 @@ def fix_button_brackets(content):
         content,
         flags=re.IGNORECASE
     )
-    # Clean up spaces inside ++text++
-    content = re.sub(r'\+\+\s+([^+]+?)\s*\+\+', r'++\1++', content)
-    # Ensure space after ++text++ when followed by a letter
-    content = re.sub(r'\+\+([^+]+)\+\+([а-яёА-ЯЁa-zA-Z])', r'++\1++ \2', content)
+    # Replace "F1"-"F12" with ++F1++-++F12++
+    content = re.sub(r'"(F\d{1,2})"', r'++\1++', content)
+    # Replace literal <...> with ++...++
+    content = content.replace('<...>', '++...++')
+    # Fix spacing around ++key++ blocks
+    def fix_keys(m):
+        pre = m.group(1)
+        key = m.group(2).strip()
+        post = m.group(3)
+        if pre and pre not in (' ', '\t', '\n'):
+            pre = pre + ' '
+        if post and post not in (' ', '\t', '\n', '.', ',', ';', ':', '!', '?', ')', ']', '\r'):
+            post = ' ' + post
+        return f'{pre}++{key}++{post}'
+    content = re.sub(r'(.|^)\s*\+\+\s*([^+]+?)\s*\+\+\s?(.?)', fix_keys, content)
     return content
 
 def process_file(path):
@@ -94,6 +121,7 @@ def process_file(path):
 
     original = content
     content = delete_before_first_heading(content)
+    content = delete_transparent_gif_lines(content)
     content = fix_see_also(content)
     content = strip_list_indent(content)
     content = fix_javascript_links(content)
@@ -101,6 +129,7 @@ def process_file(path):
     content = fix_htm_links(content)
     content = fix_merged_words(content)
     content = fix_button_brackets(content)
+    content = fix_arrow_admonitions(content)
     content = collapse_blank_lines(content)
 
     if content != original:

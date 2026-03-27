@@ -901,3 +901,4 @@ WARNING -  Doc file 'eplan/msg/messages_p_502020.md' contains a link 'articlesgu
 WARNING -  Doc file 'eplan/msg/messages_p_502029.md' contains a link 'articlesgui_r_modul.md', but the target 'eplan/msg/articlesgui_r_modul.md' is not found among documentation files.
 INFO    -  Documentation built in 2432.79 seconds
 INFO    -  [06:36:37] Serving on http://127.0.0.1:8000/eplan-2026-docs-ru/
+INFO    -  Shutting down...
