@@ -1,15 +1,42 @@
 # Платформа Eplan
 
-- Проекты
-- Графический редактор
-- Центр вставки
-- Макросы
-- Соединения
-- Отчеты
-- Лицензии
-- Новости
-- Примечания к выпуску
-- Company
+![](images/Projekte.svg)
+
+Проекты
+
+![](images/Grafischer_Editor.svg)
+
+Графический редактор
+
+![](images/Einfuegezentrum.svg)
+
+Центр вставки
+
+![](images/Makros.svg)
+
+Макросы
+
+![](images/Verbindungen.svg)
+
+Соединения
+
+![](images/Auswertung.svg)
+
+Отчеты
+
+![](images/Lizenzen.svg)
+
+Лицензии
+
+![](images/News.svg)
+
+Новости
+
+![](images/ReleaseNotes.svg)
+
+Примечания к выпуску
+
+Company
 
 * [About us](https://www.eplan-software.com/company/portrait/about-us/ "About us")
 * [Career](https://www.eplan-software.com/company/career/ "Career")
@@ -48,3 +75,14 @@ Follow EPLAN
 * <http://www.youtube.com/eplan>
 * <https://www.eplan.blog/>
 
+Process Consulting
+
+Engineering-Software
+
+Implementation
+
+Global Support
+
+![EPLAN - efficient engineering](images/eplan-img-logo.svg)
+
+![Friedhelm LOH Group](images/img-powerline-meta.svg)

@@ -2632,6 +2632,7 @@ nav:
         - "Нововведения для Eplan API": eplan/news_p_api_2026.md
       - "Нововведения в основных данных":
         - "Основные данные: Символы": eplan/news_p_stammdaten_start_2026.md
+
 plugins:
   - search
   - meta

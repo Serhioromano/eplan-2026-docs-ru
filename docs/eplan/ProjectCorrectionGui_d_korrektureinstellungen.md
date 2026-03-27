@@ -1,4 +1,4 @@
-## Диалоговое окно "Настройки: Очистить"
+# Диалоговое окно "Настройки: Очистить"
 
 * Файл > Дополнительно > группа команд Организовать > Проект > группа команд Оптимизировать > Очистить проект. Нажмите в диалоговом окне Очистить проект рядом с полем Настройки на кнопку ++...++.
 * Файл > Настройки > Проекты > "Имя проекта" > Управление > Очистить.
@@ -7,18 +7,18 @@
 
 Обзор основных элементов диалогового окна:
 
-Схема:
+### Схема:
 
 Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
-Объем:
+### Объем:
 
 В этом поле определяется объем корректировки с помощью соответствующих флажков.
 
-* [Клеммы](ProjectCorrectionGui_k_korrekturdaten.md)
-* [Штекеры](ProjectCorrectionGui_k_korrekturdaten.md)
-* [Соединения](ProjectCorrectionGui_k_korrekturdaten.md)
-* [ПЛК](ProjectCorrectionGui_k_korrekturdaten.md).
+* [Клеммы](ProjectCorrectionGui_k_korrekturdaten.htm#I_Klemmen)
+* [Штекеры](ProjectCorrectionGui_k_korrekturdaten.htm#I_Stecker)
+* [Соединения](ProjectCorrectionGui_k_korrekturdaten.htm#I_Verbindungen)
+* [ПЛК](ProjectCorrectionGui_k_korrekturdaten.htm#I_SPS).
 
 **См. также:**
 

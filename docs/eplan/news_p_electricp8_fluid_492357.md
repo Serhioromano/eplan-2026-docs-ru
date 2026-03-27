@@ -1,4 +1,4 @@
-## Расширение функциями Fluid
+# Расширение функциями Fluid
 
 Все модули расширения из Eplan Electric P8 для версии 2026 расширены в функциями Eplan Fluid. Благодаря этому теперь все функции Eplan Fluid являются неотъемлемой составной частью Eplan Electric P8.
 
@@ -6,4 +6,4 @@
 
 **См. также:**
 
-* [Введение в Eplan Fluid](ftechnic_k_start.md)
+* [![](images/link_helpsystem_book.png)

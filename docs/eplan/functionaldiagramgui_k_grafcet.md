@@ -1,4 +1,4 @@
-## Диаграммы GRAFCET
+# Диаграммы GRAFCET
 
 Диаграммы GRAFCET — это представления управления рабочим процессом, для которых используется язык спецификации GRAFCET (GRAphe Fonctionnel de Commande Etapes/Transitions) по системе стандартов DIN EN 60848.
 

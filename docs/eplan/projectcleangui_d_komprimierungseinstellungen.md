@@ -1,4 +1,4 @@
-## Диалоговое окно Настройки: Сжатие
+# Диалоговое окно Настройки: Сжатие
 
 * Вы открыли проект.Файл > Дополнительно > группа команд Организовать > Проект > группа команд Оптимизировать > Сжать проект. Щелкните в диалоговом окне Сжать проект рядом с полем Настройки по ++...++.
 * Файл > Настройки > Проекты > "Имя проекта" > Управление > Сжать.
@@ -7,27 +7,27 @@
 
 Обзор основных элементов диалогового окна:
 
-Схема:
+### Схема:
 
 Выберите из раскрывающегося списка схему, которую требуется использовать или обработать. Для этого также воспользуйтесь соседней [панелью инструментов](schemeconfig_m_schemaschaltflaechen.md).
 
-Сжимаемые данные:
+### Сжимаемые данные:
 
 В этом поле установите настройки сжатия. Здесь укажите, какие данные проекта должны быть удалены или реорганизованы. Если флажок установлен, данные удаляются.
 
-* [Убрать данные проекта](projectcleangui_k_komprimierungsdaten.md)
-* [Обработать устройства](projectcleangui_k_komprimierungsdaten.md)
-* [Убрать неразмещенные устройства](projectcleangui_k_komprimierungsdaten.md)
-* [Убрать неразмещенные соединения](projectcleangui_k_komprimierungsdaten.md)
-* [Убрать размещенные устройства](projectcleangui_k_komprimierungsdaten.md)
-* [Реорганизовать проект](projectcleangui_k_komprimierungsdaten.md)
-* [Убрать полностью неразмещенные устройства](projectcleangui_k_komprimierungsdaten.md)
-* [Убрать неразмещенные функции, не имеющие главной функции](projectcleangui_k_komprimierungsdaten.md)
-* [Комментарии](projectcleangui_k_komprimierungsdaten.md)
-* [Точки определения сети](projectcleangui_k_komprimierungsdaten.md)
-* [Управление ревизиями](projectcleangui_k_komprimierungsdaten.md)
-* [Удалить трехмерные данные](projectcleangui_k_komprimierungsdaten.md)
-* [Удалить защиту](projectcleangui_k_komprimierungsdaten.md).
+* [Убрать данные проекта](projectcleangui_k_komprimierungsdaten.htm#I_ProjektdatenEntfernen)
+* [Обработать устройства](projectcleangui_k_komprimierungsdaten.htm#I_BetriebsmittelUeberarbeiten)
+* [Убрать неразмещенные устройства](projectcleangui_k_komprimierungsdaten.htm#I_NichtPlatzFunktionenEntfernen)
+* [Убрать неразмещенные соединения](projectcleangui_k_komprimierungsdaten.htm#I_NichtPlatzVerbindEntfernen)
+* [Убрать размещенные устройства](projectcleangui_k_komprimierungsdaten.htm#I_PlatzFunktionenEntfernen)
+* [Реорганизовать проект](projectcleangui_k_komprimierungsdaten.htm#I_DatenbankNeuAufbauen)
+* [Убрать полностью неразмещенные устройства](projectcleangui_k_komprimierungsdaten.htm#I_VollstNichtPlatzDT)
+* [Убрать неразмещенные функции, не имеющие главной функции](projectcleangui_k_komprimierungsdaten.htm#I_NichtPlatzFunktionenOhneHauptfkt)
+* [Комментарии](projectcleangui_k_komprimierungsdaten.htm#I_Kommentare)
+* [Точки определения сети](projectcleangui_k_komprimierungsdaten.htm#I_NDPs)
+* [Управление ревизиями](projectcleangui_k_komprimierungsdaten.htm#I_Revision)
+* [Удалить трехмерные данные](projectcleangui_k_komprimierungsdaten.htm#I_3DDaten)
+* [Удалить защиту](projectcleangui_k_komprimierungsdaten.htm#I_Schutz).
 
 **См. также:**
 

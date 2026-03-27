@@ -1,4 +1,4 @@
-## Проекты макросов
+# Проекты макросов
 
 Проекты макросов используются в Eplan для управления макросами и их упрощенного создания. Соответствующий вид проекта (схема соединений / проект макросов) задается в свойствах проекта с помощью свойства Вид проекта.
 
@@ -20,17 +20,17 @@
 
 Ниже перечислены некоторые из основных различий в функциональности между проектами схем соединений и проектами макросов:
 
-Функциональность |  Проект схемы соед. |  Проект макросов  
----|---|---  
-[Группировать устройства](devicelistgui_k_geraetegruppierung.md) |  - |  X  
-[Вставить границу схемы сверления](propanelmasterdata_h_bohrbildkasteneinfuegen.md) |  - |  X  
-[Вставить рамку макроса](macrosgui_h_makrosausmakroprojekt.md) |  - |  X  
-[Генерировать макросы автоматически из проекта макросов](macrosgui_h_makrosausmakroprojekt.md) |  - |  X  
-[Подготовить макросы к автоматической генерации](macrosgui_d_makrosvorbereiten.md) |  - |  X  
-[Генерировать схемы сверления / контуры автоматически из графических страниц](propanelmasterdata_h_bohrbildgrafischdefinieren.md) |  - |  X  
-[Присвоить все объекты макроса объекту-заполнителю](macrosgui_h_platzhalterobjekteerweitern.md) |  - |  X  
-[Удалить размещение](sparecomponent_h_funktionenzurueckbuchen.md) |  X |  -  
-[Общая обработка](reverseengineering_h_bmmodusaktivieren.md) |  X |  -  
+Функциональность |  Проект схемы соед. |  Проект макросов
+---|---|---
+[Группировать устройства](devicelistgui_k_geraetegruppierung.htm#I_GeraetegruppeErstellen) |  - |  X
+[Вставить границу схемы сверления](propanelmasterdata_h_bohrbildkasteneinfuegen.md) |  - |  X
+[Вставить рамку макроса](macrosgui_h_makrosausmakroprojekt.md) |  - |  X
+[Генерировать макросы автоматически из проекта макросов](macrosgui_h_makrosausmakroprojekt.md) |  - |  X
+[Подготовить макросы к автоматической генерации](macrosgui_d_makrosvorbereiten.md) |  - |  X
+[Генерировать схемы сверления / контуры автоматически из графических страниц](propanelmasterdata_h_bohrbildgrafischdefinieren.md) |  - |  X
+[Присвоить все объекты макроса объекту-заполнителю](macrosgui_h_platzhalterobjekteerweitern.md) |  - |  X
+[Удалить размещение](sparecomponent_h_funktionenzurueckbuchen.md) |  X |  -
+[Общая обработка](reverseengineering_h_bmmodusaktivieren.md) |  X |  -
 
 ### Соединения и отслеживание потенциалов в проектах макросов
 

@@ -72,3 +72,22 @@ https://www.eplan.help/ru-ru/Infoportal/Content/Plattform/2026/Content/htm/wiren
 2. All URLs have to have same path
 
 Create json file like `tree.json` with only one level of structure and put there all those links. keep json structure like in tree.json.
+
+
+Create script any apply. When a line in the file that starts with arrow image, example
+
+```
+![](images/arrow.png) Функции будет присвоено свойство Главная функция.
+```
+
+convert into admonition info
+
+```
+!!! info "Для сведения:"
+
+    Функции будет присвоено свойство Главная функция.
+```
+
+1. There should be one empty line before admonition
+2. There should be one empty line after admonition
+3. there should be a line between title and body

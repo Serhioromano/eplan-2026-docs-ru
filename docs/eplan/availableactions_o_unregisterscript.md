@@ -1,11 +1,11 @@
-## Операция: UnregisterScript
+# Операция: UnregisterScript
 
-**Параметр** |  **Описание**  
----|---  
-ScriptFile  |  Имя файла сценария с полным путем файла. Могут использоваться два типа сценария: C# (*.cs) и VB.NET (*.vb).  
+**Параметр** |  **Описание**
+---|---
+ScriptFile  |  Имя файла сценария с полным путем файла. Могут использоваться два типа сценария: C# (*.cs) и VB.NET (*.vb).
 
 !!! example "Пример:"
 
-    UnregisterScript 
+    UnregisterScript
 /ScriptFile:"C:\myScript.vb"
 

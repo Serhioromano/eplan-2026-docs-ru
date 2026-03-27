@@ -1,15 +1,42 @@
-## Платформа Eplan
+# Платформа Eplan
 
-- Проекты
-- Графический редактор
-- Центр вставки
-- Макросы
-- Соединения
-- Отчеты
-- Лицензии
-- Новости
-- Примечания к выпуску
-- Company
+![](images/Projekte.svg)
+
+Проекты
+
+![](images/Grafischer_Editor.svg)
+
+Графический редактор
+
+![](images/Einfuegezentrum.svg)
+
+Центр вставки
+
+![](images/Makros.svg)
+
+Макросы
+
+![](images/Verbindungen.svg)
+
+Соединения
+
+![](images/Auswertung.svg)
+
+Отчеты
+
+![](images/Lizenzen.svg)
+
+Лицензии
+
+![](images/News.svg)
+
+Новости
+
+![](images/ReleaseNotes.svg)
+
+Примечания к выпуску
+
+Company
 
 * [About us](https://www.eplan-software.com/company/portrait/about-us/ "About us")
 * [Career](https://www.eplan-software.com/company/career/ "Career")
@@ -38,13 +65,3 @@ Legal information
 * [ Privacy policy ](https://www.eplan-software.com/company/portrait/about-us/legal-information/privacy-policy/ "Privacy policy")
 * [ Code of Conduct ](https://www.eplan-software.com/company/portrait/about-us/legal-information/code-of-conduct/ "Code of Conduct")
 * [ Terms & Conditions ](https://www.eplan-software.com/company/portrait/about-us/legal-information/terms-conditions/ "Terms & Conditions")
-
-Follow EPLAN
-
-* <https://www.xing.com/pages/eplan>
-* <https://www.linkedin.com/organization-guest/company/eplan-software-service>
-* <https://twitter.com/Eplan_global>
-* <https://www.facebook.com/EplanDE>
-* <http://www.youtube.com/eplan>
-* <https://www.eplan.blog/>
-
