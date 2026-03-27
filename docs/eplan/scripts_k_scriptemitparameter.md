@@ -22,7 +22,7 @@
 
 }Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class SimpleScriptWithParameters
 
-     <Start> _
+     \<Start\> _
      Public Sub FunctionWithParameters(ByVal Param1 As String, ByVal Param2 As String, ByVal Param3 As String)
 
            MessageBox.Show(Param1 + Param2 + Param3, "SimpleScriptWithParameters")

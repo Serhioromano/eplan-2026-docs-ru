@@ -42,7 +42,7 @@
 
 }В примере с помощью класса`SetBoolSetting`настройка`USER.SYSTEM.GUI.SHOW_PROPERTY_NR`(=**Отображать идентифицирующие номера**) установлена на "true", т. е. включена. Через "false" соответствующий флажок снова снимается.Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class SetSettingScript
 
-     <Start> _
+     \<Start\> _
      Public Sub SetSetting()
 
            Dim oSettings As New Eplan.EplApi.Base.Settings()

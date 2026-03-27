@@ -40,7 +40,7 @@
 
     de_DE@Schütz; en_US@Contactor;nl_NL@Relais;
 
-###  <partsmanagement>
+###  \<partsmanagement\>
 
 № |  Атрибут |  Тип |  Свойство |  Примечание
 ---|---|---|---|---
@@ -51,11 +51,11 @@
 5 |  build | Текст | Номер сборки | Номер сборки на момент экспорта. Опциональн.
 6 |  version | Текст | Номер сборки программы |
 
-### Свойства изделия <part> / <variantx>
+### Свойства изделия \<part\> / \<variantx\>
 
 !!! note "Замечание:"
 
-* Атрибут P_ARTICLE_PARTNR можно определить только для тега <part>.
+* Атрибут P_ARTICLE_PARTNR можно определить только для тега \<part\>.
 * Атрибут P_ARTICLE_PARTTYPE необходимо устанавливать на значение "1" ("Отдельная часть"), "4" ("Узел") или "5" ("Модуль").
 * Атрибут P_ARTICLE_SUBCRAFT_ELECTRICAL_#index: многоязычн.; при самостоятельном создании подраздела в нижней части раздела он выводится в форме P_ARTICLE_SUBCRAFT_<Раздел>-1="??_??@<Имя подраздела>;" (например, P_ARTICLE_SUBCRAFT_ELECTRICAL-1="??_??@test;" для первого подраздела в нижней части раздела "Электротехника" с именем "тест"). Так как свойства индексированы, индекс выводится со знаком 'минус'.
 
@@ -859,7 +859,7 @@ P_ARTICLE_ECABINET_MACRO
 786 |  P_ARTICLE_SIDEPANELPROJECTIONBOTTOM | Double |  |  | Выступ боковой стенки снизу
 787 |  P_ARTICLE_SIDEPANELPROJECTIONFRONT | Double |  |  | Выступ боковой стенки спереди
 
-### Свойства изделия <variant>
+### Свойства изделия \<variant\>
 
 **№** | **Атрибут** | **Тип** | **Группа** | **Единица измерения** | **Свойство**
 ---|---|---|---|---|---
@@ -953,7 +953,7 @@ P_ARTICLE_ECABINET_MACRO
 88 |  P_ARTICLE_FIRMWAREVERSION | Текст |  |  | Версия
 89 |  P_ARTICLE_MATERIAL | Текст (многоязычный) |  |  | Материал
 
-###  <freeproperty>
+###  \<freeproperty\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -962,7 +962,7 @@ P_ARTICLE_ECABINET_MACRO
 3 |  P_ARTICLE_FREE_DATA_VALUE | Текст (многоязычный) | Произв. свойство: Значение
 4 |  P_ARTICLE_FREE_DATA_UNIT | Текст | Произвольн. свойства: Единица измерения
 
-### <userproperty>
+### \<userproperty\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -970,7 +970,7 @@ P_ARTICLE_ECABINET_MACRO
 2 |  pos | Короткое целое | Индекс свойства (1000)
 3 |  P_ARTICLE_FREE_DATA_NEWVALUE | Текст (многоязычный) | Определенные пользователем свойства: Значение
 
-###  <constructionPosition>
+###  \<constructionPosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -979,7 +979,7 @@ P_ARTICLE_ECABINET_MACRO
 3 |  name | Текст | Имя (схема сверления)
 4 |  pos | Короткое целое | Позиция
 
-###  <accessoryposition>
+###  \<accessoryposition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -991,14 +991,14 @@ P_ARTICLE_ECABINET_MACRO
 6 |  pos | Короткое целое | Позиция
 7 |  parentvariant | Текст | Вариант узла/модуля
 
-###  <attributeposition>
+###  \<attributeposition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
 1 |  pos | Короткое целое | Индекс свойства
 2 |  P_ARTICLE_ATTRIBUTE_VALUE | Текст | Атрибут
 
-###  <functiontemplate>
+###  \<functiontemplate\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1051,7 +1051,7 @@ P_ARTICLE_ECABINET_MACRO
 
 *: Разделителем является новая строка.
 
-###  <assemblyposition> <moduleposition>
+###  \<assemblyposition\> \<moduleposition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1066,7 +1066,7 @@ P_ARTICLE_ECABINET_MACRO
 9 |  pos | Короткое целое | Позиция
 10 |  parentvariant | Текст | Вариант узла/модуля
 
-###  <blockingSurfacePosition>
+###  \<blockingSurfacePosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1078,7 +1078,7 @@ P_ARTICLE_ECABINET_MACRO
 6 |  type | Long | Тип
 7 |  pos | Короткое целое | Позиция
 
-###  <doorPosition>
+###  \<doorPosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1089,7 +1089,7 @@ P_ARTICLE_ECABINET_MACRO
 5 |  variant | Текст | Дверь: Вариант
 6 |  pos | Короткое целое | Позиция
 
-###  <mountingPanelPosition>
+###  \<mountingPanelPosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1102,7 +1102,7 @@ P_ARTICLE_ECABINET_MACRO
 7 |  variant | Текст | Монтажная плата: Вариант
 8 |  pos | Короткое целое | Позиция
 
-###  <supportBarPosition>
+###  \<supportBarPosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1114,7 +1114,7 @@ P_ARTICLE_ECABINET_MACRO
 6 |  length | Double | Длина
 7 |  pos | Короткое целое | Позиция
 
-###  <safetyRelatedValuePosition>
+###  \<safetyRelatedValuePosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1139,7 +1139,7 @@ P_ARTICLE_ECABINET_MACRO
 19 |  b10d | Double | Параметры, важные с точки зрения безопасности: B10 D
 20 |  posid | Long | Внутренне: Unique ID
 
-###  <accessorylist>
+###  \<accessorylist\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1153,7 +1153,7 @@ P_ARTICLE_ECABINET_MACRO
 8 |  P_PART_LASTCHANGE_DATE_UTC | Целое число (время) | Дата изменения (UTC)
 9 |  P_ARTICLEACCESSORYLIST_INSERT_COMPLETE | Булево (истина/ложь) | Вставить полностью список принадлежностей
 
-###  <accessorylistposition>
+###  \<accessorylistposition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1162,7 +1162,7 @@ P_ARTICLE_ECABINET_MACRO
 3 |  variant | Текст | Вариант
 4 |  pos | Короткое целое | Позиция
 
-###  <accessoryplacement>
+###  \<accessoryplacement\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1175,7 +1175,7 @@ P_ARTICLE_ECABINET_MACRO
 7 |  P_PART_CREATE_DATE_UTC | Целое число (время) | Дата создания (UTC)
 8 |  P_PART_LASTCHANGE_DATE_UTC | Целое число (время) | Дата изменения (UTC)
 
-###  <accessoryplacementposition>
+###  \<accessoryplacementposition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1188,7 +1188,7 @@ P_ARTICLE_ECABINET_MACRO
 7 |  movable | Булево (истина/ложь) | Перемещаемый
 8 |  pos | Короткое целое | Позиция
 
-###  <construction>
+###  \<construction\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1202,7 +1202,7 @@ P_ARTICLE_ECABINET_MACRO
 8 |  P_PART_CREATE_DATE_UTC | Целое число (время) | Дата создания (UTC)
 9 |  P_PART_LASTCHANGE_DATE_UTC | Целое число (время) | Дата изменения (UTC)
 
-###  <drillingPosition>
+###  \<drillingPosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1221,7 +1221,7 @@ P_ARTICLE_ECABINET_MACRO
 13 |  fabricatealways | Булево (истина/ложь) | Всегда создавать
 14 |  pos | Long | Внутренне: Position (drilling pattern)
 
-###  <terminal>
+###  \<terminal\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1239,7 +1239,7 @@ P_ARTICLE_ECABINET_MACRO
 12 |  P_PART_CREATE_DATE_UTC | Целое число (время) | Дата создания (UTC)
 13 |  P_PART_LASTCHANGE_DATE_UTC | Целое число (время) | Дата изменения (UTC)
 
-###  <terminalPosition>
+###  \<terminalPosition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1285,7 +1285,7 @@ P_ARTICLE_ECABINET_MACRO
 40 |  clampspaceyend | Двойное значение (координата) | Конечная точка полости обжима по оси Y
 41 |  clampspacezend | Двойное значение (координата) | Конечная точка полости обжима по оси Z
 
-###  <address>
+###  \<address\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---
@@ -1312,7 +1312,7 @@ P_ARTICLE_ECABINET_MACRO
 21 |  P_PART_CREATE_DATE_UTC | Целое число (время) | Дата создания (UTC)
 22 |  P_PART_LASTCHANGE_DATE_UTC | Целое число (время) | Дата изменения (UTC)
 
-###  <propertydefinition>
+###  \<propertydefinition\>
 
 **№** | **Атрибут** | **Тип** | **Свойство**
 ---|---|---|---

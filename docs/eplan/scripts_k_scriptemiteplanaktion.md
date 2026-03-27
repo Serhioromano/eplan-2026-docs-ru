@@ -6,18 +6,18 @@
 
 Общая структура соответствующего сценария C# выглядит так:
 
-    public class <ScriptName>
+    public class \<ScriptName\>
     {
 
          [Start]
-         public void <FunctionName>
+         public void \<FunctionName\>
          {
 
-               ActionCallingContext <ActionName>Context = new ActionCallingContext ();
-               <ActionName>Context .AddParameter("<ActionParameter1>","<Value>");
-               <ActionName>Context .AddParameter("<ActionParameter2>","<Value>");
+               ActionCallingContext \<ActionName\>Context = new ActionCallingContext ();
+               \<ActionName\>Context .AddParameter("<ActionParameter1>","\<Value\>");
+               \<ActionName\>Context .AddParameter("<ActionParameter2>","\<Value\>");
                ...
-               new CommandLineInterpreter().Execute("<ActionName>",<ActionName>Context);
+               new CommandLineInterpreter().Execute("\<ActionName\>",\<ActionName\>Context);
                return;
 
          }
@@ -50,7 +50,7 @@
 }Через`ActionCallingContext`в вышеприведенном примере задается набор параметров для функции`PrintFunction`. Затем перечисляются различные параметры, а также соответствующие значения для операции`print`. Задайте, например, через параметр`NUMBER`число распечаток. В примере было указано значение`"1"`. Через меню`Execute`выполняется операция`print`.Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class PrintScript
 {
 
-     <Start> _
+     \<Start\> _
      Public Sub PrintFunction()
 
            Dim printContext As New ActionCallingContext ()

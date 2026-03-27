@@ -6,11 +6,11 @@
 
 Общая структура соответствующего сценария C# выглядит так:
 
-    public class <ScriptName>
+    public class \<ScriptName\>
     {
 
-         [DeclareAction("<ActionName>")]
-         public void <FunctionName>
+         [DeclareAction("\<ActionName\>")]
+         public void \<FunctionName\>
          {
 
                //<Enter your code text here>

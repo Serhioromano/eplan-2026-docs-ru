@@ -4,11 +4,11 @@
 
 Общая структура простого сценария C# выглядит так:
 
-    public class <ScriptName>
+    public class \<ScriptName\>
     {
 
          [Start]
-         public void <FunctionName>
+         public void \<FunctionName\>
          {
 
                //<Enter your code text here>
@@ -34,7 +34,7 @@
 
 }В этом примере класс`SimpleScript`создается через функцию`MyFunction`. Функция обозначается атрибутом`[Start]`. В случае выполнения сценария по командному пути**Файл**>**Дополнительно**> группа команд**Расширения**>**Интерфейсы**> группа команд**Сценарии**>**Выполнить**появляется сообщение`MyFunction was called!`.Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class SimpleScript
 
-     <Start> _
+     \<Start\> _
      Public Sub MyFunction()
 
            MessageBox.Show("MyFunction was called!", "SimpleScript")
