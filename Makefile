@@ -1,24 +1,12 @@
-.PHONY: deploy init serve gitc ts bashhist
+.PHONY: deploy init serve gitc log
 
 serve:
 	@echo "Starting the MkDocs server..."
-	mkdocs serve
+	@source .env && mkdocs serve
 
-ts:
-	@sudo tailscale login
-	@sudo tailscale up --reset --hostname=mkdocs --accept-routes
-
-bashhist:
-	@export $(grep -v '^#' .env | xargs)
-	@sudo mkdir /commandhistory
-	@sudo touch /commandhistory/.bash_history
-	@sudo chown -R $(whoami) /commandhistory
-	@SNIPPET="export PROMPT_COMMAND='history -a' && export HISTFILE=commandhistory/.bash_history"
-	@echo "$SNIPPET" >> "/home/$(whoami)/.bashrc"
-
-start:
-	@npm install -g @google/gemini-cli@latest
-	@gemini
+log:
+	@echo "Starting the MkDocs server..."
+	@source ./.env && mkdocs serve 2>&1 | tee mkdocs.log
 
 init: gitc
 	@echo "Start PIP configuration"
@@ -37,6 +25,5 @@ gitc:
 
 deploy:
 	@echo "Deploying the application..."
-	@source .env
 	@mkdocs gh-deploy
 	@echo "Deployment complete."
