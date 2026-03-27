@@ -123,6 +123,24 @@ def fix_ui_icons(content):
 
     return '\n'.join(process_line(l) for l in content.split('\n'))
 
+def fix_image_spacing(content):
+    """Ensure standalone image lines have one empty line above and below."""
+    strip_re = re.compile(r'!\[[^\]]*\]\([^)]*\)(\s*\{[^}]*\})?')
+    lines = content.split('\n')
+    result = []
+    for i, line in enumerate(lines):
+        stripped = line.strip()
+        is_standalone = bool(stripped) and '![' in line and strip_re.sub('', stripped).strip() == ''
+        if is_standalone:
+            if result and result[-1].strip() != '':
+                result.append('')
+            result.append(line)
+            if i + 1 < len(lines) and lines[i + 1].strip() != '':
+                result.append('')
+        else:
+            result.append(line)
+    return '\n'.join(result)
+
 def fix_merged_words(content):
     """Insert space between a lowercase Cyrillic letter and an uppercase one (merged words)."""
     return re.sub(r'([а-яё])([А-ЯЁ])', r'\1 \2', content)
@@ -172,6 +190,7 @@ def process_file(path):
     content = fix_button_brackets(content)
     content = fix_arrow_admonitions(content)
     content = fix_ui_icons(content)
+    content = fix_image_spacing(content)
     content = collapse_blank_lines(content)
 
     if content != original:

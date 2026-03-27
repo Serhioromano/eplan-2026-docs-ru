@@ -26,6 +26,7 @@ XTR5_7 // 1708 |  XTR5_8 // 1709
 * Библиотеки символов "IEC_single_symbol", "GOST_single_symbol" и "GB_single_symbol" расширена таким новым символом:
 
 ![](images/2026_SINGLE_QLTR2_1_1590.png)
+
 ---
 QLTR2_1 // 1590
 
@@ -51,6 +52,7 @@ XTR5_7 // 1708 |  XTR5_8 // 1709
 * Библиотека символов "NFPA_single_symbol" расширена таким новым символом:
 
 ![](images/2026_SINGLE_NFPA_QLTR2_1_1590.png)
+
 ---
 QLTR2_1 // 1590
 
@@ -76,7 +78,9 @@ WT_49 // 517 |  WT_50 // 518 |  ZUB_61 // 1291 |  ZUB_62 // 1292
 ![](images/2026_PID_ESS_STA_11_1311.png) |  ![](images/2026_PID_ESS_STA_12_1312.png) |  ![](images/2026_PID_ESS_STA_13_1313.png) |  ![](images/2026_PID_ESS_STA_14_1314.png)
 ---|---|---|---
 STA_11 // 1311 |  STA_12 // 1312 |  STA_13 // 1313 |  STA_14 // 1314
+
 ![](images/2026_PID_ESS_STA_38_1348.png)
+
 ---
 STA_38 // 1348
 
