@@ -26,4 +26,4 @@
 
 **См. также:**
 
-* [Определение потенциалов и сигналов](potentialbrowsergui_k_prinzippotenziale.md)
+* [Определение потенциалов и сигналов](../potentialbrowsergui_k_prinzippotenziale.md)

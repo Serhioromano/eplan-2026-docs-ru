@@ -20,4 +20,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
+* [Диалоговое окно Логическая схема выводов устройства](../xfctdefbrowsergui_d_anschlusslogik.md)

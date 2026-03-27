@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: ОУ (Проекты, Устройства)](xessettingsgui_d_betriebsmittelbmk.md)
+* [Диалоговое окно Настройки: ОУ (Проекты, Устройства)](../xessettingsgui_d_betriebsmittelbmk.md)

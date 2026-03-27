@@ -16,4 +16,4 @@
 
 **См. также:**
 
-* [Вкладка Данные шины](devicetaggui_r_busdaten.md)
+* [Вкладка Данные шины](../devicetaggui_r_busdaten.md)

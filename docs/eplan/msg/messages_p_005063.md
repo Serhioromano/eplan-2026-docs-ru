@@ -11,4 +11,4 @@
 
 **См. также:**
 
-* [Диалоговое окно / вкладка "Подключить устройства"](xesconnectdevicegui_d_geraeteverschalten.md)
+* [Диалоговое окно / вкладка "Подключить устройства"](../xesconnectdevicegui_d_geraeteverschalten.md)

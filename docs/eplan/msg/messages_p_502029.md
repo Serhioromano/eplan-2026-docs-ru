@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Вкладка Модуль](articlesgui_r_modul.md)
+* [Вкладка Модуль](../articlesgui_r_modul.md)

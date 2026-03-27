@@ -18,5 +18,5 @@
 
 **См. также:**
 
-* [Создать изделие](articlesgui_h_artikelerstellen.md)
-* [Импортировать данные изделий](articlesgui_h_artikelimportieren.md)
+* [Создать изделие](../articlesgui_h_artikelerstellen.md)
+* [Импортировать данные изделий](../articlesgui_h_artikelimportieren.md)

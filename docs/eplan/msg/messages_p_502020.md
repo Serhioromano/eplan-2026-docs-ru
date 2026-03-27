@@ -22,6 +22,6 @@
 
 **См. также:**
 
-* [Создать изделие](articlesgui_h_artikelerstellen.md)
-* [Импортировать данные изделий](articlesgui_h_artikelimportieren.md)
-* [Создать список принадлежностей и присвоить его главному изделию](articlesgui_h_zubehoerlisteerstellen.md)
+* [Создать изделие](../articlesgui_h_artikelerstellen.md)
+* [Импортировать данные изделий](../articlesgui_h_artikelimportieren.md)
+* [Создать список принадлежностей и присвоить его главному изделию](../articlesgui_h_zubehoerlisteerstellen.md)

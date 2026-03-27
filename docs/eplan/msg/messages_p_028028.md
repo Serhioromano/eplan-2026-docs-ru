@@ -17,4 +17,4 @@
 
 **См. также:**
 
-* [Создать и обработать классы трубы и вещества](planninggui_h_rohrklasseerstellen.md)
+* [Создать и обработать классы трубы и вещества](../planninggui_h_rohrklasseerstellen.md)

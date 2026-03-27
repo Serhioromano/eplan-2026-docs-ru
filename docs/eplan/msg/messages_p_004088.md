@@ -22,4 +22,4 @@
 
 **См. также:**
 
-* [Экспорт файлов конфигурации ПЛК](plcgui_k_exportbuskonfig.md)
+* [Экспорт файлов конфигурации ПЛК](../plcgui_k_exportbuskonfig.md)

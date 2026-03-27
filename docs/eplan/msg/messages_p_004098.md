@@ -26,4 +26,4 @@
 
 **См. также:**
 
-* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+* [Диалоговое окно Настройки: Синтаксическая проверка ОУ](../devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)

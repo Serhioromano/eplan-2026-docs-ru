@@ -27,4 +27,4 @@
 
 **См. также:**
 
-* [Подустройства ПЛК](plcgui_k_untergeraete.md)
+* [Подустройства ПЛК](../plcgui_k_untergeraete.md)
