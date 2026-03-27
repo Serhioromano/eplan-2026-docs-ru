@@ -134,3 +134,6 @@ images/settingsmastergui_newsettingforpartreports_ls.png
 Cоздай скрипт и примени
 
 <Библиотека символов>;<Присвоение библиотеки символов в проекте>;<Номер символа>;<Вариант>
+
+
+Can you create script that will chek image size in docs/eplan/images

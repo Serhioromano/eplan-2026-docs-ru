@@ -68,11 +68,11 @@ def fix_htm_links(content):
     return content
 
 def fix_arrow_admonitions(content):
-    """Convert ![](images/arrow.png) lines to !!! info admonition blocks."""
-    pattern = re.compile(r'^!\[[^\]]*\]\(images/arrow\.png\)\s*(.+)$', re.MULTILINE)
+    """Convert ![](images/arrow*.png) lines to !!! info admonition blocks."""
+    pattern = re.compile(r'^!\[[^\]]*\]\(images/arrow[^)]*\)\s*(.+)$', re.MULTILINE)
     def replace(m):
         text = m.group(1).strip()
-        return f'\n!!! info "Для сведения:"\n\n    {text}\n'
+        return f'\n\n!!! info "Для сведения:"\n\n    {text}\n'
     content = pattern.sub(replace, content)
     return content
 

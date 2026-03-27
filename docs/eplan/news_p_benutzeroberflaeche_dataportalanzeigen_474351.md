@@ -30,7 +30,6 @@
 
 Чтобы пиктограммы Eplan Data Portal отображались и вы могли использовать Eplan Data Portal, необходимо зарегистрироваться в Eplan Cloud. Дополнительную информацию об облачных продуктах Eplan Cloud см. в справке по [Eplan Cloud](https://www.eplan.help/ru-ru/Infoportal/Content/Cloud/Content/htm/Cloud_k_home.htm).
 
-
 ### Новые фильтры поиска для целенаправленного поиска в центре вставки
 
 Теперь при поиске в центре вставки по умолчанию — если это возможно — также выполняется поиск в Eplan Data Portal. Для этого фильтр поиска ![](images/insertergui_search_in_all_as.png) (Поиск во всех разделах) дополнен поиском в Eplan Data Portal. Дополнительно доступны следующие новые фильтры поиска:

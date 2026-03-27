@@ -17,7 +17,9 @@
 8. Чтобы исключить настройку из сравнения, снимите флажок перед настройкой в поле **Сравниваемые настройки**.
 9. Щелкните по кнопкам ++"Сохранить"++ и ++"OK"++.
 
-![](images/arrow.png) [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
+!!! info "Для сведения:"
+
+    [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
 
 **См. также:**
 
