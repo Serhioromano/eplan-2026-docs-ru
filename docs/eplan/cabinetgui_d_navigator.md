@@ -47,27 +47,27 @@
 Пиктограмма |  Пиктограмма |  Значение
 ---|---|---
 Выводится |  Не выводится |
-![](images/cabinetgui_layoutspace_as.png) |  - |  Пространство листа
-![](images/cabinetgui_enclosure_as.png) |  ![](images/cabinetgui_hidedenclosure_as.png) |  Электрошкаф
-![](images/cabinetgui_profile_as.png) |  ![](images/cabinetgui_hideprofile_as.png) |  Перфорированный профиль
-![](images/cabinetgui_sheet_as.png) |  ![](images/cabinetgui_hidesheet_as.png) |  Лист для стенки
-![](images/cabinetgui_door_as.png) |  ![](images/cabinetgui_hidedoor_as.png) |  Дверь
-![](images/cabinetgui_mountingpanel_as.png) |  ![](images/cabinetgui_hidedmountingpanel_as.png) |  Монтажная плата
-![](images/cabinetgui_mountingrail_as.png) |  ![](images/cabinetgui_hidemountingrail_as.png) |  Несущая шина
-![](images/cabinetgui_duct_as.png) |  ![](images/cabinetgui_hideduct_as.png) |  Кабельный канал
-![](images/navigatorgui_partplacement_as.png) |  ![](images/navigatorgui_hidedpartplacement_as.png) |  Размещение изделия
-![](images/cabinetgui_lockedarea_as.png) |  ![](images/cabinetgui_hidelockedarea_as.png) |  Запретная зона для размещения / заблокированная для монтажных отверстий область
-![](images/cabinetgui_opening_as.png) |  ![](images/cabinetgui_hideopening_as.png) |  Монтажное отверстие
-![](images/cabinetgui_placeholdernode_as.png) |  - |  Объекты-заполнители
-![](images/cabinetgui_placeholder_as.png) |  - |  Отдельный объект-заполнитель
-![](images/cabinetgui_mountingaids_as.png) |  ![](images/cabinetgui_hidemountingaids_as.png) |  Инструмент для монтажных работ
-![](images/cabinetgui_auxiliaryline_as.png) |  ![](images/cabinetgui_hideauxiliaryline_as.png) |  Вспомогательная линия
-![](images/cabinetgui_basepoint_as.png) |  ![](images/cabinetgui_hidebasepoint_as.png) |  Исходная точка
-![](images/cabinetgui_mountinggrid_as.png) |  ![](images/cabinetgui_hidemountinggrid_as.png) |  Монтажная сетка
-![](images/cabinetgui_mountingline_as.png) |  ![](images/cabinetgui_hidemountingline_as.png) |  Линия монтажа
-![](images/cabinetgui_mountingpoint_as.png) |  ![](images/cabinetgui_hidemountingpoint_as.png) |  Точка монтажа
+![](images/cabinetgui_layoutspace_as.png){ .ui-icon } |  - |  Пространство листа
+![](images/cabinetgui_enclosure_as.png){ .ui-icon } |  ![](images/cabinetgui_hidedenclosure_as.png){ .ui-icon } |  Электрошкаф
+![](images/cabinetgui_profile_as.png){ .ui-icon } |  ![](images/cabinetgui_hideprofile_as.png){ .ui-icon } |  Перфорированный профиль
+![](images/cabinetgui_sheet_as.png){ .ui-icon } |  ![](images/cabinetgui_hidesheet_as.png){ .ui-icon } |  Лист для стенки
+![](images/cabinetgui_door_as.png){ .ui-icon } |  ![](images/cabinetgui_hidedoor_as.png){ .ui-icon } |  Дверь
+![](images/cabinetgui_mountingpanel_as.png){ .ui-icon } |  ![](images/cabinetgui_hidedmountingpanel_as.png){ .ui-icon } |  Монтажная плата
+![](images/cabinetgui_mountingrail_as.png){ .ui-icon } |  ![](images/cabinetgui_hidemountingrail_as.png){ .ui-icon } |  Несущая шина
+![](images/cabinetgui_duct_as.png){ .ui-icon } |  ![](images/cabinetgui_hideduct_as.png){ .ui-icon } |  Кабельный канал
+![](images/navigatorgui_partplacement_as.png){ .ui-icon } |  ![](images/navigatorgui_hidedpartplacement_as.png){ .ui-icon } |  Размещение изделия
+![](images/cabinetgui_lockedarea_as.png){ .ui-icon } |  ![](images/cabinetgui_hidelockedarea_as.png){ .ui-icon } |  Запретная зона для размещения / заблокированная для монтажных отверстий область
+![](images/cabinetgui_opening_as.png){ .ui-icon } |  ![](images/cabinetgui_hideopening_as.png){ .ui-icon } |  Монтажное отверстие
+![](images/cabinetgui_placeholdernode_as.png){ .ui-icon } |  - |  Объекты-заполнители
+![](images/cabinetgui_placeholder_as.png){ .ui-icon } |  - |  Отдельный объект-заполнитель
+![](images/cabinetgui_mountingaids_as.png){ .ui-icon } |  ![](images/cabinetgui_hidemountingaids_as.png){ .ui-icon } |  Инструмент для монтажных работ
+![](images/cabinetgui_auxiliaryline_as.png){ .ui-icon } |  ![](images/cabinetgui_hideauxiliaryline_as.png){ .ui-icon } |  Вспомогательная линия
+![](images/cabinetgui_basepoint_as.png){ .ui-icon } |  ![](images/cabinetgui_hidebasepoint_as.png){ .ui-icon } |  Исходная точка
+![](images/cabinetgui_mountinggrid_as.png) |  ![](images/cabinetgui_hidemountinggrid_as.png){ .ui-icon } |  Монтажная сетка
+![](images/cabinetgui_mountingline_as.png){ .ui-icon } |  ![](images/cabinetgui_hidemountingline_as.png){ .ui-icon } |  Линия монтажа
+![](images/cabinetgui_mountingpoint_as.png){ .ui-icon } |  ![](images/cabinetgui_hidemountingpoint_as.png){ .ui-icon } |  Точка монтажа
 Активировано автоматически |  Активировано напрямую |
-![](images/cabinetgui_master_as.png) |  ![](images/cabinetgui_masteractivated_as.png) |  Монтажная поверхность
+![](images/cabinetgui_master_as.png){ .ui-icon } |  ![](images/cabinetgui_masteractivated_as.png){ .ui-icon } |  Монтажная поверхность
 
 Графика представляется в трехмерной области отображения пространства листа. Каждый уровень иерархии при этом может быть представлен отдельно. Несмотря на то что работа в навигаторе пространств листов не привязана к страницам проекта, здесь имеется возможность предварительного просмотра графики.
 

@@ -17,11 +17,11 @@
 
 Пиктограмма |  Значение
 ---|---
-![](images/navigatorgui_device_as.png) |  Устройства
-![](images/navigatorgui_mainfunctionpart_as.png) ![](images/navigatorgui_topofunction_as.png) |  Цель (главная функция с видом представления "Топология")
-![](images/navigatorgui_mainfunctionpart_as.png) ![](images/navigatorgui_toporoutingpoint_as.png) |  Точка маршрутизации
-![](images/navigatorgui_mainfunctionpart_as.png) ![](images/navigatorgui_toporoutingpath_as.png) |  Сегмент маршрутизации
-![](images/navigatorgui_topofunction_as.png) |  Дополнительная функция топологии
+![](images/navigatorgui_device_as.png){ .ui-icon } |  Устройства
+![](images/navigatorgui_mainfunctionpart_as.png){ .ui-icon } ![](images/navigatorgui_topofunction_as.png){ .ui-icon } |  Цель (главная функция с видом представления "Топология")
+![](images/navigatorgui_mainfunctionpart_as.png){ .ui-icon } ![](images/navigatorgui_toporoutingpoint_as.png){ .ui-icon } |  Точка маршрутизации
+![](images/navigatorgui_mainfunctionpart_as.png){ .ui-icon } ![](images/navigatorgui_toporoutingpath_as.png){ .ui-icon } |  Сегмент маршрутизации
+![](images/navigatorgui_topofunction_as.png){ .ui-icon } |  Дополнительная функция топологии
 
 (Обзор основных пиктограмм для данных проекта вы найдете в разделе [Пиктограммы для навигаторов](userinterface_k_iconsnavigatoren.md).)
 

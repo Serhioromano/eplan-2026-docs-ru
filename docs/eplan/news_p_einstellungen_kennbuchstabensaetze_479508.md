@@ -46,5 +46,5 @@
 
 **См. также:**
 
-* [![](images/link_helpsystem_book.png)
-* [![](images/link_helpsystem_book.png)
+* [![](images/link_helpsystem_book.png){ .ui-icon }
+* [![](images/link_helpsystem_book.png){ .ui-icon }

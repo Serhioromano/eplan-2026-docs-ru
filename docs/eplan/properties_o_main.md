@@ -1,4 +1,7 @@
 # Свойства Eplan
+
+
+<div class="md-typeset__table">
 <table>
     <thead>
         <tr>
@@ -45148,3 +45151,4 @@
         </tr>
     </tbody>
 </table>
+</div>

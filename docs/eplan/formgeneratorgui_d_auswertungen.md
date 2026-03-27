@@ -13,14 +13,14 @@
 
 Пиктограмма |  Уровень структуры дерева |  Значение
 ---|---|---
-![](images/formgeneratorgui_sourceproject_as.png) |  Исходный проект (если указан) |  Содержит проект, записанный как исходный для проекта или отчетов / шаблонов.
-![](images/formgeneratorgui_reportpages_as.png) |  [Страницы (отчетов)](formgeneratorgui_k_auswertungsseiten.md) |  Содержит все сгенерированные страницы отчетов.
-![](images/formgeneratorgui_functionrelatedreport_as.png) |  [Относящиеся к функциям типы отчетов](formgeneratorgui_k_auswertungstypen.md) |  Содержит все отчеты типа отчетов, относящегося к функциям.
-![](images/formgeneratorgui_overviewreport_as.png) |  [Тип отчета для перечня отчетов](formgeneratorgui_k_auswertungstypen.md) |  Содержит все отчеты типа отчетов для перечней отчетов.
-![](images/formgeneratorgui_functionrelatedreportblock_as.png) |  [Блоки отчетов](formgeneratorgui_k_auswertungsbloecke.md) (отчеты, связанные с функциями) |  Содержит все отчеты, относящиеся к одному блоку отчетов (отчеты, связанные с функциями).
-![](images/formgeneratorgui_overviewreportblock_as.png) |  [Блоки отчетов](formgeneratorgui_k_auswertungsbloecke.md) (обзор отчетов) |  Содержит все отчеты, относящиеся к одному блоку отчетов (перечни отчетов).
-![](images/pagebrowsergui_pageautomatic_as.png) |  Страницы отчета / размещенные отчеты |  Представляет страницу отчета или ручное размещение встроенного отчета.
-![](images/formgeneratorgui_reportembedded_as.png) |  [Встроенные отчеты](formgeneratorgui_k_ausgabeformen.md) |  Содержит все сгенерированные встроенные отчеты.
+![](images/formgeneratorgui_sourceproject_as.png){ .ui-icon } |  Исходный проект (если указан) |  Содержит проект, записанный как исходный для проекта или отчетов / шаблонов.
+![](images/formgeneratorgui_reportpages_as.png){ .ui-icon } |  [Страницы (отчетов)](formgeneratorgui_k_auswertungsseiten.md) |  Содержит все сгенерированные страницы отчетов.
+![](images/formgeneratorgui_functionrelatedreport_as.png){ .ui-icon } |  [Относящиеся к функциям типы отчетов](formgeneratorgui_k_auswertungstypen.md) |  Содержит все отчеты типа отчетов, относящегося к функциям.
+![](images/formgeneratorgui_overviewreport_as.png){ .ui-icon } |  [Тип отчета для перечня отчетов](formgeneratorgui_k_auswertungstypen.md) |  Содержит все отчеты типа отчетов для перечней отчетов.
+![](images/formgeneratorgui_functionrelatedreportblock_as.png){ .ui-icon } |  [Блоки отчетов](formgeneratorgui_k_auswertungsbloecke.md) (отчеты, связанные с функциями) |  Содержит все отчеты, относящиеся к одному блоку отчетов (отчеты, связанные с функциями).
+![](images/formgeneratorgui_overviewreportblock_as.png){ .ui-icon } |  [Блоки отчетов](formgeneratorgui_k_auswertungsbloecke.md) (обзор отчетов) |  Содержит все отчеты, относящиеся к одному блоку отчетов (перечни отчетов).
+![](images/pagebrowsergui_pageautomatic_as.png){ .ui-icon } |  Страницы отчета / размещенные отчеты |  Представляет страницу отчета или ручное размещение встроенного отчета.
+![](images/formgeneratorgui_reportembedded_as.png){ .ui-icon } |  [Встроенные отчеты](formgeneratorgui_k_ausgabeformen.md) |  Содержит все сгенерированные встроенные отчеты.
 
 !!! note "Замечание:"
 
