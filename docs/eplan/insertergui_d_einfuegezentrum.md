@@ -108,7 +108,7 @@
 
 Если установлена предварительная фильтрация изделий, то поиск в Eplan Data Portal невозможен и пиктограмма ![](images/userinterface_edpIcon_as.png){ .ui-icon } "Data Portal" не отображается. Дополнительную информацию по поиску в центре вставки см. в разделе "Поиск".
 
-Дополнительную информацию по Eplan Data Portal см. [здесь]https://www.eplan.help/ru-ru/Infoportal/Content/EDP_Cloud/Content/htm/DataPortalCS_k_home.htm.
+Дополнительную информацию по Eplan Data Portal см. [здесь](https://www.eplan.help/ru-ru/Infoportal/Content/EDP_Cloud/Content/htm/DataPortalCS_k_home.htm).
 
 При нажатии на папку, содержащую объекты, отобразится предварительный просмотр объектов в виде плиток. Визуализированное содержимое плитки предварительного просмотра при этом зависит от выбранного типа объекта:
 
