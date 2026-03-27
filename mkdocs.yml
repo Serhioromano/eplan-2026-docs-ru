@@ -2634,7 +2634,8 @@ nav:
         - "Основные данные: Символы": eplan/news_p_stammdaten_start_2026.md
 
 plugins:
-  - search
+  - search:
+    enabled: false
   - meta
   - git-authors
   - git-revision-date-localized:
