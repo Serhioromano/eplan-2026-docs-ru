@@ -93613,10 +93613,10 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
+  <a href="#partsmanagement" class="md-nav__link">
     <span class="md-ellipsis">
       
-        
+        \&lt;partsmanagement>
       
     </span>
   </a>
@@ -96557,42 +96557,42 @@
 
 
 <h1 id="xml">Импорт и экспорт XML: Обзор тэгов и атрибутов</h1>
-<p>Импорт и экспорт базы данных изделий происходит при помощи языка XML. Данные в соответствии с этим языком должны быть структурированы следующим образом:</p>
+<p>Импорт и экспорт базы данных изделий происходит при помощи языка <code>XML</code>. Данные в соответствии с этим языком должны быть структурированы следующим образом:</p>
 <p><img alt="" src="../images/xmlexport_example_av.png" /></p>
 <div class="admonition note">
 <p class="admonition-title">Замечание:</p>
-<ul>
-<li>Тег <partsmanagement> можно определить только один раз! Все остальные теги могут быть определены любое количество раз. Их определение также можно опустить, например, если необходимо задать шаблон функции или схему сверления без указания данных.
-    Исключение:
-    Для изделия (тег <part>) всегда должен быть задан как минимум один вариант (тег <variant>)!</li>
-<li>Тег <variantx> расположенный под тегом <variant> имеет свойства (атрибуты), которые до версии 2022 были присвоены только изделию (тег <part>), а теперь зависят от варианта. Тег <variantx> может использоваться только со второго варианта, и он отличается от первого варианта.
-    Исключение:
-    атрибут P_ARTICLE_PARTNR (номер изделия) можно определить только для тега <part> .</li>
-</ul>
 </div>
+<ul>
+<li>Тег \&lt;partsmanagement&gt; можно определить только один раз! Все остальные теги могут быть определены любое количество раз. Их определение также можно опустить, например, если необходимо задать шаблон функции или схему сверления без указания данных.
+    Исключение:
+    Для изделия (тег \&lt;part&gt;) всегда должен быть задан как минимум один вариант (тег \&lt;variant&gt;)!</li>
+<li>Тег \&lt;variantx&gt; расположенный под тегом \&lt;variant&gt; имеет свойства (атрибуты), которые до версии 2022 были присвоены только изделию (тег \&lt;part&gt;), а теперь зависят от варианта. Тег \&lt;variantx&gt; может использоваться только со второго варианта, и он отличается от первого варианта.
+    Исключение:
+    атрибут P_ARTICLE_PARTNR (номер изделия) можно определить только для тега \&lt;part&gt; .</li>
+</ul>
 <h3 id="_1">Тэги</h3>
-<h2 id="_2"><a href="../xmlexport_o_tags/"><partsmanagement></a></h2>
-<p><a href="../xmlexport_o_tags/"> <part></a>
-<a href="../xmlexport_o_tags/"><variant></a>
-<a href="../xmlexport_o_tags/"><variantx></a>
-<a href="../xmlexport_o_tags/"><functiontemplate></a>
-<a href="../xmlexport_o_tags/"><freeproperty></a>
-<a href="../xmlexport_o_tags/"><blockingSurfacePosition></a>
-<a href="../xmlexport_o_tags/"><doorPosition></a>
-<a href="../xmlexport_o_tags/"><mountingPanelPosition></a>
-<a href="../xmlexport_o_tags/"><supportBarPosition></a>
-<a href="../xmlexport_o_tags/"><assemblyposition></a>
-<a href="../xmlexport_o_tags/"><moduleposition></a>
-<a href="../xmlexport_o_tags/"><attributeposition></a>
-<a href="../xmlexport_o_tags/"><accessoryposition></a>
-<a href="../xmlexport_o_tags/"><accessorylist></a>
-<a href="../xmlexport_o_tags/"><accessorylistposition></a>
-<a href="../xmlexport_o_tags/"><construction></a>
-<a href="../xmlexport_o_tags/"><drillingPosition></a>
-<a href="../xmlexport_o_tags/"><terminal></a>
-<a href="../xmlexport_o_tags/"><terminalPosition></a>
-<a href="../xmlexport_o_tags/"><safetyRelatedValuePosition></a>
-<a href="../xmlexport_o_tags/"><address></a></p>
+<h2 id="partsmanagement"><a href="../xmlexport_o_tags/">\&lt;partsmanagement&gt;</a></h2>
+<p><a href="../xmlexport_o_tags/"> \&lt;part&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;variant&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;variantx&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;functiontemplate&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;freeproperty&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;blockingSurfacePosition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;doorPosition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;mountingPanelPosition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;supportBarPosition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;assemblyposition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;moduleposition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;attributeposition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;accessoryposition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;accessorylist&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;accessorylistposition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;construction&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;drillingPosition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;terminal&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;terminalPosition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;safetyRelatedValuePosition&gt;</a>
+<a href="../xmlexport_o_tags/">\&lt;address&gt;</a></p>
 
 
 
@@ -96613,7 +96613,7 @@
     <span class="md-icon" title="Последнее обновление">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="27 марта 2026 г. 05:39:54 UTC">27 марта 2026 г.</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="27 марта 2026 г. 13:28:18 UTC">27 марта 2026 г.</span>
   </span>
 
     

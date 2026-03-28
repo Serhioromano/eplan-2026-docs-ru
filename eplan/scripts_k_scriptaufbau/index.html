@@ -96514,13 +96514,13 @@
 
 
 <h1 id="_1">Создание простого сценария</h1>
-<p>Простой сценарий, который можно выполнить, состоит по крайней мере из одного общего класса как минимум с одной функцией. Данная функция должна всегда обозначаться атрибутом [Start].</p>
+<p>Простой сценарий, который можно выполнить, состоит по крайней мере из одного общего класса как минимум с одной функцией. Данная функция должна всегда обозначаться атрибутом  <code>[Start]</code>.</p>
 <p>Общая структура простого сценария C# выглядит так:</p>
-<pre class="highlight"><code>public class &lt;ScriptName&gt;
+<pre class="highlight"><code>public class \&lt;ScriptName\&gt;
 {
 
      [Start]
-     public void &lt;FunctionName&gt;
+     public void \&lt;FunctionName\&gt;
      {
 
            //&lt;Enter your code text here&gt;
@@ -96542,8 +96542,8 @@
        return;
 
  }</code></pre>
-<p>}В этом примере классSimpleScriptсоздается через функциюMyFunction. Функция обозначается атрибутом[Start]. В случае выполнения сценария по командному пути Файл&gt;Дополнительно&gt; группа команд Расширения&gt;Интерфейсы&gt; группа команд <abbr title="В Eplan существует возможность сохранять выполненные сценарии. Это небольшие программы API, записанные в VB.NET или C# и способные вызываться операциями Eplan.">Сценарии</abbr>&gt;Выполнитьпоявляется сообщениеMyFunction was called!.Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class SimpleScript</p>
-<pre class="highlight"><code> &lt;Start&gt; _
+<p>}В этом примере класс<code>SimpleScript</code>создается через функцию<code>MyFunction</code>. Функция обозначается атрибутом<code>[Start]</code>. В случае выполнения сценария по командному пути<strong>Файл</strong>&gt;<strong>Дополнительно</strong>&gt; группа команд<strong>Расширения</strong>&gt;<strong>Интерфейсы</strong>&gt; группа команд<strong><abbr title="В Eplan существует возможность сохранять выполненные сценарии. Это небольшие программы API, записанные в VB.NET или C# и способные вызываться операциями Eplan.">Сценарии</abbr></strong>&gt;<strong>Выполнить</strong>появляется сообщение<code>MyFunction was called!</code>.Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class SimpleScript</p>
+<pre class="highlight"><code> \&lt;Start\&gt; _
  Public Sub MyFunction()
 
        MessageBox.Show("MyFunction was called!", "SimpleScript")
@@ -96551,7 +96551,7 @@
 
  End Sub 'MyFunction</code></pre>
 <p>End Class 'SimpleScript</p>
-<p>Сценарий может содержать больше чем одну функцию и различные классы. В любом случае атрибутом [Start] должна быть обозначена именно одна функция.</p>
+<p>Сценарий может содержать больше чем одну функцию и различные классы. В любом случае атрибутом  <code>[Start]</code> должна быть обозначена именно одна функция.</p>
 <p><strong>См. также:</strong></p>
 <ul>
 <li><a href="../scripts_k_start/"><abbr title="В Eplan существует возможность сохранять выполненные сценарии. Это небольшие программы API, записанные в VB.NET или C# и способные вызываться операциями Eplan.">Сценарии</abbr></a></li>
@@ -96576,7 +96576,7 @@
     <span class="md-icon" title="Последнее обновление">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="27 марта 2026 г. 05:33:02 UTC">27 марта 2026 г.</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="27 марта 2026 г. 13:28:18 UTC">27 марта 2026 г.</span>
   </span>
 
     
