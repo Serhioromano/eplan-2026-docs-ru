@@ -17,17 +17,17 @@
 
 Пиктограмма |  Значение |  Вид
 ---|---|---
-![](images/navplc_configurationproject_as.png){ .ui-icon } |  Проект конфигураций |  с ориентацией на адрес / связано с приводами
-![](images/navplc_station_as.png){ .ui-icon } |  Рабочая станция |  с ориентацией на адрес / связано с приводами
-![](images/navplc_cpu_as.png){ .ui-icon } |  ЦПУ |  с ориентацией на адрес
-![](images/navplc_drive_as.png){ .ui-icon } |  Привод |  связано с приводами
-![](images/plcgui_plcchannel_as.png){ .ui-icon } |  Канал |  с ориентацией на канал
-![](images/navplc_rack_as.png){ .ui-icon } |  Каркас |  ориентировать по каркасу
-![](images/navplc_moduleonrack_as.png){ .ui-icon } |  Карта ПЛК вставлена в каркас |  ориентировать по каркасу
-![](images/navplc_rackonrack_as.png){ .ui-icon } |  Карта ПЛК вставлена в каркас и является каркасом |  ориентировать по каркасу
-![](images/navplc_moduleonheadmodule_as.png){ .ui-icon } |  Карта ПЛК вставлена или интегрирована в первичную станцию |  ориентировать по каркасу
-![](images/navplc_subrackonheadmodule_as.png){ .ui-icon } |  Карта ПЛК вставлена в первичную станцию и является каркасом |  ориентировать по каркасу
-![](images/all_folder_closed.png){ .ui-icon } |  Каркас не присвоен или недействителен |  ориентировать по каркасу
+![](images/navplc_configurationproject_as.png){: .ui-icon } |  Проект конфигураций |  с ориентацией на адрес / связано с приводами
+![](images/navplc_station_as.png){: .ui-icon } |  Рабочая станция |  с ориентацией на адрес / связано с приводами
+![](images/navplc_cpu_as.png){: .ui-icon } |  ЦПУ |  с ориентацией на адрес
+![](images/navplc_drive_as.png){: .ui-icon } |  Привод |  связано с приводами
+![](images/plcgui_plcchannel_as.png){: .ui-icon } |  Канал |  с ориентацией на канал
+![](images/navplc_rack_as.png){: .ui-icon } |  Каркас |  ориентировать по каркасу
+![](images/navplc_moduleonrack_as.png){: .ui-icon } |  Карта ПЛК вставлена в каркас |  ориентировать по каркасу
+![](images/navplc_rackonrack_as.png){: .ui-icon } |  Карта ПЛК вставлена в каркас и является каркасом |  ориентировать по каркасу
+![](images/navplc_moduleonheadmodule_as.png){: .ui-icon } |  Карта ПЛК вставлена или интегрирована в первичную станцию |  ориентировать по каркасу
+![](images/navplc_subrackonheadmodule_as.png){: .ui-icon } |  Карта ПЛК вставлена в первичную станцию и является каркасом |  ориентировать по каркасу
+![](images/all_folder_closed.png){: .ui-icon } |  Каркас не присвоен или недействителен |  ориентировать по каркасу
 
 (Обзор основных пиктограмм для данных проекта вы найдете в разделе [Пиктограммы для навигаторов](userinterface_k_iconsnavigatoren.md).)
 

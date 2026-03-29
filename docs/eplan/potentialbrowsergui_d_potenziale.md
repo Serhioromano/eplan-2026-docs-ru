@@ -15,12 +15,12 @@
 
 Пиктограмма |  Значение
 ---|---
-![](images/all_project_as.png){ .ui-icon } |  Обозначает уровень проекта. Эти пиктограммы отображаются только в том случае, если открыто несколько проектов.
-![](images/potentialbrowsergui_potential_as.png){ .ui-icon } |  Потенциал
-![](images/potentialbrowsergui_signal_as.png){ .ui-icon } |  Сигнал
-![](images/potentialbrowsergui_potentialdefinitionpoint_as.png){ .ui-icon } |  Размещенная точка определения потенциалов
-![](images/potentialbrowsergui_net_as.png){ .ui-icon } |  Сеть
-![](images/potentialbrowsergui_netdefinitionpoint_as.png){ .ui-icon } |  Размещенная точка определения сети
+![](images/all_project_as.png){: .ui-icon } |  Обозначает уровень проекта. Эти пиктограммы отображаются только в том случае, если открыто несколько проектов.
+![](images/potentialbrowsergui_potential_as.png){: .ui-icon } |  Потенциал
+![](images/potentialbrowsergui_signal_as.png){: .ui-icon } |  Сигнал
+![](images/potentialbrowsergui_potentialdefinitionpoint_as.png){: .ui-icon } |  Размещенная точка определения потенциалов
+![](images/potentialbrowsergui_net_as.png){: .ui-icon } |  Сеть
+![](images/potentialbrowsergui_netdefinitionpoint_as.png){: .ui-icon } |  Размещенная точка определения сети
 
 (Обзор основных пиктограмм для данных проекта вы найдете в разделе [Пиктограммы для навигаторов](userinterface_k_iconsnavigatoren.md).)
 

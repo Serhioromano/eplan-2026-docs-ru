@@ -6,8 +6,8 @@
 
 Пиктограмма в навигаторе страниц |  Значение
 ---|---
-![](images/pagebrowsergui_pageautomatic_as.png){ .ui-icon } |  Страница отчета
-![](images/pagebrowsergui_pageautomaticfrozen_as.png){ .ui-icon } |  Необновляемая страница отчета
+![](images/pagebrowsergui_pageautomatic_as.png){: .ui-icon } |  Страница отчета
+![](images/pagebrowsergui_pageautomaticfrozen_as.png){: .ui-icon } |  Необновляемая страница отчета
 
 !!! tip "Совет:"
 

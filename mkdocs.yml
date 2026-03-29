@@ -2646,6 +2646,7 @@ plugins:
 
 markdown_extensions:
   - abbr
+  - attr_list
   - tables
   - admonition
   - pymdownx.caret
@@ -2729,3 +2730,4 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
+    - content.tooltips

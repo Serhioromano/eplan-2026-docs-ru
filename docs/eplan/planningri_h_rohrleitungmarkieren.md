@@ -27,11 +27,11 @@
 
 Курсор |  Значение
 ---|---
-![](images/planningri_cursoradddelete_as.png){ .ui-icon } |  Трасса трубопровода активирована
+![](images/planningri_cursoradddelete_as.png){: .ui-icon } |  Трасса трубопровода активирована
 |  Следующие три пиктограммы отображаются, если курсор находится точно над линией автоматического соединения:
-![](images/planningri_cursoraddconnection_as.png){ .ui-icon } |  Добавить трубопроводу линию автоматического соединения
-![](images/planningri_cursornotallowed_as.png){ .ui-icon } |  Запрещено добавлять / убирать линию автоматического соединения
-![](images/planningri_cursordeleteconnection_as.png){ .ui-icon } |  Убрать линию автоматического соединения из трубопровода
+![](images/planningri_cursoraddconnection_as.png){: .ui-icon } |  Добавить трубопроводу линию автоматического соединения
+![](images/planningri_cursornotallowed_as.png){: .ui-icon } |  Запрещено добавлять / убирать линию автоматического соединения
+![](images/planningri_cursordeleteconnection_as.png){: .ui-icon } |  Убрать линию автоматического соединения из трубопровода
 3. Щелкните линию автоматического соединения, чтобы добавить это соединение трубопроводу или убрать с него соединение (в зависимости от отображаемого курсора).
 
 !!! info "Для сведения:"
