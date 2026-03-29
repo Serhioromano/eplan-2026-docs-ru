@@ -6,7 +6,7 @@
 .md-content img {
     margin-right: 0.5rem;
     margin-left: 0.5rem;
-    border: 5px solid #898989ff;
+    border: 2px solid rgb(255, 255, 255);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     display: block;
     margin-left: auto;
