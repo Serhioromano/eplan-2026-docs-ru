@@ -1,40 +1,15 @@
 # Платформа Eplan
 
-![](eplan/images/Projekte.svg)
+<div class="grid cards" markdown>
 
-Проекты
+- ![](eplan/images/Projekte.svg){ width="18" } [Проекты](projects_k_start.md)
+- ![](eplan/images/Grafischer_Editor.svg){ width="18" } [Графический редактор](gededitgui_k_start.md)
+- ![](eplan/images/Einfuegezentrum.svg){ width="18" } [Центр вставки](insertergui_k_start.md)
+- ![](eplan/images/Makros.svg){ width="18" } [Макросы](macrosgui_k_start.md)
+- ![](eplan/images/Verbindungen.svg){ width="18" } [Соединения](connectionbrowsergui_k_start.md)
+- ![](eplan/images/Auswertung.svg){ width="18" } [Отчеты](formgeneratorgui_k_start.md)
 
-![](eplan/images/Grafischer_Editor.svg)
-
-Графический редактор
-
-![](eplan/images/Einfuegezentrum.svg)
-
-Центр вставки
-
-![](eplan/images/Makros.svg)
-
-Макросы
-
-![](eplan/images/Verbindungen.svg)
-
-Соединения
-
-![](eplan/images/Auswertung.svg)
-
-Отчеты
-
-![](eplan/images/Lizenzen.svg)
-
-Лицензии
-
-![](eplan/images/News.svg)
-
-Новости
-
-![](eplan/images/ReleaseNotes.svg)
-
-Примечания к выпуску
+</div>
 
 Company
 
