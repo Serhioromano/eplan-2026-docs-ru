@@ -38,7 +38,7 @@
 
 !!! example "Пример:"
 
-    Слово`Connector`в исходном языке`en_US`сохранено в словаре дважды. В языке перевода`fr_FR`оно соответственно переводится по-разному.en_USfr_FRКомментарийConnectorConnecteurОпределениефункцииConnectorSymbole de connexionСимвол
+    Слово `Connector` в исходном языке `en_US` сохранено в словаре дважды. В языке перевода `fr_FR` оно соответственно переводится по-разному.en_USfr_FRКомментарийConnectorConnecteurОпределениефункцииConnectorSymbole de connexionСимвол
 
 **См. также:**
 

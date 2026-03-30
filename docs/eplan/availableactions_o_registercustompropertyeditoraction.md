@@ -31,12 +31,12 @@ Value |  Новое отображаемое значение или новая 
 
 !!! example "Пример:"
 
-    Регистрация диалогового окна для обработки свойства**Дополнительное поле**(ID 20901):RegisterCustomPropertyEditorAction
+    Регистрация диалогового окна для обработки свойства **Дополнительное поле** (ID 20901):RegisterCustomPropertyEditorAction
 /Register:1
 /Action:WPF_Demo_Custom_Editor
 /PropertyId:20901
 /PropertyIndex:1
-/Editable:0Отмена регистрации диалогового окна для обработки свойства**Дополнительное поле**(ID 20901):RegisterCustomPropertyEditorAction
+/Editable:0Отмена регистрации диалогового окна для обработки свойства **Дополнительное поле** (ID 20901):RegisterCustomPropertyEditorAction
 /Register:0
 /Action:WPF_Demo_Custom_Editor
 /PropertyId:20901

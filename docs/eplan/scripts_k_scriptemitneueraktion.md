@@ -34,7 +34,7 @@
 
      }
 
-}При загрузке сценария с вышеприведенным кодом функция`MyFunctionAsAction`регистрируется в Eplan как операция с именем`MyScriptAction`.Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class SimpleScriptAction
+}При загрузке сценария с вышеприведенным кодом функция `MyFunctionAsAction` регистрируется в Eplan как операция с именем `MyScriptAction`.Аналогичный пример в Visual Basic.Net выглядит следующим обр.:Public Class SimpleScriptAction
 
      <DeclareAction("MyScriptAction")> _
      Public Sub MyFunctionAsAction()

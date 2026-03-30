@@ -8,7 +8,7 @@
 
 !!! example "Пример:"
 
-    В следующем примере (в C#) сценарию (функции запуска) требуется три параметра символьной строки`Param1`,`Param2`и`Param3`:public class SimpleScriptWithParameters
+    В следующем примере (в C#) сценарию (функции запуска) требуется три параметра символьной строки `Param1`, `Param2` и `Param3`:public class SimpleScriptWithParameters
 {
 
      [Start]
