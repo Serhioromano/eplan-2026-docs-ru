@@ -10,7 +10,12 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"Anthropic.claude-code"
+				"Anthropic.claude-code",
+				"DavidAnson.vscode-markdownlint",
+				"bierner.markdown-shiki",
+				"redhat.vscode-yaml",
+				"yzane.markdown-pdf",
+				"yzhang.markdown-all-in-one"
 			]
 		}
 	},
@@ -18,7 +23,8 @@
 		// "--memory=8g",
 		// "--cpus=4",
 		"--cpu-shares=4096"
-	]
+	],
+	"postCreateCommand": "make init"
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.

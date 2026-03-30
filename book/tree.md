@@ -1,0 +1,3694 @@
+# Структура книги
+
+Многоуровневое дерево разделов на основе навигации mkdocs.yml.
+Для каждого файла перечислены заголовки второго уровня (##).
+
+- **Платформа Eplan**
+  - **Указания по ознакомлению с руководством** — [eplan/helpsystem_k_hinweise.md](docs/eplan/helpsystem_k_hinweise.md)
+  - **Использование справочной системы**
+    - **Справочная система** — [eplan/helpsystem_k_start.md](docs/eplan/helpsystem_k_start.md)
+    - **Использование справочной системы** — [eplan/helpsystem_h_nutzen.md](docs/eplan/helpsystem_h_nutzen.md)
+      - Вызов диалогового окна:
+      - Использовать фильтр поиска
+      - Автозаполнение для искомых понятий
+      - Переключить язык справки
+      - Копировать URL страницы справки в буфер обмена
+    - **Вид Backstage: Справка** — [eplan/helpsystem_d_backstagehilfe.md](docs/eplan/helpsystem_d_backstagehilfe.md)
+      - Вызов диалогового окна:
+  - **Работа с Eplan**
+    - **Запустить и завершить Eplan** — [eplan/startingeplan_h_startenundbeenden.md](docs/eplan/startingeplan_h_startenundbeenden.md)
+    - **Интерфейс пользователя**
+      - **Основы**
+        - **Интерфейс пользователя** — [eplan/userinterface_k_start.md](docs/eplan/userinterface_k_start.md)
+        - **Элементы интерфейса пользователя** — [eplan/userinterface_k_hintergrund.md](docs/eplan/userinterface_k_hintergrund.md)
+          - Дополнительные сведения о всплывающей подсказке
+        - **Вид Backstage** — [eplan/userinterface_k_backstageview.md](docs/eplan/userinterface_k_backstageview.md)
+        - **Диалоговые окна** — [eplan/userinterface_k_dialoge.md](docs/eplan/userinterface_k_dialoge.md)
+          - Присоединяемые диалоговые окна
+          - Сообщения и окна указаний
+          - Навигаторы
+          - Диалоговые окна с предварительным просмотром
+          - Диалоговые окна с защитой от записи
+          - Разделители окна
+        - **Особенности навигаторов** — [eplan/userinterface_k_besonderheitennavigatoren.md](docs/eplan/userinterface_k_besonderheitennavigatoren.md)
+        - **Пиктограммы в навигаторах** — [eplan/userinterface_k_iconsnavigatoren.md](docs/eplan/userinterface_k_iconsnavigatoren.md)
+        - **Обзор свойств** — [eplan/userinterface_k_eigenschaftenuebersicht.md](docs/eplan/userinterface_k_eigenschaftenuebersicht.md)
+        - **Функция перетаскивания мышью** — [eplan/userinterface_k_dragdropfunktionen.md](docs/eplan/userinterface_k_dragdropfunktionen.md)
+          - Из Windows Explorer в навигатор страниц
+          - Из Windows Explorer в графический редактор
+          - Из Windows Explorer в навигатор страниц
+          - Из приложения MS Office в Eplan
+          - Из древовидного представления навигатора страниц Eplan в Windows Explorer
+          - В рамках представления структуры дерева или представления в виде списка навигатора страниц Eplan
+          - В представлении в виде дерева навигатора пространства листа Eplan
+          - Из навигатора Eplan в графический редактор
+          - Из навигатора Eplan в навигатор Eplan
+          - Из навигатора Eplan в диалоговое окно свойств устройства
+        - **Фильтр** — [eplan/modaldialogsdb_k_filter.md](docs/eplan/modaldialogsdb_k_filter.md)
+        - **Обзор операций для ленты** — [eplan/userinterface_k_aktionenmenueband.md](docs/eplan/userinterface_k_aktionenmenueband.md)
+        - **Доступ к облачным продуктам Eplan** — [eplan/userinterface_k_cloudprodukte.md](docs/eplan/userinterface_k_cloudprodukte.md)
+      - **Процесс работы**
+        - **Управление Eplan с помощью клавиатуры** — [eplan/userinterface_h_eplanmittastaturbedienen.md](docs/eplan/userinterface_h_eplanmittastaturbedienen.md)
+          - Выбор элементов диалогового окна
+          - Выбор вкладок
+          - Развертывание меню и всплывающих меню
+          - Установка и снятие флажков
+          - Открытие раскрывающихся списков
+          - Использование клавиатуры в структуре списка или древа
+          - Использование клавиатуры в таблице
+        - **Настроить панель быстрого доступа** — [eplan/userinterface_h_schnellzugriffanpassen.md](docs/eplan/userinterface_h_schnellzugriffanpassen.md)
+          - Добавление других команд
+          - Добавление команд из ленты для быстрого доступа
+          - Удаление команд из ленты для быстрого доступа
+          - Сброс панели быстрого доступа
+        - **Настроить ленту** — [eplan/userinterface_h_menuebandanpassen.md](docs/eplan/userinterface_h_menuebandanpassen.md)
+          - Свернуть ленту
+          - Создание новых групп команд
+          - Присваивание команд определенной пользователем группе команд
+          - Назначение операций как команд в группе команд, определенной пользователем
+          - Сброс ленты
+          - Экспортировать ленту
+          - Импортировать ленту
+        - **Присоединение / отсоединение элементов управления** — [eplan/userinterface_h_bedienelementeandocken.md](docs/eplan/userinterface_h_bedienelementeandocken.md)
+          - Отсоединить присоединяемые диалоговые окна
+          - Присоединить присоединяемые диалоговые окна
+          - Группировать навигаторы, страницы и т. д. в окне
+          - Отображать навигаторы, например страницы проекта, как вкладки
+          - Присоединить обычное окно в качестве всплывающего
+        - **Настройка отображения таблиц** — [eplan/userinterface_h_anzeigesortierreihenfolgefestlegen.md](docs/eplan/userinterface_h_anzeigesortierreihenfolgefestlegen.md)
+          - Сортировка объектов таблиц
+          - Оптимизировать отображение отдельных столбцов
+          - Оптимизировать отображение всех столбцов
+          - Настройка ширины нескольких столбцов одновременно
+          - Оптимизация отображения отдельных строк
+          - Изменить размер шрифта с помощью колесика мыши
+        - **Работать с рабочими областями** — [eplan/modaldialogs_h_mitarbeitsbereichenarbeiten.md](docs/eplan/modaldialogs_h_mitarbeitsbereichenarbeiten.md)
+          - Определить рабочие области
+          - Выбрать рабочие области
+          - Обработать рабочие области
+        - **Конфигурировать представления в виде списка и структуры дерева** — [eplan/modaldialogsdb_h_spaltenkonfigurieren.md](docs/eplan/modaldialogsdb_h_spaltenkonfigurieren.md)
+        - **Создание пользователем конфигураций свойств** — [eplan/userinterface_h_benutzerdefeigenschaftskonfigurationen.md](docs/eplan/userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настроить** — [eplan/fp_d_anpassen.md](docs/eplan/fp_d_anpassen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настроить комбинации клавиш** — [eplan/fp_d_tastenkombinationen.md](docs/eplan/fp_d_tastenkombinationen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Правка"** — [eplan/modaldialogs_d_befehleumbenennen.md](docs/eplan/modaldialogs_d_befehleumbenennen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Фильтр** — [eplan/modaldialogsdb_d_filternnach.md](docs/eplan/modaldialogsdb_d_filternnach.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор критериев** — [eplan/modaldialogsdb_d_filterkriterium.md](docs/eplan/modaldialogsdb_d_filterkriterium.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор значения** — [eplan/modaldialogsdb_d_filterwerteauswahl.md](docs/eplan/modaldialogsdb_d_filterwerteauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Рабочая область" / диалоговое окно "Настройки: Рабочая область"** — [eplan/modaldialogs_d_arbeitsbereich.md](docs/eplan/modaldialogs_d_arbeitsbereich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфигурировать представление (дерево)** — [eplan/modaldialogsdb_d_baumkonfiguration.md](docs/eplan/modaldialogsdb_d_baumkonfiguration.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Конфигурировать представление (список)" / Диалоговое окно "Конфигурировать поиск"** — [eplan/modaldialogsdb_d_spaltenkonfiguration.md](docs/eplan/modaldialogsdb_d_spaltenkonfiguration.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Структура дерева (...)** — [eplan/modaldialogsdb_d_einstellprjstruktur.md](docs/eplan/modaldialogsdb_d_einstellprjstruktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать переменную пути** — [eplan/modaldialogsdb_d_pfadvariablen.md](docs/eplan/modaldialogsdb_d_pfadvariablen.md)
+          - Вызов диалогового окна:
+          - Обзор наиболее важных переменных пути:
+          - Обзор наиболее важных переменных пути:
+          - Обзор наиболее важных переменных пути:
+        - **Диалоговое окно Выбор цвета** — [eplan/mf_d_farbauswahl.md](docs/eplan/mf_d_farbauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Предварительный просмотр графики** — [eplan/modaldialogsdb_d_grafischevorschau.md](docs/eplan/modaldialogsdb_d_grafischevorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обзор свойств — <Имя проекта>** — [eplan/modaldialogsdb_d_eigenschaftenuebersicht.md](docs/eplan/modaldialogsdb_d_eigenschaftenuebersicht.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Конфигурировать свойства" / диалоговое окно "Конфигурировать представление"** — [eplan/modaldialogsdb_d_eigenschaftskonfiguration.md](docs/eplan/modaldialogsdb_d_eigenschaftskonfiguration.md)
+          - Вызов диалогового окна "Конфигурировать свойства":
+          - Вызов диалогового окна "Конфигурировать представление":
+        - **Диалоговое окно "Конфигурировать свойства — главный узел" / диалоговое окно "Конфигурировать представление — главный узел"** — [eplan/modaldialogsdb_d_eigenschaftskonfigurationhauptknoten.md](docs/eplan/modaldialogsdb_d_eigenschaftskonfigurationhauptknoten.md)
+          - Вызов диалогового окна "Конфигурировать свойства":
+          - Вызов диалогового окна "Конфигурировать представление":
+        - **Диалоговое окно Конфигурировать свойства** — [eplan/modaldialogsdb_d_eigenschaftsanordnung.md](docs/eplan/modaldialogsdb_d_eigenschaftsanordnung.md)
+          - Вызов диалогового окна "Проект":
+          - Вызов диалогового окна "Управление изделиями":
+        - **Диалоговое окно "Конфигурировать поиск"** — [eplan/modaldialogsdb_d_suchekonfigurieren.md](docs/eplan/modaldialogsdb_d_suchekonfigurieren.md)
+          - Вызов диалогового окна:
+        - **Пункты всплывающего меню** — [eplan/userinterface_m_kontextmenu.md](docs/eplan/userinterface_m_kontextmenu.md)
+          - Пункты всплывающего меню для представления таблиц
+          - Пункты всплывающего меню для обработки значений
+          - Пункты всплывающего меню для многоязычных текстов
+    - **Схемы**
+      - **Основы**
+        - **Схемы** — [eplan/schemeconfig_k_start.md](docs/eplan/schemeconfig_k_start.md)
+      - **Процесс работы**
+        - **Обработка схем** — [eplan/schemeconfig_h_schematabearbeiten.md](docs/eplan/schemeconfig_h_schematabearbeiten.md)
+      - **Ссылка**
+        - **Панель инструментов схемы** — [eplan/schemeconfig_m_schemaschaltflaechen.md](docs/eplan/schemeconfig_m_schemaschaltflaechen.md)
+    - **Настройки**
+      - **Основы**
+        - **Настройки** — [eplan/settingsmastergui_k_start.md](docs/eplan/settingsmastergui_k_start.md)
+        - **Настройки: Принцип работы** — [eplan/settingsmastergui_k_arbeitsweise.md](docs/eplan/settingsmastergui_k_arbeitsweise.md)
+        - **Права и доступ** — [eplan/settingsmastergui_k_rechteundzugriff.md](docs/eplan/settingsmastergui_k_rechteundzugriff.md)
+        - **Настройки: Импорт и экспорт** — [eplan/settingsmastergui_k_import_export.md](docs/eplan/settingsmastergui_k_import_export.md)
+        - **Настройки при обновлении программы** — [eplan/settingsmastergui_k_einstellungenbeimupdate.md](docs/eplan/settingsmastergui_k_einstellungenbeimupdate.md)
+      - **Процесс работы**
+        - **Просмотр и изменение настроек** — [eplan/settingsmastergui_h_einstellungenansehen.md](docs/eplan/settingsmastergui_h_einstellungenansehen.md)
+        - **Сброс настроек на стандартные значения** — [eplan/settingsmastergui_h_einstellungenaufstandard.md](docs/eplan/settingsmastergui_h_einstellungenaufstandard.md)
+        - **Заменить настройки** — [eplan/settingsmastergui_h_einstellungenaustauschen.md](docs/eplan/settingsmastergui_h_einstellungenaustauschen.md)
+        - **Импорт / экспорт настроек** — [eplan/settingsmastergui_h_importieren_exportieren.md](docs/eplan/settingsmastergui_h_importieren_exportieren.md)
+          - Импортировать настройки
+          - Экспортировать настройки
+          - Расширенный экспорт настроек
+        - **Зарегистрировать Add-ons вручную / автоматически** — [eplan/settingsmastergui_h_zusatzmodulregistrieren.md](docs/eplan/settingsmastergui_h_zusatzmodulregistrieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки** — [eplan/settingsmastergui_d_systeinstellungen.md](docs/eplan/settingsmastergui_d_systeinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Группа проектов (присвоение)** — [eplan/settingsmastergui_d_projektgruppezuordnung.md](docs/eplan/settingsmastergui_d_projektgruppezuordnung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Представление в проектах макросов** — [eplan/settingsmastergui_d_darstellungmakroprojekten.md](docs/eplan/settingsmastergui_d_darstellungmakroprojekten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Интерфейс пользователя** — [eplan/settingsmastergui_d_oberflaecheneinstellungen.md](docs/eplan/settingsmastergui_d_oberflaecheneinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Группы проектов (определение)** — [eplan/settingsmastergui_d_projektgruppendefinition.md](docs/eplan/settingsmastergui_d_projektgruppendefinition.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Языки** — [eplan/settingsmastergui_d_einstellungensprachen.md](docs/eplan/settingsmastergui_d_einstellungensprachen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Единицы отображения** — [eplan/settingsmastergui_d_einstellanzeigeeinheiten.md](docs/eplan/settingsmastergui_d_einstellanzeigeeinheiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Графическое требование к памяти** — [eplan/gededit3dgui_d_einstellspeicherbedarf.md](docs/eplan/gededit3dgui_d_einstellspeicherbedarf.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Драйвер для сервера SQL** — [eplan/modaldialogs_d_sqlservertreiber.md](docs/eplan/modaldialogs_d_sqlservertreiber.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Проверить версию Eplan** — [eplan/modaldialogs_d_einstellungenupdate.md](docs/eplan/modaldialogs_d_einstellungenupdate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать настройки** — [eplan/settingsmastergui_d_einstellimport.md](docs/eplan/settingsmastergui_d_einstellimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать настройки: <Путь иерархии>** — [eplan/settingsmastergui_d_einstellimportprojekt.md](docs/eplan/settingsmastergui_d_einstellimportprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать настройки** — [eplan/settingsmastergui_d_einstellexport.md](docs/eplan/settingsmastergui_d_einstellexport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать настройки (расшир.)** — [eplan/settingsmastergui_d_einstellerweitert.md](docs/eplan/settingsmastergui_d_einstellerweitert.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать настройки <...>: <Путь иерархии>** — [eplan/settingsmastergui_d_einstellexportprojekt.md](docs/eplan/settingsmastergui_d_einstellexportprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Add-ons** — [eplan/xsettingsservicesgui_d_einstellzusatzmodule.md](docs/eplan/xsettingsservicesgui_d_einstellzusatzmodule.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Add-ons** — [eplan/xsettingsservicesgui_d_zusatzmodule.md](docs/eplan/xsettingsservicesgui_d_zusatzmodule.md)
+          - Вызов диалогового окна:
+  - **Обработка проектов и управление ими**
+    - **Проекты**
+      - **Основы**
+        - **Проекты** — [eplan/projects_k_start.md](docs/eplan/projects_k_start.md)
+        - **Проекты: Принцип** — [eplan/projects_k_prinzip.md](docs/eplan/projects_k_prinzip.md)
+        - **Расширения имен файлов и пиктограммы для проектов** — [eplan/projects_k_icons.md](docs/eplan/projects_k_icons.md)
+        - **Базовые проекты** — [eplan/projects_k_basisprojekteerweitert.md](docs/eplan/projects_k_basisprojekteerweitert.md)
+        - **Режимы обработки при открытии проектов** — [eplan/projects_k_bearbeitungsmodusbeimoeffnen.md](docs/eplan/projects_k_bearbeitungsmodusbeimoeffnen.md)
+      - **Процесс работы**
+        - **Создать проекты** — [eplan/projects_h_projekteerstellen.md](docs/eplan/projects_h_projekteerstellen.md)
+        - **Определить рамку и нумерацию зон ** — [eplan/projects_h_normblattpfad.md](docs/eplan/projects_h_normblattpfad.md)
+        - **Создать базовые проекты** — [eplan/projects_h_basisprojekterstellen.md](docs/eplan/projects_h_basisprojekterstellen.md)
+        - **Открыть проект (вид Backstage)** — [eplan/prjmanagementgui_h_backstageprojektoeffnen.md](docs/eplan/prjmanagementgui_h_backstageprojektoeffnen.md)
+        - **Экспортировать проекты** — [eplan/projects_h_exportieren.md](docs/eplan/projects_h_exportieren.md)
+        - **Импортировать проекты** — [eplan/projects_h_importieren.md](docs/eplan/projects_h_importieren.md)
+        - **Реорганизовать проекты** — [eplan/projects_h_projektreorganisieren.md](docs/eplan/projects_h_projektreorganisieren.md)
+        - **Синхронизировать данные проекта** — [eplan/projects_h_projekteabgleichen.md](docs/eplan/projects_h_projekteabgleichen.md)
+      - **Ссылка**
+        - **Вид Backstage: область команд** — [eplan/prjmanagementgui_d_backstagebefehle.md](docs/eplan/prjmanagementgui_d_backstagebefehle.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно XML-проект** — [eplan/macrosgui_d_pxfprojektimport.md](docs/eplan/macrosgui_d_pxfprojektimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: дата / время / числа"** — [eplan/xessettingsgui_d_einstellungenprojektdatum.md](docs/eplan/xessettingsgui_d_einstellungenprojektdatum.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать данные проекта — <Имя проекта>** — [eplan/prjmanagementgui_d_projektdatenabgleich.md](docs/eplan/prjmanagementgui_d_projektdatenabgleich.md)
+          - Вызов диалогового окна:
+    - **Управление проектами**
+      - **Основы**
+        - **Управление проектами** — [eplan/prjmanagementgui_k_start.md](docs/eplan/prjmanagementgui_k_start.md)
+      - **Процесс работы**
+        - **Создать / выбрать базу данных управления проектами** — [eplan/prjmanagementgui_h_projekteverwalten.md](docs/eplan/prjmanagementgui_h_projekteverwalten.md)
+          - Создать базу данных управления проектами
+          - Выбрать базу данных Eplan
+          - Выбрать базу данных сервера SQL
+        - **Создать проект (Управление проектами)** — [eplan/prjmanagementgui_h_projektanlegen.md](docs/eplan/prjmanagementgui_h_projektanlegen.md)
+        - **Считать каталоги и проекты** — [eplan/prjmanagementgui_h_verzeichniseinlesen.md](docs/eplan/prjmanagementgui_h_verzeichniseinlesen.md)
+        - **Открыть проект (Управление проектами)** — [eplan/prjmanagementgui_h_projektoeffnen.md](docs/eplan/prjmanagementgui_h_projektoeffnen.md)
+        - **Копировать проект (Управление проектами)** — [eplan/prjmanagementgui_h_projektkopieren.md](docs/eplan/prjmanagementgui_h_projektkopieren.md)
+        - **Искать / фильтровать проект** — [eplan/prjmanagementgui_h_projektefiltern.md](docs/eplan/prjmanagementgui_h_projektefiltern.md)
+        - **Отображение информации проекта** — [eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md](docs/eplan/prjmanagementgui_h_projekteigenschaftenanzeigen.md)
+        - **Обработать свойства проекта (Управление проектами)** — [eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md](docs/eplan/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+        - **Переименовать, удалить проект (Управление проектами)** — [eplan/prjmanagementgui_h_projektumbenennen.md](docs/eplan/prjmanagementgui_h_projektumbenennen.md)
+        - **Считать данные клиента** — [eplan/prjmanagementgui_h_kundendateneinlesen.md](docs/eplan/prjmanagementgui_h_kundendateneinlesen.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление проектами** — [eplan/prjmanagementgui_d_projektverwaltung.md](docs/eplan/prjmanagementgui_d_projektverwaltung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Создать проект** — [eplan/prjmanagementgui_d_projekterstellen.md](docs/eplan/prjmanagementgui_d_projekterstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать проект** — [eplan/prjmanagementgui_d_projektkopieren.md](docs/eplan/prjmanagementgui_d_projektkopieren.md)
+          - Вызов диалогового окна:
+        - **Вкладка Свойства** — [eplan/prjmanagementgui_r_eigenschaften.md](docs/eplan/prjmanagementgui_r_eigenschaften.md)
+          - Вызов диалогового окна:
+        - **Вкладка Статистика** — [eplan/prjmanagementgui_r_statisitk.md](docs/eplan/prjmanagementgui_r_statisitk.md)
+          - Вызов диалогового окна:
+        - **Вкладка Структура** — [eplan/prjmanagementgui_r_struktur.md](docs/eplan/prjmanagementgui_r_struktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Структура страницы** — [eplan/prjmanagementgui_d_seitenstruktur.md](docs/eplan/prjmanagementgui_d_seitenstruktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Структура устройства** — [eplan/prjmanagementgui_d_betriebsmittelstruktur.md](docs/eplan/prjmanagementgui_d_betriebsmittelstruktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка Представление (Расширенные структуры проекта)** — [eplan/prjmanagementgui_r_darstellungerwprjstrukturen.md](docs/eplan/prjmanagementgui_r_darstellungerwprjstrukturen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Наследование (Расширенные структуры проекта)** — [eplan/prjmanagementgui_r_vererbung.md](docs/eplan/prjmanagementgui_r_vererbung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Статус** — [eplan/prjmanagementgui_r_status.md](docs/eplan/prjmanagementgui_r_status.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Вывести информацию о проекте** — [eplan/prjmanagementgui_d_projektinfoausgeben.md](docs/eplan/prjmanagementgui_d_projektinfoausgeben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Показать пользователей** — [eplan/prjmanagementgui_d_benutzeranzeigen.md](docs/eplan/prjmanagementgui_d_benutzeranzeigen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизация основных данных — <Имя проекта>** — [eplan/prjmanagementgui_d_stammdatenabgleich.md](docs/eplan/prjmanagementgui_d_stammdatenabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: База данных управления проектами** — [eplan/prjmanagementgui_d_prjverwaltungsdb.md](docs/eplan/prjmanagementgui_d_prjverwaltungsdb.md)
+          - Вызов диалогового окна:
+    - **Структура проекта**
+      - **Основы**
+        - **Структура проекта** — [eplan/projectstructure_k_start.md](docs/eplan/projectstructure_k_start.md)
+        - **Структура проекта: Основные положения** — [eplan/projectstructure_k_hinterg.md](docs/eplan/projectstructure_k_hinterg.md)
+        - **Примеры структуры структурных идентификаторов** — [eplan/projectstructure_k_aufbaukennzeichnungsbl.md](docs/eplan/projectstructure_k_aufbaukennzeichnungsbl.md)
+        - **Основные и подидентификаторы блоков идентификаторов** — [eplan/projectstructure_k_hauptkundunterk.md](docs/eplan/projectstructure_k_hauptkundunterk.md)
+        - **Поведение программы при копировании между различными структурами проекта** — [eplan/projectstructure_k_verhkopinbmubauteilen.md](docs/eplan/projectstructure_k_verhkopinbmubauteilen.md)
+        - **Структурирование проектов согласно стандарту EN 81346** — [eplan/projectstructure_k_referenzkennzeichnung.md](docs/eplan/projectstructure_k_referenzkennzeichnung.md)
+        - **Обозначение страниц согласно стандарту DIN EN 61355-1** — [eplan/projectstructure_k_objektkennzeichen.md](docs/eplan/projectstructure_k_objektkennzeichen.md)
+      - **Процесс работы**
+        - **Определить структуру проекта** — [eplan/projectstructure_h_prjstrukturdefinieren.md](docs/eplan/projectstructure_h_prjstrukturdefinieren.md)
+        - **Определить пользовательскую структуру проекта** — [eplan/projectstructure_h_frhierarchienerstellen.md](docs/eplan/projectstructure_h_frhierarchienerstellen.md)
+        - **Задать представление структуры дерева в навигаторах** — [eplan/projectstructure_h_kennzeichenausblenden.md](docs/eplan/projectstructure_h_kennzeichenausblenden.md)
+    - **Сжатие проекта**
+      - **Основы**
+        - **Сжатие проекта** — [eplan/projectcleangui_k_start.md](docs/eplan/projectcleangui_k_start.md)
+        - **Сжимаемые данные проекта** — [eplan/projectcleangui_k_komprimierungsdaten.md](docs/eplan/projectcleangui_k_komprimierungsdaten.md)
+      - **Процесс работы**
+        - **Сжать проект** — [eplan/projectcleangui_h_projektsaeubern.md](docs/eplan/projectcleangui_h_projektsaeubern.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Сжатие** — [eplan/projectcleangui_d_komprimierungseinstellungen.md](docs/eplan/projectcleangui_d_komprimierungseinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сжать проект** — [eplan/projectcleangui_d_projektkomprimieren.md](docs/eplan/projectcleangui_d_projektkomprimieren.md)
+          - Вызов диалогового окна:
+    - **Очистить проект**
+      - **Основы**
+        - **Очистка проектов** — [eplan/ProjectCorrectionGui_k_start.md](docs/eplan/ProjectCorrectionGui_k_start.md)
+        - **Корректируемые данные проекта** — [eplan/ProjectCorrectionGui_k_korrekturdaten.md](docs/eplan/ProjectCorrectionGui_k_korrekturdaten.md)
+          - Клеммы
+          - Штекеры
+          - Соединения
+          - ПЛК
+      - **Процесс работы**
+        - **Очистить проект** — [eplan/ProjectCorrectionGui_h_projektkorrigieren.md](docs/eplan/ProjectCorrectionGui_h_projektkorrigieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Настройки: Очистить"** — [eplan/ProjectCorrectionGui_d_korrektureinstellungen.md](docs/eplan/ProjectCorrectionGui_d_korrektureinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Очистить проект"** — [eplan/ProjectCorrectionGui_d_projektkorrigieren.md](docs/eplan/ProjectCorrectionGui_d_projektkorrigieren.md)
+          - Вызов диалогового окна:
+    - **Резервирование данных**
+      - **Основы**
+        - **Резервирование данных** — [eplan/bakbackupdlggui_k_start.md](docs/eplan/bakbackupdlggui_k_start.md)
+        - **Резервирование данных проекта** — [eplan/bakbackupdlggui_k_arbeitsweise.md](docs/eplan/bakbackupdlggui_k_arbeitsweise.md)
+        - **Резервирование данных: Принцип** — [eplan/bakbackupdlggui_k_prinzip.md](docs/eplan/bakbackupdlggui_k_prinzip.md)
+      - **Процесс работы**
+        - **Резервировать проекты** — [eplan/bakbackupdlggui_h_projektesichern.md](docs/eplan/bakbackupdlggui_h_projektesichern.md)
+          - Резервирование проектов из вида Backstage
+          - Резервирование проектов из Управления проектами
+        - **Восстановить проекты** — [eplan/bakrestoredlggui_h_projektewiederherstellen.md](docs/eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+          - Восстановление проектов (вид Backstage)
+          - Восстановление проектов (управление проектами)
+        - **Распаковка проектов** — [eplan/bakbackupdlggui_h_entpacken.md](docs/eplan/bakbackupdlggui_h_entpacken.md)
+      - **Ссылка**
+        - **Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"** — [eplan/bakbackupdlggui_d_projektesichern.md](docs/eplan/bakbackupdlggui_d_projektesichern.md)
+          - Вызов диалогового окна "Резервировать проекты":
+          - Вызов диалогового окна "Создать базовый проект":
+        - **Диалоговое окно Восстановить проекты (вид Backstage)** — [eplan/bakrestoredlggui_d_projektewiederherstoeffnen.md](docs/eplan/bakrestoredlggui_d_projektewiederherstoeffnen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Восстановить проекты (управление проектами)** — [eplan/bakrestoredlggui_d_projektewiederherstellen.md](docs/eplan/bakrestoredlggui_d_projektewiederherstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Резервировать основные данные"** — [eplan/bakbackupmdatadlggui_d_stammdatensichern.md](docs/eplan/bakbackupmdatadlggui_d_stammdatensichern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Восстановить основные данные"** — [eplan/bakrestoremdatadlggui_d_stammdatenwiederherstellen.md](docs/eplan/bakrestoremdatadlggui_d_stammdatenwiederherstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Содержимое файла резервирования** — [eplan/bakrestoredlggui_d_inhaltsicherungsdatei.md](docs/eplan/bakrestoredlggui_d_inhaltsicherungsdatei.md)
+          - Вызов диалогового окна:
+    - **Многопользовательский режим**
+      - **Основы**
+        - **Многопользовательский режим** — [eplan/xesmultiuserconflictgui_k_start.md](docs/eplan/xesmultiuserconflictgui_k_start.md)
+        - **Обработка проекта в многопользовательском режиме** — [eplan/xesmultiuserconflictgui_k_projektebearbeiten.md](docs/eplan/xesmultiuserconflictgui_k_projektebearbeiten.md)
+        - **Заблокированные данные в многопользовательском режиме** — [eplan/xesmultiuserconflictgui_k_datensperren.md](docs/eplan/xesmultiuserconflictgui_k_datensperren.md)
+      - **Процесс работы**
+        - **Отправить эл. почту в случае конфликта** — [eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md](docs/eplan/xesmultiuserconflictgui_h_konfliktmailversenden.md)
+      - **Ссылка**
+        - **Диалоговое окно Многопользовательский конфликт** — [eplan/xesmultiuserconflictgui_d_konflikte.md](docs/eplan/xesmultiuserconflictgui_d_konflikte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Ид. пользователя / адрес** — [eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md](docs/eplan/xusersettingsgui_d_einstellungenmehrbenutzer.md)
+          - Вызов диалогового окна:
+    - **Многопользовательский монитор**
+      - **Основы**
+        - **Многопользовательский монитор** — [eplan/eplan.eplcoreaddin.multiusermonitor_k_start.md](docs/eplan/eplan.eplcoreaddin.multiusermonitor_k_start.md)
+        - **Принцип** — [eplan/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md](docs/eplan/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md)
+        - **Многопользовательский монитор: Порядок действий** — [eplan/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md](docs/eplan/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md)
+      - **Ссылка**
+        - **Диалоговое окно Многопользовательский монитор** — [eplan/eplan.eplcoreaddin.multiusermonitor_d_monitor.md](docs/eplan/eplan.eplcoreaddin.multiusermonitor_d_monitor.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Многопользовательский монитор** — [eplan/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md](docs/eplan/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
+          - Вызов диалогового окна:
+    - **Внешняя обработка**
+      - **Основы**
+        - **Внешняя обработка** — [eplan/pxfinterface_k_start.md](docs/eplan/pxfinterface_k_start.md)
+        - **Внешняя обработка: Принцип работы** — [eplan/pxfinterface_k_arbeitsweise.md](docs/eplan/pxfinterface_k_arbeitsweise.md)
+          - Неимпортируемые данные
+          - Внешняя обработка: Внешнее приложение
+        - **Шаблоны Excel для внешней обработки** — [eplan/pxfinterface_k_excelexportvorlagen.md](docs/eplan/pxfinterface_k_excelexportvorlagen.md)
+      - **Процесс работы**
+        - **Произвести настройки для внешней обработки** — [eplan/pxfinterface_h_exporteinstellungen.md](docs/eplan/pxfinterface_h_exporteinstellungen.md)
+        - **Экспорт данных для внешней обработки** — [eplan/pxfinterface_h_seitenexportieren.md](docs/eplan/pxfinterface_h_seitenexportieren.md)
+          - Экспорт данных проекта для внешней обработки
+          - Экспорт данных изделий для внешней обработки
+        - **Импортировать свойства с внешней обработкой** — [eplan/pxfinterface_h_datenimportieren.md](docs/eplan/pxfinterface_h_datenimportieren.md)
+          - Импортировать данные проекта с внешней обработкой
+          - Импортировать внешне обработанные данные изделий
+          - Создать новые объекты при импорте из Excel
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Внешняя обработка** — [eplan/macrosgui_d_pxfeinstellungenexport.md](docs/eplan/macrosgui_d_pxfeinstellungenexport.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Вкладка Общее (Настройки: Внешняя обработка)** — [eplan/macrosgui_r_pxfallgemein.md](docs/eplan/macrosgui_r_pxfallgemein.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Диалоговое окно Настройки: Экспорт Excel ** — [eplan/xpxfconverterexcel_d_pxfexceleinstellungen.md](docs/eplan/xpxfconverterexcel_d_pxfexceleinstellungen.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных маркировки):
+          - Вызов диалогового окна (для данных изделия):
+        - **Диалоговое окно Настройки: Экспорт текстового файла ** — [eplan/xpxfconvertertext_d_pxftexteinstellungen.md](docs/eplan/xpxfconvertertext_d_pxftexteinstellungen.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Вкладка Данные (Настройки: Внешняя обработка)** — [eplan/macrosgui_r_pxfdaten.md](docs/eplan/macrosgui_r_pxfdaten.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Диалоговое окно Внешняя обработка** — [eplan/macrosgui_d_pxfseitenexport.md](docs/eplan/macrosgui_d_pxfseitenexport.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Внешняя обработка: импортировать данные изделий** — [eplan/macrosgui_d_pxfartikelimport.md](docs/eplan/macrosgui_d_pxfartikelimport.md)
+          - Вызов диалогового окна:
+    - **Проверка проекта**
+      - **Основы**
+        - **Проверка проекта** — [eplan/processreceiptcontrol_k_start.md](docs/eplan/processreceiptcontrol_k_start.md)
+        - **Проект для сравнения и проект с замечаниями** — [eplan/processreceiptcontrol_k_projekte.md](docs/eplan/processreceiptcontrol_k_projekte.md)
+        - **Нормоконтроль: Способ действий** — [eplan/processreceiptcontrol_k_vorgehensweise.md](docs/eplan/processreceiptcontrol_k_vorgehensweise.md)
+      - **Процесс работы**
+        - **Создать схему сравнения настроек** — [eplan/processreceiptcontrol_h_vergleichsschema.md](docs/eplan/processreceiptcontrol_h_vergleichsschema.md)
+        - **Создать схему сравнения свойств** — [eplan/processreceiptcontrol_h_eigenschaftenvergleich.md](docs/eplan/processreceiptcontrol_h_eigenschaftenvergleich.md)
+        - **Создать схему контрольных прогонов для проверки проекта** — [eplan/processreceiptcontrol_h_pruefschema.md](docs/eplan/processreceiptcontrol_h_pruefschema.md)
+        - **Проверить проект** — [eplan/processreceiptcontrol_h_eingangskontrolvorber.md](docs/eplan/processreceiptcontrol_h_eingangskontrolvorber.md)
+      - **Ссылка**
+        - **Диалоговое окно Проверить проект ** — [eplan/prjmanagementgui_d_projekteingangskontrolle.md](docs/eplan/prjmanagementgui_d_projekteingangskontrolle.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сравнение настроек проектов** — [eplan/modaldialogs_d_vergleicheinstell.md](docs/eplan/modaldialogs_d_vergleicheinstell.md)
+          - Вызов диалогового окна:
+        - **Вкладка Результат (проверка проекта)** — [eplan/prjmanagementgui_r_ergebnisse.md](docs/eplan/prjmanagementgui_r_ergebnisse.md)
+          - Вызов диалогового окна:
+    - **Комментарии**
+      - **Основы**
+        - **Комментарии** — [eplan/projectcomments_k_start.md](docs/eplan/projectcomments_k_start.md)
+        - **Комментирование : Процедура** — [eplan/projectcomments_k_vorgehensweise.md](docs/eplan/projectcomments_k_vorgehensweise.md)
+          - PDF-комментарии
+          - Eplan-комментарии
+      - **Процесс работы**
+        - **Импортировать PDF-комментарии** — [eplan/projectcomments_h_kommentareimportieren.md](docs/eplan/projectcomments_h_kommentareimportieren.md)
+        - **Вставить комментарии** — [eplan/projectcomments_h_kommentareeinfuegen.md](docs/eplan/projectcomments_h_kommentareeinfuegen.md)
+          - Вставить комментарий в виде текста
+          - Вставить комментарий в виде прямоугольника
+          - Вставить комментарий в виде многоугольника
+        - **Создание и размещение неразмещенных комментариев** — [eplan/projectcomments_h_kommentareplatzieren.md](docs/eplan/projectcomments_h_kommentareplatzieren.md)
+          - Создать неразмещенные комментарии
+          - Разместить комментарии
+          - Удалить размещение комментариев
+        - **Редактировать комментарии** — [eplan/projectcomments_h_kommentarebearbeiten.md](docs/eplan/projectcomments_h_kommentarebearbeiten.md)
+        - **Удалить комментарии** — [eplan/projectcomments_h_kommentareloeschen.md](docs/eplan/projectcomments_h_kommentareloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Комментарии — <Имя проекта>** — [eplan/pdfexportgui_d_kommentarenavigator.md](docs/eplan/pdfexportgui_d_kommentarenavigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка Комментарий** — [eplan/gededitgui_r_kommentareigenschaften.md](docs/eplan/gededitgui_r_kommentareigenschaften.md)
+          - Вызов диалогового окна:
+        - **Вкладка "История"** — [eplan/gededitgui_r_kommentarhistorie.md](docs/eplan/gededitgui_r_kommentarhistorie.md)
+          - Вызов диалогового окна:
+    - **Области обработки**
+      - **Основы**
+        - **Области обработки** — [eplan/workingsection_k_start.md](docs/eplan/workingsection_k_start.md)
+        - **Области обработки: Принцип** — [eplan/workingsection_k_prinzip.md](docs/eplan/workingsection_k_prinzip.md)
+      - **Процесс работы**
+        - **Разделение проектов на области обработки** — [eplan/workingsection_h_bereichedefinieren.md](docs/eplan/workingsection_h_bereichedefinieren.md)
+        - **Области обработки определить как администратора проекта** — [eplan/workingsection_h_adminbereichedefinieren.md](docs/eplan/workingsection_h_adminbereichedefinieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Определить области обработки" / диалоговое окно "Области обработки определить как администратора проекта"** — [eplan/eservicesgui_d_bearbeitungsbereichdefinieren.md](docs/eplan/eservicesgui_d_bearbeitungsbereichdefinieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать обработчик** — [eplan/eservicesgui_d_bearbeiterauswaehlen.md](docs/eplan/eservicesgui_d_bearbeiterauswaehlen.md)
+          - Вызов диалогового окна:
+    - **Частичные проекты**
+      - **Основы**
+        - **Частичные проекты** — [eplan/subprojectservicesgui_k_start.md](docs/eplan/subprojectservicesgui_k_start.md)
+        - **Частичные проекты: Принцип работы** — [eplan/subprojectservicesgui_k_grundlagen.md](docs/eplan/subprojectservicesgui_k_grundlagen.md)
+        - **Выгрузка частичных проектов** — [eplan/subprojectservicesgui_k_auslagern.md](docs/eplan/subprojectservicesgui_k_auslagern.md)
+        - **Сохранение частичных проектов** — [eplan/subprojectservicesgui_k_einlagern.md](docs/eplan/subprojectservicesgui_k_einlagern.md)
+      - **Ссылка**
+        - **Диалоговое окно "Частичные проекты"** — [eplan/subprojectservicesgui_d_teilprojekte.md](docs/eplan/subprojectservicesgui_d_teilprojekte.md)
+          - Вызов диалогового окна:
+  - **Управление страницами**
+    - **Навигатор страниц**
+      - **Основы**
+        - **Навигатор страниц** — [eplan/pagebrowsergui_k_start.md](docs/eplan/pagebrowsergui_k_start.md)
+        - **Представление страниц проекта** — [eplan/pagebrowsergui_k_prinzip.md](docs/eplan/pagebrowsergui_k_prinzip.md)
+        - **Типы страниц** — [eplan/pagebrowsergui_k_seitentypen.md](docs/eplan/pagebrowsergui_k_seitentypen.md)
+        - **Свойства страницы** — [eplan/pagebrowsergui_k_eigenschaften.md](docs/eplan/pagebrowsergui_k_eigenschaften.md)
+        - **Фильтр страниц** — [eplan/pagebrowsergui_k_filter.md](docs/eplan/pagebrowsergui_k_filter.md)
+        - **Внешние документы** — [eplan/pagebrowsergui_k_fremddokumente.md](docs/eplan/pagebrowsergui_k_fremddokumente.md)
+      - **Процесс работы**
+        - **Создать и удалить страницы** — [eplan/pagebrowsergui_h_seitenanlegen.md](docs/eplan/pagebrowsergui_h_seitenanlegen.md)
+        - **Открытие и закрытие страниц** — [eplan/pagebrowsergui_h_seitenoeffnen.md](docs/eplan/pagebrowsergui_h_seitenoeffnen.md)
+        - **Вывод предварительного отображения графики** — [eplan/pagebrowsergui_h_seitenvorschau.md](docs/eplan/pagebrowsergui_h_seitenvorschau.md)
+        - **Копировать страницы в проекте** — [eplan/pagebrowsergui_h_seitenkopieren.md](docs/eplan/pagebrowsergui_h_seitenkopieren.md)
+        - **Копировать страницы между различными проектами** — [eplan/pagebrowsergui_h_seitenkopierenprojekte.md](docs/eplan/pagebrowsergui_h_seitenkopierenprojekte.md)
+        - **Адаптировать структуру страниц** — [eplan/pagebrowsergui_h_seitenstrukturanpassen.md](docs/eplan/pagebrowsergui_h_seitenstrukturanpassen.md)
+        - **Нумеровать и переименовать страницы** — [eplan/pagebrowsergui_h_seitennummerieren.md](docs/eplan/pagebrowsergui_h_seitennummerieren.md)
+        - **Обработать свойства страниц** — [eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md](docs/eplan/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: страницы (проект)** — [eplan/pagebrowsergui_d_projekteinstellungen.md](docs/eplan/pagebrowsergui_d_projekteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Страницы — <Имя проекта>** — [eplan/pagebrowsergui_d_seitenuebersicht.md](docs/eplan/pagebrowsergui_d_seitenuebersicht.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства страницы / Новая страница** — [eplan/pagebrowsergui_d_seiteneigenschaften.md](docs/eplan/pagebrowsergui_d_seiteneigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Полное имя страницы** — [eplan/pagebrowsergui_d_seitenname.md](docs/eplan/pagebrowsergui_d_seitenname.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать страницы** — [eplan/pagebrowsergui_d_seitennummerierung.md](docs/eplan/pagebrowsergui_d_seitennummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать страницы: Предварительный просмотр результата** — [eplan/pagebrowsergui_d_seitennummerierungsvorschau.md](docs/eplan/pagebrowsergui_d_seitennummerierungsvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать страницы** — [eplan/pagebrowsergui_d_seitenkopieren.md](docs/eplan/pagebrowsergui_d_seitenkopieren.md)
+          - Вызов диалогового окна:
+        - **Вкладка Страницы** — [eplan/pagebrowsergui_r_seitenstruktur.md](docs/eplan/pagebrowsergui_r_seitenstruktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка ОУ** — [eplan/pagebrowsergui_r_ortkaestenstruktur.md](docs/eplan/pagebrowsergui_r_ortkaestenstruktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать структуры** — [eplan/pagebrowsergui_d_strukturenbearbeiten.md](docs/eplan/pagebrowsergui_d_strukturenbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Скопировать файлы со ссылками в проект вручную"** — [eplan/eservicesgui_d_insprojektkopieren.md](docs/eplan/eservicesgui_d_insprojektkopieren.md)
+          - Вызов диалогового окна:
+    - **Интерфейс DXF/DWG**
+      - **Основы**
+        - **Интерфейс DXF/DWG** — [eplan/xdxfgui_k_start.md](docs/eplan/xdxfgui_k_start.md)
+        - **Интерфейс DXF/DWG: Основные положения** — [eplan/xdxfgui_k_grundlagen.md](docs/eplan/xdxfgui_k_grundlagen.md)
+      - **Процесс работы**
+        - **Экспортировать страницы в формате DXF / DWG** — [eplan/xdxfgui_h_seitendxfexportieren.md](docs/eplan/xdxfgui_h_seitendxfexportieren.md)
+        - **Импортировать страницы в формате DXF/DWG** — [eplan/xdxfgui_h_seitendxfimportieren.md](docs/eplan/xdxfgui_h_seitendxfimportieren.md)
+        - **Вставить файлы DXF / DWG в графическом редакторе** — [eplan/xdxfgui_h_seitengrafeditoreinfuegen.md](docs/eplan/xdxfgui_h_seitengrafeditoreinfuegen.md)
+      - **Ссылка**
+        - **Диалоговое окно Экспорт DXF/DWG** — [eplan/xdxfgui_d_export.md](docs/eplan/xdxfgui_d_export.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импорт DXF/DWG** — [eplan/xdxfgui_d_import.md](docs/eplan/xdxfgui_d_import.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоить страницы** — [eplan/xdxfgui_d_seitenzuweisen.md](docs/eplan/xdxfgui_d_seitenzuweisen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Форматир. импорта** — [eplan/xdxfgui_d_importformatierung.md](docs/eplan/xdxfgui_d_importformatierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно  Настройки: Экспорт и импорт DXF / DWG** — [eplan/xdxfgui_d_einstellungen.md](docs/eplan/xdxfgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Экспорт (Пользователь, DXF)** — [eplan/xdxfgui_r_export.md](docs/eplan/xdxfgui_r_export.md)
+          - Вызов диалогового окна:
+        - **Вкладка Импорт** — [eplan/xdxfgui_r_import.md](docs/eplan/xdxfgui_r_import.md)
+          - Вызов диалогового окна:
+        - **Вкладка Слои** — [eplan/xdxfgui_r_ebenen.md](docs/eplan/xdxfgui_r_ebenen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Цвета** — [eplan/xdxfgui_r_farben.md](docs/eplan/xdxfgui_r_farben.md)
+          - Вызов диалогового окна:
+        - **Вкладка Виды шрифтов** — [eplan/xdxfgui_r_schriftarten.md](docs/eplan/xdxfgui_r_schriftarten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Типы линий** — [eplan/xdxfgui_r_linientypen.md](docs/eplan/xdxfgui_r_linientypen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение блока** — [eplan/xdxfgui_r_blockdefinition.md](docs/eplan/xdxfgui_r_blockdefinition.md)
+          - Вызов диалогового окна:
+        - **Вкладка Атрибут блока** — [eplan/xdxfgui_r_blockattribut.md](docs/eplan/xdxfgui_r_blockattribut.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение атрибута** — [eplan/xdxfgui_d_attributdefinition.md](docs/eplan/xdxfgui_d_attributdefinition.md)
+          - Вызов диалогового окна:
+    - **Экспорт графических файлов**
+      - **Основы**
+        - **Экспорт графических файлов** — [eplan/gedgraphicexportgui_k_start.md](docs/eplan/gedgraphicexportgui_k_start.md)
+      - **Процесс работы**
+        - **Вывести страницы в виде графических файлов** — [eplan/gedgraphicexportgui_h_seitenexportieren.md](docs/eplan/gedgraphicexportgui_h_seitenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Экспорт графических файлов** — [eplan/gedgraphicexportgui_d_exporteinstellungen.md](docs/eplan/gedgraphicexportgui_d_exporteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт графических файлов** — [eplan/modaldialogsdb_d_export.md](docs/eplan/modaldialogsdb_d_export.md)
+          - Вызов диалогового окна:
+    - **Экспорт файла PDF**
+      - **Основы**
+        - **Экспорт файла PDF** — [eplan/pdfexportgui_k_start.md](docs/eplan/pdfexportgui_k_start.md)
+        - **Экспорт PDF-файлов: Основные положения** — [eplan/pdfexportgui_k_grundlagen.md](docs/eplan/pdfexportgui_k_grundlagen.md)
+      - **Процесс работы**
+        - **Вывести страницы в PDF-файл** — [eplan/pdfexportgui_h_seitenexportieren.md](docs/eplan/pdfexportgui_h_seitenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Экспорт PDF** — [eplan/pdfexportgui_d_einstellexport.md](docs/eplan/pdfexportgui_d_einstellexport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Экспорт (пользователь, Экспорт PDF)** — [eplan/pdfexportgui_r_export.md](docs/eplan/pdfexportgui_r_export.md)
+          - Вызов диалогового окна:
+        - **Вкладка Общее (пользователь, Экспорт PDF)** — [eplan/pdfexportgui_r_allgemein.md](docs/eplan/pdfexportgui_r_allgemein.md)
+          - Вызов диалогового окна:
+        - **Вкладка Страницы устройства** — [eplan/pdfexportgui_r_bmseiten.md](docs/eplan/pdfexportgui_r_bmseiten.md)
+          - Вызов диалогового окна:
+        - **Вкладки "Свойства устройства" / "Свойства изделия"** — [eplan/pdfexportgui_r_bmeigenschaften.md](docs/eplan/pdfexportgui_r_bmeigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Языки вывода PDF** — [eplan/pdfexportgui_d_projekteinstellungen.md](docs/eplan/pdfexportgui_d_projekteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт PDF** — [eplan/pdfexportgui_d_export.md](docs/eplan/pdfexportgui_d_export.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Границы печати** — [eplan/printgui_d_druckraender.md](docs/eplan/printgui_d_druckraender.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: PDF-выходная величина** — [eplan/pdfexportgui_d_einstellausgabegroesse.md](docs/eplan/pdfexportgui_d_einstellausgabegroesse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать формат бумаги** — [eplan/pdfexportgui_d_auswahlausgabeformat.md](docs/eplan/pdfexportgui_d_auswahlausgabeformat.md)
+          - Вызов диалогового окна:
+    - **Печать**
+      - **Основы**
+        - **Печать** — [eplan/printgui_k_start.md](docs/eplan/printgui_k_start.md)
+        - **Печать: Принцип** — [eplan/printgui_k_prinzip.md](docs/eplan/printgui_k_prinzip.md)
+      - **Процесс работы**
+        - **Печать страниц** — [eplan/printgui_h_drucken.md](docs/eplan/printgui_h_drucken.md)
+        - **Печать присоединенных документов** — [eplan/printgui_h_begleitdokumente.md](docs/eplan/printgui_h_begleitdokumente.md)
+      - **Ссылка**
+        - **Диалоговое окно Печать** — [eplan/printgui_d_drucken.md](docs/eplan/printgui_d_drucken.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Печать** — [eplan/printgui_d_druckoptionen.md](docs/eplan/printgui_d_druckoptionen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Выбрать присоединенные документы"** — [eplan/printgui_d_begleitdokumente.md](docs/eplan/printgui_d_begleitdokumente.md)
+          - Вызов диалогового окна:
+  - **Использование графической обработки**
+    - **Графический редактор**
+      - **Основы**
+        - **Графический редактор** — [eplan/gededitgui_k_start.md](docs/eplan/gededitgui_k_start.md)
+        - **Элементы управления графического редактора** — [eplan/gededitgui_k_prinzip.md](docs/eplan/gededitgui_k_prinzip.md)
+        - **Системы координат** — [eplan/gededitgui_k_koordinatensysteme.md](docs/eplan/gededitgui_k_koordinatensysteme.md)
+        - **Масштаб страницы** — [eplan/gededitgui_k_seitenmassstab.md](docs/eplan/gededitgui_k_seitenmassstab.md)
+        - **Управление курсором с помощью клавиатуры** — [eplan/gededitgui_k_cursortastatur.md](docs/eplan/gededitgui_k_cursortastatur.md)
+        - **Обзор комбинаций клавиш** — [eplan/gededitgui_k_tastaturbefehle.md](docs/eplan/gededitgui_k_tastaturbefehle.md)
+        - **Отмена и восстановление операций** — [eplan/gededitgui_k_undoundredo.md](docs/eplan/gededitgui_k_undoundredo.md)
+        - **Функции масштабирования** — [eplan/gededitgui_k_zoom.md](docs/eplan/gededitgui_k_zoom.md)
+        - **Тексты** — [eplan/gededitgui_k_texte.md](docs/eplan/gededitgui_k_texte.md)
+        - **Блок выравнивания для текстов** — [eplan/gededitgui_k_texteeinpassen.md](docs/eplan/gededitgui_k_texteeinpassen.md)
+        - **Захват объекта** — [eplan/gededitgui_k_objektfang.md](docs/eplan/gededitgui_k_objektfang.md)
+        - **Последовательность обработки сгруппированных объектов** — [eplan/gededitgui_k_gruppierung.md](docs/eplan/gededitgui_k_gruppierung.md)
+        - **Область ввода данных** — [eplan/gededitgui_k_kommandozeile.md](docs/eplan/gededitgui_k_kommandozeile.md)
+        - **Поворачивание и зеркальное отображение** — [eplan/gededitgui_k_drehenspiegeln.md](docs/eplan/gededitgui_k_drehenspiegeln.md)
+        - **Функции обрезки** — [eplan/gededitgui_k_trimmen.md](docs/eplan/gededitgui_k_trimmen.md)
+      - **Процесс работы**
+        - **Использовать вспомогательные опции отображения и позиционирования**
+          - **Определить величины шага** — [eplan/gededitgui_h_schrittweitenfestlegen.md](docs/eplan/gededitgui_h_schrittweitenfestlegen.md)
+          - **Переместить исходную точку координат** — [eplan/gededitgui_h_bezugspunktverschiebung.md](docs/eplan/gededitgui_h_bezugspunktverschiebung.md)
+          - **Работать с сетками** — [eplan/gededitgui_h_raster.md](docs/eplan/gededitgui_h_raster.md)
+          - **Активировать захват объекта** — [eplan/gededitgui_h_fangpunkte.md](docs/eplan/gededitgui_h_fangpunkte.md)
+          - **Активировать логический захват** — [eplan/gededitgui_h_logikfang.md](docs/eplan/gededitgui_h_logikfang.md)
+          - **Использовать режим конструкции** — [eplan/gededitgui_h_konstruktionsmodus.md](docs/eplan/gededitgui_h_konstruktionsmodus.md)
+          - **Использование ортогональной функции** — [eplan/gededitgui_h_orthogonalfunktion.md](docs/eplan/gededitgui_h_orthogonalfunktion.md)
+          - **Отобразить точки вставки** — [eplan/gededitgui_h_einfuegepunkte.md](docs/eplan/gededitgui_h_einfuegepunkte.md)
+          - **Отображать невидимые элементы** — [eplan/gededitgui_h_unsichtbareelemente.md](docs/eplan/gededitgui_h_unsichtbareelemente.md)
+          - **Отобразить пустые тексты** — [eplan/gededitgui_h_texteanzeigen.md](docs/eplan/gededitgui_h_texteanzeigen.md)
+          - **Показать имена свойств** — [eplan/gededitgui_h_eigenschaftsnamen.md](docs/eplan/gededitgui_h_eigenschaftsnamen.md)
+          - **Показать обозначения и описания выводов устройств** — [eplan/gededitgui_h_anschlussbezanzeigen.md](docs/eplan/gededitgui_h_anschlussbezanzeigen.md)
+          - **Отобразить выводы кабеля** — [eplan/gededitgui_h_kabelanschluesseanzeigen.md](docs/eplan/gededitgui_h_kabelanschluesseanzeigen.md)
+          - **Отображать внешние цели** — [eplan/gededitgui_h_externezieleanzeigen.md](docs/eplan/gededitgui_h_externezieleanzeigen.md)
+          - **Использование функций масштабирования** — [eplan/gededitgui_h_zoom.md](docs/eplan/gededitgui_h_zoom.md)
+          - **Использование области ввода данных** — [eplan/gededitgui_h_kommandozeile.md](docs/eplan/gededitgui_h_kommandozeile.md)
+        - **Обработать графические элементы**
+          - **Выбрать элементы** — [eplan/gededitgui_h_elementeauswaehlen.md](docs/eplan/gededitgui_h_elementeauswaehlen.md)
+          - **Копировать, вырезать и вставить элементы** — [eplan/gededitgui_h_elementekopieren.md](docs/eplan/gededitgui_h_elementekopieren.md)
+          - **Дублировать элементы** — [eplan/gededitgui_h_elementeduplizieren.md](docs/eplan/gededitgui_h_elementeduplizieren.md)
+          - **Стереть элементы** — [eplan/gededitgui_h_elementeloeschen.md](docs/eplan/gededitgui_h_elementeloeschen.md)
+          - **Переместить элементы** — [eplan/gededitgui_h_elementeverschieben.md](docs/eplan/gededitgui_h_elementeverschieben.md)
+          - **Работать с группами элементов** — [eplan/gededitgui_h_elementegruppieren.md](docs/eplan/gededitgui_h_elementegruppieren.md)
+          - **Равномерно распределить элементы** — [eplan/gededitgui_h_gleichmaessigverteilen.md](docs/eplan/gededitgui_h_gleichmaessigverteilen.md)
+          - **Выравнивание элементов горизонтально/вертикально** — [eplan/gededitgui_h_horverausrichten.md](docs/eplan/gededitgui_h_horverausrichten.md)
+          - **Переместить элементы на передний план / на задний план** — [eplan/gededitgui_h_elementeausrichten.md](docs/eplan/gededitgui_h_elementeausrichten.md)
+          - **Выбор и обработка фоновых изображений** — [eplan/gededitgui_h_hintergrundbearbeiten.md](docs/eplan/gededitgui_h_hintergrundbearbeiten.md)
+          - **Объединить элементы в блок / Разбить блок** — [eplan/gededitgui_h_blockbildenaufloesen.md](docs/eplan/gededitgui_h_blockbildenaufloesen.md)
+          - **Поворачивание и зеркальное отображение элементов** — [eplan/gededitgui_h_elementedrehenspiegeln.md](docs/eplan/gededitgui_h_elementedrehenspiegeln.md)
+          - **Масштабирование и растягивание элементов** — [eplan/gededitgui_h_elementeveraendern.md](docs/eplan/gededitgui_h_elementeveraendern.md)
+          - **Обрезка элементов** — [eplan/gededitgui_h_elementetrimmen.md](docs/eplan/gededitgui_h_elementetrimmen.md)
+          - **Закругление/скашивание углов (фаски)** — [eplan/gededitgui_h_eckenrunden.md](docs/eplan/gededitgui_h_eckenrunden.md)
+          - **Преобразовать условные обозначения в графику** — [eplan/gededitgui_h_schaltzeicheningrafik.md](docs/eplan/gededitgui_h_schaltzeicheningrafik.md)
+          - **Обработать свойства текста** — [eplan/gededitgui_h_textebearbeiten.md](docs/eplan/gededitgui_h_textebearbeiten.md)
+          - **Подогнать тексты в блоке выравнивания** — [eplan/gededitgui_h_texteeinpassen.md](docs/eplan/gededitgui_h_texteeinpassen.md)
+          - **Присоединить / отсоединить тексты** — [eplan/gededitgui_h_texteandocken.md](docs/eplan/gededitgui_h_texteandocken.md)
+          - **Переместить тексты свойств** — [eplan/gededitgui_h_symboltexteverschieben.md](docs/eplan/gededitgui_h_symboltexteverschieben.md)
+          - **Перенести настройки формата** — [eplan/gededitgui_h_formatuebertragen.md](docs/eplan/gededitgui_h_formatuebertragen.md)
+        - **Вставить графические элементы**
+          - **Начертить линии и прямоугольники** — [eplan/gededitgui_h_linienzeichnen.md](docs/eplan/gededitgui_h_linienzeichnen.md)
+          - **Начертить круги, дуги и эллипсы** — [eplan/gededitgui_h_kreisezeichnen.md](docs/eplan/gededitgui_h_kreisezeichnen.md)
+          - **Начертить перпендикулярные или касательные линии** — [eplan/gededitgui_h_lotrechttangentialzeichnen.md](docs/eplan/gededitgui_h_lotrechttangentialzeichnen.md)
+          - **Начертить кривые Безье** — [eplan/gededitgui_h_bezierzeichnen.md](docs/eplan/gededitgui_h_bezierzeichnen.md)
+          - **Ввести координаты при черчении** — [eplan/gededitgui_h_koordinatenbeimzeichnen.md](docs/eplan/gededitgui_h_koordinatenbeimzeichnen.md)
+          - **Вставить тексты** — [eplan/gededitgui_h_texte.md](docs/eplan/gededitgui_h_texte.md)
+          - **Вставить графические файлы** — [eplan/gededitgui_h_bilddateien.md](docs/eplan/gededitgui_h_bilddateien.md)
+          - **Вставить гиперссылки** — [eplan/gededitgui_h_hyperlinks.md](docs/eplan/gededitgui_h_hyperlinks.md)
+          - **Вставить QR-коды** — [eplan/gededitgui_h_qrcodes.md](docs/eplan/gededitgui_h_qrcodes.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)** — [eplan/gedviewer_d_einstellungenprojektallgemein.md](docs/eplan/gedviewer_d_einstellungenprojektallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 2D** — [eplan/gedviewer_d_einstellungenbenutzerallgemein.md](docs/eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 3D** — [eplan/gedviewer_d_einstellungenbenutzerallgemein3d.md](docs/eplan/gedviewer_d_einstellungenbenutzerallgemein3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Диалоговые окна свойств** — [eplan/gedviewer_d_einstelleigenschaftendialoge.md](docs/eplan/gedviewer_d_einstelleigenschaftendialoge.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Область ввода данных** — [eplan/gedviewer_d_einstellkommandozeile.md](docs/eplan/gedviewer_d_einstellkommandozeile.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Виды шрифтов** — [eplan/gededitgui_d_firmaschriftarten.md](docs/eplan/gededitgui_d_firmaschriftarten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать величину шага** — [eplan/gededitgui_d_schrittweite.md](docs/eplan/gededitgui_d_schrittweite.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Ввод координат** — [eplan/gededitgui_d_koordinateneingabe.md](docs/eplan/gededitgui_d_koordinateneingabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Относительный ввод координат** — [eplan/gededitgui_d_relativekoordinaten.md](docs/eplan/gededitgui_d_relativekoordinaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Свойства (<Графический элемент>)" / вкладка "Формат" (комментарии)** — [eplan/gededitgui_d_formatgrafik.md](docs/eplan/gededitgui_d_formatgrafik.md)
+          - Вызов диалогового окна "Свойства":
+          - Вызов диалогового окна вкладки "Формат":
+        - **Вкладка Текст** — [eplan/gededitgui_r_text.md](docs/eplan/gededitgui_r_text.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+        - **Вкладка Графический файл** — [eplan/gededitgui_r_bilddatei.md](docs/eplan/gededitgui_r_bilddatei.md)
+          - Вызов диалогового окна:
+        - **Вкладка Гиперссылка** — [eplan/gededitgui_r_hyperlink.md](docs/eplan/gededitgui_r_hyperlink.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (тексты)** — [eplan/gededitgui_r_format.md](docs/eplan/gededitgui_r_format.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+        - **Диалоговое окно Изменить свойства ссылки блока** — [eplan/gededitgui_d_blockreferenzeigenschaften.md](docs/eplan/gededitgui_d_blockreferenzeigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать графический файл** — [eplan/gededitgui_d_bildkopieren.md](docs/eplan/gededitgui_d_bildkopieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сохранить графический файл** — [eplan/gededitgui_d_bildeinlagern.md](docs/eplan/gededitgui_d_bildeinlagern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать гиперссылку** — [eplan/gededitgui_d_hyperlinkkopieren.md](docs/eplan/gededitgui_d_hyperlinkkopieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Отмена ввода в проекте <Имя проекта>" / диалоговое окно "Восстановление в проекте <Имя проекта>"** — [eplan/eservicesgui_d_rueckgaengigliste.md](docs/eplan/eservicesgui_d_rueckgaengigliste.md)
+          - Вызов диалогового окна Отмена в проекте <Имя проекта>:
+          - Вызов диалогового окна Восстановить в проекте <Имя проекта>:
+    - **Функциональные тексты зон**
+      - **Основы**
+        - **Функциональные тексты зон** — [eplan/gededitgui_k_pfadtextstart.md](docs/eplan/gededitgui_k_pfadtextstart.md)
+        - **Функциональные тексты зон: Принцип** — [eplan/gededitgui_k_pfadtextprinzip.md](docs/eplan/gededitgui_k_pfadtextprinzip.md)
+        - **Оценка функциональных текстов зон** — [eplan/gededitgui_k_pfadtextauswertung.md](docs/eplan/gededitgui_k_pfadtextauswertung.md)
+      - **Процесс работы**
+        - **Вставить и обработать функциональные тексты зоны** — [eplan/gededitgui_h_pfadtexteinfuegen.md](docs/eplan/gededitgui_h_pfadtexteinfuegen.md)
+    - **Указания размеров**
+      - **Основы**
+        - **Указания размеров** — [eplan/dimensiongui_k_start.md](docs/eplan/dimensiongui_k_start.md)
+        - **Указания размеров: Принцип** — [eplan/dimensiongui_k_bemassungenprinzip.md](docs/eplan/dimensiongui_k_bemassungenprinzip.md)
+      - **Процесс работы**
+        - **Вставить отдельное указание размеров / произвольное указание размеров** — [eplan/dimensiongui_h_einzelbemassung.md](docs/eplan/dimensiongui_h_einzelbemassung.md)
+        - **Вставить непрерывное указание размеров** — [eplan/dimensiongui_h_kettenbemassung.md](docs/eplan/dimensiongui_h_kettenbemassung.md)
+        - **Вставить инкрементальное указание размеров** — [eplan/dimensiongui_h_steigendebemassung.md](docs/eplan/dimensiongui_h_steigendebemassung.md)
+        - **Вставить указание размеров исходной линии** — [eplan/dimensiongui_h_bezugspunktbemassung.md](docs/eplan/dimensiongui_h_bezugspunktbemassung.md)
+        - **Вставить угловое указание размеров** — [eplan/dimensiongui_h_winkelbemassung.md](docs/eplan/dimensiongui_h_winkelbemassung.md)
+        - **Вставить круговое указание размеров** — [eplan/dimensiongui_h_kreisbemassung.md](docs/eplan/dimensiongui_h_kreisbemassung.md)
+        - **Вставить указание размеров посередине между двумя точками** — [eplan/dimensiongui_h_bemassungmitmittelpunkten.md](docs/eplan/dimensiongui_h_bemassungmitmittelpunkten.md)
+        - **Обработать указания размеров** — [eplan/dimensiongui_h_bemassungbearbeiten.md](docs/eplan/dimensiongui_h_bemassungbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Указание размеров** — [eplan/dimensiongui_d_projektbemassung.md](docs/eplan/dimensiongui_d_projektbemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Указания размеров** — [eplan/dimensiongui_r_bemassung.md](docs/eplan/dimensiongui_r_bemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Линии** — [eplan/dimensiongui_r_linien.md](docs/eplan/dimensiongui_r_linien.md)
+          - Вызов диалогового окна:
+    - **Прямая обработка**
+      - **Основы**
+        - **Прямая обработка** — [eplan/inplaceeditinggui_k_start.md](docs/eplan/inplaceeditinggui_k_start.md)
+        - **Свойства прямой обработки** — [eplan/inplaceeditinggui_k_eigenschaften.md](docs/eplan/inplaceeditinggui_k_eigenschaften.md)
+      - **Процесс работы**
+        - **Использование прямой обработки** — [eplan/inplaceeditinggui_h_direktesbearbeiten.md](docs/eplan/inplaceeditinggui_h_direktesbearbeiten.md)
+    - **Однополюсное представление**
+      - **Основы**
+        - **Однополюсное представление** — [eplan/singlepole_k_start.md](docs/eplan/singlepole_k_start.md)
+        - **Однополюсное представление: Принцип** — [eplan/singlepole_k_hintergrund.md](docs/eplan/singlepole_k_hintergrund.md)
+        - **Обзоры установок** — [eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md](docs/eplan/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
+        - **Особенности при использовании клемм в однополюсном представлении.** — [eplan/singlepole_k_besonderheitenklemmen.md](docs/eplan/singlepole_k_besonderheitenklemmen.md)
+        - **Особенности при использовании кабелей в однополюсном представлении** — [eplan/singlepole_k_besonderheitenkabel.md](docs/eplan/singlepole_k_besonderheitenkabel.md)
+        - **Жгутовое представление соединений в схемах соединений** — [eplan/singlepole_k_straenge_in_einpoligerdarstellung.md](docs/eplan/singlepole_k_straenge_in_einpoligerdarstellung.md)
+        - **Документация ПЛК в однополюсном представлении** — [eplan/singlepole_k_sps.md](docs/eplan/singlepole_k_sps.md)
+        - **Структуры сети** — [eplan/singlepole_k_bustopologien.md](docs/eplan/singlepole_k_bustopologien.md)
+        - **Определение многополюсных соединений в однополюсном представлении** — [eplan/singlepole_k_verbindungen.md](docs/eplan/singlepole_k_verbindungen.md)
+      - **Процесс работы**
+        - **Начертить схему соединений в однополюсном представлении** — [eplan/singlepole_h_stromlaufplaenezeichnen.md](docs/eplan/singlepole_h_stromlaufplaenezeichnen.md)
+        - **Представление кабелей с помощью выводов жгута** — [eplan/singlepole_h_gostnorm.md](docs/eplan/singlepole_h_gostnorm.md)
+          - Вставка источника кабеля и черчение входящих выводов жгута
+          - Вставка цели кабеля и черчение исходящих выводов жгута
+          - Соединение групп выводов жгута и вставка определения кабеля
+        - **Применить цвета/номера кабельных соединений в качестве обозначений выводов жгута** — [eplan/singlepole_h_stranganschluesse_vom_kabel_uebernehmen.md](docs/eplan/singlepole_h_stranganschluesse_vom_kabel_uebernehmen.md)
+        - **Определить многополюсные соединения в однополюсной точке определения соединений** — [eplan/singlepole_h_allpoligeverbindungendefinieren.md](docs/eplan/singlepole_h_allpoligeverbindungendefinieren.md)
+      - **Ссылка**
+        - **Вкладка Подключить устройства** — [eplan/xesconnectdevicegui_d_geraeteverschalten.md](docs/eplan/xesconnectdevicegui_d_geraeteverschalten.md)
+          - Вызов диалогового окна:
+    - **Компоновка электрошкафа 2D**
+      - **Основы**
+        - **Компоновка электрошкафа 2D** — [eplan/panellayoutgui_k_start.md](docs/eplan/panellayoutgui_k_start.md)
+        - **Компоновка электрошкафа 2D: Основные положения** — [eplan/panellayoutgui_k_grundlagen.md](docs/eplan/panellayoutgui_k_grundlagen.md)
+        - **Компоновка электрошкафа 2D: Виды размещения** — [eplan/panellayoutgui_k_platzierungsarten.md](docs/eplan/panellayoutgui_k_platzierungsarten.md)
+        - **Компоновка электрошкафа 2D: Легенды** — [eplan/panellayoutgui_k_legenden.md](docs/eplan/panellayoutgui_k_legenden.md)
+      - **Процесс работы**
+        - **Размещение монтажной платы (2D)** — [eplan/panellayoutgui_h_montageplattenplatzieren.md](docs/eplan/panellayoutgui_h_montageplattenplatzieren.md)
+        - **Разместить функциональные элементы на монтажной плате** — [eplan/panellayoutgui_h_bauteileplatzieren.md](docs/eplan/panellayoutgui_h_bauteileplatzieren.md)
+        - **Разместить функциональные элементы без схемы соединений** — [eplan/panellayoutgui_h_bauteileohneschaltplan.md](docs/eplan/panellayoutgui_h_bauteileohneschaltplan.md)
+        - **Разместить функциональные элементы на несущей шине** — [eplan/panellayoutgui_h_hutschienenplatzierung.md](docs/eplan/panellayoutgui_h_hutschienenplatzierung.md)
+        - **Начертить заблокированные области** — [eplan/panellayoutgui_h_sperrflaechenzeichnen.md](docs/eplan/panellayoutgui_h_sperrflaechenzeichnen.md)
+        - **Обработать и отобразить свойства размещений изделий** — [eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md](docs/eplan/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
+        - **Проверить размещения изделий** — [eplan/panellayoutgui_h_artikelplatzierungenueberpruefen.md](docs/eplan/panellayoutgui_h_artikelplatzierungenueberpruefen.md)
+        - **Генерировать легенды электрошкафа** — [eplan/panellayoutgui_h_legendenanlegen.md](docs/eplan/panellayoutgui_h_legendenanlegen.md)
+        - **Обработать позиции легенды** — [eplan/panellayoutgui_h_legendenaktualisieren.md](docs/eplan/panellayoutgui_h_legendenaktualisieren.md)
+        - **Обновить главные элементы** — [eplan/panellayoutgui_h_hauptbauteileaktualisieren.md](docs/eplan/panellayoutgui_h_hauptbauteileaktualisieren.md)
+        - **Обновить размеры изделий** — [eplan/panellayoutgui_h_artikelabmessungenaktualisieren.md](docs/eplan/panellayoutgui_h_artikelabmessungenaktualisieren.md)
+        - **Использовать функции перехода** — [eplan/panellayoutgui_h_sprungfunktionen.md](docs/eplan/panellayoutgui_h_sprungfunktionen.md)
+        - **Генерировать диаграммы соединений** — [eplan/panellayoutgui_h_verbindungsdiagramme.md](docs/eplan/panellayoutgui_h_verbindungsdiagramme.md)
+      - **Ссылка**
+        - **Диалоговое окно Компоновка электрошкафа 2D — <Имя проекта>** — [eplan/panellayoutgui_d_schaltschrankaufbaupdd.md](docs/eplan/panellayoutgui_d_schaltschrankaufbaupdd.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Компоновка электрошкафа 2D** — [eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md](docs/eplan/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удлинение и интервал** — [eplan/panellayoutgui_d_ausdehnungabstand.md](docs/eplan/panellayoutgui_d_ausdehnungabstand.md)
+          - Вызов диалогового окна:
+        - **Вкладка Монтажная плата (компоновка электрошкафа)** — [eplan/devicetaggui_r_montageplatte.md](docs/eplan/devicetaggui_r_montageplatte.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение изделия** — [eplan/devicetaggui_r_artikelplatzierung.md](docs/eplan/devicetaggui_r_artikelplatzierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать** — [eplan/panellayoutgui_d_nummerieren.md](docs/eplan/panellayoutgui_d_nummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать позицию легенды** — [eplan/panellayoutgui_d_legendenposbearbeiten.md](docs/eplan/panellayoutgui_d_legendenposbearbeiten.md)
+          - Вызов диалогового окна:
+    - **Блок-схемы рабочего процесса**
+      - **Основы**
+        - **Блок-схемы рабочего процесса** — [eplan/functionaldiagramgui_k_start.md](docs/eplan/functionaldiagramgui_k_start.md)
+        - **Блок-схема рабочего процесса: Принцип** — [eplan/functionaldiagramgui_k_prinzip.md](docs/eplan/functionaldiagramgui_k_prinzip.md)
+        - **Диаграммы GRAFCET** — [eplan/functionaldiagramgui_k_grafcet.md](docs/eplan/functionaldiagramgui_k_grafcet.md)
+        - **Порядок создания блок-схем рабочего процесса** — [eplan/functionaldiagramgui_k_funktionsdiagramme.md](docs/eplan/functionaldiagramgui_k_funktionsdiagramme.md)
+          - Размещение функций
+          - Свойства для функциональных диаграмм
+          - Размещение макросов
+          - Особенности размещения функций и макросов
+          - Вставка шкал и порядка рабочего процесса
+          - Порядок рабочего процесса в диаграммах GRAFCET
+      - **Процесс работы**
+        - **Создание диаграмм функций** — [eplan/functionaldiagramgui_h_funktionsdiagerstellen.md](docs/eplan/functionaldiagramgui_h_funktionsdiagerstellen.md)
+          - Создание страницы проекта для блок-схемы рабочего процесса
+          - Размещение устройств в блок-схеме рабочего процесса
+          - Чертить порядок рабочего процесса
+        - **Создание диаграмм GRAFCET** — [eplan/functionaldiagramgui_h_grafcetdiagerstellen.md](docs/eplan/functionaldiagramgui_h_grafcetdiagerstellen.md)
+          - Создание страницы проекта для диаграммы GRAFCET
+          - Создание таблицы переменных
+          - Чертить порядок рабочего процесса
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Блок-схемы рабочего процесса** — [eplan/functionaldiagramgui_d_einstellungen.md](docs/eplan/functionaldiagramgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+  - **Обработать схемы соединений**
+    - **Центр вставки**
+      - **Основы**
+        - **Центр вставки** — [eplan/insertergui_k_start.md](docs/eplan/insertergui_k_start.md)
+        - **Поиск в центре вставки и управлении изделиями** — [eplan/insertergui_k_suchen.md](docs/eplan/insertergui_k_suchen.md)
+        - **Набор макросов для центра вставки** — [eplan/insertergui_k_makrosammlung.md](docs/eplan/insertergui_k_makrosammlung.md)
+        - **Обновление центра вставки** — [eplan/insertergui_k_aktualisierung.md](docs/eplan/insertergui_k_aktualisierung.md)
+        - **Комбинации клавиш в центре вставки** — [eplan/insertergui_k_tastaturbedienung.md](docs/eplan/insertergui_k_tastaturbedienung.md)
+      - **Процесс работы**
+        - **Определение избранного в центре вставки** — [eplan/insertergui_h_favoritendefinieren.md](docs/eplan/insertergui_h_favoritendefinieren.md)
+        - **Определение тегов в центре вставки** — [eplan/insertergui_h_tagsdefinieren.md](docs/eplan/insertergui_h_tagsdefinieren.md)
+        - **Вставка объектов через центр вставки** — [eplan/insertergui_h_objekteeinfuegen.md](docs/eplan/insertergui_h_objekteeinfuegen.md)
+        - **Поиск объектов в центре вставки** — [eplan/insertergui_h_suchen.md](docs/eplan/insertergui_h_suchen.md)
+        - **Импорт и экспорт избранного и тегов (центр вставки)** — [eplan/insertergui_h_favoritentagsexportieren.md](docs/eplan/insertergui_h_favoritentagsexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Центр вставки"** — [eplan/insertergui_d_einfuegezentrum.md](docs/eplan/insertergui_d_einfuegezentrum.md)
+          - Вызов диалогового окна:
+          - Поиск
+          - Строка навигации
+          - Папка для быстрого доступа
+          - Папка для типов объектов
+          - Data Portal
+          - Предварительный просмотр
+          - Информационная область
+    - **Символы**
+      - **Основы**
+        - **Символы** — [eplan/xsbgui_k_start.md](docs/eplan/xsbgui_k_start.md)
+        - **Управление символами** — [eplan/xsbgui_k_arbeitsweise.md](docs/eplan/xsbgui_k_arbeitsweise.md)
+        - **Символы: Конструкция и идентифицирующие свойства** — [eplan/xsbgui_k_aufbaueigenschaften.md](docs/eplan/xsbgui_k_aufbaueigenschaften.md)
+        - **Макросы символов** — [eplan/xsbgui_k_symbolmakros.md](docs/eplan/xsbgui_k_symbolmakros.md)
+        - **Символы: Порядок действий** — [eplan/xsbgui_k_vorgehensweise.md](docs/eplan/xsbgui_k_vorgehensweise.md)
+      - **Процесс работы**
+        - **Поменять библиотеки символов** — [eplan/xsbgui_h_symbolbibltauschen.md](docs/eplan/xsbgui_h_symbolbibltauschen.md)
+        - **Обновить символы** — [eplan/xsbgui_h_symboleaktualisieren.md](docs/eplan/xsbgui_h_symboleaktualisieren.md)
+        - **Разместить символы** — [eplan/xsbgui_h_symboleplatzieren.md](docs/eplan/xsbgui_h_symboleplatzieren.md)
+        - **Предотвратить новое размещение символа** — [eplan/xsbgui_h_symbolplatzierungverhindern.md](docs/eplan/xsbgui_h_symbolplatzierungverhindern.md)
+        - **Заменить символы и условные обозначения** — [eplan/xsbgui_h_symboletauschen.md](docs/eplan/xsbgui_h_symboletauschen.md)
+        - **Выбрать вариант символа** — [eplan/xsbgui_h_symbolvarianteausw.md](docs/eplan/xsbgui_h_symbolvarianteausw.md)
+      - **Ссылка**
+        - **Диалоговое окно Выбор символа** — [eplan/xsbgui_d_symbolauswahl.md](docs/eplan/xsbgui_d_symbolauswahl.md)
+          - Вызов диалогового окна:
+    - **Устройство**
+      - **Основы**
+        - **Устройство** — [eplan/devicetaggui_k_start.md](docs/eplan/devicetaggui_k_start.md)
+        - **Свойства устройства** — [eplan/devicetaggui_k_bmeigenschaften.md](docs/eplan/devicetaggui_k_bmeigenschaften.md)
+        - **Структура обозначения устройства** — [eplan/devicetaggui_k_aufbauvonbm.md](docs/eplan/devicetaggui_k_aufbauvonbm.md)
+        - **Перенос ОУ** — [eplan/devicetaggui_k_bmkuebernahme.md](docs/eplan/devicetaggui_k_bmkuebernahme.md)
+        - **Особенности при переносе ОУ** — [eplan/devicetaggui_k_bmkuebernahmesonder.md](docs/eplan/devicetaggui_k_bmkuebernahmesonder.md)
+        - **Перенос обозначения вывода устройства** — [eplan/devicetaggui_k_anschlussbezuebergabe.md](docs/eplan/devicetaggui_k_anschlussbezuebergabe.md)
+        - **Графические и внешние условные обозначения и соединения** — [eplan/devicetaggui_k_grafischeschaltzeichen.md](docs/eplan/devicetaggui_k_grafischeschaltzeichen.md)
+          - Графические условные обозначения
+          - Внешние условные обозначения
+          - Графические и внешние соединения
+        - **Характеристики графических и внешних функций** — [eplan/devicetaggui_k_verhaltengrafischerschaltzeichen.md](docs/eplan/devicetaggui_k_verhaltengrafischerschaltzeichen.md)
+      - **Процесс работы**
+        - **Обработать свойства устройств** — [eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md](docs/eplan/devicetaggui_h_bmeigenschaftenbearbeiten.md)
+        - **Использовать определенный пользователем порядок свойств** — [eplan/devicetaggui_h_eigschanordnungen.md](docs/eplan/devicetaggui_h_eigschanordnungen.md)
+          - Создать порядки свойств на условных обозначениях
+          - Создать порядки свойств в диалоговом окне конфигурации
+          - Альтернативные возможности присвоения порядков свойств
+          - Сбросить порядок свойств
+        - **Определить и форматировать свойства устройства** — [eplan/devicetaggui_h_bmkfestlegenundformatieren.md](docs/eplan/devicetaggui_h_bmkfestlegenundformatieren.md)
+        - **Присвоить изделия устройству** — [eplan/devicetaggui_h_artikeldatenzuweisen.md](docs/eplan/devicetaggui_h_artikeldatenzuweisen.md)
+        - **Заменить устройства** — [eplan/devicetaggui_h_bmtauschen.md](docs/eplan/devicetaggui_h_bmtauschen.md)
+        - **Синхронизировать функциональные тексты** — [eplan/egedgui_h_funktionstexteabgleichen.md](docs/eplan/egedgui_h_funktionstexteabgleichen.md)
+        - **Изменить ОУ функций** — [eplan/devicetaggui_h_bmkaendern.md](docs/eplan/devicetaggui_h_bmkaendern.md)
+          - Изменить ОУ у всех функций и представлений устройства
+          - Изменить ОУ у всех представлений функции
+          - Изменить ОУ у выбранной функции
+        - **Объединить ОУ** — [eplan/egedgui_h_bmkzusammenfuehren.md](docs/eplan/egedgui_h_bmkzusammenfuehren.md)
+        - **Определить направление поиска для переноса ОУ** — [eplan/devicetaggui_h_bmkuebernahmefestlegen.md](docs/eplan/devicetaggui_h_bmkuebernahmefestlegen.md)
+        - **Перенести обозначения выводов устройства** — [eplan/devicetaggui_h_anschlusbezuebernehmen.md](docs/eplan/devicetaggui_h_anschlusbezuebernehmen.md)
+        - **Отображение свойств изделия в виде QR-кодов или в виде изображений на устройстве** — [eplan/devicetaggui_h_artikeleigenschaftenanzeigen.md](docs/eplan/devicetaggui_h_artikeleigenschaftenanzeigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Полное ОУ** — [eplan/devicetaggui_d_vollstaendigesbmk.md](docs/eplan/devicetaggui_d_vollstaendigesbmk.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфигурировать порядки свойств — <Имя проекта>** — [eplan/eservicesgui_d_konfigeigenschaftsanordnungen.md](docs/eplan/eservicesgui_d_konfigeigenschaftsanordnungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сохранить порядок свойств** — [eplan/devicetaggui_d_eigschanordnungspeichern.md](docs/eplan/devicetaggui_d_eigschanordnungspeichern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать порядок свойств** — [eplan/devicetaggui_d_eigschanordnungexportieren.md](docs/eplan/devicetaggui_d_eigschanordnungexportieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать подклассы буквенных обозначений** — [eplan/numerationgui_d_kennbuchstabenunterklassenauswaehlen.md](docs/eplan/numerationgui_d_kennbuchstabenunterklassenauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Вкладки <Категория функции > / <Категория функции> (Устройство)** — [eplan/devicetaggui_r_bmdaten.md](docs/eplan/devicetaggui_r_bmdaten.md)
+          - Вызов диалогового окна Вкладка ' <Категория функции>:
+          - Вызов диалогового окна Вкладка <Категория функции> (Устройство):
+        - **Вкладка Отображение (Устройство)** — [eplan/devicetaggui_r_anzeige.md](docs/eplan/devicetaggui_r_anzeige.md)
+          - Вызов диалогового окна:
+        - **Свойства отображения: Размещенное свойство** — [eplan/devicetaggui_r_anzeigeeigenschaften.md](docs/eplan/devicetaggui_r_anzeigeeigenschaften.md)
+          - Вызов диалогового окна:
+          - Уровень иерархии Формат
+          - Уровень иерархии Рамка текста
+          - Уровень иерархии Блок выравнивания
+          - Уровень иерархии Значение / единица измерения
+          - Уровень иерархии Позиция
+        - **Свойства отображения: Образ контакта** — [eplan/devicetaggui_r_anzeigekontaktspiegel.md](docs/eplan/devicetaggui_r_anzeigekontaktspiegel.md)
+          - Вызов диалогового окна:
+          - Уровень иерархии Позиция
+          - Уровень иерархии Настройка
+        - **Вкладка Формат (Устройство)** — [eplan/devicetaggui_r_format.md](docs/eplan/devicetaggui_r_format.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (Размещение изделия 3D)** — [eplan/devicetaggui_r_format3d.md](docs/eplan/devicetaggui_r_format3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размеры (монтажная плата)** — [eplan/devicetaggui_r_abmessung3d.md](docs/eplan/devicetaggui_r_abmessung3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные символа / функции** — [eplan/devicetaggui_r_symbolfunktionsdaten.md](docs/eplan/devicetaggui_r_symbolfunktionsdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать функциональные тексты** — [eplan/egedgui_d_funktionstextabgleich.md](docs/eplan/egedgui_d_funktionstextabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (Проекты, Устройства)** — [eplan/xessettingsgui_d_betriebsmittelallgemein.md](docs/eplan/xessettingsgui_d_betriebsmittelallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: ОУ (Проекты, Устройства)** — [eplan/xessettingsgui_d_betriebsmittelbmk.md](docs/eplan/xessettingsgui_d_betriebsmittelbmk.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (Пользователь, Устройство)** — [eplan/xessettingsgui_d_betriebsmittelallgemeinbenutzer.md](docs/eplan/xessettingsgui_d_betriebsmittelallgemeinbenutzer.md)
+          - Вызов диалогового окна:
+    - **Защита от изменений и защита устройства**
+      - **Основы**
+        - **Защита от изменений** — [eplan/devicetaggui_k_aenderungsschutz.md](docs/eplan/devicetaggui_k_aenderungsschutz.md)
+        - **Защита устройства** — [eplan/devicetaggui_k_geschuetztebm.md](docs/eplan/devicetaggui_k_geschuetztebm.md)
+        - **Использование защищенных устройств** — [eplan/devicetaggui_k_geschuetztebmverwendung.md](docs/eplan/devicetaggui_k_geschuetztebmverwendung.md)
+        - **Управление неразмещенных вспомогательных функций на главной функции** — [eplan/devicetaggui_k_verwaltungnichtplatziertefunktionen.md](docs/eplan/devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
+      - **Процесс работы**
+        - **Защитить устройства** — [eplan/devicetaggui_h_bmschuetzen.md](docs/eplan/devicetaggui_h_bmschuetzen.md)
+          - Защитить все устройство
+          - Защитить отдельные функции, соединения или объекты планирования
+          - Снять защиту устройства
+        - **Присвоить защиту от изменений в ручном режиме** — [eplan/devicetaggui_h_manuellschuetzen.md](docs/eplan/devicetaggui_h_manuellschuetzen.md)
+      - **Ссылка**
+        - **Диалоговое окно "Конфигурировать защиту"** — [eplan/eservicesgui_d_schutzkonfig.md](docs/eplan/eservicesgui_d_schutzkonfig.md)
+          - Вызов диалогового окна:
+    - **Синтаксическая проверка ОУ**
+      - **Основы**
+        - **Синтаксическая проверка ОУ** — [eplan/devicetagcheckgui_k_start.md](docs/eplan/devicetagcheckgui_k_start.md)
+      - **Процесс работы**
+        - **Проверить обозначение устройства** — [eplan/devicetagcheckgui_h_bmueberpruefen.md](docs/eplan/devicetagcheckgui_h_bmueberpruefen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Синтаксическая проверка ОУ** — [eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md](docs/eplan/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синтаксическая проверка ОУ** — [eplan/devicetagcheckgui_d_syntaxfehlermeldung.md](docs/eplan/devicetagcheckgui_d_syntaxfehlermeldung.md)
+          - Вызов диалогового окна:
+    - **Перекрестные ссылки**
+      - **Основы**
+        - **Перекрестные ссылки** — [eplan/xessettingsgui_k_start.md](docs/eplan/xessettingsgui_k_start.md)
+        - **Перекрестные ссылки: Основные положения** — [eplan/xessettingsgui_k_grundlagen.md](docs/eplan/xessettingsgui_k_grundlagen.md)
+        - **Перекрестные ссылки: Виды перекрестных ссылок** — [eplan/xessettingsgui_k_querverweisarten.md](docs/eplan/xessettingsgui_k_querverweisarten.md)
+        - **Образ контакта на основе формы** — [eplan/xessettingsgui_k_qvwjapanische.md](docs/eplan/xessettingsgui_k_qvwjapanische.md)
+      - **Процесс работы**
+        - **Произвести настройки для отображения перекрестных ссылок** — [eplan/xessettingsgui_h_einstellungenqvwanzeige.md](docs/eplan/xessettingsgui_h_einstellungenqvwanzeige.md)
+        - **Произвести настройки для просмотра образов контактов** — [eplan/xessettingsgui_h_einstellungenkontaktspiegel.md](docs/eplan/xessettingsgui_h_einstellungenkontaktspiegel.md)
+        - **Генерировать перекрестные ссылки оборудования** — [eplan/xessettingsgui_h_symbolquerverweiseerzeugen.md](docs/eplan/xessettingsgui_h_symbolquerverweiseerzeugen.md)
+        - **Генерировать парные перекрестные ссылки** — [eplan/xessettingsgui_h_paarquerverweiseerzeugen.md](docs/eplan/xessettingsgui_h_paarquerverweiseerzeugen.md)
+        - **Генерировать перекрестные ссылки точек разрыва** — [eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md](docs/eplan/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
+        - **Генерировать перекрестные ссылки монтажных плат** — [eplan/xessettingsgui_h_montageplattenqvwerzeugen.md](docs/eplan/xessettingsgui_h_montageplattenqvwerzeugen.md)
+        - **Генерировать перекрестную ссылку ПЛК** — [eplan/xessettingsgui_h_spsquerverweiseerzeugen.md](docs/eplan/xessettingsgui_h_spsquerverweiseerzeugen.md)
+        - **Генерировать перекрестные ссылки на списках обозначений устройств** — [eplan/xessettingsgui_h_qvwaufbetriebsmittellisten.md](docs/eplan/xessettingsgui_h_qvwaufbetriebsmittellisten.md)
+        - **Генерировать ручные перекрестные ссылки** — [eplan/xessettingsgui_h_manuelleqvwerzeugen.md](docs/eplan/xessettingsgui_h_manuelleqvwerzeugen.md)
+        - **Оптимизировать отображение перекрестных ссылок** — [eplan/xessettingsgui_h_qvwanzeigeoptimieren.md](docs/eplan/xessettingsgui_h_qvwanzeigeoptimieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)** — [eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md](docs/eplan/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Точки разрыва** — [eplan/xessettingsgui_d_einstellungenprojektabbruchstellen.md](docs/eplan/xessettingsgui_d_einstellungenprojektabbruchstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Образ контакта у усл. обозначения / образ контакта в зоне** — [eplan/xessettingsgui_d_einstellungenprojektmotorschutzschalter.md](docs/eplan/xessettingsgui_d_einstellungenprojektmotorschutzschalter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Отображение** — [eplan/xessettingsgui_d_einstellungenprojektqvwanzeige.md](docs/eplan/xessettingsgui_d_einstellungenprojektqvwanzeige.md)
+          - Вызов диалогового окна:
+    - **Черные ящики**
+      - **Основы**
+        - **Черные ящики** — [eplan/blackbox_k_start.md](docs/eplan/blackbox_k_start.md)
+        - **Черные ящики: Принцип работы** — [eplan/blackbox_k_arbeitsweise.md](docs/eplan/blackbox_k_arbeitsweise.md)
+        - **Черные ящики: Возможности использования** — [eplan/blackbox_k_einsatzmoeglichkeiten.md](docs/eplan/blackbox_k_einsatzmoeglichkeiten.md)
+        - **Черные ящики: Основные положения для вкладывания** — [eplan/blackbox_k_schachteln.md](docs/eplan/blackbox_k_schachteln.md)
+        - **Генерация отчета по выводам устройства** — [eplan/blackbox_k_anschluesseauswerten.md](docs/eplan/blackbox_k_anschluesseauswerten.md)
+      - **Процесс работы**
+        - **Вставить черные ящики** — [eplan/blackbox_h_kasteneinfuegen.md](docs/eplan/blackbox_h_kasteneinfuegen.md)
+        - **Вставить и обработать выводы устройства** — [eplan/blackbox_h_anschluesseeinfuegen.md](docs/eplan/blackbox_h_anschluesseeinfuegen.md)
+        - **Рисование блоков ломаными линиями** — [eplan/blackbox_h_polygonalekaesten.md](docs/eplan/blackbox_h_polygonalekaesten.md)
+      - **Ссылка**
+        - **Вкладки Черный ящик / Резервуар** — [eplan/devicetaggui_r_blackboxdaten.md](docs/eplan/devicetaggui_r_blackboxdaten.md)
+          - Вызов диалогового окна:
+    - **Обозначения местоположения**
+      - **Основы**
+        - **Обозначения местоположения** — [eplan/locationbox_k_start.md](docs/eplan/locationbox_k_start.md)
+        - **Обозначения местоположения: Основные положения** — [eplan/locationbox_k_grundlagen.md](docs/eplan/locationbox_k_grundlagen.md)
+      - **Процесс работы**
+        - **Вставить обозначения местоположения** — [eplan/locationbox_h_einfuegen.md](docs/eplan/locationbox_h_einfuegen.md)
+        - **Работа с вложенными обозначениями местоположения** — [eplan/locationbox_h_geschachtelte.md](docs/eplan/locationbox_h_geschachtelte.md)
+      - **Ссылка**
+        - **Вкладка Идентификатор** — [eplan/devicetaggui_r_locationbox.md](docs/eplan/devicetaggui_r_locationbox.md)
+          - Вызов диалогового окна:
+    - **Найти и заменить**
+      - **Основы**
+        - **Найти и заменить** — [eplan/searchandreplacegui_k_start.md](docs/eplan/searchandreplacegui_k_start.md)
+        - **Определение искомых понятий** — [eplan/searchandreplacegui_k_prinzip.md](docs/eplan/searchandreplacegui_k_prinzip.md)
+        - **Список результатов** — [eplan/searchandreplacegui_k_ergebnislisten.md](docs/eplan/searchandreplacegui_k_ergebnislisten.md)
+        - **Записи в списках результатов** — [eplan/searchandreplacegui_k_eintraegeergebnisliste.md](docs/eplan/searchandreplacegui_k_eintraegeergebnisliste.md)
+        - **Использование символов-заполнителей** — [eplan/searchandreplacegui_k_platzhalter.md](docs/eplan/searchandreplacegui_k_platzhalter.md)
+      - **Процесс работы**
+        - **Поиск данных проекта** — [eplan/searchandreplacegui_h_suchen.md](docs/eplan/searchandreplacegui_h_suchen.md)
+        - **Заменить данные проекта** — [eplan/searchandreplacegui_h_ersetzen.md](docs/eplan/searchandreplacegui_h_ersetzen.md)
+        - **Обработать записи для поиска** — [eplan/searchandreplacegui_h_bearbeiten.md](docs/eplan/searchandreplacegui_h_bearbeiten.md)
+        - **Синхронизировать выбор** — [eplan/searchandreplacegui_h_auswahlsynchronisieren.md](docs/eplan/searchandreplacegui_h_auswahlsynchronisieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Поиск** — [eplan/searchandreplacegui_d_suchen.md](docs/eplan/searchandreplacegui_d_suchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты поиска — <Имя проекта>** — [eplan/searchandreplacegui_d_suchergebnisse.md](docs/eplan/searchandreplacegui_d_suchergebnisse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Заменить** — [eplan/searchandreplacegui_d_ersetzen.md](docs/eplan/searchandreplacegui_d_ersetzen.md)
+          - Вызов диалогового окна:
+    - **Групповая обработка**
+      - **Основы**
+        - **Групповая обработка** — [eplan/multipleselection_k_start.md](docs/eplan/multipleselection_k_start.md)
+        - **Групповая обработка: Принцип** — [eplan/multipleselection_k_prinzip.md](docs/eplan/multipleselection_k_prinzip.md)
+      - **Процесс работы**
+        - **Выбор объектов для групповой обработки** — [eplan/multipleselection_h_objekteblockbearbeitung.md](docs/eplan/multipleselection_h_objekteblockbearbeitung.md)
+    - **Табличная обработка**
+      - **Основы**
+        - **Табличная обработка** — [eplan/functiondatagridgui_k_start.md](docs/eplan/functiondatagridgui_k_start.md)
+        - **Состав ОУ** — [eplan/functiondatagridgui_k_bmkaufteilung.md](docs/eplan/functiondatagridgui_k_bmkaufteilung.md)
+      - **Процесс работы**
+        - **Обработать объекты в табличном виде** — [eplan/functiondatagridgui_h_tabellarischbearbeiten.md](docs/eplan/functiondatagridgui_h_tabellarischbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Табличная обработка** — [eplan/functiondatagridgui_d_schematabellarischebearbeitung.md](docs/eplan/functiondatagridgui_d_schematabellarischebearbeitung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Табличная обработка — <Имя проекта>** — [eplan/functiondatagridgui_d_tabellarischbearbeiten.md](docs/eplan/functiondatagridgui_d_tabellarischbearbeiten.md)
+          - Вызов диалогового окна:
+    - **Свойства блока**
+      - **Основы**
+        - **Свойства блока** — [eplan/blockproperties_k_start.md](docs/eplan/blockproperties_k_start.md)
+        - **Свойства блока: Принцип** — [eplan/blockproperties_k_prinzip.md](docs/eplan/blockproperties_k_prinzip.md)
+        - **Предварительное определение свойств блока** — [eplan/blockproperties_k_vordefinition.md](docs/eplan/blockproperties_k_vordefinition.md)
+      - **Процесс работы**
+        - **Определить свойства блока** — [eplan/blockproperties_h_blockeigenschaftendefinieren.md](docs/eplan/blockproperties_h_blockeigenschaftendefinieren.md)
+        - **Просмотреть свойства блока** — [eplan/blockproperties_h_blockeigenschaftenanzeigen.md](docs/eplan/blockproperties_h_blockeigenschaftenanzeigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Формат** — [eplan/eservicesgui_d_format.md](docs/eplan/eservicesgui_d_format.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (шаблон для автоматического выделения):
+          - Вызов диалогового окна (формат отображения для определений сегмента):
+          - Вызов диалогового окна (форматы блока для конфигурации представления структуры дерева):
+          - Функции
+          - Точки разрыва
+          - Определения потенциала
+          - Определения трубопроводов
+          - Автоматические тексты описания
+          - Сегменты
+          - Объекты в представлении структуры дерева
+        - **Диалоговое окно Формат: Свойство блока** — [eplan/eservicesgui_d_formatblockeigenschaft.md](docs/eplan/eservicesgui_d_formatblockeigenschaft.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (формат отображения для определений сегмента):
+          - Вызов диалогового окна (форматы блока для конфигурации представления структуры дерева):
+          - Вызов диалогового окна (в редакторе форм):
+        - **Диалоговое окно Формат: Разделитель** — [eplan/eservicesgui_d_formattrennzeichen.md](docs/eplan/eservicesgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (Форматы адресов ПЛК):
+        - **Диалоговое окно Формат: Комментарий** — [eplan/eservicesgui_d_formatkommentar.md](docs/eplan/eservicesgui_d_formatkommentar.md)
+          - Вызов диалогового окна:
+    - **Определенные пользователем свойства**
+      - **Основные положения**
+        - **Определенные пользователем свойства** — [eplan/userdefproperties_k_start.md](docs/eplan/userdefproperties_k_start.md)
+        - **Дополнительные поля и произвольные свойства** — [eplan/userdefproperties_k_zusatzfelder.md](docs/eplan/userdefproperties_k_zusatzfelder.md)
+      - **Процесс работы**
+        - **Создать определенные пользователем свойства** — [eplan/userdefproperties_h_eigenschafterstellen.md](docs/eplan/userdefproperties_h_eigenschafterstellen.md)
+        - **Удалить определенные пользователем свойства** — [eplan/userdefproperties_h_eigenschaftloeschen.md](docs/eplan/userdefproperties_h_eigenschaftloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Конфигурировать свойства – <Имя проекта>** — [eplan/eservicesgui_d_konfigeigenschaften.md](docs/eplan/eservicesgui_d_konfigeigenschaften.md)
+          - Вызов диалогового окна:
+    - **Общая обработка**
+      - **Основы**
+        - **Режим-Свойства (общие)** — [eplan/reverseengineering_k_modus.md](docs/eplan/reverseengineering_k_modus.md)
+        - **Последовательность видов представлений при общей обработке и анализе** — [eplan/reverseengineering_k_reihenfolge.md](docs/eplan/reverseengineering_k_reihenfolge.md)
+        - **Общая обработка на страницах отчетов** — [eplan/Reverseengineering_k_start.md](docs/eplan/Reverseengineering_k_start.md)
+      - **Процесс работы**
+        - **Активировать режим Свойства (общие)** — [eplan/reverseengineering_h_bmmodusaktivieren.md](docs/eplan/reverseengineering_h_bmmodusaktivieren.md)
+        - **Обработать свойства во всех представлениях главной функции** — [eplan/reverseengineering_h_alledarstellungenbm.md](docs/eplan/reverseengineering_h_alledarstellungenbm.md)
+        - **Обработать свойства во всех представлениях вспомогательной функции** — [eplan/reverseengineering_h_alledarstellungenfunktion.md](docs/eplan/reverseengineering_h_alledarstellungenfunktion.md)
+        - **Обработать свойства выбранного представления функции** — [eplan/reverseengineering_h_ausgewaehltefunktion.md](docs/eplan/reverseengineering_h_ausgewaehltefunktion.md)
+        - **Изменить ОУ функций** — [eplan/devicetaggui_h_bmkaendern.md](docs/eplan/devicetaggui_h_bmkaendern.md)
+          - Изменить ОУ у всех функций и представлений устройства
+          - Изменить ОУ у всех представлений функции
+          - Изменить ОУ у выбранной функции
+        - **Общая обработка свойств на страницах отчетов** — [eplan/reverseengineering_h_uebergreifendesbearbeiten.md](docs/eplan/reverseengineering_h_uebergreifendesbearbeiten.md)
+    - **Синхронизация и корректировочный прогон**
+      - **Основы**
+        - **Синхронизация и корректировочный прогон** — [eplan/adjustdata_k_start.md](docs/eplan/adjustdata_k_start.md)
+      - **Процесс работы**
+        - **Преобразование вспомогательной функции в главную** — [eplan/adjustdata_h_nebenfunktionaendern.md](docs/eplan/adjustdata_h_nebenfunktionaendern.md)
+        - **Преобразовать излишние главные функции** — [eplan/adjustdata_h_funktionkorrigieren.md](docs/eplan/adjustdata_h_funktionkorrigieren.md)
+        - **Синхронизировать распределенно представленные функции** — [eplan/adjustdata_h_funktionabgleichen.md](docs/eplan/adjustdata_h_funktionabgleichen.md)
+        - **Синхронизировать распределенно представленные соединения** — [eplan/adjustdata_h_verbindungenabgleichen.md](docs/eplan/adjustdata_h_verbindungenabgleichen.md)
+  - **Работа с соединениями**
+    - **Символы соединения**
+      - **Основы**
+        - **Символы соединения** — [eplan/egedgui_k_start.md](docs/eplan/egedgui_k_start.md)
+        - **Символы соединения: Основные положения** — [eplan/egedgui_k_grundlagen.md](docs/eplan/egedgui_k_grundlagen.md)
+        - **Символы соединения: Отображение направления соединений** — [eplan/egedgui_k_darstellungverbindungspunkte.md](docs/eplan/egedgui_k_darstellungverbindungspunkte.md)
+          - Тройники
+          - Перекрестные соединения
+          - Перемычки
+        - **Символы соединения: Сборные шины** — [eplan/egedgui_k_sammelschienen.md](docs/eplan/egedgui_k_sammelschienen.md)
+        - **Символы соединения: Распределители и соединители** — [eplan/egedgui_k_verteiler.md](docs/eplan/egedgui_k_verteiler.md)
+        - **Трансформатор тока с механическим каналом** — [eplan/egedgui_k_stromwandler.md](docs/eplan/egedgui_k_stromwandler.md)
+        - **Точки разрыва** — [eplan/interruptionpointgui_k_start.md](docs/eplan/interruptionpointgui_k_start.md)
+        - **Точки разрыва: Перекрестные ссылки** — [eplan/interruptionpointgui_k_darstellungabbruchstellen.md](docs/eplan/interruptionpointgui_k_darstellungabbruchstellen.md)
+      - **Процесс работы**
+        - **Начертить символы соединений с определением цели или как точку** — [eplan/egedgui_h_knotenalspunktoderzieldarstellen.md](docs/eplan/egedgui_h_knotenalspunktoderzieldarstellen.md)
+        - **Определить настройки отображения символов соединений** — [eplan/egedgui_h_einstellungenanzeigeverdrahtung.md](docs/eplan/egedgui_h_einstellungenanzeigeverdrahtung.md)
+        - **Вставить символы соединений** — [eplan/egedgui_h_verbindungsstueckeeinfuegen.md](docs/eplan/egedgui_h_verbindungsstueckeeinfuegen.md)
+          - Вставить угол
+          - Вставить тройники, перекрестные соединения и перемычки
+        - **Вставить динамические символы соединений** — [eplan/egedgui_h_dynverbindungssymboleeinfuegen.md](docs/eplan/egedgui_h_dynverbindungssymboleeinfuegen.md)
+        - **Прервать соединения** — [eplan/egedgui_h_verbindungenunterbrechen.md](docs/eplan/egedgui_h_verbindungenunterbrechen.md)
+        - **Заменить символы соединений** — [eplan/egedgui_h_verbindungsstueckeaustauschen.md](docs/eplan/egedgui_h_verbindungsstueckeaustauschen.md)
+        - **Вставить точки разрыва** — [eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md](docs/eplan/interruptionpointgui_h_abbruchstelleneinfuegen.md)
+        - **Обработать точки разрыва** — [eplan/interruptionpointgui_h_abbruchstellenbearbeiten.md](docs/eplan/interruptionpointgui_h_abbruchstellenbearbeiten.md)
+        - **Определить стандартные позиции для описания точек разрыва** — [eplan/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md](docs/eplan/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)
+        - **Вставить сборные шины** — [eplan/egedgui_h_sammelschieneneinfuegen.md](docs/eplan/egedgui_h_sammelschieneneinfuegen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Символы соединения** — [eplan/gedviewer_d_einstellungenverbindungssymbole.md](docs/eplan/gedviewer_d_einstellungenverbindungssymbole.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Тройник "Направление"** — [eplan/egedgui_d_tstueck.md](docs/eplan/egedgui_d_tstueck.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Перемычка** — [eplan/egedgui_d_bruecke.md](docs/eplan/egedgui_d_bruecke.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Перекрестное соединение** — [eplan/egedgui_d_kreuzung.md](docs/eplan/egedgui_d_kreuzung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Точка разрыва** — [eplan/devicetaggui_r_abbruchstelle.md](docs/eplan/devicetaggui_r_abbruchstelle.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вывод устройства жгута** — [eplan/devicetaggui_r_stranganschluss.md](docs/eplan/devicetaggui_r_stranganschluss.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Использ. имеющ. точку разрыва** — [eplan/interruptionpointgui_d_abbruchstellenabbuchen.md](docs/eplan/interruptionpointgui_d_abbruchstellenabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Точки разрыва — <Имя проекта>** — [eplan/interruptionpointgui_d_projektdatenabbruchstellen.md](docs/eplan/interruptionpointgui_d_projektdatenabbruchstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сортировать точки разрыва** — [eplan/interruptionpointgui_d_abbruchstellensortieren.md](docs/eplan/interruptionpointgui_d_abbruchstellensortieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Разместить устройство** — [eplan/egedgui_d_platzieren.md](docs/eplan/egedgui_d_platzieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Вставить устройство** — [eplan/egedgui_d_geraeteinfuegen.md](docs/eplan/egedgui_d_geraeteinfuegen.md)
+          - Вызов диалогового окна:
+    - **Соединения**
+      - **Основы**
+        - **Соединения** — [eplan/connectionbrowsergui_k_start.md](docs/eplan/connectionbrowsergui_k_start.md)
+        - **Соединения: Принцип** — [eplan/connectionbrowsergui_k_prinzipverbindungen.md](docs/eplan/connectionbrowsergui_k_prinzipverbindungen.md)
+        - **Точки обозначения соединения** — [eplan/connectionbrowsergui_k_vdp.md](docs/eplan/connectionbrowsergui_k_vdp.md)
+        - **Соединения: Принцип работы** — [eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md](docs/eplan/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+        - **Свойства соединения** — [eplan/connectionbrowsergui_k_verbindungseigenschaften.md](docs/eplan/connectionbrowsergui_k_verbindungseigenschaften.md)
+        - **Соединения: Единицы измерения длины и поперечного сечения** — [eplan/connectionbrowsergui_k_einheitenverbindungen.md](docs/eplan/connectionbrowsergui_k_einheitenverbindungen.md)
+        - **Неразмещенные соединения** — [eplan/connectionbrowsergui_k_npv.md](docs/eplan/connectionbrowsergui_k_npv.md)
+      - **Процесс работы**
+        - **Обновить соединения** — [eplan/connectionbrowsergui_h_verbindungenbearbeiten.md](docs/eplan/connectionbrowsergui_h_verbindungenbearbeiten.md)
+        - **Использовать интеллектуальное соединение** — [eplan/connectionbrowsergui_h_smartconnecting.md](docs/eplan/connectionbrowsergui_h_smartconnecting.md)
+        - **Чертить точки обозначения соединения** — [eplan/connectionbrowsergui_h_definitionspunktezeichnen.md](docs/eplan/connectionbrowsergui_h_definitionspunktezeichnen.md)
+        - **Предварительно определить свойства соединения** — [eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md](docs/eplan/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+        - **Определить свойства соединения для потенциала** — [eplan/connectionbrowsergui_h_pdpeigenschaften.md](docs/eplan/connectionbrowsergui_h_pdpeigenschaften.md)
+        - **Определить свойства соединения посредством точек определения соединения** — [eplan/connectionbrowsergui_h_vdpeigenschaften.md](docs/eplan/connectionbrowsergui_h_vdpeigenschaften.md)
+        - **Просмотреть и обработать свойства соединения** — [eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md](docs/eplan/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+        - **Использовать имеющиеся соединения** — [eplan/connectionbrowsergui_h_abbuchen.md](docs/eplan/connectionbrowsergui_h_abbuchen.md)
+        - **Разместить соединения** — [eplan/connectionbrowsergui_h_verbindungenplatzieren.md](docs/eplan/connectionbrowsergui_h_verbindungenplatzieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Соединения — <Имя проекта>** — [eplan/connectionbrowsergui_d_verbindungen.md](docs/eplan/connectionbrowsergui_d_verbindungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Соединение** — [eplan/devicetaggui_r_verbindung.md](docs/eplan/devicetaggui_r_verbindung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Графика соединения** — [eplan/devicetaggui_r_verbindungsgrafik.md](docs/eplan/devicetaggui_r_verbindungsgrafik.md)
+          - Вызов диалогового окна:
+        - **Вкладка Точка определения соединения** — [eplan/devicetaggui_r_vdp.md](docs/eplan/devicetaggui_r_vdp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Электротехника** — [eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md](docs/eplan/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
+          - Вызов диалогового окна:
+        - **Вкладки "Гидравлика" / "Пневматика" / "Охлаждение" / "Смазка" / "Смазочно-охлаждающая жидкость" / "Газовая техника" / "Технология производственных процессов"** — [eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md](docs/eplan/connectionsettingsgui_r_projekteinstellungenhydraulik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Поперечные сечения / диаметры" / диалоговое окно "Настройки: Поперечные сечения / диаметры"** — [eplan/connectionsettingsgui_d_einstellungenquerschnitt.md](docs/eplan/connectionsettingsgui_d_einstellungenquerschnitt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Цвета соединений" / диалоговое окно "Настройки: Цвета соединений"** — [eplan/connectionsettingsgui_d_einstellungenaderfarben.md](docs/eplan/connectionsettingsgui_d_einstellungenaderfarben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (проект, соединения)** — [eplan/connectionsettingsgui_d_einstellungenallgemein.md](docs/eplan/connectionsettingsgui_d_einstellungenallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Интеллектуальное соединение** — [eplan/interruptionpointgui_d_einstellsmartconnecting.md](docs/eplan/interruptionpointgui_d_einstellsmartconnecting.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Точки разрыва для интеллектуального соединения** — [eplan/interruptionpointgui_d_einstellsmartabbruchstellen.md](docs/eplan/interruptionpointgui_d_einstellsmartabbruchstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Стандартные символы"** — [eplan/connectionsettingsgui_d_einstellungenstandardsymbole.md](docs/eplan/connectionsettingsgui_d_einstellungenstandardsymbole.md)
+          - Вызов диалогового окна:
+    - **Сетевые соединения**
+      - **Основы**
+        - **Сетевые соединения** — [eplan/netbasedwires_k_start.md](docs/eplan/netbasedwires_k_start.md)
+        - **Сетевые соединения: Принцип** — [eplan/netbasedwires_k_prinzip.md](docs/eplan/netbasedwires_k_prinzip.md)
+        - **Обработка в сети** — [eplan/netbasedwires_k_netzbearbeiten.md](docs/eplan/netbasedwires_k_netzbearbeiten.md)
+      - **Процесс работы**
+        - **Вставить точки определения сети** — [eplan/netbasedwires_h_ndpzeichnen.md](docs/eplan/netbasedwires_h_ndpzeichnen.md)
+        - **Определить шлейфы** — [eplan/netbasedwires_h_verbindungsketten.md](docs/eplan/netbasedwires_h_verbindungsketten.md)
+        - **Изменить последовательность целей сетевых соединений** — [eplan/netbasedwires_h_zielreihenfolgeaendern.md](docs/eplan/netbasedwires_h_zielreihenfolgeaendern.md)
+      - **Ссылка**
+        - **Вкладка Определение сети** — [eplan/devicetaggui_r_ndp.md](docs/eplan/devicetaggui_r_ndp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Соединения сети** — [eplan/devicetaggui_r_netzverbindung.md](docs/eplan/devicetaggui_r_netzverbindung.md)
+          - Вызов диалогового окна:
+    - **Потенциалы и сигналы**
+      - **Основы**
+        - **Потенциалы и сигналы** — [eplan/potentialbrowsergui_k_start.md](docs/eplan/potentialbrowsergui_k_start.md)
+        - **Определение потенциалов и сигналов** — [eplan/potentialbrowsergui_k_prinzippotenziale.md](docs/eplan/potentialbrowsergui_k_prinzippotenziale.md)
+      - **Процесс работы**
+        - **Начертить точки или выводы определения потенциалов** — [eplan/potentialbrowsergui_h_pdpzeichnen.md](docs/eplan/potentialbrowsergui_h_pdpzeichnen.md)
+        - **Выделить потенциалы, сигналы или сеть** — [eplan/potentialbrowsergui_h_potenzialverfolgung.md](docs/eplan/potentialbrowsergui_h_potenzialverfolgung.md)
+      - **Ссылка**
+        - **Диалоговое окно Потенциалы - <Имя проекта>** — [eplan/potentialbrowsergui_d_potenziale.md](docs/eplan/potentialbrowsergui_d_potenziale.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение потенциала** — [eplan/devicetaggui_r_pdp.md](docs/eplan/devicetaggui_r_pdp.md)
+          - Вызов диалогового окна:
+    - **Кабель**
+      - **Основы**
+        - **Кабель** — [eplan/cablegui_k_start.md](docs/eplan/cablegui_k_start.md)
+        - **Характеристика кабелей** — [eplan/cablegui_k_prinzip.md](docs/eplan/cablegui_k_prinzip.md)
+        - **Определение кабелей** — [eplan/cablegui_k_arbeitsweise.md](docs/eplan/cablegui_k_arbeitsweise.md)
+        - **Действие экранирования** — [eplan/cablegui_k_verhaltenabschirmungen.md](docs/eplan/cablegui_k_verhaltenabschirmungen.md)
+        - **Автоматически сгенерированные кабели** — [eplan/cablegui_k_automatikkabel.md](docs/eplan/cablegui_k_automatikkabel.md)
+        - **Предварительно собранные кабели** — [eplan/cablegui_k_vorkonfektioniertekabel.md](docs/eplan/cablegui_k_vorkonfektioniertekabel.md)
+        - **Графическое представление кабелей и экранирований** — [eplan/cablegui_k_grafischedarstellung.md](docs/eplan/cablegui_k_grafischedarstellung.md)
+        - **Позиция и форматирование свойств кабелей** — [eplan/cablegui_k_kabelbezeichnungformat.md](docs/eplan/cablegui_k_kabelbezeichnungformat.md)
+        - **Определение источника и цели** — [eplan/cablegui_k_quellezielermittlung.md](docs/eplan/cablegui_k_quellezielermittlung.md)
+        - **Схемы кабельных соединений** — [eplan/cablegui_k_kabeldarstellungsplan.md](docs/eplan/cablegui_k_kabeldarstellungsplan.md)
+      - **Процесс работы**
+        - **Чертить линии определения кабелей или экранирования** — [eplan/cablegui_h_kabelzeichnen.md](docs/eplan/cablegui_h_kabelzeichnen.md)
+        - **Автоматически генерировать кабели** — [eplan/cablegui_h_kabelerzeugen.md](docs/eplan/cablegui_h_kabelerzeugen.md)
+        - **Удалить автоматически сгенерированные кабели** — [eplan/cablegui_h_automatischekabelloeschen.md](docs/eplan/cablegui_h_automatischekabelloeschen.md)
+        - **Определить кабели и кабельные соединения вручную** — [eplan/cablegui_h_aderndefinieren.md](docs/eplan/cablegui_h_aderndefinieren.md)
+        - **Присвоить кабельные соединения вручную** — [eplan/cablegui_h_adernzuordnen.md](docs/eplan/cablegui_h_adernzuordnen.md)
+        - **Присвоить кабельные соединения автоматически** — [eplan/cablegui_h_kabelauflegen.md](docs/eplan/cablegui_h_kabelauflegen.md)
+        - **Выбрать кабель** — [eplan/cablegui_h_kabelauswahlautomatisch.md](docs/eplan/cablegui_h_kabelauswahlautomatisch.md)
+        - **Использование имеющихся кабелей, кабельных соединений и экранирований** — [eplan/cablegui_h_abbuchen.md](docs/eplan/cablegui_h_abbuchen.md)
+        - **Подключить кабельные соединения** — [eplan/cablegui_h_kabelverbindungenanschliessen.md](docs/eplan/cablegui_h_kabelverbindungenanschliessen.md)
+        - **Суммировать длину кабелей** — [eplan/cablegui_h_kabelmengenberechnen.md](docs/eplan/cablegui_h_kabelmengenberechnen.md)
+        - **Вывести изделия кабелей в отчете** — [eplan/cablegui_h_kabelauswertung.md](docs/eplan/cablegui_h_kabelauswertung.md)
+        - **Сгенерировать схему кабельных соединений** — [eplan/cablegui_h_kabeldarstellungsplan.md](docs/eplan/cablegui_h_kabeldarstellungsplan.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Кабель** — [eplan/cablegui_d_einstellungenkabelmanuell.md](docs/eplan/cablegui_d_einstellungenkabelmanuell.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Генерация кабеля** — [eplan/cablegui_d_einstellungenkabelerzeugen.md](docs/eplan/cablegui_d_einstellungenkabelerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумерация кабелей** — [eplan/cablegui_d_einstellungenkabelnummerierung.md](docs/eplan/cablegui_d_einstellungenkabelnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматически генерировать кабели** — [eplan/cablegui_d_kabelerzeugen.md](docs/eplan/cablegui_d_kabelerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать кабели** — [eplan/cablegui_d_kabelnummerierung.md](docs/eplan/cablegui_d_kabelnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать кабели: Предварительный просмотр результата** — [eplan/cablegui_d_ergebniskabelnummerierung.md](docs/eplan/cablegui_d_ergebniskabelnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматический выбор кабеля** — [eplan/cablegui_d_automatischekabelauswahl.md](docs/eplan/cablegui_d_automatischekabelauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Суммировать длину кабелей** — [eplan/cablegui_d_kabelmengenberechnung.md](docs/eplan/cablegui_d_kabelmengenberechnung.md)
+          - Вызов диалогового окна:
+    - **Сети соединенных сегментов (топология)**
+      - **Основы**
+        - **Сети соединенных сегментов (топология)** — [eplan/cablinggui_k_start.md](docs/eplan/cablinggui_k_start.md)
+        - **Сети соединенных сегментов (топология): принцип** — [eplan/cablinggui_k_prinzip.md](docs/eplan/cablinggui_k_prinzip.md)
+        - **Сегменты маршрутизации топологии** — [eplan/cablinggui_k_strecken.md](docs/eplan/cablinggui_k_strecken.md)
+        - **Точки маршрутизации топологии** — [eplan/cablinggui_k_verlegepunkte.md](docs/eplan/cablinggui_k_verlegepunkte.md)
+        - **Функции топологии** — [eplan/cablinggui_k_topologiefunktionen.md](docs/eplan/cablinggui_k_topologiefunktionen.md)
+        - **Вставка функций топологии** — [eplan/cablinggui_k_funktioneneinfuegen.md](docs/eplan/cablinggui_k_funktioneneinfuegen.md)
+        - **Маршрутизируемые соединения (топология)** — [eplan/cablinggui_k_verlegeverbindungen.md](docs/eplan/cablinggui_k_verlegeverbindungen.md)
+        - **Маршрутизируемые соединения (топология): порядок действий** — [eplan/cablinggui_k_vorgehensweise.md](docs/eplan/cablinggui_k_vorgehensweise.md)
+        - **Соблюдение разности высотных отметок при маршрутизации** — [eplan/cablinggui_k_teilstrecke.md](docs/eplan/cablinggui_k_teilstrecke.md)
+        - **Вид прокладки** — [eplan/cablinggui_k_verlegeart.md](docs/eplan/cablinggui_k_verlegeart.md)
+        - **Определение длины соединения (топология)** — [eplan/cablinggui_k_laengenermittlung.md](docs/eplan/cablinggui_k_laengenermittlung.md)
+        - **Определение длины заказа** — [eplan/cablinggui_k_bestelllaenge.md](docs/eplan/cablinggui_k_bestelllaenge.md)
+        - **Схемы соединений (топология)** — [eplan/cablinggui_k_anschlussbild.md](docs/eplan/cablinggui_k_anschlussbild.md)
+        - **Распределители в топологии** — [eplan/cablinggui_k_verteilertopologie.md](docs/eplan/cablinggui_k_verteilertopologie.md)
+      - **Процесс работы**
+        - **Вставить точки маршрутизации (топология)** — [eplan/cablinggui_h_verlegepunkteeinfuegen.md](docs/eplan/cablinggui_h_verlegepunkteeinfuegen.md)
+        - **Вставить сегменты маршрутизации (топология)** — [eplan/cablinggui_h_streckeeinfuegen.md](docs/eplan/cablinggui_h_streckeeinfuegen.md)
+        - **Использовать фильтр соединения (топология)** — [eplan/cablinggui_h_verbindungsfilter.md](docs/eplan/cablinggui_h_verbindungsfilter.md)
+        - **Маршрутизировать соединения (топологию)** — [eplan/cablinggui_h_verlegen.md](docs/eplan/cablinggui_h_verlegen.md)
+        - **Маршрутизация соединений между различными структурами идентификаторов** — [eplan/cablinggui_h_strukturenverbinden.md](docs/eplan/cablinggui_h_strukturenverbinden.md)
+        - **Изменить маршрутизацию (топология)** — [eplan/cablinggui_h_verlegewegaendern.md](docs/eplan/cablinggui_h_verlegewegaendern.md)
+        - **Определить степень заполнения (топология)** — [eplan/cablinggui_h_fuellgradbestimmen.md](docs/eplan/cablinggui_h_fuellgradbestimmen.md)
+      - **Ссылка**
+        - **Диалоговое окно Топология — <Имя проекта>** — [eplan/cablinggui_d_navigator.md](docs/eplan/cablinggui_d_navigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Сегмент маршрутизации" / вкладка "Точка маршрутизации"** — [eplan/devicetaggui_r_cablingstrecke.md](docs/eplan/devicetaggui_r_cablingstrecke.md)
+          - Вызов диалогового окна:
+        - **Вкладка Схема соединений (топология)** — [eplan/devicetaggui_r_cablinganschlussbild.md](docs/eplan/devicetaggui_r_cablinganschlussbild.md)
+          - Вызов диалогового окна:
+        - **Вкладка Подключенные структуры** — [eplan/devicetaggui_r_cablingstrukturen.md](docs/eplan/devicetaggui_r_cablingstrukturen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Кабели / соединения** — [eplan/cablinggui_d_kabelverbindungen.md](docs/eplan/cablinggui_d_kabelverbindungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать функции топологии** — [eplan/cablinggui_d_funktionenerzeugen.md](docs/eplan/cablinggui_d_funktionenerzeugen.md)
+          - Вызов диалогового окна:
+    - **Проводной монтаж**
+      - **Основы**
+        - **Проводной монтаж** — [eplan/harnessgui_k_start.md](docs/eplan/harnessgui_k_start.md)
+        - **Управление проводным монтажом и кабельными сборками** — [eplan/harnessgui_k_verwaltungkabelbaum.md](docs/eplan/harnessgui_k_verwaltungkabelbaum.md)
+      - **Процесс работы**
+        - **Импортировать данные проводного монтажа** — [eplan/harnessgui_h_importkabelbaum.md](docs/eplan/harnessgui_h_importkabelbaum.md)
+        - **Вставить определения проводного монтажа или определения кабельных сборок** — [eplan/harnessgui_h_definitioneneinfuegen.md](docs/eplan/harnessgui_h_definitioneneinfuegen.md)
+        - **Экспортировать данные проводного монтажа** — [eplan/harnessgui_h_datenexportieren.md](docs/eplan/harnessgui_h_datenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Проводной монтаж — <Имя проекта>** — [eplan/harnessgui_d_navigator.md](docs/eplan/harnessgui_d_navigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка Проводной монтаж** — [eplan/devicetaggui_r_kabelbaum.md](docs/eplan/devicetaggui_r_kabelbaum.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Кабельная сборка"** — [eplan/devicetaggui_r_kabeleinheit.md](docs/eplan/devicetaggui_r_kabeleinheit.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать данные проводного монтажа** — [eplan/macrosgui_d_importabgleich.md](docs/eplan/macrosgui_d_importabgleich.md)
+          - Вызов диалогового окна:
+  - **Обработать клеммы и штекеры**
+    - **Клеммы**
+      - **Основы**
+        - **Клеммы** — [eplan/terminalgui_k_start.md](docs/eplan/terminalgui_k_start.md)
+        - **Управление клеммниками** — [eplan/terminalgui_k_verwaltungleisten.md](docs/eplan/terminalgui_k_verwaltungleisten.md)
+        - **Управление клеммами** — [eplan/terminalgui_k_verwaltung.md](docs/eplan/terminalgui_k_verwaltung.md)
+        - **Обработка клеммных данных** — [eplan/terminalgui_k_arbeitsweise.md](docs/eplan/terminalgui_k_arbeitsweise.md)
+        - **Применение главных клемм** — [eplan/terminalgui_k_hauptklemmen.md](docs/eplan/terminalgui_k_hauptklemmen.md)
+        - **Многоуровневые клеммы** — [eplan/terminalgui_k_mehrstockklemmen.md](docs/eplan/terminalgui_k_mehrstockklemmen.md)
+        - **Принадлежности клемм и клеммников** — [eplan/terminalgui_k_klemmenzubehoer.md](docs/eplan/terminalgui_k_klemmenzubehoer.md)
+        - **Управление перемычками** — [eplan/terminalgui_k_verwendungbruecken.md](docs/eplan/terminalgui_k_verwendungbruecken.md)
+        - **Отчеты по клеммам с отображением выводов устройств** — [eplan/terminalgui_k_auswertungklemmen.md](docs/eplan/terminalgui_k_auswertungklemmen.md)
+        - **Раздельное представление клемм** — [eplan/terminalgui_k_verteiltedarstellungklemmen.md](docs/eplan/terminalgui_k_verteiltedarstellungklemmen.md)
+        - **Создание перемычек при распределенных клеммах** — [eplan/terminalgui_k_brueckenbildung.md](docs/eplan/terminalgui_k_brueckenbildung.md)
+        - **Определение адреса ПЛК на клеммах / контактах штекера** — [eplan/terminalgui_k_ermittlungspsadresse.md](docs/eplan/terminalgui_k_ermittlungspsadresse.md)
+      - **Процесс работы**
+        - **Вставить клеммы и определения клеммников** — [eplan/terminalgui_h_klemmenzeichnen.md](docs/eplan/terminalgui_h_klemmenzeichnen.md)
+        - **Создать и обработать клеммники** — [eplan/terminalgui_h_klemmenleistenerstlbearb.md](docs/eplan/terminalgui_h_klemmenleistenerstlbearb.md)
+        - **Создать и обработать клеммы** — [eplan/terminalgui_h_klemmenerstlbearb.md](docs/eplan/terminalgui_h_klemmenerstlbearb.md)
+        - **Определить строение клеммников** — [eplan/terminalgui_h_funktionsschabloneerzeugen.md](docs/eplan/terminalgui_h_funktionsschabloneerzeugen.md)
+        - **Отобразить, добавить или удалить последовательные принадлежности** — [eplan/terminalgui_h_leistenzubehoererstlloesch.md](docs/eplan/terminalgui_h_leistenzubehoererstlloesch.md)
+          - Добавить последовательные принадлежности
+          - Удалить последовательные принадлежности
+        - **Сортировать клеммы** — [eplan/terminalgui_h_klemmensort.md](docs/eplan/terminalgui_h_klemmensort.md)
+        - **Переместить клеммы** — [eplan/terminalgui_h_klemmenverschieb.md](docs/eplan/terminalgui_h_klemmenverschieb.md)
+        - **Создание перемычек** — [eplan/terminalgui_h_brueckenarbeiten.md](docs/eplan/terminalgui_h_brueckenarbeiten.md)
+        - **Определить многоуровневые клеммы** — [eplan/terminalgui_h_mehrstockklemmenarbeit.md](docs/eplan/terminalgui_h_mehrstockklemmenarbeit.md)
+        - **Вставка распределенных клемм** — [eplan/terminalgui_h_teilklemmenzeichnen.md](docs/eplan/terminalgui_h_teilklemmenzeichnen.md)
+      - **Ссылка**
+        - **Вкладка Определение клеммника** — [eplan/devicetaggui_r_klemmenleisten.md](docs/eplan/devicetaggui_r_klemmenleisten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Клемма** — [eplan/devicetaggui_r_klemmen.md](docs/eplan/devicetaggui_r_klemmen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Соединения** — [eplan/devicetaggui_r_verbindungenklemmen.md](docs/eplan/devicetaggui_r_verbindungenklemmen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Клеммники — <Имя проекта>** — [eplan/terminalgui_d_klemmennavigator.md](docs/eplan/terminalgui_d_klemmennavigator.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать клеммник** — [eplan/stripmanagementgui_d_klemmenleistebearbeiten.md](docs/eplan/stripmanagementgui_d_klemmenleistebearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать клеммы (устройства)** — [eplan/eservicesgui_d_klemmengeraeteerzeugen.md](docs/eplan/eservicesgui_d_klemmengeraeteerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать клеммы** — [eplan/terminalplugnumberinggui_d_klemmennummerieren.md](docs/eplan/terminalplugnumberinggui_d_klemmennummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумерация** — [eplan/terminalplugnumberinggui_d_nummerierungsschema.md](docs/eplan/terminalplugnumberinggui_d_nummerierungsschema.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Переместить** — [eplan/terminalplugcommongui_d_verschieben.md](docs/eplan/terminalplugcommongui_d_verschieben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Распределенные клеммы** — [eplan/terminalgui_d_projekteinstellungenklemmen.md](docs/eplan/terminalgui_d_projekteinstellungenklemmen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Оптимизация распределенных клемм** — [eplan/terminalgui_d_teilklemmenoptimieren.md](docs/eplan/terminalgui_d_teilklemmenoptimieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Конфигурация столбцов (клеммы)** — [eplan/stripmanagementgui_d_schemaspaltenkonfiguration.md](docs/eplan/stripmanagementgui_d_schemaspaltenkonfiguration.md)
+          - Вызов диалогового окна:
+    - **Штекеры**
+      - **Основы**
+        - **Штекеры** — [eplan/plugsgui_k_start.md](docs/eplan/plugsgui_k_start.md)
+        - **Управление штекерами** — [eplan/plugsgui_k_verwaltungstecker.md](docs/eplan/plugsgui_k_verwaltungstecker.md)
+        - **Обработка данных штекеров** — [eplan/plugsgui_k_arbeitsweise.md](docs/eplan/plugsgui_k_arbeitsweise.md)
+      - **Процесс работы**
+        - **Вставить контакты штекеров и определения штекеров** — [eplan/plugsgui_h_steckerkontaktezeichnen.md](docs/eplan/plugsgui_h_steckerkontaktezeichnen.md)
+        - **Создать и обработать штекер** — [eplan/plugsgui_h_steckerleisteerstlbearb.md](docs/eplan/plugsgui_h_steckerleisteerstlbearb.md)
+        - **Создать и обработать контакты штекера** — [eplan/plugsgui_h_steckerkontakteerstlbearb.md](docs/eplan/plugsgui_h_steckerkontakteerstlbearb.md)
+        - **Сортировать контакты штекеров** — [eplan/plugsgui_h_steckerkontaktesortieren.md](docs/eplan/plugsgui_h_steckerkontaktesortieren.md)
+      - **Ссылка**
+        - **Вкладка Определение штекера** — [eplan/devicetaggui_r_steckerdefinition.md](docs/eplan/devicetaggui_r_steckerdefinition.md)
+          - Вызов диалогового окна:
+        - **Вкладка Контакт штекера** — [eplan/devicetaggui_r_steckerkontakt.md](docs/eplan/devicetaggui_r_steckerkontakt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Штекеры – <Имя проекта>** — [eplan/plugsgui_d_steckernavigator.md](docs/eplan/plugsgui_d_steckernavigator.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать штекер** — [eplan/connectormanagementgui_d_steckerbearbeiten.md](docs/eplan/connectormanagementgui_d_steckerbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать контакты штекера** — [eplan/terminalplugnumberinggui_d_klemmennummerieren.md](docs/eplan/terminalplugnumberinggui_d_klemmennummerieren.md)
+          - Вызов диалогового окна:
+  - **Обработать информацию ПЛК**
+    - **ПЛК**
+      - **Основные положения**
+        - **ПЛК** — [eplan/plcgui_k_start.md](docs/eplan/plcgui_k_start.md)
+        - **Структура ПЛК** — [eplan/plcgui_k_prinzip.md](docs/eplan/plcgui_k_prinzip.md)
+        - **Выводы устройства ПЛК** — [eplan/plcgui_k_spsanschluesse.md](docs/eplan/plcgui_k_spsanschluesse.md)
+        - **Каналы ПЛК** — [eplan/plcgui_k_kanaele.md](docs/eplan/plcgui_k_kanaele.md)
+        - **Обработка данных ПЛК** — [eplan/plcgui_k_arbeitsweise.md](docs/eplan/plcgui_k_arbeitsweise.md)
+        - **Адресация выводов устройства ПЛК** — [eplan/plcgui_k_adressierung.md](docs/eplan/plcgui_k_adressierung.md)
+        - **Подустройства ПЛК** — [eplan/plcgui_k_untergeraete.md](docs/eplan/plcgui_k_untergeraete.md)
+        - **Символические адреса** — [eplan/plcgui_k_symbolischeadressen.md](docs/eplan/plcgui_k_symbolischeadressen.md)
+        - **Списки присвоений** — [eplan/plcgui_k_zuordnungslisten.md](docs/eplan/plcgui_k_zuordnungslisten.md)
+        - **Обмен данными файлов конфигурации ПЛК** — [eplan/plcgui_k_austauschbuskonfig.md](docs/eplan/plcgui_k_austauschbuskonfig.md)
+        - **Экспорт файлов конфигурации ПЛК** — [eplan/plcgui_k_exportbuskonfig.md](docs/eplan/plcgui_k_exportbuskonfig.md)
+        - **Импорт файлов конфигурации ПЛК** — [eplan/plcgui_k_importbuskonfig.md](docs/eplan/plcgui_k_importbuskonfig.md)
+        - **Обмен данными ПЛК в формате AutomationML AR APC** — [eplan/plcgui_k_amlbusdatenaustausch.md](docs/eplan/plcgui_k_amlbusdatenaustausch.md)
+          - Расширения начиная с версии AutomationML AR APC 1.1.0
+          - Расширения начиная с версии AutomationML AR APC 1.2.0
+          - Расширения, начиная с версии AutomationML AR APC 1.3.0
+          - Расширения, начиная с версии AutomationML AR APC 1.4.0
+        - **Значения конфигурации, связанные с устройствами** — [eplan/plcgui_k_geraetebezkonfigwerte.md](docs/eplan/plcgui_k_geraetebezkonfigwerte.md)
+        - **Виды в навигаторе ПЛК** — [eplan/plcgui_k_ansichten.md](docs/eplan/plcgui_k_ansichten.md)
+        - **Работа, ориентированная на канал** — [eplan/plcgui_k_kanalorientiertarbeitsweise.md](docs/eplan/plcgui_k_kanalorientiertarbeitsweise.md)
+        - **Принадлежность точек подвода питания к каналу** — [eplan/plcgui_k_kanalzugehoerigkeit.md](docs/eplan/plcgui_k_kanalzugehoerigkeit.md)
+      - **Процесс работы**
+        - **Вставить карты и выводы устройства ПЛК** — [eplan/plcgui_h_spszeichnen.md](docs/eplan/plcgui_h_spszeichnen.md)
+        - **Создать и обработать карты ПЛК** — [eplan/plcgui_h_spsanlegen.md](docs/eplan/plcgui_h_spsanlegen.md)
+          - Создание блока ПЛК или вывода устройства ПЛК
+          - Разместить блок ПЛК или выводы устройства ПЛК
+        - **Автоматическая адресация выводов устройства ПЛК** — [eplan/plcgui_h_automatisch_adressieren.md](docs/eplan/plcgui_h_automatisch_adressieren.md)
+        - **Использование имеющихся выводов устройства ПЛК** — [eplan/plcgui_h_anschluesseabbuchen.md](docs/eplan/plcgui_h_anschluesseabbuchen.md)
+        - **Использовать и отменять имеющиеся адреса ПЛК** — [eplan/plcgui_h_adressenabbuchen.md](docs/eplan/plcgui_h_adressenabbuchen.md)
+        - **Импортировать или синхронизировать списки присвоений** — [eplan/plcgui_h_importzuli.md](docs/eplan/plcgui_h_importzuli.md)
+        - **Экспортировать списки присвоений** — [eplan/plcgui_h_exportzuli.md](docs/eplan/plcgui_h_exportzuli.md)
+        - **Многополюсное представление выводов шины** — [eplan/plcgui_h_busanschluesseallpoligdarstellen.md](docs/eplan/plcgui_h_busanschluesseallpoligdarstellen.md)
+        - **Управление подключаемыми выводами шин на вышестоящем устройстве** — [eplan/plcgui_h_steckbarebusanschluesseverwalten.md](docs/eplan/plcgui_h_steckbarebusanschluesseverwalten.md)
+        - **Генерировать начальные адреса карт ПЛК** — [eplan/plcgui_h_startadressenerzeugen.md](docs/eplan/plcgui_h_startadressenerzeugen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: ПЛК** — [eplan/plcgui_d_allgemeinespseinstellungen.md](docs/eplan/plcgui_d_allgemeinespseinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно ПЛК — <Имя проекта>** — [eplan/plcgui_d_spsdaten.md](docs/eplan/plcgui_d_spsdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Адреса / списки присвоения** — [eplan/plcgui_d_spseadaten.md](docs/eplan/plcgui_d_spseadaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать данные ПЛК** — [eplan/plcgui_d_importbuskonfig.md](docs/eplan/plcgui_d_importbuskonfig.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать данные ПЛК** — [eplan/plcgui_d_exportbuskonfig.md](docs/eplan/plcgui_d_exportbuskonfig.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт AutomationML AR APC** — [eplan/plcgui_d_optionsaml.md](docs/eplan/plcgui_d_optionsaml.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать каркас** — [eplan/plcgui_d_baugrtraegerbearbeiten.md](docs/eplan/plcgui_d_baugrtraegerbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать / синхронизировать список присвоений** — [eplan/plcgui_d_importzuli.md](docs/eplan/plcgui_d_importzuli.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать список присвоений (весь ЦПУ)** — [eplan/plcgui_d_exportzuli.md](docs/eplan/plcgui_d_exportzuli.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать распределение адресного пространства** — [eplan/plcgui_d_exportadressraumbelegung.md](docs/eplan/plcgui_d_exportadressraumbelegung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Использ. имеющихся выводов устройства ПЛК поблочно** — [eplan/plcgui_d_blockweiseabbuchen.md](docs/eplan/plcgui_d_blockweiseabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать выводы устройства ПЛК для поблочного использования имеющихся** — [eplan/plcgui_d_anschlblockweiseabbuchenauswahl.md](docs/eplan/plcgui_d_anschlblockweiseabbuchenauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Использ. имеющихся адресов ПЛК поблочно** — [eplan/plcgui_d_adressenblockweiseabbuchen.md](docs/eplan/plcgui_d_adressenblockweiseabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Адресация выводов устройства ПЛК** — [eplan/plcgui_d_anschluesseneuadressieren.md](docs/eplan/plcgui_d_anschluesseneuadressieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоить адреса ПЛК повторно** — [eplan/plcgui_d_eaneuadressieren.md](docs/eplan/plcgui_d_eaneuadressieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать для использования имеющегося** — [eplan/plcgui_d_adressenabbuchen.md](docs/eplan/plcgui_d_adressenabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Адресация выводов устройства ПЛК: Предварительный просмотр результата" / диалоговое окно "Присвоить адреса ПЛК повторно: Предварительный просмотр результата"** — [eplan/plcgui_d_vorschauadressierung.md](docs/eplan/plcgui_d_vorschauadressierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Переместить входы и выходы ПЛК"** — [eplan/plcgui_d_verschieben.md](docs/eplan/plcgui_d_verschieben.md)
+          - Вызов диалогового окна:
+        - **Вкладка Блок ПЛК** — [eplan/devicetaggui_r_spskarte.md](docs/eplan/devicetaggui_r_spskarte.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные структуры ПЛК** — [eplan/devicetaggui_r_spsstruktur.md](docs/eplan/devicetaggui_r_spsstruktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вывод устройства ПЛК** — [eplan/devicetaggui_r_spsanschluss.md](docs/eplan/devicetaggui_r_spsanschluss.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные шины** — [eplan/devicetaggui_r_busdaten.md](docs/eplan/devicetaggui_r_busdaten.md)
+          - Вызов диалогового окна:
+    - **Генерация схемы соединений ПЛК**
+      - **Основные положения**
+        - **Генерация схемы соединений ПЛК** — [eplan/plcgui_k_spsschaltplanerzeugen.md](docs/eplan/plcgui_k_spsschaltplanerzeugen.md)
+        - **Генерация схемы соединений ПЛК: Принцип** — [eplan/plcgui_k_spsschaltplanprinzip.md](docs/eplan/plcgui_k_spsschaltplanprinzip.md)
+        - **Макрос для генерации схемы соединений ПЛК** — [eplan/plcgui_k_makrosschaltplanerzeugen.md](docs/eplan/plcgui_k_makrosschaltplanerzeugen.md)
+        - **Поведение при размещении макроса ПЛК** — [eplan/plcgui_k_abbuchverhalten.md](docs/eplan/plcgui_k_abbuchverhalten.md)
+      - **Процесс работы**
+        - **Генерировать схемы соединений ПЛК** — [eplan/plcgui_h_spsschaltplanerzeugen.md](docs/eplan/plcgui_h_spsschaltplanerzeugen.md)
+      - **Ссылка**
+        - **Диалоговое окно Генерировать схему соединений ПЛК** — [eplan/plcgui_d_spsschaltplanerzeugen.md](docs/eplan/plcgui_d_spsschaltplanerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нач. страницы** — [eplan/plcgui_d_startseiten.md](docs/eplan/plcgui_d_startseiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сообщения** — [eplan/plcgui_d_fehler.md](docs/eplan/plcgui_d_fehler.md)
+          - Вызов диалогового окна:
+    - **Форматы адресов ПЛК**
+      - **Основы**
+        - **Форматы адресов ПЛК** — [eplan/plcprocessorgui_k_start.md](docs/eplan/plcprocessorgui_k_start.md)
+        - **Форматы адресов** — [eplan/plcprocessorgui_k_adressformate.md](docs/eplan/plcprocessorgui_k_adressformate.md)
+      - **Процесс работы**
+        - **Настроить форматы адресов** — [eplan/plcprocessorgui_h_adressenformateeinstellen.md](docs/eplan/plcprocessorgui_h_adressenformateeinstellen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Специфич. для ПЛК** — [eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md](docs/eplan/plcprocessorgui_d_spsspezifischeeinstellungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Адреса (форматы адресов ПЛК)** — [eplan/plcprocessorgui_r_adressen.md](docs/eplan/plcprocessorgui_r_adressen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Форматы адресов** — [eplan/plcprocessorgui_r_adressenformate.md](docs/eplan/plcprocessorgui_r_adressenformate.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат списка присвоений** — [eplan/plcprocessorgui_r_formatzuordnungsliste.md](docs/eplan/plcprocessorgui_r_formatzuordnungsliste.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат символического адреса** — [eplan/plcprocessorgui_r_formatsymbolischeadresse.md](docs/eplan/plcprocessorgui_r_formatsymbolischeadresse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Формат адреса ПЛК" / диалоговое окно "Формат строки / Адрес в списке присвоений"** — [eplan/plcprocessorgui_d_formatspsadresse.md](docs/eplan/plcprocessorgui_d_formatspsadresse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)** — [eplan/eservicesgui_d_formatzaehler.md](docs/eplan/eservicesgui_d_formatzaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель** — [eplan/eservicesgui_d_formattrennzeichen.md](docs/eplan/eservicesgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (Форматы адресов ПЛК):
+        - **Диалоговое окно Формат: Адрес / текст** — [eplan/plcprocessorgui_d_formatadressetext.md](docs/eplan/plcprocessorgui_d_formatadressetext.md)
+          - Вызов диалогового окна:
+  - **Работа с макросами**
+    - **Основы**
+      - **Макросы** — [eplan/macrosgui_k_start.md](docs/eplan/macrosgui_k_start.md)
+      - **Проекты макросов** — [eplan/macrosgui_k_makroprojekte.md](docs/eplan/macrosgui_k_makroprojekte.md)
+      - **Рамки макросов: принцип** — [eplan/macrosgui_k_makrokaesten.md](docs/eplan/macrosgui_k_makrokaesten.md)
+      - **Макросы: Защищенные группы** — [eplan/macrosgui_k_geschuetztegruppen.md](docs/eplan/macrosgui_k_geschuetztegruppen.md)
+      - **Данные сгенерированного макроса** — [eplan/macrosgui_k_daten.md](docs/eplan/macrosgui_k_daten.md)
+      - **Навигатор макросов** — [eplan/macrosgui_k_makronavigator.md](docs/eplan/macrosgui_k_makronavigator.md)
+      - **Макросы схемы соединений: учет фирменных и других стандартов** — [eplan/macrosgui_k_standards.md](docs/eplan/macrosgui_k_standards.md)
+      - **Объекты-заполнители: Структура и принцип работы** — [eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md](docs/eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md)
+    - **Процесс работы**
+      - **Создать проекты макросов** — [eplan/macrosgui_h_makroprojekteerstellen.md](docs/eplan/macrosgui_h_makroprojekteerstellen.md)
+      - **Использовать рамки макросов** — [eplan/macrosgui_h_makrokasten.md](docs/eplan/macrosgui_h_makrokasten.md)
+        - Создать новый макрос
+        - Обновить макросы
+        - Выделение объектов макроса
+        - Присвоение отдельных объектов рамке макроса
+        - Переместить точку захвата
+      - **Автоматически генерировать макрос из проекта макросов** — [eplan/macrosgui_h_makrosausmakroprojekt.md](docs/eplan/macrosgui_h_makrosausmakroprojekt.md)
+      - **Генерировать объекты-заполнители** — [eplan/macrosgui_h_platzhalterobjekteerzeugen.md](docs/eplan/macrosgui_h_platzhalterobjekteerzeugen.md)
+      - **Расширить объекты-заполнители** — [eplan/macrosgui_h_platzhalterobjekteerweitern.md](docs/eplan/macrosgui_h_platzhalterobjekteerweitern.md)
+      - **Присвоить набор значений объекту-заполнителю** — [eplan/macrosgui_h_wertesatzzuweisen.md](docs/eplan/macrosgui_h_wertesatzzuweisen.md)
+      - **Вставить макросы** — [eplan/macrosgui_h_makrosauswaehlen.md](docs/eplan/macrosgui_h_makrosauswaehlen.md)
+      - **Создать макросы** — [eplan/macrosgui_h_makroserzeugen.md](docs/eplan/macrosgui_h_makroserzeugen.md)
+      - **Генерировать макросы из файлов DXF / DWG** — [eplan/macrosgui_h_makrosausdxf.md](docs/eplan/macrosgui_h_makrosausdxf.md)
+    - **Ссылка**
+      - **Диалоговое окно Макросы — <Имя проекта>** — [eplan/macrosgui_d_makronavigator.md](docs/eplan/macrosgui_d_makronavigator.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Сохранить как** — [eplan/macrosgui_d_speichernunter.md](docs/eplan/macrosgui_d_speichernunter.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно / вкладка "Присвоение данных изделия"** — [eplan/macrosgui_r_artikeldatenzuweisung.md](docs/eplan/macrosgui_r_artikeldatenzuweisung.md)
+        - Вызов диалогового окна "Присвоение данных изделия":
+        - Вызов диалогового окна / вкладка 'Присвоение данных изделия':
+      - **Диалоговое окно Формат: Присвоение данных изделия** — [eplan/eservicesgui_d_formatartikeldatenzuweisung.md](docs/eplan/eservicesgui_d_formatartikeldatenzuweisung.md)
+        - Вызов диалогового окна:
+      - **Вкладка Рамка макроса** — [eplan/macrosgui_r_makrokasten.md](docs/eplan/macrosgui_r_makrokasten.md)
+        - Вызов диалогового окна:
+      - **Вкладка Настройки (рамка макроса)** — [eplan/macrosgui_r_makrokasteneinstellungen.md](docs/eplan/macrosgui_r_makrokasteneinstellungen.md)
+        - Вызов диалогового окна:
+      - **Вкладка Определение макроса** — [eplan/macrosgui_r_makrodefinition.md](docs/eplan/macrosgui_r_makrodefinition.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно "Подготовить макросы к автоматической генерации"** — [eplan/macrosgui_d_makrosvorbereiten.md](docs/eplan/macrosgui_d_makrosvorbereiten.md)
+        - Вызов диалогового окна:
+      - **Вкладка Объект-заполнитель** — [eplan/macrosgui_d_platzhalterobjekt.md](docs/eplan/macrosgui_d_platzhalterobjekt.md)
+        - Вызов диалогового окна:
+      - **Вкладка Настройки (объект-заполнитель)** — [eplan/macrosgui_r_platzhaltereinstellungen.md](docs/eplan/macrosgui_r_platzhaltereinstellungen.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Выбрать набор значений** — [eplan/macrosgui_d_wertesatzauswaehlen.md](docs/eplan/macrosgui_d_wertesatzauswaehlen.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Вставить** — [eplan/macrosgui_d_einfuegen.md](docs/eplan/macrosgui_d_einfuegen.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Настройки: Обновить макросы** — [eplan/gedviewer_d_einstellungenmakrosaktualisieren.md](docs/eplan/gedviewer_d_einstellungenmakrosaktualisieren.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Настройки: Общие (Пользователь, Представление)** — [eplan/macrosgui_d_einstellzwischablage.md](docs/eplan/macrosgui_d_einstellzwischablage.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно "Настройки: Макросы"** — [eplan/macrosgui_d_einstellmakros.md](docs/eplan/macrosgui_d_einstellmakros.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Буфер обмена** — [eplan/macrosgui_d_zwischenablage.md](docs/eplan/macrosgui_d_zwischenablage.md)
+        - Вызов диалогового окна:
+  - **Использование опций**
+    - **Основы**
+      - **Опции** — [eplan/projectoptionsgui_k_start.md](docs/eplan/projectoptionsgui_k_start.md)
+      - **Опции проекта: Принцип** — [eplan/projectoptionsgui_k_prinzip.md](docs/eplan/projectoptionsgui_k_prinzip.md)
+      - **Отчеты для опций и объектов-заполнителей** — [eplan/projectoptionsgui_k_auswertungen.md](docs/eplan/projectoptionsgui_k_auswertungen.md)
+    - **Процесс работы**
+      - **Создать и обработать опциональные группы** — [eplan/projectoptionsgui_h_optionsgruppenerzeugen.md](docs/eplan/projectoptionsgui_h_optionsgruppenerzeugen.md)
+        - Создание опциональных групп
+        - Обработать опциональные группы
+        - Удалить опциональные группы
+      - **Создание и обработка опций** — [eplan/projectoptionsgui_h_optionenerzeugen.md](docs/eplan/projectoptionsgui_h_optionenerzeugen.md)
+        - Создание опции
+        - Обработка опций
+        - Удалить опции
+      - **Включить и выключить опции** — [eplan/projectoptionsgui_h_optioneneinaus.md](docs/eplan/projectoptionsgui_h_optioneneinaus.md)
+      - **Создание фрагментов** — [eplan/projectoptionsgui_h_ausschnitteerzeugen.md](docs/eplan/projectoptionsgui_h_ausschnitteerzeugen.md)
+      - **Обработка фрагментов** — [eplan/projectoptionsgui_h_ausschnittebearbeiten.md](docs/eplan/projectoptionsgui_h_ausschnittebearbeiten.md)
+        - Обработка свойств фрагмента
+        - Изменение фрагментов
+        - Удаление фрагментов
+    - **Ссылка**
+      - **Диалоговое окно Опции — <Имя проекта>** — [eplan/projectoptionsgui_d_optionsnavigator.md](docs/eplan/projectoptionsgui_d_optionsnavigator.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Опциональная группа** — [eplan/projectoptionsgui_d_optionsgruppe.md](docs/eplan/projectoptionsgui_d_optionsgruppe.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Опция** — [eplan/projectoptionsgui_d_option.md](docs/eplan/projectoptionsgui_d_option.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Фрагмент** — [eplan/projectoptionsgui_d_ausschnitt.md](docs/eplan/projectoptionsgui_d_ausschnitt.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Объекты-заполнители — <Имя проекта>** — [eplan/projectoptionsgui_d_platzhalternavigator.md](docs/eplan/projectoptionsgui_d_platzhalternavigator.md)
+        - Вызов диалогового окна:
+  - **Нумерация соединений и устройств**
+    - **Нумерация соединений**
+      - **Основы**
+        - **Нумерация соединений** — [eplan/wirenumberinggui_k_start.md](docs/eplan/wirenumberinggui_k_start.md)
+        - **Нумерация соединений: Принцип** — [eplan/wirenumberinggui_k_prinzip.md](docs/eplan/wirenumberinggui_k_prinzip.md)
+        - **Размещение точек определения соединений** — [eplan/wirenumberinggui_k_platzierungvdp.md](docs/eplan/wirenumberinggui_k_platzierungvdp.md)
+      - **Процесс работы**
+        - **Произвести настройки для нумерации соединений** — [eplan/wirenumberinggui_h_einstellungen.md](docs/eplan/wirenumberinggui_h_einstellungen.md)
+        - **Создать группы форматов** — [eplan/wirenumberinggui_h_formatgruppenerstellen.md](docs/eplan/wirenumberinggui_h_formatgruppenerstellen.md)
+        - **Обработать группы форматов** — [eplan/wirenumberinggui_h_formatgruppenbearbeiten.md](docs/eplan/wirenumberinggui_h_formatgruppenbearbeiten.md)
+        - **Разместить точки определения соединения** — [eplan/wirenumberinggui_h_vdpplatzieren.md](docs/eplan/wirenumberinggui_h_vdpplatzieren.md)
+        - **Обозначить соединения** — [eplan/wirenumberinggui_h_verbnumbezeichnen.md](docs/eplan/wirenumberinggui_h_verbnumbezeichnen.md)
+        - **Заново выровнять и отформат. обозначения соединений** — [eplan/wirenumberinggui_h_verbnumausrichtenformatieren.md](docs/eplan/wirenumberinggui_h_verbnumausrichtenformatieren.md)
+        - **Удалить обозначения соединений** — [eplan/wirenumberinggui_h_verbindloeschen.md](docs/eplan/wirenumberinggui_h_verbindloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Нумерация соединений** — [eplan/wirenumberinggui_d_verbnumeinstellungen.md](docs/eplan/wirenumberinggui_d_verbnumeinstellungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Фильтр** — [eplan/wirenumberinggui_r_filter.md](docs/eplan/wirenumberinggui_r_filter.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение (Нумерация соединений)** — [eplan/wirenumberinggui_r_platzierung.md](docs/eplan/wirenumberinggui_r_platzierung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Обозначение** — [eplan/wirenumberinggui_r_bezeichnung.md](docs/eplan/wirenumberinggui_r_bezeichnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (Нумерация соединений)** — [eplan/wirenumberinggui_r_anzeige.md](docs/eplan/wirenumberinggui_r_anzeige.md)
+          - Вызов диалогового окна:
+          - Для текстов, импортированных из проектов EPLAN 5, имеются дополнительные специальные возможности для выравнивания:
+        - **Диалоговое окно Нумерация соединений: Форматы** — [eplan/wirenumberinggui_d_verbnumformate.md](docs/eplan/wirenumberinggui_d_verbnumformate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Список выбора** — [eplan/wirenumberinggui_d_betriebsmittelliste.md](docs/eplan/wirenumberinggui_d_betriebsmittelliste.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Свойства** — [eplan/wirenumberinggui_d_formateigenschaften.md](docs/eplan/wirenumberinggui_d_formateigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Страница / Столбец / Строка (нумерация соединений)** — [eplan/wirenumberinggui_d_formatseite.md](docs/eplan/wirenumberinggui_d_formatseite.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация соединений)** — [eplan/wirenumberinggui_d_formattrennzeichen.md](docs/eplan/wirenumberinggui_d_formattrennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Счетчик (нумерация соединений)** — [eplan/wirenumberinggui_d_formatzaehler.md](docs/eplan/wirenumberinggui_d_formatzaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сетевое расширение (Нумерация соединений)** — [eplan/wirenumberinggui_d_netzerweiterung.md](docs/eplan/wirenumberinggui_d_netzerweiterung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обозначить соединения** — [eplan/wirenumberinggui_d_verbnumbezeichnen.md](docs/eplan/wirenumberinggui_d_verbnumbezeichnen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обозначить соединения: Предварительный просмотр результата** — [eplan/wirenumberinggui_d_ergebnisbezeichnen.md](docs/eplan/wirenumberinggui_d_ergebnisbezeichnen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Разместить точки определения соединения** — [eplan/wirenumberinggui_d_vdpplatzieren.md](docs/eplan/wirenumberinggui_d_vdpplatzieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выровнять и отформатировать обозначения соединений** — [eplan/wirenumberinggui_d_verbnumausrichtenformatieren.md](docs/eplan/wirenumberinggui_d_verbnumausrichtenformatieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить обозначения соединений** — [eplan/wirenumberinggui_d_verbindloeschen.md](docs/eplan/wirenumberinggui_d_verbindloeschen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Счетчик области сброса** — [eplan/wirenumberinggui_d_zaehlerruecksetzbereich.md](docs/eplan/wirenumberinggui_d_zaehlerruecksetzbereich.md)
+          - Вызов диалогового окна:
+    - **Нумерация устройств в режиме подключения**
+      - **Основы**
+        - **Нумерация (online)** — [eplan/numerationgui_k_start.md](docs/eplan/numerationgui_k_start.md)
+        - **Формат нумерации в режиме подключения** — [eplan/numerationgui_k_format.md](docs/eplan/numerationgui_k_format.md)
+        - **Функции и нумерация** — [eplan/numerationgui_k_verhaltenfunktionen.md](docs/eplan/numerationgui_k_verhaltenfunktionen.md)
+      - **Процесс работы**
+        - **Определить формат нумерации в режиме подключения** — [eplan/numerationgui_h_onlineformat.md](docs/eplan/numerationgui_h_onlineformat.md)
+        - **Установить предшествующий знак в видимом ОУ** — [eplan/numerationgui_h_vorzeichensetzen.md](docs/eplan/numerationgui_h_vorzeichensetzen.md)
+        - **Автоматическая нумерация новых устройств** — [eplan/numerationgui_h_online.md](docs/eplan/numerationgui_h_online.md)
+        - **Вставить новые устройства без ОУ** — [eplan/numerationgui_h_ohnebmk.md](docs/eplan/numerationgui_h_ohnebmk.md)
+        - **Устройства в макросе/автоматически нумеровать копии** — [eplan/numerationgui_h_insertdtviamacros.md](docs/eplan/numerationgui_h_insertdtviamacros.md)
+        - **Устройства в макросе/добавить копии с неизмененным ОУ** — [eplan/numerationgui_h_einfuegemoduswaehlen.md](docs/eplan/numerationgui_h_einfuegemoduswaehlen.md)
+        - **Исключить группы устройств из автоматической нумерации** — [eplan/numerationgui_h_einstellungentreffen.md](docs/eplan/numerationgui_h_einstellungentreffen.md)
+        - **Копировать, вырезать и вставить элементы схемы соединений** — [eplan/numerationgui_h_kopierenimged.md](docs/eplan/numerationgui_h_kopierenimged.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Нумерация (online)** — [eplan/numerationgui_d_einstellnummerierung.md](docs/eplan/numerationgui_d_einstellnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Форматы нумерации** — [eplan/numerationgui_d_nummerierungsformate.md](docs/eplan/numerationgui_d_nummerierungsformate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат ОУ** — [eplan/numerationgui_d_bmkformat.md](docs/eplan/numerationgui_d_bmkformat.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат (online-нумерация)** — [eplan/eservicesgui_d_formatelement.md](docs/eplan/eservicesgui_d_formatelement.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель** — [eplan/eservicesgui_d_formattrennzklein.md](docs/eplan/eservicesgui_d_formattrennzklein.md)
+          - Вызов диалогового окна (Нумерация в режиме Online):
+          - Вызов диалогового окна (Форматы адресов ПЛК):
+        - **Диалоговое окно Режим вставки** — [eplan/numerationgui_d_einfuegemodus.md](docs/eplan/numerationgui_d_einfuegemodus.md)
+          - Вызов диалогового окна:
+    - **Обозначения выводов устройства и буквенные обозначения**
+      - **Основы**
+        - **Собственные обозначения выводов устройства и условные обозначения** — [eplan/fctdeflibdataexchangegui_k_start.md](docs/eplan/fctdeflibdataexchangegui_k_start.md)
+        - **Обозначения и описания выводов устройства** — [eplan/fctdeflibdataexchangegui_k_anschluss.md](docs/eplan/fctdeflibdataexchangegui_k_anschluss.md)
+        - **Наборы буквенных обозначений** — [eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md](docs/eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
+      - **Процесс работы**
+        - **Создать собственные обозначения и описания выводов устройства** — [eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md](docs/eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+        - **Создать собственные наборы буквенных обозначений** — [eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md](docs/eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+      - **Ссылка**
+        - **Диалоговое окно Обозначения и описания выводов устройства** — [eplan/numerationgui_d_anschlussbezeichnungen.md](docs/eplan/numerationgui_d_anschlussbezeichnungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Буквенные обозначения** — [eplan/numerationgui_d_kennbuchstaben.md](docs/eplan/numerationgui_d_kennbuchstaben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Подклассы буквенных обозначений** — [eplan/numerationgui_d_kennbuchstabenunterklassen.md](docs/eplan/numerationgui_d_kennbuchstabenunterklassen.md)
+          - Вызов диалогового окна:
+    - **Автономная нумерация устройств**
+      - **Основы**
+        - **Нумеровать (автономно)** — [eplan/offlinenumerationgui_k_start.md](docs/eplan/offlinenumerationgui_k_start.md)
+        - **Объем нумерации** — [eplan/offlinenumerationgui_k_umfang.md](docs/eplan/offlinenumerationgui_k_umfang.md)
+        - **Нумерация в случае неразмещенного главного устройства.** — [eplan/offlinenumerationgui_k_formatseite.md](docs/eplan/offlinenumerationgui_k_formatseite.md)
+        - **Нумерация и функции** — [eplan/offlinenumerationgui_k_funktion.md](docs/eplan/offlinenumerationgui_k_funktion.md)
+        - **Нумерация вложенных устройств** — [eplan/offlinenumerationgui_k_geschachteltebmk.md](docs/eplan/offlinenumerationgui_k_geschachteltebmk.md)
+      - **Процесс работы**
+        - **Автономная нумерация устройств** — [eplan/offlinenumerationgui_h_formatfestlegen.md](docs/eplan/offlinenumerationgui_h_formatfestlegen.md)
+        - **Создать и удалить формат нумерации** — [eplan/offlinenumerationgui_h_formatbearbeiten.md](docs/eplan/offlinenumerationgui_h_formatbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Нумеровать (автономно)** — [eplan/offlinenumerationgui_d_nummerieren.md](docs/eplan/offlinenumerationgui_d_nummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумеровать (автономно)** — [eplan/offlinenumerationgui_d_nummerierungsformate.md](docs/eplan/offlinenumerationgui_d_nummerierungsformate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно <Элемент формата>** — [eplan/offlinenumerationgui_d_zaehler.md](docs/eplan/offlinenumerationgui_d_zaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация в автономном режиме)** — [eplan/offlinenumerationgui_d_trennzeichen.md](docs/eplan/offlinenumerationgui_d_trennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать (автономно): Предварительный просмотр результата** — [eplan/offlinenumerationgui_d_ergebnisvorschau.md](docs/eplan/offlinenumerationgui_d_ergebnisvorschau.md)
+          - Вызов диалогового окна:
+    - **Нумерация с данными ПЛК**
+      - **Основы**
+        - **Нумерация устройств, подсоединенных к ПЛК** — [eplan/offlinenumerationplcgui_k_start.md](docs/eplan/offlinenumerationplcgui_k_start.md)
+        - **Нумерация с данными выводов устройства ПЛК** — [eplan/offlinenumerationplcgui_k_prinzip.md](docs/eplan/offlinenumerationplcgui_k_prinzip.md)
+        - **Свойства для нумерации с данными ПЛК** — [eplan/offlinenumerationplcgui_k_eigenschaften.md](docs/eplan/offlinenumerationplcgui_k_eigenschaften.md)
+      - **Процесс работы**
+        - **Определить формат и объем нумерации** — [eplan/offlinenumerationplcgui_h_formatfestlegen.md](docs/eplan/offlinenumerationplcgui_h_formatfestlegen.md)
+        - **Определить сетевое расширение для нумерации с данными ПЛК** — [eplan/offlinenumerationplcgui_h_netzerweiterung.md](docs/eplan/offlinenumerationplcgui_h_netzerweiterung.md)
+        - **Продолжить нумерацию после функции** — [eplan/offlinenumerationplcgui_h_einstellungen.md](docs/eplan/offlinenumerationplcgui_h_einstellungen.md)
+        - **Исключить выводы устройства ПЛК из нумерации** — [eplan/offlinenumerationplcgui_h_ausschliessen.md](docs/eplan/offlinenumerationplcgui_h_ausschliessen.md)
+        - **Нумеровать подсоединенные к ПЛК устройства** — [eplan/offlinenumerationplcgui_h_bmnummerieren.md](docs/eplan/offlinenumerationplcgui_h_bmnummerieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Нумерация с данными ПЛК** — [eplan/offlinenumerationplcgui_d_einstellungen.md](docs/eplan/offlinenumerationplcgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сетевое расширение (нумерация с данными ПЛК)** — [eplan/offlinenumerationplcgui_d_netzerweiterung.md](docs/eplan/offlinenumerationplcgui_d_netzerweiterung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумерация с данными ПЛК** — [eplan/offlinenumerationplcgui_d_nummerierungmitsps.md](docs/eplan/offlinenumerationplcgui_d_nummerierungmitsps.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумерация с данными ПЛК: Предварительный просмотр результата** — [eplan/offlinenumerationplcgui_d_ergebnisvorschau.md](docs/eplan/offlinenumerationplcgui_d_ergebnisvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумерация с данными ПЛК: Формат** — [eplan/offlinenumerationplcgui_d_format.md](docs/eplan/offlinenumerationplcgui_d_format.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Данные ПЛК** — [eplan/offlinenumerationplcgui_d_formateigenschaften.md](docs/eplan/offlinenumerationplcgui_d_formateigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Страница / столбец / строка (нумерация с данными ПЛК)** — [eplan/offlinenumerationplcgui_d_formatseite.md](docs/eplan/offlinenumerationplcgui_d_formatseite.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Буквенное обозначение** — [eplan/offlinenumerationplcgui_d_formatkennbuchstabe.md](docs/eplan/offlinenumerationplcgui_d_formatkennbuchstabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация с данными ПЛК)** — [eplan/offlinenumerationplcgui_d_formattrennzeichen.md](docs/eplan/offlinenumerationplcgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна:
+  - **Использование функций и устройств**
+    - **Функции**
+      - **Основы**
+        - **Функции** — [eplan/xfctdefbrowsergui_k_start.md](docs/eplan/xfctdefbrowsergui_k_start.md)
+        - **Конструкция устройств в Eplan** — [eplan/xfctdefbrowsergui_k_betriebsmittel.md](docs/eplan/xfctdefbrowsergui_k_betriebsmittel.md)
+        - **Функции: Принцип** — [eplan/xfctdefbrowsergui_k_prinzip.md](docs/eplan/xfctdefbrowsergui_k_prinzip.md)
+        - **Определения функции: Принцип** — [eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md](docs/eplan/xfctdefbrowsergui_k_funktionsdefinitionen.md)
+      - **Процесс работы**
+        - **Вставить функции** — [eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md](docs/eplan/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+        - **Изменить функции** — [eplan/xfctdefbrowsergui_h_funktionaendern.md](docs/eplan/xfctdefbrowsergui_h_funktionaendern.md)
+        - **Обработать логическую схему выводов устройства** — [eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md](docs/eplan/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
+        - **Заменить определения функций** — [eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md](docs/eplan/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+        - **Заменить символы** — [eplan/xfctdefbrowsergui_h_symboltauschen.md](docs/eplan/xfctdefbrowsergui_h_symboltauschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Определения функций** — [eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md](docs/eplan/xfctdefbrowsergui_d_funktionsdefinitionen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Логическая схема выводов устройства** — [eplan/xfctdefbrowsergui_d_anschlusslogik.md](docs/eplan/xfctdefbrowsergui_d_anschlusslogik.md)
+          - Вызов диалогового окна:
+    - **Навигатор устройств**
+      - **Основы**
+        - **Навигатор устройств** — [eplan/navigatorgui_k_start.md](docs/eplan/navigatorgui_k_start.md)
+        - **Присвоение данных функции** — [eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md](docs/eplan/navigatorgui_k_zuweisenvonfunktionsdaten.md)
+        - **Механические устройства** — [eplan/navigatorgui_k_mechbetriebsmittel.md](docs/eplan/navigatorgui_k_mechbetriebsmittel.md)
+      - **Процесс работы**
+        - **Создать неразмещенные устройства в навигаторе устройств** — [eplan/navigatorgui_h_funktionenanlegen.md](docs/eplan/navigatorgui_h_funktionenanlegen.md)
+        - **Автоматически генерировать функции с помощью схемы нумерации** — [eplan/navigatorgui_h_mehrerfunktionerzeugen.md](docs/eplan/navigatorgui_h_mehrerfunktionerzeugen.md)
+        - **Просмотреть размещенные устройства в графическом виде** — [eplan/navigatorgui_h_grafischevorschau.md](docs/eplan/navigatorgui_h_grafischevorschau.md)
+        - **Присвоить данные функции условному обозначению** — [eplan/navigatorgui_h_funktionzuweisen.md](docs/eplan/navigatorgui_h_funktionzuweisen.md)
+      - **Ссылка**
+        - **Диалоговое окно Устройство — <Имя проекта>** — [eplan/navigatorgui_d_navigator.md](docs/eplan/navigatorgui_d_navigator.md)
+          - Вызов диалогового окна:
+    - **Устройства**
+      - **Основы**
+        - **Устройства** — [eplan/devicelistgui_k_start.md](docs/eplan/devicelistgui_k_start.md)
+        - **Устройства: Принцип** — [eplan/devicelistgui_k_prinzip.md](docs/eplan/devicelistgui_k_prinzip.md)
+        - **Группы устройств** — [eplan/devicelistgui_k_geraetegruppierung.md](docs/eplan/devicelistgui_k_geraetegruppierung.md)
+        - **Список устройств** — [eplan/devicelistgui_k_geraeteliste.md](docs/eplan/devicelistgui_k_geraeteliste.md)
+        - **Вставка / размещение устройств** — [eplan/devicelistgui_k_platzieren.md](docs/eplan/devicelistgui_k_platzieren.md)
+        - **Принцип работы при вставке устройств** — [eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md](docs/eplan/devicelistgui_k_vorgehengeraeteeinfuegen.md)
+        - **Порядок действий при размещении устройств** — [eplan/devicelistgui_k_vorgehengeraeteplatzieren.md](docs/eplan/devicelistgui_k_vorgehengeraeteplatzieren.md)
+        - **Процедура удаления и копирования устройств** — [eplan/devicelistgui_k_loeschenkopieren.md](docs/eplan/devicelistgui_k_loeschenkopieren.md)
+        - **Перенос ОУ штекера и обозначения канала** — [eplan/devicelistgui_k_steckerbmk.md](docs/eplan/devicelistgui_k_steckerbmk.md)
+      - **Процесс работы**
+        - **Создать определения устройств** — [eplan/devicelistgui_h_geraetedefinitionenanlegen.md](docs/eplan/devicelistgui_h_geraetedefinitionenanlegen.md)
+        - **Обработать список устройств** — [eplan/devicelistgui_h_geraetelistebearbeiten.md](docs/eplan/devicelistgui_h_geraetelistebearbeiten.md)
+        - **Вставить устройства** — [eplan/devicelistgui_h_geraeteeinfuegen.md](docs/eplan/devicelistgui_h_geraeteeinfuegen.md)
+        - **Разместить функции устройств** — [eplan/devicelistgui_h_geraeteplatzieren.md](docs/eplan/devicelistgui_h_geraeteplatzieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Список устройств** — [eplan/devicelistgui_d_geraeteliste.md](docs/eplan/devicelistgui_d_geraeteliste.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства (список устройств)** — [eplan/devicelistgui_d_eigenschaften.md](docs/eplan/devicelistgui_d_eigenschaften.md)
+          - Вызов диалогового окна:
+    - **Выбор изделия / устройства**
+      - **Основные положения**
+        - **Выбор изделия / устройства** — [eplan/partselectiongui_k_start.md](docs/eplan/partselectiongui_k_start.md)
+        - **Поведение изделий при выборе устройств** — [eplan/partselectiongui_k_prinzip.md](docs/eplan/partselectiongui_k_prinzip.md)
+        - **Выбор устройства: Способ действий** — [eplan/partselectiongui_k_vorgehensweise.md](docs/eplan/partselectiongui_k_vorgehensweise.md)
+        - **Фильтры и предварительный выбор изделия** — [eplan/partselectiongui_k_filtervorauswahl.md](docs/eplan/partselectiongui_k_filtervorauswahl.md)
+        - **Обзор перенесенных данных изделия** — [eplan/partselectiongui_k_uebertragenedaten.md](docs/eplan/partselectiongui_k_uebertragenedaten.md)
+      - **Процесс работы**
+        - **Выбрать изделие** — [eplan/partselectiongui_h_artikelauswahl.md](docs/eplan/partselectiongui_h_artikelauswahl.md)
+        - **Выбрать изделие в Навигаторах или из списка устройств** — [eplan/partselectiongui_h_artikelauswahlnavigator.md](docs/eplan/partselectiongui_h_artikelauswahlnavigator.md)
+        - **Выбрать устройства** — [eplan/partselectiongui_h_geraeteauswahl.md](docs/eplan/partselectiongui_h_geraeteauswahl.md)
+        - **Сохранить данные ссылки изделия на функции** — [eplan/partselectiongui_h_artikeldatenanschaltzeichen.md](docs/eplan/partselectiongui_h_artikeldatenanschaltzeichen.md)
+        - **Синхронизировать сохраненные изделия с базой данных изделий** — [eplan/partselectiongui_h_artikeldateneinlagern.md](docs/eplan/partselectiongui_h_artikeldateneinlagern.md)
+        - **Генерировать изделия из данных схемы соединений** — [eplan/partselectiongui_h_artikelausschaltplan.md](docs/eplan/partselectiongui_h_artikelausschaltplan.md)
+        - **Удалить свойства сохраненных изделий** — [eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md](docs/eplan/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+        - **Определить предварительный выбор изделия** — [eplan/partselectiongui_h_artikelvorauswahl.md](docs/eplan/partselectiongui_h_artikelvorauswahl.md)
+        - **Начертить точку определения изделия** — [eplan/partselectiongui_h_adpzeichnen.md](docs/eplan/partselectiongui_h_adpzeichnen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Выбор устройства** — [eplan/partselectiongui_d_einstellungengeraeteauswahl.md](docs/eplan/partselectiongui_d_einstellungengeraeteauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Выбор изделия (проект)** — [eplan/partselectiongui_d_datenauswahlprojekt.md](docs/eplan/partselectiongui_d_datenauswahlprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Изделие (пользователь)** — [eplan/partselectiongui_d_datenauswahlbenutzer.md](docs/eplan/partselectiongui_d_datenauswahlbenutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Дополнить данные изделия** — [eplan/partselectiongui_d_artikeldatenergaenzen.md](docs/eplan/partselectiongui_d_artikeldatenergaenzen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Выбор изделия API** — [eplan/partselectiongui_d_konfigapiartikel.md](docs/eplan/partselectiongui_d_konfigapiartikel.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Предварительный выбор изделий** — [eplan/partselectiongui_d_artikelvorauswahl.md](docs/eplan/partselectiongui_d_artikelvorauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор устройства** — [eplan/partselectiongui_d_geraeteauswahl.md](docs/eplan/partselectiongui_d_geraeteauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматический фильтр: Выбор устройства** — [eplan/partselectiongui_d_geraetefilter.md](docs/eplan/partselectiongui_d_geraetefilter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор изделия** — [eplan/partselectiongui_d_artikelauswahl.md](docs/eplan/partselectiongui_d_artikelauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор изделия: Выбрать источник данных** — [eplan/partselectiongui_d_datenquelleauswahl.md](docs/eplan/partselectiongui_d_datenquelleauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизация изделий — <Имя проекта>** — [eplan/partsextensiongui_d_artikelabgleich.md](docs/eplan/partsextensiongui_d_artikelabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить сохраненные свойства изделия** — [eplan/partselectiongui_d_artikeleigenschaftenloeschen.md](docs/eplan/partselectiongui_d_artikeleigenschaftenloeschen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфликт** — [eplan/partselectiongui_d_konflikte.md](docs/eplan/partselectiongui_d_konflikte.md)
+          - Вызов диалогового окна:
+        - **Вкладка Изделие** — [eplan/partselectiongui_r_artikel.md](docs/eplan/partselectiongui_r_artikel.md)
+          - Вызов диалогового окна:
+        - **Вкладка Точка определения изделия** — [eplan/devicetaggui_r_adp.md](docs/eplan/devicetaggui_r_adp.md)
+          - Вызов диалогового окна:
+    - **Резервные функциональные элементы**
+      - **Основы**
+        - **Резервные функциональные элементы** — [eplan/sparecomponent_k_start.md](docs/eplan/sparecomponent_k_start.md)
+        - **Резервные функциональные элементы: Основные положения** — [eplan/sparecomponent_k_grundlagen.md](docs/eplan/sparecomponent_k_grundlagen.md)
+        - **Резервные функциональные элементы: Принцип работы** — [eplan/sparecomponent_k_arbeitsweise.md](docs/eplan/sparecomponent_k_arbeitsweise.md)
+        - **Резервные функциональные элементы: Определения устройств** — [eplan/sparecomponent_k_geraetedefinitionen.md](docs/eplan/sparecomponent_k_geraetedefinitionen.md)
+        - **Резервные функциональные элементы: Шаблоны функции** — [eplan/sparecomponent_k_funktionsschablonen.md](docs/eplan/sparecomponent_k_funktionsschablonen.md)
+        - **Данные неразмещенных устройств** — [eplan/sparecomponent_k_datenvonnichtplatziertenfunktionen.md](docs/eplan/sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
+        - **Резервные функциональные элементы: Режимы копирования для функций** — [eplan/sparecomponent_k_kopiermodifunktionen.md](docs/eplan/sparecomponent_k_kopiermodifunktionen.md)
+        - **Резервные функциональные элементы: Режимы удаления для функций** — [eplan/sparecomponent_k_loeschmodifunktionen.md](docs/eplan/sparecomponent_k_loeschmodifunktionen.md)
+      - **Процесс работы**
+        - **Удаление размещения и отмена размещенных функций** — [eplan/sparecomponent_h_funktionenzurueckbuchen.md](docs/eplan/sparecomponent_h_funktionenzurueckbuchen.md)
+  - **Управление данными проекта**
+    - **Управление структурными идентификаторами**
+      - **Основные положения**
+        - **Управление структурными идентификаторами** — [eplan/pleditorgui_k_start.md](docs/eplan/pleditorgui_k_start.md)
+        - **Блоки идентификаторов для страниц и устройств** — [eplan/pleditorgui_k_grundlagen.md](docs/eplan/pleditorgui_k_grundlagen.md)
+      - **Процесс работы**
+        - **Создать идентификаторы** — [eplan/pleditorgui_h_kennzanlegen.md](docs/eplan/pleditorgui_h_kennzanlegen.md)
+        - **Создать идентификаторы при вставке новых страниц, ОУ и макросов** — [eplan/pleditorgui_h_kennzanlegenbeineuerseite.md](docs/eplan/pleditorgui_h_kennzanlegenbeineuerseite.md)
+          - Создать идентификатор при обработке страниц
+          - Создать идентификатор при обработке устройств
+          - Создать идентификатор при обработке макроса
+        - **Обработать идентификаторы** — [eplan/pleditorgui_h_kennzbearbeiten.md](docs/eplan/pleditorgui_h_kennzbearbeiten.md)
+        - **Поиск и замена идентификаторов** — [eplan/pleditorgui_h_kennzsuchen.md](docs/eplan/pleditorgui_h_kennzsuchen.md)
+        - **Проверить идентификаторы** — [eplan/pleditorgui_h_kennzpruefen.md](docs/eplan/pleditorgui_h_kennzpruefen.md)
+        - **Удалить идентификаторы** — [eplan/pleditorgui_h_kennzloeschen.md](docs/eplan/pleditorgui_h_kennzloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление структурными идентификаторами — <Имя проекта>** — [eplan/pleditorgui_d_kennzeichen.md](docs/eplan/pleditorgui_d_kennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Новый идентификатор** — [eplan/pleditorgui_d_neueskennzeichen.md](docs/eplan/pleditorgui_d_neueskennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Условные обозначения** — [eplan/pleditorgui_d_einstellungenkennzeichen.md](docs/eplan/pleditorgui_d_einstellungenkennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "<Блок идентификаторов> (<Имя проекта>)" / диалоговое окно "Идентификатор объекта"** — [eplan/pleditorgui_d_kennzeichnungsblock.md](docs/eplan/pleditorgui_d_kennzeichnungsblock.md)
+          - Вызов диалогового окна <Блок идентификаторов> (<Имя проекта>):
+          - Вызов диалогового окна Идентификатор объекта:
+    - **Управление слоями**
+      - **Основы**
+        - **Управление слоями** — [eplan/layermanager_k_start.md](docs/eplan/layermanager_k_start.md)
+        - **Слои: Принцип** — [eplan/layermanager_k_prinzip.md](docs/eplan/layermanager_k_prinzip.md)
+      - **Процесс работы**
+        - **Работа со слоями** — [eplan/layermanager_h_ebenenbearbeiten.md](docs/eplan/layermanager_h_ebenenbearbeiten.md)
+          - Создание слоев
+          - Удаление слоев
+          - Переименование слоев
+          - Изменить присвоение слоя
+        - **Поиск слоев** — [eplan/layermanager_h_ebenensuchen.md](docs/eplan/layermanager_h_ebenensuchen.md)
+        - **Импорт и экспорт конфигурации управления слоями** — [eplan/layermanager_h_ebenenkonfigurationexportieren.md](docs/eplan/layermanager_h_ebenenkonfigurationexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление слоями — <Имя проекта>** — [eplan/layermanager_d_ebenenverwaltung.md](docs/eplan/layermanager_d_ebenenverwaltung.md)
+          - Вызов диалогового окна:
+    - **Спецификации**
+      - **Основы**
+        - **Спецификации** — [eplan/partslistgui_k_start.md](docs/eplan/partslistgui_k_start.md)
+        - **Группы спецификаций** — [eplan/partslistgui_k_stuecklistengruppen.md](docs/eplan/partslistgui_k_stuecklistengruppen.md)
+        - **Ссылки изделий из монтажной платы** — [eplan/partslistgui_k_artikelreferenzenausmontageplatte.md](docs/eplan/partslistgui_k_artikelreferenzenausmontageplatte.md)
+        - **Спецификации: Поля в файле экспорта** — [eplan/partslistgui_k_felderexportdatei.md](docs/eplan/partslistgui_k_felderexportdatei.md)
+      - **Процесс работы**
+        - **Обработать изделие спецификации** — [eplan/partslistgui_h_artikelbearbeiten.md](docs/eplan/partslistgui_h_artikelbearbeiten.md)
+          - Обработать неразмещенные изделия
+          - Обработать функциональные элементы с размещением изделия
+          - Обработать покупные изделия
+          - Разместить изделия
+          - Заменить изделие
+          - Удалить изделия
+        - **Добавить изделие** — [eplan/partslistgui_h_artikelhinzufuegen.md](docs/eplan/partslistgui_h_artikelhinzufuegen.md)
+        - **Добавить покупные изделия** — [eplan/partslistgui_h_projektartikelhinzufuegen.md](docs/eplan/partslistgui_h_projektartikelhinzufuegen.md)
+        - **Нумеровать позиции заново** — [eplan/partslistgui_h_positionenneunummerieren.md](docs/eplan/partslistgui_h_positionenneunummerieren.md)
+        - **Экспортировать спецификации** — [eplan/partslistgui_h_stuecklistenexportieren.md](docs/eplan/partslistgui_h_stuecklistenexportieren.md)
+        - **Импортировать спецификации** — [eplan/partslistgui_h_stuecklistenimportieren.md](docs/eplan/partslistgui_h_stuecklistenimportieren.md)
+        - **Учитывать изделия у соединений** — [eplan/partslistgui_h_artikelanverbindungen.md](docs/eplan/partslistgui_h_artikelanverbindungen.md)
+      - **Ссылка**
+        - **Диалоговое окно Спецификация — <Имя проекта>** — [eplan/partslistgui_d_artikelstueckliste.md](docs/eplan/partslistgui_d_artikelstueckliste.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Изделие** — [eplan/partslistgui_d_paramartikelauswertung.md](docs/eplan/partslistgui_d_paramartikelauswertung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать позиции** — [eplan/partslistgui_d_positionsnummerierung.md](docs/eplan/partslistgui_d_positionsnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать позиции: Предварительный просмотр результата** — [eplan/partslistgui_d_nummerierungsvorschau.md](docs/eplan/partslistgui_d_nummerierungsvorschau.md)
+          - Вызов диалогового окна:
+    - **Управление ревизиями**
+      - **Основы**
+        - **Управление ревизиями** — [eplan/revisionmgtgui_k_start.md](docs/eplan/revisionmgtgui_k_start.md)
+        - **Управление ревизиями: Принцип** — [eplan/revisionmgtgui_k_prinzip.md](docs/eplan/revisionmgtgui_k_prinzip.md)
+        - **Ревизия областей обработки** — [eplan/revisionmgtgui_k_revteilprojekte.md](docs/eplan/revisionmgtgui_k_revteilprojekte.md)
+        - **Отображение маркеров ревизии** — [eplan/revisionmgtgui_k_markierungen.md](docs/eplan/revisionmgtgui_k_markierungen.md)
+        - **Альтернативная идентификация** — [eplan/revisionmgtgui_k_alternativeidentifizierung.md](docs/eplan/revisionmgtgui_k_alternativeidentifizierung.md)
+      - **Процесс работы**
+        - **Закрыть проекты / области обработки** — [eplan/revisionmgtgui_h_projektabschliessen.md](docs/eplan/revisionmgtgui_h_projektabschliessen.md)
+        - **Закрыть страницы** — [eplan/revisionmgtgui_h_seitenabschliessen.md](docs/eplan/revisionmgtgui_h_seitenabschliessen.md)
+        - **Генерировать ревизию** — [eplan/revisionmgtgui_h_reverzeugen.md](docs/eplan/revisionmgtgui_h_reverzeugen.md)
+        - **Генерировать исходный проект** — [eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md](docs/eplan/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+        - **Сравнить свойства проектов** — [eplan/revisionmgtgui_h_revvergleichen.md](docs/eplan/revisionmgtgui_h_revvergleichen.md)
+        - **Определение настроек сравнения** — [eplan/revisionmgtgui_h_vergleichseinstellungen.md](docs/eplan/revisionmgtgui_h_vergleichseinstellungen.md)
+        - **Отобразить и скрыть маркеры ревизий** — [eplan/revisionmgtgui_h_revmarkierungen_anzeigen.md](docs/eplan/revisionmgtgui_h_revmarkierungen_anzeigen.md)
+        - **Обработать маркер удаления в проектах ревизии** — [eplan/revisionmgtgui_h_loeschzeichenbearbeiten.md](docs/eplan/revisionmgtgui_h_loeschzeichenbearbeiten.md)
+          - Переместить маркеры удаления
+          - Обработать тексты маркеров ревизий
+          - Окончательно удалить объекты
+        - **Удалить маркеры удаления в проектах со сравнением свойств** — [eplan/revisionmgtgui_h_loeschzeichenentfernen.md](docs/eplan/revisionmgtgui_h_loeschzeichenentfernen.md)
+        - **Удалить ревизии** — [eplan/revisionmgtgui_h_revmarkierungenentfernen.md](docs/eplan/revisionmgtgui_h_revmarkierungenentfernen.md)
+          - Удаление ревизий (отслеживание изменений)
+          - Удалить ревизии (Сравнение свойств)
+        - **Восстановить удаленные маркеры ревизий** — [eplan/revisionmgtgui_h_revmarkierungenerzeugen.md](docs/eplan/revisionmgtgui_h_revmarkierungenerzeugen.md)
+        - **Удалить защиту от записи** — [eplan/revisionmgtgui_h_schreibschutzentfernen.md](docs/eplan/revisionmgtgui_h_schreibschutzentfernen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Ревизия (отслеживание изменений)** — [eplan/revisionlogmgtgui_d_einstellungenaenderung.md](docs/eplan/revisionlogmgtgui_d_einstellungenaenderung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Ревизия (сравнение свойств проектов)** — [eplan/revisionmgtgui_d_einstellungen.md](docs/eplan/revisionmgtgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Ревизия (графическое представление)** — [eplan/revisionmgtgui_d_einstellungengrafisch.md](docs/eplan/revisionmgtgui_d_einstellungengrafisch.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Отслеживание изменений (нумерация индекса ревизии)** — [eplan/revisionlogmgtgui_d_einstellungenseitenindex.md](docs/eplan/revisionlogmgtgui_d_einstellungenseitenindex.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Счетчик (нумерация индекса ревизии)** — [eplan/revisionlogmgtgui_d_formatzaehler.md](docs/eplan/revisionlogmgtgui_d_formatzaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация индекса ревизии)** — [eplan/revisionlogmgtgui_d_formattrennzeichen.md](docs/eplan/revisionlogmgtgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать ревизию** — [eplan/revisionlogmgtgui_d_revisionerzeugen.md](docs/eplan/revisionlogmgtgui_d_revisionerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать ревизию** — [eplan/revisionlogmgtgui_d_revauswaehlen.md](docs/eplan/revisionlogmgtgui_d_revauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сгенерировать исходный проект** — [eplan/revisionmgtgui_d_vergleichsprojekterzeugen.md](docs/eplan/revisionmgtgui_d_vergleichsprojekterzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сравнить свойства проектов** — [eplan/revisionmgtgui_d_revvergleichen.md](docs/eplan/revisionmgtgui_d_revvergleichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сравнение свойств проектов** — [eplan/revisionmgtgui_d_vergleichseinstellungen.md](docs/eplan/revisionmgtgui_d_vergleichseinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки структурного идентификатора** — [eplan/revisionmgtcomparegui_d_einstellungenstrukturkennzeichen.md](docs/eplan/revisionmgtcomparegui_d_einstellungenstrukturkennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты сравнения свойств — <Имя проекта>** — [eplan/revisionmgtcomparegui_d_ergebnisseprojektvergleich.md](docs/eplan/revisionmgtcomparegui_d_ergebnisseprojektvergleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Описание изменения страниц** — [eplan/revisionlogmgtgui_d_beschreibungseitenaenderung.md](docs/eplan/revisionlogmgtgui_d_beschreibungseitenaenderung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Закрыть проект" / диалоговое окно "Закрыть область обработки"** — [eplan/revisionlogmgtgui_d_projektabschliessen.md](docs/eplan/revisionlogmgtgui_d_projektabschliessen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать индекс ревизии** — [eplan/revisionlogmgtgui_d_indexauswaehlen.md](docs/eplan/revisionlogmgtgui_d_indexauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать маркеры ревизий** — [eplan/revisionlogmgtgui_d_markierungstexte.md](docs/eplan/revisionlogmgtgui_d_markierungstexte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить ревизию (Отслеживание изменений)** — [eplan/revisionlogmgtgui_d_revisionloeschenaenderung.md](docs/eplan/revisionlogmgtgui_d_revisionloeschenaenderung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить ревизию (Сравнение свойств)** — [eplan/revisionmgtgui_d_revisionloeschenvergleich.md](docs/eplan/revisionmgtgui_d_revisionloeschenvergleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Дополнительно обработать данные ревизии** — [eplan/revisionlogmgtgui_d_revisionsdatennachbearbeiten.md](docs/eplan/revisionlogmgtgui_d_revisionsdatennachbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Маркеры удаления** — [eplan/devicetaggui_r_loeschzeichen.md](docs/eplan/devicetaggui_r_loeschzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удаленные страницы** — [eplan/revisionlogmgtgui_d_geloeschteseiten.md](docs/eplan/revisionlogmgtgui_d_geloeschteseiten.md)
+          - Вызов диалогового окна:
+  - **Управление основными данными**
+    - **Основные данные**
+      - **Основы**
+        - **Основные данные** — [eplan/xmasterdatasettingsgui_k_start.md](docs/eplan/xmasterdatasettingsgui_k_start.md)
+        - **Основные данные: Основные положения** — [eplan/xmasterdatasettingsgui_k_grundlagen.md](docs/eplan/xmasterdatasettingsgui_k_grundlagen.md)
+        - **Основные данные: Архив данных** — [eplan/xmasterdatasettingsgui_k_datenablage.md](docs/eplan/xmasterdatasettingsgui_k_datenablage.md)
+      - **Процесс работы**
+        - **Управление основными данными** — [eplan/xmasterdatasettingsgui_h_stammdatenverwalten.md](docs/eplan/xmasterdatasettingsgui_h_stammdatenverwalten.md)
+        - **Основные данные: Управлять данными изделий** — [eplan/xmasterdatasettingsgui_h_artikeldatenverwalten.md](docs/eplan/xmasterdatasettingsgui_h_artikeldatenverwalten.md)
+        - **Основные данные: Управлять макросами** — [eplan/xmasterdatasettingsgui_h_makrosverwalten.md](docs/eplan/xmasterdatasettingsgui_h_makrosverwalten.md)
+        - **Основные данные: Определить настройки форм** — [eplan/xmasterdatasettingsgui_h_formulareinstellungenfestlegen.md](docs/eplan/xmasterdatasettingsgui_h_formulareinstellungenfestlegen.md)
+        - **Найти и сохранить недостающие основные данные проекта, обновить проекты** — [eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md](docs/eplan/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
+        - **Синхронизировать основные данные** — [eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md](docs/eplan/xmasterdatasettingsgui_h_stammdatenabgleichen.md)
+      - **Ссылка**
+        - **Диалоговое окно Синхронизация основных данных — основные данные системы** — [eplan/modaldialogsdb_d_stammdatenabgleich.md](docs/eplan/modaldialogsdb_d_stammdatenabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Каталоги** — [eplan/modaldialogs_d_einstellungenverzeichnisse.md](docs/eplan/modaldialogs_d_einstellungenverzeichnisse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (проекты, управление)** — [eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md](docs/eplan/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Библиотеки символов** — [eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md](docs/eplan/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+          - Вызов диалогового окна:
+    - **Редактор символов**
+      - **Основы**
+        - **Редактор символов** — [eplan/symboleditorgui_k_start.md](docs/eplan/symboleditorgui_k_start.md)
+        - **Редактор символов: Принцип работы** — [eplan/symboleditorgui_k_arbeitsweise.md](docs/eplan/symboleditorgui_k_arbeitsweise.md)
+      - **Процесс работы**
+        - **Обработать выводы устройства** — [eplan/symboleditorgui_h_anschluessebearbeiten.md](docs/eplan/symboleditorgui_h_anschluessebearbeiten.md)
+        - **Работа с вариантами символов** — [eplan/symboleditorgui_h_mitsymbolvariantenarbeiten.md](docs/eplan/symboleditorgui_h_mitsymbolvariantenarbeiten.md)
+          - Создание вариантов символа
+          - Удаление вариантов символа
+          - Замена вариантов символа
+        - **Создать библиотеки символов** — [eplan/symboleditorgui_h_symbolbibliothekenanlegen.md](docs/eplan/symboleditorgui_h_symbolbibliothekenanlegen.md)
+        - **Обработать библиотеки символов** — [eplan/symboleditorgui_h_symbolbibliothekenbearbeiten.md](docs/eplan/symboleditorgui_h_symbolbibliothekenbearbeiten.md)
+        - **Документировать библиотеки символов** — [eplan/symboleditorgui_h_symbolbibliothekendokumentieren.md](docs/eplan/symboleditorgui_h_symbolbibliothekendokumentieren.md)
+        - **Импортировать / экспортировать библиотеки символов** — [eplan/symboleditorgui_h_symbolbibliothekenimportierenexportieren.md](docs/eplan/symboleditorgui_h_symbolbibliothekenimportierenexportieren.md)
+          - Импорт библиотек символов
+          - Экспорт библиотек символов
+        - **Закрыть библиотеки символов** — [eplan/symboleditorgui_h_symbolbibliothekenschliessen.md](docs/eplan/symboleditorgui_h_symbolbibliothekenschliessen.md)
+        - **Реорганизовать библиотеки символов** — [eplan/symboleditorgui_h_symbibreorganisieren.md](docs/eplan/symboleditorgui_h_symbibreorganisieren.md)
+        - **Создать символы** — [eplan/symboleditorgui_h_symboleanlegen.md](docs/eplan/symboleditorgui_h_symboleanlegen.md)
+        - **Обработать символы** — [eplan/symboleditorgui_h_symbolebearbeiten.md](docs/eplan/symboleditorgui_h_symbolebearbeiten.md)
+        - **Импортировать / экспортировать символы** — [eplan/symboleditorgui_h_symboleimportierenexportieren.md](docs/eplan/symboleditorgui_h_symboleimportierenexportieren.md)
+          - Импорт символов
+          - Экспортировать символы
+        - **Копировать символы** — [eplan/symboleditorgui_h_symbolekopieren.md](docs/eplan/symboleditorgui_h_symbolekopieren.md)
+        - **Масштабировать символы** — [eplan/symboleditorgui_h_symboleskalieren.md](docs/eplan/symboleditorgui_h_symboleskalieren.md)
+        - **Проверить символы** — [eplan/symboleditorgui_h_symbolepruefen.md](docs/eplan/symboleditorgui_h_symbolepruefen.md)
+      - **Ссылка**
+        - **Диалоговое окно Вывод устройства** — [eplan/symboleditorgui_d_anschlusspunkt.md](docs/eplan/symboleditorgui_d_anschlusspunkt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать выводы устройства** — [eplan/symboleditorgui_d_anschlusspunktenummerieren.md](docs/eplan/symboleditorgui_d_anschlusspunktenummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства библиотеки символов <Имя библиотеки>** — [eplan/symboleditorgui_d_symbolbibliothekseigenschaften.md](docs/eplan/symboleditorgui_d_symbolbibliothekseigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства символа — <Имя библиотеки>** — [eplan/symboleditorgui_d_symboleigenschaften.md](docs/eplan/symboleditorgui_d_symboleigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Размещение свойства** — [eplan/symboleditorgui_d_eigenschaftsplatzierung.md](docs/eplan/symboleditorgui_d_eigenschaftsplatzierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Порядок свойств (редактор символов)** — [eplan/symboleditorgui_d_eigenschaftsanordnung.md](docs/eplan/symboleditorgui_d_eigenschaftsanordnung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать порядок свойств** — [eplan/symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md](docs/eplan/symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать и масштабировать библиотеку символов** — [eplan/symboleditorgui_d_symbolbiblskalieren.md](docs/eplan/symboleditorgui_d_symbolbiblskalieren.md)
+          - Вызов диалогового окна:
+    - **Редактор форм и рамок**
+      - **Основы**
+        - **Редактор форм и рамок** — [eplan/formeditorgui_k_start.md](docs/eplan/formeditorgui_k_start.md)
+        - **Структура форм и рамок** — [eplan/formeditorgui_k_grundlagen.md](docs/eplan/formeditorgui_k_grundlagen.md)
+        - **Заполнители в формах и рамках** — [eplan/formeditorgui_k_platzhalter.md](docs/eplan/formeditorgui_k_platzhalter.md)
+        - **Следующие формы** — [eplan/formeditorgui_k_folgeformulare.md](docs/eplan/formeditorgui_k_folgeformulare.md)
+        - **Динамические формы** — [eplan/formeditorgui_k_dynamformulare.md](docs/eplan/formeditorgui_k_dynamformulare.md)
+        - **Подчиненные формы** — [eplan/formeditorgui_k_bedingteformulare.md](docs/eplan/formeditorgui_k_bedingteformulare.md)
+        - **Направление создания отчета форм** — [eplan/formeditorgui_k_auswertungsrichtung.md](docs/eplan/formeditorgui_k_auswertungsrichtung.md)
+        - **Специальные формы**
+          - **Форма для схемы кабельных соединений** — [eplan/formeditorgui_k_kdpformular.md](docs/eplan/formeditorgui_k_kdpformular.md)
+          - **Формуляры для спецификаций клеммников и штекеров** — [eplan/formeditorgui_k_klemmenplan.md](docs/eplan/formeditorgui_k_klemmenplan.md)
+          - **Формы для схем подключения** — [eplan/formeditorgui_k_anschlussplan.md](docs/eplan/formeditorgui_k_anschlussplan.md)
+        - **Нумерация зон по ГОСТу** — [eplan/formeditorgui_k_pfadnummgost.md](docs/eplan/formeditorgui_k_pfadnummgost.md)
+      - **Процесс работы**
+        - **Создать форму** — [eplan/formeditorgui_h_formulareerzeugen.md](docs/eplan/formeditorgui_h_formulareerzeugen.md)
+        - **Обработать формы** — [eplan/formeditorgui_h_formularebearbeiten.md](docs/eplan/formeditorgui_h_formularebearbeiten.md)
+        - **Обработать свойства форм** — [eplan/formeditorgui_h_formulareigenschaftenbearbeiten.md](docs/eplan/formeditorgui_h_formulareigenschaftenbearbeiten.md)
+        - **Копировать формы** — [eplan/formeditorgui_h_formularekopieren.md](docs/eplan/formeditorgui_h_formularekopieren.md)
+        - **Динамическое размещение графики** — [eplan/formeditorgui_h_grafikendynamischplatzieren.md](docs/eplan/formeditorgui_h_grafikendynamischplatzieren.md)
+        - **Проверить формы** — [eplan/formeditorgui_h_formularepruefen.md](docs/eplan/formeditorgui_h_formularepruefen.md)
+        - **Вставить и обработать тексты заполнители** — [eplan/formeditorgui_h_platzhaltertexteeinfuegen.md](docs/eplan/formeditorgui_h_platzhaltertexteeinfuegen.md)
+        - **Генерировать новые заголовки на страницах формы** — [eplan/formeditorgui_h_hauptueberschriftenwiederholen.md](docs/eplan/formeditorgui_h_hauptueberschriftenwiederholen.md)
+        - **Автоматическое указание информации о странице** — [eplan/formeditorgui_h_seiteninfosautomatischvergeben.md](docs/eplan/formeditorgui_h_seiteninfosautomatischvergeben.md)
+        - **Определить общую графику в формах** — [eplan/formeditorgui_h_allggrafikeninformularendefinieren.md](docs/eplan/formeditorgui_h_allggrafikeninformularendefinieren.md)
+        - **Определить графику в зависимости от значений свойств в формах и рамках** — [eplan/formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md](docs/eplan/formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md)
+        - **Определить графику в зависимости от определений функций свойство в формах** — [eplan/formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md](docs/eplan/formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md)
+        - **Вставить графику форм** — [eplan/formeditorgui_h_formulargrafikeneinfuegen.md](docs/eplan/formeditorgui_h_formulargrafikeneinfuegen.md)
+        - **Работа с групповыми спецификациями изделий** — [eplan/formeditorgui_h_artikelsummenstueckliste.md](docs/eplan/formeditorgui_h_artikelsummenstueckliste.md)
+        - **Создать рамку** — [eplan/formeditorgui_h_normblaettererzeugen.md](docs/eplan/formeditorgui_h_normblaettererzeugen.md)
+        - **Обработать рамки** — [eplan/formeditorgui_h_normblaetterbearbeiten.md](docs/eplan/formeditorgui_h_normblaetterbearbeiten.md)
+        - **Обработать свойства рамок** — [eplan/formeditorgui_h_normblatteigenschaftenbearbeiten.md](docs/eplan/formeditorgui_h_normblatteigenschaftenbearbeiten.md)
+        - **Копировать рамки** — [eplan/formeditorgui_h_normblaetterkopieren.md](docs/eplan/formeditorgui_h_normblaetterkopieren.md)
+        - **Вставить и обработать специальные тексты** — [eplan/formeditorgui_h_sondertexteeinfuegen.md](docs/eplan/formeditorgui_h_sondertexteeinfuegen.md)
+        - **Управление выводом текстов-заполнителей и специальных текстов** — [eplan/formeditorgui_h_platzhaltertexteanzeigen.md](docs/eplan/formeditorgui_h_platzhaltertexteanzeigen.md)
+        - **Обновить обозначения столбцов и строк рамок** — [eplan/formeditorgui_h_normblaetterpfadeaktualisieren.md](docs/eplan/formeditorgui_h_normblaetterpfadeaktualisieren.md)
+        - **Удалить и заново разместить нумерацию столбцов и строк** — [eplan/formeditorgui_h_normblaetterpfadeposneuplatzieren.md](docs/eplan/formeditorgui_h_normblaetterpfadeposneuplatzieren.md)
+        - **Документировать формы и рамки** — [eplan/formeditorgui_h_formularedokumentieren.md](docs/eplan/formeditorgui_h_formularedokumentieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Свойства формы — <Имя формы>** — [eplan/formeditorgui_d_formulareigenschaften.md](docs/eplan/formeditorgui_d_formulareigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Тексты заполнителей — <Тип формы>** — [eplan/formeditorgui_d_platzhaltertexteauswahl.md](docs/eplan/formeditorgui_d_platzhaltertexteauswahl.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение (редакторы)** — [eplan/formeditorgui_r_platzierung.md](docs/eplan/formeditorgui_r_platzierung.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+        - **Вкладка Тексты заполнители** — [eplan/formeditorgui_r_platzhaltertexte.md](docs/eplan/formeditorgui_r_platzhaltertexte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Точка вставки следующей формы** — [eplan/formeditorgui_d_folgeformulareinfuegepunkt.md](docs/eplan/formeditorgui_d_folgeformulareinfuegepunkt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат для автоматического описания страниц** — [eplan/formeditorgui_d_formatfuerautomatseitenbeschreibung.md](docs/eplan/formeditorgui_d_formatfuerautomatseitenbeschreibung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение "индекса к графике"** — [eplan/formeditorgui_d_zuordnungindexzugrafik.md](docs/eplan/formeditorgui_d_zuordnungindexzugrafik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение "свойства / значений к графике"** — [eplan/formeditorgui_d_zuordnungeigenschaftwertzugrafik.md](docs/eplan/formeditorgui_d_zuordnungeigenschaftwertzugrafik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение "определения функции к графике"** — [eplan/formeditorgui_d_zuordnungfunktionsdefzugrafik.md](docs/eplan/formeditorgui_d_zuordnungfunktionsdefzugrafik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства для объединения** — [eplan/formeditorgui_d_eigenschaftenzusammenfassen.md](docs/eplan/formeditorgui_d_eigenschaftenzusammenfassen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства рамки — <Имя рамки>** — [eplan/formeditorgui_d_normblatteigenschaften.md](docs/eplan/formeditorgui_d_normblatteigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: свойство** — [eplan/eservicesgui_d_formateigenschaft.md](docs/eplan/eservicesgui_d_formateigenschaft.md)
+          - Вызов диалогового окна (в редакторе форм):
+          - Вызов диалогового окна (генерировать имя файла DXF / DWG):
+        - **Диалоговое окно Соединения** — [eplan/formeditorgui_d_verbindungen.md](docs/eplan/formeditorgui_d_verbindungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Условия** — [eplan/formeditorgui_r_bedingungen.md](docs/eplan/formeditorgui_r_bedingungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Изменение свойства** — [eplan/formeditorgui_d_bedingungen.md](docs/eplan/formeditorgui_d_bedingungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Подчиненные формы** — [eplan/formeditorgui_d_bedingteformulare.md](docs/eplan/formeditorgui_d_bedingteformulare.md)
+          - Вызов диалогового окна:
+    - **Функции формы**
+      - **Основы**
+        - **Функции формы** — [eplan/formularfunction_k_start.md](docs/eplan/formularfunction_k_start.md)
+        - **Функции формы: Динамические текстовые окна** — [eplan/formularfunction_k_dynamictextboxes.md](docs/eplan/formularfunction_k_dynamictextboxes.md)
+        - **Функции формы: Блок выравнивания для заполнителя** — [eplan/formularfunction_k_bboxplaceholder.md](docs/eplan/formularfunction_k_bboxplaceholder.md)
+      - **Процесс работы**
+        - **Вставить фиксированную графику в схемы подключений** — [eplan/formularfunction_h_insfixedgraphicsintoconndiagrams.md](docs/eplan/formularfunction_h_insfixedgraphicsintoconndiagrams.md)
+        - **Вставить вилки соединений и линии кабелей в схемы подключений** — [eplan/formularfunction_h_insforksandcablesintoconndiagrams.md](docs/eplan/formularfunction_h_insforksandcablesintoconndiagrams.md)
+    - **Редактор контура**
+      - **Основные положения**
+        - **Редактор контура** — [eplan/contoureditorgui_k_start.md](docs/eplan/contoureditorgui_k_start.md)
+        - **Редактор контура: Основные положения** — [eplan/contoureditorgui_k_grundlagen.md](docs/eplan/contoureditorgui_k_grundlagen.md)
+        - **Редактор контура: Нулевая точка контура** — [eplan/contoureditorgui_k_nullpunkt.md](docs/eplan/contoureditorgui_k_nullpunkt.md)
+        - **Редактор контура: Логические элементы** — [eplan/contoureditorgui_k_logikelemente.md](docs/eplan/contoureditorgui_k_logikelemente.md)
+      - **Процесс работы**
+        - **Создание контуров** — [eplan/contoureditorgui_h_konturenerzeugen.md](docs/eplan/contoureditorgui_h_konturenerzeugen.md)
+        - **Обработать свойства точек определения контуров** — [eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md](docs/eplan/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+        - **Определить соединительные отверстия для проводов на гребенках для проводов** — [eplan/contoureditorgui_h_durchbrverdrahtungskaemdefinieren.md](docs/eplan/contoureditorgui_h_durchbrverdrahtungskaemdefinieren.md)
+        - **Генерирование и обработка записей данных контура ЧУ** — [eplan/contoureditorgui_h_nckonturdatenbearbeiten.md](docs/eplan/contoureditorgui_h_nckonturdatenbearbeiten.md)
+        - **Обработать контуры** — [eplan/contoureditorgui_h_konturenkopieren.md](docs/eplan/contoureditorgui_h_konturenkopieren.md)
+          - Копирование контуров
+          - Поворачивать контуры
+          - Отобразить контуры зеркально / отобразить зеркально с копией
+        - **Проверка контуров** — [eplan/contoureditorgui_h_konturenpruefen.md](docs/eplan/contoureditorgui_h_konturenpruefen.md)
+        - **Очистить контуры** — [eplan/contoureditorgui_h_konturenbereinigen.md](docs/eplan/contoureditorgui_h_konturenbereinigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Свойства контура - <Название контура>** — [eplan/contoureditorgui_d_kontureigenschaften.md](docs/eplan/contoureditorgui_d_kontureigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Запись данных ЧУ** — [eplan/contoureditorgui_d_ncdatensatz.md](docs/eplan/contoureditorgui_d_ncdatensatz.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Отверстие** — [eplan/contoureditorgui_d_bohrung.md](docs/eplan/contoureditorgui_d_bohrung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные (Точка определения контура)** — [eplan/contoureditorgui_r_daten.md](docs/eplan/contoureditorgui_r_daten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (Точка определения контура)** — [eplan/contoureditorgui_r_anzeige.md](docs/eplan/contoureditorgui_r_anzeige.md)
+          - Вызов диалогового окна:
+    - **Обозначения выводов устройства и буквенные обозначения**
+      - **Основы**
+        - **Собственные обозначения выводов устройства и условные обозначения** — [eplan/fctdeflibdataexchangegui_k_start.md](docs/eplan/fctdeflibdataexchangegui_k_start.md)
+        - **Обозначения и описания выводов устройств** — [eplan/fctdeflibdataexchangegui_k_anschluss.md](docs/eplan/fctdeflibdataexchangegui_k_anschluss.md)
+        - **Наборы буквенных обозначений** — [eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md](docs/eplan/fctdeflibdataexchangegui_k_kennbuchstaben.md)
+      - **Процесс работы**
+        - **Создать собственные обозначения и описания вывода устройства** — [eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md](docs/eplan/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+        - **Создать собственные наборы буквенных обозначений** — [eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md](docs/eplan/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+    - **Управление изделиями**
+      - **Основы**
+        - **База данных изделий** — [eplan/articlesgui_k_start.md](docs/eplan/articlesgui_k_start.md)
+        - **База данных изделий: Основные положения** — [eplan/articlesgui_k_grundlagen.md](docs/eplan/articlesgui_k_grundlagen.md)
+        - **База данных изделий: Управление принадлежностями** — [eplan/articlesgui_k_zubehoerlisten.md](docs/eplan/articlesgui_k_zubehoerlisten.md)
+        - **База данных изделий: Модули** — [eplan/articlesgui_k_module.md](docs/eplan/articlesgui_k_module.md)
+        - **Управление изделиями: Дополнительные части** — [eplan/articlesgui_k_ergaenzungsteile.md](docs/eplan/articlesgui_k_ergaenzungsteile.md)
+        - **Управление изделиями: Перенос старых баз данных изделий** — [eplan/articlesgui_k_migration.md](docs/eplan/articlesgui_k_migration.md)
+      - **Процесс работы**
+        - **Создать изделие** — [eplan/articlesgui_h_artikelerstellen.md](docs/eplan/articlesgui_h_artikelerstellen.md)
+          - Создать варианты
+        - **Копировать изделие и вставить данные** — [eplan/articlesgui_h_artikelkopieren.md](docs/eplan/articlesgui_h_artikelkopieren.md)
+          - Вставить данные
+        - **Создать узлы** — [eplan/articlesgui_h_baugruppenanlegen.md](docs/eplan/articlesgui_h_baugruppenanlegen.md)
+          - Присвоение позиций узла
+        - **Создать модули** — [eplan/articlesgui_h_moduleanlegen.md](docs/eplan/articlesgui_h_moduleanlegen.md)
+          - Присвоение позиций модуля
+          - Вставка модулей в графике
+        - **Создать дополнительные части** — [eplan/articlesgui_h_ergaenzungsteileanlegen.md](docs/eplan/articlesgui_h_ergaenzungsteileanlegen.md)
+        - **Создать список принадлежностей и присвоить его главному изделию** — [eplan/articlesgui_h_zubehoerlisteerstellen.md](docs/eplan/articlesgui_h_zubehoerlisteerstellen.md)
+          - Создание списка принадлежностей
+          - Присвоить список принадлежностей главному изделию
+        - **Создать основные персональные данные** — [eplan/articlesgui_h_kundenerstellen.md](docs/eplan/articlesgui_h_kundenerstellen.md)
+        - **Проверить основные данные изделия** — [eplan/articlesgui_h_artikelstammdatenpruefen.md](docs/eplan/articlesgui_h_artikelstammdatenpruefen.md)
+        - **Экспортировать данные изделий** — [eplan/articlesgui_h_artikelexportieren.md](docs/eplan/articlesgui_h_artikelexportieren.md)
+        - **Импортировать данные изделий** — [eplan/articlesgui_h_artikelimportieren.md](docs/eplan/articlesgui_h_artikelimportieren.md)
+        - **Присвоить шаблоны функций** — [eplan/articlesgui_h_funktionsschablonenzuweisen.md](docs/eplan/articlesgui_h_funktionsschablonenzuweisen.md)
+        - **Управление многоязычными данными изделий** — [eplan/articlesgui_h_mehrsprachigeartikelverwalten.md](docs/eplan/articlesgui_h_mehrsprachigeartikelverwalten.md)
+          - Ручной перевод текстов
+          - Сохранение текстов перевода
+          - Удаление текстов перевода
+          - Импортировать тексты изделий
+        - **Создать конфигурации для представления в виде дерева** — [eplan/articlesgui_h_baumkonfiguration.md](docs/eplan/articlesgui_h_baumkonfiguration.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление изделиями** — [eplan/articlesgui_d_artverw.md](docs/eplan/articlesgui_d_artverw.md)
+          - Вызов диалогового окна:
+        - **Вкладка Информация** — [eplan/articlesgui_r_info.md](docs/eplan/articlesgui_r_info.md)
+          - Вызов диалогового окна:
+        - **Вкладка Сообщения** — [eplan/articlesgui_r_meldungen.md](docs/eplan/articlesgui_r_meldungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Свойства** — [eplan/articlesgui_r_eigenschaften.md](docs/eplan/articlesgui_r_eigenschaften.md)
+          - Вызов диалогового окна:
+          - Уровень иерархии "Общее"
+          - Уровень иерархии "Данные" (для изделий)
+          - Уровень иерархии "Данные" (для списков принадлежностей)
+          - Уровень иерархии "Настройки" (для списков принадлежностей)
+          - Уровень иерархии "Данные" (для размещения принадлежностей)
+          - Уровень иерархии "Данные" (для схем сверления)
+          - Уровень иерархии "Данные" (для схем соединений)
+          - Уровень иерархии "Данные для отчетов"
+          - Уровень иерархии "Документы"
+          - Уровень иерархии "Разделы"
+          - Уровень иерархии "Монтажные данные"
+          - Уровень иерархии "Цены"
+          - Уровень иерархии "Технические данные"
+          - Уровень иерархии "Технические данные" (для сборных шин)
+          - Уровень иерархии "Сертификация"
+        - **Изделия**
+          - **Вкладка Обзор** — [eplan/articlesgui_r_uebersicht.md](docs/eplan/articlesgui_r_uebersicht.md)
+            - Вызов диалогового окна:
+          - **Вкладка Определенные пользователем свойства** — [eplan/articlesgui_r_benutzdefeigenschaften.md](docs/eplan/articlesgui_r_benutzdefeigenschaften.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Произвольн. свойства** — [eplan/articlesgui_d_freieeigenschaften.md](docs/eplan/articlesgui_d_freieeigenschaften.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Перенести произвольные свойства** — [eplan/articlesgui_d_migrationfreieeigenschaften.md](docs/eplan/articlesgui_d_migrationfreieeigenschaften.md)
+            - Вызов диалогового окна:
+          - **Вкладка Шаблоны функций** — [eplan/articlesgui_r_funktionsschablone.md](docs/eplan/articlesgui_r_funktionsschablone.md)
+            - Вызов диалогового окна:
+          - **Вкладка Принадлежности** — [eplan/articlesgui_r_zubehoer.md](docs/eplan/articlesgui_r_zubehoer.md)
+            - Вызов диалогового окна:
+          - **Вкладка Изготовление** — [eplan/articlesgui_r_fertigung.md](docs/eplan/articlesgui_r_fertigung.md)
+            - Вызов диалогового окна:
+          - **Вкладка Параметры, важные с точки зрения безопасности** — [eplan/articlesgui_r_sicherheitskennwerte.md](docs/eplan/articlesgui_r_sicherheitskennwerte.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Вариант применения** — [eplan/articlesgui_d_anwendungsfall.md](docs/eplan/articlesgui_d_anwendungsfall.md)
+            - Вызов диалогового окна:
+          - **Вкладка Заблокированные области** — [eplan/articlesgui_r_sperrflaeche.md](docs/eplan/articlesgui_r_sperrflaeche.md)
+            - Вызов диалогового окна:
+          - **Вкладка Несущие шины** — [eplan/articlesgui_r_tragschienen.md](docs/eplan/articlesgui_r_tragschienen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Двери** — [eplan/articlesgui_r_tueren.md](docs/eplan/articlesgui_r_tueren.md)
+            - Вызов диалогового окна:
+          - **Вкладка Монтажные платы (база данных изделий)** — [eplan/articlesgui_r_montageplatten.md](docs/eplan/articlesgui_r_montageplatten.md)
+            - Вызов диалогового окна:
+          - **Вкладка Узел** — [eplan/articlesgui_r_baugruppe.md](docs/eplan/articlesgui_r_baugruppe.md)
+            - Вызов диалогового окна:
+          - **Вкладка Модуль** — [eplan/articlesgui_r_modul.md](docs/eplan/articlesgui_r_modul.md)
+            - Вызов диалогового окна:
+        - **Список принадлежностей**
+          - **Вкладка Изделия (Список принадлежностей)** — [eplan/articlesgui_r_zubehoerlisteartikel.md](docs/eplan/articlesgui_r_zubehoerlisteartikel.md)
+            - Вызов диалогового окна:
+        - **Размещение принадлежностей**
+          - **Вкладка Размещение (размещение принадлежностей)** — [eplan/articlesgui_r_platzierung.md](docs/eplan/articlesgui_r_platzierung.md)
+            - Вызов диалогового окна:
+        - **Схема сверления**
+          - **Вкладка Монтажные отверстия (схема сверления)** — [eplan/articlesgui_r_durchbrueche.md](docs/eplan/articlesgui_r_durchbrueche.md)
+            - Вызов диалогового окна:
+        - **Схема соединений**
+          - **Вкладка "Выводы устройства" (схема соединений)** — [eplan/articlesgui_r_anschluesse.md](docs/eplan/articlesgui_r_anschluesse.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Конфигурация столбцов** — [eplan/modaldialogsdb_d_schemaspaltenkonfiguration.md](docs/eplan/modaldialogsdb_d_schemaspaltenkonfiguration.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Категория соединения** — [eplan/partsmanagementgui_d_einstanschlussausf.md](docs/eplan/partsmanagementgui_d_einstanschlussausf.md)
+            - Вызов диалогового окна:
+        - **Настройки и прочее**
+          - **Диалоговое окно Настройки: Изделие (пользователь)** — [eplan/partselectiongui_d_datenauswahlbenutzer.md](docs/eplan/partselectiongui_d_datenauswahlbenutzer.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Управление изделиями** — [eplan/partsmanagementgui_d_einstellungenartverw.md](docs/eplan/partsmanagementgui_d_einstellungenartverw.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Сервер SQL - Настройка" / диалоговое окно "Генерировать базу данных сервера SQL"** — [eplan/modaldialogsdb_d_sqlserver.md](docs/eplan/modaldialogsdb_d_sqlserver.md)
+            - Вызов диалогового окна Настройка сервера SQL:
+            - Диалоговое окно Настройка сервера SQL (Управление изделиями):
+            - Вызов диалогового окна Сгенерировать базу данных сервера SQL:
+          - **Диалоговое окно Настройки: Предварительная фильтрация изделий** — [eplan/partsextensiongui_d_artikelvorfilterung.md](docs/eplan/partsextensiongui_d_artikelvorfilterung.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Конфигурация дерева** — [eplan/partsmanagementgui_d_baumkonfiguration.md](docs/eplan/partsmanagementgui_d_baumkonfiguration.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Конфигурация дерева — Главные узлы** — [eplan/partsmanagementgui_d_baumkonfigurationhauptknoten.md](docs/eplan/partsmanagementgui_d_baumkonfigurationhauptknoten.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Вставить данные** — [eplan/articlesgui_d_dateneinfuegen.md](docs/eplan/articlesgui_d_dateneinfuegen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно перемещения базы данных изделий** — [eplan/articlesgui_d_datenbankmigrieren.md](docs/eplan/articlesgui_d_datenbankmigrieren.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Экспортировать записи данных** — [eplan/partsmanagementgui_d_artikelexport.md](docs/eplan/partsmanagementgui_d_artikelexport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Импортировать записи данных** — [eplan/partsmanagementgui_d_artikelimport.md](docs/eplan/partsmanagementgui_d_artikelimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Присвоение поля" / диалоговое окно "Защитить поля" (Управление изделиями)** — [eplan/partsmanagementgui_d_feldzuordnung.md](docs/eplan/partsmanagementgui_d_feldzuordnung.md)
+            - Вызов диалогового окна "Присвоения полей":
+            - Вызов диалогового окна "Защитить поля":
+          - **Диалоговое окно Присвоение VDMA 66413** — [eplan/partsimportsafetyrelatedvaluesgui_d_vdmaimport.md](docs/eplan/partsimportsafetyrelatedvaluesgui_d_vdmaimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Выбрать раздел** — [eplan/partsmanagementgui_d_gewerkauswaehlen.md](docs/eplan/partsmanagementgui_d_gewerkauswaehlen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Загрузить данные изделия** — [eplan/partsimportexportedzgui_d_exporttoestock.md](docs/eplan/partsimportexportedzgui_d_exporttoestock.md)
+            - Вызов диалогового окна:
+    - **Импорт данных изделий по стандарту ECLASS**
+      - **Основы**
+        - **База данных изделий: Импорт данных изделий по стандарту ECLASS** — [eplan/partsimportbmecatgui_k_start.md](docs/eplan/partsimportbmecatgui_k_start.md)
+        - **База данных изделий: Присвоение признаков ECLASS свойствам изделия Eplan** — [eplan/partsimportbmecatgui_k_mappingdetails.md](docs/eplan/partsimportbmecatgui_k_mappingdetails.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Импорт ECLASS** — [eplan/partsimportbmecatgui_d_einstellungeneclass.md](docs/eplan/partsimportbmecatgui_d_einstellungeneclass.md)
+          - Вызов диалогового окна:
+        - **Вкладка Присвоение поля BMEcat** — [eplan/partsimportbmecatgui_r_BMEcatFeldzuordnung.md](docs/eplan/partsimportbmecatgui_r_BMEcatFeldzuordnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Присвоение класса** — [eplan/partsimportbmecatgui_r_klassenzuordnung.md](docs/eplan/partsimportbmecatgui_r_klassenzuordnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Присвоение признака** — [eplan/partsimportbmecatgui_r_Merkmalzuordnung.md](docs/eplan/partsimportbmecatgui_r_Merkmalzuordnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки** — [eplan/partsimportbmecatgui_r_Eigenschaften.md](docs/eplan/partsimportbmecatgui_r_Eigenschaften.md)
+          - Вызов диалогового окна:
+    - **Управление правами**
+      - **Основы**
+        - **Управление правами** — [eplan/uradministration_k_start.md](docs/eplan/uradministration_k_start.md)
+        - **Управление правами: Принцип работы** — [eplan/uradministration_k_prinzip.md](docs/eplan/uradministration_k_prinzip.md)
+        - **Импорт пользователей Windows** — [eplan/uradministration_k_windowsbenutzer.md](docs/eplan/uradministration_k_windowsbenutzer.md)
+      - **Процесс работы**
+        - **Управление пользователями** — [eplan/uradministration_h_benutzer.md](docs/eplan/uradministration_h_benutzer.md)
+          - Создание пользователя
+          - Импорт пользователей из системы Windows
+          - Обработка пользователя
+          - Удаление пользователя
+          - Присвоение пользователей группам
+          - Ввести или изменить пароли
+        - **Управление группами пользователей** — [eplan/uradministration_h_gruppen.md](docs/eplan/uradministration_h_gruppen.md)
+          - Создать группу пользователей
+          - Копировать группу пользователей
+          - Обработать группу пользователей
+          - Удалить группу пользователей
+          - Присвоение группам прав
+        - **Зарегистрировать или поменять пользователя** — [eplan/uradministration_h_benutzerwechseln.md](docs/eplan/uradministration_h_benutzerwechseln.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление правами** — [eplan/uradministration_d_rechte.md](docs/eplan/uradministration_d_rechte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление правами: Пользователь** — [eplan/uradministration_d_benutzer.md](docs/eplan/uradministration_d_benutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление правами: Группы** — [eplan/uradministration_d_gruppe.md](docs/eplan/uradministration_d_gruppe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление правами: Рабочий режим** — [eplan/uradministration_d_arbeitsmodus.md](docs/eplan/uradministration_d_arbeitsmodus.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Регистрация в Eplan** — [eplan/urrightsmanager_d_anmelden.md](docs/eplan/urrightsmanager_d_anmelden.md)
+          - Вызов диалогового окна:
+        - **Изменить пароль диалогового окна** — [eplan/uradministration_d_passwortaendern.md](docs/eplan/uradministration_d_passwortaendern.md)
+          - Вызов диалогового окна:
+  - **Понимание и управление сообщениями**
+    - **Управление сообщениями**
+      - **Основы**
+        - **Управление сообщениями Eplan** — [eplan/msgmanagementgui_k_start.md](docs/eplan/msgmanagementgui_k_start.md)
+        - **Сообщения контрольного прогона: номера сообщений, классы и категории** — [eplan/msgmanagementgui_k_prinzip.md](docs/eplan/msgmanagementgui_k_prinzip.md)
+        - **Контрольные прогоны** — [eplan/msgmanagementgui_k_prueflaufprinzip.md](docs/eplan/msgmanagementgui_k_prueflaufprinzip.md)
+        - **Зависимые от проекта сообщения контрольного прогона для основных данных изделий** — [eplan/msgmanagementgui_k_501projektartikelprueflaeufe.md](docs/eplan/msgmanagementgui_k_501projektartikelprueflaeufe.md)
+      - **Процесс работы**
+        - **Конфигурировать контрольные прогоны** — [eplan/msgmanagementgui_h_konfigurieren.md](docs/eplan/msgmanagementgui_h_konfigurieren.md)
+        - **Проверить проекты** — [eplan/msgmanagementgui_h_prueflauf.md](docs/eplan/msgmanagementgui_h_prueflauf.md)
+        - **Проверить данные проекта в режиме подключения** — [eplan/msgmanagementgui_h_prueflaufonline.md](docs/eplan/msgmanagementgui_h_prueflaufonline.md)
+        - **Просмотреть и обработать сообщения контрольного прогона** — [eplan/msgmanagementgui_h_meldungenansehen.md](docs/eplan/msgmanagementgui_h_meldungenansehen.md)
+        - **Отобразить тексты сообщений в графическом редакторе** — [eplan/msgmanagementgui_h_meldungstexteanzeigen.md](docs/eplan/msgmanagementgui_h_meldungstexteanzeigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Управление сообщениями** — [eplan/xesinspectiongui_d_projekteinstellungen.md](docs/eplan/xesinspectiongui_d_projekteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сообщения и контрольные прогоны** — [eplan/xesinspectiongui_d_einstellungenmeldungen.md](docs/eplan/xesinspectiongui_d_einstellungenmeldungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление сообщениями — <Имя проекта>** — [eplan/msgmanagementgui_d_meldungsverwaltung.md](docs/eplan/msgmanagementgui_d_meldungsverwaltung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Фильтр: Сообщения** — [eplan/msgmanagementgui_d_filter.md](docs/eplan/msgmanagementgui_d_filter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выполнить контр. прогон** — [eplan/xesinspectiongui_d_prueflauf.md](docs/eplan/xesinspectiongui_d_prueflauf.md)
+          - Вызов диалогового окна:
+    - **Сообщения контрольного прогона**
+      - **Сообщения контрольного прогона: Обзор** — [eplan/messages_o_start.md](docs/eplan/messages_o_start.md)
+    - **Системные сообщения** — [eplan/errorhelp_k_start.md](docs/eplan/errorhelp_k_start.md)
+  - **Генерация отчетов и вывод маркировок**
+    - **Отчеты**
+      - **Основы**
+        - **Отчеты** — [eplan/formgeneratorgui_k_start.md](docs/eplan/formgeneratorgui_k_start.md)
+        - **Типы отчетов** — [eplan/formgeneratorgui_k_auswertungstypen.md](docs/eplan/formgeneratorgui_k_auswertungstypen.md)
+        - **Отчеты, относящиеся к функции** — [eplan/formgeneratorgui_k_funktionsbezogen.md](docs/eplan/formgeneratorgui_k_funktionsbezogen.md)
+          - Символы
+          - Клеммы и изделия
+          - Информация электрошкафа
+          - Информация об отверстиях
+          - Выводы устройства ПЛК
+          - Провода / группы соединений
+          - Кабели
+          - Клеммы
+          - Штекеры
+          - Топология: Сегменты маршрутизации
+          - Предварительное планирование
+          - Выводы устройства, ориентированные на устройство
+          - Выводы устройства, ориентированные на кабель
+          - Выводы устройства, ориентированные на клеммники и клеммы
+          - Выводы устройства, ориентированные на штекеры и контакты штекера
+        - **Перечни отчетов** — [eplan/formgeneratorgui_k_auswertungsuebersicht.md](docs/eplan/formgeneratorgui_k_auswertungsuebersicht.md)
+          - Перечень документов
+          - Титульный лист
+          - Ревизии
+          - Устройства
+          - Формы
+          - Кабели
+          - Клеммники
+          - Рамки
+          - Потенциалы
+          - Функциональная схема автоматизации: Трубопроводы
+          - Штекеры
+          - Карты ПЛК
+          - Адреса ПЛК
+          - Структурный идентификатор
+          - Топология: Сегменты маршрутизации
+          - Соединения
+          - Структура кабеля
+          - Опции
+          - Объекты-заполнители
+          - Топология: Маршрутизируемый кабель / соединения
+          - Предварительное планирование
+        - **Страницы отчетов** — [eplan/formgeneratorgui_k_auswertungsseiten.md](docs/eplan/formgeneratorgui_k_auswertungsseiten.md)
+        - **Графические отчеты** — [eplan/formgeneratorgui_k_auswertunggrafisch.md](docs/eplan/formgeneratorgui_k_auswertunggrafisch.md)
+        - **Встроенные отчеты** — [eplan/formgeneratorgui_k_ausgabeformen.md](docs/eplan/formgeneratorgui_k_ausgabeformen.md)
+        - **Сортировка страниц отчетов** — [eplan/formgeneratorgui_k_seitensortierung.md](docs/eplan/formgeneratorgui_k_seitensortierung.md)
+        - **Блоки отчетов** — [eplan/formgeneratorgui_k_auswertungsbloecke.md](docs/eplan/formgeneratorgui_k_auswertungsbloecke.md)
+        - **Шаблоны отчетов** — [eplan/formgeneratorgui_k_auswertungsvorlagen.md](docs/eplan/formgeneratorgui_k_auswertungsvorlagen.md)
+        - **Необновляемые страницы отчета** — [eplan/formgeneratorgui_k_eingefrorseiten.md](docs/eplan/formgeneratorgui_k_eingefrorseiten.md)
+        - **Отчеты из исходных проектов** — [eplan/formgeneratorgui_k_quellprojekt.md](docs/eplan/formgeneratorgui_k_quellprojekt.md)
+          - Исходный проект в отчетах
+          - Исходный проект в свойствах страницы
+          - Временные проекты отчета
+        - **Отчеты с отличающейся формой** — [eplan/formgeneratorgui_k_updatewithformeigenschaft.md](docs/eplan/formgeneratorgui_k_updatewithformeigenschaft.md)
+        - **Сложные устройства в отчетах** — [eplan/formgeneratorgui_k_komplexegeraete.md](docs/eplan/formgeneratorgui_k_komplexegeraete.md)
+      - **Процесс работы**
+        - **Присвоение формы типу отчета** — [eplan/formgeneratorgui_h_auswerten.md](docs/eplan/formgeneratorgui_h_auswerten.md)
+        - **Генерировать шаблон отчета** — [eplan/formgeneratorgui_h_vorlageerstellen.md](docs/eplan/formgeneratorgui_h_vorlageerstellen.md)
+          - Заново создать шаблон отчетов
+          - Создать шаблон отчета из существующего отчета
+          - Создать шаблон отчета для условных отчетов
+        - **Генерация перечня отчетов без шаблона** — [eplan/formgeneratorgui_h_auswerterzeugen.md](docs/eplan/formgeneratorgui_h_auswerterzeugen.md)
+        - **Генерация относящегося к функции отчета без шаблона** — [eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md](docs/eplan/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+        - **Генерация отчета из шаблона** — [eplan/formgeneratorgui_h_auswertungausvorlage.md](docs/eplan/formgeneratorgui_h_auswertungausvorlage.md)
+        - **Размещения отчета на странице вручную** — [eplan/formgeneratorgui_h_auswplatzieren.md](docs/eplan/formgeneratorgui_h_auswplatzieren.md)
+        - **Вывести отчет в другой проект** — [eplan/formgeneratorgui_h_inanderesprojekt.md](docs/eplan/formgeneratorgui_h_inanderesprojekt.md)
+          - Сгенерировать исходный проект в новом шаблоне отчета
+          - Сгенерировать исходный проект для отдельных шаблонов в имеющемся шаблоне отчета
+          - Сгенерировать исходный проект для целого проекта в имеющемся шаблоне отчета
+          - Удалить записанный исходный проект
+        - **Генерация отчета по проекту** — [eplan/formgeneratorgui_h_projektauswerten.md](docs/eplan/formgeneratorgui_h_projektauswerten.md)
+        - **Обновление отчета вручную** — [eplan/formgeneratorgui_h_auswaktualisieren.md](docs/eplan/formgeneratorgui_h_auswaktualisieren.md)
+        - **Автоматическое / не автоматическое обновление отчета** — [eplan/formgeneratorgui_h_automatischaktualisieren.md](docs/eplan/formgeneratorgui_h_automatischaktualisieren.md)
+        - **Фильтровать обновленные измененные страницы отчета** — [eplan/formgeneratorgui_h_geaenderteseitenfiltern.md](docs/eplan/formgeneratorgui_h_geaenderteseitenfiltern.md)
+        - **Удалить страницы отчета** — [eplan/formgeneratorgui_h_auswertungloeschen.md](docs/eplan/formgeneratorgui_h_auswertungloeschen.md)
+        - **Удалить встроенный отчет** — [eplan/formgeneratorgui_h_eingbauswertungloeschen.md](docs/eplan/formgeneratorgui_h_eingbauswertungloeschen.md)
+        - **Закрепить страницы отчета** — [eplan/formgeneratorgui_h_auswerteinfrieren.md](docs/eplan/formgeneratorgui_h_auswerteinfrieren.md)
+        - **Отобразить / фильтровать необновляемые страницы отчета** — [eplan/formgeneratorgui_h_eingefroreneseitenfiltern.md](docs/eplan/formgeneratorgui_h_eingefroreneseitenfiltern.md)
+        - **Экспортировать / импортировать шаблоны отчетов** — [eplan/formgeneratorgui_h_exportimport.md](docs/eplan/formgeneratorgui_h_exportimport.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Вывод в страницах** — [eplan/formgeneratorgui_d_einstellgrafikausgabe.md](docs/eplan/formgeneratorgui_d_einstellgrafikausgabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сортировка страниц – <Тип отчета>** — [eplan/formgeneratorgui_d_seitensortierung.md](docs/eplan/formgeneratorgui_d_seitensortierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Отображение / вывод** — [eplan/formgeneratorgui_d_einstellungenausgabe.md](docs/eplan/formgeneratorgui_d_einstellungenausgabe.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отчеты** — [eplan/formgeneratorgui_d_auswertungen.md](docs/eplan/formgeneratorgui_d_auswertungen.md)
+          - Вызов диалогового окна:
+        - **Вклада Шаблоны** — [eplan/formgeneratorgui_d_vorlagen.md](docs/eplan/formgeneratorgui_d_vorlagen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Определить отчет** — [eplan/formgeneratorgui_d_auswertfestlegen.md](docs/eplan/formgeneratorgui_d_auswertfestlegen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать монтажную плату** — [eplan/formgeneratorgui_d_auswahlmontageplatte.md](docs/eplan/formgeneratorgui_d_auswahlmontageplatte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки — <Тип отчета>** — [eplan/formgeneratorgui_d_grafikausgabe.md](docs/eplan/formgeneratorgui_d_grafikausgabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки — <Тип отчета> (относящийся к функции)** — [eplan/formgeneratorgui_d_filtererweitert.md](docs/eplan/formgeneratorgui_d_filtererweitert.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Сортировка" / диалоговое окно "Новая страница при изменении свойства"** — [eplan/formgeneratorgui_d_sortierung.md](docs/eplan/formgeneratorgui_d_sortierung.md)
+          - Вызов диалогового окна Сортировка:
+          - Вызов диалогового окна 'Новая страница при изменении свойства':
+          - Вызов диалогового окна Новая нумерация при измененном свойстве:
+        - **Диалоговое окно Выбрать вручную** — [eplan/formgeneratorgui_d_auswahl.md](docs/eplan/formgeneratorgui_d_auswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно <Тип отчета>** — [eplan/formgeneratorgui_d_struktur.md](docs/eplan/formgeneratorgui_d_struktur.md)
+          - Вызов диалогового окна:
+    - **Экспорт данных изготовления / Маркировка / Внешние отчеты**
+      - **Основы**
+        - **Экспорт данных изготовления / маркировка** — [eplan/labelgui_k_start.md](docs/eplan/labelgui_k_start.md)
+        - **Внешние отчеты** — [eplan/labelgui_k_externeauswertungen.md](docs/eplan/labelgui_k_externeauswertungen.md)
+        - **Файл экспорта / маркировки / Внешний файл отчетов** — [eplan/labelgui_k_aufbaubeschriftung.md](docs/eplan/labelgui_k_aufbaubeschriftung.md)
+        - **Элементы формата для файла экспорта / маркировки / Внешний файл отчетов** — [eplan/labelgui_k_formatelemente.md](docs/eplan/labelgui_k_formatelemente.md)
+        - **Экспорт данных изготовления / маркировка: Способ действий** — [eplan/labelgui_k_vorgehensweise.md](docs/eplan/labelgui_k_vorgehensweise.md)
+        - **Шаблон Excel для экспорта данных изготовления / маркировки** — [eplan/labelgui_k_excelexportvorlagen.md](docs/eplan/labelgui_k_excelexportvorlagen.md)
+      - **Процесс работы**
+        - **Создать схему экспорта / маркировки** — [eplan/labelgui_h_beschriftungsschema.md](docs/eplan/labelgui_h_beschriftungsschema.md)
+        - **Определить настройки вывода *.txt** — [eplan/labelgui_h_textausgabe.md](docs/eplan/labelgui_h_textausgabe.md)
+        - **Определить настройки вывода Excel** — [eplan/labelgui_h_exceldatei.md](docs/eplan/labelgui_h_exceldatei.md)
+        - **Определить верхний колонтитул, область этикетки и нижний колонтитул** — [eplan/labelgui_h_formatelemfestlegen.md](docs/eplan/labelgui_h_formatelemfestlegen.md)
+        - **Вывести данные изготовления / маркировку** — [eplan/labelgui_h_beschriftungausgeben.md](docs/eplan/labelgui_h_beschriftungausgeben.md)
+      - **Ссылка**
+        - **Диалоговое окно Экспортировать данные изготовления / вывести маркировку** — [eplan/labelgui_d_beschriftungausgabe.md](docs/eplan/labelgui_d_beschriftungausgabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт данных изготовления / маркировка** — [eplan/labelgui_d_beschriftungeinstell.md](docs/eplan/labelgui_d_beschriftungeinstell.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать элементы формата** — [eplan/labelgui_d_formatelementeauswaehlen.md](docs/eplan/labelgui_d_formatelementeauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Тип отчета** — [eplan/labelgui_d_auswertungstyp.md](docs/eplan/labelgui_d_auswertungstyp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Файл** — [eplan/labelgui_r_datei.md](docs/eplan/labelgui_r_datei.md)
+          - Вызов диалогового окна:
+        - **Вкладки Верхний колонтитул / Нижний колонтитул** — [eplan/labelgui_r_kopfzeile.md](docs/eplan/labelgui_r_kopfzeile.md)
+          - Вызов диалогового окна:
+        - **Вкладка Этикетка** — [eplan/labelgui_r_datensatz.md](docs/eplan/labelgui_r_datensatz.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки** — [eplan/labelgui_d_paramartikelauswertung.md](docs/eplan/labelgui_d_paramartikelauswertung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Разделитель** — [eplan/labelgui_d_trennzeichen.md](docs/eplan/labelgui_d_trennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойство — <Тип свойства>** — [eplan/labelgui_d_eigenschaft.md](docs/eplan/labelgui_d_eigenschaft.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Вычисление (экспорт данных изготовления / маркировка)** — [eplan/labelgui_d_format.md](docs/eplan/labelgui_d_format.md)
+          - Вызов диалогового окна:
+  - **Генерация автоматических переводов**
+    - **Словари**
+      - **Основы**
+        - **Словарь** — [eplan/translatedbgui_k_start.md](docs/eplan/translatedbgui_k_start.md)
+        - **Структура ключевых слов** — [eplan/translatedbgui_k_eingabemoeglichkeit.md](docs/eplan/translatedbgui_k_eingabemoeglichkeit.md)
+        - **Зарезервированные специальные символы в ключевых словах** — [eplan/translatedbgui_k_ueberblickzeichen.md](docs/eplan/translatedbgui_k_ueberblickzeichen.md)
+        - **Числа в ключевых словах и текстах** — [eplan/translatedbgui_k_zahlen.md](docs/eplan/translatedbgui_k_zahlen.md)
+      - **Процесс работы**
+        - **Создать / выбрать словарь** — [eplan/translatedbgui_h_woerterbuchanlegen.md](docs/eplan/translatedbgui_h_woerterbuchanlegen.md)
+        - **Создать ключевые слова** — [eplan/translatedbgui_h_stichwortanlegen.md](docs/eplan/translatedbgui_h_stichwortanlegen.md)
+        - **Ввести предложение по разделению** — [eplan/translatedbgui_h_trennvorschlag.md](docs/eplan/translatedbgui_h_trennvorschlag.md)
+        - **Импортировать тексты проекта в словарь** — [eplan/translatedbgui_h_projekttexteimportieren.md](docs/eplan/translatedbgui_h_projekttexteimportieren.md)
+        - **Импортировать тексты изделий в словарь** — [eplan/translatedbgui_h_artikeltexteimportieren.md](docs/eplan/translatedbgui_h_artikeltexteimportieren.md)
+      - **Ссылка**
+        - **Вкладка Управление** — [eplan/translatedbgui_r_verwaltung.md](docs/eplan/translatedbgui_r_verwaltung.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Обработать слова" / вкладка "Выбрать слова"** — [eplan/translatedbgui_r_uebersetzbar.md](docs/eplan/translatedbgui_r_uebersetzbar.md)
+          - Вызов диалогового окна (Обработать слова):
+          - Вызов диалогового окна (Выбрать слова):
+        - **Вкладка Слова не переводить** — [eplan/translatedbgui_r_nichtuebersetzbar.md](docs/eplan/translatedbgui_r_nichtuebersetzbar.md)
+          - Вызов диалогового окна:
+        - **Вкладка Автокоррекция** — [eplan/translatedbgui_r_gesperrtebegriffe.md](docs/eplan/translatedbgui_r_gesperrtebegriffe.md)
+          - Вызов диалогового окна:
+        - **Вкладка / диалоговое окно "Выбрать языки"** — [eplan/translatedbgui_d_sprachewaehlen.md](docs/eplan/translatedbgui_d_sprachewaehlen.md)
+          - Вызов диалогового окна:
+    - **Перевод**
+      - **Основы**
+        - **Автоматический перевод / перевод вручную** — [eplan/translategui_k_start.md](docs/eplan/translategui_k_start.md)
+        - **Многоязычные тексты** — [eplan/translategui_k_mehrsprachigetexte.md](docs/eplan/translategui_k_mehrsprachigetexte.md)
+      - **Процесс работы**
+        - **Определить виды шрифтов для перевода** — [eplan/translategui_h_schriftartfestlegen.md](docs/eplan/translategui_h_schriftartfestlegen.md)
+        - **Переводить тексты и свойства везде / не переводить** — [eplan/translategui_h_textenichtuebersetzen.md](docs/eplan/translategui_h_textenichtuebersetzen.md)
+        - **Переводить типы страниц везде / не переводить** — [eplan/translategui_h_seitennichtuebersetzen.md](docs/eplan/translategui_h_seitennichtuebersetzen.md)
+        - **Определить языки перевода и языки отображения** — [eplan/translategui_h_sprachenwaehlen.md](docs/eplan/translategui_h_sprachenwaehlen.md)
+        - **Включить автокоррекцию для текстов проекта** — [eplan/translategui_h_texteersetzen.md](docs/eplan/translategui_h_texteersetzen.md)
+        - **Переводить во время ввода** — [eplan/translategui_h_onlineuebersetzen.md](docs/eplan/translategui_h_onlineuebersetzen.md)
+        - **Убрать перевод из проекта** — [eplan/translategui_h_entfernenuebersetzung.md](docs/eplan/translategui_h_entfernenuebersetzung.md)
+        - **Экспортировать список отсутствующих слов** — [eplan/translategui_h_fehlwortexport.md](docs/eplan/translategui_h_fehlwortexport.md)
+        - **Импортировать список отсутствующих слов** — [eplan/translategui_h_fehlwortimport.md](docs/eplan/translategui_h_fehlwortimport.md)
+      - **Ссылка**
+        - **Диалоговое окно Тестовый ввод** — [eplan/translategui_d_testeingabe.md](docs/eplan/translategui_d_testeingabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Общее" (проект, перевод) / Вкладка "Общее"** — [eplan/translategui_r_einstellungprojekt.md](docs/eplan/translategui_r_einstellungprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Словарь" / вкладка "Словарь"** — [eplan/translategui_r_einstellungbenutzer.md](docs/eplan/translategui_r_einstellungbenutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: объем" / вкладка "Объем"** — [eplan/translategui_r_einstellungumfang.md](docs/eplan/translategui_r_einstellungumfang.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: переводимые страницы" / вкладка "Переводимые страницы"** — [eplan/translategui_r_einstellungseiten.md](docs/eplan/translategui_r_einstellungseiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Вне зависимости от проекта" / вкладка "Вне зависимости от проекта"** — [eplan/modaldialogs_r_einstellungprojekt.md](docs/eplan/modaldialogs_r_einstellungprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Управление изделиями (переводимые свойства)" / вкладка "Управление изделиями"** — [eplan/translategui_r_artikelverwaltung.md](docs/eplan/translategui_r_artikelverwaltung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Найденные слова** — [eplan/translategui_d_gefundenewoerter.md](docs/eplan/translategui_d_gefundenewoerter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Перевести" / диалоговое окно "Многоязычный ввод"** — [eplan/modaldialogs_d_mehrsprachigeeingabe.md](docs/eplan/modaldialogs_d_mehrsprachigeeingabe.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+  - **Изменение стандартов**
+    - **Изменение стандарта**
+      - **Основы**
+        - **Изменение стандарта** — [eplan/changestandardsgui_k_start.md](docs/eplan/changestandardsgui_k_start.md)
+        - **Замена символов** — [eplan/changestandardsgui_k_symbolaustausch.md](docs/eplan/changestandardsgui_k_symbolaustausch.md)
+        - **Замена рамки** — [eplan/changestandardsgui_k_stammdaten.md](docs/eplan/changestandardsgui_k_stammdaten.md)
+        - **Повернутые страницы / Неповернутые страницы** — [eplan/changestandardsgui_k_seitendrehung.md](docs/eplan/changestandardsgui_k_seitendrehung.md)
+      - **Процесс работы**
+        - **Настроить целевой проект (изменение стандарта)** — [eplan/changestandardsgui_h_projektanpassen.md](docs/eplan/changestandardsgui_h_projektanpassen.md)
+        - **Задать базовый проект и поворот / инверсию (изменение стандарта)** — [eplan/changestandardsgui_h_vorlagefestlegen.md](docs/eplan/changestandardsgui_h_vorlagefestlegen.md)
+        - **Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)** — [eplan/changestandardsgui_h_stammdatenaustauschen.md](docs/eplan/changestandardsgui_h_stammdatenaustauschen.md)
+        - **Заменить библиотеки символов и символы (Изменение стандарта)** — [eplan/changestandardsgui_h_symboletauschen.md](docs/eplan/changestandardsgui_h_symboletauschen.md)
+        - **Создать схему присвоения для символов (Изменение стандарта)** — [eplan/changestandardsgui_h_stammdatenersetzen.md](docs/eplan/changestandardsgui_h_stammdatenersetzen.md)
+        - **Определить структуру проекта (изменение стандарта)** — [eplan/changestandardsgui_h_projektstrukturanpassen.md](docs/eplan/changestandardsgui_h_projektstrukturanpassen.md)
+        - **Определить нумерацию устройств (Изменение стандарта)** — [eplan/changestandardsgui_h_nummerieren.md](docs/eplan/changestandardsgui_h_nummerieren.md)
+      - **Ссылка**
+        - **Вкладка Проект (Изменение стандарта)** — [eplan/changestandardsgui_r_projekt.md](docs/eplan/changestandardsgui_r_projekt.md)
+          - Вызов диалогового окна:
+        - **Вкладка Поворот / инверсия (Изменение стандарта)** — [eplan/changestandardsgui_r_drehenspiegeln.md](docs/eplan/changestandardsgui_r_drehenspiegeln.md)
+          - Вызов диалогового окна:
+        - **Вкладка Основные данные (Изменение стандарта)** — [eplan/changestandardsgui_r_projektstammdaten.md](docs/eplan/changestandardsgui_r_projektstammdaten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Символы (Изменение стандарта)** — [eplan/changestandardsgui_r_symbole.md](docs/eplan/changestandardsgui_r_symbole.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Присвоение символов (Изменение стандарта)** — [eplan/changestandardsgui_d_symboletauschen.md](docs/eplan/changestandardsgui_d_symboletauschen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать исходную / целевую библиотеку символов (Изменение стандарта)** — [eplan/changestandardsgui_d_quellzielbibliothekwaehlen.md](docs/eplan/changestandardsgui_d_quellzielbibliothekwaehlen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Структура (Изменение стандарта)** — [eplan/changestandardsgui_r_struktur.md](docs/eplan/changestandardsgui_r_struktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка Нумерация (Изменение стандарта)** — [eplan/changestandardsgui_r_nummerierung.md](docs/eplan/changestandardsgui_r_nummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Основные данные проекта (Изменение стандарта)** — [eplan/changestandardsgui_d_projektstammdaten.md](docs/eplan/changestandardsgui_d_projektstammdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Символьная схема (Изменение стандарта)** — [eplan/changestandardsgui_d_symbolschema.md](docs/eplan/changestandardsgui_d_symbolschema.md)
+          - Вызов диалогового окна:
+  - **Автоматизировать операции проекта**
+    - **Автоматизированная обработка проектов**
+      - **Основы**
+        - **Автоматизированная обработка проектов** — [eplan/autoprocgui_k_start.md](docs/eplan/autoprocgui_k_start.md)
+        - **Автоматизированные операции** — [eplan/autoprocgui_k_automprojektaktionen.md](docs/eplan/autoprocgui_k_automprojektaktionen.md)
+      - **Процесс работы**
+        - **Создать схемы для автоматизированной обработки** — [eplan/autoprocgui_h_startactions.md](docs/eplan/autoprocgui_h_startactions.md)
+        - **Обработать проект автоматически** — [eplan/autoprocgui_h_protokolldatei.md](docs/eplan/autoprocgui_h_protokolldatei.md)
+        - **Обработать несколько проектов автоматически** — [eplan/autoprocgui_h_ausfuehren.md](docs/eplan/autoprocgui_h_ausfuehren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Автоматизированная обработка** — [eplan/autoprocgui_d_einstellungen.md](docs/eplan/autoprocgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выполнить: Автоматизированная обработка** — [eplan/autoprocgui_d_ausfuehren.md](docs/eplan/autoprocgui_d_ausfuehren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Резервировать данные** — [eplan/autoprocgui_d_datensichern.md](docs/eplan/autoprocgui_d_datensichern.md)
+          - Вызов диалогового окна:
+    - **Параметры командной строки Eplan**
+      - **Основы**
+        - **Параметры командной строки Eplan** — [eplan/commandlinecall_k_start.md](docs/eplan/commandlinecall_k_start.md)
+        - **Обзор общих параметров командной строки Eplan** — [eplan/commandlinecall_k_allgemeineparameter.md](docs/eplan/commandlinecall_k_allgemeineparameter.md)
+    - **Сценарии**
+      - **Основы**
+        - **Сценарии** — [eplan/scripts_k_start.md](docs/eplan/scripts_k_start.md)
+        - **Создание простого сценария** — [eplan/scripts_k_scriptaufbau.md](docs/eplan/scripts_k_scriptaufbau.md)
+        - **Простые сценарии с параметрами** — [eplan/scripts_k_scriptemitparameter.md](docs/eplan/scripts_k_scriptemitparameter.md)
+        - **Простые сценарии с операциями Eplan** — [eplan/scripts_k_scriptemiteplanaktion.md](docs/eplan/scripts_k_scriptemiteplanaktion.md)
+        - **Простые сценарии для настроек** — [eplan/scripts_k_scriptefuereinstellungen.md](docs/eplan/scripts_k_scriptefuereinstellungen.md)
+        - **Атрибуты сценария** — [eplan/scripts_k_attribute.md](docs/eplan/scripts_k_attribute.md)
+        - **Сценарии с новыми операциями** — [eplan/scripts_k_scriptemitneueraktion.md](docs/eplan/scripts_k_scriptemitneueraktion.md)
+      - **Процесс работы**
+        - **Выполнить или загрузить сценарии** — [eplan/scripts_h_scripteausfuehren.md](docs/eplan/scripts_h_scripteausfuehren.md)
+  - **Eplan Pro Panel**
+    - **Трехмерный чертеж монтажных поверхностей**
+      - **Основные положения**
+        - **Трехмерный чертеж монтажных поверхностей с Eplan Pro Panel** — [eplan/cabinetgui_k_start.md](docs/eplan/cabinetgui_k_start.md)
+        - **Трехмерный чертеж монтажных поверхностей: принцип** — [eplan/cabinetgui_k_prinzip.md](docs/eplan/cabinetgui_k_prinzip.md)
+        - **3D-макротехника: принцип** — [eplan/cabinetgui_k_3dmakros.md](docs/eplan/cabinetgui_k_3dmakros.md)
+        - **Логика устройства: Принцип** — [eplan/cabinetgui_k_betriebsmittellogik.md](docs/eplan/cabinetgui_k_betriebsmittellogik.md)
+        - **Исходные точки: Принцип** — [eplan/cabinetgui_k_bezugspunkte.md](docs/eplan/cabinetgui_k_bezugspunkte.md)
+        - **Автоматическая интерпретация: Принцип** — [eplan/cabinetgui_k_schrankinterpretation.md](docs/eplan/cabinetgui_k_schrankinterpretation.md)
+        - **Таблицы для сборочного чертежа: Принцип** — [eplan/cabinetgui_k_auswertungmontageliste.md](docs/eplan/cabinetgui_k_auswertungmontageliste.md)
+        - **Системы сборных шин** — [eplan/cabinetgui_k_sammelschienensystem.md](docs/eplan/cabinetgui_k_sammelschienensystem.md)
+        - **Экспорт и импорт трехмерных графических данных** — [eplan/cabinetgui_k_exportimport3Dgrafikdaten.md](docs/eplan/cabinetgui_k_exportimport3Dgrafikdaten.md)
+        - **Виды пространства листа** — [eplan/cabinetgui_k_bauraumansichten.md](docs/eplan/cabinetgui_k_bauraumansichten.md)
+        - **Навигационный куб** — [eplan/cabinetgui_k_navigationswuerfel.md](docs/eplan/cabinetgui_k_navigationswuerfel.md)
+      - **Процесс работы**
+        - **Работа с пространствами листов**
+          - **Изменить 3-мерный вид пространства листа** — [eplan/cabinetgui_h_bauraumansichten.md](docs/eplan/cabinetgui_h_bauraumansichten.md)
+            - Переместить трехмерную модель в пространстве листа
+            - Изменение масштабируемого фрагмента
+            - Изменение точки наблюдения
+            - Повернуть угол зрения
+            - Упрощенное представление
+            - Изменение цвета фона для трехмерного вида
+            - Отобразить или скрыть отверстия
+          - **Настройка навигационного куба** — [eplan/cabinetgui_h_navigationswuerfeleinstellen.md](docs/eplan/cabinetgui_h_navigationswuerfeleinstellen.md)
+          - **Управление видами пространства листа** — [eplan/cabinetgui_h_bauraumansichtenverwalten.md](docs/eplan/cabinetgui_h_bauraumansichtenverwalten.md)
+            - Сохранение вида пространства листа
+            - Вызов и повторное использование вида пространства листа
+            - Переименование вида пространства листа
+            - Удаление вида пространства листа
+            - Перезапись вида пространства листа
+          - **Экспортировать трехмерные графические данные** — [eplan/cabinetgui_h_exportierenstep.md](docs/eplan/cabinetgui_h_exportierenstep.md)
+          - **Импортировать графические 3D-данные** — [eplan/cabinetgui_h_3dgrafikimportieren.md](docs/eplan/cabinetgui_h_3dgrafikimportieren.md)
+          - **Адаптировать структуру пространства листа** — [eplan/cabinetgui_h_bauraumstrukturanpassen.md](docs/eplan/cabinetgui_h_bauraumstrukturanpassen.md)
+        - **Размещение компонентов**
+          - **Активировать монтажные поверхности** — [eplan/cabinetgui_h_aktivierenautomatisch.md](docs/eplan/cabinetgui_h_aktivierenautomatisch.md)
+            - Автоматическая активация
+            - Прямая активация
+            - Отмена прямой активации
+          - **Разместить электрошкафы** — [eplan/cabinetgui_h_schaltschrankplatzieren.md](docs/eplan/cabinetgui_h_schaltschrankplatzieren.md)
+          - **Разместить монтажные платы** — [eplan/cabinetgui_h_montageplattenplatzieren.md](docs/eplan/cabinetgui_h_montageplattenplatzieren.md)
+          - **Разместить функциональные элементы с переменной длиной** — [eplan/cabinetgui_h_varbtplatzieren.md](docs/eplan/cabinetgui_h_varbtplatzieren.md)
+            - Разместить функциональный элемент с переменной длиной
+            - Разместить функциональный элемент с копированием длины
+            - Разместить функциональный элемент по центру с копированием длины
+          - **Вставить монтажные отверстия** — [eplan/cabinetgui_h_durchbrucheinfuegen.md](docs/eplan/cabinetgui_h_durchbrucheinfuegen.md)
+          - **Нанести на чертеж и изменить запретные зоны для размещения** — [eplan/cabinetgui_h_sperrflaechenzeichnen.md](docs/eplan/cabinetgui_h_sperrflaechenzeichnen.md)
+          - **Начертить и изменить заблокированные для монтажных отверстий области** — [eplan/cabinetgui_h_bohrsperrflaechenzeichnen.md](docs/eplan/cabinetgui_h_bohrsperrflaechenzeichnen.md)
+          - **Разместить устройства** — [eplan/cabinetgui_h_geraetplatzieren.md](docs/eplan/cabinetgui_h_geraetplatzieren.md)
+        - **Выполнить графическую обработку компонентов**
+          - **Дублировать объекты в пространстве листа** — [eplan/cabinetgui_h_objekteduplizieren.md](docs/eplan/cabinetgui_h_objekteduplizieren.md)
+          - **Повернуть объекты вокруг оси** — [eplan/cabinetgui_h_drehenxyz.md](docs/eplan/cabinetgui_h_drehenxyz.md)
+          - **Изменение длины объектов в пространстве листа** — [eplan/cabinetgui_h_laengeaendern.md](docs/eplan/cabinetgui_h_laengeaendern.md)
+            - Изменение длины щелчком клавиши мыши
+            - Изменение длины захватом точки проекции
+            - Изменение длины вводом значения в области ввода данных
+          - **Подогнать функциональные элементы с переменной длиной** — [eplan/cabinetgui_h_einpassen.md](docs/eplan/cabinetgui_h_einpassen.md)
+        - **Обработка логики устройства**
+          - **Объединение объектов в пространстве листа** — [eplan/cabinetgui_h_vereinigen.md](docs/eplan/cabinetgui_h_vereinigen.md)
+          - **Определить монтажную поверхность** — [eplan/cabinetgui_h_montageflaechedefinieren.md](docs/eplan/cabinetgui_h_montageflaechedefinieren.md)
+            - Отдельно определить монтажные поверхности
+            - Определить монтажные поверхности при размещении изделия
+            - Генерирование специфических для типа монтажных поверхностей из определения функций
+          - **Выровнять ось X / Y монтажных поверхностей** — [eplan/cabinetgui_h_xyachseausrichten.md](docs/eplan/cabinetgui_h_xyachseausrichten.md)
+          - **Изменить размер монтажных поверхностей** — [eplan/cabinetgui_h_mfgroesseaendern.md](docs/eplan/cabinetgui_h_mfgroesseaendern.md)
+          - **Определить размер поля монтажных поверхностей** — [eplan/cabinetgui_h_feldgroesseaendern.md](docs/eplan/cabinetgui_h_feldgroesseaendern.md)
+          - **Определить точку захвата** — [eplan/cabinetgui_h_anfasspunktdefinieren.md](docs/eplan/cabinetgui_h_anfasspunktdefinieren.md)
+          - **Определить точку захвата для сгруппированных 3D-объектов** — [eplan/cabinetgui_h_uebergeordnetenanfasspunktdefinieren.md](docs/eplan/cabinetgui_h_uebergeordnetenanfasspunktdefinieren.md)
+          - **Определение точек монтажа** — [eplan/cabinetgui_h_zielmatesdefinieren.md](docs/eplan/cabinetgui_h_zielmatesdefinieren.md)
+          - **Определить линию монтажа** — [eplan/cabinetgui_h_montageliniedefinieren.md](docs/eplan/cabinetgui_h_montageliniedefinieren.md)
+          - **Определить и использовать монтажную сетку** — [eplan/cabinetgui_h_montagerasterdefinieren.md](docs/eplan/cabinetgui_h_montagerasterdefinieren.md)
+            - Использовать монтажную сетку
+          - **Определить и изменить поверхность установки** — [eplan/cabinetgui_h_einbauflaeche.md](docs/eplan/cabinetgui_h_einbauflaeche.md)
+            - Определить поверхность установки
+            - Перевернуть поверхность установки
+            - Переместить поверхность установки
+            - Поворот поверхности установки
+          - **Определить исходную точку** — [eplan/cabinetgui_h_bezugspunktdefinieren.md](docs/eplan/cabinetgui_h_bezugspunktdefinieren.md)
+          - **Представить и перенести логику электрошкафа** — [eplan/cabinetgui_h_schrankinterpretation.md](docs/eplan/cabinetgui_h_schrankinterpretation.md)
+          - **Определить схему соединений в пространстве листа** — [eplan/cabinetgui_h_anschlussdefinieren.md](docs/eplan/cabinetgui_h_anschlussdefinieren.md)
+          - **Перенос локальной схемы соединений в базу данных изделий** — [eplan/cabinetgui_h_anschlussbildnachartvw.md](docs/eplan/cabinetgui_h_anschlussbildnachartvw.md)
+          - **Изменить направление подсоединения** — [eplan/cabinetgui_h_anschlussrichtungaendern.md](docs/eplan/cabinetgui_h_anschlussrichtungaendern.md)
+        - **Использовать вспомогательные опции контроля и позиционирования**
+          - **Работа с сетками в пространстве листа** — [eplan/cabinetgui_h_raster.md](docs/eplan/cabinetgui_h_raster.md)
+          - **Выравнивание элементов по горизонтали / вертикали в пространстве листа** — [eplan/cabinetgui_h_horverausrichten.md](docs/eplan/cabinetgui_h_horverausrichten.md)
+          - **Равномерное распределение элементов в пространстве листа** — [eplan/cabinetgui_h_gleichmaessigverteilen.md](docs/eplan/cabinetgui_h_gleichmaessigverteilen.md)
+            - Равномерно распределить общие трехмерные объекты
+            - Равномерно распределить кабельные каналы
+          - **Выстраивание 3D-размещений изделий в ряд без разрывов** — [eplan/cabinetgui_h_lueckenlosaufreihen.md](docs/eplan/cabinetgui_h_lueckenlosaufreihen.md)
+            - Закрытие промежутков между 3D-размещениями изделий
+            - Упорядочивание 3D-размещения изделий на конце шины
+          - **Использование контроля конфликтов** — [eplan/cabinetgui_h_kollisionskontrolle.md](docs/eplan/cabinetgui_h_kollisionskontrolle.md)
+          - **Отобразить интервалы установки** — [eplan/cabinetgui_h_einbauabstaende.md](docs/eplan/cabinetgui_h_einbauabstaende.md)
+          - **Отображение инструмента для монтажных работ** — [eplan/cabinetgui_h_montagehilfenanzeigen.md](docs/eplan/cabinetgui_h_montagehilfenanzeigen.md)
+          - **Чертить вспомогательные линии** — [eplan/cabinetgui_h_hilfslinienzeichnen.md](docs/eplan/cabinetgui_h_hilfslinienzeichnen.md)
+          - **Использовать предварительный просмотр соединений** — [eplan/cabinetgui_h_verbindungsvorschau.md](docs/eplan/cabinetgui_h_verbindungsvorschau.md)
+          - **Измерение в пространстве листа** — [eplan/cabinetgui_h_messen.md](docs/eplan/cabinetgui_h_messen.md)
+          - **Обновить главные элементы** — [eplan/cabinetgui_h_hauptbauteileaktualisieren.md](docs/eplan/cabinetgui_h_hauptbauteileaktualisieren.md)
+          - **Обновить размещение изделия** — [eplan/cabinetgui_h_artikelabmessungenaktualisieren.md](docs/eplan/cabinetgui_h_artikelabmessungenaktualisieren.md)
+          - **Заменить изделия (электрошкаф)** — [eplan/cabinetgui_h_artikeltauschen.md](docs/eplan/cabinetgui_h_artikeltauschen.md)
+          - **Заменить монтажную поверхность** — [eplan/cabinetgui_h_montageflaechetauschen.md](docs/eplan/cabinetgui_h_montageflaechetauschen.md)
+            - Заменить монтажную поверхность между двумя поверхностями
+            - Заменить монтажную поверхность с предварительным просмотром
+          - **Обработать позицию легенды** — [eplan/cabinetgui_h_legendenpositionbearbeiten.md](docs/eplan/cabinetgui_h_legendenpositionbearbeiten.md)
+        - **Работа с 3D-макросами**
+          - **Создание 3D-макросов** — [eplan/cabinetgui_h_3dmakroerstellen.md](docs/eplan/cabinetgui_h_3dmakroerstellen.md)
+            - Создание 3D-макросов путем сохранения выбранных объектов
+            - Создать 3D-макрос на основе импортированной 3D-графики
+            - Создание 3D-макросов на основе файлов 3D
+            - Генерирование 3D-макросов из проекта макросов
+          - **Разместить 3D-макросы** — [eplan/cabinetgui_h_3dmakroplatzieren.md](docs/eplan/cabinetgui_h_3dmakroplatzieren.md)
+          - **Изменить угол поворота при вставке 3D-макросов** — [eplan/cabinetgui_h_3dmakrodrehwinkelaendern.md](docs/eplan/cabinetgui_h_3dmakrodrehwinkelaendern.md)
+      - **Ссылка**
+        - **Диалоговое окно Пространство листа — <Имя проекта>** — [eplan/cabinetgui_d_navigator.md](docs/eplan/cabinetgui_d_navigator.md)
+          - Вызов диалогового окна навигатора пространства листа:
+          - Вызов диалогового окна для других диалоговых окон с 3D-объектами:
+        - **Диалоговое окно Трехмерный навигатор монтажных поверхностей — <Имя проекта>** — [eplan/cabinetgui_d_navigator3dschaltschrankaufbau.md](docs/eplan/cabinetgui_d_navigator3dschaltschrankaufbau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства (усл. обозначение): Пространство листа** — [eplan/cabinetgui_d_bauraumeigenschaften.md](docs/eplan/cabinetgui_d_bauraumeigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Адаптировать структуру** — [eplan/cabinetgui_d_strukturanpassen.md](docs/eplan/cabinetgui_d_strukturanpassen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Опции размещения** — [eplan/cabinetgui_d_platzieroptionen.md](docs/eplan/cabinetgui_d_platzieroptionen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Монтажная сетка** — [eplan/ged3dmateeditorgui_d_montageraster.md](docs/eplan/ged3dmateeditorgui_d_montageraster.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Точка монтажа" / диалоговое окно "Линия монтажа"** — [eplan/ged3dmateeditorgui_d_montagepunkt_montagelinie.md](docs/eplan/ged3dmateeditorgui_d_montagepunkt_montagelinie.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Точка захвата" / вкладка "Монтажная сетка"** — [eplan/ged3dmateeditorgui_r_anfasspunktmontageraster.md](docs/eplan/ged3dmateeditorgui_r_anfasspunktmontageraster.md)
+          - Вызов диалогового окна:
+        - **Вкладка Логика (точка захвата)** — [eplan/ged3dmateeditorgui_r_anfasspunkt_logik.md](docs/eplan/ged3dmateeditorgui_r_anfasspunkt_logik.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (монтажная сетка)** — [eplan/ged3dmateeditorgui_r_montageraster_format.md](docs/eplan/ged3dmateeditorgui_r_montageraster_format.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Размеры** — [eplan/cabinetgui_d_abmessungen.md](docs/eplan/cabinetgui_d_abmessungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать шаблон интерпретации** — [eplan/cabinetgui_d_musterschrankwaehlen.md](docs/eplan/cabinetgui_d_musterschrankwaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Список соответствия** — [eplan/cabinetgui_d_trefferliste.md](docs/eplan/cabinetgui_d_trefferliste.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение изделия (3D)** — [eplan/devicetaggui_r_artikelplatzierung3d.md](docs/eplan/devicetaggui_r_artikelplatzierung3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (Размещение изделия 3D)** — [eplan/devicetaggui_r_format3d.md](docs/eplan/devicetaggui_r_format3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Схема соединений (Размещение изделия 3D)** — [eplan/devicetaggui_r_anschlussbild.md](docs/eplan/devicetaggui_r_anschlussbild.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (Устройство)** — [eplan/devicetaggui_r_format.md](docs/eplan/devicetaggui_r_format.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размеры (монтажная плата)** — [eplan/devicetaggui_r_abmessung3d.md](docs/eplan/devicetaggui_r_abmessung3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты измерений** — [eplan/gedviewer_d_messergebnis.md](docs/eplan/gedviewer_d_messergebnis.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сохранить как (3D-макрос)** — [eplan/macrosgui_d_speichernunter3d.md](docs/eplan/macrosgui_d_speichernunter3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Виды пространства листа"** — [eplan/insertergui_d_bauraumansichten.md](docs/eplan/insertergui_d_bauraumansichten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 3D-навигационный куб** — [eplan/gedviewer_d_einstellungennavigationswuerfel3d.md](docs/eplan/gedviewer_d_einstellungennavigationswuerfel3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Экспорт STEP" / диалоговое окно "Экспорт VRML" / диалоговое окно "Экспорт IFC" / диалоговое окно "Экспорт JT"** — [eplan/gededit3dgui_d_stepexport.md](docs/eplan/gededit3dgui_d_stepexport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Экспорт STEP" / диалоговое окно "Настройки: Экспорт VRML" / диалоговое окно "Настройки: Экспорт IFC" / диалоговое окно "Настройки: Экспорт JT"** — [eplan/gededit3dgui_d_einstellungenstepexport.md](docs/eplan/gededit3dgui_d_einstellungenstepexport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 3D-импорт** — [eplan/xstepgui_d_einstellungen3dimport.md](docs/eplan/xstepgui_d_einstellungen3dimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Монтажное отверстие <Тип>** — [eplan/cabinetgui_d_durchbrueche.md](docs/eplan/cabinetgui_d_durchbrueche.md)
+          - Вызов диалогового окна:
+    - **Обзоры модели**
+      - **Основы**
+        - **Обзоры модели** — [eplan/gededit3dgui_k_start.md](docs/eplan/gededit3dgui_k_start.md)
+        - **Автоматическая генерация обзоров** — [eplan/gededit3dgui_k_autoansichterstellen.md](docs/eplan/gededit3dgui_k_autoansichterstellen.md)
+        - **Легенды электрошкафа обзоров модели** — [eplan/gededit3dgui_k_legende.md](docs/eplan/gededit3dgui_k_legende.md)
+        - **Автоматическое проставление размеров в обзорах модели, двухмерных отображениях отверстий и развертках шины** — [eplan/gededit3dgui_k_autobemassung.md](docs/eplan/gededit3dgui_k_autobemassung.md)
+      - **Процесс работы**
+        - **Вставить обзоры модели** — [eplan/gededit3dgui_h_bearbeiten.md](docs/eplan/gededit3dgui_h_bearbeiten.md)
+        - **Изменение обзоров модели** — [eplan/gededit3dgui_h_veraendern.md](docs/eplan/gededit3dgui_h_veraendern.md)
+          - Обновление обзора модели
+          - Центрировать содержимое
+          - Переместить содержимое
+        - **Автоматически генерировать страницы с обзорами** — [eplan/gededit3dgui_h_autoansichterstellen.md](docs/eplan/gededit3dgui_h_autoansichterstellen.md)
+        - **Переместить тексты свойств в обзоры модели** — [eplan/gededit3dgui_h_eigenschaftstexteverschieben.md](docs/eplan/gededit3dgui_h_eigenschaftstexteverschieben.md)
+      - **Ссылка**
+        - **Вкладка Вид (обзор модели)** — [eplan/gededit3dgui_r_modell.md](docs/eplan/gededit3dgui_r_modell.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Выбор функциональных элементов** — [eplan/gededit3dgui_d_einstellbauteilauswahl.md](docs/eplan/gededit3dgui_d_einstellbauteilauswahl.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (обзор модели)** — [eplan/gededit3dgui_r_anzeige.md](docs/eplan/gededit3dgui_r_anzeige.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор 3D-объекта** — [eplan/gededit3dgui_d_3dobjektauswahl.md](docs/eplan/gededit3dgui_d_3dobjektauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Отобразить / скрыть 3D-объекты** — [eplan/gededit3dgui_d_3dobjekteeinausblenden.md](docs/eplan/gededit3dgui_d_3dobjekteeinausblenden.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Маркировка** — [eplan/gededit3dgui_d_einstellbeschriftung.md](docs/eplan/gededit3dgui_d_einstellbeschriftung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Обзоры модели — <Имя проекта>" / диалоговое окно "Развертки шины — <Имя проекта>" / диалоговое окно "Отображения отверстий — <Имя проекта>"** — [eplan/gededit3dgui_d_modellansichten.md](docs/eplan/gededit3dgui_d_modellansichten.md)
+          - Вызов диалогового окна (обзоров модели):
+          - Вызов диалогового окна (развертки шины):
+          - Вызов диалогового окна (2D-отображения отверстий):
+        - **Вкладка Шаблоны (диалоговое окно Обзоры модели, Развертки шины, Отображения отверстий)** — [eplan/gededit3dgui_r_vorlagen.md](docs/eplan/gededit3dgui_r_vorlagen.md)
+          - Вызов диалогового окна (обзоров модели):
+          - Вызов диалогового окна (развертки шины):
+          - Вызов диалогового окна (2D-отображения отверстий):
+        - **Диалоговое окно Пронумеровать обзоры** — [eplan/gededit3dgui_d_ansichtennummerieren.md](docs/eplan/gededit3dgui_d_ansichtennummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Автоматическое проставление размеров** — [eplan/gededit3dgui_d_einstellautobemassung.md](docs/eplan/gededit3dgui_d_einstellautobemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Проставление размеров (автоматическое проставление размеров)** — [eplan/gededit3dgui_r_bemassung.md](docs/eplan/gededit3dgui_r_bemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Функциональные элементы (автоматическое проставление размеров)** — [eplan/gededit3dgui_r_bauteile.md](docs/eplan/gededit3dgui_r_bauteile.md)
+          - Вызов диалогового окна:
+    - **Экспорт данных изготовления AutomationML**
+      - **Основы**
+        - **Интерфейс к Rittal - RiPanel Processing Center** — [eplan/amlgui_k_rittalexportestart.md](docs/eplan/amlgui_k_rittalexportestart.md)
+      - **Процесс работы**
+        - **Экспорт данных изготовления для механической обработки электрошкафов в Rittal - RiPanel Processing Center** — [eplan/amlgui_h_rittalripanelprocessingcenterexportieren.md](docs/eplan/amlgui_h_rittalripanelprocessingcenterexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Настройки экспорта: Rittal - RiPanel Processing Center"** — [eplan/amlgui_d_einstellungen_schnittstellen.md](docs/eplan/amlgui_d_einstellungen_schnittstellen.md)
+          - Вызов диалогового окна:
+    - **Данные изготовления для Eplan Smart Production**
+      - **Основы**
+        - **Данные изготовления для Eplan Smart Production** — [eplan/edaexportgui_k_start.md](docs/eplan/edaexportgui_k_start.md)
+      - **Процесс работы**
+        - **Экспорт данных изготовления для Eplan Smart Production** — [eplan/edaexportgui_h_smartproductioncollectiondatenexportieren.md](docs/eplan/edaexportgui_h_smartproductioncollectiondatenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Экспорт Eplan Smart Production** — [eplan/edaexportgui_d_smartproductioncollection.md](docs/eplan/edaexportgui_d_smartproductioncollection.md)
+          - Вызов диалогового окна:
+    - **Экспортировать данные изготовления для механической обработки**
+      - **Основы**
+        - **Генерировать данные изготовления для механической обработки** — [eplan/ncgui_k_start.md](docs/eplan/ncgui_k_start.md)
+        - **Экспорт ЧУ: принцип** — [eplan/ncgui_k_prinzip.md](docs/eplan/ncgui_k_prinzip.md)
+        - **Запись данных ЧУ: принцип** — [eplan/ncgui_k_ncdatensatz.md](docs/eplan/ncgui_k_ncdatensatz.md)
+        - **Исключения при сверлении: принцип** — [eplan/ncgui_k_Bohrausnahmen.md](docs/eplan/ncgui_k_Bohrausnahmen.md)
+        - **2D-отображение отверстий: принцип** — [eplan/ncgui_k_2dbohransicht.md](docs/eplan/ncgui_k_2dbohransicht.md)
+      - **Процесс работы**
+        - **Конфигурировать машину ЧУ** — [eplan/ncgui_h_ncmaschinekonfigurieren.md](docs/eplan/ncgui_h_ncmaschinekonfigurieren.md)
+        - **Экспортировать данные ЧУ** — [eplan/ncgui_h_ncdatenexportieren.md](docs/eplan/ncgui_h_ncdatenexportieren.md)
+        - **Вставить двухмерное отображение отверстий** — [eplan/ncgui_h_2dbohransichterstellen.md](docs/eplan/ncgui_h_2dbohransichterstellen.md)
+        - **Генерировать легенду монтажного отверстия для 2D-отображения отверстий** — [eplan/ncgui_h_durchbruchlegendeanlegen.md](docs/eplan/ncgui_h_durchbruchlegendeanlegen.md)
+      - **Ссылка**
+        - **Экспорт шаблона сверления**
+          - **Диалоговое окно Экспорт шаблона сверления** — [eplan/ncgui_d_exportbohrschablone.md](docs/eplan/ncgui_d_exportbohrschablone.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт шаблона сверления** — [eplan/ncgui_d_einstellungenncbohrschablone.md](docs/eplan/ncgui_d_einstellungenncbohrschablone.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общее (Экспорт шаблона сверления)** — [eplan/ncgui_r_allgemeinbohrschablone.md](docs/eplan/ncgui_r_allgemeinbohrschablone.md)
+            - Вызов диалогового окна:
+          - **Вкладка Маркировка (Экспорт шаблона сверления)** — [eplan/ncgui_r_beschriftungbohrschablone.md](docs/eplan/ncgui_r_beschriftungbohrschablone.md)
+            - Вызов диалогового окна:
+        - **Экспорт Rittal Perforex BC / Secarex**
+          - **Диалоговое окно Экспорт Rittal - Perforex BC / Secarex** — [eplan/ncgui_d_exportkiesling.md](docs/eplan/ncgui_d_exportkiesling.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт Rittal - Perforex BC / Secarex** — [eplan/ncgui_d_einstellungenncexportkiesling.md](docs/eplan/ncgui_d_einstellungenncexportkiesling.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общ. (экспорт Rittal - Perforex BC / Secarex)** — [eplan/ncgui_r_allgemeinexportkiesling.md](docs/eplan/ncgui_r_allgemeinexportkiesling.md)
+            - Вызов диалогового окна:
+          - **Вкладка Инструменты (экспорт Rittal - Perforex ВC / Secarex)** — [eplan/ncgui_r_werkzeuge.md](docs/eplan/ncgui_r_werkzeuge.md)
+            - Экспорт Rittal - Perforex BC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт Rittal - Perforex LC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт ЧУ Steinhauer
+            - Вызов диалогового окна:
+          - **Вкладка Выбор инструмента (экспорт Rittal - Perforex ВC / Secarex)** — [eplan/ncgui_r_werkzeugauswahl.md](docs/eplan/ncgui_r_werkzeugauswahl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Технологические перемычки (экспорт Rittal - Perforex BC / Secarex)** — [eplan/ncgui_r_stegparameter.md](docs/eplan/ncgui_r_stegparameter.md)
+            - Вызов диалогового окна:
+          - **Вкладка "Обозначение поля (экспорт Rittal - Perforex BC / Perforex LC / Secarex)"** — [eplan/ncgui_r_feldbezeichner.md](docs/eplan/ncgui_r_feldbezeichner.md)
+            - Вызов диалогового окна:
+        - **Экспорт Rittal Perforex LC / Secarex**
+          - **Диалоговое окно Экспорт Rittal - Perforex LC / Secarex** — [eplan/ncgui_d_exportkieslinglc.md](docs/eplan/ncgui_d_exportkieslinglc.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт Rittal - Perforex LC / Secarex** — [eplan/ncgui_d_einstellungenncexportkieslinglc.md](docs/eplan/ncgui_d_einstellungenncexportkieslinglc.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общ. (экспорт Rittal - Perforex LC / Secarex)** — [eplan/ncgui_r_allgemeinexportkieslinglc.md](docs/eplan/ncgui_r_allgemeinexportkieslinglc.md)
+            - Вызов диалогового окна:
+          - **Вкладка Инструменты (экспорт Rittal - Perforex LC / Secarex)** — [eplan/ncgui_r_werkzeuge.md](docs/eplan/ncgui_r_werkzeuge.md)
+            - Экспорт Rittal - Perforex BC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт Rittal - Perforex LC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт ЧУ Steinhauer
+            - Вызов диалогового окна:
+          - **Вкладка Выбор инструмента (экспорт Rittal - Perforex LC / Secarex)** — [eplan/ncgui_r_werkzeugauswahl.md](docs/eplan/ncgui_r_werkzeugauswahl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Технологические перемычки (экспорт Rittal - Perforex LC / Secarex)** — [eplan/ncgui_r_stegparameterlc.md](docs/eplan/ncgui_r_stegparameterlc.md)
+            - Вызов диалогового окна:
+        - **Экспорт ЧУ Steinhauer**
+          - **Диалоговое окно Экспорт ЧУ Steinhauer** — [eplan/ncgui_d_exportsteinhauer.md](docs/eplan/ncgui_d_exportsteinhauer.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт ЧУ Steinhauer** — [eplan/ncgui_d_einstellungenncexportsteinhauer.md](docs/eplan/ncgui_d_einstellungenncexportsteinhauer.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общее (экспорт ЧУ Steinhauer)** — [eplan/ncgui_r_allgemeinexportsteinhauer.md](docs/eplan/ncgui_r_allgemeinexportsteinhauer.md)
+            - Вызов диалогового окна:
+          - **Вкладка Инструменты (экспорт ЧУ Steinhauer)** — [eplan/ncgui_r_werkzeuge.md](docs/eplan/ncgui_r_werkzeuge.md)
+            - Экспорт Rittal - Perforex BC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт Rittal - Perforex LC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт ЧУ Steinhauer
+            - Вызов диалогового окна:
+          - **Вкладка Выбор инструмента (экспорт ЧУ Steinhauer)** — [eplan/ncgui_r_werkzeugauswahl.md](docs/eplan/ncgui_r_werkzeugauswahl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Технологические перемычки (экспорт ЧУ Steinhauer)** — [eplan/ncgui_r_stegparameter_steinhauer.md](docs/eplan/ncgui_r_stegparameter_steinhauer.md)
+            - Вызов диалогового окна:
+        - **Экспорт ЧУ DXF**
+          - **Диалоговое окно Экспорт ЧУ DXF** — [eplan/ncgui_d_exportperdxf.md](docs/eplan/ncgui_d_exportperdxf.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт ЧУ — DXF** — [eplan/ncgui_d_einstellungenncexportperdxf.md](docs/eplan/ncgui_d_einstellungenncexportperdxf.md)
+            - Вызов диалогового окна:
+          - **Вкладка DXF общ. (Настройки: Экспорт ЧУ — DXF)** — [eplan/ncgui_r_dxfallgemein.md](docs/eplan/ncgui_r_dxfallgemein.md)
+            - Вызов диалогового окна:
+          - **Вкладка Функциональные элементы (Настройки: Экспорт ЧУ — DXF)** — [eplan/ncgui_r_dxfbauteile.md](docs/eplan/ncgui_r_dxfbauteile.md)
+            - Вызов диалогового окна:
+          - **Вкладка Отверстия (Настройки: Экспорт ЧУ — DXF)** — [eplan/ncgui_r_dxfbohrungen.md](docs/eplan/ncgui_r_dxfbohrungen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Резьба (Настройки: Экспорт ЧУ — DXF)** — [eplan/ncgui_r_dxfgewinde.md](docs/eplan/ncgui_r_dxfgewinde.md)
+            - Вызов диалогового окна:
+          - **Вкладка Контуры (Настройки: Экспорт ЧУ — DXF)** — [eplan/ncgui_r_dxfkonturen.md](docs/eplan/ncgui_r_dxfkonturen.md)
+            - Вызов диалогового окна:
+        - **Вкладка Исключения при сверлении (Экспорт ЧУ для всех машин)** — [eplan/ncgui_r_bohrausnahmen.md](docs/eplan/ncgui_r_bohrausnahmen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Исходная точка** — [eplan/cabinetgui_d_einstellungennullschnitt.md](docs/eplan/cabinetgui_d_einstellungennullschnitt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Отображения отверстий — <Имя проекта>** — [eplan/gededit3dgui_d_2dbohransichten.md](docs/eplan/gededit3dgui_d_2dbohransichten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вид (Отобразить отверстия)** — [eplan/gededit3dgui_r_ansicht2dbohransicht.md](docs/eplan/gededit3dgui_r_ansicht2dbohransicht.md)
+          - Вызов диалогового окна:
+    - **Маршрутизируемые соединения (пространство листа)**
+      - **Основы**
+        - **Маршрутизируемые соединения (пространство листа)** — [eplan/routinggui_k_start.md](docs/eplan/routinggui_k_start.md)
+        - **Маршрутизируемые соединения: Принцип** — [eplan/routinggui_k_prinzip.md](docs/eplan/routinggui_k_prinzip.md)
+        - **Управление маршрутизируемыми соединениями** — [eplan/routinggui_k_verdrahtungsmanager.md](docs/eplan/routinggui_k_verdrahtungsmanager.md)
+        - **Маршрутизируемые соединения: расстояния между сегментами маршрутизации и функциональными элементами** — [eplan/routinggui_k_abstaende.md](docs/eplan/routinggui_k_abstaende.md)
+        - **Принадлежности для маршрутизации: Принцип** — [eplan/routinggui_k_verlegezubehoer.md](docs/eplan/routinggui_k_verlegezubehoer.md)
+        - **Соединения фазовых шин: Принцип** — [eplan/routinggui_k_phasenschienenverbdg.md](docs/eplan/routinggui_k_phasenschienenverbdg.md)
+        - **Маршрутизируемые соединения в системе направляющих для проводов** — [eplan/routinggui_k_verdrahtungssystem.md](docs/eplan/routinggui_k_verdrahtungssystem.md)
+      - **Процесс работы**
+        - **Показать выводы устройства графически** — [eplan/routinggui_h_anschlussansicht.md](docs/eplan/routinggui_h_anschlussansicht.md)
+        - **Вставить сегменты маршрутизации** — [eplan/routinggui_h_streckeeinfuegen.md](docs/eplan/routinggui_h_streckeeinfuegen.md)
+        - **Вставить кривые** — [eplan/routinggui_h_kurveeinfuegen.md](docs/eplan/routinggui_h_kurveeinfuegen.md)
+        - **Вставка новой опорной точки на кривой** — [eplan/routinggui_h_kurveneuerstuetzpunkt.md](docs/eplan/routinggui_h_kurveneuerstuetzpunkt.md)
+        - **Изменить направление кривой** — [eplan/routinggui_h_kurvenverlaufaendern.md](docs/eplan/routinggui_h_kurvenverlaufaendern.md)
+        - **Выровнять направление кривой по касательной** — [eplan/routinggui_h_kurvenverlauftangential.md](docs/eplan/routinggui_h_kurvenverlauftangential.md)
+        - **Вставить и изменить области маршрутизации** — [eplan/routinggui_h_verlegebereicheinfuegen.md](docs/eplan/routinggui_h_verlegebereicheinfuegen.md)
+          - Вставить области маршрутизации
+          - Изменить размер областей маршрутизации
+        - **Вставить и изменить соединительные отверстия для проводов** — [eplan/routinggui_h_verdrahtungsdurchbrucheinfuegen.md](docs/eplan/routinggui_h_verdrahtungsdurchbrucheinfuegen.md)
+        - **Использовать фильтр соединений** — [eplan/routinggui_h_verbindungsfilter.md](docs/eplan/routinggui_h_verbindungsfilter.md)
+        - **Генерировать сеть соединенных сегментов** — [eplan/routinggui_h_streckennetzerzeugen.md](docs/eplan/routinggui_h_streckennetzerzeugen.md)
+        - **Удалить автоматические сегменты маршрутизации** — [eplan/routinggui_h_autostreckenloeschen.md](docs/eplan/routinggui_h_autostreckenloeschen.md)
+        - **Автоматически оптимизировать сети** — [eplan/routinggui_h_netzautooptimieren.md](docs/eplan/routinggui_h_netzautooptimieren.md)
+        - **Оптимизировать сеть вручную** — [eplan/routinggui_h_netzmanuelloptimieren.md](docs/eplan/routinggui_h_netzmanuelloptimieren.md)
+        - **Показать маршрут** — [eplan/routinggui_h_streckenansicht.md](docs/eplan/routinggui_h_streckenansicht.md)
+        - **Выделить сети соединенных сегментов** — [eplan/routinggui_h_streckennetzverfolgung.md](docs/eplan/routinggui_h_streckennetzverfolgung.md)
+        - **Маршрутизировать соединения** — [eplan/routinggui_h_verlegen.md](docs/eplan/routinggui_h_verlegen.md)
+        - **Свободная маршрутизация соединений** — [eplan/routinggui_h_freiverlegen.md](docs/eplan/routinggui_h_freiverlegen.md)
+        - **Вставить маршрутизируемое соединение** — [eplan/routinggui_h_verlegeverbindungeinfuegen.md](docs/eplan/routinggui_h_verlegeverbindungeinfuegen.md)
+        - **Определить вход в сеть соединенных сегментов** — [eplan/routinggui_h_eintrittinsstreckennetz.md](docs/eplan/routinggui_h_eintrittinsstreckennetz.md)
+        - **Изменить маршрутизацию** — [eplan/routinggui_h_verlegewegaendern.md](docs/eplan/routinggui_h_verlegewegaendern.md)
+        - **Отображать степень заполнения** — [eplan/routinggui_h_fuellgradanzeigen.md](docs/eplan/routinggui_h_fuellgradanzeigen.md)
+        - **Объединить соединения** — [eplan/routinggui_h_autobuendeln.md](docs/eplan/routinggui_h_autobuendeln.md)
+        - **Генерировать соединения фазовых шин** — [eplan/routinggui_h_phasenschienenvbdgerzg.md](docs/eplan/routinggui_h_phasenschienenvbdgerzg.md)
+        - **Вставить фазные шины** — [eplan/routinggui_h_phasenschieneneinfg.md](docs/eplan/routinggui_h_phasenschieneneinfg.md)
+      - **Ссылка**
+        - **Диалоговое окно "Диспетчер разводки"** — [eplan/routinggui_d_verdrahtungsmanager.md](docs/eplan/routinggui_d_verdrahtungsmanager.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматически оптимизировать сети** — [eplan/routinggui_d_netzeoptimieren.md](docs/eplan/routinggui_d_netzeoptimieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматически оптимизировать сети: Предв. просмотр результата** — [eplan/routinggui_d_netzeoptimierenvorschau.md](docs/eplan/routinggui_d_netzeoptimierenvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Оптимизировать сеть вручную** — [eplan/routinggui_d_netzmanuelloptimieren.md](docs/eplan/routinggui_d_netzmanuelloptimieren.md)
+          - Вызов диалогового окна:
+        - **Вкладка Обработка концов проводов** — [eplan/connectionsettingsgui_r_einstellungenverbindungsende.md](docs/eplan/connectionsettingsgui_r_einstellungenverbindungsende.md)
+          - Вызов диалогового окна:
+        - **Вкладка Фильтр соединений** — [eplan/connectionsettingsgui_r_einstellungenverbindungsfilter.md](docs/eplan/connectionsettingsgui_r_einstellungenverbindungsfilter.md)
+          - Вызов диалогового окна:
+        - **Вкладка Маршрутизация** — [eplan/connectionsettingsgui_r_einstellungenverlegung.md](docs/eplan/connectionsettingsgui_r_einstellungenverlegung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Общая дополнительная длина** — [eplan/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md](docs/eplan/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Объединить маршрутизируемые соединения** — [eplan/routinggui_d_autobuendeln.md](docs/eplan/routinggui_d_autobuendeln.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Объединить соединения: Предварительный просмотр результата** — [eplan/routinggui_d_verbindungenbuendelnvorschau.md](docs/eplan/routinggui_d_verbindungenbuendelnvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Объединить**
+          - **Диалоговое окно Настройки: Объединить** — [eplan/routinggui_d_einstellungenbuendeln.md](docs/eplan/routinggui_d_einstellungenbuendeln.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Сортировка (Объединить)** — [eplan/routinggui_d_sortierungbuendeln.md](docs/eplan/routinggui_d_sortierungbuendeln.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Новые объединенные провода с измененным значением свойства** — [eplan/routinggui_d_neuesbuendeleigenschaft.md](docs/eplan/routinggui_d_neuesbuendeleigenschaft.md)
+            - Вызов диалогового окна:
+        - **Диалоговое окно Маршрутизируемое соединение** — [eplan/routinggui_d_verlegeverbindung.md](docs/eplan/routinggui_d_verlegeverbindung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Кривая** — [eplan/devicetaggui_r_kurve.md](docs/eplan/devicetaggui_r_kurve.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Изменить направление подсоединения** — [eplan/routinggui_d_verlegerichtungaendern.md](docs/eplan/routinggui_d_verlegerichtungaendern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать соединения фазовых шин** — [eplan/routinggui_d_phasenschienenvbdgerzg.md](docs/eplan/routinggui_d_phasenschienenvbdgerzg.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоить фазную шину** — [eplan/routinggui_d_phasenschienezuweisen.md](docs/eplan/routinggui_d_phasenschienezuweisen.md)
+          - Вызов диалогового окна:
+    - **Генерировать данные изготовления для машин по сборке проводов**
+      - **Основы**
+        - **Генерировать данные изготовления для машин по сборке проводов** — [eplan/productionwiringgui_k_start.md](docs/eplan/productionwiringgui_k_start.md)
+      - **Процесс работы**
+        - **Конфигурировать машину по сборке проводов** — [eplan/productionwiringgui_h_maschinekonfigurieren.md](docs/eplan/productionwiringgui_h_maschinekonfigurieren.md)
+        - **Экспортировать сборку проводов** — [eplan/productionwiringgui_h_drahtdatenexportieren.md](docs/eplan/productionwiringgui_h_drahtdatenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Сборка проводов: <машина>** — [eplan/productionwiringgui_d_exportdrahtdaten.md](docs/eplan/productionwiringgui_d_exportdrahtdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сборка проводов** — [eplan/productionwiringgui_d_einstellungendrahtkonfektionierung.md](docs/eplan/productionwiringgui_d_einstellungendrahtkonfektionierung.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Общие" (сборка проводов)** — [eplan/productionwiringgui_r_allgemein.md](docs/eplan/productionwiringgui_r_allgemein.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Общие" (Komax — Zeta)** — [eplan/productionwiringgui_r_allgemeinkomax.md](docs/eplan/productionwiringgui_r_allgemeinkomax.md)
+          - Вызов диалогового окна:
+        - **Вкладка Обработка концов проводников** — [eplan/productionwiringgui_r_aderendbehandlung.md](docs/eplan/productionwiringgui_r_aderendbehandlung.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Обработка концов проводов" (Komax — Zeta)** — [eplan/productionwiringgui_r_verbindungsendebehandlungkomax.md](docs/eplan/productionwiringgui_r_verbindungsendebehandlungkomax.md)
+          - Вызов диалогового окна:
+        - **Вкладка Машинная команда** — [eplan/productionwiringgui_r_maschinenbefehl.md](docs/eplan/productionwiringgui_r_maschinenbefehl.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Провода" / вкладка "Одиночные жилы"**
+          - **Вкладка "Провода" / вкладка "Одиночные жилы"** — [eplan/productionwiringgui_r_draehte.md](docs/eplan/productionwiringgui_r_draehte.md)
+            - Вызов диалогового окна:
+          - **Вкладка Провода (CadCabel)** — [eplan/productionwiringgui_r_draehtecadcabel.md](docs/eplan/productionwiringgui_r_draehtecadcabel.md)
+            - Вызов диалогового окна:
+          - **Вкладка Провода (Schleuniger)** — [eplan/productionwiringgui_r_draehteschleuniger.md](docs/eplan/productionwiringgui_r_draehteschleuniger.md)
+            - Вызов диалогового окна:
+          - **Вкладка "Одиночные жилы" (Komax — Zeta)** — [eplan/productionwiringgui_r_einzeladernkomax.md](docs/eplan/productionwiringgui_r_einzeladernkomax.md)
+            - Вызов диалогового окна:
+        - **Вкладка Маркировка** — [eplan/productionwiringgui_r_beschriftung.md](docs/eplan/productionwiringgui_r_beschriftung.md)
+          - Вызов диалогового окна:
+          - Обзор наиболее важных элементов диалогового окна для Schleuniger — EASY ProductionServer:
+          - Обзор наиболее важных элементов диалогового окна для Rittal — Wire Terminal WT:
+          - Обзор наиболее важных элементов диалогового окна для Komax — Zeta:
+        - **Вкладка "Настройки" (сборка проводов)**
+          - **Вкладка "Настройки" (сборка проводов)** — [eplan/productionwiringgui_r_einstellungen.md](docs/eplan/productionwiringgui_r_einstellungen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (общая спецификация проводов)** — [eplan/productionwiringgui_r_einstellungenallgemdrahtsl.md](docs/eplan/productionwiringgui_r_einstellungenallgemdrahtsl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (CadCabel)** — [eplan/productionwiringgui_r_einstellungencadcabel.md](docs/eplan/productionwiringgui_r_einstellungencadcabel.md)
+            - Вызов диалогового окна:
+          - **Вкладка "Настройки" (Komax — Zeta)** — [eplan/productionwiringgui_r_einstellungenkomax.md](docs/eplan/productionwiringgui_r_einstellungenkomax.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Metzner)** — [eplan/productionwiringgui_r_einstellungenmetzner.md](docs/eplan/productionwiringgui_r_einstellungenmetzner.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Rittal — Wire Terminal WT)** — [eplan/productionwiringgui_r_einstellungenwireterminal.md](docs/eplan/productionwiringgui_r_einstellungenwireterminal.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Schleuniger)** — [eplan/productionwiringgui_r_einstellungenschleuniger.md](docs/eplan/productionwiringgui_r_einstellungenschleuniger.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Steinhauer PWA)** — [eplan/productionwiringgui_r_einstellungensteinhauerpwa.md](docs/eplan/productionwiringgui_r_einstellungensteinhauerpwa.md)
+            - Вызов диалогового окна:
+        - **Диалоговое окно Вывод: Список удаленных соединений** — [eplan/productionwiringgui_d_ausgabeentfallstueckliste.md](docs/eplan/productionwiringgui_d_ausgabeentfallstueckliste.md)
+          - Вызов диалогового окна:
+    - **Проектирование электрошкафа с медными функциональными элементами**
+      - **Основы**
+        - **Проектирование электрошкафа с медными функциональными элементами** — [eplan/copper_k_start.md](docs/eplan/copper_k_start.md)
+        - **Проектирование электрошкафа с медными функциональными элементами: Принцип работы** — [eplan/copper_k_arbeitsweise.md](docs/eplan/copper_k_arbeitsweise.md)
+        - **Профиль для изогнутых медных шин: Принцип** — [eplan/copper_k_verlaufskontur.md](docs/eplan/copper_k_verlaufskontur.md)
+        - **Медное изделие: Принцип** — [eplan/copper_k_kupferartikel.md](docs/eplan/copper_k_kupferartikel.md)
+        - **Сборная шина (изогнутая): Принцип** — [eplan/copper_k_kupferanschlusselement.md](docs/eplan/copper_k_kupferanschlusselement.md)
+        - **Медный жгут: Принцип** — [eplan/copper_k_kupferstrang.md](docs/eplan/copper_k_kupferstrang.md)
+          - Присвоение к медному жгуту
+          - Отобразить медного жгута
+          - Выбор медного жгута или шины
+          - Удалить медный жгут
+        - **Обработать медный функциональный элемент: Принцип** — [eplan/copper_k_kupferbauteilbearbeiten.md](docs/eplan/copper_k_kupferbauteilbearbeiten.md)
+          - Переместить
+          - Копировать / Вставить / Вырезать / Вставить
+          - Дублировать
+          - Объединить
+        - **Развертка шины: Принцип** — [eplan/copper_k_abwicklung.md](docs/eplan/copper_k_abwicklung.md)
+        - **Медные жгуты в таблицах для сборочного чертежа** — [eplan/copper_k_auswertungmontageliste.md](docs/eplan/copper_k_auswertungmontageliste.md)
+      - **Процесс работы**
+        - **Создать профиль для изогнутых медных шин** — [eplan/copper_h_verlaufskonturerstellen.md](docs/eplan/copper_h_verlaufskonturerstellen.md)
+        - **Определить медное изделие** — [eplan/copper_h_kupferartikeldefinieren.md](docs/eplan/copper_h_kupferartikeldefinieren.md)
+        - **Разместить медную шину** — [eplan/copper_h_kupferschieneplatzieren.md](docs/eplan/copper_h_kupferschieneplatzieren.md)
+        - **Обработать медную шину**
+          - **Обработать медную шину** — [eplan/copper_h_kupferteilbearbeiten.md](docs/eplan/copper_h_kupferteilbearbeiten.md)
+          - **Медная шина: Изменить длину** — [eplan/copper_h_kupferteillaengeaendern.md](docs/eplan/copper_h_kupferteillaengeaendern.md)
+          - **Медная шина: Изменить угол** — [eplan/copper_h_kupferteilwinkelaendern.md](docs/eplan/copper_h_kupferteilwinkelaendern.md)
+          - **Медная шина: Изменить места изгиба** — [eplan/copper_h_kupferteilbiegestelleaendern.md](docs/eplan/copper_h_kupferteilbiegestelleaendern.md)
+          - **Медная шина: Добавить новое место изгиба** — [eplan/copper_h_kupferteilneuebiegestelle.md](docs/eplan/copper_h_kupferteilneuebiegestelle.md)
+        - **Унаследовать схему сверления автоматически или вручную** — [eplan/copper_h_bohrbildvererben.md](docs/eplan/copper_h_bohrbildvererben.md)
+          - Унаследовать схему сверления автоматически
+          - Унаследовать схему сверления вручную
+          - Обновить наследование
+        - **Создать развертку шины** — [eplan/copper_h_kupferabwicklungerstellen.md](docs/eplan/copper_h_kupferabwicklungerstellen.md)
+        - **Экспортировать развертку шины** — [eplan/copper_h_kupferabwicklungexportieren.md](docs/eplan/copper_h_kupferabwicklungexportieren.md)
+      - **Ссылка**
+        - **Настройки: Изгиб шины (Компания)** — [eplan/cabinetgui_d_einstellungenkupferbiegung.md](docs/eplan/cabinetgui_d_einstellungenkupferbiegung.md)
+          - Вызов диалогового окна:
+        - **Настройки: Изгиб шины (пользователь)** — [eplan/cabinetgui_d_einstellungenkupferbiegungbenutzer.md](docs/eplan/cabinetgui_d_einstellungenkupferbiegungbenutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства профиля (медь) - <Имя профиля>** — [eplan/contoureditorgui_d_kontureigenschaften.md](docs/eplan/contoureditorgui_d_kontureigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сборная шина (изогнутая)** — [eplan/cabinetgui_d_sammelschienegebogen.md](docs/eplan/cabinetgui_d_sammelschienegebogen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Медный жгут** — [eplan/devicetaggui_r_kupferstrang.md](docs/eplan/devicetaggui_r_kupferstrang.md)
+          - Вызов диалогового окна:
+        - **Вкладка Сборная шина** — [eplan/devicetaggui_r_sammelschiene.md](docs/eplan/devicetaggui_r_sammelschiene.md)
+          - Вызов диалогового окна:
+        - **Вкладка Места изгиба** — [eplan/devicetaggui_r_biegestellen.md](docs/eplan/devicetaggui_r_biegestellen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вид (развертка)** — [eplan/gededit3dgui_r_ansichtabwicklung.md](docs/eplan/gededit3dgui_r_ansichtabwicklung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Развертки шины - <Имя проекта>** — [eplan/gededit3dgui_d_modellansichten.md](docs/eplan/gededit3dgui_d_modellansichten.md)
+          - Вызов диалогового окна (обзоров модели):
+          - Вызов диалогового окна (развертки шины):
+          - Вызов диалогового окна (2D-отображения отверстий):
+        - **Диалоговое окно Экспорт: ЧУ — медь** — [eplan/ncgui_d_exportkupfernc.md](docs/eplan/ncgui_d_exportkupfernc.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт ЧУ — медь** — [eplan/ncgui_d_einstellungenkupferexportnc.md](docs/eplan/ncgui_d_einstellungenkupferexportnc.md)
+          - Вызов диалогового окна:
+        - **Вкладка Функциональный элемент (Настройки: Экспорт ЧУ — медь)** — [eplan/ncgui_r_bauteilkupferexportnc.md](docs/eplan/ncgui_r_bauteilkupferexportnc.md)
+          - Вызов диалогового окна:
+        - **Вкладка Общие (Настройки: Экспорт ЧУ — медь)** — [eplan/ncgui_r_allgemeinkupferexportnc.md](docs/eplan/ncgui_r_allgemeinkupferexportnc.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт: DXF — медь** — [eplan/ncgui_d_exportkupferdxf.md](docs/eplan/ncgui_d_exportkupferdxf.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт DXF — медь** — [eplan/ncgui_d_einstellungenncexportperdxf.md](docs/eplan/ncgui_d_einstellungenncexportperdxf.md)
+          - Вызов диалогового окна:
+        - **Вкладка DXF общ. (Настройки: Экспорт DXF — медь)** — [eplan/ncgui_r_dxfallgemein.md](docs/eplan/ncgui_r_dxfallgemein.md)
+          - Вызов диалогового окна:
+        - **Вкладка Функциональные элементы (Настройки: Экспорт DXF — медь)** — [eplan/ncgui_r_dxfbauteile.md](docs/eplan/ncgui_r_dxfbauteile.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отверстия (Настройки: Экспорт DXF — медь)** — [eplan/ncgui_r_dxfbohrungen.md](docs/eplan/ncgui_r_dxfbohrungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Резьба (Настройки: Экспорт DXF — медь)** — [eplan/ncgui_r_dxfgewinde.md](docs/eplan/ncgui_r_dxfgewinde.md)
+          - Вызов диалогового окна:
+        - **Вкладка Контуры (Настройки: Экспорт DXF — медь)** — [eplan/ncgui_r_dxfkonturen.md](docs/eplan/ncgui_r_dxfkonturen.md)
+          - Вызов диалогового окна:
+    - **Основные данные для Eplan Pro Panel**
+      - **Импортировать устройства и маршрутизируемые соединения**
+        - **Основы**
+          - **Импортировать в проект устройства и маршрутизируемые соединения** — [eplan/projectprocessinggui_k_start.md](docs/eplan/projectprocessinggui_k_start.md)
+          - **Импортировать в проект устройства и маршрутизируемые соединения: Принцип** — [eplan/projectprocessinggui_k_prinzip.md](docs/eplan/projectprocessinggui_k_prinzip.md)
+            - Главные функции
+            - Клеммы и штекеры
+            - Соединения
+            - Альтернативные присвоения полей для изделий
+        - **Процесс работы**
+          - **Импортировать данные устройств и устройства** — [eplan/projectprocessinggui_h_betriebsmittelimportieren.md](docs/eplan/projectprocessinggui_h_betriebsmittelimportieren.md)
+          - **Импортировать данные соединений и маршрутизируемые соединения** — [eplan/projectprocessinggui_h_verlegeverbindungenimportieren.md](docs/eplan/projectprocessinggui_h_verlegeverbindungenimportieren.md)
+        - **Ссылка**
+          - **Диалоговое окно "Импортировать данные устройств"** — [eplan/projectprocessinggui_d_bmdatenimport.md](docs/eplan/projectprocessinggui_d_bmdatenimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Импортировать данные соединений"** — [eplan/projectprocessinggui_d_verbindungsdatenimport.md](docs/eplan/projectprocessinggui_d_verbindungsdatenimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Выбрать источник данных** — [eplan/projectprocessinggui_d_datenquelleauswaehlen.md](docs/eplan/projectprocessinggui_d_datenquelleauswaehlen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Присвоение поля (импорт устройств / маршрутизируемых соединений)" / диалоговое окно "Настройки: Импорт"** — [eplan/projectprocessinggui_d_feldzuordnung.md](docs/eplan/projectprocessinggui_d_feldzuordnung.md)
+            - Вызов диалогового окна "Присвоения полей":
+            - Вызов диалогового окна Настройки: Импорт:
+          - **Диалоговое окно "Синхронизировать устройства" / диалоговое окно "Синхронизировать маршрутизируемые соединения"** — [eplan/projectprocessinggui_d_abgleich.md](docs/eplan/projectprocessinggui_d_abgleich.md)
+            - Вызов диалогового окна:
+      - **Генерировать схемы сверления**
+        - **Основы**
+          - **Схемы сверления из машинных данных** — [eplan/propanelmasterdata_k_start.md](docs/eplan/propanelmasterdata_k_start.md)
+        - **Процесс работы**
+          - **Генерировать схемы сверления из файлов ЧУ** — [eplan/propanelmasterdata_h_bohrbildausncdaten.md](docs/eplan/propanelmasterdata_h_bohrbildausncdaten.md)
+          - **Вставить границу схемы сверления** — [eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md](docs/eplan/propanelmasterdata_h_bohrbildkasteneinfuegen.md)
+          - **Генерировать схемы сверления из файлов DXF** — [eplan/propanelmasterdata_h_bohrbildausdxfdaten.md](docs/eplan/propanelmasterdata_h_bohrbildausdxfdaten.md)
+          - **Графическое определение схем сверления** — [eplan/propanelmasterdata_h_bohrbildgrafischdefinieren.md](docs/eplan/propanelmasterdata_h_bohrbildgrafischdefinieren.md)
+        - **Ссылка**
+          - **Диалоговое окно Генерировать схемы сверления / контуры** — [eplan/cabinetgui_d_bohrbilderzeugen.md](docs/eplan/cabinetgui_d_bohrbilderzeugen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Граница схемы сверления** — [eplan/cabinetgui_r_bohrbildkasten.md](docs/eplan/cabinetgui_r_bohrbildkasten.md)
+            - Вызов диалогового окна:
+    - **Импорт и экспорт пространства конструкции**
+      - **Основы**
+        - **Импорт и экспорт пространства конструкции** — [eplan/xdesignspaceimportgui_k_start.md](docs/eplan/xdesignspaceimportgui_k_start.md)
+        - **Импорт и экспорт пространства конструкции: Принцип** — [eplan/xdesignspaceimportgui_k_prinzip.md](docs/eplan/xdesignspaceimportgui_k_prinzip.md)
+      - **Процесс работы**
+        - **Импортировать пространство конструкции** — [eplan/xdesignspaceimportgui_h_konstraumimportieren.md](docs/eplan/xdesignspaceimportgui_h_konstraumimportieren.md)
+        - **Экспортировать пространство конструкции** — [eplan/xdesignspaceimportgui_h_konstraumexportieren.md](docs/eplan/xdesignspaceimportgui_h_konstraumexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Импорт пространства конструкции"** — [eplan/xdesignspaceimportgui_d_konstruktionsraumimport.md](docs/eplan/xdesignspaceimportgui_d_konstruktionsraumimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"** — [eplan/xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md](docs/eplan/xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Экспорт пространства конструкции"** — [eplan/xdesignspaceimportgui_d_konstruktionsraumexport.md](docs/eplan/xdesignspaceimportgui_d_konstruktionsraumexport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки: Импорт пространства конструкции** — [eplan/xdesignspaceimportgui_r_einstellungenstepimport.md](docs/eplan/xdesignspaceimportgui_r_einstellungenstepimport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки: Экспорт пространства конструкции** — [eplan/xdesignspaceimportgui_r_einstellungenstepexport.md](docs/eplan/xdesignspaceimportgui_r_einstellungenstepexport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки: Пространство конструкции — Определения функций (импорт)** — [eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md](docs/eplan/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
+          - Вызов диалогового окна:
+    - **Тепловой расчет распределительных устройств**
+      - **Основы**
+        - **Thermal Design Integration** — [eplan/cabinetgui_k_thermischeauslegung.md](docs/eplan/cabinetgui_k_thermischeauslegung.md)
+        - **Виды для теплового расчета** — [eplan/cabinetgui_k_lueftungspfeile.md](docs/eplan/cabinetgui_k_lueftungspfeile.md)
+          - Направления движения воздуха
+          - Области оптимального кондиционирования
+          - Зарезервированные зоны для воздушного потока
+          - Распределение тепловыделения
+        - **Расчет общей мощности потерь на распределительных устройствах** — [eplan/cabinetgui_k_verlustleistung.md](docs/eplan/cabinetgui_k_verlustleistung.md)
+        - **Расчет общей мощности потерь на распределительных устройствах: Принцип** — [eplan/cabinetgui_k_verlustleistungprinzip.md](docs/eplan/cabinetgui_k_verlustleistungprinzip.md)
+      - **Процесс работы**
+        - **Рассчитать общую мощность потерь на распределительных устройствах** — [eplan/cabinetgui_h_verlustleistungberechnen.md](docs/eplan/cabinetgui_h_verlustleistungberechnen.md)
+        - **Определение неравномерного распределения тепловыделения в климатической области** — [eplan/cabinetgui_h_verlustleistungsverteilung.md](docs/eplan/cabinetgui_h_verlustleistungsverteilung.md)
+      - **Ссылка**
+        - **Диалоговое окно "Рассчитать мощность потерь"** — [eplan/cabinetgui_d_verlustleistungberechnen.md](docs/eplan/cabinetgui_d_verlustleistungberechnen.md)
+          - Вызов диалогового окна:
+    - **Расчет общего веса электрошкафов**
+      - **Основы**
+        - **Расчет общего веса электрошкафов** — [eplan/cabinetgui_k_schrankgesamtgewicht.md](docs/eplan/cabinetgui_k_schrankgesamtgewicht.md)
+      - **Процесс работы**
+        - **Рассчитать общий вес электрошкафов** — [eplan/cabinetgui_h_schrankgesamtgewichtberechnen.md](docs/eplan/cabinetgui_h_schrankgesamtgewichtberechnen.md)
+    - **Трубопроводы**
+      - **Основы**
+        - **Трубопроводы в пространстве листа** — [eplan/piping_k_start.md](docs/eplan/piping_k_start.md)
+      - **Процесс работы**
+        - **Свободно маршрутизировать трубопроводы** — [eplan/piping_h_freiverlegen.md](docs/eplan/piping_h_freiverlegen.md)
+        - **Изменить трубопроводы** — [eplan/piping_h_rohrleitungaendern.md](docs/eplan/piping_h_rohrleitungaendern.md)
+        - **Изменить колена труб** — [eplan/piping_h_rohrbogenaendern.md](docs/eplan/piping_h_rohrbogenaendern.md)
+          - Переместить колено трубы / место изгиба
+          - Изменить радиус изгиба
+          - Вставить дополнительное колено трубы
+          - Удалить колено трубы / место изгиба
+        - **Экспортировать трубопровод** — [eplan/piping_h_rohrleitungexportieren.md](docs/eplan/piping_h_rohrleitungexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Экспорт изгибания труб** — [eplan/ncgui_d_einstellungenrohrbiegung.md](docs/eplan/ncgui_d_einstellungenrohrbiegung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт изгибания труб** — [eplan/ncgui_d_exportpipefab.md](docs/eplan/ncgui_d_exportpipefab.md)
+          - Вызов диалогового окна:
+  - **Eplan Preplanning**
+    - **Предварительное планирование**
+      - **Основы**
+        - **Предварительное планирование** — [eplan/planninggui_k_start.md](docs/eplan/planninggui_k_start.md)
+        - **Предварительное планирование: Принцип** — [eplan/planninggui_k_prinzip.md](docs/eplan/planninggui_k_prinzip.md)
+        - **Технологические контуры в предварительном планировании** — [eplan/planninggui_k_pltstellen.md](docs/eplan/planninggui_k_pltstellen.md)
+          - Номера технологического контура
+          - Представление технологических контуров по стандарту DIN EN 62424
+        - **Объекты планирования, соединения** — [eplan/planninggui_k_verbindungsvorplanung.md](docs/eplan/planninggui_k_verbindungsvorplanung.md)
+        - **Предварительное планирование: Порядок действий** — [eplan/planninggui_k_vorgehensweise.md](docs/eplan/planninggui_k_vorgehensweise.md)
+        - **Предварительное планирование: Нумерация ОУ** — [eplan/planninggui_k_bmknummerierung.md](docs/eplan/planninggui_k_bmknummerierung.md)
+        - **Графическое предварительное планирование** — [eplan/planninggui_k_grafischevorplanung.md](docs/eplan/planninggui_k_grafischevorplanung.md)
+        - **Перекрестные ссылки в графическом предварительном планировании и на функциональной схеме автоматизации** — [eplan/planninggui_k_querverweise.md](docs/eplan/planninggui_k_querverweise.md)
+        - **Создание подробного планирования из макросов** — [eplan/planninggui_k_grafikausmakros.md](docs/eplan/planninggui_k_grafikausmakros.md)
+        - **Расширение предварительного планирования графическими представлениями и функциональными схемами автоматизации** — [eplan/planninggui_k_vorplanungerweitern.md](docs/eplan/planninggui_k_vorplanungerweitern.md)
+        - **Предварительное планирование: Устройства ПЛК** — [eplan/planninggui_k_spsdaten.md](docs/eplan/planninggui_k_spsdaten.md)
+        - **Шаблоны сегментов** — [eplan/planninggui_k_segmentvorlagen.md](docs/eplan/planninggui_k_segmentvorlagen.md)
+        - **Шаблоны для классов трубы и веществ** — [eplan/planninggui_k_rohrleitungsvorlagen.md](docs/eplan/planninggui_k_rohrleitungsvorlagen.md)
+        - **Защищенные сегменты** — [eplan/planninggui_k_geschuetztesegmente.md](docs/eplan/planninggui_k_geschuetztesegmente.md)
+        - **Предварительное планирование: Связи** — [eplan/planninggui_k_verknuepfungen.md](docs/eplan/planninggui_k_verknuepfungen.md)
+        - **Предварительное планирование: Отчеты** — [eplan/planninggui_k_auswertungen.md](docs/eplan/planninggui_k_auswertungen.md)
+        - **Предварительное планирование: Монтажные чертежи** — [eplan/planninggui_k_montageanordnungen.md](docs/eplan/planninggui_k_montageanordnungen.md)
+        - **Автоматизация зданий** — [eplan/planninggui_k_gebaeudeautomation.md](docs/eplan/planninggui_k_gebaeudeautomation.md)
+      - **Процесс работы**
+        - **Создание и обработка сегментов структуры** — [eplan/planninggui_h_struktursegmenteerstlbearb.md](docs/eplan/planninggui_h_struktursegmenteerstlbearb.md)
+        - **Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)** — [eplan/planninggui_h_planungsobjekteerstellen.md](docs/eplan/planninggui_h_planungsobjekteerstellen.md)
+        - **Создание объектов планирования в качестве устройств** — [eplan/planninggui_h_planungsobjektmitartikel.md](docs/eplan/planninggui_h_planungsobjektmitartikel.md)
+        - **Создание связей в предварительном планировании** — [eplan/planninggui_h_verknuepfungenerstellen.md](docs/eplan/planninggui_h_verknuepfungenerstellen.md)
+        - **Отобразить связи с объектами планирования соединений** — [eplan/planninggui_h_verknuepfungenanzeigen.md](docs/eplan/planninggui_h_verknuepfungenanzeigen.md)
+        - **Создание и вставка макросов предварительного планирования** — [eplan/planninggui_h_vorplanmakroserstl.md](docs/eplan/planninggui_h_vorplanmakroserstl.md)
+        - **Размещение шаблонов функций и адресов ПЛК объектов планирования** — [eplan/planninggui_h_objekteplatzieren.md](docs/eplan/planninggui_h_objekteplatzieren.md)
+        - **Назначить сегменты / объекты** — [eplan/planninggui_h_objektezuweisen.md](docs/eplan/planninggui_h_objektezuweisen.md)
+        - **Создание графического предварительного планирования** — [eplan/planninggui_h_grafvorplanungerstellen.md](docs/eplan/planninggui_h_grafvorplanungerstellen.md)
+          - Вставить новые сегменты
+          - Вставить новые объекты планирования (соединения)
+          - Размеcтить имеющиеся сегменты
+          - Разместить имеющиеся объекты планирования (соединения)
+        - **Создать подробное планирование путем перетаскивания мышью** — [eplan/planninggui_h_makrosdragdrop.md](docs/eplan/planninggui_h_makrosdragdrop.md)
+        - **Соединить сегменты со страницами** — [eplan/planninggui_h_seitenzuordnen.md](docs/eplan/planninggui_h_seitenzuordnen.md)
+        - **Синхронизировать изделия предварительного планирования с детальным планированием** — [eplan/planninggui_h_artikelabgleichen.md](docs/eplan/planninggui_h_artikelabgleichen.md)
+        - **Создать шаблоны сегментов** — [eplan/planninggui_h_segmentvorlageeerstellen.md](docs/eplan/planninggui_h_segmentvorlageeerstellen.md)
+        - **Присвоить шаблоны сегментов** — [eplan/planninggui_h_segmentvorlagezuordnen.md](docs/eplan/planninggui_h_segmentvorlagezuordnen.md)
+        - **Создать и обработать классы трубы и вещества** — [eplan/planninggui_h_rohrklasseerstellen.md](docs/eplan/planninggui_h_rohrklasseerstellen.md)
+        - **Предварительно определить сокращенные буквенные обозначения для функций обработки** — [eplan/planninggui_h_verfunktionvordef.md](docs/eplan/planninggui_h_verfunktionvordef.md)
+        - **Установить однозначность номеров ТК** — [eplan/planninggui_h_gueltigkeitfestlegen.md](docs/eplan/planninggui_h_gueltigkeitfestlegen.md)
+        - **Подготовка таблицы Excel для импорта (предварительное планирование)** — [eplan/planninggui_h_excelimportvorbereiten.md](docs/eplan/planninggui_h_excelimportvorbereiten.md)
+        - **Импортировать данные предварительного планирования** — [eplan/planninggui_h_importvorplanung.md](docs/eplan/planninggui_h_importvorplanung.md)
+        - **Вывести монтажные чертежи для объектов планирования** — [eplan/planninggui_h_montageanordnungenausgeben.md](docs/eplan/planninggui_h_montageanordnungenausgeben.md)
+      - **Ссылка**
+        - **Диалоговое окно Предварительное планирование — <Имя проекта>** — [eplan/planninggui_d_navigator.md](docs/eplan/planninggui_d_navigator.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Шаблоны сегментов — <Имя проекта>** — [eplan/planninggui_d_vorlagennavigator.md](docs/eplan/planninggui_d_vorlagennavigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка <Отображаемое имя сегмента структуры>** — [eplan/planninggui_r_struktursegment.md](docs/eplan/planninggui_r_struktursegment.md)
+          - Вызов диалогового окна:
+        - **Вкладка <Отображаемое имя объекта планирования>** — [eplan/planninggui_r_planungsobjekt.md](docs/eplan/planninggui_r_planungsobjekt.md)
+          - Вызов диалогового окна:
+        - **Вкладка <Отображаемое имя объекта планирования (трубопровода)>** — [eplan/planninggui_r_rohrleitungsobjekt.md](docs/eplan/planninggui_r_rohrleitungsobjekt.md)
+          - Вызов диалогового окна:
+        - **Вкладка "<Технологический контур>" / вкладка "<Функция ТК>"** — [eplan/planninggui_r_messverbraucherstelle.md](docs/eplan/planninggui_r_messverbraucherstelle.md)
+          - Вызов диалогового окна:
+        - **Вкладка ПЛК** — [eplan/planninggui_r_sps.md](docs/eplan/planninggui_r_sps.md)
+          - Вызов диалогового окна:
+        - **Вкладка Документы / страницы** — [eplan/planninggui_r_dokumente.md](docs/eplan/planninggui_r_dokumente.md)
+          - Вызов диалогового окна:
+        - **Вкладка Макрос** — [eplan/planninggui_r_makro.md](docs/eplan/planninggui_r_makro.md)
+          - Вызов диалогового окна:
+        - **Вкладка Шаблоны** — [eplan/planninggui_r_schablonen.md](docs/eplan/planninggui_r_schablonen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфигурировать определения сегментов — <Имя проекта>** — [eplan/planninggui_d_konfigsegmentdef.md](docs/eplan/planninggui_d_konfigsegmentdef.md)
+          - Вызов диалогового окна:
+        - **Вкладка Шаблон сегмента** — [eplan/planninggui_r_segmentvorlage.md](docs/eplan/planninggui_r_segmentvorlage.md)
+          - Вызов диалогового окна:
+        - **Вкладка "<Отображаемое имя класса трубы>" / вкладка "<Отображаемое имя вещества>"** — [eplan/planninggui_r_rohrklassestoff.md](docs/eplan/planninggui_r_rohrklassestoff.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать данные предварительного планирования — <Имя проекта>** — [eplan/planninggui_d_importvorplanung.md](docs/eplan/planninggui_d_importvorplanung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Выбрать источник данных" (предварительное планирование, импорт Excel)** — [eplan/planninggui_d_datenquelleexcel.md](docs/eplan/planninggui_d_datenquelleexcel.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать источник данных (предварительное планирование, импорт текстовых файлов)** — [eplan/planninggui_d_datenquelletext.md](docs/eplan/planninggui_d_datenquelletext.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение полей (предварительное планирование)** — [eplan/planninggui_d_feldzuordnung.md](docs/eplan/planninggui_d_feldzuordnung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать данные предварительного планирования** — [eplan/planninggui_d_importabgleich.md](docs/eplan/planninggui_d_importabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обновить детальное планирование** — [eplan/planninggui_d_detailplanungaktualisieren.md](docs/eplan/planninggui_d_detailplanungaktualisieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общее (предварительное планирование)** — [eplan/planninggui_d_einstellallgemein.md](docs/eplan/planninggui_d_einstellallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумерация / Технологические контуры** — [eplan/planninggui_d_einstellpltstellen.md](docs/eplan/planninggui_d_einstellpltstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Функциональные признаки приборов** — [eplan/planninggui_d_einstellverarbeitfunktion.md](docs/eplan/planninggui_d_einstellverarbeitfunktion.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Глубина предварительного планирования** — [eplan/planninggui_d_einstellplanungstiefe.md](docs/eplan/planninggui_d_einstellplanungstiefe.md)
+          - Вызов диалогового окна:
+    - **Функциональные схемы автоматизации в предварительном планировании**
+      - **Основы**
+        - **Функциональные схемы автоматизации в предварительном планировании** — [eplan/planningri_k_start.md](docs/eplan/planningri_k_start.md)
+        - **Технологические контуры / функции ТК на функциональной схеме автоматизации** — [eplan/planningri_k_risymbole.md](docs/eplan/planningri_k_risymbole.md)
+        - **Сегменты структуры на функциональной схеме автоматизации** — [eplan/planningri_k_struktursegmente.md](docs/eplan/planningri_k_struktursegmente.md)
+        - **Определения трубопровода на функциональной схеме автоматизации** — [eplan/planningri_k_rdp.md](docs/eplan/planningri_k_rdp.md)
+        - **Передача данных трубопровода** — [eplan/planningri_k_rohrleitungsdaten.md](docs/eplan/planningri_k_rohrleitungsdaten.md)
+        - **Ответвления для трубопроводов** — [eplan/planningri_k_rohrleitungen.md](docs/eplan/planningri_k_rohrleitungen.md)
+        - **Резервуары и выводы резервуара на функциональной схеме автоматизации** — [eplan/planningri_k_rifliessbild.md](docs/eplan/planningri_k_rifliessbild.md)
+      - **Процесс работы**
+        - **Присвоение типа ТК (уст./реал.) технологическому контуру / функции ТК** — [eplan/planningri_h_plttypzuordnen.md](docs/eplan/planningri_h_plttypzuordnen.md)
+        - **Разместить технологический контур / функцию ТК** — [eplan/planningri_h_pltobjektplatzieren.md](docs/eplan/planningri_h_pltobjektplatzieren.md)
+        - **Определить трубопроводы на функциональной схеме автоматизации** — [eplan/planningri_h_rohrleitungdefinieren.md](docs/eplan/planningri_h_rohrleitungdefinieren.md)
+        - **Выделить и обработать трассу трубопровода** — [eplan/planningri_h_rohrleitungmarkieren.md](docs/eplan/planningri_h_rohrleitungmarkieren.md)
+        - **Вставить прерывания для трубопроводов** — [eplan/planningri_h_rohrleitungunterbrechen.md](docs/eplan/planningri_h_rohrleitungunterbrechen.md)
+        - **Выделить цветом условное обозначение и трубопровод со связанными сегментами на функциональной схеме автоматизации** — [eplan/planningri_h_objekteeinfaerben.md](docs/eplan/planningri_h_objekteeinfaerben.md)
+        - **Вставить марос окна с данными функциональных схем автоматизации** — [eplan/planningri_h_makroeinfuegen.md](docs/eplan/planningri_h_makroeinfuegen.md)
+        - **Определение свойств блока для технологического контура / функции ТК** — [eplan/planningri_h_blockeigenschaft.md](docs/eplan/planningri_h_blockeigenschaft.md)
+      - **Ссылка**
+        - **Диалоговое окно Трубопроводы - <Имя проекта> ** — [eplan/potentialbrowsergui_d_rohrleitungen.md](docs/eplan/potentialbrowsergui_d_rohrleitungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение трубопровода** — [eplan/devicetaggui_r_rohrleitungsdp.md](docs/eplan/devicetaggui_r_rohrleitungsdp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные символа (технологические контуры / функции ТК)** — [eplan/planninggui_r_risymbol.md](docs/eplan/planninggui_r_risymbol.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать структуру** — [eplan/planninggui_d_strukturauswahl.md](docs/eplan/planninggui_d_strukturauswahl.md)
+          - Вызов диалогового окна:
+    - **Предв. планирование соединений**
+      - **Основы**
+        - **Предв. планирование соединений** — [eplan/planningconnections_k_start.md](docs/eplan/planningconnections_k_start.md)
+      - **Процесс работы**
+        - **Автоматически генерировать функции с помощью схемы нумерации** — [eplan/navigatorgui_h_mehrerfunktionerzeugen.md](docs/eplan/navigatorgui_h_mehrerfunktionerzeugen.md)
+        - **Сгенерировать неразмещенные соединения** — [eplan/planningconnections_h_createconnections.md](docs/eplan/planningconnections_h_createconnections.md)
+        - **Разместить подсоединенные функции** — [eplan/planningconnections_h_platzieren.md](docs/eplan/planningconnections_h_platzieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Подключить устройства** — [eplan/xesconnectdevicegui_d_geraeteverschalten.md](docs/eplan/xesconnectdevicegui_d_geraeteverschalten.md)
+          - Вызов диалогового окна:
+  - **Eplan View**
+    - **Проекты**
+      - **Проекты: Основы**
+        - **Проекты: Принцип** — [eplan/projects_k_prinzip.md](docs/eplan/projects_k_prinzip.md)
+      - **Проекты: Процесс работы**
+        - **Восстановить проекты** — [eplan/bakrestoredlggui_h_projektewiederherstellen.md](docs/eplan/bakrestoredlggui_h_projektewiederherstellen.md)
+          - Восстановление проектов (вид Backstage)
+          - Восстановление проектов (управление проектами)
+      - **Проекты: Ссылка**
+        - **Диалоговое окно Резервировать проекты** — [eplan/bakbackupdlggui_d_projektesichern.md](docs/eplan/bakbackupdlggui_d_projektesichern.md)
+          - Вызов диалогового окна "Резервировать проекты":
+          - Вызов диалогового окна "Создать базовый проект":
+        - **Диалоговое окно Восстановить проекты** — [eplan/bakrestoredlggui_d_projektewiederherstellen.md](docs/eplan/bakrestoredlggui_d_projektewiederherstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Содержимое файла резервирования** — [eplan/bakrestoredlggui_d_inhaltsicherungsdatei.md](docs/eplan/bakrestoredlggui_d_inhaltsicherungsdatei.md)
+          - Вызов диалогового окна:
+        - **Вкладка Свойства** — [eplan/prjmanagementgui_r_eigenschaften.md](docs/eplan/prjmanagementgui_r_eigenschaften.md)
+          - Вызов диалогового окна:
+        - **Вкладка Статистика** — [eplan/prjmanagementgui_r_statisitk.md](docs/eplan/prjmanagementgui_r_statisitk.md)
+          - Вызов диалогового окна:
+        - **Вкладка Структура** — [eplan/prjmanagementgui_r_struktur.md](docs/eplan/prjmanagementgui_r_struktur.md)
+          - Вызов диалогового окна:
+    - **Управление страницами**
+      - **Навигатор страниц**
+        - **Навигатор страниц: Основы**
+          - **Представление страниц проекта** — [eplan/pagebrowsergui_k_prinzip.md](docs/eplan/pagebrowsergui_k_prinzip.md)
+          - **Типы страниц** — [eplan/pagebrowsergui_k_seitentypen.md](docs/eplan/pagebrowsergui_k_seitentypen.md)
+        - **Навигатор страниц: Процесс работы**
+          - **Открытие и закрытие страниц** — [eplan/pagebrowsergui_h_seitenoeffnen.md](docs/eplan/pagebrowsergui_h_seitenoeffnen.md)
+          - **Вывод предварительного отображения графики** — [eplan/pagebrowsergui_h_seitenvorschau.md](docs/eplan/pagebrowsergui_h_seitenvorschau.md)
+          - **Настройка фильтра страниц** — [eplan/pagebrowsergui_k_filter.md](docs/eplan/pagebrowsergui_k_filter.md)
+        - **Навигатор страниц: Ссылка**
+          - **Диалоговое окно Страницы — <Имя проекта>** — [eplan/pagebrowsergui_d_seitenuebersicht.md](docs/eplan/pagebrowsergui_d_seitenuebersicht.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Свойства страницы / Новая страница** — [eplan/pagebrowsergui_d_seiteneigenschaften.md](docs/eplan/pagebrowsergui_d_seiteneigenschaften.md)
+            - Вызов диалогового окна:
+      - **Интерфейс DXF/DWG**
+        - **Интерфейс DXF/DWG: Процесс работы**
+          - **Экспортировать страницы в формате DXF / DWG** — [eplan/xdxfgui_h_seitendxfexportieren.md](docs/eplan/xdxfgui_h_seitendxfexportieren.md)
+        - **Интерфейс DXF/DWG: Ссылка**
+          - **Диалоговое окно Экспорт DXF / DWG / Экспорт графических файлов** — [eplan/modaldialogsdb_d_export.md](docs/eplan/modaldialogsdb_d_export.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт и импорт DXF / DWG** — [eplan/xdxfgui_d_einstellungen.md](docs/eplan/xdxfgui_d_einstellungen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Экспорт** — [eplan/xdxfgui_r_export.md](docs/eplan/xdxfgui_r_export.md)
+            - Вызов диалогового окна:
+          - **Вкладка Слои** — [eplan/xdxfgui_r_ebenen.md](docs/eplan/xdxfgui_r_ebenen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Цвета** — [eplan/xdxfgui_r_farben.md](docs/eplan/xdxfgui_r_farben.md)
+            - Вызов диалогового окна:
+          - **Вкладка Виды шрифтов** — [eplan/xdxfgui_r_schriftarten.md](docs/eplan/xdxfgui_r_schriftarten.md)
+            - Вызов диалогового окна:
+          - **Вкладка Типы линий** — [eplan/xdxfgui_r_linientypen.md](docs/eplan/xdxfgui_r_linientypen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Определение блока** — [eplan/xdxfgui_r_blockdefinition.md](docs/eplan/xdxfgui_r_blockdefinition.md)
+            - Вызов диалогового окна:
+          - **Вкладка Атрибут блока** — [eplan/xdxfgui_r_blockattribut.md](docs/eplan/xdxfgui_r_blockattribut.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Определение атрибута** — [eplan/xdxfgui_d_attributdefinition.md](docs/eplan/xdxfgui_d_attributdefinition.md)
+            - Вызов диалогового окна:
+      - **Экспорт графических файлов**
+        - **Основы**
+          - **Экспорт графических файлов** — [eplan/gedgraphicexportgui_k_start.md](docs/eplan/gedgraphicexportgui_k_start.md)
+        - **Процесс работы**
+          - **Вывести страницы в виде графических файлов** — [eplan/gedgraphicexportgui_h_seitenexportieren.md](docs/eplan/gedgraphicexportgui_h_seitenexportieren.md)
+        - **Ссылка**
+          - **Диалоговое окно Настройки: Экспорт графических файлов** — [eplan/gedgraphicexportgui_d_exporteinstellungen.md](docs/eplan/gedgraphicexportgui_d_exporteinstellungen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Экспорт графических файлов** — [eplan/modaldialogsdb_d_export.md](docs/eplan/modaldialogsdb_d_export.md)
+            - Вызов диалогового окна:
+      - **Печать**
+        - **Основы**
+          - **Печать** — [eplan/printgui_k_start.md](docs/eplan/printgui_k_start.md)
+          - **Печать: Принцип** — [eplan/printgui_k_prinzip.md](docs/eplan/printgui_k_prinzip.md)
+        - **Процесс работы**
+          - **Печать страниц** — [eplan/printgui_h_drucken.md](docs/eplan/printgui_h_drucken.md)
+          - **Печать присоединенных документов** — [eplan/printgui_h_begleitdokumente.md](docs/eplan/printgui_h_begleitdokumente.md)
+        - **Ссылка**
+          - **Диалоговое окно Печать** — [eplan/printgui_d_drucken.md](docs/eplan/printgui_d_drucken.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Печать** — [eplan/printgui_d_druckoptionen.md](docs/eplan/printgui_d_druckoptionen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Выбрать присоединенные документы"** — [eplan/printgui_d_begleitdokumente.md](docs/eplan/printgui_d_begleitdokumente.md)
+            - Вызов диалогового окна:
+    - **Графический редактор**
+      - **Графический редактор: Основы**
+        - **Элементы управления графического редактора** — [eplan/gededitgui_k_prinzip.md](docs/eplan/gededitgui_k_prinzip.md)
+        - **Управление курсором с помощью клавиатуры** — [eplan/gededitgui_k_cursortastatur.md](docs/eplan/gededitgui_k_cursortastatur.md)
+        - **Функции масштабирования** — [eplan/gededitgui_k_zoom.md](docs/eplan/gededitgui_k_zoom.md)
+      - **Графический редактор: Процесс работы**
+        - **Использование ортогональной функции** — [eplan/gededitgui_h_orthogonalfunktion.md](docs/eplan/gededitgui_h_orthogonalfunktion.md)
+        - **Отображать невидимые элементы** — [eplan/gededitgui_h_unsichtbareelemente.md](docs/eplan/gededitgui_h_unsichtbareelemente.md)
+        - **Отобразить пустые тексты** — [eplan/gededitgui_h_texteanzeigen.md](docs/eplan/gededitgui_h_texteanzeigen.md)
+        - **Показать имена свойств** — [eplan/gededitgui_h_eigenschaftsnamen.md](docs/eplan/gededitgui_h_eigenschaftsnamen.md)
+        - **Использование функций масштабирования** — [eplan/gededitgui_h_zoom.md](docs/eplan/gededitgui_h_zoom.md)
+        - **Выделить потенциалы, сигналы или сеть** — [eplan/potentialbrowsergui_h_potenzialverfolgung.md](docs/eplan/potentialbrowsergui_h_potenzialverfolgung.md)
+      - **Графический редактор: Ссылка**
+        - **Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)** — [eplan/gedviewer_d_einstellungenprojektallgemein.md](docs/eplan/gedviewer_d_einstellungenprojektallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 2D** — [eplan/gedviewer_d_einstellungenbenutzerallgemein.md](docs/eplan/gedviewer_d_einstellungenbenutzerallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Символы соединения** — [eplan/gedviewer_d_einstellungenverbindungssymbole.md](docs/eplan/gedviewer_d_einstellungenverbindungssymbole.md)
+          - Вызов диалогового окна:
+    - **Данные проекта**
+      - **Навигатор устройств**
+        - **Навигатор устройств: Процесс работы**
+          - **Просмотреть размещенные устройства в графическом виде** — [eplan/navigatorgui_h_grafischevorschau.md](docs/eplan/navigatorgui_h_grafischevorschau.md)
+        - **Навигатор устройств: Ссылка**
+          - **Диалоговое окно Устройство — <Имя проекта>** — [eplan/navigatorgui_d_navigator.md](docs/eplan/navigatorgui_d_navigator.md)
+            - Вызов диалогового окна:
+      - **Спецификации**
+        - **Спецификации: Основы**
+          - **Спецификации: Основы** — [eplan/partslistgui_k_start.md](docs/eplan/partslistgui_k_start.md)
+        - **Спецификации: Ссылка**
+          - **Диалоговое окно Спецификация — <Имя проекта>** — [eplan/partslistgui_d_artikelstueckliste.md](docs/eplan/partslistgui_d_artikelstueckliste.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Изделие** — [eplan/partslistgui_d_paramartikelauswertung.md](docs/eplan/partslistgui_d_paramartikelauswertung.md)
+            - Вызов диалогового окна:
+    - **Поиск**
+      - **Поиск: Основы**
+        - **Определение искомых понятий** — [eplan/searchandreplacegui_k_prinzip.md](docs/eplan/searchandreplacegui_k_prinzip.md)
+        - **Записи в списках результатов** — [eplan/searchandreplacegui_k_eintraegeergebnisliste.md](docs/eplan/searchandreplacegui_k_eintraegeergebnisliste.md)
+        - **Использование символов-заполнителей** — [eplan/searchandreplacegui_k_platzhalter.md](docs/eplan/searchandreplacegui_k_platzhalter.md)
+      - **Поиск: Процесс работы**
+        - **Поиск данных проекта** — [eplan/searchandreplacegui_h_suchen.md](docs/eplan/searchandreplacegui_h_suchen.md)
+      - **Поиск: Ссылка**
+        - **Диалоговое окно Поиск** — [eplan/searchandreplacegui_d_suchen.md](docs/eplan/searchandreplacegui_d_suchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты поиска — <Имя проекта>** — [eplan/searchandreplacegui_d_suchergebnisse.md](docs/eplan/searchandreplacegui_d_suchergebnisse.md)
+          - Вызов диалогового окна:
+    - **Системные сообщения** — [eplan/errorhelp_k_start.md](docs/eplan/errorhelp_k_start.md)
+    - **Трехмерный чертеж монтажных поверхностей**
+      - **Трехмерный чертеж монтажных поверхностей: Основы**
+        - **Трехмерный чертеж монтажных поверхностей с Eplan Pro Panel** — [eplan/cabinetgui_k_start.md](docs/eplan/cabinetgui_k_start.md)
+      - **Трехмерный чертеж монтажных поверхностей: Ссылка**
+        - **Диалоговое окно Пространство листа — <Имя проекта>** — [eplan/cabinetgui_d_navigator.md](docs/eplan/cabinetgui_d_navigator.md)
+          - Вызов диалогового окна навигатора пространства листа:
+          - Вызов диалогового окна для других диалоговых окон с 3D-объектами:
+    - **Обзоры модели**
+      - **Обзоры модели: Основы**
+        - **Обзоры модели** — [eplan/gededit3dgui_k_start.md](docs/eplan/gededit3dgui_k_start.md)
+      - **Обзоры модели: Ссылка**
+        - **Вкладка Вид (обзор модели)** — [eplan/gededit3dgui_r_modell.md](docs/eplan/gededit3dgui_r_modell.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (обзор модели)** — [eplan/gededit3dgui_r_anzeige.md](docs/eplan/gededit3dgui_r_anzeige.md)
+          - Вызов диалогового окна:
+  - **Операции Eplan**
+    - **Основы**
+      - **Операции Eplan** — [eplan/availableactions_k_start.md](docs/eplan/availableactions_k_start.md)
+    - **Обзор**
+      - **Операции Eplan: Обзор** — [eplan/availableactions_o_eplanaktionen.md](docs/eplan/availableactions_o_eplanaktionen.md)
+      - **Операция: backup** — [eplan/availableactions_o_backup.md](docs/eplan/availableactions_o_backup.md)
+      - **Операция: changelayer** — [eplan/availableactions_o_changelayer.md](docs/eplan/availableactions_o_changelayer.md)
+      - **Операция: check** — [eplan/availableactions_o_check.md](docs/eplan/availableactions_o_check.md)
+      - **Операция: CleanWorkspaceAction** — [eplan/availableactions_o_xsvcleanworkspaceaction.md](docs/eplan/availableactions_o_xsvcleanworkspaceaction.md)
+      - **Операция: compress** — [eplan/availableactions_o_compress.md](docs/eplan/availableactions_o_compress.md)
+      - **Операция: devicelist** — [eplan/availableactions_o_devicelist.md](docs/eplan/availableactions_o_devicelist.md)
+      - **Операция: edit** — [eplan/availableactions_o_edit.md](docs/eplan/availableactions_o_edit.md)
+      - **Операция: EplApiModuleAction** — [eplan/availableactions_o_eplapimoduleaction.md](docs/eplan/availableactions_o_eplapimoduleaction.md)
+      - **Операция: EsCorrectConnections** — [eplan/availableactions_o_escorrectconnections.md](docs/eplan/availableactions_o_escorrectconnections.md)
+      - **Операция: ExecuteScript** — [eplan/availableactions_o_executescript.md](docs/eplan/availableactions_o_executescript.md)
+      - **Операция: export** — [eplan/availableactions_o_export.md](docs/eplan/availableactions_o_export.md)
+      - **Операция: export3D** — [eplan/availableactions_o_export3d.md](docs/eplan/availableactions_o_export3d.md)
+      - **Операция: ExportNCData** — [eplan/availableactions_o_exportncdata.md](docs/eplan/availableactions_o_exportncdata.md)
+      - **Операция: exportProductionWiring** — [eplan/availableactions_o_exportProductionWiring.md](docs/eplan/availableactions_o_exportProductionWiring.md)
+      - **Операция: ExportSegmentsTemplate** — [eplan/availableactions_o_exportsegmentstemplate.md](docs/eplan/availableactions_o_exportsegmentstemplate.md)
+      - **Операция: exportToGraphics** — [eplan/availableactions_o_exporttographics.md](docs/eplan/availableactions_o_exporttographics.md)
+      - **Операция: generate** — [eplan/availableactions_o_generate.md](docs/eplan/availableactions_o_generate.md)
+      - **Операция: generatemacros** — [eplan/availableactions_o_generatemacros.md](docs/eplan/availableactions_o_generatemacros.md)
+      - **Операция: GraphicalLayerTable** — [eplan/availableactions_o_GraphicalLayerTable.md](docs/eplan/availableactions_o_GraphicalLayerTable.md)
+      - **Операция: import** — [eplan/availableactions_o_import.md](docs/eplan/availableactions_o_import.md)
+      - **Операция: import3d** — [eplan/availableactions_o_import3d.md](docs/eplan/availableactions_o_import3d.md)
+      - **Операция: ImportPrePlanningData** — [eplan/availableactions_o_importpreplanningdata.md](docs/eplan/availableactions_o_importpreplanningdata.md)
+      - **Операция: ImportSegmentsTemplate** — [eplan/availableactions_o_importsegmentstemplate.md](docs/eplan/availableactions_o_importsegmentstemplate.md)
+      - **Операция: InsertModelViewAction** — [eplan/availableactions_o_InsertModelViewAction.md](docs/eplan/availableactions_o_InsertModelViewAction.md)
+      - **Операция: label** — [eplan/availableactions_o_label.md](docs/eplan/availableactions_o_label.md)
+      - **Операция: masterdata** — [eplan/availableactions_o_masterdata.md](docs/eplan/availableactions_o_masterdata.md)
+      - **Операция: MfExportRibbonBarAction** — [eplan/availableactions_o_mfexportribbonbaraction.md](docs/eplan/availableactions_o_mfexportribbonbaraction.md)
+      - **Операция: MfImportRibbonBarAction** — [eplan/availableactions_o_mfimportribbonbaraction.md](docs/eplan/availableactions_o_mfimportribbonbaraction.md)
+      - **Операция: OpenWorkspaceAction** — [eplan/availableactions_o_xsvopenworkspaceaction.md](docs/eplan/availableactions_o_xsvopenworkspaceaction.md)
+      - **Операция: partslist** — [eplan/availableactions_o_partslist.md](docs/eplan/availableactions_o_partslist.md)
+      - **Операция: partsmanagementapi** — [eplan/availableactions_o_partsmanagementapi.md](docs/eplan/availableactions_o_partsmanagementapi.md)
+      - **Операция: plcservice** — [eplan/availableactions_o_plcservice.md](docs/eplan/availableactions_o_plcservice.md)
+      - **Операция: preparemacros** — [eplan/availableactions_o_preparemacros.md](docs/eplan/availableactions_o_preparemacros.md)
+      - **Операция: print** — [eplan/availableactions_o_print.md](docs/eplan/availableactions_o_print.md)
+      - **Операция: ProjectAction** — [eplan/availableactions_o_xesprojectaction.md](docs/eplan/availableactions_o_xesprojectaction.md)
+      - **Операция: projectmanagement** — [eplan/availableactions_o_projectmanagement.md](docs/eplan/availableactions_o_projectmanagement.md)
+      - **Операция: ProjectOpen** — [eplan/availableactions_o_projectopen.md](docs/eplan/availableactions_o_projectopen.md)
+      - **Операция: RegisterCustomPropertyEditorAction** — [eplan/availableactions_o_registercustompropertyeditoraction.md](docs/eplan/availableactions_o_registercustompropertyeditoraction.md)
+      - **Операция: RegisterScript** — [eplan/availableactions_o_registerscript.md](docs/eplan/availableactions_o_registerscript.md)
+      - **Операция: Renumber** — [eplan/availableactions_o_renumber.md](docs/eplan/availableactions_o_renumber.md)
+      - **Операция: reports** — [eplan/availableactions_o_reports.md](docs/eplan/availableactions_o_reports.md)
+      - **Операция: restore** — [eplan/availableactions_o_restore.md](docs/eplan/availableactions_o_restore.md)
+      - **Операция: SaveWorkspaceAction** — [eplan/availableactions_o_xsvsaveworkspaceaction.md](docs/eplan/availableactions_o_xsvsaveworkspaceaction.md)
+      - **Операция: search** — [eplan/availableactions_o_search.md](docs/eplan/availableactions_o_search.md)
+      - **Операция: selectionset** — [eplan/availableactions_o_selectionset.md](docs/eplan/availableactions_o_selectionset.md)
+      - **Операция: SetProjectLanguage** — [eplan/availableactions_o_xessetprojectlanguageaction.md](docs/eplan/availableactions_o_xessetprojectlanguageaction.md)
+      - **Операция: subprojects** — [eplan/availableactions_o_subprojects.md](docs/eplan/availableactions_o_subprojects.md)
+      - **Операция: SwitchProjectType** — [eplan/availableactions_o_switchprojecttype.md](docs/eplan/availableactions_o_switchprojecttype.md)
+      - **Операция: synchronize** — [eplan/availableactions_o_synchronize.md](docs/eplan/availableactions_o_synchronize.md)
+      - **Операция: Topology** — [eplan/availableactions_o_Topology.md](docs/eplan/availableactions_o_Topology.md)
+      - **Операция: translate** — [eplan/availableactions_o_translate.md](docs/eplan/availableactions_o_translate.md)
+      - **Операция: UnregisterScript** — [eplan/availableactions_o_unregisterscript.md](docs/eplan/availableactions_o_unregisterscript.md)
+      - **Операция: UpdateSegmentsFilling** — [eplan/availableactions_o_UpdateSegmentsFilling.md](docs/eplan/availableactions_o_UpdateSegmentsFilling.md)
+      - **Операция: XAfActionSetting** — [eplan/availableactions_o_xafactionsetting.md](docs/eplan/availableactions_o_xafactionsetting.md)
+      - **Операция: XAfActionSettingProject** — [eplan/availableactions_o_xafactionsettingproject.md](docs/eplan/availableactions_o_xafactionsettingproject.md)
+      - **Операция: XAMlExportProductionData2RASCenterAction** — [eplan/availableactions_o_xamlexportproductiondata2rascenteraction.md](docs/eplan/availableactions_o_xamlexportproductiondata2rascenteraction.md)
+      - **Операция: XCabCalculateEnclosureTotalWeightAction** — [eplan/availableactions_o_xcabcalculateenclosuretotalweightaction.md](docs/eplan/availableactions_o_xcabcalculateenclosuretotalweightaction.md)
+      - **Операция: XCCreateGravingtextAction** — [eplan/availableactions_o_xccreategravingtextaction.md](docs/eplan/availableactions_o_xccreategravingtextaction.md)
+      - **Операция: XCMRemoveUnnecessaryNDPsAction** — [eplan/availableactions_o_XCMRemoveUnnecessaryNDPsAction.md](docs/eplan/availableactions_o_XCMRemoveUnnecessaryNDPsAction.md)
+      - **Операция: XCMUserToolAction** — [eplan/availableactions_o_XCMUserToolAction.md](docs/eplan/availableactions_o_XCMUserToolAction.md)
+      - **Операция: XDLInsertDeviceAction** — [eplan/availableactions_o_xdlinsertdeviceaction.md](docs/eplan/availableactions_o_xdlinsertdeviceaction.md)
+      - **Операция: XEGActionInsertSymRef** — [eplan/availableactions_o_xegactioninsertsymref.md](docs/eplan/availableactions_o_xegactioninsertsymref.md)
+      - **Операция: XEsGetPagePropertyAction** — [eplan/availableactions_o_xesgetpagepropertyaction.md](docs/eplan/availableactions_o_xesgetpagepropertyaction.md)
+      - **Операция: XEsGetProjectPropertyAction** — [eplan/availableactions_o_xesgetprojectpropertyaction.md](docs/eplan/availableactions_o_xesgetprojectpropertyaction.md)
+      - **Операция: XEsGetPropertyAction** — [eplan/availableactions_o_xesgetpropertyaction.md](docs/eplan/availableactions_o_xesgetpropertyaction.md)
+      - **Операция: XEsSetPagePropertyAction** — [eplan/availableactions_o_xessetpagepropertyaction.md](docs/eplan/availableactions_o_xessetpagepropertyaction.md)
+      - **Операция: XEsSetProjectPropertyAction** — [eplan/availableactions_o_xessetprojectpropertyaction.md](docs/eplan/availableactions_o_xessetprojectpropertyaction.md)
+      - **Операция: XEsSetPropertyAction** — [eplan/availableactions_o_xessetpropertyaction.md](docs/eplan/availableactions_o_xessetpropertyaction.md)
+      - **Операция: XEsUserPropertiesExportAction** — [eplan/availableactions_o_xesuserpropertiesexportaction.md](docs/eplan/availableactions_o_xesuserpropertiesexportaction.md)
+      - **Операция: XEsUserPropertiesImportAction** — [eplan/availableactions_o_xesuserpropertiesimportaction.md](docs/eplan/availableactions_o_xesuserpropertiesimportaction.md)
+      - **Операция: XGedStartInteractionAction** — [eplan/availableactions_o_xgedstartinteractionaction.md](docs/eplan/availableactions_o_xgedstartinteractionaction.md)
+      - **Операция: XGedUpdateMacroAction** — [eplan/availableactions_o_xgedupdatemacroaction.md](docs/eplan/availableactions_o_xgedupdatemacroaction.md)
+      - **Операция: XMActionDCCommonExport** — [eplan/availableactions_o_XMActionDCCommonExport.md](docs/eplan/availableactions_o_XMActionDCCommonExport.md)
+      - **Операция: XMActionDCImport** — [eplan/availableactions_o_xmactiondcimport.md](docs/eplan/availableactions_o_xmactiondcimport.md)
+      - **Операция: XMDeleteReprTypeAction** — [eplan/availableactions_o_xmdeletereprtypeaction.md](docs/eplan/availableactions_o_xmdeletereprtypeaction.md)
+      - **Операция: XMExportConnectionsAction** — [eplan/availableactions_o_xmexportconnectionsaction.md](docs/eplan/availableactions_o_xmexportconnectionsaction.md)
+      - **Операция: XMExportDCArticleDataAction** — [eplan/availableactions_o_xmexportdcarticledataaction.md](docs/eplan/availableactions_o_xmexportdcarticledataaction.md)
+      - **Операция: XMExportFunctionAction** — [eplan/availableactions_o_xmexportfunctionaction.md](docs/eplan/availableactions_o_xmexportfunctionaction.md)
+      - **Операция: XMExportPagesAction** — [eplan/availableactions_o_xmexportpagesaction.md](docs/eplan/availableactions_o_xmexportpagesaction.md)
+      - **Операция: XMImportDCArticleDataAction** — [eplan/availableactions_o_xmimportdcarticledataaction.md](docs/eplan/availableactions_o_xmimportdcarticledataaction.md)
+      - **Операция: XPamsDeviceSelectionAction** — [eplan/availableactions_o_xpamsdeviceselectionaction.md](docs/eplan/availableactions_o_xpamsdeviceselectionaction.md)
+      - **Операция: XPamSelectPart** — [eplan/availableactions_o_XPamSelectPart.md](docs/eplan/availableactions_o_XPamSelectPart.md)
+      - **Операция: XPartsSetDataSourceAction** — [eplan/availableactions_o_xpartssetdatasourceaction.md](docs/eplan/availableactions_o_xpartssetdatasourceaction.md)
+      - **Операция: XPlaUpdateDetailAction** — [eplan/availableactions_o_XPlaUpdateDetailAction.md](docs/eplan/availableactions_o_XPlaUpdateDetailAction.md)
+      - **Операция: XPrjActionUpgradeProjects** — [eplan/availableactions_o_XPrjActionUpgradeProjects.md](docs/eplan/availableactions_o_XPrjActionUpgradeProjects.md)
+      - **Операция: XPrjConvertBaseProjectsAction** — [eplan/availableactions_o_xprjconvertbaseprojectsaction.md](docs/eplan/availableactions_o_xprjconvertbaseprojectsaction.md)
+      - **Операция: XSDPreviewAction** — [eplan/availableactions_o_xsdpreviewaction.md](docs/eplan/availableactions_o_xsdpreviewaction.md)
+      - **Операция: XSettingsExport** — [eplan/availableactions_o_xsettingsexport.md](docs/eplan/availableactions_o_xsettingsexport.md)
+      - **Операция: XSettingsImport** — [eplan/availableactions_o_xsettingsimport.md](docs/eplan/availableactions_o_xsettingsimport.md)
+      - **Операция: XSettingsRegisterAction** — [eplan/availableactions_o_XSettingsRegisterAction.md](docs/eplan/availableactions_o_XSettingsRegisterAction.md)
+      - **Операция: XSettingsUnregisterAction** — [eplan/availableactions_o_XSettingsUnregisterAction.md](docs/eplan/availableactions_o_XSettingsUnregisterAction.md)
+  - **Импорт и экспорт XML (База данных изделий Eplan)**
+    - **Основы**
+      - **Импорт и экспорт XML: Обзор тэгов и атрибутов** — [eplan/xmlexport_k_start.md](docs/eplan/xmlexport_k_start.md)
+    - **Обзор**
+      - **Импорт и экспорт XML: Тэги и их атрибуты** — [eplan/xmlexport_o_tags.md](docs/eplan/xmlexport_o_tags.md)
+        - Пример:
+      - **Импорт и экспорт XML: Обзор определений функций** — [eplan/xmlexport_o_funcdef.md](docs/eplan/xmlexport_o_funcdef.md)
+      - **Импорт и экспорт XML: Обзор списков выбора** — [eplan/xmlexport_o_sellists.md](docs/eplan/xmlexport_o_sellists.md)
+      - **Импорт и экспорт XML: Обзор групп продуктов** — [eplan/xmlexport_o_productgroups.md](docs/eplan/xmlexport_o_productgroups.md)
+  - **Свойства Eplan**
+    - **Основы** — [eplan/properties_k_prinzip.md](docs/eplan/properties_k_prinzip.md)
+    - **Обзор** — [eplan/properties_o_main.md](docs/eplan/properties_o_main.md)
+  - **Элементы-заполнители Eplan**
+    - **Основы** — [eplan/placeholder_k_prinzip.md](docs/eplan/placeholder_k_prinzip.md)
+    - **Обзор** — [eplan/placeholder_o_main.md](docs/eplan/placeholder_o_main.md)

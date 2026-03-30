@@ -1055,61 +1055,59 @@ nav:
           - "Диалоговое окно Формат: Разделитель": eplan/eservicesgui_d_formattrennzeichen.md
           - "Диалоговое окно Формат: Адрес / текст": eplan/plcprocessorgui_d_formatadressetext.md
     - "Работа с макросами":
-      - "Макросы":
-        - "Основы":
-          - "Макросы": eplan/macrosgui_k_start.md
-          - "Проекты макросов": eplan/macrosgui_k_makroprojekte.md
-          - "Рамки макросов: принцип": eplan/macrosgui_k_makrokaesten.md
-          - "Макросы: Защищенные группы": eplan/macrosgui_k_geschuetztegruppen.md
-          - "Данные сгенерированного макроса": eplan/macrosgui_k_daten.md
-          - "Навигатор макросов": eplan/macrosgui_k_makronavigator.md
-          - "Макросы схемы соединений: учет фирменных и других стандартов": eplan/macrosgui_k_standards.md
-          - "Объекты-заполнители: Структура и принцип работы": eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md
-        - "Процесс работы":
-          - "Создать проекты макросов": eplan/macrosgui_h_makroprojekteerstellen.md
-          - "Использовать рамки макросов": eplan/macrosgui_h_makrokasten.md
-          - "Автоматически генерировать макрос из проекта макросов": eplan/macrosgui_h_makrosausmakroprojekt.md
-          - "Генерировать объекты-заполнители": eplan/macrosgui_h_platzhalterobjekteerzeugen.md
-          - "Расширить объекты-заполнители": eplan/macrosgui_h_platzhalterobjekteerweitern.md
-          - "Присвоить набор значений объекту-заполнителю": eplan/macrosgui_h_wertesatzzuweisen.md
-          - "Вставить макросы": eplan/macrosgui_h_makrosauswaehlen.md
-          - "Создать макросы": eplan/macrosgui_h_makroserzeugen.md
-          - "Генерировать макросы из файлов DXF / DWG": eplan/macrosgui_h_makrosausdxf.md
-        - "Ссылка":
-          - "Диалоговое окно Макросы — <Имя проекта>": eplan/macrosgui_d_makronavigator.md
-          - "Диалоговое окно Сохранить как": eplan/macrosgui_d_speichernunter.md
-          - "Диалоговое окно / вкладка \"Присвоение данных изделия\"": eplan/macrosgui_r_artikeldatenzuweisung.md
-          - "Диалоговое окно Формат: Присвоение данных изделия": eplan/eservicesgui_d_formatartikeldatenzuweisung.md
-          - "Вкладка Рамка макроса": eplan/macrosgui_r_makrokasten.md
-          - "Вкладка Настройки (рамка макроса)": eplan/macrosgui_r_makrokasteneinstellungen.md
-          - "Вкладка Определение макроса": eplan/macrosgui_r_makrodefinition.md
-          - "Диалоговое окно \"Подготовить макросы к автоматической генерации\"": eplan/macrosgui_d_makrosvorbereiten.md
-          - "Вкладка Объект-заполнитель": eplan/macrosgui_d_platzhalterobjekt.md
-          - "Вкладка Настройки (объект-заполнитель)": eplan/macrosgui_r_platzhaltereinstellungen.md
-          - "Диалоговое окно Выбрать набор значений": eplan/macrosgui_d_wertesatzauswaehlen.md
-          - "Диалоговое окно Вставить": eplan/macrosgui_d_einfuegen.md
-          - "Диалоговое окно Настройки: Обновить макросы": eplan/gedviewer_d_einstellungenmakrosaktualisieren.md
-          - "Диалоговое окно Настройки: Общие (Пользователь, Представление)": eplan/macrosgui_d_einstellzwischablage.md
-          - "Диалоговое окно \"Настройки: Макросы\"": eplan/macrosgui_d_einstellmakros.md
-          - "Диалоговое окно Буфер обмена": eplan/macrosgui_d_zwischenablage.md
+      - "Основы":
+        - "Макросы": eplan/macrosgui_k_start.md
+        - "Проекты макросов": eplan/macrosgui_k_makroprojekte.md
+        - "Рамки макросов: принцип": eplan/macrosgui_k_makrokaesten.md
+        - "Макросы: Защищенные группы": eplan/macrosgui_k_geschuetztegruppen.md
+        - "Данные сгенерированного макроса": eplan/macrosgui_k_daten.md
+        - "Навигатор макросов": eplan/macrosgui_k_makronavigator.md
+        - "Макросы схемы соединений: учет фирменных и других стандартов": eplan/macrosgui_k_standards.md
+        - "Объекты-заполнители: Структура и принцип работы": eplan/macrosgui_k_platzhalteraufbauarbeitsweise.md
+      - "Процесс работы":
+        - "Создать проекты макросов": eplan/macrosgui_h_makroprojekteerstellen.md
+        - "Использовать рамки макросов": eplan/macrosgui_h_makrokasten.md
+        - "Автоматически генерировать макрос из проекта макросов": eplan/macrosgui_h_makrosausmakroprojekt.md
+        - "Генерировать объекты-заполнители": eplan/macrosgui_h_platzhalterobjekteerzeugen.md
+        - "Расширить объекты-заполнители": eplan/macrosgui_h_platzhalterobjekteerweitern.md
+        - "Присвоить набор значений объекту-заполнителю": eplan/macrosgui_h_wertesatzzuweisen.md
+        - "Вставить макросы": eplan/macrosgui_h_makrosauswaehlen.md
+        - "Создать макросы": eplan/macrosgui_h_makroserzeugen.md
+        - "Генерировать макросы из файлов DXF / DWG": eplan/macrosgui_h_makrosausdxf.md
+      - "Ссылка":
+        - "Диалоговое окно Макросы — <Имя проекта>": eplan/macrosgui_d_makronavigator.md
+        - "Диалоговое окно Сохранить как": eplan/macrosgui_d_speichernunter.md
+        - "Диалоговое окно / вкладка \"Присвоение данных изделия\"": eplan/macrosgui_r_artikeldatenzuweisung.md
+        - "Диалоговое окно Формат: Присвоение данных изделия": eplan/eservicesgui_d_formatartikeldatenzuweisung.md
+        - "Вкладка Рамка макроса": eplan/macrosgui_r_makrokasten.md
+        - "Вкладка Настройки (рамка макроса)": eplan/macrosgui_r_makrokasteneinstellungen.md
+        - "Вкладка Определение макроса": eplan/macrosgui_r_makrodefinition.md
+        - "Диалоговое окно \"Подготовить макросы к автоматической генерации\"": eplan/macrosgui_d_makrosvorbereiten.md
+        - "Вкладка Объект-заполнитель": eplan/macrosgui_d_platzhalterobjekt.md
+        - "Вкладка Настройки (объект-заполнитель)": eplan/macrosgui_r_platzhaltereinstellungen.md
+        - "Диалоговое окно Выбрать набор значений": eplan/macrosgui_d_wertesatzauswaehlen.md
+        - "Диалоговое окно Вставить": eplan/macrosgui_d_einfuegen.md
+        - "Диалоговое окно Настройки: Обновить макросы": eplan/gedviewer_d_einstellungenmakrosaktualisieren.md
+        - "Диалоговое окно Настройки: Общие (Пользователь, Представление)": eplan/macrosgui_d_einstellzwischablage.md
+        - "Диалоговое окно \"Настройки: Макросы\"": eplan/macrosgui_d_einstellmakros.md
+        - "Диалоговое окно Буфер обмена": eplan/macrosgui_d_zwischenablage.md
     - "Использование опций":
-      - "Опции":
-        - "Основы":
-          - "Опции": eplan/projectoptionsgui_k_start.md
-          - "Опции проекта: Принцип": eplan/projectoptionsgui_k_prinzip.md
-          - "Отчеты для опций и объектов-заполнителей": eplan/projectoptionsgui_k_auswertungen.md
-        - "Процесс работы":
-          - "Создать и обработать опциональные группы": eplan/projectoptionsgui_h_optionsgruppenerzeugen.md
-          - "Создание и обработка опций": eplan/projectoptionsgui_h_optionenerzeugen.md
-          - "Включить и выключить опции": eplan/projectoptionsgui_h_optioneneinaus.md
-          - "Создание фрагментов": eplan/projectoptionsgui_h_ausschnitteerzeugen.md
-          - "Обработка фрагментов": eplan/projectoptionsgui_h_ausschnittebearbeiten.md
-        - "Ссылка":
-          - "Диалоговое окно Опции — <Имя проекта>": eplan/projectoptionsgui_d_optionsnavigator.md
-          - "Диалоговое окно Опциональная группа": eplan/projectoptionsgui_d_optionsgruppe.md
-          - "Диалоговое окно Опция": eplan/projectoptionsgui_d_option.md
-          - "Диалоговое окно Фрагмент": eplan/projectoptionsgui_d_ausschnitt.md
-          - "Диалоговое окно Объекты-заполнители — <Имя проекта>": eplan/projectoptionsgui_d_platzhalternavigator.md
+      - "Основы":
+        - "Опции": eplan/projectoptionsgui_k_start.md
+        - "Опции проекта: Принцип": eplan/projectoptionsgui_k_prinzip.md
+        - "Отчеты для опций и объектов-заполнителей": eplan/projectoptionsgui_k_auswertungen.md
+      - "Процесс работы":
+        - "Создать и обработать опциональные группы": eplan/projectoptionsgui_h_optionsgruppenerzeugen.md
+        - "Создание и обработка опций": eplan/projectoptionsgui_h_optionenerzeugen.md
+        - "Включить и выключить опции": eplan/projectoptionsgui_h_optioneneinaus.md
+        - "Создание фрагментов": eplan/projectoptionsgui_h_ausschnitteerzeugen.md
+        - "Обработка фрагментов": eplan/projectoptionsgui_h_ausschnittebearbeiten.md
+      - "Ссылка":
+        - "Диалоговое окно Опции — <Имя проекта>": eplan/projectoptionsgui_d_optionsnavigator.md
+        - "Диалоговое окно Опциональная группа": eplan/projectoptionsgui_d_optionsgruppe.md
+        - "Диалоговое окно Опция": eplan/projectoptionsgui_d_option.md
+        - "Диалоговое окно Фрагмент": eplan/projectoptionsgui_d_ausschnitt.md
+        - "Диалоговое окно Объекты-заполнители — <Имя проекта>": eplan/projectoptionsgui_d_platzhalternavigator.md
     - "Нумерация соединений и устройств":
       - "Нумерация соединений":
         - "Основы":

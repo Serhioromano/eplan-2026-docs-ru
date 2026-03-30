@@ -1,4 +1,20 @@
-.PHONY: deploy init serve gitc log
+.PHONY: deploy init serve gitc log up
+
+up:
+	sudo apt-get update && sudo apt-get install -y \
+		libnss3 \
+		libatk-bridge2.0-0 \
+		libgtk-3-0 \
+		libgbm-dev \
+		libasound2 \
+		libx11-xcb1 \
+		libxcomposite1 \
+		libxcursor1 \
+		libxdamage1 \
+		libxi6 \
+		libxtst6 \
+		libxrandr2 \
+		libxss1
 
 serve:
 	@echo "Starting the MkDocs server..."
@@ -9,6 +25,21 @@ log:
 	@source ./.env && mkdocs serve 2>&1 | tee mkdocs.log
 
 init: gitc
+	@echo "Configure container"
+	@sudo apt-get update && sudo apt-get install -y \
+		libnss3 \
+		libatk-bridge2.0-0 \
+		libgtk-3-0 \
+		libgbm-dev \
+		libasound2 \
+		libx11-xcb1 \
+		libxcomposite1 \
+		libxcursor1 \
+		libxdamage1 \
+		libxi6 \
+		libxtst6 \
+		libxrandr2 \
+		libxss1
 	@echo "Start PIP configuration"
 	@pip install --upgrade pip
 	@pip3 install mkdocs
