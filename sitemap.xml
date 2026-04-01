@@ -1717,11 +1717,19 @@
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/devicetaggui_r_feldsichtbaresbmk/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/devicetaggui_r_format/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/devicetaggui_r_format3d/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/devicetaggui_r_gruppenfeldeigenschaften/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -1885,7 +1893,15 @@
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/edaexportgui_d_smartwiring/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/edaexportgui_d_veroeffentlichen/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/edaexportgui_r_abrstleigenschaften/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -1898,6 +1914,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/edaexportgui_r_export/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/edaexportgui_r_funktionseigenschaften/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -2017,6 +2037,14 @@
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/eservicesgui_d_eigenschaftsanordnung/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/eservicesgui_d_ersetzungstexte/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/eservicesgui_d_format/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
@@ -2070,6 +2098,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/eservicesgui_d_konfigeigenschaftsanordnungen/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/eservicesgui_d_nummusteranschluesse/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -3229,7 +3261,15 @@
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_bezierkurve/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_bilddatei/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_ellipse/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -3242,6 +3282,22 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_kommentare/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_kreis/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_linie/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_polylinie/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/gededitgui_r_rechteck/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -3318,6 +3374,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/helpsystem_h_nutzen/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/helpsystem_hinweise_optout/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -3486,6 +3546,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/layermanager_k_start/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/license_k_start/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -3706,6 +3770,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/modaldialogsdb_d_baumkonfiguration/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/modaldialogsdb_d_bmkauswahl/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -4981,6 +5049,10 @@
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/partsimportbmecatgui_d_eclassanwendungsklassen/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/partsimportbmecatgui_d_einstellungeneclass/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
@@ -5114,6 +5186,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/partsmanagementgui_d_gewerk/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/partsmanagementgui_d_gewerkauswaehlen/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -5826,6 +5902,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/plcgui_d_importzuli/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/plcgui_d_optionsaml/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
@@ -7745,6 +7825,10 @@
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/userdefproperties_k_prinzip/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/userdefproperties_k_start/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
@@ -8102,6 +8186,10 @@
     </url>
     <url>
          <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/xessettingsgui_d_einstellungenprojektdatum/</loc>
+         <lastmod>2026-04-01</lastmod>
+    </url>
+    <url>
+         <loc>https://serhioromano.github.io/eplan-2026-docs-ru/2.9/xessettingsgui_d_einstellungenprojektkompatibilitaet/</loc>
          <lastmod>2026-04-01</lastmod>
     </url>
     <url>
