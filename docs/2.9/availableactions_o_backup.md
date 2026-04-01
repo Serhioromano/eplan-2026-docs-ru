@@ -53,74 +53,74 @@ FILENAME  |  Имя резервируемого файла.
 !!! example "Пример:"
 
     Резервировать проект:backup
-/TYPE:PROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DESTINATIONPATH:U:\temp
-/ARCHIVENAME:my_prj.zw1
-/COMMENT:Hello
-/BACKUPMETHOD:BACKUP
-/BACKUPMEDIA:DISK
-/SPLITSIZE:0.0
-/BACKUPAMOUNT:BACKUPAMOUNT_ALL
-/COMPRESSPRJ:0
-/INCLEXTDOCS:1
-/INCLIMAGES:1backup
-/TYPE:PROJECT
-/COMMENT:Hello
-/DESTINATIONPATH:U:\temp
-/ARCHIVENAME:my_prj.zw1
-/BACKUPMETHOD:BACKUP
-/BACKUPMEDIA:DISK
-/SPLITSIZE:0.0
-/BACKUPAMOUNT:BACKUPAMOUNT_ALL
-/COMPRESSPRJ:0
-/INCLEXTDOCS:1
-/INCLIMAGES:1Резервировать основные данные:Резервировать рамку с полным путем файла:backup
-/TYPE:MASTERDATA
-/FILENAME:C:\PlotFrames\EPLAN\ESS_A3DP.fn1
-/SOURCEPATH:C:\PlotFrames\EPLAN
-/DESTINATIONPATH:U:\temp
-/ARCHIVENAME:my_MasterData
-/COMMENT:"Hello world"
-/BACKUPMEDIA:DISK
-/SPLITSIZE:0.0
-/MDTYPE:STANDARDSHEETРезервировать рамку без полного пути файла:backup
-/TYPE:MASTERDATA
-/FILENAME:ESS_A3DP.fn1
-/SOURCEPATH:C:\PlotFrames\EPLAN
-/DESTINATIONPATH:U:\temp
-/ARCHIVENAME:my_MasterData
-/COMMENT:"Hello world"
-/BACKUPMEDIA:DISK
-/SPLITSIZE:0.0
-/MDTYPE:STANDARDSHEETРезервировать все рамки (*.fn1):backup
-/TYPE:MASTERDATA
-/FILENAME:*.fn1
-/SOURCEPATH:C:\PlotFrames\EPLAN
-/DESTINATIONPATH:U:\temp
-/ARCHIVENAME:my_MasterData
-/COMMENT:"Hello world"
-/BACKUPMEDIA:DISK
-/SPLITSIZE:0.0
-/MDTYPE:STANDARDSHEETРезервировать все файлы (*.*) в указанном исходном каталоге:backup
-/TYPE:MASTERDATA
-/FILENAME:*.*
-/SOURCEPATH:C:\PlotFrames\EPLAN
-/DESTINATIONPATH:U:\temp
-/ARCHIVENAME:my_MasterData
-/COMMENT:"Hello world"
-/BACKUPMEDIA:DISK
-/SPLITSIZE:0.0
-/MDTYPE:STANDARDSHEETРезервировать в указанном исходном каталоге все файлы (*.*), в расширении имени которых есть 'sh'.backup
-/TYPE:MASTERDATA
-/FILENAME:*sh
-/SOURCEPATH:C:\PlotFrames\EPLAN
-/DESTINATIONPATH:U:\temp
-/ARCHIVENAME:my_MasterData
-/COMMENT:"Hello world"
-/BACKUPMEDIA:DISK
-/SPLITSIZE:0.0
-/MDTYPE:STANDARDSHEET
+    /TYPE:PROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DESTINATIONPATH:U:\temp
+    /ARCHIVENAME:my_prj.zw1
+    /COMMENT:Hello
+    /BACKUPMETHOD:BACKUP
+    /BACKUPMEDIA:DISK
+    /SPLITSIZE:0.0
+    /BACKUPAMOUNT:BACKUPAMOUNT_ALL
+    /COMPRESSPRJ:0
+    /INCLEXTDOCS:1
+    /INCLIMAGES:1backup
+    /TYPE:PROJECT
+    /COMMENT:Hello
+    /DESTINATIONPATH:U:\temp
+    /ARCHIVENAME:my_prj.zw1
+    /BACKUPMETHOD:BACKUP
+    /BACKUPMEDIA:DISK
+    /SPLITSIZE:0.0
+    /BACKUPAMOUNT:BACKUPAMOUNT_ALL
+    /COMPRESSPRJ:0
+    /INCLEXTDOCS:1
+    /INCLIMAGES:1Резервировать основные данные:Резервировать рамку с полным путем файла:backup
+    /TYPE:MASTERDATA
+    /FILENAME:C:\PlotFrames\EPLAN\ESS_A3DP.fn1
+    /SOURCEPATH:C:\PlotFrames\EPLAN
+    /DESTINATIONPATH:U:\temp
+    /ARCHIVENAME:my_MasterData
+    /COMMENT:"Hello world"
+    /BACKUPMEDIA:DISK
+    /SPLITSIZE:0.0
+    /MDTYPE:STANDARDSHEETРезервировать рамку без полного пути файла:backup
+    /TYPE:MASTERDATA
+    /FILENAME:ESS_A3DP.fn1
+    /SOURCEPATH:C:\PlotFrames\EPLAN
+    /DESTINATIONPATH:U:\temp
+    /ARCHIVENAME:my_MasterData
+    /COMMENT:"Hello world"
+    /BACKUPMEDIA:DISK
+    /SPLITSIZE:0.0
+    /MDTYPE:STANDARDSHEETРезервировать все рамки (*.fn1):backup
+    /TYPE:MASTERDATA
+    /FILENAME:*.fn1
+    /SOURCEPATH:C:\PlotFrames\EPLAN
+    /DESTINATIONPATH:U:\temp
+    /ARCHIVENAME:my_MasterData
+    /COMMENT:"Hello world"
+    /BACKUPMEDIA:DISK
+    /SPLITSIZE:0.0
+    /MDTYPE:STANDARDSHEETРезервировать все файлы (*.*) в указанном исходном каталоге:backup
+    /TYPE:MASTERDATA
+    /FILENAME:*.*
+    /SOURCEPATH:C:\PlotFrames\EPLAN
+    /DESTINATIONPATH:U:\temp
+    /ARCHIVENAME:my_MasterData
+    /COMMENT:"Hello world"
+    /BACKUPMEDIA:DISK
+    /SPLITSIZE:0.0
+    /MDTYPE:STANDARDSHEETРезервировать в указанном исходном каталоге все файлы (*.*), в расширении имени которых есть 'sh'.backup
+    /TYPE:MASTERDATA
+    /FILENAME:*sh
+    /SOURCEPATH:C:\PlotFrames\EPLAN
+    /DESTINATIONPATH:U:\temp
+    /ARCHIVENAME:my_MasterData
+    /COMMENT:"Hello world"
+    /BACKUPMEDIA:DISK
+    /SPLITSIZE:0.0
+    /MDTYPE:STANDARDSHEET
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

@@ -10,14 +10,14 @@ SHOW  |  1: Открывается предварительный просмот
 !!! example "Пример:"
 
     Предварительный просмотр страницы:XSDPreviewAction
-/PROJECTNAME:ESS_Sample_Project
-/PAGENAME:=CA1+EAA/1XSDPreviewAction
-/PROJECTNAME:"C:\...\EPLAN\Electric P8\Projects\...\ESS_Sample_Project"
-/PAGENAME:=CA1+EAA/2Предварительный просмотр макроса страницы:XSDPreviewAction
-/PROJECTNAME:ESS_Sample_Project
-/MACRONAME:Macro_0001.emaXSDPreviewAction
-/PROJECTNAME:$(MD_PROJECTS)\ESS_Sample_Project
-/MACRONAME:$(MD_MACROS)\Macro_0001.ema
+    /PROJECTNAME:ESS_Sample_Project
+    /PAGENAME:=CA1+EAA/1XSDPreviewAction
+    /PROJECTNAME:"C:\...\EPLAN\Electric P8\Projects\...\ESS_Sample_Project"
+    /PAGENAME:=CA1+EAA/2Предварительный просмотр макроса страницы:XSDPreviewAction
+    /PROJECTNAME:ESS_Sample_Project
+    /MACRONAME:Macro_0001.emaXSDPreviewAction
+    /PROJECTNAME:$(MD_PROJECTS)\ESS_Sample_Project
+    /MACRONAME:$(MD_MACROS)\Macro_0001.ema
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

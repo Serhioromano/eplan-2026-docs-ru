@@ -23,7 +23,7 @@
 !!! example "Пример:"
 
     Следующий пример демонстрирует сценарий на C#, который регистрирует операцию:public class SimpleScriptAction
-{
+    {
 
      [DeclareAction("MyScriptAction")]
      public void MyFunctionAsAction()

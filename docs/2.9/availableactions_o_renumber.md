@@ -121,33 +121,33 @@ MARKASMANUAL  |  Соответствует настройке Выделить 
 !!! example "Пример:"
 
     Нумеровать устройства:Renumber
-/TYPE:DEVICES
-/STARTVALUE:1
-/STEPVALUE:1
-/USESELECTION:0
-/OMITNUMERATEDBYPLC:0
-/NUMERATECABLES:0
-/IDENTIFIER:X*
-/CONFIGSCHEME:"Kennbuchstabe Zähler"
-/POSTNUMERATE:0Нумеровать страницы:Renumber
-/TYPE:PAGES
-/STRUCTUREORIENTED:0
-/STARTVALUE:3
-/STEPVALUE:10
-/KEEPINTERVAL:1
-/KEEPTEXT:0
-/SUBPAGES:1
-/USESELECTION:0Нумеровать соединения:Renumber
-/TYPE:CONNECTIONS
-/CONFIGSCHEME: Potenzialorientiert
-/STARTVALUE_1:13
-/STEPVALUE_1:3
-/OVERWRITE:0
-/AVOIDIDENTICALDESIGNATIONS:0
-/VISIBILITY:1
-/MARKASMANUAL:1
-/USESELECTION:0
-/GROUP_1:1
+    /TYPE:DEVICES
+    /STARTVALUE:1
+    /STEPVALUE:1
+    /USESELECTION:0
+    /OMITNUMERATEDBYPLC:0
+    /NUMERATECABLES:0
+    /IDENTIFIER:X*
+    /CONFIGSCHEME:"Kennbuchstabe Zähler"
+    /POSTNUMERATE:0Нумеровать страницы:Renumber
+    /TYPE:PAGES
+    /STRUCTUREORIENTED:0
+    /STARTVALUE:3
+    /STEPVALUE:10
+    /KEEPINTERVAL:1
+    /KEEPTEXT:0
+    /SUBPAGES:1
+    /USESELECTION:0Нумеровать соединения:Renumber
+    /TYPE:CONNECTIONS
+    /CONFIGSCHEME: Potenzialorientiert
+    /STARTVALUE_1:13
+    /STEPVALUE_1:3
+    /OVERWRITE:0
+    /AVOIDIDENTICALDESIGNATIONS:0
+    /VISIBILITY:1
+    /MARKASMANUAL:1
+    /USESELECTION:0
+    /GROUP_1:1
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

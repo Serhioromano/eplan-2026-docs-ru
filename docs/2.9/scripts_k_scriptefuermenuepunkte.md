@@ -23,7 +23,7 @@
 !!! example "Пример:"
 
     Следующий пример демонстрирует сценарий на C#, который регистрирует операцию или пункт меню:public class RegisterScriptMenu
-{
+    {
 
      [DeclareAction("MyScriptActionWithMenu")]
      public void MyFunctionAsAction()

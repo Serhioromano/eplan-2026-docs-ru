@@ -20,11 +20,11 @@ ImmediateImport  |  После обработки подтверждение и�
 !!! example "Пример:"
 
     XMExportConnectionsAction
-/ConfigScheme:config_scheme
-/CompleteProject:1
-/Language:en_US
-/Destination:C:\temp\Connection.xls
-/ExecutionMode:0
+    /ConfigScheme:config_scheme
+    /CompleteProject:1
+    /Language:en_US
+    /Destination:C:\temp\Connection.xls
+    /ExecutionMode:0
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

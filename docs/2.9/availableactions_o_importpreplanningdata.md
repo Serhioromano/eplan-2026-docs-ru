@@ -17,11 +17,11 @@ UPDATEONLY  |  Если значение равно 1, обновляются т
 !!! example "Пример:"
 
     Импортировать данные предварительного планирования из Excel:ImportPrePlanningData
-/PROJECTNAME:C:\Projects\ESS_Sample_Project.elk
-/FILENAME:C:\Projects\EPLAN\preplanning.xls
-/SCHEMENAME:config_scheme
-/Header:1
-/UPDATEONLY:1
+    /PROJECTNAME:C:\Projects\ESS_Sample_Project.elk
+    /FILENAME:C:\Projects\EPLAN\preplanning.xls
+    /SCHEMENAME:config_scheme
+    /Header:1
+    /UPDATEONLY:1
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

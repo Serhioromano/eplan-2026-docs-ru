@@ -36,16 +36,16 @@ SELn |  Ид. объекта переводимых страниц (необяз
 !!! example "Пример:"
 
     Перевести проект:translate
-/TYPE:TRANSLATEPROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elkУбрать перевод из проекта:translate
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/TYPE:REMOVELANGUAGE
-/LANGUAGE:en_USЭкспортировать список отсутствующих слов:translate
-/TYPE:EXPORTMISSINGTRANSLATIONS
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/LANGUAGE:en_US
-/EXPORTFILE:d:\temp\missingTransFile.txt
-/CONVERTER:XE5LanguageDbXmlConverterImpl
+    /TYPE:TRANSLATEPROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elkУбрать перевод из проекта:translate
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /TYPE:REMOVELANGUAGE
+    /LANGUAGE:en_USЭкспортировать список отсутствующих слов:translate
+    /TYPE:EXPORTMISSINGTRANSLATIONS
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /LANGUAGE:en_US
+    /EXPORTFILE:d:\temp\missingTransFile.txt
+    /CONVERTER:XE5LanguageDbXmlConverterImpl
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

@@ -20,14 +20,14 @@ MODE  |  Указывает, как следует восстанавливат�
 !!! example "Пример:"
 
     Восстановить проект:restore
-/TYPE:PROJECT
-/ARCHIVENAME:U:\temp\my_prj.zw1
-/PROJECTNAME:U:\temp\w3_proj.elk
-/UNPACKPROJECT:0
-/MODE:1Восстановить основные данные (рамки и т.д.) в целевом каталоге:restore
-/TYPE:MASTERDATA
-/ARCHIVENAME:U:\temp\SSHmy_MasterData.zw2
-/DESTINATIONPATH:U:\temp
+    /TYPE:PROJECT
+    /ARCHIVENAME:U:\temp\my_prj.zw1
+    /PROJECTNAME:U:\temp\w3_proj.elk
+    /UNPACKPROJECT:0
+    /MODE:1Восстановить основные данные (рамки и т.д.) в целевом каталоге:restore
+    /TYPE:MASTERDATA
+    /ARCHIVENAME:U:\temp\SSHmy_MasterData.zw2
+    /DESTINATIONPATH:U:\temp
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

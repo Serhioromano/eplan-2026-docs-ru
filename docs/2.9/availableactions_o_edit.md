@@ -14,15 +14,15 @@ DEVICENAME3D  |  Имя функционального элемента в пр�
 !!! example "Пример:"
 
     Открыть проект:edit
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elkОткрыть страницу:edit
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=CA1+EAA/1Открыть страницу с обозначением устройства:edit
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DEVICENAME:=EB3+ET1-F1Открыть страницу и установить курсор на позицию X, Y:edit
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2
-/X:200
-/Y:100
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elkОткрыть страницу:edit
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=CA1+EAA/1Открыть страницу с обозначением устройства:edit
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DEVICENAME:=EB3+ET1-F1Открыть страницу и установить курсор на позицию X, Y:edit
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2
+    /X:200
+    /Y:100
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

@@ -14,11 +14,11 @@ USEFILTER  |  Используется схема фильтра, заданна
 !!! example "Пример:"
 
     Сжать проект:compress
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/CONFIGSCHEME:config_scheme
-/FILTERSCHEME:filter_schemeИспользование последней схемы конфигурации: Параметр CONFIGSCHEME не указывается.compress
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/FILTERSCHEME:filter_scheme
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /CONFIGSCHEME:config_scheme
+    /FILTERSCHEME:filter_schemeИспользование последней схемы конфигурации: Параметр CONFIGSCHEME не указывается.compress
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /FILTERSCHEME:filter_scheme
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

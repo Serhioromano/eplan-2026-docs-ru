@@ -29,20 +29,20 @@ OBJECTID  |  Идентифицирующее имя сгенерированн�
 !!! example "Пример:"
 
     InsertModelViewAction
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/LAYOUTSPACE:L_Space1
-/PAGENAME:=EB3+ET1/1
-/X:0
-/Y:0
-/DX:40
-/DY:60
-/ANGLE:1
-/SELECTIONSCHEME:Scheme1
-/STYLE:3
-/ITEMLABELING:Label_Scheme_1
-/VIEWPOINT:5
-/SCALESETTING:0
-/OBJECTID:NewModelView
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /LAYOUTSPACE:L_Space1
+    /PAGENAME:=EB3+ET1/1
+    /X:0
+    /Y:0
+    /DX:40
+    /DY:60
+    /ANGLE:1
+    /SELECTIONSCHEME:Scheme1
+    /STYLE:3
+    /ITEMLABELING:Label_Scheme_1
+    /VIEWPOINT:5
+    /SCALESETTING:0
+    /OBJECTID:NewModelView
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

@@ -17,23 +17,23 @@ INSTALLATIONSPACENAME  |  Имя проверяемого пространств
 
 !!! note "Замечание:"
 
-* Если страница указана в параметре PAGENAME, то проверяется только эта страница, а параметр USEPAGEFILTER игнорируется.
-* Если страница в параметре PAGENAME не указана, то определяются страницы проекта. Если параметр USEPAGEFILTER установлен на 1 (то есть активирована одна из схем), в навигаторе страниц проверяются только отфильтрованные страницы. Если параметр USEPAGEFILTER не используется или установлен на 0, проверяются все страницы проекта.
+    * Если страница указана в параметре PAGENAME, то проверяется только эта страница, а параметр USEPAGEFILTER игнорируется.
+    * Если страница в параметре PAGENAME не указана, то определяются страницы проекта. Если параметр USEPAGEFILTER установлен на 1 (то есть активирована одна из схем), в навигаторе страниц проверяются только отфильтрованные страницы. Если параметр USEPAGEFILTER не используется или установлен на 0, проверяются все страницы проекта.
 
 !!! example "Пример:"
 
     Выполнить контрольный прогон со схемой: Автономноcheck
-/TYPE:PROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/VERIFICATIONSCHEME:OfflineПроверить последний использованный проект с последней использованной схемой:check
-/TYPE:PROJECTПроверить страницу:check
-/TYPE:PAGES
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2Проверить страницы проекта, использованного последним:check
-/TYPE:PAGES
-/USEPAGEFILTER:1Проверить пространство листа проекта, использованного последним:check
-/TYPE:INSTALLATIONSPACE
-/INSTALLATIONSPACENAME:BR1
+    /TYPE:PROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /VERIFICATIONSCHEME:OfflineПроверить последний использованный проект с последней использованной схемой:check
+    /TYPE:PROJECTПроверить страницу:check
+    /TYPE:PAGES
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2Проверить страницы проекта, использованного последним:check
+    /TYPE:PAGES
+    /USEPAGEFILTER:1Проверить пространство листа проекта, использованного последним:check
+    /TYPE:INSTALLATIONSPACE
+    /INSTALLATIONSPACENAME:BR1
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

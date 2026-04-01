@@ -39,8 +39,8 @@
 !!! example "Пример:"
 
     Следующая таблица показывает, когда EPLAN в зависимости от вида сегментации интерпретирует знак препинания как знак в конце предложения.Сегментирование Текст Знаки в конце предложения ПредложениеCirc.-Breaker, Parts a. Devices. Part and
- device tag lists!Точка после:a.Точка после:Devices.Восклицательный знак после:lists!Общая записьCirc.-Breaker, Parts a. Devices. Part and
- device tag lists!Восклицательный знак после:lists!
+     device tag lists!Точка после:a.Точка после:Devices.Восклицательный знак после:lists!Общая записьCirc.-Breaker, Parts a. Devices. Part and
+     device tag lists!Восклицательный знак после:lists!
 
 ### Ключевые слова с заполнителями
 
@@ -56,7 +56,7 @@
 !!! example "Пример:"
 
     Следующая таблица наглядно показывает выбор возможных ключевых слов с заполнителями на исходном языкеen_USи языке переводаfr_FR.en_USfr_FRRectifier***%0***phaseRedresseur***%0***-phase(s)***%0***terminals with***%1***connection points***%0***bornes avec***%1***raccordementsplant section***%0***plant
- part***%1***separator***%2***section de l'installation***%0***partie d'installation***%1***collecteur***%2***
+     part***%1***separator***%2***section de l'installation***%0***partie d'installation***%1***collecteur***%2***
 
 Ключевые слова с заполнителями также можно использовать для текстов, где одна составная часть всегда остается неизменной и переводится, а другая изменяется и имеет обозначение "Не переводить", например:
 

@@ -29,27 +29,27 @@ USESELECTION  |  Устанавливает, необходимо ли учит�
 !!! example "Пример:"
 
     label
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/CONFIGSCHEME:config_scheme
-/FILTERSCHEME:filter_scheme
-/SORTSCHEME:sort_scheme
-/LANGUAGE:en_US
-/DESTINATIONFILE:c:\temp\labeling.txt
-/RECREPEAT:3
-/TASKREPEAT:2Использование последней схемы конфигурации: Параметр CONFIGSCHEME не указывается. Он пуст.label
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/FILTERSCHEME:filter_scheme
-/SORTSCHEME:sort_scheme
-/LANGUAGE:en_US
-/DESTINATIONFILE:c:\temp\labeling.txt
-/RECREPEAT:3
-/TASKREPEAT:2Выполнить экспорт данных изготовления / маркировки без фильтрации и сортировки: В этом случае параметры FILTERSCHEME и SORTSCHEME не передаются.label
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/CONFIGSCHEME:config_scheme
-/LANGUAGE:en_US
-/DESTINATIONFILE:c:\temp\labeling.txt
-/RECREPEAT:3
-/TASKREPEAT:2
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /CONFIGSCHEME:config_scheme
+    /FILTERSCHEME:filter_scheme
+    /SORTSCHEME:sort_scheme
+    /LANGUAGE:en_US
+    /DESTINATIONFILE:c:\temp\labeling.txt
+    /RECREPEAT:3
+    /TASKREPEAT:2Использование последней схемы конфигурации: Параметр CONFIGSCHEME не указывается. Он пуст.label
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /FILTERSCHEME:filter_scheme
+    /SORTSCHEME:sort_scheme
+    /LANGUAGE:en_US
+    /DESTINATIONFILE:c:\temp\labeling.txt
+    /RECREPEAT:3
+    /TASKREPEAT:2Выполнить экспорт данных изготовления / маркировки без фильтрации и сортировки: В этом случае параметры FILTERSCHEME и SORTSCHEME не передаются.label
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /CONFIGSCHEME:config_scheme
+    /LANGUAGE:en_US
+    /DESTINATIONFILE:c:\temp\labeling.txt
+    /RECREPEAT:3
+    /TASKREPEAT:2
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

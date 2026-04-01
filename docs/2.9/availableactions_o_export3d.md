@@ -22,10 +22,10 @@ SEPARATEFILES  |  Для TYPE = STEPINSTALLATIONSPACES: если значени�
 !!! example "Пример:"
 
     export3d
-/TYPE:STEPINSTALLATIONSPACES
-/PROJECTNAME:C:\Projects\EPLAN\DEMO2_D.elk
-/INSTALLATIONSPACENAME1:BR1 /STRUCTURE1:=EB3+ET1 /INSTALLATIONSPACENAME2:BR2 /STRUCTURE2:=EB3+ET2
-/DESTINATIONPATH:C:\temp\step_export
+    /TYPE:STEPINSTALLATIONSPACES
+    /PROJECTNAME:C:\Projects\EPLAN\DEMO2_D.elk
+    /INSTALLATIONSPACENAME1:BR1 /STRUCTURE1:=EB3+ET1 /INSTALLATIONSPACENAME2:BR2 /STRUCTURE2:=EB3+ET2
+    /DESTINATIONPATH:C:\temp\step_export
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

@@ -16,14 +16,14 @@ FORMAT  |  Необязательно: формат файла ("XDLXmlExporter"
 !!! example "Пример:"
 
     Импортировать:devicelist
-/TYPE:IMPORT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/IMPORTFILE:C:\EPLAN\deviceListe.xmlЭкспортировать:devicelist
-/TYPE:EXPORT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/EXPORTFILE:C:\EPLAN\deviceListe2.xmlУдалить:devicelist
-/TYPE:DELETE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /TYPE:IMPORT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /IMPORTFILE:C:\EPLAN\deviceListe.xmlЭкспортировать:devicelist
+    /TYPE:EXPORT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /EXPORTFILE:C:\EPLAN\deviceListe2.xmlУдалить:devicelist
+    /TYPE:DELETE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

@@ -13,8 +13,8 @@ ProgressTitle  |  Задает название индикатора выпол�
 !!! example "Пример:"
 
     XMActionDCImport
-/ProjectLink:C:\Projects\EPLAN\test.elk
-/DataConfigurationFile:C:\EPLAN\DataCfgFile.edc
+    /ProjectLink:C:\Projects\EPLAN\test.elk
+    /DataConfigurationFile:C:\EPLAN\DataCfgFile.edc
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

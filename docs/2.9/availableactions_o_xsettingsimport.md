@@ -6,8 +6,8 @@ XMLFile  |  Здесь указывается каталог и имя импо�
 
 !!! example "Пример:"
 
-Node  |  "Узлы" настроек, которые должны быть импортированы. Если открыть ранее экспортированный файл в Internet Explorer, можно узнать и применить имя узла.
-Если указан только узел "PROJECT", то импортируются все настройки проекта. Если узлы не указаны, то импортируются все настройки.
+    Node  |  "Узлы" настроек, которые должны быть импортированы. Если открыть ранее экспортированный файл в Internet Explorer, можно узнать и применить имя узла.
+    Если указан только узел "PROJECT", то импортируются все настройки проекта. Если узлы не указаны, то импортируются все настройки.
 
 !!! example "Пример:"
 
@@ -24,14 +24,14 @@ Project  |  Имя целевого проекта (необязательно).
 !!! example "Пример:"
 
     Импортировать все настройки станции, пользовательские и настройки фирмы из заранее определенного XML-файла:XSettingsImport
-/XmlFile:C:file.xmlИмпорт узла из заранее определенного XML-файла:XSettingsImport
-/XmlFile:C:file.xml
-/Node:USER.MacrosGuiИмпорт настроек проекта в целевой проект:XSettingsImport
-/XmlFile:C:my_project.xml
-/Project:"C:...ESS_Sample_Project.elk"Импорт узла из настроек проекта в целевой проект:XSettingsImport
-/XmlFile:C:my_project.xml
-/Project:"C:...ESS_Sample_Project.elk"
-/Node:FormGeneratorGui
+    /XmlFile:C:file.xmlИмпорт узла из заранее определенного XML-файла:XSettingsImport
+    /XmlFile:C:file.xml
+    /Node:USER.MacrosGuiИмпорт настроек проекта в целевой проект:XSettingsImport
+    /XmlFile:C:my_project.xml
+    /Project:"C:...ESS_Sample_Project.elk"Импорт узла из настроек проекта в целевой проект:XSettingsImport
+    /XmlFile:C:my_project.xml
+    /Project:"C:...ESS_Sample_Project.elk"
+    /Node:FormGeneratorGui
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

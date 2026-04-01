@@ -31,20 +31,20 @@ NOTPLACEDFUNCTIONS  |  Искать неразмещенные функции (�
 !!! example "Пример:"
 
     Поиск текста:search
-/TYPE:TEXTS
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/SEARCHITEM:Hallo
-/CASESENSITIVE:1
-/WHOLETEXT:0
-/LOGICPAGES:1Поиск свойства страницы:search
-/TYPE:PAGEDATA
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/SEARCHITEM:Drive
-/CASESENSITIVE:0
-/WHOLETEXT:0
-/LOGICPAGES:1
-/EVALUATIONPAGES:1
-/NOTPLACEDFUNCTIONS:1
+    /TYPE:TEXTS
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /SEARCHITEM:Hallo
+    /CASESENSITIVE:1
+    /WHOLETEXT:0
+    /LOGICPAGES:1Поиск свойства страницы:search
+    /TYPE:PAGEDATA
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /SEARCHITEM:Drive
+    /CASESENSITIVE:0
+    /WHOLETEXT:0
+    /LOGICPAGES:1
+    /EVALUATIONPAGES:1
+    /NOTPLACEDFUNCTIONS:1
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

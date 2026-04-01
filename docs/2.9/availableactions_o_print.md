@@ -23,28 +23,28 @@ PRINTCHANGEDPAGES  |  Печатать только измененные стр�
 
 !!! note "Замечание:"
 
-* Если страница указана в параметре PAGENAME, то выводится на печать только эта страница, а параметр USEPAGEFILTER игнорируется.
-* Если страница в параметре PAGENAME не указана, то определяются страницы проекта. Если параметр USEPAGEFILTER установлен на 1 (то есть активирован фильтр страниц), то в навигаторе страниц распечатываются только отфильтрованные страницы. Если параметр USEPAGEFILTER не используется или установлен на 0, выводятся на печать все страницы проекта.
+    * Если страница указана в параметре PAGENAME, то выводится на печать только эта страница, а параметр USEPAGEFILTER игнорируется.
+    * Если страница в параметре PAGENAME не указана, то определяются страницы проекта. Если параметр USEPAGEFILTER установлен на 1 (то есть активирован фильтр страниц), то в навигаторе страниц распечатываются только отфильтрованные страницы. Если параметр USEPAGEFILTER не используется или установлен на 0, выводятся на печать все страницы проекта.
 
 !!! example "Пример:"
 
     Печатать страницу:print
-/TYPE:PAGES
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2
-/PRINTERNAME:my_printer
-/NUMBER:2Печатать страницу в файл:print
-/TYPE:PAGES
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PRINTCOLLATE:0
-/PRINTREVERSE:1
-/DESTINATIONFILE:C:\temp\EPLAN_print.prn
-/USEPAGEFILTER:1Печатать проект:print
-/TYPE:PROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PRINTCOLLATE:0
-/PRINTREVERSE:1
-/DESTINATIONFILE:C:\temp\EPLAN_print.prn
+    /TYPE:PAGES
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2
+    /PRINTERNAME:my_printer
+    /NUMBER:2Печатать страницу в файл:print
+    /TYPE:PAGES
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PRINTCOLLATE:0
+    /PRINTREVERSE:1
+    /DESTINATIONFILE:C:\temp\EPLAN_print.prn
+    /USEPAGEFILTER:1Печатать проект:print
+    /TYPE:PROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PRINTCOLLATE:0
+    /PRINTREVERSE:1
+    /DESTINATIONFILE:C:\temp\EPLAN_print.prn
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

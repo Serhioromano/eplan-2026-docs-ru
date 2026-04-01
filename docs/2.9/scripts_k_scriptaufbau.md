@@ -21,7 +21,7 @@
 !!! example "Пример:"
 
     Следующий пример демонстрирует очень простой сценарий на C#:public class SimpleScript
-{
+    {
 
      [Start]
      public void MyFunction()

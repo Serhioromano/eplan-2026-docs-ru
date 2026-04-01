@@ -28,39 +28,39 @@ USEPAGEFILTER  |  Определяет, должны ли использоват
 
 !!! note "Замечание:"
 
-* Если страница указана в параметре PAGENAME, то экспортируется только эта страница, а параметр USEPAGEFILTER игнорируется.
-* Если в параметре PAGENAME явно не указано страниц, и значение параметра USEPAGEFILTER установлено на 1, в навигаторе страниц экспортируются только отфильтрованные страницы.
+    * Если страница указана в параметре PAGENAME, то экспортируется только эта страница, а параметр USEPAGEFILTER игнорируется.
+    * Если в параметре PAGENAME явно не указано страниц, и значение параметра USEPAGEFILTER установлено на 1, в навигаторе страниц экспортируются только отфильтрованные страницы.
 
 !!! example "Пример:"
 
     Экспортировать проект:exportToGraphics
-/TYPE:GRAPHICPROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DESTINATIONPATH:C:\temp
-/FORMAT:BMP
-/COLORDEPTH:24
-/IMAGEWIDTH:1024
-/BLACKWHITE:1Экспортировать страницу:exportToGraphics
-/TYPE:GRAPHICPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2
-/DESTINATIONPATH:C:\temp
-/FORMAT:BMP
-/COLORDEPTH:24
-/IMAGEWIDTH:1024
-/BLACKWHITE:1Экспортировать несколько страниц:exportToGraphics
-/TYPE:GRAPHICPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DESTINATIONPATH:C:\temp
-/FORMAT:BMP
-/COLORDEPTH:24
-/IMAGEWIDTH:1024
-/BLACKWHITE:1
-/USEPAGEFILTER:1Экспортировать страницу. При этом копируется несколько значений по умолчанию из схемы экспорта:exportToGraphics
-/TYPE:GRAPHICPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2
-/EXPORTSCHEME:Bitmap
+    /TYPE:GRAPHICPROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DESTINATIONPATH:C:\temp
+    /FORMAT:BMP
+    /COLORDEPTH:24
+    /IMAGEWIDTH:1024
+    /BLACKWHITE:1Экспортировать страницу:exportToGraphics
+    /TYPE:GRAPHICPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2
+    /DESTINATIONPATH:C:\temp
+    /FORMAT:BMP
+    /COLORDEPTH:24
+    /IMAGEWIDTH:1024
+    /BLACKWHITE:1Экспортировать несколько страниц:exportToGraphics
+    /TYPE:GRAPHICPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DESTINATIONPATH:C:\temp
+    /FORMAT:BMP
+    /COLORDEPTH:24
+    /IMAGEWIDTH:1024
+    /BLACKWHITE:1
+    /USEPAGEFILTER:1Экспортировать страницу. При этом копируется несколько значений по умолчанию из схемы экспорта:exportToGraphics
+    /TYPE:GRAPHICPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2
+    /EXPORTSCHEME:Bitmap
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

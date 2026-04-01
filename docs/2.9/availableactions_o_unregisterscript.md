@@ -7,7 +7,7 @@ ScriptFile  |  Имя файла сценария с полным путем ф�
 !!! example "Пример:"
 
     UnregisterScript
-/ScriptFile:"C:\myScript.vb"
+    /ScriptFile:"C:\myScript.vb"
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

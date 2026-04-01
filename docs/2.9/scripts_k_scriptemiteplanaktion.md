@@ -27,7 +27,7 @@
 !!! example "Пример:"
 
     Следующий пример демонстрирует сценарий на C# с операцией EPLANprint:public class PrintScript
-{
+    {
 
      [Start]
      public void PrintFunction()

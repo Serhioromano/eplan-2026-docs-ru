@@ -9,7 +9,7 @@ W3u.exe ExecuteScript /ScriptFile:<Значение> /Param:<Значение>
 !!! example "Пример:"
 
     В следующем примере (в C#) сценарию (функции запуска) требуется три параметра символьной строкиParam1,Param2иParam3:public class SimpleScriptWithParameters
-{
+    {
 
      [Start]
      public void FunctionWithParameters(String Param1, String Param2, String Param3)

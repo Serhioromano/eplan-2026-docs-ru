@@ -41,13 +41,13 @@ SELn |  Ид. объекта страниц, для которых необхо�
 !!! example "Пример:"
 
     Генерация соединения:generate
-/TYPE:CONNECTIONS
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elkГенерация кабеля:generate
-/TYPE:CABLES
-/KEEPOLDNAMES:0
-/STARTVALUE:5
-/STEPVALUE:2
-/ONLYAUTOCABLES:0
+    /TYPE:CONNECTIONS
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elkГенерация кабеля:generate
+    /TYPE:CABLES
+    /KEEPOLDNAMES:0
+    /STARTVALUE:5
+    /STEPVALUE:2
+    /ONLYAUTOCABLES:0
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

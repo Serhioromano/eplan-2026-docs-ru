@@ -19,12 +19,12 @@ IMMEDIATEIMPORT  |  После обработки подтверждение и�
 !!! example "Пример:"
 
     Export starten
-XMActionDCCommonExport
-/CONFIGSCHEME:config_scheme
-/COMPLETEPROJECT:1
-/LANGUAGE:en_US
-/DESTINATION:c:\temp\Pages.xls
-/EXECUTIONMODE:0
+    XMActionDCCommonExport
+    /CONFIGSCHEME:config_scheme
+    /COMPLETEPROJECT:1
+    /LANGUAGE:en_US
+    /DESTINATION:c:\temp\Pages.xls
+    /EXECUTIONMODE:0
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

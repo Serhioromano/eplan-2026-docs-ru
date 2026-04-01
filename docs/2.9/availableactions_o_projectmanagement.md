@@ -30,11 +30,11 @@ EXTENDEDMODE |  Задает "расширенный режим" для реор
 !!! example "Пример:"
 
     Загрузить в проект информацию о проекте:projectmanagement
-/TYPE:READPROJECTINFO
-/PROJECTNAME:"C:\Projects\EPLAN projects\ESS_Sample_Project.elk"
-/FILENAME:C:\Files\ProjectInfo.xmlВключение/отключение временной обработки во всем проекте:projectmanagement
-/TYPE:ToggleSections
-/PROJECTNAME:"C:\Projects\EPLAN projects\ESS_Sample_Project.elk"
+    /TYPE:READPROJECTINFO
+    /PROJECTNAME:"C:\Projects\EPLAN projects\ESS_Sample_Project.elk"
+    /FILENAME:C:\Files\ProjectInfo.xmlВключение/отключение временной обработки во всем проекте:projectmanagement
+    /TYPE:ToggleSections
+    /PROJECTNAME:"C:\Projects\EPLAN projects\ESS_Sample_Project.elk"
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

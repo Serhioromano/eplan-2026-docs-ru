@@ -66,23 +66,23 @@ RACKOVERVIEWS |  Если указан этот параметр, генерир
 !!! example "Пример:"
 
     Экспортировать данные ПЛК:plcservice
-/TYPE:BUSDATAEXPORT
-/CONFIGURATIONPROJECT:Schneider-Electric
-/DESTINATIONFILE:"C:\tempdir\plcservice_export_1.xef"
-/PROJECTNAME:"C:\Users\Public\EPLAN\Projects\ESS_Sample_Project.elk"
-/LANGUAGE:de_DE
-/CONVERTERID:PlcDcXMLExchangerSchneider
-/OVERWRITE:1Импортировать данные ПЛК:plcservice
-/TYPE:BUSDATAIMPORT
-/SOURCEFILE:"C:\tempdir\plcservice_export_2.xml"
-/PROJECTNAME:"C:\Users\Public\EPLAN\Projects\ESS_Sample_Project.elk"
-/LANGUAGE:de_DE
-/CONVERTERID:PlcDcXMLExchangerUniversalГенерировать схему соединений:plcservice
-/TYPE:GENERATEPLCSCHEMATIC
-/PROJECTNAME:"C:\Users\Public\EPLAN\Projects\ESS_Sample_Project.elk"
-/CONFIGFILE:"C:\tempdir\schematics_generation_config.xml"
-/SINGLELINEPAGES:1
-/MULTILINEPAGES:1
+    /TYPE:BUSDATAEXPORT
+    /CONFIGURATIONPROJECT:Schneider-Electric
+    /DESTINATIONFILE:"C:\tempdir\plcservice_export_1.xef"
+    /PROJECTNAME:"C:\Users\Public\EPLAN\Projects\ESS_Sample_Project.elk"
+    /LANGUAGE:de_DE
+    /CONVERTERID:PlcDcXMLExchangerSchneider
+    /OVERWRITE:1Импортировать данные ПЛК:plcservice
+    /TYPE:BUSDATAIMPORT
+    /SOURCEFILE:"C:\tempdir\plcservice_export_2.xml"
+    /PROJECTNAME:"C:\Users\Public\EPLAN\Projects\ESS_Sample_Project.elk"
+    /LANGUAGE:de_DE
+    /CONVERTERID:PlcDcXMLExchangerUniversalГенерировать схему соединений:plcservice
+    /TYPE:GENERATEPLCSCHEMATIC
+    /PROJECTNAME:"C:\Users\Public\EPLAN\Projects\ESS_Sample_Project.elk"
+    /CONFIGFILE:"C:\tempdir\schematics_generation_config.xml"
+    /SINGLELINEPAGES:1
+    /MULTILINEPAGES:1
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

@@ -20,8 +20,8 @@
 
 !!! note "Замечание:"
 
-* В сценарии можно использовать все классы сборок ***System***, ***System.XML***, ***System.Drawing***, ***System.Windows.Forms*** из Microsoft.Net, а также сборки EPLAN API — ***Eplan.EplApi.Base*** и ***Eplan.EplApi.ApplicationFramework***.
-* ***Нельзя*** в сценарии ссылаться на дополнительные сборки (***.Net Framework***, ***EPLAN*** или других поставщиков).
+    * В сценарии можно использовать все классы сборок ***System***, ***System.XML***, ***System.Drawing***, ***System.Windows.Forms*** из Microsoft.Net, а также сборки EPLAN API — ***Eplan.EplApi.Base*** и ***Eplan.EplApi.ApplicationFramework***.
+    * ***Нельзя*** в сценарии ссылаться на дополнительные сборки (***.Net Framework***, ***EPLAN*** или других поставщиков).
 
 **См. также:**
 

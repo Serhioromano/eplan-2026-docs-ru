@@ -18,22 +18,22 @@ TRANSPARENCY  |  Задает прозрачность трехмерного с
 !!! example "Пример:"
 
     Изменить свойства одного слоя:changelayer
-/PROJECTNAME:C:\Projects\EPLAN\DEMO2_d.elk
-/LAYER:EPLAN200
-/VISIBLE:1
-/PRINTED:0
-/TEXTHEIGHT:5,5
-/COLORID:15Изменить свойства нескольких слоев:changelayer
-/LAYER1:EPLAN110
-/VISIBLE1:1
-/PRINTED1:1
-/TEXTHEIGHT1:5
-/COLORID1:1
-/LAYER2:EPLAN300
-/VISIBLE2:1
-/PRINTED2:1
-/TEXTHEIGHT2:6
-/COLORID2:11
+    /PROJECTNAME:C:\Projects\EPLAN\DEMO2_d.elk
+    /LAYER:EPLAN200
+    /VISIBLE:1
+    /PRINTED:0
+    /TEXTHEIGHT:5,5
+    /COLORID:15Изменить свойства нескольких слоев:changelayer
+    /LAYER1:EPLAN110
+    /VISIBLE1:1
+    /PRINTED1:1
+    /TEXTHEIGHT1:5
+    /COLORID1:1
+    /LAYER2:EPLAN300
+    /VISIBLE2:1
+    /PRINTED2:1
+    /TEXTHEIGHT2:6
+    /COLORID2:11
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

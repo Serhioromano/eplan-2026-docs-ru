@@ -58,67 +58,67 @@ EXPORTMODEL  |  Булев параметр. Если значение равн�
 
 !!! note "Замечание:"
 
-* Если страница указана в параметре PAGENAME, то экспортируется только эта страница, а параметр USEPAGEFILTER игнорируется.
-* Если страница в параметре PAGENAME не указана, то определяются страницы проекта. Если параметр USEPAGEFILTER установлен на 1 (то есть активирован фильтр страниц), то в навигаторе страниц экспортируются только отфильтрованные страницы. Если параметр USEPAGEFILTER не используется или установлен на 0, экспортируются все страницы проекта.
-* Если параметр TYPE = DXFPAGE, DXFPROJECT, DWGPAGE или DWGPROJECT и параметр TARGET не установлен, то цель вывода копируется из настроек, а параметр DESTINATIONPATH игнорируется.
+    * Если страница указана в параметре PAGENAME, то экспортируется только эта страница, а параметр USEPAGEFILTER игнорируется.
+    * Если страница в параметре PAGENAME не указана, то определяются страницы проекта. Если параметр USEPAGEFILTER установлен на 1 (то есть активирован фильтр страниц), то в навигаторе страниц экспортируются только отфильтрованные страницы. Если параметр USEPAGEFILTER не используется или установлен на 0, экспортируются все страницы проекта.
+    * Если параметр TYPE = DXFPAGE, DXFPROJECT, DWGPAGE или DWGPROJECT и параметр TARGET не установлен, то цель вывода копируется из настроек, а параметр DESTINATIONPATH игнорируется.
 
 !!! example "Пример:"
 
     Экспортировать проект в формате EPJ:export
-/TYPE:PXFPROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/EXPORTFILE:C:\temp\myPxfESS_Sample_ProjectЭкспортировать проект в графическом формате:export
-/TYPE:GRAPHICPROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DESTINATIONPATH:C:\temp
-/FORMAT:BMP
-/COLORDEPTH:24
-/IMAGEWIDTH:1024
-/BLACKWHITE:1Экспортировать проект в формате PDF:export
-/TYPE:PDFPROJECTSCHEME
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/EXPORTFILE:C:\temp.pdf
-/EXPORTSCHEME:mySchemeЭкспортировать страницу в графическом формате:export
-/TYPE:GRAPHICPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2
-/DESTINATIONPATH:C:\temp
-/FORMAT:BMP
-/COLORDEPTH:24
-/IMAGEWIDTH:1024
-/BLACKWHITE:1Экспортировать несколько страниц в графическом формате:export
-/TYPE:GRAPHICPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DESTINATIONPATH:C:\temp
-/FORMAT:BMP
-/COLORDEPTH:24
-/IMAGEWIDTH:1024
-/BLACKWHITE:1
-/USEPAGEFILTER:1Экспортировать проект в формате DXF/DWG:export
-/TYPE:DXFPROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DESTINATIONPATH:C:\tempЭкспортировать страницу в формате DXF/DWG:export
-/TYPE:DXFPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2
-/DESTINATIONPATH:C:\tempЭкспортировать несколько страниц в формат DXF/DWG. При этом из схемы копируется каталог вывода:export
-/TYPE:DXFPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME1:=CA1+EAA/1
-/PAGENAME2:=EB3+ET1/2
-/EXPORTSCHEME:"Default"Экспортировать несколько страниц в формате DXF/DWG:export
-/TYPE:DXFPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/DESTINATIONPATH:C:\temp
-/EXPORTSCHEME:dxf_scheme
-/USEPAGEFILTER:1Экспортировать несколько страниц в формате PDF:export
-/TYPE:PDFPAGESSCHEME
-/EXPORTSCHEME:myScheme
-/PAGENAME1:=CA1+EAA/1
-/PAGENAME2:=EB3+ET1/2
-/PAGENAME3:=EB3+ET1/7
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/EXPORTFILE:C:\temp.pdfИспользуйте для экспорта PDF одной страницы следующие данные:export /TYPE:PDFPAGE /PAGENAME:=EB3+ET1/2
+    /TYPE:PXFPROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /EXPORTFILE:C:\temp\myPxfESS_Sample_ProjectЭкспортировать проект в графическом формате:export
+    /TYPE:GRAPHICPROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DESTINATIONPATH:C:\temp
+    /FORMAT:BMP
+    /COLORDEPTH:24
+    /IMAGEWIDTH:1024
+    /BLACKWHITE:1Экспортировать проект в формате PDF:export
+    /TYPE:PDFPROJECTSCHEME
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /EXPORTFILE:C:\temp.pdf
+    /EXPORTSCHEME:mySchemeЭкспортировать страницу в графическом формате:export
+    /TYPE:GRAPHICPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2
+    /DESTINATIONPATH:C:\temp
+    /FORMAT:BMP
+    /COLORDEPTH:24
+    /IMAGEWIDTH:1024
+    /BLACKWHITE:1Экспортировать несколько страниц в графическом формате:export
+    /TYPE:GRAPHICPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DESTINATIONPATH:C:\temp
+    /FORMAT:BMP
+    /COLORDEPTH:24
+    /IMAGEWIDTH:1024
+    /BLACKWHITE:1
+    /USEPAGEFILTER:1Экспортировать проект в формате DXF/DWG:export
+    /TYPE:DXFPROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DESTINATIONPATH:C:\tempЭкспортировать страницу в формате DXF/DWG:export
+    /TYPE:DXFPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2
+    /DESTINATIONPATH:C:\tempЭкспортировать несколько страниц в формат DXF/DWG. При этом из схемы копируется каталог вывода:export
+    /TYPE:DXFPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME1:=CA1+EAA/1
+    /PAGENAME2:=EB3+ET1/2
+    /EXPORTSCHEME:"Default"Экспортировать несколько страниц в формате DXF/DWG:export
+    /TYPE:DXFPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /DESTINATIONPATH:C:\temp
+    /EXPORTSCHEME:dxf_scheme
+    /USEPAGEFILTER:1Экспортировать несколько страниц в формате PDF:export
+    /TYPE:PDFPAGESSCHEME
+    /EXPORTSCHEME:myScheme
+    /PAGENAME1:=CA1+EAA/1
+    /PAGENAME2:=EB3+ET1/2
+    /PAGENAME3:=EB3+ET1/7
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /EXPORTFILE:C:\temp.pdfИспользуйте для экспорта PDF одной страницы следующие данные:export /TYPE:PDFPAGE /PAGENAME:=EB3+ET1/2
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

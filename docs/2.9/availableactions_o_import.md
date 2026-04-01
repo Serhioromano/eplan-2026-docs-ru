@@ -27,21 +27,21 @@ YOFFSET  |  Перемещение в направлении Y (необязат
 !!! example "Пример:"
 
     Импортировать проект EPJ:import
-/TYPE:PXFPROJECT
-/IMPORTFILE:C:\Projects\DEMO_D.epj
-/PROJECTNAME:C:\Projects\EPLAN\Imported_DEMO_D.elkИмпортировать чертежи DXF/DWG в макросы:import
-/TYPE:DXFDWGFILES
-/PROJECTNAME:C:\Projects\ESS_Sample_Project.elk
-/SOURCEPATH:C:\Projects\DXF_DWG
-/DESTINATIONPATH:D:\MacrosВставить чертеж DXF / DWG на страницу:import
-/TYPE:DWGPAGE
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-/PAGENAME:=EB3+ET1/2
-/IMPORTFILE:C:\Projects\EPLAN\DXF_DWG\pline_1.dwg
-/XSCALE:0.5
-/YSCALE:0.5
-/XOFFSET:100.0
-/YOFFSET:100.0
+    /TYPE:PXFPROJECT
+    /IMPORTFILE:C:\Projects\DEMO_D.epj
+    /PROJECTNAME:C:\Projects\EPLAN\Imported_DEMO_D.elkИмпортировать чертежи DXF/DWG в макросы:import
+    /TYPE:DXFDWGFILES
+    /PROJECTNAME:C:\Projects\ESS_Sample_Project.elk
+    /SOURCEPATH:C:\Projects\DXF_DWG
+    /DESTINATIONPATH:D:\MacrosВставить чертеж DXF / DWG на страницу:import
+    /TYPE:DWGPAGE
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /PAGENAME:=EB3+ET1/2
+    /IMPORTFILE:C:\Projects\EPLAN\DXF_DWG\pline_1.dwg
+    /XSCALE:0.5
+    /YSCALE:0.5
+    /XOFFSET:100.0
+    /YOFFSET:100.0
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

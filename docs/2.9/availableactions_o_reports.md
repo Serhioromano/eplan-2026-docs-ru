@@ -22,8 +22,8 @@ SELn |  Ид. объекта страниц, для которых необхо�
 !!! example "Пример:"
 
     reports
-/TYPE:PROJECT
-/PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
+    /TYPE:PROJECT
+    /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

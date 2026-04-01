@@ -24,10 +24,10 @@ MaterialName  |  Доступно только для машин Rittal - Perfor
 !!! example "Пример:"
 
     ExportNCData
-/MACHINETYPE:2
-/MACHINENAME:Standard
-/TARGETDIRECTORY:D:export
-/MATERIALNAME:Steel
+    /MACHINETYPE:2
+    /MACHINENAME:Standard
+    /TARGETDIRECTORY:D:export
+    /MATERIALNAME:Steel
 
 С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 

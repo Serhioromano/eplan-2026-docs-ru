@@ -8,7 +8,7 @@ PROJECTNAME  |  Имя проекта с полным путем файла (я�
 !!! example "Пример:"
 
     UpdateSegmentsFilling
- /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elk
+     /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elk
 
 **См. также:**
 

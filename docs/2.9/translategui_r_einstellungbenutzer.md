@@ -32,11 +32,11 @@
 !!! example "Пример:"
 
     В словаре выполняется управление следующими двумя ключевыми словами: Ключевое слово A не имеет в конце записи точки в качестве знака в конце предложения. Ключевое слово B имеет в конце записи точку в качестве знака в конце предложения.Ключевое слово Исходный языкen_USТекст переводаfr_FRКлючевое слово AParts a. Devices. Part and device tag listsArticles / Composants. Listes des articles
- et des composants.Ключевое слово BParts a. Devices. Part and device tag lists.Des articles et des composants. Listes des
- articles et des composants.На страницесхемы соединенийвставлен следующий текст проекта, который имеет в конце точку в качестве знака в конце предложения:Parts a. Devices. Part and device tag
- lists.Вы переводите страницу схем соединений сen_USнаfr_FR, и для сегментации выбран параметр "Общая запись".Если флажок***установлен***, EPLAN ищет подходящее ключевое слово без знака в конце предложения и переводит текстом перевода ключевого слова A:Articles / Composants. Listes des articles
- et des composants.Если флажок***снят***, EPLAN ищет подходящее ключевое слово со знаком в конце предложения и переводит текстом перевода ключевого слова B:Des articles et des composants. Listes
- des articles et des composants.
+     et des composants.Ключевое слово BParts a. Devices. Part and device tag lists.Des articles et des composants. Listes des
+     articles et des composants.На страницесхемы соединенийвставлен следующий текст проекта, который имеет в конце точку в качестве знака в конце предложения:Parts a. Devices. Part and device tag
+     lists.Вы переводите страницу схем соединений сen_USнаfr_FR, и для сегментации выбран параметр "Общая запись".Если флажок***установлен***, EPLAN ищет подходящее ключевое слово без знака в конце предложения и переводит текстом перевода ключевого слова A:Articles / Composants. Listes des articles
+     et des composants.Если флажок***снят***, EPLAN ищет подходящее ключевое слово со знаком в конце предложения и переводит текстом перевода ключевого слова B:Des articles et des composants. Listes
+     des articles et des composants.
 
 ### Обрабатывать числа как текст:
 
