@@ -186,6 +186,63 @@ def fix_button_brackets(content):
     content = re.sub(r'(.|^)\s*\+\+\s*([^+]+?)\s*\+\+\s?(.?)', fix_keys, content)
     return content
 
+_HTML_TAGS = {
+    'a', 'abbr', 'address', 'area', 'article', 'aside', 'audio',
+    'b', 'base', 'bdi', 'bdo', 'blockquote', 'body', 'br', 'button',
+    'canvas', 'caption', 'cite', 'code', 'col', 'colgroup',
+    'data', 'datalist', 'dd', 'del', 'details', 'dfn', 'dialog', 'div', 'dl', 'dt',
+    'em', 'embed',
+    'fieldset', 'figcaption', 'figure', 'footer', 'form',
+    'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'head', 'header', 'hr', 'html',
+    'i', 'iframe', 'img', 'input', 'ins',
+    'kbd', 'label', 'legend', 'li', 'link',
+    'main', 'map', 'mark', 'menu', 'meta', 'meter',
+    'nav', 'noscript',
+    'object', 'ol', 'optgroup', 'option', 'output',
+    'p', 'param', 'picture', 'pre', 'progress',
+    'q', 'rp', 'rt', 'ruby',
+    's', 'samp', 'script', 'section', 'select', 'small', 'source', 'span',
+    'strong', 'style', 'sub', 'summary', 'sup',
+    'table', 'tbody', 'td', 'template', 'textarea', 'tfoot', 'th', 'thead',
+    'time', 'title', 'tr', 'track',
+    'u', 'ul', 'var', 'video', 'wbr',
+}
+
+_PLACEHOLDER_TAG_RE = re.compile(r'<(/?)([a-zA-Z][a-zA-Z0-9]*)(/?)>')
+
+def escape_placeholder_tags(content):
+    """Escape <x>, <y> etc. (non-HTML placeholder tags with only ASCII letters) as \\<x\\>."""
+    # Process line by line, skip code blocks and inline code
+    lines = content.split('\n')
+    in_fence = False
+    result = []
+    for line in lines:
+        if re.match(r'^```', line):
+            in_fence = not in_fence
+        if in_fence or line.startswith('    '):
+            result.append(line)
+            continue
+        # Skip inline code spans before replacing
+        def replace_tag(m):
+            slash = m.group(1)
+            tag = m.group(2).lower()
+            self_close = m.group(3)
+            if tag in _HTML_TAGS:
+                return m.group(0)
+            inner = f'{slash}{m.group(2)}{self_close}'
+            return f'\\<{inner}\\>'
+        # Protect inline code, process rest
+        parts = re.split(r'(`[^`]*`)', line)
+        new_parts = []
+        for part in parts:
+            if part.startswith('`') and part.endswith('`'):
+                new_parts.append(part)
+            else:
+                new_parts.append(_PLACEHOLDER_TAG_RE.sub(replace_tag, part))
+        result.append(''.join(new_parts))
+    return '\n'.join(result)
+
+
 def process_file(path):
     with open(path, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -200,6 +257,7 @@ def process_file(path):
     content = fix_htm_links(content)
     content = fix_merged_words(content)
     content = fix_button_brackets(content)
+    content = escape_placeholder_tags(content)
     content = fix_arrow_admonitions(content)
     content = fix_ui_icons(content)
     content = fix_image_spacing(content)
