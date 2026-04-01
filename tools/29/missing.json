@@ -5,99 +5,11 @@
     "children": [
       {
         "title": "devicetaggui_r_feldsichtbaresbmk",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/devicetaggui_r_feldsichtbaresbmk.htm"
-      },
-      {
-        "title": "devicetaggui_r_gruppenfeldeigenschaften",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/devicetaggui_r_gruppenfeldeigenschaften.htm"
-      },
-      {
-        "title": "edaexportgui_d_smartwiring",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/edaexportgui_d_smartwiring.htm"
-      },
-      {
-        "title": "edaexportgui_r_abrstleigenschaften",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/edaexportgui_r_abrstleigenschaften.htm"
-      },
-      {
-        "title": "edaexportgui_r_funktionseigenschaften",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/edaexportgui_r_funktionseigenschaften.htm"
-      },
-      {
-        "title": "eservicesgui_d_eigenschaftsanordnung",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/eservicesgui_d_eigenschaftsanordnung.htm"
-      },
-      {
-        "title": "eservicesgui_d_ersetzungstexte",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/eservicesgui_d_ersetzungstexte.htm"
-      },
-      {
-        "title": "eservicesgui_d_nummusteranschluesse",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/eservicesgui_d_nummusteranschluesse.htm"
-      },
-      {
-        "title": "gededitgui_r_bezierkurve",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/gededitgui_r_bezierkurve.htm"
-      },
-      {
-        "title": "gededitgui_r_ellipse",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/gededitgui_r_ellipse.htm"
-      },
-      {
-        "title": "gededitgui_r_kreis",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/gededitgui_r_kreis.htm"
-      },
-      {
-        "title": "gededitgui_r_linie",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/gededitgui_r_linie.htm"
-      },
-      {
-        "title": "gededitgui_r_polylinie",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/gededitgui_r_polylinie.htm"
-      },
-      {
-        "title": "gededitgui_r_rechteck",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/gededitgui_r_rechteck.htm"
-      },
-      {
-        "title": "helpsystem_hinweise_optout",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/helpsystem_hinweise_optout.htm"
-      },
-      {
-        "title": "license_k_start",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/license_k_start.htm"
-      },
-      {
-        "title": "messages_p_028032",
         "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/messages_p_028032.htm"
       },
       {
-        "title": "modaldialogsdb_d_bmkauswahl",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/modaldialogsdb_d_bmkauswahl.htm"
-      },
-      {
-        "title": "partsimportbmecatgui_d_eclassanwendungsklassen",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/partsimportbmecatgui_d_eclassanwendungsklassen.htm"
-      },
-      {
-        "title": "partsmanagementgui_d_gewerkauswaehlen",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/partsmanagementgui_d_gewerkauswaehlen.htm"
-      },
-      {
-        "title": "plcgui_d_optionsaml",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/plcgui_d_optionsaml.htm"
-      },
-      {
-        "title": "projectprocessinggui_d_einstellungenbetriebsmittelimport",
+        "title": "devicetaggui_r_gruppenfeldeigenschaften",
         "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/projectprocessinggui_d_einstellungenbetriebsmittelimport.htm"
-      },
-      {
-        "title": "userdefproperties_k_prinzip",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/userdefproperties_k_prinzip.htm"
-      },
-      {
-        "title": "xessettingsgui_d_einstellungenprojektkompatibilitaet",
-        "link": "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/htm/xessettingsgui_d_einstellungenprojektkompatibilitaet.htm"
       }
     ]
   }
