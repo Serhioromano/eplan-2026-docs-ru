@@ -20,4 +20,3 @@ USEFILTER  |  Используется схема фильтра, заданна
     /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
     /FILTERSCHEME:filter_scheme
 
-

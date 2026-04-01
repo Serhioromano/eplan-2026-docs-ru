@@ -52,4 +52,3 @@
 
 [Создание графического предварительного планирования](planninggui_h_grafvorplanungerstellen.md)
 
-

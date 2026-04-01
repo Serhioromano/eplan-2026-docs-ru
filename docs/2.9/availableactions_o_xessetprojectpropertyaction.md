@@ -15,4 +15,3 @@ PropertyValue  |  Новое значение свойства
     /PropertyIndex:0
     /PropertyValue:"?"
 
-

@@ -31,4 +31,3 @@ CustomSymbols  |  Имя специфической для проекта нас
     /SymbolId:55
     /VariantId:0
 
-

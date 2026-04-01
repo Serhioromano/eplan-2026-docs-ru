@@ -12,4 +12,3 @@ unregisterInternal  |  Полное имя Add-in, регистрация кот
     /register:"C:\...\EPLAN\Electric P8\...\Bin\Eplan.EplAddin.MyAddin3.dll"Вызов операции для выгрузки дополнительного модуля:W3u.exe EplApiModuleAction
     /unregister:"Eplan.EplAddin.MyAddin3"
 
-

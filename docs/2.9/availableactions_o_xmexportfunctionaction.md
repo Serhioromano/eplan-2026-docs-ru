@@ -26,4 +26,3 @@ ImmediateImport  |  После обработки подтверждение и�
     /Destination:C:\temp\Function.xls
     /ExecutionMode:0
 
-

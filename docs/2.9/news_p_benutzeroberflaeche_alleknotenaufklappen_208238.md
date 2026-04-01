@@ -8,6 +8,5 @@
 * Диалоговое окно Генерировать схему соединений ПЛК для устройств ПЛК
 * Диалоговое окно 'Свойства' условных обозначений на вкладке Отображение в таблице Свойство / присвоение.
 
-[![](images/userinterface_allexpandexample_ls_thumb_0_60.png)](../Pictures/Gui/Lang/userinterface_allexpandexample_ls.png)
-
+![](images/userinterface_allexpandexample_ls.png)
 

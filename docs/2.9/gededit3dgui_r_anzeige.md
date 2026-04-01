@@ -13,4 +13,3 @@
 
 * [Свойства отображения: Размещенное свойство](devicetaggui_r_anzeigeeigenschaften.md)
 
-

@@ -19,4 +19,3 @@
 
 [Вкладка Настройки (Steinhauer PWA)](productionwiringgui_r_einstellungensteinhauerpwa.md)
 
-

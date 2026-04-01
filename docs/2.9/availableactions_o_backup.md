@@ -122,4 +122,3 @@ FILENAME  |  Имя резервируемого файла.
     /SPLITSIZE:0.0
     /MDTYPE:STANDARDSHEET
 
-

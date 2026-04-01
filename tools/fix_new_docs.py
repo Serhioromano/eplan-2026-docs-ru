@@ -10,10 +10,13 @@
 8. Delete transparent.gif / javascript:void lines (collapsed section headers)
 9. Convert arrow.png lines to admonition info blocks
 10. Add { .ui-icon } to inline images smaller than 20x20 px (via Pillow)
+11. Unwrap clickable thumbnails [![](thumb)](../Pictures/.../full.png) → ![](images/full.png),
+    downloading the full image to images/ if not already present.
 """
 
 import re
 import glob
+import urllib.request
 from pathlib import Path
 
 try:
@@ -47,10 +50,39 @@ def collapse_blank_lines(content):
     return re.sub(r'\n{3,}', '\n\n', content)
 
 def strip_list_indent(content):
-    """Remove leading whitespace from list items (* and numbered)."""
-    content = re.sub(r'^[ \t]+\* ', '* ', content, flags=re.MULTILINE)
-    content = re.sub(r'^[ \t]+(\d+\.) ', r'\1 ', content, flags=re.MULTILINE)
-    return content
+    """Remove leading whitespace from list items (* and numbered),
+    but preserve indent inside admonition blocks."""
+    ADM_RE = re.compile(r'^(!{3}|\?{3})')
+    lines = content.splitlines(keepends=True)
+    in_admonition = False
+    body_started = False
+    result = []
+    for line in lines:
+        stripped = line.rstrip('\n\r')
+        if ADM_RE.match(stripped):
+            in_admonition = True
+            body_started = False
+            result.append(line)
+            continue
+        if in_admonition:
+            if stripped == '':
+                # Empty line: end admonition only after body has started
+                if body_started:
+                    in_admonition = False
+                result.append(line)
+                continue
+            if stripped.startswith('    '):
+                # Admonition content — keep as-is
+                body_started = True
+                result.append(line)
+                continue
+            # Non-indented non-empty line ends admonition
+            in_admonition = False
+        # Strip excess indent from list items
+        line = re.sub(r'^[ \t]+(\* )', r'\1', line)
+        line = re.sub(r'^[ \t]+(\d+\. )', r'\1', line)
+        result.append(line)
+    return ''.join(result)
 
 def delete_before_first_heading(content):
     """Delete everything before the first ## heading and make it level 1."""
@@ -243,11 +275,48 @@ def escape_placeholder_tags(content):
     return '\n'.join(result)
 
 
-def process_file(path):
+# ── Clickable thumbnail unwrapper ────────────────────────────────────────────
+# Matches: [![](images/NAME_thumb_0_60.png)](../Pictures/Sub/Dir/NAME.png)
+_THUMB_RE = re.compile(
+    r'\[!\[([^\]]*)\]\(images/[^)]+\)\]'   # [![](images/thumb.png)]
+    r'\((\.\./[^)]+\.png)\)'               # (../Pictures/.../real.png)
+)
+_EPLAN_PICS_BASE = "https://eplan.help/ru-ru/Infoportal/Content/Plattform/2.9/Content/"
+
+def fix_thumbnails(content, images_dir):
+    """Replace [![](thumb)](../Pictures/.../full.png) with ![](images/full.png),
+    downloading full.png to images_dir if not already present."""
+    images_dir = Path(images_dir)
+
+    def replace(m):
+        alt = m.group(1)
+        rel_path = m.group(2)       # ../Pictures/Gui/Lang/foo.png
+        fname = Path(rel_path).name # foo.png
+        dest = images_dir / fname
+
+        if not dest.exists():
+            clean = re.sub(r'^(\.\./)+', '', rel_path)
+            url = _EPLAN_PICS_BASE + clean
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                data = urllib.request.urlopen(req, timeout=20).read()
+                dest.write_bytes(data)
+            except Exception as e:
+                print(f"  WARN: could not download {url}: {e}")
+                return m.group(0)
+
+        return f'![{alt}](images/{fname})'
+
+    return _THUMB_RE.sub(replace, content)
+
+
+def process_file(path, images_dir=None):
     with open(path, 'r', encoding='utf-8') as f:
         content = f.read()
 
+    _idir = images_dir or str(Path(path).parent / 'images')
     original = content
+    content = fix_thumbnails(content, _idir)
     content = delete_before_first_heading(content)
     content = delete_transparent_gif_lines(content)
     content = fix_see_also(content)
@@ -277,8 +346,8 @@ images_dir = sys.argv[2] if len(sys.argv) > 2 else f'{docs_dir}/images'
 _SMALL_IMAGES = _load_small_images(images_dir)
 
 count = 0
-for path in sorted(glob.glob(f'{docs_dir}/*.md')):
-    if process_file(path):
+for path in sorted(glob.glob(f'{docs_dir}/*.md') + glob.glob(f'{docs_dir}/**/*.md')):
+    if process_file(path, images_dir):
         count += 1
 
 print(f'Updated {count} files')

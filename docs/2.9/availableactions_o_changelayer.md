@@ -35,4 +35,3 @@ TRANSPARENCY  |  Задает прозрачность трехмерного с
     /TEXTHEIGHT2:6
     /COLORID2:11
 
-

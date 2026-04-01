@@ -51,4 +51,3 @@ USESELECTION  |  Устанавливает, необходимо ли учит�
     /RECREPEAT:3
     /TASKREPEAT:2
 
-

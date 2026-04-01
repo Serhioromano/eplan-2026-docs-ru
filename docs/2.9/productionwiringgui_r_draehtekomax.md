@@ -60,4 +60,3 @@
 
 ![](images/productionwiringgui_stripofflength_as.png)
 
-

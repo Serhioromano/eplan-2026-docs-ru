@@ -11,4 +11,3 @@ ShowDecider  |  Отображает запрос о повторной реги
     RegisterScript
     /ScriptFile:"C:\myScript.cs"
 
-

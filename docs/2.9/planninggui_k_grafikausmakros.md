@@ -54,4 +54,3 @@
 
 [Диалоговое окно Обновить детальное планирование](planninggui_d_detailplanungaktualisieren.md)
 
-

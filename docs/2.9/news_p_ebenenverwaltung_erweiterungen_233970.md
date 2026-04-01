@@ -2,7 +2,7 @@
 
 Управление слоями в этой версии стало ***присоединяемым диалоговым окном***. Все изменения в новом диалоговом окне Управление слоями сохраняются автоматически. Кроме того, управление слоями дополнено новыми функциями, такими как поиск слоев и изменение присвоения слоев.
 
-[![](images/layermanager_layermanagerdialog_ls_thumb_0_60.png)](../Pictures/Gui/Lang/layermanager_layermanagerdialog_ls.png)
+![](images/layermanager_layermanagerdialog_ls.png)
 
 В рамках этого расширения теперь в диалоговом окне посредством добавленного пункта всплывающего меню Конфигурировать представление можно задавать отображение и последовательность столбцов.
 
@@ -48,5 +48,4 @@
 [![](images/link_helpsystem_book.png){: .ui-icon }Работа со слоями](layermanager_h_ebenenbearbeiten.md)
 
 [![](images/link_helpsystem_book.png){: .ui-icon }Диалоговое окно Результаты поиска](searchandreplacegui_d_suchergebnisse.md)
-
 

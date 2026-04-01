@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
-- ### Проекты 
+- ### Проекты
 
   - [Обработать](projects_k_start.md)
   - [Управлять](prjmanagementgui_k_start.md)
@@ -26,7 +26,7 @@
 
   - [Соединения](connectionbrowsergui_k_start.md)
   - [Кабель](cablegui_k_start.md)
-  - [Маршрутизируемые соединения](routinggui_k_start.md) 
+  - [Маршрутизируемые соединения](routinggui_k_start.md)
 
 - ### Отчеты
 

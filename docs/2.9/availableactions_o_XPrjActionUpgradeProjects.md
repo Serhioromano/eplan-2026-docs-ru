@@ -19,4 +19,3 @@ IgnoreUpgradeBackups  |  1: Резервные копии проектов иг�
     XPrjActionUpgradeProjects
     /Project:$(MD_PROJECTS)ESS_Sample_Project.elk
 
-

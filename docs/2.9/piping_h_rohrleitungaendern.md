@@ -50,4 +50,3 @@
 
 ![](images/piping_movesegment3_as.png)
 
-

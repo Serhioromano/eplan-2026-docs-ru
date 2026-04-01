@@ -19,4 +19,3 @@ SOURCE  |  Исходный язык.
     /DISPLAY:en_US;de_DE
     /VARIABLE:en_US
 
-

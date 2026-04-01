@@ -62,4 +62,3 @@ USEPAGEFILTER  |  Определяет, должны ли использоват
     /PAGENAME:=EB3+ET1/2
     /EXPORTSCHEME:Bitmap
 
-

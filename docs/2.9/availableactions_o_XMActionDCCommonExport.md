@@ -26,4 +26,3 @@ IMMEDIATEIMPORT  |  После обработки подтверждение и�
     /DESTINATION:c:\temp\Pages.xls
     /EXECUTIONMODE:0
 
-

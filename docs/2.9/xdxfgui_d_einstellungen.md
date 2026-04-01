@@ -33,4 +33,3 @@
 
 [Вкладка Атрибут блока](xdxfgui_r_blockattribut.md)
 
-

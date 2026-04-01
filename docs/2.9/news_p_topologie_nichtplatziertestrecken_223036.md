@@ -7,7 +7,7 @@
 
 С этой целью в настройках проекта для соединений стал доступен новый флажок Отменить неразмещенные сегменты маршрутизации топологии в трассе маршрутизации и Вывести точки маршрутизации топологии с длиной в трассе маршрутизации. Путь меню для этих настроек: Параметры > Настройки > Проекты > "Имя проекта" > Соединения > Общее.
 
-[![](images/connectionsettingsgui_newtopologysettings_ls_thumb_0_60.png)](../Pictures/Gui/Lang/connectionsettingsgui_newtopologysettings_ls.png)
+![](images/connectionsettingsgui_newtopologysettings_ls.png)
 
 ![](images/benefit.png)Эффект:
 

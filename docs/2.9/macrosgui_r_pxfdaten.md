@@ -33,4 +33,3 @@
 ![](images/all_delete_as.png){: .ui-icon } (Удалить) |  Удаляет выбранный элемент формата.
 ![](images/all_arrowup_as.png){: .ui-icon } (Переместить вверх) / ![](images/all_arrowdown_as.png){: .ui-icon } (Переместить вниз) |  Перемещает запись в списке вверх / вниз.
 
-

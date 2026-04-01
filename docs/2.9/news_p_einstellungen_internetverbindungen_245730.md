@@ -2,7 +2,7 @@
 
 На платформе EPLAN имеются различные компоненты программы, которые используют окно браузера для интернет-соединения (например, EPLAN Data Portal, менеджер загрузок EPLAN и т. д.). В настройках подключения к Интернету теперь можно удалять данные браузера и задавать использование настроек прокси операционной системы.
 
-[![](images/eplaneplcoreaddinedata_internetconnections_ls_thumb_0_60.png)](../Pictures/Gui/Lang/eplaneplcoreaddinedata_internetconnections_ls.png)
+![](images/eplaneplcoreaddinedata_internetconnections_ls.png)
 
 ### Удалить данные браузера всех окон браузера EPLAN
 

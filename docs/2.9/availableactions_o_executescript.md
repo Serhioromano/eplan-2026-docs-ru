@@ -16,4 +16,3 @@ ScriptFile  |  Подлежащий выполнению файл сценари
     /Param2:EPLAN
     /Param3:" API developer!"
 
-

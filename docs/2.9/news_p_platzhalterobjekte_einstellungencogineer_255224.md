@@ -6,7 +6,7 @@
 
 С помощью новой вкладки Настройки вы можете управлять использованием объектов-заполнителей в EPLAN Cogineer в соответствии с вашими требованиями.
 
-[![](images/macrosgui_placeholdersettings_ls_thumb_0_60.png)](../Pictures/Gui/Lang/macrosgui_placeholdersettings_ls.png)
+![](images/macrosgui_placeholdersettings_ls.png)
 
 Если установлен флажок Использовать объект-заполнитель в EPLAN Cogineer, то после добавления макроса объект-заполнитель становится доступным в EPLAN Cogineer и учитывается при генерировании схемы соединений в EPLAN Cogineer. В этом случае значения, присвоенные в EPLAN Cogineer, отображаются на объекте-заполнителе на сгенерированной странице схемы соединений.
 

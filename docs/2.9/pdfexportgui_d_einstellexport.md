@@ -23,4 +23,3 @@
 
 [Вкладка Свойства устройства / Свойства изделия](pdfexportgui_r_bmeigenschaften.md)
 
-

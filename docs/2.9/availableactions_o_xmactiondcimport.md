@@ -16,4 +16,3 @@ ProgressTitle  |  Задает название индикатора выпол�
     /ProjectLink:C:\Projects\EPLAN\test.elk
     /DataConfigurationFile:C:\EPLAN\DataCfgFile.edc
 
-

@@ -29,4 +29,3 @@ MODE  |  Указывает, как следует восстанавливат�
     /ARCHIVENAME:U:\temp\SSHmy_MasterData.zw2
     /DESTINATIONPATH:U:\temp
 
-

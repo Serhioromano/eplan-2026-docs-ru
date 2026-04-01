@@ -5,4 +5,3 @@
 Дополнительные сведения о поддерживаемых операционных системах и выпусках программного обеспечения см. по адресу:
 <https://www.eplan.help/ru-RU/Infoportal/Content/htm/portal_software_approvals.htm>
 
-

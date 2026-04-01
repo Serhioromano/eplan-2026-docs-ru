@@ -106,4 +106,3 @@
 
 [Определить нумерацию устройств (Изменение стандарта)](changestandardsgui_h_nummerieren.md)
 
-

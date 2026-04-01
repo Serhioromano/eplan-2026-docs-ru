@@ -46,4 +46,3 @@
 
 ![](images/routing_cableprotection_as.png)
 
-

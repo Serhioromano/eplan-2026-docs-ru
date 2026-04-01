@@ -17,4 +17,3 @@ EXPORTFILE  |  Каталог и имя файла конфигурации сл
     /PROJECTNAME:C:\Projects\EPLAN\DEMO2_D.elk
     /IMPORTFILE:C:\EPLAN\ESS_Sample_Project.elc
 
-

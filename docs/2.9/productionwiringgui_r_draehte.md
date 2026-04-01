@@ -11,4 +11,3 @@
 
 [Вкладка Провода (Schleuniger)](productionwiringgui_r_draehteschleuniger.md)
 
-

@@ -25,4 +25,3 @@ FORMAT  |  Необязательно: формат файла ("XDLXmlExporter"
     /TYPE:DELETE
     /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
 
-

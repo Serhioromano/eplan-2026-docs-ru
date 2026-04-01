@@ -13,4 +13,3 @@
 
 [Вкладка Формат](gededitgui_r_format.md)
 
-

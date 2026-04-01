@@ -47,4 +47,3 @@ SELn |  Ид. объекта переводимых страниц (необяз
     /EXPORTFILE:d:\temp\missingTransFile.txt
     /CONVERTER:XE5LanguageDbXmlConverterImpl
 
-

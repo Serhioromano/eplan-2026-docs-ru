@@ -10,7 +10,7 @@
 
 Стандартизированные диалоговые окна и упрощенная обработка облегчают определение инструментов для монтажных работ.
 
-[![](images/cabinetgui_mountinggrid_ls_thumb_0_60.png)](../Pictures/Gui/Lang/cabinetgui_mountinggrid_ls.png)
+![](images/cabinetgui_mountinggrid_ls.png)
 
 ### Упрощенное определение монтажных сеток
 

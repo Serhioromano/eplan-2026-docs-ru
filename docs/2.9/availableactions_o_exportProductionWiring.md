@@ -30,4 +30,3 @@ MultipleConnections  |  Если значение = 1, повторно эксп
     /MultipleConnections:1
     /UseSelection:0
 
-

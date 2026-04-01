@@ -19,4 +19,3 @@ SHOW  |  1: Открывается предварительный просмот
     /PROJECTNAME:$(MD_PROJECTS)\ESS_Sample_Project
     /MACRONAME:$(MD_MACROS)\Macro_0001.ema
 
-

@@ -52,4 +52,3 @@
 
 [Сжать проект](projectcleangui_h_projektsaeubern.md)
 
-
