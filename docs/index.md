@@ -1,4 +1,4 @@
-# Платформа Eplan
+# Платформа Eplan 2026
 
 <div class="grid cards" markdown>
 
