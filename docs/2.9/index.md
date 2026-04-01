@@ -4,34 +4,34 @@
 
 - ### Проекты 
 
-  - [Обработать](projects_k_start.htm)
-  - [Управлять](prjmanagementgui_k_start.htm)
-  - [Управление ревизиями](revisionmgtgui_k_start.htm)
+  - [Обработать](projects_k_start.md)
+  - [Управлять](prjmanagementgui_k_start.md)
+  - [Управление ревизиями](revisionmgtgui_k_start.md)
 
 - ### Графический редактор
 
-  - [2D](gededitgui_k_start.htm)
-  - [3D](cabinetgui_k_prinzip.htm)
+  - [2D](gededitgui_k_start.md)
+  - [3D](cabinetgui_k_prinzip.md)
 
 - ### Устройства
 
-  - [Свойства](devicetaggui_k_bmeigenschaften.htm)
-  - [Устройства](devicelistgui_k_start.htm)
-  - [Функции](xfctdefbrowsergui_k_start.htm)
+  - [Свойства](devicetaggui_k_bmeigenschaften.md)
+  - [Устройства](devicelistgui_k_start.md)
+  - [Функции](xfctdefbrowsergui_k_start.md)
   - Макросы
-  - [Макросы](macrosgui_k_start.htm)
-  - [Опции](projectoptionsgui_k_start.htm)
+  - [Макросы](macrosgui_k_start.md)
+  - [Опции](projectoptionsgui_k_start.md)
 
 - ### Соединения
 
-  - [Соединения](connectionbrowsergui_k_start.htm)
-  - [Кабель](cablegui_k_start.htm)
-  - [Маршрутизируемые соединения](routinggui_k_start.htm) 
+  - [Соединения](connectionbrowsergui_k_start.md)
+  - [Кабель](cablegui_k_start.md)
+  - [Маршрутизируемые соединения](routinggui_k_start.md) 
 
 - ### Отчеты
 
-  - [Генерировать](formgeneratorgui_k_auswertungstypen.htm)
-  - [Механическая обработка](ncgui_k_start.htm)
-  - [Сборка проводов](productionwiringgui_k_start.htm)
+  - [Генерировать](formgeneratorgui_k_auswertungstypen.md)
+  - [Механическая обработка](ncgui_k_start.md)
+  - [Сборка проводов](productionwiringgui_k_start.md)
 
 </div>
