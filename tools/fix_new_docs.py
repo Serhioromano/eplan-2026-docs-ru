@@ -93,6 +93,10 @@ def delete_before_first_heading(content):
         content = '# ' + content[3:]
     return content
 
+def fix_glossary_links(content):
+    """Convert [text](Glossary_o_*.md) links to plain text."""
+    return re.sub(r'\[([^\]]+)\]\(Glossary_o_[^)]+\.md\)', r'\1', content)
+
 def fix_javascript_links(content):
     """Convert [text](javascript:...) links to plain text, remove empty ones."""
     content = re.sub(r'\[([^\]]+)\]\(javascript:[^)]*\);?\)?', r'\1', content)
@@ -321,6 +325,7 @@ def process_file(path, images_dir=None):
     content = delete_transparent_gif_lines(content)
     content = fix_see_also(content)
     content = strip_list_indent(content)
+    content = fix_glossary_links(content)
     content = fix_javascript_links(content)
     content = fix_stray_semicolon_paren(content)
     content = fix_htm_links(content)

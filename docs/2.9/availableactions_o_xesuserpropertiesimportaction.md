@@ -11,5 +11,3 @@ Overwrite  |  Если значение равно 0, определенные �
     XEsUserPropertiesImportAction
     /XMLFile:c:\my_user.xml
     /Project:c:\...\ESS_Sample_Project.elk
-
-  С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)). Скрыть сообщение

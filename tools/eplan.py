@@ -8,8 +8,8 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 # Пути
-INPUT_FILE = "29/msg2.json"
-OUTPUT_DIR = Path("../docs/2.9/msg")
+INPUT_FILE = "29/missing.json"
+OUTPUT_DIR = Path("../docs/2.9/missing")
 LOG_FILE = Path("processed_links.txt")
 
 # Настройки для Markdown

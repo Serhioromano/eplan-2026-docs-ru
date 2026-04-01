@@ -35,8 +35,8 @@
 
 Возможности настройки свойств отображения описаны в следующих разделах:
 
-* [Свойства отображения: Размещенное свойство](../../../DeviceTagGUI/Content/htm/devicetaggui_r_anzeigeeigenschaften.md)
-* [Свойства отображения: Образ контакта](../../../DeviceTagGUI/Content/htm/devicetaggui_r_anzeigekontaktspiegel.md)
+* [Свойства отображения: Размещенное свойство](devicetaggui_r_anzeigeeigenschaften.md)
+* [Свойства отображения: Образ контакта](devicetaggui_r_anzeigekontaktspiegel.md)
 
 ### Всплывающее меню:
 
