@@ -50,4 +50,3 @@ USESELECTION |  Устанавливает, необходимо ли учиты
 /DESTINATIONFILE:c:\temp\labeling.txt
 /RECREPEAT:3
 /TASKREPEAT:2
-

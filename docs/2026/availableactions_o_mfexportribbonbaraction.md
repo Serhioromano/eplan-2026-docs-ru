@@ -8,4 +8,3 @@ FileName |  Имя экспортируемого XML-файла, включая
 
     MfExportRibbonBarAction
 /FileName:"?"
-

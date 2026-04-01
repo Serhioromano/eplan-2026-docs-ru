@@ -20,4 +20,3 @@
 **См. также:**
 
 * [Обработать свойства рамок](formeditorgui_h_normblatteigenschaftenbearbeiten.md)
-

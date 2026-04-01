@@ -32,4 +32,3 @@
 **См. также:**
 
 * [Диалоговое окно Вывод устройства](symboleditorgui_d_anschlusspunkt.md)
-

@@ -39,4 +39,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Экспорт DXF, медь](ncgui_d_einstellungenncexportperdxf.md)
-

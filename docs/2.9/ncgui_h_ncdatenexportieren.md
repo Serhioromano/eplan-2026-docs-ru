@@ -23,4 +23,3 @@
 * [Диалоговое окно Настройки: Экспорт Rittal - Perforex BC / Secarex](ncgui_d_einstellungenncexportkiesling.md)
 * [Конфигурирование машины ЧУ](ncgui_h_ncmaschinekonfigurieren.md)
 * [Диалоговое окно Настройки: Исходная точка](cabinetgui_d_einstellungennullschnitt.md)
-

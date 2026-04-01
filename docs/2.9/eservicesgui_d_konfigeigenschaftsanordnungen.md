@@ -87,4 +87,3 @@
 
 * [Использовать определенный пользователем порядок свойств](devicetaggui_h_eigschanordnungen.md)
 * [Графический редактор](gededitgui_k_start.md)
-

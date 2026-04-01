@@ -53,4 +53,3 @@
 **См. также:**
 
 * [Импортировать данные устройств и устройства](projectprocessinggui_h_betriebsmittelimportieren.md)
-

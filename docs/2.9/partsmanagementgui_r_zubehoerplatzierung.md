@@ -14,4 +14,3 @@
 
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Вкладка Размещение (пространство листа)](partsmanagementgui_r_platzierung.md)
-

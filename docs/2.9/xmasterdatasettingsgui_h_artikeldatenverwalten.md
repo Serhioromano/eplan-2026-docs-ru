@@ -46,4 +46,3 @@
 **См. также:**
 
 * [Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
-

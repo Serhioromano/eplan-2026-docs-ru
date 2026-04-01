@@ -15,4 +15,3 @@
 * [Проверка проекта](processreceiptcontrol_k_start.md)
 * [Проект для сравнения и проект с замечаниями](processreceiptcontrol_k_projekte.md)
 * [Управление проектами](prjmanagementgui_k_start.md)
-

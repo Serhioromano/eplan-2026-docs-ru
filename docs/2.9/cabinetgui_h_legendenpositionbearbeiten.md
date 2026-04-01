@@ -17,4 +17,3 @@
 * [Диалоговое окно Обработать позицию легенды](panellayoutgui_d_legendenposbearbeiten.md)
 * [Диалоговое окно Нумеровать](panellayoutgui_d_nummerieren.md)
 * [Диалоговое окно Пространство листа — <Имя проекта>](cabinetgui_d_navigator.md)
-

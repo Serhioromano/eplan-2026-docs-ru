@@ -47,4 +47,3 @@
 
 * [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
 * [Адресация выводов устройства ПЛК](plcgui_k_adressierung.md)
-

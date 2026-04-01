@@ -74,4 +74,3 @@
 
 * [Раздельное представление клемм](terminalgui_k_verteiltedarstellungklemmen.md)
 * [Создание перемычек при распределенных клеммах](terminalgui_k_brueckenbildung.md)
-

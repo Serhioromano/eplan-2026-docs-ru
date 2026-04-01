@@ -31,4 +31,3 @@
 
 * [Найти и заменить](searchandreplacegui_k_start.md)
 * [Поиск данных проекта](searchandreplacegui_h_suchen.md)
-

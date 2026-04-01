@@ -17,4 +17,3 @@
 * [Жгутовое представление соединений в схемах соединений](singlepole_k_straenge_in_einpoligerdarstellung.md)
 * [Структуры сети](singlepole_k_bustopologien.md)
 * [Синхронизировать распределенно представленные функции](adjustdata_h_funktionabgleichen.md)
-

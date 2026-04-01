@@ -45,4 +45,3 @@
 
 * [Кабели](cablegui_k_start.md)
 * [Графическое представление кабелей и экранирований](cablegui_k_grafischedarstellung.md)
-

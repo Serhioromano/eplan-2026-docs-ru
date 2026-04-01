@@ -21,4 +21,3 @@
 
 * [Диалоговое окно Экспорт изгибания труб](ncgui_d_exportpipefab.md)
 * [Диалоговое окно Настройки: Экспорт изгибания труб](ncgui_d_einstellungenrohrbiegung.md)
-

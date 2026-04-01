@@ -63,4 +63,3 @@
 
 * [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
-

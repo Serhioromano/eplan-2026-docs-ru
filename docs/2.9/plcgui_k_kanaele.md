@@ -30,4 +30,3 @@
 * [Работа, ориентированная на канал](plcgui_k_kanalorientiertarbeitsweise.md)
 * [Принадлежность точек подвода питания к каналу](plcgui_k_kanalzugehoerigkeit.md)
 * [Обработка данных ПЛК](plcgui_k_arbeitsweise.md)
-

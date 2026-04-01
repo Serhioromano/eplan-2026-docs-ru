@@ -50,4 +50,3 @@
 **См. также:**
 
 * [Вставить монтажные отверстия](cabinetgui_h_durchbrucheinfuegen.md)
-

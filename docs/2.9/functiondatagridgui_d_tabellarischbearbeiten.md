@@ -53,4 +53,3 @@
 
 * [Диалоговое окно Настройки: Табличная обработка](functiondatagridgui_d_schematabellarischebearbeitung.md)
 * [Обработать объекты в табличном виде](functiondatagridgui_h_tabellarischbearbeiten.md)
-

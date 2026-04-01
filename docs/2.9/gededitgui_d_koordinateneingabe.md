@@ -26,4 +26,3 @@
 * [Переместить исходную точку координат](gededitgui_h_bezugspunktverschiebung.md)
 * [Ввести координаты при черчении](gededitgui_h_koordinatenbeimzeichnen.md)
 * [Диалоговое окно Относительный ввод координат](gededitgui_d_relativekoordinaten.md)
-

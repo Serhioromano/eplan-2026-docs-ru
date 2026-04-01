@@ -14,4 +14,3 @@
 
 * [PDF-комментарии](redlining_k_start.md)
 * [Исполнитель и нормоконтролер](redlining_k_projektkommentator.md)
-

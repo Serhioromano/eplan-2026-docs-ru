@@ -22,4 +22,3 @@
 * [Проекты](projects_k_start.md)
 * [Управление проектами](prjmanagementgui_k_start.md)
 * [Экспортировать проекты](projects_h_exportieren.md)
-

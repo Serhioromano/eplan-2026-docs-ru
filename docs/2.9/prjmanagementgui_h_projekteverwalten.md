@@ -61,4 +61,3 @@
 
 * [Управление проектами](prjmanagementgui_k_start.md)
 * [Считать каталоги и проекты](prjmanagementgui_h_verzeichniseinlesen.md)
-

@@ -28,4 +28,3 @@
 
 * [Диалоговое окно Опции размещения](cabinetgui_d_platzieroptionen.md)
 * [Определить точку захвата](cabinetgui_h_anfasspunktdefinieren.md)
-

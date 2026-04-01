@@ -41,4 +41,3 @@
 * [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
 * [Обработать и отобразить свойства размещений изделий](panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
 * [Компоновка электрошкафа: Виды размещения](panellayoutgui_k_platzierungsarten.md)
-

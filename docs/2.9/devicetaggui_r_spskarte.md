@@ -84,4 +84,3 @@
 * [Вкладки <Категория функции > / <Категория функции> (Устройство)](devicetaggui_r_bmdaten.md)
 * [Вкладка Данные структуры ПЛК](devicetaggui_r_spsstruktur.md)
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
-

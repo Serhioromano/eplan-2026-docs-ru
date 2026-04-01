@@ -23,4 +23,3 @@
 * [Определить структуру проекта (изменение стандарта)](changestandardsgui_h_projektstrukturanpassen.md)
 * [Заменить библиотеки символов и символы (Изменение стандарта)](changestandardsgui_h_symboletauschen.md)
 * [Создать схему присвоения для символов (Изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
-

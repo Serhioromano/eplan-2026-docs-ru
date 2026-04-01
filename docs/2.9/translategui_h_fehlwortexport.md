@@ -43,4 +43,3 @@
 * [Словарь](translatedbgui_k_start.md)
 * [Отдельные слова, предложения, заполнители в ключевых словах](translatedbgui_k_eingabemoeglichkeit.md)
 * [Импортировать список отсутствующих слов](translategui_h_fehlwortimport.md)
-

@@ -17,4 +17,3 @@
 * [Импортировать изделия из каталога продуктов Festo](festocatalog_h_artikelimportieren.md)
 * [Выбрать изделия из каталога продуктов Festo](festocatalog_h_artikelauswaehlen.md)
 * [Отобразить гиперссылки на Web-узел Festo](festocatalog_h_hyperlinksanzeigen.md)
-

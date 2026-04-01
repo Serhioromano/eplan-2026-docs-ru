@@ -54,4 +54,3 @@
 * [Предварительное планирование](planninggui_k_start.md)
 * [Импортировать данные предварительного планирования](planninggui_h_importvorplanung.md)
 * [Диалоговое окно Синхронизировать данные предварительного планирования](planninggui_d_importabgleich.md)
-

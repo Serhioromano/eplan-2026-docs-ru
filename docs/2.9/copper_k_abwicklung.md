@@ -30,4 +30,3 @@
 * [Создать развертку шины](copper_h_kupferabwicklungerstellen.md)
 * [Вкладка Вид (развертка)](gededit3dgui_r_ansichtabwicklung.md)
 * [Вкладка Места изгиба](devicetaggui_r_biegestellen.md)
-

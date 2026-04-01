@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Определить общую графику в формах](formeditorgui_h_allggrafikeninformularendefinieren.md)
-

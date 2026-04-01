@@ -30,4 +30,3 @@ CustomSymbols  |  Имя специфической для проекта нас
     /SymbolLibName:IEC_symbol
     /SymbolId:55
     /VariantId:0
-

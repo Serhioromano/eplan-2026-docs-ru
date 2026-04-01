@@ -65,4 +65,3 @@
 * [Адресация выводов устройства ПЛК](plcgui_k_adressierung.md)
 * [Форматы адресов](plcprocessorgui_k_adressformate.md)
 * [Вкладка Блок ПЛК](devicetaggui_r_spskarte.md)
-

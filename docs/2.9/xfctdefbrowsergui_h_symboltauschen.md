@@ -15,4 +15,3 @@
 * [Определения функций: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.md)
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
 * [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)
-

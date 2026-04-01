@@ -36,4 +36,3 @@
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
 * [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
 * [Свойства EPLAN: Принцип](properties_k_prinzip.md)
-

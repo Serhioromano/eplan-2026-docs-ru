@@ -29,4 +29,3 @@
 
 * [Считать данные шлангопроводов](fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
 * [Диалоговое окно "Конфигурировать шлангопроводы"](fluidhoseconfiggui_d_schlauchleitungen.md)
-

@@ -71,4 +71,3 @@
 * [Начертить заблокированные области](panellayoutgui_h_sperrflaechenzeichnen.md)
 * [Обновить главные элементы](panellayoutgui_h_hauptbauteileaktualisieren.md)
 * [Обновить размеры изделий](panellayoutgui_h_artikelabmessungenaktualisieren.md)
-

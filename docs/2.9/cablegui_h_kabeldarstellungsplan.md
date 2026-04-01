@@ -62,4 +62,3 @@
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
 * [Удалить страницы отчета](formgeneratorgui_h_auswertungloeschen.md)
 * [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)
-

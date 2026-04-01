@@ -25,4 +25,3 @@
 
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Диалоговое окно Выровнять и отформатировать обозначения соединений](wirenumberinggui_d_verbnumausrichtenformatieren.md)
-

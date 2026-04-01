@@ -85,4 +85,3 @@
 * [Диалоговое окно Буфер обмена](macrosgui_d_zwischenablage.md)
 * [Многопользовательский режим](xesmultiuserconflictgui_k_start.md)
 * [Обновить соединения](connectionbrowsergui_h_verbindungenbearbeiten.md)
-

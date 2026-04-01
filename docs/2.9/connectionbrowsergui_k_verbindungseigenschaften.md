@@ -123,4 +123,3 @@
 * [Вкладки Гидравлика/Пневматика/Охлаждение/Смазка/Технология производственных процессов](connectionsettingsgui_r_projekteinstellungenhydraulik.md)
 * [Диалоговое окно Настройки: Цвета соединений](connectionsettingsgui_d_einstellungenaderfarben.md)
 * [Соединения: Единицы измерения длины и поперечного сечения](connectionbrowsergui_k_einheitenverbindungen.md)
-

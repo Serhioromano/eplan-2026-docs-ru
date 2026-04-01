@@ -19,4 +19,3 @@
 
 * [Автоматически генерировать кабели](cablegui_h_kabelerzeugen.md)
 * [Автоматически сгенерированные кабели](cablegui_k_automatikkabel.md)
-

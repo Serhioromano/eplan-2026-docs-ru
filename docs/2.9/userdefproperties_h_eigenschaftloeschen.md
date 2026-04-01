@@ -51,4 +51,3 @@
 Удалить определенные пользователем свойства
 
 [Сжать проект](projectcleangui_h_projektsaeubern.md)
-

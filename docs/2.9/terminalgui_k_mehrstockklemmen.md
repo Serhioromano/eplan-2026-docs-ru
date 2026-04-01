@@ -50,4 +50,3 @@
 * [Клеммы](terminalgui_k_start.md)
 * [Управление клеммами](terminalgui_k_verwaltung.md)
 * [Определить многоуровневые клеммы](terminalgui_h_mehrstockklemmenarbeit.md)
-

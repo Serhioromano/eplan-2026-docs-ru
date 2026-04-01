@@ -29,4 +29,3 @@
 
 * [Обмен данными шлангопроводов](fluidhoseconfiggui_k_datenaustausch.md)
 * [Варианты применения и рабочий процесс](fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
-

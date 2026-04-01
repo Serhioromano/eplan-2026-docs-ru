@@ -45,4 +45,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Управление курсором с помощью клавиатуры](gededitgui_k_cursortastatur.md)
 * [Обзор комбинаций клавиш](gededitgui_k_tastaturbefehle.md)
-

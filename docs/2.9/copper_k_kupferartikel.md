@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Определить медное изделие](copper_h_kupferartikeldefinieren.md)
-

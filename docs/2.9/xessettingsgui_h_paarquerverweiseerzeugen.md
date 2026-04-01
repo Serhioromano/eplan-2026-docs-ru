@@ -28,4 +28,3 @@
 **См. также:**
 
 * [ Перекр. ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
-

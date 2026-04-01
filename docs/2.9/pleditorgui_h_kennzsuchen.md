@@ -30,4 +30,3 @@
 
 * [Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](pleditorgui_d_kennzeichen.md)
 * [Диалоговое окно Настройки: Синтаксическая проверка ОУ](devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
-

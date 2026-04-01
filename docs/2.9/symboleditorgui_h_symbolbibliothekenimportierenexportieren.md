@@ -34,4 +34,3 @@
 
 * [Создать библиотеки символов](symboleditorgui_h_symbolbibliothekenanlegen.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

@@ -116,4 +116,3 @@
 * [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
 * [Расширить объекты-заполнители](macrosgui_h_platzhalterobjekteerweitern.md)
 * [Конфигурировать представления в виде списка и структуры дерева](modaldialogsdb_h_spaltenkonfigurieren.md)
-

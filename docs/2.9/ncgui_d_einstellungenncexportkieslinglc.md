@@ -30,4 +30,3 @@
 **См. также:**
 
 * [Диалоговое окно Экспорт Rittal - Perforex LC / Secarex](ncgui_d_exportkieslinglc.md)
-

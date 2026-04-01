@@ -30,4 +30,3 @@
 * [Диалоговое окно Формат адреса ПЛК](plcprocessorgui_d_formatspsadresse.md)
 * [Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)](eservicesgui_d_formatzaehler.md)
 * [Диалоговое окно Формат: Разделитель](eservicesgui_d_formattrennzeichen.md)
-

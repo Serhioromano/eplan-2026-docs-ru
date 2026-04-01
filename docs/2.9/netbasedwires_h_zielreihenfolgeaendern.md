@@ -27,4 +27,3 @@
 
 * [Вставить точки определения сети](netbasedwires_h_ndpzeichnen.md)
 * [Определить шлейфы](netbasedwires_h_verbindungsketten.md)
-

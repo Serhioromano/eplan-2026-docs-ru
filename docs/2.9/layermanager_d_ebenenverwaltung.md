@@ -145,4 +145,3 @@
 * [Слои: Принцип](layermanager_k_prinzip.md)
 * [Работа со слоями](layermanager_h_ebenenbearbeiten.md)
 * [Диалоговое окно Настройки: 2D (Пользователь, Графическая обработка)](gedviewer_d_einstellungenbenutzerallgemein.md)
-

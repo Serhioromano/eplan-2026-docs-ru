@@ -13,4 +13,3 @@
 * [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
 * [Вставить сегменты маршрутизации (топология)](cablinggui_h_streckeeinfuegen.md)
 * [Маршрутизировать соединения (топологию)](cablinggui_h_verlegen.md)
-

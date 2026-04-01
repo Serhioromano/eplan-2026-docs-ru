@@ -22,4 +22,3 @@
 * [Проверить проекты](msgmanagementgui_h_prueflauf.md)
 * [Проверить данные проекта в режиме подключения](msgmanagementgui_h_prueflaufonline.md)
 * [Проверить основные данные изделия](msgmanagementgui_h_artikelstammdatenpruefen.md)
-

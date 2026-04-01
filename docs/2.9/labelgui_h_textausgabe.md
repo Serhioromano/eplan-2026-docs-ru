@@ -27,4 +27,3 @@
 * [Определить настройки вывода Excel](labelgui_h_exceldatei.md)
 * [Определить верхний колонтитул, область этикетки и нижний колонтитул](labelgui_h_formatelemfestlegen.md)
 * [Вывести данные изготовления / маркировку](labelgui_h_beschriftungausgeben.md)
-

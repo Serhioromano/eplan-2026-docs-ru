@@ -29,4 +29,3 @@
 
 * [Диалоговое окно Настройки: ПЛК](plcgui_d_allgemeinespseinstellungen.md)
 * [Импортировать или синхронизировать списки присвоений](plcgui_h_importzuli.md)
-

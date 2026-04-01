@@ -20,4 +20,3 @@
 **См. также:**
 
 * [Обработать свойства точек определения контуров](contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
-

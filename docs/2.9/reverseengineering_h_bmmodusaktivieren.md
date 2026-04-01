@@ -33,4 +33,3 @@
 
 * [Общая обработка на страницах отчетов](Reverseengineering_k_start.md)
 * [Общая обработка свойств на страницах отчетов](reverseengineering_h_uebergreifendesbearbeiten.md)
-

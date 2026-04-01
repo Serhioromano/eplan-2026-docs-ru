@@ -50,4 +50,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Использование функций масштабирования](gededitgui_h_zoom.md)
 * [Диалоговое окно Настройки: 2D ('Пользователь', 'Графическая обработка')](gedviewer_d_einstellungenbenutzerallgemein.md)
-

@@ -109,4 +109,3 @@
 * [Объекты планирования, соединения](planninggui_k_verbindungsvorplanung.md)
 * [Графическое предварительное планирование](planninggui_k_grafischevorplanung.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

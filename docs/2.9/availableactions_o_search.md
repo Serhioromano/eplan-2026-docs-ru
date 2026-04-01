@@ -45,4 +45,3 @@ NOTPLACEDFUNCTIONS  |  Искать неразмещенные функции (�
     /LOGICPAGES:1
     /EVALUATIONPAGES:1
     /NOTPLACEDFUNCTIONS:1
-

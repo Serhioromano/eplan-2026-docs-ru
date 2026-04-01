@@ -44,4 +44,3 @@
 
 * [Управление выводом текстов-заполнителей и специальных текстов](formeditorgui_h_platzhaltertexteanzeigen.md)
 * [Обработать формы](formeditorgui_h_formularebearbeiten.md)
-

@@ -33,4 +33,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Работать с группами элементов](gededitgui_h_elementegruppieren.md)
-

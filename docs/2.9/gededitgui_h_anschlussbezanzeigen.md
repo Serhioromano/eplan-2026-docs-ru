@@ -28,4 +28,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Неразмещенные соединения](connectionbrowsergui_k_npv.md)
-

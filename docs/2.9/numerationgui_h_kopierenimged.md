@@ -51,4 +51,3 @@
 * [Автоматическая нумерация новых устройств](numerationgui_h_online.md)
 * [Исключить группы устройств из автоматической нумерации](numerationgui_h_einstellungentreffen.md)
 * [Устройства в макросе/добавить копии с неизмененным ОУ](numerationgui_h_einfuegemoduswaehlen.md)
-

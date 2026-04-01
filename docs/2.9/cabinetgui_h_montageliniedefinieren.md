@@ -44,4 +44,3 @@
 **См. также:**
 
 * [Отображение инструмента для монтажных работ](cabinetgui_h_montagehilfenanzeigen.md)
-

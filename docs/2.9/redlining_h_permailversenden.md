@@ -23,4 +23,3 @@
 * [Объединить PDF-комментарии PDF-файлов](redlining_h_zusammenfuehren.md)
 * [Импортировать PDF-комментарии в проект EPLAN ](redlining_h_pdfkommentareeinlesen.md)
 * [Удалить импортированные PDF-комментарии из EPLAN](redlining_h_projektkommentareloeschen.md)
-

@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Экспорт ЧУ DXF](ncgui_d_einstellungenncexportperdxf.md)
-

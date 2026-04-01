@@ -8,4 +8,3 @@ installFile |  Этот параметр можно использовать в�
 !!! example "Пример:"
 
     Регистрация Add-ons с помощью указания пути к файлу, в котором находится Add-on:XSettingsRegisterAction /Path:c:\MyAddOnРегистрация Add-ons с помощью указания полного пути к файлу install.xml:XSettingsRegisterAction /InstallFile: c:\MyAddOn\CFG\Install.xml
-

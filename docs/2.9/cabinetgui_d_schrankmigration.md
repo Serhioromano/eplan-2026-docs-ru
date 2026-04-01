@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Перенос изделий электрошкафа](cabinetgui_k_artikelmigrieren.md)
-

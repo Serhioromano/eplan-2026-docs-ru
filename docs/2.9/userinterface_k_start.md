@@ -17,4 +17,3 @@
 * [Настройка панелей инструментов](userinterface_h_symbolleistenanpassen.md)
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Настройка отображения таблиц](userinterface_h_anzeigesortierreihenfolgefestlegen.md)
-

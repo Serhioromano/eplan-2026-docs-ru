@@ -112,4 +112,3 @@
 * [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
 * [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
 * [Считать каталоги и проекты](prjmanagementgui_h_verzeichniseinlesen.md)
-

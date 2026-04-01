@@ -52,4 +52,3 @@
 
 * [Штекеры](plugsgui_k_start.md)
 * [Обработка данных штекеров](plugsgui_k_arbeitsweise.md)
-

@@ -117,4 +117,3 @@
 * [Обозначения и описания выводов устройств](fctdeflibdataexchangegui_k_anschluss.md)
 * [Обработать логическую схему выводов устройства](xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
 * [Диалоговое окно Определения функций](xfctdefbrowsergui_d_funktionsdefinitionen.md)
-

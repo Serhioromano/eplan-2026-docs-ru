@@ -82,4 +82,3 @@
 **См. также:**
 
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
-

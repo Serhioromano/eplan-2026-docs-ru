@@ -18,4 +18,3 @@
 **См. также:**
 
 * [Защита устройства](devicetaggui_k_geschuetztebm.md)
-

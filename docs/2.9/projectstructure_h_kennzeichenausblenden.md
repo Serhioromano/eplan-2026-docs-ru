@@ -22,4 +22,3 @@
 
 * [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
 * [Диалоговое окно Настройки: Структура дерева (...)](modaldialogsdb_d_einstellprjstruktur.md)
-

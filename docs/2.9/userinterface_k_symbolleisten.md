@@ -60,4 +60,3 @@
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Диалоговое окно Настройки: Интерфейс пользователя](settingsmastergui_d_oberflaecheneinstellungen.md)
-

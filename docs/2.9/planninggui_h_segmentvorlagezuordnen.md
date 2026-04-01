@@ -75,4 +75,3 @@
 * [Создать и обработать шаблоны сегментов](planninggui_h_segmentvorlageeerstellen.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
 * [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
-

@@ -8,4 +8,3 @@ Complete |  Сохранять одноименные места установ�
 
     XCCreateGravingtextAction
 /Complete:1
-

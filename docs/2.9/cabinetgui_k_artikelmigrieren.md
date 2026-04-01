@@ -78,4 +78,3 @@
 **См. также:**
 
 * [Перенести изделие](cabinetgui_h_artikelmigrieren.md)
-

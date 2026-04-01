@@ -61,4 +61,3 @@
 * [Разместить 3D-макросы](cabinetgui_h_3dmakroplatzieren.md)
 * [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
 * [Вкладка Определение макроса](macrosgui_r_makrodefinition.md)
-

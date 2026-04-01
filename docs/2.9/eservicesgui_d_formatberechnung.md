@@ -80,4 +80,3 @@
 * [Диалоговое окно Формат: Разделитель](eservicesgui_d_formattrennzeichen.md)
 * [Диалоговое окно Формат: Комментарий](eservicesgui_d_formatkommentar.md)
 * [Определить свойства блока](blockproperties_h_blockeigenschaftendefinieren.md)
-

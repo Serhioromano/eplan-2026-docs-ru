@@ -18,4 +18,3 @@
 * [Управление пользователями](uradministration_h_benutzer.md)
 * [Управление группами пользователей](uradministration_h_gruppen.md)
 * [Зарегистрировать или поменять пользователя](uradministration_h_benutzerwechseln.md)
-

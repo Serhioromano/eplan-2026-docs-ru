@@ -44,4 +44,3 @@
 * [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)
 * [Нумеровать и переименовать страницы](pagebrowsergui_h_seitennummerieren.md)
 * [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)
-

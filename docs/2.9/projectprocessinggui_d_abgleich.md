@@ -71,4 +71,3 @@
 
 * [Диалоговое окно "Импортировать данные устройств"](projectprocessinggui_d_bmdatenimport.md)
 * [Диалоговое окно "Импортировать данные соединений"](projectprocessinggui_d_verbindungsdatenimport.md)
-

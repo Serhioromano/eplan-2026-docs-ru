@@ -22,4 +22,3 @@
 * [Создание графического предварительного планирования](planninggui_h_grafvorplanungerstellen.md)
 * [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
 * [Диалоговое окно Настройки: Глубина предварительного планирования](planninggui_d_einstellplanungstiefe.md)
-

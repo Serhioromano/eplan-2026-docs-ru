@@ -43,4 +43,3 @@
 
 * [Диалоговое окно Настройки: Внешняя обработка](macrosgui_d_pxfeinstellungenexport.md)
 * [Внешняя обработка: Принцип работы](pxfinterface_k_arbeitsweise.md)
-

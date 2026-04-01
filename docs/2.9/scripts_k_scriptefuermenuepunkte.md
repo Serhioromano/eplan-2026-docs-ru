@@ -67,4 +67,3 @@ End Class 'RegisterScriptMenu
 
 * [Сценарии](scripts_k_start.md)
 * [Выполнить или загрузить сценарии](scripts_h_scripteausfuehren.md)
-

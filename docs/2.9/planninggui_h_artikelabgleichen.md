@@ -40,4 +40,3 @@
 * [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
 * [Создание графического предварительного планирования](planninggui_h_grafvorplanungerstellen.md)
 * [Назначить сегменты / объекты](planninggui_h_objektezuweisen.md)
-

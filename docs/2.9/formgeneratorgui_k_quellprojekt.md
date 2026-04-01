@@ -30,4 +30,3 @@
 
 * [Отчеты](formgeneratorgui_k_start.md)
 * [Вывести отчет в другой проект](formgeneratorgui_h_inanderesprojekt.md)
-

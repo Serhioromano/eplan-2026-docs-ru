@@ -31,4 +31,3 @@
 * [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
 * [Создать группы форматов](wirenumberinggui_h_formatgruppenerstellen.md)
 * [Обработать группы форматов](wirenumberinggui_h_formatgruppenbearbeiten.md)
-

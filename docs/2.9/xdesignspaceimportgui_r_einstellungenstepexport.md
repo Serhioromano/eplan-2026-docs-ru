@@ -88,4 +88,3 @@
 **См. также:**
 
 * [Вкладка Настройки: Импорт пространства конструкции](xdesignspaceimportgui_r_einstellungenstepimport.md)
-

@@ -13,4 +13,3 @@
 * [Размещения отчета на странице вручную](formgeneratorgui_h_auswplatzieren.md)
 * [Генерировать легенды электрошкафа](panellayoutgui_h_legendenanlegen.md)
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
-

@@ -26,4 +26,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: 3D (Пользователь, Графическая обработка)](gedviewer_d_einstellungenbenutzerallgemein3d.md)
-

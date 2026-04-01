@@ -79,4 +79,3 @@
 
 * [Выбор изделия / устройства](partselectiongui_k_start.md)
 * [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
-

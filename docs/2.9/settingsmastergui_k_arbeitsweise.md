@@ -42,4 +42,3 @@
 * [Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.md)
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
 * [Диалоговое окно Настройки: Интерфейс пользователя](settingsmastergui_d_oberflaecheneinstellungen.md)
-

@@ -66,4 +66,3 @@
 * [Диалоговое окно Настройки: Границы печати](printgui_d_druckraender.md)
 * [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)
 * [Диалоговое окно Формат: свойство](eservicesgui_d_format.md)
-

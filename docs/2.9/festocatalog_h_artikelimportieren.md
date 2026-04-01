@@ -44,4 +44,3 @@
 * [Каталог продуктов Festo](festocatalog_k_start.md)
 * [Импорт изделий Festo](festocatalog_k_zugriffaufstueckliste.md)
 * [Файл конфигурации для импорта изделий Festo](festocatalog_k_zuordnungsdatei.md)
-

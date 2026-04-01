@@ -56,4 +56,3 @@ EPLAN проверяет наличие парных обозначений вы
 * [Точки разрыва](interruptionpointgui_k_start.md)
 * [Кабели](cablegui_k_start.md)
 * [Управление сообщениями EPLAN](msgmanagementgui_k_start.md)
-

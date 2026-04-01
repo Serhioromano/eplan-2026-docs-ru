@@ -95,4 +95,3 @@
 * [Логика устройства: Принцип](cabinetgui_k_betriebsmittellogik.md)
 * [Определить точку захвата](cabinetgui_h_anfasspunktdefinieren.md)
 * [Определение точек монтажа](cabinetgui_h_zielmatesdefinieren.md)
-

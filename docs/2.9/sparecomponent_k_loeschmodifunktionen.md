@@ -22,4 +22,3 @@
 **См. также:**
 
 * [Отменить размещенные устройства](sparecomponent_h_funktionenzurueckbuchen.md)
-

@@ -138,4 +138,3 @@
 * [Адаптировать структуру пространства листа](cabinetgui_h_bauraumstrukturanpassen.md)
 * [Диалоговое окно Свойства (усл. обозначение): Пространство листа](cabinetgui_d_bauraumeigenschaften.md)
 * [Диалоговое окно Трехмерный навигатор монтажных поверхностей](cabinetgui_d_navigator3dschaltschrankaufbau.md)
-

@@ -12,4 +12,3 @@
 **См. также:**
 
 * [Словарь](translatedbgui_k_start.md)
-

@@ -76,4 +76,3 @@
 **См. также:**
 
 * [Порядок создания блок-схем рабочего процесса](functionaldiagramgui_k_funktionsdiagramme.md)
-

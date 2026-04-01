@@ -53,4 +53,3 @@
 * [Автоматический перевод / перевод вручную](translategui_k_start.md)
 * [Выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)
 * [База данных изделий](partsmanagementgui_k_start.md)
-

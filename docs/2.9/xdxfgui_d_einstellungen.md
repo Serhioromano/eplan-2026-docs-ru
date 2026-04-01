@@ -32,4 +32,3 @@
 [Вкладка Определение блока](xdxfgui_r_blockdefinition.md)
 
 [Вкладка Атрибут блока](xdxfgui_r_blockattribut.md)
-

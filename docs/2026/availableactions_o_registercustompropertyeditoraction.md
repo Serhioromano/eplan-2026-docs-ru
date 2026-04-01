@@ -48,4 +48,3 @@ Value |  Новое отображаемое значение или новая 
 /Register:0
 /Action:WPF_Demo_Custom_Editor
 /PropertyIdentName:Eplan.Page.UserSupplementaryField2
-

@@ -85,4 +85,3 @@
 **См. также:**
 
 * [Создать макросы](macrosgui_h_makroserzeugen.md)
-

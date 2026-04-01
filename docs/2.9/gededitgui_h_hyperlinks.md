@@ -58,4 +58,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Вкладка Гиперссылка](gededitgui_r_hyperlink.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

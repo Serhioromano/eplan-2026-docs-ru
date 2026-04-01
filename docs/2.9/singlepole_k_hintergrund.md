@@ -19,4 +19,3 @@
 * [Особенности при использовании кабелей в однополюсном представлении](singlepole_k_besonderheitenkabel.md)
 * [Начертить схему соединений в однополюсном представлении](singlepole_h_stromlaufplaenezeichnen.md)
 * [Жгутовое представление соединений в схемах соединений](singlepole_k_straenge_in_einpoligerdarstellung.md)
-

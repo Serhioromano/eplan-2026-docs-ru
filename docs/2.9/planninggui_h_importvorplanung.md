@@ -51,4 +51,3 @@
 
 * [Предварительное планирование](planninggui_k_start.md)
 * [Подготовка таблицы Excel для импорта (предварительное планирование)](planninggui_h_excelimportvorbereiten.md)
-

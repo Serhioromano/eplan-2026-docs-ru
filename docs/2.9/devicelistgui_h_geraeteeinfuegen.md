@@ -74,4 +74,3 @@
 * [Принцип работы при вставке устройств](devicelistgui_k_vorgehengeraeteeinfuegen.md)
 * [Удаление размещения и отмена размещенных функций](sparecomponent_h_funktionenzurueckbuchen.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

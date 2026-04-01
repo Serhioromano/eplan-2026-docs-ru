@@ -216,4 +216,3 @@
 * [Отчеты, относящиеся к функции](formgeneratorgui_k_funktionsbezogen.md)
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
-

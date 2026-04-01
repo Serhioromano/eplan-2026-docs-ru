@@ -55,4 +55,3 @@ PROPERTYVALUEn |  Значение указанного номера свойс�
 /PROPERTYID2:22007
 /PROPERTYVALUE2:ABB
 /EXPORTFILE:C:\temp\PartsList
-

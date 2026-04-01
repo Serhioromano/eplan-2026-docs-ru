@@ -33,4 +33,3 @@
 * [Диалоговое окно Настройки: Выбор устройства](partselectiongui_d_einstellungengeraeteauswahl.md)
 * [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
 * [Выбор устройства: Способ действий](partselectiongui_k_vorgehensweise.md)
-

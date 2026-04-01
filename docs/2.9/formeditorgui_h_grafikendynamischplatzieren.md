@@ -84,4 +84,3 @@
 
 * [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
 * [Проверить формы](formeditorgui_h_formularepruefen.md)
-

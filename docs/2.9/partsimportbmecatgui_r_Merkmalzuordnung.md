@@ -43,4 +43,3 @@
 * [Фильтровать изделия](partsmanagementgui_h_artikelfiltern.md)
 * [Вкладка Определенные пользователем свойства](partsmanagementgui_r_konfigeigenschaften.md)
 * [Вкладка Произвольн. свойства](partsmanagementgui_r_zusatztexte.md)
-

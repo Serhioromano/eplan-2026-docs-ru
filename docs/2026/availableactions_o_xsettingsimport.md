@@ -34,4 +34,3 @@ Option  |  Параметры для управления импортом:
 /XmlFile:C:my_project.xml
 /Project:"C:...EPLAN_Sample_Project.elk"
 /Node:FormGeneratorGui
-

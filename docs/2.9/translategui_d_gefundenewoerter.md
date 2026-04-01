@@ -30,4 +30,3 @@
 
 * [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
 * [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
-

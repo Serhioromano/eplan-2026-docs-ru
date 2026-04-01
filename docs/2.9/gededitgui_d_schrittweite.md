@@ -18,4 +18,3 @@
 **См. также:**
 
 * [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)
-

@@ -31,4 +31,3 @@
 * [Настройки форматирования для операций в панелях инструментов](configtoolbars_k_aktionenformatierungen.md)
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Операции EPLAN: Обзор](availableactions_o_eplanaktionen.md)
-

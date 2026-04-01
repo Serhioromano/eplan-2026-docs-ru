@@ -36,4 +36,3 @@
 * [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
 * [Типы отчетов](formgeneratorgui_k_auswertungstypen.md)
 * [Вывести монтажные чертежи для объектов планирования](planninggui_h_montageanordnungenausgeben.md)
-

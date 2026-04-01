@@ -55,4 +55,3 @@ Local-Bus: Расширение |  Все прочие
 * [Структура ПЛК](plcgui_k_prinzip.md)
 * [Обмен данными файлов конфигурации ПЛК](plcgui_k_austauschbuskonfig.md)
 * [Диалоговое окно Настройки: Экспорт AutomationML](plcgui_d_optionsaml.md)
-

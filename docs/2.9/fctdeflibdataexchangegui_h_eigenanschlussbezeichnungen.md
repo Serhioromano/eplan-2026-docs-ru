@@ -36,4 +36,3 @@
 * [Экспортировать собственные наборы буквенных обозначений, обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenesaetzeexportieren.md)
 * [Импортировать собственные наборы буквенных обозначений, обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenesaetzeimportieren.md)
 * [Диалоговое окно Обозначения выводов устройства и описания](fctdeflibdataexchangegui_d_anschlussbezeichnungen.md)
-

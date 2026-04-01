@@ -41,4 +41,3 @@
 * [Внешняя обработка](pxfinterface_k_start.md)
 * [Шаблоны Excel для внешней обработки](pxfinterface_k_excelexportvorlagen.md)
 * [Произвести настройки для внешней обработки](pxfinterface_h_exporteinstellungen.md)
-

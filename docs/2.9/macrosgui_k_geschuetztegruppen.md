@@ -20,4 +20,3 @@
 * [Работать с группами элементов](gededitgui_h_elementegruppieren.md)
 * [Вкладка Рамка макроса](macrosgui_r_makrokasten.md)
 * [Вкладка Настройки (рамка макроса)](macrosgui_r_makrokasteneinstellungen.md)
-

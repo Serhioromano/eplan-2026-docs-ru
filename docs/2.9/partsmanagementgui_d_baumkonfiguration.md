@@ -26,4 +26,3 @@
 * [База данных изделий](partsmanagementgui_k_start.md)
 * [Диалоговое окно Конфигурация дерева — Главные узлы](partsmanagementgui_d_baumkonfigurationhauptknoten.md)
 * [Создать конфигурации для представления в виде дерева](partsmanagementgui_h_baumkonfiguration.md)
-

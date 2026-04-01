@@ -18,4 +18,3 @@
 
 * [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)
 * [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
-

@@ -99,4 +99,3 @@
 * [Управление слоями](layermanager_k_start.md)
 * [Слои: Принцип](layermanager_k_prinzip.md)
 * [Диалоговое окно Управление слоями — <Имя проекта>](layermanager_d_ebenenverwaltung.md)
-

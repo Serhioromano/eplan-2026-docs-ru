@@ -15,4 +15,3 @@
 
 * [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
 * [Переводить тексты и свойства везде / не переводить](translategui_h_textenichtuebersetzen.md)
-

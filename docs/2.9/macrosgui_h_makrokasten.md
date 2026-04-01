@@ -117,4 +117,3 @@
 * [Создать проекты макросов](macrosgui_h_makroprojekteerstellen.md)
 * [Автоматически генерировать макрос из проекта макросов](macrosgui_h_makrosausmakroprojekt.md)
 * [Вкладка Рамка макроса](macrosgui_r_makrokasten.md)
-

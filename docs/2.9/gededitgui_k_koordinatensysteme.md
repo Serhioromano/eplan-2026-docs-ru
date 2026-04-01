@@ -53,4 +53,3 @@
 * [Ввести координаты при черчении](gededitgui_h_koordinatenbeimzeichnen.md)
 * [Диалоговое окно Ввод координат](gededitgui_d_koordinateneingabe.md)
 * [Диалоговое окно Относительный ввод координат](gededitgui_d_relativekoordinaten.md)
-

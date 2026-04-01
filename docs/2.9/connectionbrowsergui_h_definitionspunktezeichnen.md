@@ -21,4 +21,3 @@
 * [Соединения](connectionbrowsergui_k_start.md)
 * [Точки обозначения соединения](connectionbrowsergui_k_vdp.md)
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-

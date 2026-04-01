@@ -26,4 +26,3 @@
 **См. также:**
 
 * [Вкладка Обработка концов проводов](connectionsettingsgui_r_einstellungenverbindungsende.md)
-

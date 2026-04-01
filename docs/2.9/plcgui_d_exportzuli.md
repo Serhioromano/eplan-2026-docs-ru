@@ -37,4 +37,3 @@
 * [Экспортировать списки присвоений](plcgui_h_exportzuli.md)
 * [Импортировать или синхронизировать списки присвоений](plcgui_h_importzuli.md)
 * [Диалоговое окно Настройки: ПЛК](plcgui_d_allgemeinespseinstellungen.md)
-

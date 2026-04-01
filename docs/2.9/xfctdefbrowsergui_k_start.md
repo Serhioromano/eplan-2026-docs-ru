@@ -21,4 +21,3 @@
 * [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)
 * [Заменить символы](xfctdefbrowsergui_h_symboltauschen.md)
 * [Обновить определения функций](fctdeflibdataexchangegui_h_fktdefaktualisieren.md)
-

@@ -75,4 +75,3 @@
 * [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)
 * [Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.md)
 * [Отправить проекты по электронной почте](bakbackupdlggui_h_projektmailversenden.md)
-

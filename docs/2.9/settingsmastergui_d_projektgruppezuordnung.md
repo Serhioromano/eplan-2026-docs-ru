@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Группы проектов (определение)](settingsmastergui_d_projektgruppendefinition.md)
-

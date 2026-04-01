@@ -39,4 +39,3 @@
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Вкладка Определенные пользователем свойства](partsmanagementgui_r_konfigeigenschaften.md)
 * [Фильтровать изделия](partsmanagementgui_h_artikelfiltern.md)
-

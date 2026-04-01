@@ -20,4 +20,3 @@
 **См. также:**
 
 * [Шаблоны Excel для внешней обработки](pxfinterface_k_excelexportvorlagen.md)
-

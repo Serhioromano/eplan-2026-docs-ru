@@ -10,4 +10,3 @@
 [Вкладка Провода (Komax)](productionwiringgui_r_draehtekomax.md)
 
 [Вкладка Провода (Schleuniger)](productionwiringgui_r_draehteschleuniger.md)
-

@@ -13,4 +13,3 @@ DESCRIPTION |  Описание внутри экспортируемого фа
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 /FILENAME:C:\EPLAN\Templates\SegmentTemplates.txt
 /DESCRIPTION:Segment templates exported from EPLAN_Sample_Project
-

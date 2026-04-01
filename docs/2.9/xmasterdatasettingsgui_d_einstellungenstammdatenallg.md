@@ -30,4 +30,3 @@
 * [Основные данные: Основные положения](xmasterdatasettingsgui_k_grundlagen.md)
 * [Диалоговое окно Настройки: Библиотеки символов](xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
 * [Диалоговое окно Настройки: Вывод в страницах](formgeneratorgui_d_einstellgrafikausgabe.md)
-

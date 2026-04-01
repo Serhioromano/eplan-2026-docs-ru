@@ -22,4 +22,3 @@
 
 * [Диалоговое окно Нумеровать позиции](partslistgui_d_positionsnummerierung.md)
 * [Нумеровать позиции заново](partslistgui_h_positionenneunummerieren.md)
-

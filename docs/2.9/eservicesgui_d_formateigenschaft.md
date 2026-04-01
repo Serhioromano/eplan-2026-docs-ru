@@ -26,4 +26,3 @@
 * [Диалоговое окно Формат: Комментарий](eservicesgui_d_formatkommentar.md)
 * [Диалоговое окно Формат: Вычисление](eservicesgui_d_formatberechnung.md)
 * [Определить свойства блока](blockproperties_h_blockeigenschaftendefinieren.md)
-

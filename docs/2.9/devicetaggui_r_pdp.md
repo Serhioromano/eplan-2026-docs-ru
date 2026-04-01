@@ -33,4 +33,3 @@
 
 * [Определение потенциалов и сигналов](potentialbrowsergui_k_prinzippotenziale.md)
 * [Начертить точки или выводы определения потенциалов](potentialbrowsergui_h_pdpzeichnen.md)
-

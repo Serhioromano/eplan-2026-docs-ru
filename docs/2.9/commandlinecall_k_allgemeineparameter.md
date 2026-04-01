@@ -37,4 +37,3 @@
 
 * [Параметры командной строки EPLAN](commandlinecall_k_start.md)
 * [Операции EPLAN: Обзор](availableactions_o_eplanaktionen.md)
-

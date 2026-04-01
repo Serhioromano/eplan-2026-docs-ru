@@ -31,4 +31,3 @@
 * [Символы соединения: Распределители и соединители](egedgui_k_verteiler.md)
 * [Маршрутизируемые соединения (топология)](cablinggui_k_verlegeverbindungen.md)
 * [Изменить маршрутизацию (топология)](cablinggui_h_verlegewegaendern.md)
-

@@ -28,4 +28,3 @@
 * [Упаковывание проектов](bakbackupdlggui_h_packen.md)
 * [Резервировать основные данные](bakbackupmdatadlggui_h_stammdatensichern.md)
 * [Восстановить основные данные](bakrestoremdatadlggui_h_stammdatenwiederherstellen.md)
-

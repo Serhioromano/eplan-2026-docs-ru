@@ -33,4 +33,3 @@
 * [Защищенные сегменты](planninggui_k_geschuetztesegmente.md)
 * [Импорт и экспорт пространства конструкции](xdesignspaceimportgui_k_start.md)
 * [Диалоговое окно Управление структурными идентификаторами — <Имя проекта>](pleditorgui_d_kennzeichen.md)
-

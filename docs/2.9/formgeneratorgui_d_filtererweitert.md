@@ -53,4 +53,3 @@
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
 * [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
-

@@ -85,4 +85,3 @@
 
 * [Создание фрагментов](projectoptionsgui_h_ausschnitteerzeugen.md)
 * [Опции](projectoptionsgui_k_start.md)
-

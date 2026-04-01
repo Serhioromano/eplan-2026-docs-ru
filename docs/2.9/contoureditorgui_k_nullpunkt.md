@@ -17,4 +17,3 @@
 * [Создание контуров](contoureditorgui_h_konturenerzeugen.md)
 * [Обработать свойства точек определения контуров](contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
 * [Генерирование и обработка записей данных контура ЧУ](contoureditorgui_h_nckonturdatenbearbeiten.md)
-

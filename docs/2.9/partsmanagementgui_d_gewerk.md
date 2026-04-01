@@ -26,4 +26,3 @@
 
 * [База данных изделий](partsmanagementgui_k_start.md)
 * [Диалоговое окно Выбрать раздел](partsmanagementgui_d_gewerkauswaehlen.md)
-

@@ -51,4 +51,3 @@
 * [Определить общую графику в формах](formeditorgui_h_allggrafikeninformularendefinieren.md)
 * [Определить графику в зависимости от определений функций свойство в формах](formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md)
 * [Определить графику в зависимости от значений свойство в формах](formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md)
-

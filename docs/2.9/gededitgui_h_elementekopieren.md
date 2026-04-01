@@ -41,4 +41,3 @@ EPLAN поддерживает типичные команды Windows для к
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Диалоговое окно Настройки: Общие (Пользователь, Представление)](macrosgui_d_einstellzwischablage.md)
-

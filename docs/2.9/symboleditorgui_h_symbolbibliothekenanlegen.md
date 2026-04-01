@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Диалоговое окно Свойства библиотеки символов <Имя библиотеки>](symboleditorgui_d_symbolbibliothekseigenschaften.md)
-

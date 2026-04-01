@@ -32,4 +32,3 @@
 **См. также:**
 
 * [Автоматическое указание информации о странице](formeditorgui_h_seiteninfosautomatischvergeben.md)
-

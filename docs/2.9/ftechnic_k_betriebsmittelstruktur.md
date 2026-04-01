@@ -68,4 +68,3 @@
 * [Вкладка Структура](prjmanagementgui_r_struktur.md)
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
 * [Диалоговое окно Настройки: ОУ (Проекты, Устройства)](xessettingsgui_d_betriebsmittelbmk.md)
-

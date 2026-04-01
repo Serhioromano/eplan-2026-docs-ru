@@ -18,4 +18,3 @@ SHOW  |  1: Открывается предварительный просмот
 /MACRONAME:Macro_0001.emaXSDPreviewAction
 /PROJECTNAME:$(MD_PROJECTS)\EPLAN_Sample_Project
 /MACRONAME:$(MD_MACROS)\Macro_0001.ema
-

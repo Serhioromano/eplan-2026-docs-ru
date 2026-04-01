@@ -44,4 +44,3 @@
 
 * [Защита устройства](devicetaggui_k_geschuetztebm.md)
 * [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
-

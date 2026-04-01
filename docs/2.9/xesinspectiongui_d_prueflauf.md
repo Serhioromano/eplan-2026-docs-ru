@@ -26,4 +26,3 @@
 * [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
 * [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
 * [Проверить данные проекта](msgmanagementgui_h_prueflauf.md)
-

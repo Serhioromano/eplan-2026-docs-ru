@@ -31,4 +31,3 @@
 
 * [Диалоговое окно Настройки: Импорт (Проекты, Устройства / Проекты, Маршрутизируемые соединения)](projectprocessinggui_d_einstellungenbetriebsmittelimport.md)
 * [Диалоговое окно "Присвоение полей" (Импорт устройств / маршрутизируемых соединений)](projectprocessinggui_d_feldzuordnung.md)
-

@@ -72,4 +72,3 @@
 
 * [Управление ревизиями](revisionmgtgui_k_start.md)
 * [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
-

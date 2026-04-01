@@ -40,4 +40,3 @@
 * [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
 * [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
 * [Диалоговое окно Выполнить контр. прогон](xesinspectiongui_d_prueflauf.md)
-

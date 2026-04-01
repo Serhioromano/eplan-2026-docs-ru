@@ -90,4 +90,3 @@
 
 * [Определить схему соединений в пространстве листа](cabinetgui_h_anschlussdefinieren.md)
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
-

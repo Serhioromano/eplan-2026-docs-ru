@@ -25,4 +25,3 @@
 
 * [Опубликовать проекты](projects_h_veroeffentlichen.md)
 * [Диалоговое окно Опубликовать](edaexportgui_d_veroeffentlichen.md)
-

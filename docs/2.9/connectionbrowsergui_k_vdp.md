@@ -32,4 +32,3 @@
 * [Соединения: Принцип работы](connectionbrowsergui_k_arbeitsweiseverbindungen.md)
 * [Неразмещенные соединения](connectionbrowsergui_k_npv.md)
 * [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)
-

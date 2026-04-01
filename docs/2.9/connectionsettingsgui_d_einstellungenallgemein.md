@@ -57,4 +57,3 @@
 
 * [Соединения: Принцип](connectionbrowsergui_k_prinzipverbindungen.md)
 * [Сетевые соединения](netbasedwires_k_start.md)
-

@@ -31,4 +31,3 @@
 * [Обработать свойства во всех представлениях главной функции](reverseengineering_h_alledarstellungenbm.md)
 * [Обработать свойства выбранного представления функции](reverseengineering_h_ausgewaehltefunktion.md)
 * [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
-

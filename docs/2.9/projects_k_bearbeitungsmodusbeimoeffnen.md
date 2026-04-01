@@ -21,4 +21,3 @@
 * [Проекты](projects_k_start.md)
 * [Создать проекты](projects_h_projekteerstellen.md)
 * [Синхронизировать основные данные](xmasterdatasettingsgui_h_stammdatenabgleichen.md)
-

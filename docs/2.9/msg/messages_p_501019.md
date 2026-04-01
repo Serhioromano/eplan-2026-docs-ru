@@ -13,4 +13,3 @@
 
 * [Синхронизировать основные данные](../xmasterdatasettingsgui_h_stammdatenabgleichen.md)
 * [Диалоговое окно Настройки: Библиотеки символов](../xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
-

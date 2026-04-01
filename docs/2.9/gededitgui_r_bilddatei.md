@@ -29,4 +29,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Вставить графические файлы](gededitgui_h_bilddateien.md)
-

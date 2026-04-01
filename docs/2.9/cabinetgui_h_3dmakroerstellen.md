@@ -89,4 +89,3 @@
 * [Импортировать графические 3D-данные](cabinetgui_h_3dgrafikimportieren.md)
 * [Определить и изменить поверхность установки](cabinetgui_h_einbauflaeche.md)
 * [Вкладка Определение макроса](macrosgui_r_makrodefinition.md)
-

@@ -34,4 +34,3 @@
 * [Управление неразмещенных вспомогательных функций на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
 * [Защитить устройства](devicetaggui_h_bmschuetzen.md)
 * [Определить многополюсные соединения в однополюсной точке определения соединений](singlepole_h_allpoligeverbindungendefinieren.md)
-

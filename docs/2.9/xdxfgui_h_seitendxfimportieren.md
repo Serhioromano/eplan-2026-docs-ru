@@ -31,4 +31,3 @@
 * [Диалоговое окно Присвоить страницы](xdxfgui_d_seitenzuweisen.md)
 * [Диалоговое окно Форматир. импорта](xdxfgui_d_importformatierung.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

@@ -33,4 +33,3 @@
 * [Выбор изделия / устройства](partselectiongui_k_start.md)
 * [Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
 * [Синхронизировать сохраненные изделия с базой данных изделий](partselectiongui_h_artikeldateneinlagern.md)
-

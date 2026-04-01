@@ -42,4 +42,3 @@
 * [Вкладка Текст ](gededitgui_r_text.md)
 * [Вкладка Формат (тексты)](gededitgui_r_format.md)
 * [Прямая обработка](inplaceeditinggui_k_start.md)
-

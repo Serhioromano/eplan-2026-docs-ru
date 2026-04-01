@@ -41,4 +41,3 @@
 * [Вкладка Изделие](partselectiongui_r_artikel.md)
 * [Вкладка Формат (Устройство)](devicetaggui_r_format.md)
 * [Использовать рамки макросов](macrosgui_h_makrokasten.md)
-

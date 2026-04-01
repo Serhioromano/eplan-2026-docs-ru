@@ -27,5 +27,3 @@
 * [Вкладка Свойства страницы](edaexportgui_r_seiteneigenschaften.md)
 * [Вкладка Свойства функции](edaexportgui_r_funktionseigenschaften.md)
 * [Вкладка Свойства пространства листа](edaexportgui_r_bauraumeigenschaften.md)
-
-

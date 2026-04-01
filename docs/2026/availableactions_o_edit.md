@@ -24,4 +24,3 @@ IGNOREWHENOPEN |  Если значение равно 1, сообщение о�
 /PAGENAME:=EB3+ET1/2
 /X:200
 /Y:100
-

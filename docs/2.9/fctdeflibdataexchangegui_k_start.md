@@ -15,4 +15,3 @@
 * [Создать собственные наборы буквенных обозначений](fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
 * [Экспортировать собственные наборы буквенных обозначений, обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenesaetzeexportieren.md)
 * [Импортировать собственные наборы буквенных обозначений, обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenesaetzeimportieren.md)
-

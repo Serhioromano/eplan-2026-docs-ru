@@ -50,4 +50,3 @@
 * [Автоматический перевод / перевод вручную](translategui_k_start.md)
 * [Добавление языка словаря](translatedbgui_h_woerterbuchanlegen.md)
 * [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
-

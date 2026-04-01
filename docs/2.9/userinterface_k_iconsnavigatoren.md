@@ -65,4 +65,3 @@
 * [Диалоговое окно Трубопроводы - <Имя проекта>](potentialbrowsergui_d_rohrleitungen.md)
 * [Диалоговое окно Макросы — <Имя проекта>](macrosgui_d_makronavigator.md)
 * [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)
-

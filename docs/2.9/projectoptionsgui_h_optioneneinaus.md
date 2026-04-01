@@ -50,4 +50,3 @@
 **См. также:**
 
 * [Создание и обработка опций](projectoptionsgui_h_optionenerzeugen.md)
-

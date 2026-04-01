@@ -24,4 +24,3 @@ PDF-комментарии, появившиеся в проекте путем 
 * [Разрешить комментирование в PDF-файле](redlining_h_freigabe.md)
 * [Создать PDF-комментарии в PDF-файле](redlining_h_pdfkommentare.md)
 * [Импортировать PDF-комментарии в проект EPLAN](redlining_h_pdfkommentareeinlesen.md)
-

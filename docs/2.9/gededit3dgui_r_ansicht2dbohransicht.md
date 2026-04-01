@@ -59,4 +59,3 @@
 * [2D-отображение отверстий: принцип](ncgui_k_2dbohransicht.md)
 * [Вставить 2D-отображение отверстий](ncgui_h_2dbohransichterstellen.md)
 * [Диалоговое окно Отображения отверстий — <Имя проекта>](gededit3dgui_d_2dbohransichten.md)
-

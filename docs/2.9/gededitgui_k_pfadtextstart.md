@@ -10,4 +10,3 @@
 * [Оценка функциональных текстов зон](gededitgui_k_pfadtextauswertung.md)
 * [Вставить и обработать функциональные тексты зоны](gededitgui_h_pfadtexteinfuegen.md)
 * [Графический редактор](gededitgui_k_start.md)
-

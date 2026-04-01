@@ -46,4 +46,3 @@ End Class "SimpleScriptWithParameters
 
 * [Сценарии](scripts_k_start.md)
 * [Параметры командной строки EPLAN](commandlinecall_k_start.md)
-

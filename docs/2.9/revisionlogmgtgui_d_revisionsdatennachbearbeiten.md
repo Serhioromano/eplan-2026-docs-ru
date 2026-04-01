@@ -42,4 +42,3 @@
 * [Диалоговое окно Описание изменения страниц](revisionlogmgtgui_d_beschreibungseitenaenderung.md)
 * [Закрыть страницы](revisionmgtgui_h_seitenabschliessen.md)
 * [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
-

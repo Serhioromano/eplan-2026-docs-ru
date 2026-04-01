@@ -88,4 +88,3 @@
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
 * [Режимы обработки при открытии проектов](projects_k_bearbeitungsmodusbeimoeffnen.md)
 * [Многоязычные тексты](translategui_k_mehrsprachigetexte.md)
-

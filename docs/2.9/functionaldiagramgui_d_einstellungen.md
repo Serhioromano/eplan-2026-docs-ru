@@ -40,4 +40,3 @@
 **См. также:**
 
 * [Блок-схемы рабочего процесса](functionaldiagramgui_k_start.md)
-

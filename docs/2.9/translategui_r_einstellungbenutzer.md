@@ -102,4 +102,3 @@
 * [Словарь](translatedbgui_k_start.md)
 * [Отдельные слова, предложения, заполнители в ключевых словах](translatedbgui_k_eingabemoeglichkeit.md)
 * [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)
-

@@ -30,4 +30,3 @@
 
 * [Сетевые соединения](netbasedwires_k_start.md)
 * [Определение шлейфов](netbasedwires_h_verbindungsketten.md)
-

@@ -39,4 +39,3 @@
 * [Устройства](devicelistgui_k_start.md)
 * [Принцип работы при вставке устройств](devicelistgui_k_vorgehengeraeteeinfuegen.md)
 * [Управление неразмещенными вспомогательными функциями на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
-

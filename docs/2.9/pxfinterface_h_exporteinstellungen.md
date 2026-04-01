@@ -20,4 +20,3 @@
 
 * [Диалоговое окно «Внешняя обработка»](macrosgui_d_pxfseitenexport.md)
 * [Диалоговое окно Настройки: Внешняя обработка](macrosgui_d_pxfeinstellungenexport.md)
-

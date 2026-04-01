@@ -32,4 +32,3 @@
 
 * [Использование прямой обработки](inplaceeditinggui_h_direktesbearbeiten.md)
 * [Тексты](gededitgui_k_texte.md)
-

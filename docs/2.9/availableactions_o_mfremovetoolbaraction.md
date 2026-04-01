@@ -14,4 +14,3 @@ Silent  |  Если значение равно 1, то при отсутств�
     MfRemoveToolbarAction
     /ToolbarName:"?"
     /Silent:No
-

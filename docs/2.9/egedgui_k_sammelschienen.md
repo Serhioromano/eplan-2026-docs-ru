@@ -21,4 +21,3 @@
 
 * [Символы соединения](egedgui_k_start.md)
 * [Вставить сборные шины](egedgui_h_sammelschieneneinfuegen.md)
-

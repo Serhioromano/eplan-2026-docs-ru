@@ -46,4 +46,3 @@
 * [База данных изделий: Идентификаторы для импорта и экспорта данных](partsmanagementgui_k_importexport.md)
 * [База данных изделий: Файлы конфигурации для импорта и экспорта данных](partsmanagementgui_k_steuerdateiimportexport.md)
 * [База данных изделий: Импорт данных изделий по стандарту eCl@ss](partsimportbmecatgui_k_start.md)
-

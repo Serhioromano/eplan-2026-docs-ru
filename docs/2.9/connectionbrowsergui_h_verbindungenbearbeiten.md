@@ -50,4 +50,3 @@
 * [Определить свойства соединений](connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
 * [Использовать имеющиеся соединения](connectionbrowsergui_h_abbuchen.md)
-

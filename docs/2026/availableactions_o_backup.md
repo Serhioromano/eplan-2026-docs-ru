@@ -91,4 +91,3 @@ FILENAME |  Имя резервируемого файла.
 /ARCHIVENAME:my_MasterData
 /COMMENT:"Hello world"
 /MDTYPE:STANDARDSHEET
-

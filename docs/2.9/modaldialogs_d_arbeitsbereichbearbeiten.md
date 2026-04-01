@@ -21,4 +21,3 @@
 
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
 * [Диалоговое окно 'Рабочая область'](modaldialogs_d_arbeitsbereich.md)
-

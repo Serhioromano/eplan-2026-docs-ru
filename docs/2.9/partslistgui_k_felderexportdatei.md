@@ -138,4 +138,3 @@ REFERENCE_POS |  Базовая позиция изделия задает (пр
 
 * [Экспортировать спецификации](partslistgui_h_stuecklistenexportieren.md)
 * [Импортировать спецификации](partslistgui_h_stuecklistenimportieren.md)
-

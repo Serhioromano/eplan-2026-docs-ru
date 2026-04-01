@@ -57,4 +57,3 @@
 * [Шаблоны для классов трубы и веществ](planninggui_k_rohrleitungsvorlagen.md)
 * [Создать и обработать шаблоны сегментов](planninggui_h_segmentvorlageeerstellen.md)
 * [Присвоить шаблоны сегментов](planninggui_h_segmentvorlagezuordnen.md)
-

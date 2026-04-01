@@ -42,4 +42,3 @@
 
 * [Диалоговое окно Экспорт ЧУ DXF](ncgui_d_exportperdxf.md)
 * [Диалоговое окно Экспорт DXF, медь](ncgui_d_exportkupferdxf.md)
-

@@ -47,4 +47,3 @@
 * [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
 * [Автоматическое / не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
-

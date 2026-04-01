@@ -23,4 +23,3 @@
 
 * [Типы страниц для EPLAN Fluid](ftechnic_k_seitentyp_fluid.md)
 * [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
-

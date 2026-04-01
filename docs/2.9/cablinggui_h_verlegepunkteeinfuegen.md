@@ -35,4 +35,3 @@
 * [Вставить сегменты маршрутизации (топология)](cablinggui_h_streckeeinfuegen.md)
 * [Маршрутизация соединений между различными структурами идентификаторов](cablinggui_h_strukturenverbinden.md)
 * [Вкладка Подключенные структуры](devicetaggui_r_cablingstrukturen.md)
-

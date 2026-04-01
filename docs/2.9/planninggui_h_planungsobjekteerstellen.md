@@ -41,4 +41,3 @@
 * [Диалоговое окно Настройки: Технологические контуры (предварительное планирование) ](planninggui_d_einstellpltstellen.md)
 * [Создание объектов планирования в качестве устройств](planninggui_h_planungsobjektmitartikel.md)
 * [Создание графического предварительного планирования](planninggui_h_grafvorplanungerstellen.md)
-

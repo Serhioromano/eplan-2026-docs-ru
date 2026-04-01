@@ -86,4 +86,3 @@
 * [Диалоговое окно Предварительный выбор изделий](partselectiongui_d_artikelvorauswahl.md)
 * [Выбрать изделие](partselectiongui_h_artikelauswahl.md)
 * [Выбрать изделие в Навигаторах или из списка устройств](partselectiongui_h_artikelauswahlnavigator.md)
-

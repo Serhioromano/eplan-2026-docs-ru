@@ -31,4 +31,3 @@
 **См. также:**
 
 * [База данных изделий](partsmanagementgui_k_start.md)
-

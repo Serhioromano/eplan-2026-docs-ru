@@ -14,4 +14,3 @@ FileTypes |  Тип файла для выполняемого преобраз�
 /Folder:$(MD_TEMPLATES)Преобразование конкретных типов файлов в одном каталоге:XPrjConvertBaseProjectsAction
 /Folder:$(MD_TEMPLATES)
 /FileTypes:*.ept
-

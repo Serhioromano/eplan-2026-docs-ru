@@ -53,4 +53,3 @@
 * [Копировать страницы в проекте](pagebrowsergui_h_seitenkopieren.md)
 * [Копировать страницы между различными проектами](pagebrowsergui_h_seitenkopierenprojekte.md)
 * [Нумеровать и переименовать страницы](pagebrowsergui_h_seitennummerieren.md)
-

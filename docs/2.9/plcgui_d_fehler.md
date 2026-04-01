@@ -24,4 +24,3 @@
 
 * [Генерировать схемы соединений ПЛК](plcgui_h_spsschaltplanerzeugen.md)
 * [Генерация схемы соединений ПЛК: Принцип](plcgui_k_spsschaltplanprinzip.md)
-

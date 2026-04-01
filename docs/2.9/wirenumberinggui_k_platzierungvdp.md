@@ -30,4 +30,3 @@
 
 * [Разместить точки определения соединения](wirenumberinggui_h_vdpplatzieren.md)
 * [Нумерация соединений: Принцип](wirenumberinggui_k_prinzip.md)
-

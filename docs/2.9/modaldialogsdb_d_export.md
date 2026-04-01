@@ -46,4 +46,3 @@
 
 * [Диалоговое окно Настройки: Экспорт графических файлов](gedgraphicexportgui_d_exporteinstellungen.md)
 * [Вывести страницы в виде графических файлов](gedgraphicexportgui_h_seitenexportieren.md)
-

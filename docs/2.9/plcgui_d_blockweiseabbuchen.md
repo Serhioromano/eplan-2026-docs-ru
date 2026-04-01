@@ -51,4 +51,3 @@
 
 * [Использование имеющихся выводов устройства ПЛК](plcgui_h_anschluesseabbuchen.md)
 * [Диалоговое окно Выбрать выводы устройства ПЛК для поблочного использования имеющихся](plcgui_d_anschlblockweiseabbuchenauswahl.md)
-

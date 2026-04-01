@@ -14,4 +14,3 @@ Replace  |  Имеющиеся одноименные панели инстру�
     MfImportToolbarAction
     /File:"?"
     /Replace:Yes
-

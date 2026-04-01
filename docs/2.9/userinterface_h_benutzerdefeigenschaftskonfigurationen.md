@@ -19,4 +19,3 @@
 
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Диалоговое окно Конфигурировать свойства](modaldialogsdb_d_eigenschaftsanordnung.md)
-

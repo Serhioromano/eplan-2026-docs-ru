@@ -21,4 +21,3 @@ SOURCE |  Исходный язык.
 /VARIABLE:en_USУстанавливает для языка отображения значение "Язык отображения 4" (здесь для него установлен французский язык):SetProjectLanguage
 /DISPLAY:en_US;de_DE;pl_PL;fr_FR
 /VARIABLE:04_04
-

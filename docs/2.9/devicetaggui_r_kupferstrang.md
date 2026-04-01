@@ -26,4 +26,3 @@
 
 * [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
 * [Медный жгут: Принцип](copper_k_kupferstrang.md)
-

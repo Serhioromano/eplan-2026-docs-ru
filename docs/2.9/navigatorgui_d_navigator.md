@@ -86,4 +86,3 @@
 * [Присвоить данные функции условному обозначению](navigatorgui_h_funktionzuweisen.md)
 * [Создать неразмещенные устройства в навигаторе устройств](navigatorgui_h_funktionenanlegen.md)
 * [Механические устройства](navigatorgui_k_mechbetriebsmittel.md)
-

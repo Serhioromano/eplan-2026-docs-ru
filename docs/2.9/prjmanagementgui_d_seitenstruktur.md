@@ -40,4 +40,3 @@
 * [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
 * [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
 * [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)
-

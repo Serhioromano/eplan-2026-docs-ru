@@ -59,4 +59,3 @@
 * [Выводы устройства ПЛК](plcgui_k_spsanschluesse.md)
 * [Обмен данными файлов конфигурации ПЛК](plcgui_k_exportbuskonfig.md)
 * [Экспорт файлов конфигурации ПЛК](plcgui_k_exportbuskonfig.md)
-

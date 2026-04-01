@@ -30,4 +30,3 @@
 **См. также:**
 
 * [Синхронизировать выбор](searchandreplacegui_h_auswahlsynchronisieren.md)
-

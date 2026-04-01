@@ -24,4 +24,3 @@
 
 * [Исходные точки: Принцип](cabinetgui_k_bezugspunkte.md)
 * [Определить исходную точку](cabinetgui_h_bezugspunktdefinieren.md)
-

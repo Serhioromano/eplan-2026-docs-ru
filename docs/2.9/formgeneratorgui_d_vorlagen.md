@@ -74,4 +74,3 @@
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
 * [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
 * [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
-

@@ -71,4 +71,3 @@
 * [Управление клеммниками](terminalgui_k_verwaltungleisten.md)
 * [Управление клеммами](terminalgui_k_verwaltung.md)
 * [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
-

@@ -29,4 +29,3 @@
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Создать список принадлежностей и присвоить его главному изделию](partsmanagementgui_h_zubehoerlisteerstellen.md)
 * [Групповая обработка: Принцип](multipleselection_k_prinzip.md)
-

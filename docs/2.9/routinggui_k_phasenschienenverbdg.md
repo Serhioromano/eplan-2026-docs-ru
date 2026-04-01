@@ -13,4 +13,3 @@
 
 * [Генерировать соединения фазовых шин](routinggui_h_phasenschienenvbdgerzg.md)
 * [Вставить фазные шины](routinggui_h_phasenschieneneinfg.md)
-

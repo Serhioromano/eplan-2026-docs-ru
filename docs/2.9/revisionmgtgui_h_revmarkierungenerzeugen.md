@@ -19,4 +19,3 @@
 * [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
 * [Диалоговое окно Настройки: Ревизия (сравнение свойств проектов)](revisionmgtgui_d_einstellungen.md)
 * [Диалоговое окно Сравнить свойства проектов](revisionmgtgui_d_revvergleichen.md)
-

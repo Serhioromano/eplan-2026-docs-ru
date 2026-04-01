@@ -27,4 +27,3 @@
 
 * [Обозначения местоположения](locationbox_k_start.md)
 * [Работа с вложенными обозначениями местоположения](locationbox_h_geschachtelte.md)
-

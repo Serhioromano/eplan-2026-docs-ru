@@ -21,4 +21,3 @@
 * [Предварительное планирование](planninggui_k_start.md)
 * [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
 * [Отчеты](formgeneratorgui_k_start.md)
-

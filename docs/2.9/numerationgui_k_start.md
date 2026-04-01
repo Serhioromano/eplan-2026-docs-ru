@@ -13,4 +13,3 @@ EPLAN позволяет выполнить автоматическую нум�
 * [Формат нумерации в режиме подключения](numerationgui_k_format.md)
 * [Функции и нумерация](numerationgui_k_verhaltenfunktionen.md)
 * [Нумеровать (автономно)](offlinenumerationgui_k_start.md)
-

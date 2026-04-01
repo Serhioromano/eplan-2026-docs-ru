@@ -28,4 +28,3 @@
 * [Обработать основные персональные данные](partsmanagementgui_h_kundenbearbeiten.md)
 * [База данных изделий](partsmanagementgui_k_start.md)
 * [Обработать изделие](partsmanagementgui_h_artikelbearbeiten.md)
-

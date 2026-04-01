@@ -44,4 +44,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Библиотеки символов](xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
-

@@ -38,4 +38,3 @@
 * [Диалоговое окно Адреса / списки присвоения](plcgui_d_spseadaten.md)
 * [Диалоговое окно Использ. имеющихся адресов ПЛК поблочно](plcgui_d_adressenblockweiseabbuchen.md)
 * [Использование имеющихся адресов ПЛК](plcgui_h_adressenabbuchen.md)
-

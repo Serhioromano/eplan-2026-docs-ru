@@ -64,4 +64,3 @@
 * [Размещения отчета на странице вручную](formgeneratorgui_h_auswplatzieren.md)
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
-

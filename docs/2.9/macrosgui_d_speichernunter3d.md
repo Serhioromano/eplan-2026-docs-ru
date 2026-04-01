@@ -47,4 +47,3 @@
 **См. также:**
 
 * [Создание 3D-макросов](cabinetgui_h_3dmakroerstellen.md)
-

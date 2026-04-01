@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
-

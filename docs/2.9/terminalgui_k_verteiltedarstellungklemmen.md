@@ -59,4 +59,3 @@
 * [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)
 * [Создание перемычек при распределенных клеммах](terminalgui_k_brueckenbildung.md)
 * [Вставка распределенных клемм](terminalgui_h_teilklemmenzeichnen.md)
-

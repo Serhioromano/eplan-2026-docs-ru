@@ -24,4 +24,3 @@
 * [Считать каталоги и проекты](prjmanagementgui_h_verzeichniseinlesen.md)
 * [Обработать основные персональные данные](partsmanagementgui_h_kundenbearbeiten.md)
 * [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
-

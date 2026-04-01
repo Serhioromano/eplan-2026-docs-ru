@@ -7,4 +7,3 @@ EPLAN Fluid позволяет одновременно обрабатывать
 * [Табличная обработка](functiondatagridgui_k_start.md)
 * [EPLAN Fluid: Структура устройства](ftechnic_k_betriebsmittelstruktur.md)
 * [Обработка Fluid ОУ в соответствии с DIN ISO 1219-2 в виде таблицы](ftechnic_h_bmk_tabellarisch_bearbeiten.md)
-

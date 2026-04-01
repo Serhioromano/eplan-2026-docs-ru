@@ -50,4 +50,3 @@
 
 * [Обработать библиотеки символов](symboleditorgui_h_symbolbibliothekenbearbeiten.md)
 * [Диалоговое окно Настройки: Общие (проекты, управление)](xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
-

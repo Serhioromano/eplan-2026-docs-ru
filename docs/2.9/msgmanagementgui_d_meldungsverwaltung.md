@@ -76,4 +76,3 @@
 * [Сообщения контрольного прогона: номера сообщений, классы и категории](msgmanagementgui_k_prinzip.md)
 * [Просмотреть и обработать сообщения контрольного прогона](msgmanagementgui_h_meldungenansehen.md)
 * [Диалоговое окно Фильтр: Сообщения](msgmanagementgui_d_filter.md)
-

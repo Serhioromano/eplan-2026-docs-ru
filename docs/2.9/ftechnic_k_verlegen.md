@@ -58,4 +58,3 @@
 * [Изменить маршрутизацию](routinggui_h_verlegewegaendern.md)
 * [Изменить направление подсоединения](cabinetgui_h_anschlussrichtungaendern.md)
 * [Вставка принадлежностей для маршрутизации](routinggui_k_verlegezubehoer.md)
-

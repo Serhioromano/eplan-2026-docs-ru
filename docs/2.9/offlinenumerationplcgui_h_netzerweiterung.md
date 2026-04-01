@@ -29,4 +29,3 @@
 
 * [Диалоговое окно Сетевое расширение (нумерация с данными ПЛК)](offlinenumerationplcgui_d_netzerweiterung.md)
 * [Определить формат и объем нумерации](offlinenumerationplcgui_h_formatfestlegen.md)
-

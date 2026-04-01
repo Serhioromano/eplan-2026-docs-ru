@@ -35,4 +35,3 @@
 
 * [Диалоговое окно Настройки: Корректировать](ProjectCorrectionGui_d_korrektureinstellungen.md)
 * [Корректируемые данные проекта](ProjectCorrectionGui_k_korrekturdaten.md)
-

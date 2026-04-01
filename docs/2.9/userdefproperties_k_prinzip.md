@@ -31,5 +31,3 @@
 * [Создать определенные пользователем свойства](userdefproperties_h_eigenschafterstellen.md)
 * [Удалить определенные пользователем свойства](userdefproperties_h_eigenschaftloeschen.md)
 * [Диалоговое окно "Конфигурировать свойства" (определенные пользователем свойства)](eservicesgui_d_konfigeigenschaften.md)
-
-

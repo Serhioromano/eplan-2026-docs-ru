@@ -53,4 +53,3 @@
 **См. также:**
 
 * [Направление создания отчета форм](formeditorgui_k_auswertungsrichtung.md)
-

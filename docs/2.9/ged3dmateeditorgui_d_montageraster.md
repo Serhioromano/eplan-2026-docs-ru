@@ -42,4 +42,3 @@
 
 * [Определить и использовать монтажную сетку](cabinetgui_h_montagerasterdefinieren.md)
 * [Отображение инструмента для монтажных работ](cabinetgui_h_montagehilfenanzeigen.md)
-

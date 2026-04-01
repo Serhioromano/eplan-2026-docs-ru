@@ -92,4 +92,3 @@
 * [Предв. планирование соединений](planningconnections_k_start.md)
 * [Неразмещенные соединения](connectionbrowsergui_k_npv.md)
 * [Автоматически генерировать функции с помощью схемы нумерации](navigatorgui_h_mehrerfunktionerzeugen.md)
-

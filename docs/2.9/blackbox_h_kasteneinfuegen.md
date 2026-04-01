@@ -30,4 +30,3 @@
 * [Вкладка Данные символа / функции](devicetaggui_r_symbolfunktionsdaten.md)
 * [Вкладка Изделие](partselectiongui_r_artikel.md)
 * [Вкладка Формат (Устройство)](devicetaggui_r_format.md)
-

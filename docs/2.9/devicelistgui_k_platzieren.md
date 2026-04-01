@@ -16,4 +16,3 @@
 * [Порядок действий при размещении устройств](devicelistgui_k_vorgehengeraeteplatzieren.md)
 * [Процедура удаления и копирования устройств](devicelistgui_k_loeschenkopieren.md)
 * [Присвоение данных функции](navigatorgui_k_zuweisenvonfunktionsdaten.md)
-

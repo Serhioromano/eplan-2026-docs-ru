@@ -34,4 +34,3 @@
 
 * [Примеры структуры структурных идентификаторов](projectstructure_k_aufbaukennzeichnungsbl.md)
 * [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
-

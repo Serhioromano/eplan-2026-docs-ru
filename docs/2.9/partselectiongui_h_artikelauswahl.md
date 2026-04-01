@@ -65,4 +65,3 @@
 * [Поведение изделий при выборе устройств](partselectiongui_k_prinzip.md)
 * [Диалоговое окно Выбор изделия](partselectiongui_d_artikelauswahl.md)
 * [Обзор перенесенных данных изделия](partselectiongui_k_uebertragenedaten.md)
-

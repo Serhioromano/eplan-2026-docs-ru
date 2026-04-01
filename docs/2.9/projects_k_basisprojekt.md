@@ -25,4 +25,3 @@ GOST_bas001.zw9 |  ***Базовый проект:*** Подходит для с
 * [Создать проекты](projects_h_projekteerstellen.md)
 * [Создать шаблоны проектов](projects_h_projektvorlageerstellen.md)
 * [Создать базовые проекты](projects_h_basisprojekterstellen.md)
-

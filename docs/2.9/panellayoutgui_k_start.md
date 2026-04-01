@@ -11,4 +11,3 @@
 * [Компоновка электрошкафа 2D: Основы](panellayoutgui_k_grundlagen.md)
 * [Компоновка электрошкафа 2D: Виды размещения](panellayoutgui_k_platzierungsarten.md)
 * [Компоновка электрошкафа 2D: Легенды](panellayoutgui_k_legenden.md)
-

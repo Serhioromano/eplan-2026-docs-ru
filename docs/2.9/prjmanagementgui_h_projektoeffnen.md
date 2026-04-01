@@ -55,4 +55,3 @@
 **См. также:**
 
 * [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)
-

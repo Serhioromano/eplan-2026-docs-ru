@@ -57,4 +57,3 @@
 * [Графическое представление кабелей и экранирований](cablegui_k_grafischedarstellung.md)
 * [Выбрать кабель](cablegui_h_kabelauswahlautomatisch.md)
 * [Присвоить кабельные соединения автоматически](cablegui_h_kabelauflegen.md)
-

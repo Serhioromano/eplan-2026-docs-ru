@@ -61,4 +61,3 @@ USEPAGEFILTER |  Определяет, должны ли использоват�
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 /PAGENAME:=EB3+ET1/2
 /EXPORTSCHEME:Bitmap
-

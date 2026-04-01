@@ -18,4 +18,3 @@
 
 * [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
 * [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
-

@@ -120,4 +120,3 @@
 * [Вкладка Схема соединений (Размещение изделия 3D)](devicetaggui_r_anschlussbild.md)
 * [Показать выводы устройства графически](routinggui_h_anschlussansicht.md)
 * [Перенос локальной схемы соединений в базу данных изделий](cabinetgui_h_anschlussbildnachartvw.md)
-

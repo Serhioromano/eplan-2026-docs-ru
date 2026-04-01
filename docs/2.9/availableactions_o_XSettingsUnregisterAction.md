@@ -9,4 +9,3 @@ allowAutoInstall |  Если для этого параметра установ
 !!! example "Пример:"
 
     Отмена регистрации Add-ons с помощью указания пути к файлу, в котором находится Add-on:XSettingsUnregisterAction /Path:c:\MyAddOnОтмена регистрации Add-ons с помощью указания полного пути к файлу install.xml:XSettingsUnregisterAction /InstallFile: c:\MyAddOn\CFG\Install.xml
-

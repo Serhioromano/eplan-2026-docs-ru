@@ -29,4 +29,3 @@
 
 * [Диалоговое окно "Экспорт пространства конструкции"](xdesignspaceimportgui_d_konstruktionsraumexport.md)
 * [Импортировать пространство конструкции](xdesignspaceimportgui_h_konstraumimportieren.md)
-

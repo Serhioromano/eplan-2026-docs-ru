@@ -13,4 +13,3 @@
 **См. также:**
 
 * [Диалоговое окно Генерировать ревизию](revisionlogmgtgui_d_revisionerzeugen.md)
-

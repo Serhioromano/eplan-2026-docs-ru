@@ -37,4 +37,3 @@
 
 * [Активировать монтажные поверхности](cabinetgui_h_aktivierenautomatisch.md)
 * [Диалоговое окно Опции размещения](cabinetgui_d_platzieroptionen.md)
-

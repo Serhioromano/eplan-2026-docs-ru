@@ -41,4 +41,3 @@ EPLAN Pro Panel позволяет выводить данные изготов�
 
 * [Экспортировать сборку проводов](productionwiringgui_h_drahtdatenexportieren.md)
 * [Конфигурировать машину по сборке проводов](productionwiringgui_h_maschinekonfigurieren.md)
-

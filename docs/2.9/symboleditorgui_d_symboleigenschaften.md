@@ -42,4 +42,3 @@
 **См. также:**
 
 * [Диалоговое окно Определения функций](xfctdefbrowsergui_d_funktionsdefinitionen.md)
-

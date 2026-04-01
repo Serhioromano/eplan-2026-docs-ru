@@ -513,4 +513,3 @@ P_PART_ADDRESS_TITLE | Текст | 30 символов | Обращение |
 P_PART_ADDRESS_TOWN | Текст | 100 символов | Место жительства |
 P_PART_ADDRESS_ZIPPOBOX | Текст | 30 символов | Индекс / почт. ящик |
 P_PART_ADDRESS_ZIPTOWN | Текст | 30 символов | Почтовый индекс/место |
-

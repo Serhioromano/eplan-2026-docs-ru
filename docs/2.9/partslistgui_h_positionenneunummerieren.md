@@ -28,4 +28,3 @@
 **См. также:**
 
 * [Диалоговое окно Спецификация — <Имя проекта>](partslistgui_d_artikelstueckliste.md)
-

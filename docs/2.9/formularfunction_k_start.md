@@ -23,4 +23,3 @@
 
 * [Функции формы: Динамические текстовые окна](formularfunction_k_dynamictextboxes.md)
 * [Функции формы: Блок выравнивания для заполнителя](formularfunction_k_bboxplaceholder.md)
-

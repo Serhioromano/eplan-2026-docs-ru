@@ -18,4 +18,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.md)
-

@@ -36,4 +36,3 @@
 **См. также:**
 
 * [Генерирование и обработка записей данных контура ЧУ](contoureditorgui_h_nckonturdatenbearbeiten.md)
-

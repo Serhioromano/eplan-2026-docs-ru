@@ -49,4 +49,3 @@
 * [Навигатор макросов](macrosgui_k_makronavigator.md)
 * [Создать проекты макросов](macrosgui_h_makroprojekteerstellen.md)
 * [Автоматически генерировать макрос из проекта макросов](macrosgui_h_makrosausmakroprojekt.md)
-

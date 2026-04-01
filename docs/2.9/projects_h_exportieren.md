@@ -23,4 +23,3 @@
 * [Управление проектами](prjmanagementgui_k_start.md)
 * [Импортировать проекты](projects_h_importieren.md)
 * [Внешняя обработка](pxfinterface_k_start.md)
-

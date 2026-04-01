@@ -34,4 +34,3 @@
 * [Добавить пункт меню через сценарий](scripts_k_scriptefuermenuepunkte.md)
 * [Выполнить или загрузить сценарии](scripts_h_scripteausfuehren.md)
 * [Автоматизированная обработка проектов](autoprocgui_k_start.md)
-

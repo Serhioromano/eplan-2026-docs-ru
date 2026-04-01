@@ -68,4 +68,3 @@
 * [Обработать свойства точек определения контуров](contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
 * [Редактор контура: Основные положения](contoureditorgui_k_grundlagen.md)
 * [Маршрутизируемые соединения в системе направляющих для проводов](routinggui_k_verdrahtungssystem.md)
-

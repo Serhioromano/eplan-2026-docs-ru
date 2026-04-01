@@ -72,4 +72,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Функции обрезки](gededitgui_k_trimmen.md)
-

@@ -28,4 +28,3 @@
 * [Диалоговое окно Присвоения полей (база данных изделий)](partsmanagementgui_d_feldzuordnung.md)
 * [База данных изделий: Идентификаторы для импорта и экспорта данных](partsmanagementgui_k_importexport.md)
 * [База данных изделий: Файлы конфигурации для импорта и экспорта данных](partsmanagementgui_k_steuerdateiimportexport.md)
-

@@ -23,4 +23,3 @@
 * [Резервирование данных](bakbackupdlggui_k_start.md)
 * [Резервирование данных: Принцип](bakbackupdlggui_k_prinzip.md)
 * [Восстановить основные данные](bakrestoremdatadlggui_h_stammdatenwiederherstellen.md)
-

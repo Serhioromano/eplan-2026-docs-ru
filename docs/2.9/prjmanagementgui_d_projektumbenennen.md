@@ -19,4 +19,3 @@
 * [Проекты](projects_k_start.md)
 * [Переименовать, удалить проект (Управление проектами)](prjmanagementgui_h_projektumbenennen.md)
 * [Копировать проект (Управление проектами)](prjmanagementgui_h_projektkopieren.md)
-

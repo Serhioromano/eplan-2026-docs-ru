@@ -28,4 +28,3 @@
 
 * [Диалоговое окно Формат](eservicesgui_d_format.md)
 * [Конфигурировать представления в виде списка и структуры дерева](modaldialogsdb_h_spaltenkonfigurieren.md)
-

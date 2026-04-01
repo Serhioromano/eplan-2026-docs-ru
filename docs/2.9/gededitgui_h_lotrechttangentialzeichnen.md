@@ -53,4 +53,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Захват объекта](gededitgui_k_objektfang.md)
 * [Отобразить точки вставки](gededitgui_h_einfuegepunkte.md)
-

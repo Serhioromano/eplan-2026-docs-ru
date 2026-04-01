@@ -48,4 +48,3 @@
 [![](images/link_helpsystem_book.png){: .ui-icon }Работа со слоями](layermanager_h_ebenenbearbeiten.md)
 
 [![](images/link_helpsystem_book.png){: .ui-icon }Диалоговое окно Результаты поиска](searchandreplacegui_d_suchergebnisse.md)
-

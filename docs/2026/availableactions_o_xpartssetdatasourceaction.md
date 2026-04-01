@@ -40,4 +40,3 @@ CollectionId |  Идентификатор коллекции eStock.
 /DataSourceType:3
 /CollectionName:ESTOCK_COLLECTION_NAME
 /CollectionId:ESTOCK_COLLECTION_ID
-

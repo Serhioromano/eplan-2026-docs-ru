@@ -19,4 +19,3 @@
 * [Редактор контура: Логические элементы](contoureditorgui_k_logikelemente.md)
 * [Вкладка Данные ](contoureditorgui_r_daten.md)
 * [Вкладка Отображение ](contoureditorgui_r_anzeige.md)
-

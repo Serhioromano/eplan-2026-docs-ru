@@ -45,4 +45,3 @@
 * [Вставить кривые](routinggui_h_kurveeinfuegen.md)
 * [Изменить направление кривой](routinggui_h_kurvenverlaufaendern.md)
 * [Выровнять направление кривой по касательной](routinggui_h_kurvenverlauftangential.md)
-

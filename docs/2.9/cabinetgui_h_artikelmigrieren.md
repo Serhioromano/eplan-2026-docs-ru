@@ -82,4 +82,3 @@
 
 * [Перенос изделий электрошкафа](cabinetgui_k_artikelmigrieren.md)
 * [Диалоговое окно "Настройки: Перенос изделия"](cabinetgui_d_schrankmigration.md)
-

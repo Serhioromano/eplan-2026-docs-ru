@@ -19,4 +19,3 @@
 * [Клеммы](terminalgui_k_start.md)
 * [Раздельное представление клемм](terminalgui_k_verteiltedarstellungklemmen.md)
 * [Управление перемычками](terminalgui_k_verwendungbruecken.md)
-

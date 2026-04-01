@@ -51,4 +51,3 @@
 
 * [Автоматически генерировать кабели](cablegui_h_kabelerzeugen.md)
 * [Диалоговое окно Автоматически генерировать кабели](cablegui_d_kabelerzeugen.md)
-

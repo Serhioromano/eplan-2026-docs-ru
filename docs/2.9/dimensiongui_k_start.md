@@ -27,4 +27,3 @@
 * [Вставить круговое указание размеров](dimensiongui_h_kreisbemassung.md)
 * [Обработать указания размеров](dimensiongui_h_bemassungbearbeiten.md)
 * [Графический редактор](gededitgui_k_start.md)
-

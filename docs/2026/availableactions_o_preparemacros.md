@@ -22,4 +22,3 @@ SetHandleActive |  Определяет, должен ли быть активи
 
     Подготовить макросы:preparemacros
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
-

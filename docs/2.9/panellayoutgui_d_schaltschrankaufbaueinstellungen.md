@@ -33,4 +33,3 @@
 **См. также:**
 
 * [Диалоговое окно Удлинение и интервал](panellayoutgui_d_ausdehnungabstand.md)
-

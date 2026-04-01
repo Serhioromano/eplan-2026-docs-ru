@@ -15,4 +15,3 @@
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
 * [Заменить настройки](settingsmastergui_h_einstellungenaustauschen.md)
 * [Сброс настроек на стандартные значения](settingsmastergui_h_einstellungenaufstandard.md)
-

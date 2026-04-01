@@ -53,4 +53,3 @@
 [Диалоговое окно Настройки: Общее (предварительное планирование)](planninggui_d_einstellallgemein.md)
 
 [Диалоговое окно Обновить детальное планирование](planninggui_d_detailplanungaktualisieren.md)
-

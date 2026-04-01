@@ -35,4 +35,3 @@
 * [Генерировать перекрестную ссылку ПЛК](xessettingsgui_h_spsquerverweiseerzeugen.md)
 * [Генерировать перекрестные ссылки оборудования](xessettingsgui_h_symbolquerverweiseerzeugen.md)
 * [Генерировать перекрестные ссылки монтажных плат](xessettingsgui_h_montageplattenqvwerzeugen.md)
-

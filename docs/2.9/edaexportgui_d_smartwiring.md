@@ -25,5 +25,3 @@
 **См. также:**
 
 * [Экспорт данных изготовления для EPLAN Smart Wiring](productionwiringgui_h_smartwiringdatenexportieren.md)
-
-

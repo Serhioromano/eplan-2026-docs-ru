@@ -50,4 +50,3 @@
 **См. также:**
 
 * [Вставить границу схемы сверления](propanelmasterdata_h_bohrbildkasteneinfuegen.md)
-

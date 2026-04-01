@@ -145,4 +145,3 @@ EPLAN позволяет получить более наглядное пред
 * [Особенности при использовании кабелей в однополюсном представлении](singlepole_k_besonderheitenkabel.md)
 * [Жгутовое представление соединений в схемах соединений](singlepole_k_straenge_in_einpoligerdarstellung.md)
 * [Вкладка Вывод жгута](devicetaggui_r_stranganschluss.md)
-

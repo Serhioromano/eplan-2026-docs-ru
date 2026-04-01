@@ -30,4 +30,3 @@
 **См. также:**
 
 * [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
-

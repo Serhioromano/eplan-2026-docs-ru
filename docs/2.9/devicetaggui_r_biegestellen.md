@@ -25,4 +25,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Изгиб шины](cabinetgui_d_einstellungenkupferbiegung.md)
-

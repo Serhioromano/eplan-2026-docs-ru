@@ -36,4 +36,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Группа проектов (присвоение)](settingsmastergui_d_projektgruppezuordnung.md)
-

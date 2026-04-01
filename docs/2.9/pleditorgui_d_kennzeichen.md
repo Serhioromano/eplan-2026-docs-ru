@@ -90,4 +90,3 @@
 **См. также:**
 
 * [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
-

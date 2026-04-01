@@ -34,4 +34,3 @@
 * [Определенные пользователем свойства](userdefproperties_k_start.md)
 * [Создать и обработать классы трубы и вещества](planninggui_h_rohrklasseerstellen.md)
 * [Диалоговое окно Настройки: Выбор устройства](partselectiongui_d_einstellungengeraeteauswahl.md)
-

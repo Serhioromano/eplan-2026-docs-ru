@@ -51,4 +51,3 @@
 * [Автоматическая интерпретация: Принцип](cabinetgui_k_schrankinterpretation.md)
 * [Диалоговое окно Выбрать шаблон интерпретации](cabinetgui_d_musterschrankwaehlen.md)
 * [Диалоговое окно Список соответствия](cabinetgui_d_trefferliste.md)
-

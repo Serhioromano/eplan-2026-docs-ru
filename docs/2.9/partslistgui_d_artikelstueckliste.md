@@ -76,4 +76,3 @@
 * [Группы спецификаций](partslistgui_k_stuecklistengruppen.md)
 * [Диалоговое окно Нумеровать позиции](partslistgui_d_positionsnummerierung.md)
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
-

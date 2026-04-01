@@ -47,4 +47,3 @@ FILTERSCHEME |  Схема фильтра для функций (необяза�
 /LOGICPAGES:1
 /EVALUATIONPAGES:1
 /NOTPLACEDFUNCTIONS:1
-

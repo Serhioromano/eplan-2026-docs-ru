@@ -75,4 +75,3 @@
 
 * [Диалоговое окно Список устройств](devicelistgui_d_geraeteliste.md)
 * [Устройства](devicelistgui_k_start.md)
-

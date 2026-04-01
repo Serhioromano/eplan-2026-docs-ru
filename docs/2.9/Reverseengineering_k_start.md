@@ -34,4 +34,3 @@
 * [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
 * [Список результатов](searchandreplacegui_k_ergebnislisten.md)
 * [Прямая обработка](inplaceeditinggui_k_start.md)
-

@@ -38,4 +38,3 @@
 
 * [Диалоговое окно Выбор устройства](partselectiongui_d_geraeteauswahl.md)
 * [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
-

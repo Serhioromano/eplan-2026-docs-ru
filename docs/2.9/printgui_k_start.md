@@ -14,4 +14,3 @@
 * [Печать: Принцип](printgui_k_prinzip.md)
 * [Печать страниц](printgui_h_drucken.md)
 * [Печать присоединенных документов](printgui_h_begleitdokumente.md)
-

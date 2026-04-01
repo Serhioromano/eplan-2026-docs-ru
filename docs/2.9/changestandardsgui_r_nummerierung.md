@@ -20,4 +20,3 @@
 * [Обозначение устройств](devicetaggui_k_aufbauvonbm.md)
 * [Определение нумерации устройств](changestandardsgui_h_nummerieren.md)
 * [Формат нумерации в режиме подключения](numerationgui_k_format.md)
-

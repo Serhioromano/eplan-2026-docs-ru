@@ -19,4 +19,3 @@ USEFILTER |  Используется схема фильтра, заданна�
 /FILTERSCHEME:filter_schemeИспользование последней схемы конфигурации: Параметр CONFIGSCHEME не указывается.compress
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 /FILTERSCHEME:filter_scheme
-

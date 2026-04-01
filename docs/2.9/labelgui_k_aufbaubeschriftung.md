@@ -21,4 +21,3 @@
 * [Определить настройки вывода *.txt](labelgui_h_textausgabe.md)
 * [Определить настройки вывода Excel](labelgui_h_exceldatei.md)
 * [Вывести данные изготовления / маркировку](labelgui_h_beschriftungausgeben.md)
-

@@ -21,4 +21,3 @@
 **См. также:**
 
 * [Вставить и обработать специальные тексты](formeditorgui_h_sondertexteeinfuegen.md)
-

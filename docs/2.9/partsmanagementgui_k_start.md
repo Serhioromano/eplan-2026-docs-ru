@@ -22,4 +22,3 @@
 * [Обработать цены](partsmanagementgui_h_preisewaehrungenbearbeiten.md)
 * [Управление многоязычными данными изделий](partsmanagementgui_h_mehrsprachigeartikelverwalten.md)
 * [Использование представления в виде списка](partsmanagementgui_h_listenutzen.md)
-

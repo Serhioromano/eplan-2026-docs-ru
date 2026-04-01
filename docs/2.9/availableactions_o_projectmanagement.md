@@ -35,4 +35,3 @@ EXTENDEDMODE |  Задает "расширенный режим" для реор
     /FILENAME:C:\Files\ProjectInfo.xmlВключение/отключение временной обработки во всем проекте:projectmanagement
     /TYPE:ToggleSections
     /PROJECTNAME:"C:\Projects\EPLAN projects\ESS_Sample_Project.elk"
-

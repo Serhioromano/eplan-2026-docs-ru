@@ -24,4 +24,3 @@
 
 * [Разместить устройства в трехмерном чертеже монтажных поверхностей](cabinetgui_h_geraetplatzieren.md)
 * [Диалоговое окно Опции размещения](cabinetgui_d_platzieroptionen.md)
-

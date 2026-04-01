@@ -38,4 +38,3 @@
 * [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
 * [Диалоговое окно Настройки: Объем](translategui_r_einstellungumfang.md)
 * [Диалоговое окно Настройки: База данных изделий (пользователь, перевод) / Вкладка База данных изделий](translategui_r_artikelverwaltung.md)
-

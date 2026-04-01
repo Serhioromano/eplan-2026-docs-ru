@@ -63,4 +63,3 @@
 
 * [Соединения: Принцип работы](connectionbrowsergui_k_arbeitsweiseverbindungen.md)
 * [Обновить соединения](connectionbrowsergui_h_verbindungenbearbeiten.md)
-

@@ -22,4 +22,3 @@
 * [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
 * [Маршрутизируемые соединения (топология): Способ действий](cablinggui_k_vorgehensweise.md)
 * [Маршрутизация соединений между различными структурами идентификаторов](cablinggui_h_strukturenverbinden.md)
-

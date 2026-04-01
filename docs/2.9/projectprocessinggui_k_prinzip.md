@@ -52,4 +52,3 @@
 * [Импортировать данные устройств и устройства](projectprocessinggui_h_betriebsmittelimportieren.md)
 * [Импортировать данные соединений и маршрутизируемые соединения](projectprocessinggui_h_verlegeverbindungenimportieren.md)
 * [Диалоговое окно Присвоение полей (импорт устройств / маршрутизируемых соединений) / Диалоговое окно Настройки: Импорт](projectprocessinggui_d_feldzuordnung.md)
-

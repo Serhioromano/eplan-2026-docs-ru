@@ -43,4 +43,3 @@
 * [Резервирование данных проекта](bakbackupdlggui_k_arbeitsweise.md)
 * [Резервирование данных: Принцип](bakbackupdlggui_k_prinzip.md)
 * [Резервировать проекты](bakbackupdlggui_h_projektesichern.md)
-

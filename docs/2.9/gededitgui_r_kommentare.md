@@ -40,4 +40,3 @@
 * [Прочитать импортированные в EPLAN PDF-комментарии](redlining_h_projektkommentarebearbeiten.md)
 * [Удалить импортированные PDF-комментарии из EPLAN](redlining_h_projektkommentareloeschen.md)
 * [Графический редактор](gededitgui_k_start.md)
-

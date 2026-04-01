@@ -35,4 +35,3 @@
 
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Закрыть страницы](revisionmgtgui_h_seitenabschliessen.md)
-

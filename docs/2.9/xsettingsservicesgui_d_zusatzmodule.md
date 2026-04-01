@@ -23,4 +23,3 @@
 
 * [Зарегистрировать Add-ons вручную / автоматически](settingsmastergui_h_zusatzmodulregistrieren.md)
 * [Диалоговое окно Настройки: Add-ons](xsettingsservicesgui_d_einstellzusatzmodule.md)
-

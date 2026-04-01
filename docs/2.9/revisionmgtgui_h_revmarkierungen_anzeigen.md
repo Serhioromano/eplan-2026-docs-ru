@@ -51,4 +51,3 @@
 * [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
 * [Восстановить удаленные маркеры ревизий](revisionmgtgui_h_revmarkierungenerzeugen.md)
 * [Найти и заменить](searchandreplacegui_k_start.md)
-

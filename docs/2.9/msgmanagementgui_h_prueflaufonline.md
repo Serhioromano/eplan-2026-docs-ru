@@ -26,4 +26,3 @@
 * [Проверить проекты](msgmanagementgui_h_prueflauf.md)
 * [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
 * [Диалоговое окно Выполнить контр. прогон](xesinspectiongui_d_prueflauf.md)
-

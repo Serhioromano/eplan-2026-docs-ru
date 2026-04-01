@@ -44,4 +44,3 @@
 * [Генерировать изделия из данных схемы соединений](partselectiongui_h_artikelausschaltplan.md)
 * [Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
 * [Определить предварительный выбор изделия](partselectiongui_h_artikelvorauswahl.md)
-

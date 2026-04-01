@@ -48,4 +48,3 @@
 * [Импортировать данные изделий](partsmanagementgui_h_artikelimportieren.md)
 * [База данных изделий: Идентификаторы для импорта и экспорта данных](partsmanagementgui_k_importexport.md)
 * [База данных изделий: Файлы конфигурации для импорта и экспорта данных](partsmanagementgui_k_steuerdateiimportexport.md)
-

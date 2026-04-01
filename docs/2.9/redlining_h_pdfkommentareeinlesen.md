@@ -27,4 +27,3 @@
 
 * [PDF-комментарии](redlining_k_start.md)
 * [Удалить импортированные PDF-комментарии из EPLAN](redlining_h_projektkommentareloeschen.md)
-

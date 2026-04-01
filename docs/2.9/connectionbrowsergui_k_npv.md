@@ -33,4 +33,3 @@
 * [Использовать имеющиеся соединения](connectionbrowsergui_h_abbuchen.md)
 * [Разместить соединения](connectionbrowsergui_h_verbindungenplatzieren.md)
 * [Сгенерировать неразмещенные соединения](planningconnections_h_createconnections.md)
-

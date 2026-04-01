@@ -16,4 +16,3 @@ KeepSwappedConnPointInformation |  Если при обновлении данн
 
     XPamsDeviceSelectionAction
 /ProjectName:"C:\MyFolder\MyProject.elk"
-

@@ -32,4 +32,3 @@
 
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Удалить обозначения соединений](wirenumberinggui_h_verbindloeschen.md)
-

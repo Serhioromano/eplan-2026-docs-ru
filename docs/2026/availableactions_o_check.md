@@ -34,4 +34,3 @@ INSTALLATIONSPACENAME |  Имя проверяемого пространств�
 /USEPAGEFILTER:1Проверить пространство листа проекта, использованного последним:check
 /TYPE:INSTALLATIONSPACE
 /INSTALLATIONSPACENAME:BR1
-

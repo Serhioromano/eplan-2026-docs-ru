@@ -31,4 +31,3 @@
 
 * [Диалоговое окно Выбор символа](xsbgui_d_symbolauswahl.md)
 * [Вкладка Данные символа / функции](devicetaggui_r_symbolfunktionsdaten.md)
-

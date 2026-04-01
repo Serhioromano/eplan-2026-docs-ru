@@ -52,4 +52,3 @@
 * [Автоматически сгенерированные кабели](cablegui_k_automatikkabel.md)
 * [Определить кабели и кабельные соединения вручную](cablegui_h_aderndefinieren.md)
 * [Чертить линии определения кабелей или экранирования](cablegui_h_kabelzeichnen.md)
-

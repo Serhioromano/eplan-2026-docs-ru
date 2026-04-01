@@ -32,4 +32,3 @@
 **См. также:**
 
 * [Опции](projectoptionsgui_k_start.md)
-

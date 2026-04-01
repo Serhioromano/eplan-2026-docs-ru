@@ -65,4 +65,3 @@
 * [Определить и использовать монтажную сетку](cabinetgui_h_montagerasterdefinieren.md)
 * [Определить и изменить поверхность установки](cabinetgui_h_einbauflaeche.md)
 * [Определить исходную точку](cabinetgui_h_bezugspunktdefinieren.md)
-

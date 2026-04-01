@@ -47,4 +47,3 @@
 * [Перекрестные ссылки: Основные положения](xessettingsgui_k_grundlagen.md)
 * [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
 * [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](xessettingsgui_d_einstellungenprojektqvwallgemein.md)
-

@@ -23,4 +23,3 @@
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Вкладка Структура (управление проектами)](prjmanagementgui_r_struktur.md)
 * [Диалоговое окно Структура страницы](prjmanagementgui_d_seitenstruktur.md)
-

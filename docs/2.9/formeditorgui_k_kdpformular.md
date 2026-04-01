@@ -35,4 +35,3 @@
 
 * [Схемы кабельных соединений](cablegui_k_kabeldarstellungsplan.md)
 * [Сгенерировать схему кабельных соединений](cablegui_h_kabeldarstellungsplan.md)
-

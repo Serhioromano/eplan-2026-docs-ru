@@ -64,4 +64,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Использовать область ввода данных](gededitgui_h_kommandozeile.md)
 * [Ввести координаты при черчении](gededitgui_h_koordinatenbeimzeichnen.md)
-

@@ -42,4 +42,3 @@
 
 * [Диалоговое окно Экспорт графических файлов](modaldialogsdb_d_export.md)
 * [Диалоговое окно Настройки: Экспорт графических файлов](gedgraphicexportgui_d_exporteinstellungen.md)
-

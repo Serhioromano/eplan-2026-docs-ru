@@ -63,4 +63,3 @@
 
 * [Элементы интерфейса пользователя](userinterface_k_hintergrund.md)
 * [Пиктограммы в навигаторах](userinterface_k_iconsnavigatoren.md)
-

@@ -63,4 +63,3 @@
 * [Основные и подидентификаторы блоков идентификаторов](projectstructure_k_hauptkundunterk.md)
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Вкладка Структура (управление проектами)](prjmanagementgui_r_struktur.md)
-

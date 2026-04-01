@@ -22,5 +22,3 @@
 
 * [Диалоговое окно Свойства (<Графический элемент>)](gededitgui_d_formatgrafik.md)
 * [Начертить круги, дуги и секторы](gededitgui_h_kreisezeichnen.md)
-
-

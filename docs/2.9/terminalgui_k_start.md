@@ -27,4 +27,3 @@
 * [Управление перемычками](terminalgui_k_verwendungbruecken.md)
 * [Раздельное представление клемм](terminalgui_k_verteiltedarstellungklemmen.md)
 * [Вставить клеммы и определения клеммников](terminalgui_h_klemmenzeichnen.md)
-

@@ -52,4 +52,3 @@
 
 * [Редактор символов](symboleditorgui_k_start.md)
 * [Создать символы](symboleditorgui_h_symboleanlegen.md)
-

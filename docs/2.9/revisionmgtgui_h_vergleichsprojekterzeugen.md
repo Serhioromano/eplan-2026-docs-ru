@@ -33,4 +33,3 @@
 * [Определение настроек сравнения](revisionmgtgui_h_vergleichseinstellungen.md)
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
 * [Удалить защиту от записи](revisionmgtgui_h_schreibschutzentfernen.md)
-

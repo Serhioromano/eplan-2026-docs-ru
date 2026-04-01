@@ -71,4 +71,3 @@
 * [Символические адреса](plcgui_k_symbolischeadressen.md)
 * [Форматы адресов](plcprocessorgui_k_adressformate.md)
 * [Списки присвоений](plcgui_k_zuordnungslisten.md)
-

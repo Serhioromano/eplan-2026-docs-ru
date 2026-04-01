@@ -32,4 +32,3 @@
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Диалоговое окно Конфигурация дерева](partsmanagementgui_d_baumkonfiguration.md)
 * [Диалоговое окно Конфигурация дерева — Главные узлы](partsmanagementgui_d_baumkonfigurationhauptknoten.md)
-

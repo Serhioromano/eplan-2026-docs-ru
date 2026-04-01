@@ -25,4 +25,3 @@
 
 * [ПЛК](plcgui_k_start.md)
 * [Вставить карты и выводы устройства ПЛК](plcgui_h_spszeichnen.md)
-

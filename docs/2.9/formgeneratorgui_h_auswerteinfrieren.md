@@ -26,4 +26,3 @@
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
 * [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
 * [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
-

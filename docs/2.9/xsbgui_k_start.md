@@ -16,4 +16,3 @@
 * [Макросы символов ](xsbgui_k_symbolmakros.md)
 * [Символы: Порядок действий](xsbgui_k_vorgehensweise.md)
 * [Диалоговое окно Выбор символа](xsbgui_d_symbolauswahl.md)
-

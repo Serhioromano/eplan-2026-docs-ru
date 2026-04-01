@@ -36,4 +36,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Изделие (пользователь)](partsmanagementgui_d_einstellungenartverw.md)
-

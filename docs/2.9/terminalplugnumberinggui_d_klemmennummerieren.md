@@ -130,4 +130,3 @@
 * [Диалоговое окно Настройки: Нумерация](terminalplugnumberinggui_d_nummerierungsschema.md)
 * [Определить формат нумерации в режиме подключения](numerationgui_h_onlineformat.md)
 * [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)
-

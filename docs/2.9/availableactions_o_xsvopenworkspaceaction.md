@@ -9,4 +9,3 @@ Silent  |  Установить или сбросить фоновый режи�
 
     OpenWorkspaceAction
     /Workspacename:"?"
-

@@ -47,4 +47,3 @@
 
 * [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
 * [Расширить объекты-заполнители](macrosgui_h_platzhalterobjekteerweitern.md)
-

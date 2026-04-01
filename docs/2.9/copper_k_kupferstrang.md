@@ -18,4 +18,3 @@
 
 * [Вкладка Медный жгут](devicetaggui_r_kupferstrang.md)
 * [Вкладка Сборная шина](devicetaggui_r_sammelschiene.md)
-

@@ -51,4 +51,3 @@
 **См. также:**
 
 * [Выбрать вариант символа](xsbgui_h_symbolvarianteausw.md)
-

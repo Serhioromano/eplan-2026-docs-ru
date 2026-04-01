@@ -80,4 +80,3 @@
 * [Форматы адресов](plcprocessorgui_k_adressformate.md)
 * [Списки присвоений](plcgui_k_zuordnungslisten.md)
 * [Выделить потенциалы, сигналы или сеть](potentialbrowsergui_h_potenzialverfolgung.md)
-

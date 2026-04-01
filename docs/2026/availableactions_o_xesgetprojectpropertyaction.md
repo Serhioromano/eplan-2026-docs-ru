@@ -12,4 +12,3 @@ PropertyValue |  Полученное значение свойства
     XEsGetProjectPropertyAction
 /PropertyId:?
 /PropertyIndex:0
-

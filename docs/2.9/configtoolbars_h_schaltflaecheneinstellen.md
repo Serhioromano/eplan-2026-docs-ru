@@ -30,4 +30,3 @@
 * [Диалоговое окно Конфигурировать кнопку](modaldialogs_d_einstellungenschaltflaeche.md)
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
-

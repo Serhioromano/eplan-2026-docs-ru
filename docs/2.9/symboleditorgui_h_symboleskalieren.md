@@ -33,4 +33,3 @@
 
 * [Разместить символы](xsbgui_h_symboleplatzieren.md)
 * [Предотвратить новое размещение символа](xsbgui_h_symbolplatzierungverhindern.md)
-

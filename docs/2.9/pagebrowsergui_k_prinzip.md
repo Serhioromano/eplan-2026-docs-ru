@@ -76,4 +76,3 @@
 * [Управление проектами](prjmanagementgui_k_start.md)
 * [Диалоговое окно Настройки: Структура дерева (...)](modaldialogsdb_d_einstellprjstruktur.md)
 * [Задать представление структуры дерева в навигаторах](projectstructure_h_kennzeichenausblenden.md)
-

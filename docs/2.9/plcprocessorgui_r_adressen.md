@@ -52,4 +52,3 @@
 * [Вкладка Форматы адресов](plcprocessorgui_r_adressenformate.md)
 * [Вкладка Формат списка присвоений](plcprocessorgui_r_formatzuordnungsliste.md)
 * [Вкладка Формат символического адреса](plcprocessorgui_r_formatsymbolischeadresse.md)
-

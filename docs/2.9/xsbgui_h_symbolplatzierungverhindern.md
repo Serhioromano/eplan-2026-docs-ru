@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Разместить символы](xsbgui_h_symboleplatzieren.md)
-

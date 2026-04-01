@@ -39,4 +39,3 @@
 * [Функции обрезки](gededitgui_k_trimmen.md)
 * [Указания размеров](dimensiongui_k_start.md)
 * [Функциональные тексты зон](gededitgui_k_pfadtextstart.md)
-

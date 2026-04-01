@@ -60,4 +60,3 @@
 
 * [Управление правами](uradministration_k_start.md)
 * [Управление группами пользователей](uradministration_h_gruppen.md)
-

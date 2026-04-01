@@ -54,4 +54,3 @@
 * [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
 * [Вкладка Клемма](devicetaggui_r_klemmen.md)
 * [Диалоговое окно Обработать клеммник](stripmanagementgui_d_klemmenleistebearbeiten.md)
-

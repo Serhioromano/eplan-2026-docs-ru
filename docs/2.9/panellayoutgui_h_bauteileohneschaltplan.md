@@ -50,4 +50,3 @@
 * [Обработать и отобразить свойства размещений изделий](panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
 * [Вкладка Размещение изделия](devicetaggui_r_artikelplatzierung.md)
 * [Диалоговое окно Удлинение и интервал](panellayoutgui_d_ausdehnungabstand.md)
-

@@ -21,4 +21,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Вывод в страницах](formgeneratorgui_d_einstellgrafikausgabe.md)
-

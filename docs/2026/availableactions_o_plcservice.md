@@ -92,4 +92,3 @@ PLCCPU |  Имя ЦПУ, которое необходимо экспортир�
 /PLCSTATION:"S71500/ET200MP station_1"
 /PLCCPU:"1"
 /DESTINATIONFILE:"c:\tempdir\address_overview_export.csv"
-

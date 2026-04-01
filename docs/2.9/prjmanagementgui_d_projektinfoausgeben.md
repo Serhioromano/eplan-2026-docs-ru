@@ -23,4 +23,3 @@
 * [Отображение информации проекта](prjmanagementgui_h_projekteigenschaftenanzeigen.md)
 * [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
 * [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
-

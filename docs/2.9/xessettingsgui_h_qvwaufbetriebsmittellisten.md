@@ -59,4 +59,3 @@
 * [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
 * [Произвести настройки для отображения перекрестных ссылок](xessettingsgui_h_einstellungenqvwanzeige.md)
 * [Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)](xessettingsgui_d_einstellungenprojektqvwallgemein.md)
-

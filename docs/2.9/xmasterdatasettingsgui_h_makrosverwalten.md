@@ -42,4 +42,3 @@
 
 * [Основные данные: Управлять данными изделий](xmasterdatasettingsgui_h_artikeldatenverwalten.md)
 * [Найти и сохранить недостающие основные данные проекта, обновить проекты](xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
-

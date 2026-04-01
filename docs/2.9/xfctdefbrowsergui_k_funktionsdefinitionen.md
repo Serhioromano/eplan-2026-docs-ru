@@ -47,4 +47,3 @@
 * [Функции](xfctdefbrowsergui_k_start.md)
 * [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
 * [База данных изделий](partsmanagementgui_k_start.md)
-

@@ -33,4 +33,3 @@
 
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Подчиненные формы](formeditorgui_k_bedingteformulare.md)
-

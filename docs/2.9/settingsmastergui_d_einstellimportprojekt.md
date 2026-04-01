@@ -16,4 +16,3 @@
 
 * [Импорт / экспорт настроек](settingsmastergui_h_importieren_exportieren.md)
 * [Настройки: Импорт и экспорт](settingsmastergui_k_import_export.md)
-

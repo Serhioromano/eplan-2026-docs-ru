@@ -12,4 +12,3 @@
 
 * [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
 * [Диалоговое окно Выбор критериев](modaldialogsdb_d_filterkriterium.md)
-

@@ -39,4 +39,3 @@
 **См. также:**
 
 * [Синхронизировать функциональные тексты](egedgui_h_funktionstexteabgleichen.md)
-

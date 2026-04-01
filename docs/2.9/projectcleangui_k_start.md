@@ -11,4 +11,3 @@
 
 * [Сжимаемые данные проекта](projectcleangui_k_komprimierungsdaten.md)
 * [Сжать проект](projectcleangui_h_projektsaeubern.md)
-

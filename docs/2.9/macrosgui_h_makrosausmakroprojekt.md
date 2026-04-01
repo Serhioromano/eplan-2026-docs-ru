@@ -83,4 +83,3 @@
 * [Вкладка Рамка макроса](macrosgui_r_makrokasten.md)
 * [Вкладка Определение макроса](macrosgui_r_makrodefinition.md)
 * [Рисование блоков ломаными линиями](blackbox_h_polygonalekaesten.md)
-

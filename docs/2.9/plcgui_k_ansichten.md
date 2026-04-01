@@ -23,4 +23,3 @@
 **См. также:**
 
 * [Работа, ориентированная на канал](plcgui_k_kanalorientiertarbeitsweise.md)
-

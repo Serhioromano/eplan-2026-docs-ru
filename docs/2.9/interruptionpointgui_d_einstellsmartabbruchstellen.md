@@ -30,4 +30,3 @@
 
 * [Использовать интеллектуальное соединение](connectionbrowsergui_h_smartconnecting.md)
 * [Обработать точки разрыва](interruptionpointgui_h_abbruchstellenbearbeiten.md)
-

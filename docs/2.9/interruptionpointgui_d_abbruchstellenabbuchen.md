@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Вставить точки разрыва](interruptionpointgui_h_abbruchstelleneinfuegen.md)
-

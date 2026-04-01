@@ -57,4 +57,3 @@
 
 * [Фильтр](modaldialogsdb_k_filter.md)
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
-

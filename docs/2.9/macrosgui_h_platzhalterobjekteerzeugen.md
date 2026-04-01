@@ -62,4 +62,3 @@
 
 * [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
 * [Объекты-заполнители: Структура и принцип работы](macrosgui_k_platzhalteraufbauarbeitsweise.md)
-

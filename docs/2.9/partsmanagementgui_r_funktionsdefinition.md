@@ -19,4 +19,3 @@
 **См. также:**
 
 * [Вкладка Размещение изделия (3D)](devicetaggui_r_artikelplatzierung3d.md)
-

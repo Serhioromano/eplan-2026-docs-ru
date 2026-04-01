@@ -61,4 +61,3 @@
 
 * [Установить предшествующий знак в видимом ОУ](numerationgui_h_vorzeichensetzen.md)
 * [Обозначение устройств](devicetaggui_k_aufbauvonbm.md)
-

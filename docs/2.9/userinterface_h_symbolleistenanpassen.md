@@ -35,4 +35,3 @@
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Настроить кнопки панели инструментов для действий или меню](configtoolbars_h_schaltflaecheneinstellen.md)
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
-

@@ -62,4 +62,3 @@
 * [Создать схему экспорта / маркировки](labelgui_h_beschriftungsschema.md)
 * [Вывести данные изготовления / маркировку](labelgui_h_beschriftungausgeben.md)
 * [Файл экспорта / маркировки / Внешний файл отчетов](labelgui_k_aufbaubeschriftung.md)
-

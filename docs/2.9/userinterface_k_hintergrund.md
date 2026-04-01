@@ -21,4 +21,3 @@
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
 * [Управление EPLAN с помощью клавиатуры](userinterface_h_eplanmittastaturbedienen.md)
 * [Настройка панелей инструментов](userinterface_h_symbolleistenanpassen.md)
-

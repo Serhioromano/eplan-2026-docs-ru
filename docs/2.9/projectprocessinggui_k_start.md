@@ -15,4 +15,3 @@
 * [Импортировать в проект устройства и маршрутизируемые соединения: Принцип](projectprocessinggui_k_prinzip.md)
 * [Импортировать данные устройств и устройства](projectprocessinggui_h_betriebsmittelimportieren.md)
 * [Импортировать данные соединений и маршрутизируемые соединения](projectprocessinggui_h_verlegeverbindungenimportieren.md)
-

@@ -14,4 +14,3 @@ PropertyIndex  |  Индекс покупных изделий ограниче�
     /PartVariant:1
     /PropertyIndex:0
     /ProjectId:0
-

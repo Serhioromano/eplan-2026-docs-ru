@@ -18,4 +18,3 @@
 
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Диалоговое окно Формат](eservicesgui_d_format.md)
-

@@ -31,4 +31,3 @@
 * [Диалоговое окно Настройки: Общее (пользователь, Отображение)](macrosgui_d_einstellzwischablage.md)
 * [Копировать, вырезать и вставить элементы](gededitgui_h_elementekopieren.md)
 * [Копировать страницы в проекте](pagebrowsergui_h_seitenkopieren.md)
-

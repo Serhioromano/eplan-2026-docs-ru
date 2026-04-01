@@ -79,4 +79,3 @@
 * [Диалоговое окно Настройки: Объединить](routinggui_d_einstellungenbuendeln.md)
 * [Автоматически объединить соединения](routinggui_h_autobuendeln.md)
 * [Диалоговое окно Объединить соединения: Предварительный просмотр результата](routinggui_d_verbindungenbuendelnvorschau.md)
-

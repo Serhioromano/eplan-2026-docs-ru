@@ -56,4 +56,3 @@
 
 * [Вкладка Фильтр соединений](connectionsettingsgui_r_einstellungenverbindungsfilter.md)
 * [Вкладка Размещение изделия (3D)](devicetaggui_r_artikelplatzierung3d.md)
-

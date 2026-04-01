@@ -31,4 +31,3 @@
 
 * [Прямая обработка](inplaceeditinggui_k_start.md)
 * [Свойства прямой обработки](inplaceeditinggui_k_eigenschaften.md)
-

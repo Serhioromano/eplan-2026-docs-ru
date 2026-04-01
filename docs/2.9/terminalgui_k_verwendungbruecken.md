@@ -80,4 +80,3 @@
 * [Создание перемычек](terminalgui_h_brueckenarbeiten.md)
 * [Вкладка Соединения](devicetaggui_r_verbindungenklemmen.md)
 * [Соединения: Принцип работы](connectionbrowsergui_k_arbeitsweiseverbindungen.md)
-

@@ -21,4 +21,3 @@
 * [Операции в панелях инструментов](configtoolbars_k_start.md)
 * [Параметры командной строки EPLAN](commandlinecall_k_start.md)
 * [Автоматизированная обработка проектов](autoprocgui_k_start.md)
-

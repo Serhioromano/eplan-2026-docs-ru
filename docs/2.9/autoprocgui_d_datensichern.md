@@ -35,4 +35,3 @@
 * [Резервирование данных проекта](bakbackupdlggui_k_arbeitsweise.md)
 * [Автоматизированная обработка проектов](autoprocgui_k_start.md)
 * [Создать схемы для автоматизированной обработки](autoprocgui_h_startactions.md)
-

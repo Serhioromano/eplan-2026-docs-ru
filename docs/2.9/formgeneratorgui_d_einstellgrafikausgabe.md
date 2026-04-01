@@ -125,4 +125,3 @@
 * [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
 * [Сортировка страниц отчетов](formgeneratorgui_k_seitensortierung.md)
 * [Диалоговое окно Настройки: Общие (проекты, управление)](xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
-

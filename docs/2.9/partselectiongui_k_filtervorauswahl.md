@@ -28,4 +28,3 @@
 * [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
 * [Диалоговое окно Автом. фильтр](partsmanagementgui_d_automatikfilter.md)
 * [Диалоговое окно Предварительный выбор изделий](partselectiongui_d_artikelvorauswahl.md)
-

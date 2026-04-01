@@ -39,4 +39,3 @@
 * [Символы соединения: Основные положения](egedgui_k_grundlagen.md)
 * [Символы соединения: Представление точек соединения](egedgui_k_darstellungverbindungspunkte.md)
 * [Вставить символы соединений](egedgui_h_verbindungsstueckeeinfuegen.md)
-

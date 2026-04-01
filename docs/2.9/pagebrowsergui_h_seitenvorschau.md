@@ -47,4 +47,3 @@
 * [Диалоговое окно Предварительный просмотр графики](modaldialogsdb_d_grafischevorschau.md)
 * [Навигатор страниц](pagebrowsergui_k_start.md)
 * [Открытие и закрытие страниц](pagebrowsergui_h_seitenoeffnen.md)
-

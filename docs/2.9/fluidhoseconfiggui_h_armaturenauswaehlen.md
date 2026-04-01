@@ -23,4 +23,3 @@
 
 * [Диалоговое окно "Обработать ++...++ "](fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md)
 * [Диалоговое окно "Выбрать арматуру"](fluidhoseconfiggui_d_armaturauswahl.md)
-

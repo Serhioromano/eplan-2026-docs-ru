@@ -43,4 +43,3 @@
 * [Диалоговое окно Новая адресация выводов устройства ПЛК](plcgui_d_anschluesseneuadressieren.md)
 * [Вкладка Блок ПЛК](devicetaggui_r_spskarte.md)
 * [Подустройства ПЛК](plcgui_k_untergeraete.md)
-

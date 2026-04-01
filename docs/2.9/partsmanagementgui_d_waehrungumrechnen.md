@@ -28,4 +28,3 @@
 
 * [Диалоговое окно Настройки: Изделие (пользователь)](partsmanagementgui_d_einstellungenartverw.md)
 * [Обработать цены](partsmanagementgui_h_preisewaehrungenbearbeiten.md)
-

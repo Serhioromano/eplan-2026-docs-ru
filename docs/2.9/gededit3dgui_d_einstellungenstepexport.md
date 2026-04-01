@@ -87,4 +87,3 @@
 * [Экспорт трехмерных графических данных в формат STEP](cabinetgui_h_exportierenstep.md)
 * [Экспорт трехмерных графических данных в формат VRML](cabinetgui_h_exportierenvrml.md)
 * [Диалоговое окно Экспорт STEP / VRML](gededit3dgui_d_stepexport.md)
-

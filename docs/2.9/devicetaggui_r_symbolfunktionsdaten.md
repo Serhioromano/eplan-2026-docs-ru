@@ -105,4 +105,3 @@
 * [Обработать логическую схему выводов устройства](xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
 * [Заменить символы](xfctdefbrowsergui_h_symboltauschen.md)
 * [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)
-

@@ -42,4 +42,3 @@
 
 * [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
 * [Диалоговое окно Настройки: Ревизия](revisionmgtgui_d_einstellungen.md)
-

@@ -33,4 +33,3 @@
 
 * [Соединения: Принцип](connectionbrowsergui_k_prinzipverbindungen.md)
 * [Управление неразмещенных вспомогательных функций на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
-

@@ -35,4 +35,3 @@
 **См. также:**
 
 * [Начертить заблокированные области](panellayoutgui_h_sperrflaechenzeichnen.md)
-

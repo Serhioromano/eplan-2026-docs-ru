@@ -18,4 +18,3 @@
 [Вкладка Настройки (Schleuniger)](productionwiringgui_r_einstellungenschleuniger.md)
 
 [Вкладка Настройки (Steinhauer PWA)](productionwiringgui_r_einstellungensteinhauerpwa.md)
-

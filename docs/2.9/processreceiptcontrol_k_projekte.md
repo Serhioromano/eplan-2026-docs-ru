@@ -23,4 +23,3 @@
 * [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
 * [Создать схему сравнения настроек](processreceiptcontrol_h_vergleichsschema.md)
 * [Создать схему сравнения свойств](processreceiptcontrol_h_eigenschaftenvergleich.md)
-

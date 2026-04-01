@@ -11,4 +11,3 @@
 * [Импортировать свойства с внешней обработкой](pxfinterface_h_datenimportieren.md)
 * [Экспортировать проекты](projects_h_exportieren.md)
 * [Импортировать проекты](projects_h_importieren.md)
-

@@ -83,4 +83,3 @@ RACKOVERVIEWS |  Если указан этот параметр, генерир
     /CONFIGFILE:"C:\tempdir\schematics_generation_config.xml"
     /SINGLELINEPAGES:1
     /MULTILINEPAGES:1
-

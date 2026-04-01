@@ -32,4 +32,3 @@
 **См. также:**
 
 * [Диалоговое окно Сборка проводов: <машина>](productionwiringgui_d_exportdrahtdaten.md)
-

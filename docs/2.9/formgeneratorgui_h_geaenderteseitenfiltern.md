@@ -34,4 +34,3 @@
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
 * [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
 * [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)
-

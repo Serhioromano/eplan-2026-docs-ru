@@ -74,4 +74,3 @@
 
 * [Диалоговое окно Сохранить как](macrosgui_d_speichernunter.md)
 * [Данные сгенерированного макроса](macrosgui_k_daten.md)
-

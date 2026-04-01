@@ -38,4 +38,3 @@
 * [Определение представления курсора](gededitgui_h_cursor.md)
 * [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)
 * [Обзор комбинаций клавиш](gededitgui_k_tastaturbefehle.md)
-

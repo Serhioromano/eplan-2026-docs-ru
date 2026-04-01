@@ -52,4 +52,3 @@
 * [Вкладка Маршрутизация](connectionsettingsgui_r_einstellungenverlegung.md)
 * [Вкладка Общая дополнительная длина](connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)
 * [Вкладка Обработка концов проводов](connectionsettingsgui_r_einstellungenverbindungsende.md)
-

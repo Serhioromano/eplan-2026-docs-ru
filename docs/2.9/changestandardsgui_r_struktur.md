@@ -35,4 +35,3 @@
 * [Структура проекта](projectstructure_k_start.md)
 * [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
 * [Определить структуру проекта](changestandardsgui_h_projektstrukturanpassen.md)
-

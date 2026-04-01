@@ -31,4 +31,3 @@
 * [Обработка проекта в многопользовательском режиме](xesmultiuserconflictgui_k_projektebearbeiten.md)
 * [Отправить эл. почту в случае конфликта](xesmultiuserconflictgui_h_konfliktmailversenden.md)
 * [Заблокированные данные в многопользовательском режиме](xesmultiuserconflictgui_k_datensperren.md)
-

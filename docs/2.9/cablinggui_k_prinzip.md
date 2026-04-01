@@ -16,4 +16,3 @@
 * [Функции топологии](cablinggui_k_topologiefunktionen.md)
 * [Маршрутизируемые соединения (топология)](cablinggui_k_verlegeverbindungen.md)
 * [Выбор и обработка фоновых изображений](gededitgui_h_hintergrundbearbeiten.md)
-

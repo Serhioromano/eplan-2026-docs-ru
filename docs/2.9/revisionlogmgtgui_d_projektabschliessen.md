@@ -49,4 +49,3 @@
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Закрыть проекты / области обработки](revisionmgtgui_h_projektabschliessen.md)
 * [Закрыть страницы](revisionmgtgui_h_seitenabschliessen.md)
-

@@ -40,4 +40,3 @@
 **См. также:**
 
 * [Табличная обработка](functiondatagridgui_k_start.md)
-

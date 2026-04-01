@@ -31,4 +31,3 @@
 **См. также:**
 
 * [Создать список принадлежностей и присвоить его главному изделию](partsmanagementgui_h_zubehoerlisteerstellen.md)
-

@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Вставить кривые](routinggui_h_kurveeinfuegen.md)
-

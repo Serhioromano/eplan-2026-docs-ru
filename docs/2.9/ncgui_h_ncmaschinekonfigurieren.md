@@ -13,4 +13,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Экспорт Rittal — Perforex / Secarex](ncgui_d_einstellungenncexportkiesling.md)
-

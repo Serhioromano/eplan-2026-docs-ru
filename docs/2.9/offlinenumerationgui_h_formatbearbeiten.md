@@ -25,4 +25,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Нумеровать (автономно)](offlinenumerationgui_d_nummerierungsformate.md)
-

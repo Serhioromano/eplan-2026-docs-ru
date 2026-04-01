@@ -30,4 +30,3 @@
 * [Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.md)
 * [Отправить проекты по электронной почте](bakbackupdlggui_h_projektmailversenden.md)
 * [Запаковать и распаковать проекты](bakbackupdlggui_h_packen.md)
-

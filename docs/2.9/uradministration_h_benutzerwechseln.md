@@ -32,4 +32,3 @@
 
 * [Управление правами](uradministration_k_start.md)
 * [Регистрация диалогового окна в EPLAN](urrightsmanager_d_anmelden.md)
-

@@ -26,4 +26,3 @@
 
 * [Символы: Конструкция и идентифицирующие свойства](xsbgui_k_aufbaueigenschaften.md)
 * [Редактор символов](symboleditorgui_k_start.md)
-

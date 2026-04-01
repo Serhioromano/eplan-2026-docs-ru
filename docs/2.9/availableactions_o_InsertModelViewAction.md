@@ -43,4 +43,3 @@ OBJECTID  |  Идентифицирующее имя сгенерированн�
     /VIEWPOINT:5
     /SCALESETTING:0
     /OBJECTID:NewModelView
-

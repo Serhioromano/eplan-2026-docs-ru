@@ -16,4 +16,3 @@
 
 * [Диалоговое окно Настройки: Каталоги](modaldialogs_d_einstellungenverzeichnisse.md)
 * [Найти и сохранить недостающие основные данные проекта, обновить проекты](xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
-

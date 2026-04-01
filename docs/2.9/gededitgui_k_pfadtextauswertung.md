@@ -127,4 +127,3 @@
 * [Функциональные тексты зон](gededitgui_k_pfadtextstart.md)
 * [Функциональные тексты зон: Принцип](gededitgui_k_pfadtextprinzip.md)
 * [Вставить и обработать функциональные тексты зоны](gededitgui_h_pfadtexteinfuegen.md)
-

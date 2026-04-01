@@ -22,4 +22,3 @@
 * [Шаблоны для новых проектов](projects_k_basisprojekt.md)
 * [Создать проекты](projects_h_projekteerstellen.md)
 * [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)
-

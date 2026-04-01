@@ -30,4 +30,3 @@
 
 * [Создать модули](partsmanagementgui_h_moduleanlegen.md)
 * [Вкладка Модуль](partsmanagementgui_r_modul.md)
-

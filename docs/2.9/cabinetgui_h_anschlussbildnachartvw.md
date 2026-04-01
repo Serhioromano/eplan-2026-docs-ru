@@ -20,4 +20,3 @@
 
 * [Вкладка Схема соединений (Размещение изделия 3D)](devicetaggui_r_anschlussbild.md)
 * [Определить схему соединений в пространстве листа](cabinetgui_h_anschlussdefinieren.md)
-

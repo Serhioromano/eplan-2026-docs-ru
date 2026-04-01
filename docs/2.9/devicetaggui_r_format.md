@@ -46,4 +46,3 @@
 **См. также:**
 
 * [Чертить вспомогательные линии](cabinetgui_h_hilfslinienzeichnen.md)
-

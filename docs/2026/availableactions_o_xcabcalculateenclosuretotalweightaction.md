@@ -13,4 +13,3 @@ CabinetTotalWeight |  Общий вес одного отдельного эле
 /DatabaseId:28
 XCabCalculateEnclosureTotalWeightAction
 /ProjectName:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
-

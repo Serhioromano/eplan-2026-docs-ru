@@ -80,4 +80,3 @@ EPLAN поддерживает имена, соответствующие сог
 
 * [Резервирование данных](bakbackupdlggui_k_start.md)
 * [Резервирование данных проекта](bakbackupdlggui_k_arbeitsweise.md)
-

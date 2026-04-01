@@ -80,4 +80,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Функции масштабирования](gededitgui_k_zoom.md)
-

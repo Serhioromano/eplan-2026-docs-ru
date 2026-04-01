@@ -133,4 +133,3 @@
 * [Создание и вставка макросов предварительного планирования](planninggui_h_vorplanmakroserstl.md)
 * [Определения трубопровода на функциональной схеме автоматизации](planningri_k_rdp.md)
 * [[Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

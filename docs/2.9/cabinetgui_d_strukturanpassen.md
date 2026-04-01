@@ -35,4 +35,3 @@
 **См. также:**
 
 * [Адаптировать структуру пространства листа](cabinetgui_h_bauraumstrukturanpassen.md)
-

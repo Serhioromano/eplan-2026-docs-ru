@@ -38,4 +38,3 @@
 * [Диалоговое окно "Обработать ++...++ "](fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md)
 * [Диалоговое окно Настройки: Конфигуратор шлангопроводов](fluidhoseconfiggui_d_einstellungen.md)
 * [Обмен данными шлангопроводов](fluidhoseconfiggui_k_datenaustausch.md)
-

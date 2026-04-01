@@ -23,4 +23,3 @@
 * [Структура форм и рамок](formeditorgui_k_grundlagen.md)
 * [Заполнители в формах и рамках](formeditorgui_k_platzhalter.md)
 * [Следующие формы](formeditorgui_k_folgeformulare.md)
-

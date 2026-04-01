@@ -21,4 +21,3 @@
 * [Присвоение формы типу отчета](formgeneratorgui_h_auswerten.md)
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
 * [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
-

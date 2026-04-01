@@ -23,4 +23,3 @@
 **См. также:**
 
 * [Динамические формы](formeditorgui_k_dynamformulare.md)
-

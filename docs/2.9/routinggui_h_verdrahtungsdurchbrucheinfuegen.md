@@ -44,4 +44,3 @@
 
 * [Генерировать сеть соединенных сегментов](routinggui_h_streckennetzerzeugen.md)
 * [Вкладка Маршрутизация](connectionsettingsgui_r_einstellungenverlegung.md)
-

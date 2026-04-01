@@ -118,4 +118,3 @@ EXPORTMODEL |  Булев параметр. Если значение равно
 /PAGENAME3:=EB3+ET1/7
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 /EXPORTFILE:C:\temp.pdfИспользуйте для экспорта PDF одной страницы следующие данные: `export /TYPE:PDFPAGE /PAGENAME:=EB3+ET1/2`
-

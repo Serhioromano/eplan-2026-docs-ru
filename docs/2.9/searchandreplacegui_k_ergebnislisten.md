@@ -67,4 +67,3 @@
 * [Найти и заменить](searchandreplacegui_k_start.md)
 * [Поиск данных проекта](searchandreplacegui_h_suchen.md)
 * [Обработать записи для поиска](searchandreplacegui_h_bearbeiten.md)
-

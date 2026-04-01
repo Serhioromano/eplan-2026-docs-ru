@@ -19,4 +19,3 @@
 * [Черные ящики: Возможности использования](blackbox_k_einsatzmoeglichkeiten.md)
 * [Черные ящики: Основные положения для вкладывания](blackbox_k_schachteln.md)
 * [Вставить черные ящики](blackbox_h_kasteneinfuegen.md)
-

@@ -20,4 +20,3 @@ ConfigScheme |  Схема конфигурации (необязательно)
 /FileName:C:\Exports\EPLAN\EPLAN_Sample_Project.amlXAMlExportProductionData2RASCenterAction
 /DatabaseId:27
 /FileName:C:\Exports\EPLAN\EPLAN_Sample_Project.aml
-

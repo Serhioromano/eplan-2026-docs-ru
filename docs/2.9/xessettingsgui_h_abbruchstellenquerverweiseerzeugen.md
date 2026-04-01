@@ -29,4 +29,3 @@
 
 * [Перекрестные ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
 * [Диалоговое окно Настройки: Точки разрыва](xessettingsgui_d_einstellungenprojektabbruchstellen.md)
-

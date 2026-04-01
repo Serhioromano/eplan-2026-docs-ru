@@ -28,4 +28,3 @@
 **См. также:**
 
 * [Многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_k_start.md)
-

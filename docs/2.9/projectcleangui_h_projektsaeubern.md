@@ -27,4 +27,3 @@
 * [Диалоговое окно Настройки: Сжатие](projectcleangui_d_komprimierungseinstellungen.md)
 * [Диалоговое окно Сжать проект](projectcleangui_d_projektkomprimieren.md)
 * [Сжимаемые данные проекта](projectcleangui_k_komprimierungsdaten.md)
-

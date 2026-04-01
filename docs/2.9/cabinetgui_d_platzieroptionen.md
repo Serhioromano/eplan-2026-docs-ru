@@ -109,4 +109,3 @@
 * [Разместить монтажные платы](cabinetgui_h_montageplattenplatzieren.md)
 * [Разместить электрошкафы](cabinetgui_h_schaltschrankplatzieren.md)
 * [Разместить функциональные элементы с переменной длиной](cabinetgui_h_varbtplatzieren.md)
-

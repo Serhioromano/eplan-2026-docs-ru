@@ -59,4 +59,3 @@
 
 * [Предварительно определить свойства соединения](connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
 * [Вкладки Гидравлика / Пневматика / Охлаждение / Смазка / Смазочно-охлаждающая жидкость / Газовая техника / Технология производственных процессов](connectionsettingsgui_r_projekteinstellungenhydraulik.md)
-

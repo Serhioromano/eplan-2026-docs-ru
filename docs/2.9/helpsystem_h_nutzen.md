@@ -47,4 +47,3 @@
 
 * [Справочная система](helpsystem_k_start.md)
 * [Меню справки](helpsystem_m_hilfe.md)
-

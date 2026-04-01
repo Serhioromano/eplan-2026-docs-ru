@@ -30,4 +30,3 @@
 * [Диалоговое окно Выбор символа](xsbgui_d_symbolauswahl.md)
 * [Разместить символы](xsbgui_h_symboleplatzieren.md)
 * [Диалоговое окно Настройки: Библиотеки символов](xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
-

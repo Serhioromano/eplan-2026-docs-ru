@@ -30,4 +30,3 @@
 
 * [Определенные пользователем свойства](userdefproperties_k_start.md)
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
-

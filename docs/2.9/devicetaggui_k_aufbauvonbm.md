@@ -24,4 +24,3 @@
 
 * [Устройство](devicetaggui_k_start.md)
 * [Свойства устройства](devicetaggui_k_bmeigenschaften.md)
-

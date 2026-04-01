@@ -32,4 +32,3 @@
 * [Устройства](devicelistgui_k_start.md)
 * [Обработать список устройств](devicelistgui_h_geraetelistebearbeiten.md)
 * [Диалоговое окно Список устройств](devicelistgui_d_geraeteliste.md)
-

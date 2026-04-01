@@ -8,4 +8,3 @@ FileName |  Имя импортируемого XML-файла, включая �
 
     MfImportRibbonBarAction
 /FileName:"?"
-

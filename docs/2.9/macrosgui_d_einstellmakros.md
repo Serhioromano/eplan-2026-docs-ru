@@ -54,4 +54,3 @@
 
 * [Объекты-заполнители: Структура и принцип работы](macrosgui_k_platzhalteraufbauarbeitsweise.md)
 * [Графический выбор макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_k_start.md)
-

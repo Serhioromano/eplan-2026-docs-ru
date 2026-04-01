@@ -34,4 +34,3 @@
 
 * [Подогнать тексты в блоке выравнивания](gededitgui_h_texteeinpassen.md)
 * [Тексты](gededitgui_k_texte.md)
-

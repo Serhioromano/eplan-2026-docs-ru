@@ -13,4 +13,3 @@
 * [Импортировать собственные наборы буквенных обозначений, обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenesaetzeimportieren.md)
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
 * [Диалоговое окно Синхронизация основных данных — основные данные системы](modaldialogsdb_d_stammdatenabgleich.md)
-

@@ -50,4 +50,3 @@
 
 * [Опубликовать проекты](projects_h_veroeffentlichen.md)
 * [Диалоговое окно Настройки: Опубликовать](edaexportgui_d_einstellungenveroeffentlichen.md)
-

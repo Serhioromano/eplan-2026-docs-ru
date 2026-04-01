@@ -43,4 +43,3 @@ C помощью команды переместить тексты свойст
 * [Обработать свойства текста](gededitgui_h_textebearbeiten.md)
 * [Присоединить / отсоединить тексты](gededitgui_h_texteandocken.md)
 * [Вставить текст](gededitgui_h_texte.md)
-

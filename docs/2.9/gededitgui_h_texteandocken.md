@@ -59,4 +59,3 @@
 * [Вставить текст](gededitgui_h_texte.md)
 * [Обработать свойства текста](gededitgui_h_textebearbeiten.md)
 * [Переместить тексты свойств](gededitgui_h_symboltexteverschieben.md)
-

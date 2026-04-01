@@ -20,4 +20,3 @@
 
 * [Сетевые соединения: Принцип](netbasedwires_k_prinzip.md)
 * [Вставить точки определения сети](netbasedwires_h_ndpzeichnen.md)
-

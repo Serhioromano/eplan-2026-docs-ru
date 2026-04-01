@@ -35,4 +35,3 @@
 
 * [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)
 * [Вставить символы соединений](egedgui_h_verbindungsstueckeeinfuegen.md)
-

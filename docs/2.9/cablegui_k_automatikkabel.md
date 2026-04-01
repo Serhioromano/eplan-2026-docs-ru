@@ -24,4 +24,3 @@ EPLAN автоматически размещает линии определе�
 * [Удалить автоматически сгенерированные кабели](cablegui_h_automatischekabelloeschen.md)
 * [Выбрать кабель](cablegui_h_kabelauswahlautomatisch.md)
 * [Суммировать длину кабелей](cablegui_h_kabelmengenberechnen.md)
-

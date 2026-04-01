@@ -33,4 +33,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Использование области ввода данных](gededitgui_h_kommandozeile.md)
-

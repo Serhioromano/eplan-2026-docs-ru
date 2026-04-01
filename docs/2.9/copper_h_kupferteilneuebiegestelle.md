@@ -38,4 +38,3 @@
 * [Медная шина: Изменить длину](copper_h_kupferteillaengeaendern.md)
 * [Медная шина: Изменить угол](copper_h_kupferteilwinkelaendern.md)
 * [Медная шина: Изменить места изгиба](copper_h_kupferteilbiegestelleaendern.md)
-

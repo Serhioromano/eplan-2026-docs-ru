@@ -11,4 +11,3 @@
 
 * [Слои: Принцип](layermanager_k_prinzip.md)
 * [Работа со слоями](layermanager_h_ebenenbearbeiten.md)
-

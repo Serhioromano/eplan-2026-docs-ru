@@ -8,4 +8,3 @@
 
 * [ Перекр. ссылки: Основы](xessettingsgui_k_grundlagen.md)
 * [ Перекр. ссылки: Виды перекрестных ссылок](xessettingsgui_k_querverweisarten.md)
-

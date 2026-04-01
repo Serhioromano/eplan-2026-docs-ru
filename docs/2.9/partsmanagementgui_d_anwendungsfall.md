@@ -32,4 +32,3 @@
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Диалоговое окно Импортировать записи данных](partsmanagementgui_d_artikelimport.md)
 * [Вкладка Параметры, важные с точки зрения безопасности](partsmanagementgui_r_sicherheitskennwerte.md)
-

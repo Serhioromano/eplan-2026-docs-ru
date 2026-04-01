@@ -29,4 +29,3 @@
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
 * [Заменить символы](xfctdefbrowsergui_h_symboltauschen.md)
 * [Обработать логическую схему выводов устройства](xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
-

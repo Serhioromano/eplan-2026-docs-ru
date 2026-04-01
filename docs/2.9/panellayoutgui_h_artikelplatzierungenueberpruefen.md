@@ -21,4 +21,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Сообщения и контрольные прогоны](xesinspectiongui_d_einstellungenmeldungen.md)
-

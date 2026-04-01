@@ -36,4 +36,3 @@
 **См. также:**
 
 * [Файл конфигурации для импорта изделий Festo](festocatalog_k_zuordnungsdatei.md)
-

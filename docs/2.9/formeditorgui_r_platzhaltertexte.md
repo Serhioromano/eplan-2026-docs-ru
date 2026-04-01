@@ -26,4 +26,3 @@
 
 * [Динамическое размещение графики](formeditorgui_h_grafikendynamischplatzieren.md)
 * [Вкладка Размещение (редакторы)](formeditorgui_r_platzierung.md)
-

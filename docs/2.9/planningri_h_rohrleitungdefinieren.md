@@ -48,4 +48,3 @@
 * [Определения трубопровода на функциональной схеме автоматизации](planningri_k_rdp.md)
 * [Маркировать и обработать трассу трубопровода](planningri_h_rohrleitungmarkieren.md)
 * [Вставить прерывания для трубопроводов](planningri_h_rohrleitungunterbrechen.md)
-

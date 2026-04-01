@@ -25,4 +25,3 @@
 
 * [Импортировать данные изделий](partsmanagementgui_h_artikelimportieren.md)
 * [Вкладка Параметры, важные с точки зрения безопасности](partsmanagementgui_r_sicherheitskennwerte.md)
-

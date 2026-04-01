@@ -10,4 +10,3 @@
 * [Настройки: Принцип работы](settingsmastergui_k_arbeitsweise.md)
 * [Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.md)
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
-

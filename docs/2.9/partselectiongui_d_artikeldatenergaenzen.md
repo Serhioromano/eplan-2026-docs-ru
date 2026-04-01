@@ -20,4 +20,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Изделие (пользователь)](partselectiongui_d_datenauswahlbenutzer.md)
-

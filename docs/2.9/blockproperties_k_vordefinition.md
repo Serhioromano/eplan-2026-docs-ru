@@ -33,4 +33,3 @@
 
 * [Свойства блока](blockproperties_k_start.md)
 * [Определить свойства блока](blockproperties_h_blockeigenschaftendefinieren.md)
-

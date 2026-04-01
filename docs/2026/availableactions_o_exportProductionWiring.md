@@ -30,4 +30,3 @@ MultipleConnections  |  Если значение = 1, повторно эксп
 /TARGETDIRECTORY:D:export
 /MultipleConnections:1
 /UseSelection:0
-

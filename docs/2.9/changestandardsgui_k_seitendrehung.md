@@ -17,4 +17,3 @@ Fluid-страницы |  Тип страниц "Схема соединений
 * [Замена рамки](changestandardsgui_k_stammdaten.md)
 * [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
 * [Определить шаблон и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
-

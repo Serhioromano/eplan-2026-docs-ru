@@ -48,4 +48,3 @@
 
 * [Макросы: Защищенные группы](macrosgui_k_geschuetztegruppen.md)
 * [Использовать рамки макросов](macrosgui_h_makrokasten.md)
-

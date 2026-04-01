@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Сравнить проекты](revisionmgtgui_h_revvergleichen.md)
-

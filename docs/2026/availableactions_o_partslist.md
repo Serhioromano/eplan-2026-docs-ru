@@ -52,4 +52,3 @@ CONFIGSCHEME |  Схема конфигурации для удаления со
 /TYPE:DELETESTOREDPROPERTIES
 /PROJECTNAME:C:\Projects\EPLAN\EPLAN_Sample_Project.elk
 /CONFIGSCHEME:config_scheme
-

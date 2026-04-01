@@ -26,4 +26,3 @@
 * [Диалоговое окно Импорт DXF/DWG](xdxfgui_d_import.md)
 * [Диалоговое окно Форматир. импорта](xdxfgui_d_importformatierung.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

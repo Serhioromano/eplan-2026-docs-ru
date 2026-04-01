@@ -49,4 +49,3 @@
 * [Отчеты](formgeneratorgui_k_start.md)
 * [Типы страниц](pagebrowsergui_k_seitentypen.md)
 * [Проекты](projects_k_start.md)
-

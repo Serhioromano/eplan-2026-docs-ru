@@ -34,4 +34,3 @@
 
 * [Проекты макросов](macrosgui_k_makroprojekte.md)
 * [Использовать рамки макросов](macrosgui_h_makrokasten.md)
-

@@ -32,4 +32,3 @@
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Диалоговое окно Обозначить соединения](wirenumberinggui_d_verbnumbezeichnen.md)
 * [Диалоговое окно Обозначить соединения: Предварительный просмотр результата](wirenumberinggui_d_ergebnisbezeichnen.md)
-

@@ -74,4 +74,3 @@
 * [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
 * [Присвоить изделия устройству](devicetaggui_h_artikeldatenzuweisen.md)
 * [Сохранить данные ссылки изделия на функции](partselectiongui_h_artikeldatenanschaltzeichen.md)
-

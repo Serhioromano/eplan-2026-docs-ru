@@ -30,4 +30,3 @@
 * [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
 * [Структурирование проектов согласно стандарту EN 81346](projectstructure_k_referenzkennzeichnung.md)
 * [Диалоговое окно Структура страницы](prjmanagementgui_d_seitenstruktur.md)
-

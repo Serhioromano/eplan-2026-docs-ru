@@ -95,4 +95,3 @@
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
 * [Использование имеющихся кабелей, кабельных соединений и экранирований](cablegui_h_abbuchen.md)
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
-

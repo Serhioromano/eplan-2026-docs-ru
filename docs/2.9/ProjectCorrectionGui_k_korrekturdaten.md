@@ -67,4 +67,3 @@
 
 * [Диалоговое окно Настройки: Корректировать](ProjectCorrectionGui_d_korrektureinstellungen.md)
 * [Корректировать проект](ProjectCorrectionGui_h_projektkorrigieren.md)
-

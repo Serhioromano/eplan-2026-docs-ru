@@ -37,4 +37,3 @@
 * [Обрезка элементов](gededitgui_h_elementetrimmen.md)
 * [Закругление/скашивание углов (фаски)](gededitgui_h_eckenrunden.md)
 * [Использование области ввода данных](gededitgui_h_kommandozeile.md)
-

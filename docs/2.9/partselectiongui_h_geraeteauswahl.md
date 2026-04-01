@@ -102,4 +102,3 @@
 * [Поведение изделий при выборе устройств](partselectiongui_k_prinzip.md)
 * [Диалоговое окно Настройки: Выбор устройства](partselectiongui_d_einstellungengeraeteauswahl.md)
 * [Диалоговое окно Выбор устройства](partselectiongui_d_geraeteauswahl.md)
-

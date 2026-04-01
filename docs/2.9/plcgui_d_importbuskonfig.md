@@ -64,4 +64,3 @@
 * [Импорт файлов конфигурации ПЛК](plcgui_k_importbuskonfig.md)
 * [Выводы устройства ПЛК](plcgui_k_spsanschluesse.md)
 * [Диалоговое окно Экспортировать данные ПЛК](plcgui_d_exportbuskonfig.md)
-

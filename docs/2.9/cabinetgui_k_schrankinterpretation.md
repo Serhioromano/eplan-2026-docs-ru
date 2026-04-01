@@ -60,4 +60,3 @@
 * [Представить и перенести логику электрошкафа](cabinetgui_h_schrankinterpretation.md)
 * [Диалоговое окно Выбор шаблона интерпретации](cabinetgui_d_musterschrankwaehlen.md)
 * [Диалоговое окно Список соответствия](cabinetgui_d_trefferliste.md)
-

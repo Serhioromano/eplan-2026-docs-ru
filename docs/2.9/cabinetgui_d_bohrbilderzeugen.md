@@ -19,4 +19,3 @@
 **См. также:**
 
 * [Генерировать схемы сверления из файлов ЧУ](propanelmasterdata_h_bohrbildausncdaten.md)
-

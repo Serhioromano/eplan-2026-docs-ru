@@ -12,4 +12,3 @@
 [Вкладка Размещение (редакторы)](formeditorgui_r_platzierung.md)
 
 [Вкладка Формат](gededitgui_r_format.md)
-

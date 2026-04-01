@@ -22,4 +22,3 @@
 * [Определение потенциалов и сигналов](potentialbrowsergui_k_prinzippotenziale.md)
 * [Вкладка Определение потенциала](devicetaggui_r_pdp.md)
 * [Соединения](connectionbrowsergui_k_start.md)
-

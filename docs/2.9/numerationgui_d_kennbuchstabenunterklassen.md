@@ -60,4 +60,3 @@
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
 * [Наборы буквенных обозначений](fctdeflibdataexchangegui_k_kennbuchstaben.md)
 * [Автоматическая нумерация новых устройств](numerationgui_h_online.md)
-

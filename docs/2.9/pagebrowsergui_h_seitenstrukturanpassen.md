@@ -57,4 +57,3 @@
 * [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)
 * [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
 * [Создать идентификаторы при вставке новых страниц, ОУ и макросов](pleditorgui_h_kennzanlegenbeineuerseite.md)
-

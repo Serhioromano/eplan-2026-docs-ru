@@ -41,4 +41,3 @@
 
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Вкладка Выводы устройства](partsmanagementgui_r_anschlussklemmen.md)
-

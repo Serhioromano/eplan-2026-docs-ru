@@ -22,4 +22,3 @@
 * [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
 * [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
 * [Присвоение формы типу отчета](formgeneratorgui_h_auswerten.md)
-

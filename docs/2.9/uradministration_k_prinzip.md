@@ -41,4 +41,3 @@ API-действия также могут быть выборочно прис�
 * [Управление пользователями](uradministration_h_benutzer.md)
 * [Управление группами пользователей](uradministration_h_gruppen.md)
 * [Диалоговое окно Управление правами](uradministration_d_rechte.md)
-

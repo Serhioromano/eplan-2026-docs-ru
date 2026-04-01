@@ -14,4 +14,3 @@ PropertyValue  |  Новое значение свойства
 /PropertyIdentName:PEP.Project.PVW_1
 /PropertyIndex:0
 /PropertyValue:"?"
-

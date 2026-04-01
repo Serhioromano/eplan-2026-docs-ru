@@ -26,4 +26,3 @@
 
 * [Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](xdxfgui_d_einstellungen.md)
 * [Динамические формы](formeditorgui_k_dynamformulare.md)
-

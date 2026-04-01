@@ -58,4 +58,3 @@
 * [Управление курсором с помощью клавиатуры](gededitgui_k_cursortastatur.md)
 * [Обзор комбинаций клавиш](gededitgui_k_tastaturbefehle.md)
 * [Диалоговое окно Настройки: Комбинации клавиш](ot_d_tastenkombinationen.md)
-

@@ -83,4 +83,3 @@
 * [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)
 * [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)
 * [Диалоговое окно Свойства страницы / Новая страница](pagebrowsergui_d_seiteneigenschaften.md)
-

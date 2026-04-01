@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Выбрать кабель](cablegui_h_kabelauswahlautomatisch.md)
-

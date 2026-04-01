@@ -31,4 +31,3 @@
 * [Диалоговое окно Настройки: Печать](printgui_d_druckoptionen.md)
 * [Диалоговое окно Предварительный просмотр перед печатью](printgui_d_druckvorschau.md)
 * [Диалоговое окно Страницы - <Имя проекта>](pagebrowsergui_d_seitenuebersicht.md)
-

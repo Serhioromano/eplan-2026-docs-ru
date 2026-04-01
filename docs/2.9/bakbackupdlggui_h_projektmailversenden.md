@@ -78,4 +78,3 @@
 * [Резервирование данных: Принцип](bakbackupdlggui_k_prinzip.md)
 * [Резервировать проекты](bakbackupdlggui_h_projektesichern.md)
 * [Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.md)
-

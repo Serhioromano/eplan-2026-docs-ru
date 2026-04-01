@@ -34,4 +34,3 @@
 
 * [Указания размеров](dimensiongui_k_start.md)
 * [Указания размеров: Принцип](dimensiongui_k_bemassungenprinzip.md)
-

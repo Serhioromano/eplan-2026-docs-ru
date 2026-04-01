@@ -22,4 +22,3 @@ UPDATEONLY  |  Если значение равно 1, обновляются т
     /SCHEMENAME:config_scheme
     /Header:1
     /UPDATEONLY:1
-

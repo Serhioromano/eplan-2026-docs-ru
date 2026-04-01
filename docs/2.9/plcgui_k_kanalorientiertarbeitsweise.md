@@ -78,4 +78,3 @@
 * [Каналы ПЛК](plcgui_k_kanaele.md)
 * [Последовательность видов представлений при общей обработке и анализе](reverseengineering_k_reihenfolge.md)
 * [Использование имеющихся выводов устройства ПЛК](plcgui_h_anschluesseabbuchen.md)
-

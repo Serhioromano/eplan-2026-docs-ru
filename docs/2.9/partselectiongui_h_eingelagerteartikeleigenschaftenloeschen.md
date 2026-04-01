@@ -21,4 +21,3 @@
 * [Поведение изделий при выборе устройств](partselectiongui_k_prinzip.md)
 * [Синхронизировать сохраненные изделия с базой данных изделий](partselectiongui_h_artikeldateneinlagern.md)
 * [Генерировать изделия из данных схемы соединений](partselectiongui_h_artikelausschaltplan.md)
-

@@ -24,4 +24,3 @@
 **См. также:**
 
 * [Вкладка Узел](partsmanagementgui_r_baugruppe.md)
-

@@ -27,4 +27,3 @@
 
 * [Диалоговое окно Настройки: Add-ons](xsettingsservicesgui_d_einstellzusatzmodule.md)
 * [Диалоговое окно Add-ons](xsettingsservicesgui_d_zusatzmodule.md)
-

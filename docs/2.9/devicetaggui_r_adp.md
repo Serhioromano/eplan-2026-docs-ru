@@ -38,4 +38,3 @@
 **См. также:**
 
 * [Начертить точку определения изделия](partselectiongui_h_adpzeichnen.md)
-

@@ -35,4 +35,3 @@
 
 * [Графический выбор макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_k_start.md)
 * [Диалоговое окно Графический выбор макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_d_auswahl.md)
-

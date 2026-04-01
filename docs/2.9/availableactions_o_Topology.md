@@ -11,4 +11,3 @@ CreateFunctions: Автоматически генерирует функции 
 !!! example "Пример:"
 
     Маршрутизировать соединения топологии:Topology /TYPE:RouteConnections /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elkГенерировать функции топологии:Topology /TYPE:CreateFunctions /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elk
-

@@ -49,4 +49,3 @@
 
 * [Диалоговое окно Настройки: Нумерация кабелей](cablegui_d_einstellungenkabelnummerierung.md)
 * [Вкладка Формат (Нумерация кабелей)](cablegui_r_einstkabelnumformat.md)
-

@@ -51,4 +51,3 @@ EPLAN различаются главные и вспомогательные ф
 
 * [Определения функций: Принцип](xfctdefbrowsergui_k_funktionsdefinitionen.md)
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
-

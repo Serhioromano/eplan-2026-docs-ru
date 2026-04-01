@@ -230,4 +230,3 @@
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Настроить кнопки панели инструментов для действий или меню](configtoolbars_h_schaltflaecheneinstellen.md)
 * [Операция: XGedStartInteractionAction](availableactions_o_xgedstartinteractionaction.md)
-

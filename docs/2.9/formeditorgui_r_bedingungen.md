@@ -36,4 +36,3 @@
 
 * [Динамические формы](formeditorgui_k_dynamformulare.md)
 * [Диалоговое окно Условия](formeditorgui_d_bedingungen.md)
-

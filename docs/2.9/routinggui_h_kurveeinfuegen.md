@@ -65,4 +65,3 @@
 * [Изменить направление кривой](routinggui_h_kurvenverlaufaendern.md)
 * [Выровнять направление кривой по касательной](routinggui_h_kurvenverlauftangential.md)
 * [Вкладка Кривая](devicetaggui_r_kurve.md)
-

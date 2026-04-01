@@ -43,4 +43,3 @@
 * [Создание связей в предварительном планировании](planninggui_h_verknuepfungenerstellen.md)
 * [Отобразить связи с объектами планирования соединений](planninggui_h_verknuepfungenanzeigen.md)
 * [Диалоговое окно Предварительное планирование — <Имя проекта>](planninggui_d_navigator.md)
-

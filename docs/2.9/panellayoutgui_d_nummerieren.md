@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Диалоговое окно Обработать позицию легенды](panellayoutgui_d_legendenposbearbeiten.md)
-

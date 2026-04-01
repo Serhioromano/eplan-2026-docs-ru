@@ -39,4 +39,3 @@
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Отображение маркеров ревизии](revisionmgtgui_k_markierungen.md)
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
-

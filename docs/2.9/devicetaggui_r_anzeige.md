@@ -64,4 +64,3 @@
 * [Вкладка Данные символа / функции](devicetaggui_r_symbolfunktionsdaten.md)
 * [Перевести тексты проекта](translategui_k_start.md)
 * [Использовать определенный пользователем порядок свойств](devicetaggui_h_eigschanordnungen.md)
-

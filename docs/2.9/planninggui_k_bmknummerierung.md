@@ -44,4 +44,3 @@
 
 * [Предварительное планирование](planninggui_k_start.md)
 * [Определить формат нумерации в режиме подключения](numerationgui_h_onlineformat.md)
-

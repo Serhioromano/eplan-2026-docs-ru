@@ -38,4 +38,3 @@
 * [Вставить клеммы и определения клеммников](terminalgui_h_klemmenzeichnen.md)
 * [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

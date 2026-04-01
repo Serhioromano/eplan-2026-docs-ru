@@ -25,4 +25,3 @@
 **См. также:**
 
 * [Генерировать диаграммы соединений](panellayoutgui_h_verbindungsdiagramme.md)
-

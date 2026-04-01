@@ -26,4 +26,3 @@
 * [Использование графического выбора макросов ](Eplan.EplCoreAddin.GraphicalMacroChoosing_h_select.md)
 * [Диалоговое окно Графический выбор макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_d_auswahl.md)
 * [Диалоговое окно Настройки: Графический выбор макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_d_einstellungen.md)
-

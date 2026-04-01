@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Определить и использовать монтажную сетку](cabinetgui_h_montagerasterdefinieren.md)
-

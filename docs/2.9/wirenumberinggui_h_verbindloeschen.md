@@ -30,4 +30,3 @@
 
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Диалоговое окно Удалить обозначения соединений](wirenumberinggui_d_verbindloeschen.md)
-

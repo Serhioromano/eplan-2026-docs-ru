@@ -34,4 +34,3 @@
 * [Защита устройства](devicetaggui_k_geschuetztebm.md)
 * [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
 * [Диалоговое окно Настройки: Общее (предварительное планирование)](planninggui_d_einstellallgemein.md)
-

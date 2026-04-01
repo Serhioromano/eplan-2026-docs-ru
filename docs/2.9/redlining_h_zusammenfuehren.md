@@ -26,4 +26,3 @@
 * [Разрешить комментирование в PDF-файле](redlining_h_freigabe.md)
 * [Импортировать PDF-комментарии в проект EPLAN ](redlining_h_pdfkommentareeinlesen.md)
 * [Удалить импортированные PDF-комментарии из EPLAN](redlining_h_projektkommentareloeschen.md)
-

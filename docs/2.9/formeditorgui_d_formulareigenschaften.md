@@ -33,4 +33,3 @@
 * [Диалоговое окно Присвоение "свойства / значений к графике"](formeditorgui_d_zuordnungeigenschaftwertzugrafik.md)
 * [Диалоговое окно Формат для автоматического описания страниц](formeditorgui_d_formatfuerautomatseitenbeschreibung.md)
 * [Обработать свойства форм](formeditorgui_h_formulareigenschaftenbearbeiten.md)
-

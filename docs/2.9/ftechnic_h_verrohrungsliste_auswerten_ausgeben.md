@@ -61,4 +61,3 @@
 * [Диалоговое окно <Тип отчета>](formgeneratorgui_d_struktur.md)
 * [Диалоговое окно Определить отчет](formgeneratorgui_d_auswertfestlegen.md)
 * [Диалоговое окно Настройки — <Тип отчета>](formgeneratorgui_d_grafikausgabe.md)
-

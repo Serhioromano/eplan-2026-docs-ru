@@ -46,4 +46,3 @@
 **См. также:**
 
 * [Следующие формы](formeditorgui_k_folgeformulare.md)
-

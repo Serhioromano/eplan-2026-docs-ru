@@ -36,4 +36,3 @@
 * [Вставить графические файлы](gededitgui_h_bilddateien.md)
 * [Вставить файлы DXF / DWG в графическом редакторе](xdxfgui_h_seitengrafeditoreinfuegen.md)
 * [Диалоговое окно Управление слоями — <Имя проекта>](layermanager_d_ebenenverwaltung.md)
-

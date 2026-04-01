@@ -13,4 +13,3 @@ PropertyValue |  Полученное значение свойства
 /PropertyId:?
 /PropertyIndex:0
 /PropertyValue:"?"
-

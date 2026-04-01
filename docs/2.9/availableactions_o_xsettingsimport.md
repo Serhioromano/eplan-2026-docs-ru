@@ -32,4 +32,3 @@ Project  |  Имя целевого проекта (необязательно).
     /XmlFile:C:my_project.xml
     /Project:"C:...ESS_Sample_Project.elk"
     /Node:FormGeneratorGui
-

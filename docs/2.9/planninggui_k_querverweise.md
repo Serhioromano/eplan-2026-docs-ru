@@ -30,4 +30,3 @@
 * [Графическое предварительное планирование](planninggui_k_grafischevorplanung.md)
 * [Функциональные схемы автоматизации в предварительном планировании](planningri_k_start.md)
 * [Перекрестные ссылки](xessettingsgui_k_start.md)
-

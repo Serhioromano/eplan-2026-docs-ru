@@ -24,4 +24,3 @@
 * [Диалоговое окно Настройки: Нумерация соединений](wirenumberinggui_d_verbnumeinstellungen.md)
 * [Создать группы форматов](wirenumberinggui_h_formatgruppenerstellen.md)
 * [Определить сетевое расширение для нумерации соединений](wirenumberinggui_h_netzerweiterung.md)
-

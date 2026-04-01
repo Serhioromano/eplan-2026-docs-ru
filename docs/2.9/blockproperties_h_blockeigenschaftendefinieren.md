@@ -63,4 +63,3 @@
 * [Свойства блока: Принцип](blockproperties_k_prinzip.md)
 * [Предварительное определение свойств блока](blockproperties_k_vordefinition.md)
 * [Просмотреть свойства блока](blockproperties_h_blockeigenschaftenanzeigen.md)
-

@@ -11,4 +11,3 @@
 **См. также:**
 
 * [Клеммы](terminalgui_k_start.md)
-

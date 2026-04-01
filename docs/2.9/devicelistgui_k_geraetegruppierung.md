@@ -58,4 +58,3 @@
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
 * [Свойства блока](blockproperties_k_start.md)
 * [Работать с группами элементов](gededitgui_h_elementegruppieren.md)
-

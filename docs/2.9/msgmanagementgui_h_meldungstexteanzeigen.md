@@ -45,4 +45,3 @@
 * [Управление сообщениями EPLAN](msgmanagementgui_k_start.md)
 * [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
 * [Работа со слоями](layermanager_h_ebenenbearbeiten.md)
-

@@ -120,4 +120,3 @@
 * [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
 * [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)
 * [Вкладка Наследование (Расширенные структуры проекта)](prjmanagementgui_r_vererbung.md)
-

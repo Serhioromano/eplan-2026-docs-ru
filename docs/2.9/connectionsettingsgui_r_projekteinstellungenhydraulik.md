@@ -43,4 +43,3 @@
 
 * [Предварительно определить свойства соединения](connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
 * [Вкладка Электротехника](connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
-

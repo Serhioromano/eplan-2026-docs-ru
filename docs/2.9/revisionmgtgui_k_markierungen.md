@@ -39,4 +39,3 @@
 * [Удалить маркеры удаления в проектах со сравнением свойств](revisionmgtgui_h_loeschzeichenentfernen.md)
 * [Восстановить удаленные маркеры ревизий](revisionmgtgui_h_revmarkierungenerzeugen.md)
 * [Диалоговое окно Настройки: Общие (Пользователь, Представление)](macrosgui_d_einstellzwischablage.md)
-

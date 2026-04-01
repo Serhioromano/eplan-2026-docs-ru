@@ -11,4 +11,3 @@ FILENAME  |  Полный путь и имя исходного файла. Не
     ImportSegmentsTemplate
     /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
     /FILENAME:C:\EPLAN\Templates\SegmentTemplates.txt
-

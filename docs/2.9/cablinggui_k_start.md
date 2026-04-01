@@ -22,4 +22,3 @@
 * [Учет разности высотных отметок при маршрутизации](cablinggui_k_teilstrecke.md)
 * [Определение длины соединения (топология)](cablinggui_k_laengenermittlung.md)
 * [Схемы соединений (топология)](cablinggui_k_anschlussbild.md)
-

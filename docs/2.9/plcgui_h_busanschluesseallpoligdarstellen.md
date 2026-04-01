@@ -45,4 +45,3 @@
 
 * [Создать и обработать карты ПЛК](plcgui_h_spsanlegen.md)
 * [Структура ПЛК](plcgui_k_prinzip.md)
-

@@ -53,4 +53,3 @@
 * [Указания размеров: Принцип](dimensiongui_k_bemassungenprinzip.md)
 * [Вкладка Указания размеров](dimensiongui_r_bemassung.md)
 * [Вкладка Формат (тексты)](gededitgui_r_format.md)
-

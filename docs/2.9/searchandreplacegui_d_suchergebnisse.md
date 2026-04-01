@@ -39,4 +39,3 @@
 * [Обработать записи для поиска](searchandreplacegui_h_bearbeiten.md)
 * [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
 * [Общая обработка на страницах отчетов](Reverseengineering_k_start.md)
-

@@ -12,4 +12,3 @@ eCl@ss представляет собой стандартизированну�
 
 * [Диалоговое окно Импортировать записи данных](partsmanagementgui_d_artikelimport.md)
 * [Диалоговое окно Настройки: Импорт eCl@ss](partsimportbmecatgui_d_einstellungeneclass.md)
-

@@ -103,4 +103,3 @@
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
 * [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
 * [Синхронизация распределенных функций](adjustdata_h_funktionabgleichen.md)
-

@@ -49,4 +49,3 @@
 * [Исходные точки: Принцип](cabinetgui_k_bezugspunkte.md)
 * [Перенести схему расположения точек вставки](cabinetgui_h_bezugspunktschemauebertragen.md)
 * [Отображение инструмента для монтажных работ](cabinetgui_h_montagehilfenanzeigen.md)
-

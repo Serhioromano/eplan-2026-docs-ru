@@ -56,4 +56,3 @@
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
 * [Создание пользователем конфигураций свойств](userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
 * [Диалоговое окно Конфигурировать свойства](modaldialogsdb_d_eigenschaftsanordnung.md)
-

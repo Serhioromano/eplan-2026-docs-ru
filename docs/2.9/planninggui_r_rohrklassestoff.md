@@ -25,4 +25,3 @@
 
 * [Шаблоны для классов трубы и веществ](planninggui_k_rohrleitungsvorlagen.md)
 * [Создать и обработать классы трубы и вещества](planninggui_h_rohrklasseerstellen.md)
-

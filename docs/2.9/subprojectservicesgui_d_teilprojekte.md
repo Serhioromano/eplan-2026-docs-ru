@@ -62,4 +62,3 @@
 * [Выгрузка частичных проектов](subprojectservicesgui_k_auslagern.md)
 * [Сохранение частичных проектов](subprojectservicesgui_k_einlagern.md)
 * [Области обработки](workingsection_k_start.md)
-

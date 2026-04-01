@@ -95,4 +95,3 @@
 
 * [Активировать монтажные поверхности](cabinetgui_h_aktivierenautomatisch.md)
 * [Системы сборных шин ](cabinetgui_k_sammelschienensystem.md)
-

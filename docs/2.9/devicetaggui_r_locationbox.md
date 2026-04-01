@@ -41,4 +41,3 @@
 
 * [Вставить обозначения местоположения](locationbox_h_einfuegen.md)
 * [Диалоговое окно Настройки: Условные обозначения](pleditorgui_d_einstellungenkennzeichen.md)
-

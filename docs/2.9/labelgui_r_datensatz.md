@@ -47,4 +47,3 @@
 * [Определить настройки вывода Excel](labelgui_h_exceldatei.md)
 * [Вывести данные изготовления / маркировку](labelgui_h_beschriftungausgeben.md)
 * [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](labelgui_k_formatelemente.md)
-

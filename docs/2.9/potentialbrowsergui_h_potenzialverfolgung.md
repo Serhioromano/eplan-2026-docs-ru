@@ -36,4 +36,3 @@
 
 * [Потенциалы и сигналы](potentialbrowsergui_k_start.md)
 * [Диалоговое окно "Настройки": Общие (пользователь)](gedviewer_d_einstellungenbenutzerallgemein.md)
-

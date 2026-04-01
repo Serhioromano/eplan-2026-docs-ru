@@ -70,4 +70,3 @@
 * [Список устройств](devicelistgui_k_geraeteliste.md)
 * [Обработать список устройств](devicelistgui_h_geraetelistebearbeiten.md)
 * [Каталог продуктов Festo](festocatalog_k_start.md)
-

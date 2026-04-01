@@ -9,4 +9,3 @@
 **См. также:**
 
 * [![](images/link_news.png){: .ui-icon }
-

@@ -51,4 +51,3 @@
 **См. также:**
 
 * [Диалоговое окно Суммировать длину кабелей](cablegui_d_kabelmengenberechnung.md)
-

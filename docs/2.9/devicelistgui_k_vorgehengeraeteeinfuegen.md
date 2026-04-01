@@ -66,4 +66,3 @@ EPLAN при вставке устройства проверяет данные
 * [Вставка / размещение устройств](devicelistgui_k_platzieren.md)
 * [Процедура удаления и копирования устройств](devicelistgui_k_loeschenkopieren.md)
 * [Диалоговое окно Настройки: Общие (Проекты, Устройства)](xessettingsgui_d_betriebsmittelallgemein.md)
-

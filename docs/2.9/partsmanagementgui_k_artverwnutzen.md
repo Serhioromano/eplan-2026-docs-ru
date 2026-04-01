@@ -26,4 +26,3 @@
 
 * [База данных изделий](partsmanagementgui_k_start.md)
 * [База данных изделий: Управление принадлежностями](partsmanagementgui_k_zubehoerlisten.md)
-

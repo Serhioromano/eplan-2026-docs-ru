@@ -53,4 +53,3 @@
 
 * [Использовать интеллектуальное соединение](connectionbrowsergui_h_smartconnecting.md)
 * [Установить предшествующий знак в видимом ОУ](numerationgui_h_vorzeichensetzen.md)
-

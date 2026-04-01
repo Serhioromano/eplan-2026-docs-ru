@@ -49,4 +49,3 @@
 
 * [Состав ОУ](functiondatagridgui_k_bmkaufteilung.md)
 * [Диалоговое окно Табличная обработка — <Имя проекта>](functiondatagridgui_d_tabellarischbearbeiten.md)
-

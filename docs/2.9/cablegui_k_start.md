@@ -30,4 +30,3 @@
 * [Использование имеющихся кабелей, кабельных соединений и экранирований](cablegui_h_abbuchen.md)
 * [Суммировать длину кабелей](cablegui_h_kabelmengenberechnen.md)
 * [Вывести изделия кабелей в отчете](cablegui_h_kabelauswertung.md)
-

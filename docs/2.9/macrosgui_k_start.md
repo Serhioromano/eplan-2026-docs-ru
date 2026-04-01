@@ -20,4 +20,3 @@
 * [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
 * [Создать макросы](macrosgui_h_makroserzeugen.md)
 * [Генерировать макросы из файлов DXF / DWG](macrosgui_h_makrosausdxf.md)
-

@@ -73,4 +73,3 @@
 **См. также:**
 
 * [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
-

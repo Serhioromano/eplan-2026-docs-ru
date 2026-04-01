@@ -38,4 +38,3 @@
 * [Диалоговое окно Определения функций](xfctdefbrowsergui_d_funktionsdefinitionen.md)
 * [Изменить функции](xfctdefbrowsergui_h_funktionaendern.md)
 * [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)
-

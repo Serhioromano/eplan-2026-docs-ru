@@ -49,4 +49,3 @@ End Class 'SimpleScript
 **См. также:**
 
 * [Сценарии](scripts_k_start.md)
-

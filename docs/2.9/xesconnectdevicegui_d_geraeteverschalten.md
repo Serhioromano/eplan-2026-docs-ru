@@ -127,4 +127,3 @@
 * [Предв. планирование соединений](planningconnections_k_start.md)
 * [Сгенерировать неразмещенные соединения](planningconnections_h_createconnections.md)
 * [Разместить подсоединенные функции](planningconnections_h_platzieren.md)
-

@@ -45,4 +45,3 @@
 **См. также:**
 
 * [Нумерация зон по ГОСТу](formeditorgui_k_pfadnummgost.md)
-

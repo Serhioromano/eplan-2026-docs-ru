@@ -56,4 +56,3 @@
 * [Управление ревизиями](revisionmgtgui_k_start.md)
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
 * [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
-

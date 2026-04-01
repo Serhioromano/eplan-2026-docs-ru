@@ -67,4 +67,3 @@
 
 * [Присвоить кабельные соединения вручную](cablegui_h_adernzuordnen.md)
 * [Присвоить кабельные соединения автоматически](cablegui_h_kabelauflegen.md)
-

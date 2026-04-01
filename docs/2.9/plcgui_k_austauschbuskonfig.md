@@ -71,4 +71,3 @@ EPLAN одинаково обрабатывает [системы шин на о
 * [Структура ПЛК](plcgui_k_prinzip.md)
 * [Экспорт файлов конфигурации ПЛК](plcgui_k_exportbuskonfig.md)
 * [Импорт файлов конфигурации ПЛК](plcgui_k_importbuskonfig.md)
-

@@ -30,4 +30,3 @@
 
 * [Диалоговое окно Опубликовать](edaexportgui_d_veroeffentlichen.md)
 * [Диалоговое окно Настройки: Опубликовать](edaexportgui_d_einstellungenveroeffentlichen.md)
-

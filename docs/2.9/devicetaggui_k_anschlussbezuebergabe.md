@@ -27,4 +27,3 @@
 
 * [Перенести обозначения выводов устройства](devicetaggui_h_anschlusbezuebernehmen.md)
 * [Устройство](devicetaggui_k_start.md)
-

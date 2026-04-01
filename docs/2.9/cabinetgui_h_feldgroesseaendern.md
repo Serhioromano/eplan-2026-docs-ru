@@ -30,4 +30,3 @@
 **См. также:**
 
 * [Определить монтажную поверхность](cabinetgui_h_montageflaechedefinieren.md)
-

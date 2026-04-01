@@ -16,4 +16,3 @@
 * [Вставить символы соединений](egedgui_k_start.md)
 * [Кабель](cablegui_k_start.md)
 * [Представление кабелей с помощью выводов жгута](singlepole_h_gostnorm.md)
-

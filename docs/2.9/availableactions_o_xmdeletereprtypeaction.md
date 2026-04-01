@@ -31,4 +31,3 @@ Destination  |  Целевой каталог
     /RepresentationType:0
     /Source:C:\macros\*.ema
     /Destination:C:\dest
-

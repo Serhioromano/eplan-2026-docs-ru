@@ -94,4 +94,3 @@
 * [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
 * [Определение настроек сравнения](revisionmgtgui_h_vergleichseinstellungen.md)
 * [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
-

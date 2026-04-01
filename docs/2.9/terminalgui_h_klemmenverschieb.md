@@ -24,4 +24,3 @@
 
 * [Диалоговое окно Переместить](terminalplugcommongui_d_verschieben.md)
 * [Сортировать клеммы](terminalgui_h_klemmensort.md)
-

@@ -45,4 +45,3 @@
 * [Вкладка Форматы адресов](plcprocessorgui_r_adressenformate.md)
 * [Вкладка Формат символического адреса](plcprocessorgui_r_formatsymbolischeadresse.md)
 * [Диалоговое окно Формат адресов ПЛК / Формат строки / Адреса в списке присвоений](plcprocessorgui_d_formatspsadresse.md)
-

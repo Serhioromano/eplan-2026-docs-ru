@@ -15,4 +15,3 @@
 * [Соединения](connectionbrowsergui_k_start.md)
 * [Начертить точки или выводы определения потенциалов](potentialbrowsergui_h_pdpzeichnen.md)
 * [Выделить потенциалы, сигналы или сеть](potentialbrowsergui_h_potenzialverfolgung.md)
-

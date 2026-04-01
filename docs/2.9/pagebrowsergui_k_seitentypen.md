@@ -26,4 +26,3 @@
 * [Навигатор страниц](pagebrowsergui_k_start.md)
 * [Создать и удалить страницы](pagebrowsergui_h_seitenanlegen.md)
 * [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)
-

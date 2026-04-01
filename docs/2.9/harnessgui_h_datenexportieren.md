@@ -32,4 +32,3 @@
 
 * [Проводной монтаж](harnessgui_k_start.md)
 * [Диалоговое окно Проводной монтаж — <Имя проекта>](harnessgui_d_navigator.md)
-

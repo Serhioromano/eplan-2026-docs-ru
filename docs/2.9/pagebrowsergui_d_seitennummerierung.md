@@ -50,4 +50,3 @@
 * [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)
 * [Копировать страницы в проекте](pagebrowsergui_h_seitenkopieren.md)
 * [Копировать страницы между различными проектами](pagebrowsergui_h_seitenkopierenprojekte.md)
-

@@ -42,4 +42,3 @@
 * [Вкладка Маршрутизация](connectionsettingsgui_r_einstellungenverlegung.md)
 * [Вкладка Обработка концов проводов](connectionsettingsgui_r_einstellungenverbindungsende.md)
 * [Сгенерировать неразмещенные соединения](planningconnections_h_createconnections.md)
-

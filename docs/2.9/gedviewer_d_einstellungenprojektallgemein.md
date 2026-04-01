@@ -130,4 +130,3 @@
 * [Определить настройки для отображения символов соединения](egedgui_h_einstellungenanzeigeverdrahtung.md)
 * [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)
 * [Определенные пользователем свойства](userdefproperties_k_start.md)
-

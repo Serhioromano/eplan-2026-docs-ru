@@ -148,4 +148,3 @@ MARKASMANUAL  |  Соответствует настройке Выделить 
     /MARKASMANUAL:1
     /USESELECTION:0
     /GROUP_1:1
-

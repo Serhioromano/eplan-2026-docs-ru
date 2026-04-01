@@ -57,4 +57,3 @@
 * [Предварительное планирование](planninggui_k_start.md)
 * [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
 * [Присвоить шаблоны сегментов](planninggui_h_segmentvorlagezuordnen.md)
-

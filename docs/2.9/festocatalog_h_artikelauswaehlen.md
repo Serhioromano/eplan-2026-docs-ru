@@ -34,4 +34,3 @@
 * [Файл конфигурации для импорта изделий Festo](festocatalog_k_zuordnungsdatei.md)
 * [Выбрать изделие](partselectiongui_h_artikelauswahl.md)
 * [Отобразить гиперссылки на Web-узел Festo](festocatalog_h_hyperlinksanzeigen.md)
-

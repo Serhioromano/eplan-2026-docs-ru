@@ -24,4 +24,3 @@ SELn |  Ид. объекта страниц, для которых необхо�
     reports
     /TYPE:PROJECT
     /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-

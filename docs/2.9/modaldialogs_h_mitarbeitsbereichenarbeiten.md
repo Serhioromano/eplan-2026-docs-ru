@@ -71,4 +71,3 @@
 * [Диалоговое окно 'Рабочая область'](modaldialogs_d_arbeitsbereich.md)
 * [Диалоговое окно Обработать раб. область](modaldialogs_d_arbeitsbereichbearbeiten.md)
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
-

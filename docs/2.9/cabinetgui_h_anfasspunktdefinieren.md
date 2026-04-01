@@ -36,4 +36,3 @@
 * [Логика устройства: Принцип](cabinetgui_k_betriebsmittellogik.md)
 * [Определить монтажную поверхность](cabinetgui_h_montageflaechedefinieren.md)
 * [Определить точку монтажа](cabinetgui_h_zielmatesdefinieren.md)
-

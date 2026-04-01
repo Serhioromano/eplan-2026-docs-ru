@@ -54,4 +54,3 @@
 * [Определить шаблон и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
 * [Создать схему присвоения для символов (изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
 * [Определить нумерацию устройств (Изменение стандарта)](changestandardsgui_h_nummerieren.md)
-

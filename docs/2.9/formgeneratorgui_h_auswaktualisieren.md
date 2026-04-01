@@ -32,4 +32,3 @@
 * [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
 * [Автоматическое / не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
 * [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)
-

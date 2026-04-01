@@ -10,4 +10,3 @@
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
 * [Общая обработка свойств на страницах отчетов](reverseengineering_h_uebergreifendesbearbeiten.md)
-

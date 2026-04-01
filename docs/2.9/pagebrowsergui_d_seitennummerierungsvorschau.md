@@ -24,4 +24,3 @@
 * [Диалоговое окно Нумеровать страницы](pagebrowsergui_d_seitennummerierung.md)
 * [Нумеровать и переименовать страницы](pagebrowsergui_h_seitennummerieren.md)
 * [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)
-

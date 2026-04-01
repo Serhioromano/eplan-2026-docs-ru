@@ -26,4 +26,3 @@
 * [Проверить основные данные изделия](msgmanagementgui_h_artikelstammdatenpruefen.md)
 * [Просмотреть и обработать сообщения контрольного прогона](msgmanagementgui_h_meldungenansehen.md)
 * [Отобразить тексты сообщений в графическом редакторе](msgmanagementgui_h_meldungstexteanzeigen.md)
-

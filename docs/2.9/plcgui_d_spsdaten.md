@@ -92,4 +92,3 @@
 
 * [ПЛК](plcgui_k_start.md)
 * [Виды в навигаторе ПЛК](plcgui_k_ansichten.md)
-

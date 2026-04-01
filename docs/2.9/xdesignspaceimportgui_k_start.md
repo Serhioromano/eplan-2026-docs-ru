@@ -23,4 +23,3 @@
 * [Импорт и экспорт пространства конструкции: Принцип](xdesignspaceimportgui_k_prinzip.md)
 * [Импортировать пространство конструкции](xdesignspaceimportgui_h_konstraumimportieren.md)
 * [Экспортировать пространство конструкции](xdesignspaceimportgui_h_konstraumexportieren.md)
-

@@ -26,4 +26,3 @@
 
 * [Диалоговое окно Нумерация с данными ПЛК: Формат](offlinenumerationplcgui_d_format.md)
 * [Определить сетевое расширение для нумерации с данными ПЛК](offlinenumerationplcgui_h_netzerweiterung.md)
-

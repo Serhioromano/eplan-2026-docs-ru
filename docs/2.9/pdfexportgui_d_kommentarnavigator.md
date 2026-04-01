@@ -47,4 +47,3 @@
 * [Импортировать PDF-комментарии в проект EPLAN](redlining_h_pdfkommentareeinlesen.md)
 * [Прочитать импортированные в EPLAN PDF-комментарии](redlining_h_projektkommentarebearbeiten.md)
 * [Удалить импортированные PDF-комментарии из EPLAN](redlining_h_projektkommentareloeschen.md)
-

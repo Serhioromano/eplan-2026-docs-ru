@@ -25,4 +25,3 @@
 
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Диалоговое окно Разместить точки определения соединения](wirenumberinggui_d_vdpplatzieren.md)
-

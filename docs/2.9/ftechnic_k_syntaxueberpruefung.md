@@ -10,4 +10,3 @@
 
 * [Управление структурными идентификаторами](pleditorgui_k_start.md)
 * [EPLAN Fluid: Структура устройства](ftechnic_k_betriebsmittelstruktur.md)
-

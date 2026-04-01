@@ -112,4 +112,3 @@
 * [Вкладки <Категория функции > / <Категория функции> (Устройство)](devicetaggui_r_bmdaten.md)
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
 * [Структура ПЛК](plcgui_k_prinzip.md)
-

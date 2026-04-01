@@ -95,4 +95,3 @@
 * [Компоновка электрошкафа 2D: Легенды](panellayoutgui_k_legenden.md)
 * [Обработать позиции легенды](panellayoutgui_h_legendenaktualisieren.md)
 * [Вкладка Монтажная плата (компоновка электрошкафа)](devicetaggui_r_montageplatte.md)
-

@@ -67,4 +67,3 @@
 
 * [Диалоговое окно Настройки: Нумерация кабелей](cablegui_d_einstellungenkabelnummerierung.md)
 * [Вкладка Последовательность (Нумерация кабелей)](cablegui_r_einstkabelnumreihenfolge.md)
-

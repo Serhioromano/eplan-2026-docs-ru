@@ -60,4 +60,3 @@
 
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Диалоговое окно Раздел/подраздел](partsmanagementgui_d_gewerk.md)
-

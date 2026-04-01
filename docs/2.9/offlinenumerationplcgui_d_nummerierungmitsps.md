@@ -34,4 +34,3 @@
 * [Диалоговое окно Нумерация с данными ПЛК: Предварительный просмотр результата](offlinenumerationplcgui_d_ergebnisvorschau.md)
 * [Нумеровать подсоединенные к ПЛК устройства](offlinenumerationplcgui_h_bmnummerieren.md)
 * [Определить формат и объем нумерации](offlinenumerationplcgui_h_formatfestlegen.md)
-

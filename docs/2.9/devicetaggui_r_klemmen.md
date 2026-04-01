@@ -122,4 +122,3 @@
 * [Создать и обработать клеммники](terminalgui_h_klemmenleistenerstlbearb.md)
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
 * [Создать собственные обозначения и описания вывода устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-

@@ -52,4 +52,3 @@
 * [Создать схему сравнения свойств](processreceiptcontrol_h_eigenschaftenvergleich.md)
 * [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
 * [Создать схему контрольных прогонов для проверки проекта](processreceiptcontrol_h_pruefschema.md)
-

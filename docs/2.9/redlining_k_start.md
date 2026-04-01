@@ -13,4 +13,3 @@
 * [Исполнитель и нормоконтролер](redlining_k_projektkommentator.md)
 * [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)
 * [Импортировать PDF-комментарии в проект EPLAN](redlining_h_pdfkommentareeinlesen.md)
-

@@ -40,4 +40,3 @@
 * [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
 * [Элементы-заполнители EPLAN](placeholder_o_main.md)
 * [Свойства EPLAN](properties_o_main.md)
-

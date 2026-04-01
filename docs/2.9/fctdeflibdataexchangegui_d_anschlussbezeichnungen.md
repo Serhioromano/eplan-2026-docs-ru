@@ -39,4 +39,3 @@
 * [Создать собственные обозначения и описания вывода устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
 * [Диалоговое окно Определения функций](xfctdefbrowsergui_d_funktionsdefinitionen.md)
 * [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
-

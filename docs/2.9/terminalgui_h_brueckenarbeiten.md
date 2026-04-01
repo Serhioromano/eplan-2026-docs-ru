@@ -90,4 +90,3 @@
 
 * [Вкладка Соединения](devicetaggui_r_verbindungenklemmen.md)
 * [Управление перемычками](terminalgui_k_verwendungbruecken.md)
-

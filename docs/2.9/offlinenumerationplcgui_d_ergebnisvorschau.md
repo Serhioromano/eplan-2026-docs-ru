@@ -41,4 +41,3 @@
 **См. также:**
 
 * [Нумеровать подсоединенные к ПЛК устройства](offlinenumerationplcgui_h_bmnummerieren.md)
-

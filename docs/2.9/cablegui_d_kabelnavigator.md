@@ -69,4 +69,3 @@
 * [Диалоговое окно Автоматический выбор кабеля](cablegui_d_automatischekabelauswahl.md)
 * [Диалоговое окно Нумеровать кабели](cablegui_d_kabelnummerierung.md)
 * [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
-

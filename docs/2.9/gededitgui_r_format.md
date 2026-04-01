@@ -343,4 +343,3 @@
 * [Вставить и обработать специальные тексты](formeditorgui_h_sondertexteeinfuegen.md)
 * [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
 * [Диалоговое окно Настройки: 2D (Пользователь, Графическая обработка)](gedviewer_d_einstellungenbenutzerallgemein.md)
-

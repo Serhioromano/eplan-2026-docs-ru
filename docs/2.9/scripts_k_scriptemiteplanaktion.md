@@ -78,4 +78,3 @@ End Class 'PrintScript
 
 * [Сценарии](scripts_k_start.md)
 * [Автоматизированная обработка проектов](autoprocgui_k_start.md)
-

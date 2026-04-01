@@ -34,4 +34,3 @@
 **См. также:**
 
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
-

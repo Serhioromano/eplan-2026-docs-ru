@@ -19,4 +19,3 @@
 
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Диалоговое окно Настройки: Отслеживание изменений (нумерация индекса ревизии)](revisionlogmgtgui_d_einstellungenseitenindex.md)
-

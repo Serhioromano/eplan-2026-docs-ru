@@ -23,4 +23,3 @@
 **См. также:**
 
 * [Предварительно определить свойства соединения](connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
-

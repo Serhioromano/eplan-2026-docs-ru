@@ -40,4 +40,3 @@
 * [Создать проект (Управление проектами)](prjmanagementgui_h_projektanlegen.md)
 * [Шаблоны для новых проектов](projects_k_basisprojekt.md)
 * [Проекты](projects_k_start.md)
-

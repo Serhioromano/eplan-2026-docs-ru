@@ -48,4 +48,3 @@
 **См. также:**
 
 * [Вкладка Выводы устройства](partsmanagementgui_r_anschlussklemmen.md)
-

@@ -21,4 +21,3 @@ IMMEDIATEIMPORT |  После обработки подтверждение им
 /DESTINATION:c:\\temp\\Articles.xlsx
 /EXECUTIONMODE:0
 /COMPLETEPROJECT:1
-

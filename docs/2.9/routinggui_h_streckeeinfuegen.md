@@ -50,4 +50,3 @@
 **См. также:**
 
 * [Генерировать сеть соединенных сегментов](routinggui_h_streckennetzerzeugen.md)
-

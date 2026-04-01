@@ -54,4 +54,3 @@
 * [Список устройств](devicelistgui_k_geraeteliste.md)
 * [Диалоговое окно Список устройств](devicelistgui_d_geraeteliste.md)
 * [Диалоговое окно Свойства](devicelistgui_d_eigenschaften.md)
-

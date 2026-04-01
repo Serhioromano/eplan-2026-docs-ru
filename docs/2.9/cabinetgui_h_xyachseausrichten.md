@@ -38,4 +38,3 @@
 
 * [Определить монтажную поверхность](cabinetgui_h_montageflaechedefinieren.md)
 * [Повернуть объекты вокруг оси](cabinetgui_h_drehenxyz.md)
-

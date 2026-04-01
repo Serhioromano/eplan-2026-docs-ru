@@ -101,4 +101,3 @@
 * [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
 * [Вкладка Шаблоны функций](partsmanagementgui_r_funktionsschablone.md)
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
-

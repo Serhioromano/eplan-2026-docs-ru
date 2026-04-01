@@ -53,4 +53,3 @@
 * [Редактор форм и рамок](formeditorgui_k_start.md)
 * [Автоматическая адресация выводов устройства ПЛК](plcgui_h_automatisch_adressieren.md)
 * [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
-

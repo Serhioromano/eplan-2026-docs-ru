@@ -15,4 +15,3 @@ ProgressTitle |  Задает название индикатора выполн
     XMActionDCImport
 /ProjectLink:C:\Projects\EPLAN\test.elk
 /DataConfigurationFile:C:\EPLAN\DataCfgFile.edc
-

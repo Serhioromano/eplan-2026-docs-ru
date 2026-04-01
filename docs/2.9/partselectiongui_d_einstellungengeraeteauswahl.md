@@ -70,4 +70,3 @@
 * [Выбор устройства: Способ действий](partselectiongui_k_vorgehensweise.md)
 * [Шаблоны для классов трубы и веществ](planninggui_k_rohrleitungsvorlagen.md)
 * [Свойства EPLAN: Обзор](properties_o_main.md)
-

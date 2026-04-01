@@ -51,4 +51,3 @@
 
 * [Предварительное планирование](planninggui_k_start.md)
 * [Графическое предварительное планирование](planninggui_k_grafischevorplanung.md)
-

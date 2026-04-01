@@ -18,4 +18,3 @@
 
 * [Создать словарь](translatedbgui_h_woerterbuchanlegen.md)
 * [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
-

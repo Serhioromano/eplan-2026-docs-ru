@@ -63,4 +63,3 @@
 **См. также:**
 
 * [Суммировать длину кабелей](cablegui_h_kabelmengenberechnen.md)
-

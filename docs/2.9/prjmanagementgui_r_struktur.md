@@ -49,4 +49,3 @@
 * [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
 * [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)
 * [Диалоговое окно Настройки: Совместимость](xessettingsgui_d_einstellungenprojektkompatibilitaet.md)
-

@@ -14,4 +14,3 @@
 
 * [Основные данные](xmasterdatasettingsgui_k_start.md)
 * [Основные данные: Архив данных](xmasterdatasettingsgui_k_datenablage.md)
-

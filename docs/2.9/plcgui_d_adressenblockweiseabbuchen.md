@@ -37,4 +37,3 @@
 
 * [Использование имеющихся адресов ПЛК](plcgui_h_adressenabbuchen.md)
 * [Диалоговое окно Выбрать для использования имеющегося](plcgui_d_adressenabbuchen.md)
-

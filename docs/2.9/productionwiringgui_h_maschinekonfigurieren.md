@@ -15,4 +15,3 @@
 
 * [Диалоговое окно Настройки: Сборка проводов](productionwiringgui_d_einstellungendrahtkonfektionierung.md)
 * [Экспортировать сборку проводов](productionwiringgui_h_drahtdatenexportieren.md)
-

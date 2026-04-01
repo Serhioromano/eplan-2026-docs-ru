@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Графические и внешние условные обозначения и соединения](devicetaggui_k_grafischeschaltzeichen.md)
-

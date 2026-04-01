@@ -22,4 +22,3 @@
 
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [База данных изделий: Импорт данных изделий по стандарту eCl@ss](partsimportbmecatgui_k_start.md)
-

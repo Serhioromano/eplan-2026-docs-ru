@@ -61,4 +61,3 @@
 
 * [Активировать монтажные поверхности](cabinetgui_h_aktivierenautomatisch.md)
 * [Диалоговое окно Размеры](cabinetgui_d_abmessungen.md)
-

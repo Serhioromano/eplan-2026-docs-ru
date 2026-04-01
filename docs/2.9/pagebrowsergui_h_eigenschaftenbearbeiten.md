@@ -23,4 +23,3 @@
 
 * [Свойства страницы](pagebrowsergui_k_eigenschaften.md)
 * [Свойства EPLAN](properties_o_main.md)
-

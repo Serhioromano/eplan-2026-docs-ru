@@ -67,4 +67,3 @@
 * [Вкладка Размещение изделия](devicetaggui_r_artikelplatzierung.md)
 * [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)
 * [Вкладка Формат (Устройство)](devicetaggui_r_format.md)
-

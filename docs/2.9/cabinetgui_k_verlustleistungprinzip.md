@@ -85,4 +85,3 @@ l = длина шины в [м].
 * [Расчет общей мощности потерь на распределительных устройствах](cabinetgui_k_verlustleistung.md)
 * [Рассчитать общую мощность потерь на распределительных устройствах](cabinetgui_h_verlustleistungberechnen.md)
 * [Диалоговое окно "Рассчитать мощность потерь"](cabinetgui_d_verlustleistungberechnen.md)
-

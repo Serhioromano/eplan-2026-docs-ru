@@ -43,5 +43,3 @@
 
 * [Диалоговое окно Свойства (<Графический элемент>)](gededitgui_d_formatgrafik.md)
 * [Начертить линии и прямоугольники](gededitgui_h_linienzeichnen.md)
-
-

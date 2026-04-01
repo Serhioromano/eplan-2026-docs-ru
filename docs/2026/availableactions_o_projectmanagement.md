@@ -32,4 +32,3 @@ SCANSUBDIRECTORIES |  Определяет, будут ли подкаталог
 /TYPE:REORGANIZE
 /PROJECTNAME:"C:\Projects\EPLAN projects\EPLAN_Sample_Project.elk"
 /EXTENDEDMODE:"1"
-

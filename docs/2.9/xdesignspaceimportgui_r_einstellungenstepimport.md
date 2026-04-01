@@ -23,4 +23,3 @@
 **См. также:**
 
 * [Вкладка Настройки: Экспорт пространства конструкции](xdesignspaceimportgui_r_einstellungenstepexport.md)
-

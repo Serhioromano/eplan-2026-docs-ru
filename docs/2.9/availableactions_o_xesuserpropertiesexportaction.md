@@ -10,4 +10,3 @@ Project  |  Полное имя проекта, определенные пол�
     XEsUserPropertiesExportAction
     /XMLFile:c:\my_user.xml
     /Project:c:\...\ESS_Sample_Project.elk
-

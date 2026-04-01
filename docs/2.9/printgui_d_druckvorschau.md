@@ -29,4 +29,3 @@
 * [Печать](printgui_k_start.md)
 * [Печать: Принцип](printgui_k_prinzip.md)
 * [Печать страниц](printgui_h_drucken.md)
-

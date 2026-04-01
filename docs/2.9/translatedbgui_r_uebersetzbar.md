@@ -40,4 +40,3 @@
 * [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)
 * [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
 * [Ввести предложение по разделению](translatedbgui_h_trennvorschlag.md)
-

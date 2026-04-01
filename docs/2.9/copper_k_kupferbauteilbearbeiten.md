@@ -30,4 +30,3 @@
 **См. также:**
 
 * [Обработать медную шину](copper_h_kupferteilbearbeiten.md)
-

@@ -81,4 +81,3 @@
 
 * [Проводной монтаж](harnessgui_k_start.md)
 * [Импортировать данные проводного монтажа](harnessgui_h_importkabelbaum.md)
-

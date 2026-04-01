@@ -26,4 +26,3 @@
 
 * [Проекты макросов](macrosgui_k_makroprojekte.md)
 * [Свойства блока](blockproperties_k_start.md)
-

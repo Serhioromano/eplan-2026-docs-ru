@@ -28,4 +28,3 @@
 * [Диалоговое окно Новая адресация выводов устройства ПЛК](plcgui_d_anschluesseneuadressieren.md)
 * [Диалоговое окно Присвоить адреса ПЛК повторно](plcgui_d_eaneuadressieren.md)
 * [Адресация выводов устройства ПЛК](plcgui_k_adressierung.md)
-

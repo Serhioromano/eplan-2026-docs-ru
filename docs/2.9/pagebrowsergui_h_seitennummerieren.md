@@ -48,4 +48,3 @@
 
 * [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)
 * [Обработать свойства страницы](pagebrowsergui_h_eigenschaftenbearbeiten.md)
-

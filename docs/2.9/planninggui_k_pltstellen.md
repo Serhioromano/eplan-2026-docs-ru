@@ -59,4 +59,3 @@
 * [Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)](planninggui_h_planungsobjekteerstellen.md)
 * [Вставить графику форм](formeditorgui_h_formulargrafikeneinfuegen.md)
 * [Автоматизация зданий](planninggui_k_gebaeudeautomation.md)
-

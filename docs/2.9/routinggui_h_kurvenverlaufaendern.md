@@ -60,4 +60,3 @@
 * [Вставить кривые](routinggui_h_kurveeinfuegen.md)
 * [Вставка новой опорной точки на кривой](routinggui_h_kurveneuerstuetzpunkt.md)
 * [Выровнять направление кривой по касательной](routinggui_h_kurvenverlauftangential.md)
-

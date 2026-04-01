@@ -25,4 +25,3 @@ IMMEDIATEIMPORT  |  После обработки подтверждение и�
     /LANGUAGE:en_US
     /DESTINATION:c:\temp\Pages.xls
     /EXECUTIONMODE:0
-

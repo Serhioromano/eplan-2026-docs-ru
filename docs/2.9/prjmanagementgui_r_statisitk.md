@@ -48,4 +48,3 @@
 * [Проекты](projects_k_start.md)
 * [Страницы отчетов](formgeneratorgui_k_auswertungsseiten.md)
 * [Проверка проекта](processreceiptcontrol_k_start.md)
-

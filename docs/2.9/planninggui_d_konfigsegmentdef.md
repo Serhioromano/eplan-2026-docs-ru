@@ -230,4 +230,3 @@
 * [Предварительное планирование: Принцип](planninggui_k_prinzip.md)
 * [Сжать проект](projectcleangui_h_projektsaeubern.md)
 * [Создать определенные пользователем свойства](userdefproperties_h_eigenschafterstellen.md)
-

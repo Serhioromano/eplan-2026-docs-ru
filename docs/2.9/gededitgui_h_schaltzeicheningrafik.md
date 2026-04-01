@@ -26,4 +26,3 @@
 * [Работать с группами элементов](gededitgui_h_elementegruppieren.md)
 * [Графический редактор](gededitgui_k_start.md)
 * [Графические и внешние условные обозначения и соединения](devicetaggui_k_grafischeschaltzeichen.md)
-

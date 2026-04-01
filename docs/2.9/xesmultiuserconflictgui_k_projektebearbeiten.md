@@ -57,4 +57,3 @@
 * [Диалоговое окно Настройки: Ид. пользователя / адрес](xusersettingsgui_d_einstellungenmehrbenutzer.md)
 * [Соединения: Режим](connectionbrowsergui_k_arbeitsweiseverbindungen.md)
 * [Отмена и восстановление операций](gededitgui_k_undoundredo.md)
-

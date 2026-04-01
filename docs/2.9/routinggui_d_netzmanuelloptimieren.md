@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Оптимизировать сеть вручную](routinggui_h_netzmanuelloptimieren.md)
-

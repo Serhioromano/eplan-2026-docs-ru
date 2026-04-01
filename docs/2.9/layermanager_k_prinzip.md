@@ -44,4 +44,3 @@
 
 * [Управление слоями](layermanager_k_start.md)
 * [Работа со слоями](layermanager_h_ebenenbearbeiten.md)
-

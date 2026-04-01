@@ -1460,3 +1460,5 @@ WARNING -  Doc file '2.9/symboleditorgui_d_eigenschaftsplatzierung.md' contains 
 WARNING -  Doc file '2.9/symboleditorgui_d_eigenschaftsplatzierung.md' contains a link '../../../DeviceTagGUI/Content/htm/devicetaggui_r_anzeigekontaktspiegel.md', but the target '../../DeviceTagGUI/Content/htm/devicetaggui_r_anzeigekontaktspiegel.md' is not found among documentation files.
 WARNING -  Doc file '2.9/userdefproperties_k_start.md' contains a link 'userdefproperties_k_prinzip.md', but the target '2.9/userdefproperties_k_prinzip.md' is not found among documentation files.
 WARNING -  Doc file '2.9/msg/messages_o_028Preplanning.md' contains a link 'messages_p_028032.md', but the target '2.9/msg/messages_p_028032.md' is not found among documentation files.
+INFO    -  Documentation built in 5202.24 seconds
+INFO    -  Copying '/workspaces/epla-toc/site' to 'gh-pages' branch and pushing to GitHub.

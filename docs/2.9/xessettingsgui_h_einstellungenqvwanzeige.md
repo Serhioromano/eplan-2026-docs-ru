@@ -31,4 +31,3 @@
 * [Генерировать перекрестные ссылки монтажных плат](xessettingsgui_h_montageplattenqvwerzeugen.md)
 * [Генерировать перекрестную ссылку ПЛК](xessettingsgui_h_spsquerverweiseerzeugen.md)
 * [Генерировать перекрестные ссылки на списках обозначений устройств](xessettingsgui_h_qvwaufbetriebsmittellisten.md)
-

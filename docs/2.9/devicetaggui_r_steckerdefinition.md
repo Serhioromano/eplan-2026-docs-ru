@@ -76,4 +76,3 @@
 
 * [Создать и обработать штекер](plugsgui_h_steckerleisteerstlbearb.md)
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
-

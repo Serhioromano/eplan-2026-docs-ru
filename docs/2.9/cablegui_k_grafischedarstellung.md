@@ -49,4 +49,3 @@ EPLAN различает экранирования по их именам. Ес
 * [Определение кабелей](cablegui_k_arbeitsweise.md)
 * [Действие экранирования](cablegui_k_verhaltenabschirmungen.md)
 * [Позиция и форматирование свойств кабелей](cablegui_k_kabelbezeichnungformat.md)
-

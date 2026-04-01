@@ -67,4 +67,3 @@
 * [Диалоговое окно Свойства пространства листа](cabinetgui_d_bauraumeigenschaften.md)
 * [Диалоговое окно Пространство листа — <Имя проекта>](cabinetgui_d_navigator.md)
 * [Применение главных клемм](terminalgui_k_hauptklemmen.md)
-

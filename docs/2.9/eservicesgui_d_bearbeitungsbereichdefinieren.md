@@ -41,4 +41,3 @@
 
 * [Разделение проектов на области обработки](workingsection_h_bereichedefinieren.md)
 * [Области обработки определить как администратора проекта](workingsection_h_adminbereichedefinieren.md)
-

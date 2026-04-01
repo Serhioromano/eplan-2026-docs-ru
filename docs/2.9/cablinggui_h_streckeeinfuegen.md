@@ -41,4 +41,3 @@
 * [Сегменты маршрутизации топологии](cablinggui_k_strecken.md)
 * [Учет разности высотных отметок при маршрутизации](cablinggui_k_teilstrecke.md)
 * [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
-

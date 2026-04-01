@@ -13,4 +13,3 @@
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
 * [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)
 * [Вкладка Формат (тексты)](gededitgui_r_format.md)
-

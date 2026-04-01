@@ -67,4 +67,3 @@
 **См. также:**
 
 * [Диалоговое окно Оптимизировать сеть вручную](routinggui_d_netzmanuelloptimieren.md)
-

@@ -55,4 +55,3 @@
 * [Автоматический перевод / перевод вручную](translategui_k_start.md)
 * [Переводить тексты и свойства везде / не переводить](translategui_h_textenichtuebersetzen.md)
 * [Переводить типы страниц везде / не переводить](translategui_h_seitennichtuebersetzen.md)
-

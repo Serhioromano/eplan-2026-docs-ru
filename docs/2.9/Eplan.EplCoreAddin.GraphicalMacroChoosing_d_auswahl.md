@@ -60,4 +60,3 @@
 * [Графический выбор макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_k_start.md)
 * [Структура графического выбора макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_k_aufbau.md)
 * [Диалоговое окно Настройки: Графический выбор макроса](Eplan.EplCoreAddin.GraphicalMacroChoosing_d_einstellungen.md)
-

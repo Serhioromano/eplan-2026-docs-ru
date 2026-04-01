@@ -28,4 +28,3 @@
 * [Создание пользователем конфигураций свойств](userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
 * [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
 * [Диалоговое окно Обзор свойств — <Имя проекта>](modaldialogsdb_d_eigenschaftenuebersicht.md)
-

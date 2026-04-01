@@ -63,4 +63,3 @@ EPLAN также позволяет одновременно изменять с
 
 * [Групповая обработка](multipleselection_k_start.md)
 * [Выбор объектов для групповой обработки](multipleselection_h_objekteblockbearbeitung.md)
-

@@ -29,4 +29,3 @@
 * [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](labelgui_k_formatelemente.md)
 * [Создать схему экспорта / маркировки](labelgui_h_beschriftungsschema.md)
 * [Определить верхний колонтитул, область этикетки и нижний колонтитул](labelgui_h_formatelemfestlegen.md)
-

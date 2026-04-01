@@ -37,4 +37,3 @@
 * [Диалоговое окно Настройки: 3D-импорт](xstepgui_d_einstellungen3dimport.md)
 * [Повернуть объекты вокруг оси](cabinetgui_h_drehenxyz.md)
 * [Объединение объектов в пространстве листа](cabinetgui_h_vereinigen.md)
-

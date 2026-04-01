@@ -18,4 +18,3 @@ SOURCE  |  Исходный язык.
     SetProjectLanguage
     /DISPLAY:en_US;de_DE
     /VARIABLE:en_US
-

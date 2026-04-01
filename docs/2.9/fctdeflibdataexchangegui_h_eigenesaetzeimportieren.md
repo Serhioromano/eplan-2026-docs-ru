@@ -28,4 +28,3 @@
 
 * [Обновить определения функций](fctdeflibdataexchangegui_h_fktdefaktualisieren.md)
 * [Экспортировать собственные наборы буквенных обозначений, обозначения и описания выводов устройства](fctdeflibdataexchangegui_h_eigenesaetzeexportieren.md)
-

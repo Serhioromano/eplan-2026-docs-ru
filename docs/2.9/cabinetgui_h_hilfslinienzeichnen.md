@@ -45,4 +45,3 @@
 **См. также:**
 
 * [Активировать монтажные поверхности](cabinetgui_h_aktivierenautomatisch.md)
-

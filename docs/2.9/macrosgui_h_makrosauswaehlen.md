@@ -75,4 +75,3 @@
 
 * [Диалоговое окно Выбрать макрос](macrosgui_d_auswahlmakrodatei.md)
 * [Диалоговое окно "Настройки: Макросы"](macrosgui_d_einstellmakros.md)
-

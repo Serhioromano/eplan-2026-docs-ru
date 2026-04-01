@@ -13,4 +13,3 @@
 **См. также:**
 
 * [Фильтровать изделия](partsmanagementgui_h_artikelfiltern.md)
-

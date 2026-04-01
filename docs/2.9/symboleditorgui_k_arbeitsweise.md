@@ -11,4 +11,3 @@
 **См. также:**
 
 * [Редактор символов](symboleditorgui_k_start.md)
-

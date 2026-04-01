@@ -24,4 +24,3 @@
 * [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
 * [Диалоговое окно Настройки: Общие (Пользователь, Представление)](macrosgui_d_einstellzwischablage.md)
 * [Слои: Принцип](layermanager_k_prinzip.md)
-

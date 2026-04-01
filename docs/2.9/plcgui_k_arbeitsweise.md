@@ -77,4 +77,3 @@
 * [Типы отчетов](formgeneratorgui_k_auswertungstypen.md)
 * [Синхронизация распределенных функций](adjustdata_h_funktionabgleichen.md)
 * [Корректировать проект](ProjectCorrectionGui_h_projektkorrigieren.md)
-

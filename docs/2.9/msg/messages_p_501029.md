@@ -20,4 +20,3 @@
 **См. также:**
 
 * [Вкладка Модуль](../partsmanagementgui_r_modul.md)
-

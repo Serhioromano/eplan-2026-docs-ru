@@ -24,4 +24,3 @@
 **См. также:**
 
 * [Корректировать проект](ProjectCorrectionGui_h_projektkorrigieren.md)
-

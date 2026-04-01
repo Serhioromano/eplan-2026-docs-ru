@@ -41,4 +41,3 @@
 * [Профиль для изогнутых медных шин: Принцип](copper_k_verlaufskontur.md)
 * [Редактор контура: Нулевая точка контура](contoureditorgui_k_nullpunkt.md)
 * [Диалоговое окно Свойства профиля (медь)](contoureditorgui_d_kontureigenschaften.md)
-

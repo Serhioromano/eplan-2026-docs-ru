@@ -17,4 +17,3 @@
 * [Отправить эл. почту в случае конфликта](xesmultiuserconflictgui_h_konfliktmailversenden.md)
 * [Диалоговое окно Многопользовательский конфликт](xesmultiuserconflictgui_d_konflikte.md)
 * [Диалоговое окно Настройки: Ид. пользователя / адрес](xusersettingsgui_d_einstellungenmehrbenutzer.md)
-

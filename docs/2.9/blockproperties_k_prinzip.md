@@ -43,4 +43,3 @@
 
 * [Свойства блока](blockproperties_k_start.md)
 * [Функциональные тексты зон](gededitgui_k_pfadtextstart.md)
-

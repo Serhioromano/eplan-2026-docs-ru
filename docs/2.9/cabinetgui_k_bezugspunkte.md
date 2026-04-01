@@ -57,4 +57,3 @@
 
 * [Определить исходную точку](cabinetgui_h_bezugspunktdefinieren.md)
 * [Перенести схему расположения точек вставки](cabinetgui_h_bezugspunktschemauebertragen.md)
-

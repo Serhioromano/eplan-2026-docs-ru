@@ -63,4 +63,3 @@
 * [Определить трубопроводы на функциональной схеме автоматизации](planningri_h_rohrleitungdefinieren.md)
 * [Вставить прерывания для трубопроводов](planningri_h_rohrleitungunterbrechen.md)
 * [Диалоговое окно Настройки: 2D (Пользователь, Графическая обработка)](gedviewer_d_einstellungenbenutzerallgemein.md)
-

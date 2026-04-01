@@ -32,4 +32,3 @@
 
 * [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
 * [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)
-

@@ -61,4 +61,3 @@
 * [Выбор изделия / устройства](partselectiongui_k_start.md)
 * [Диалоговое окно / вкладка Присвоение данных изделия](macrosgui_r_artikeldatenzuweisung.md)
 * [Вкладка Шаблоны функций](partsmanagementgui_r_funktionsschablone.md)
-

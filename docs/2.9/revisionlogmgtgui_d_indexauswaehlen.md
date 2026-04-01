@@ -13,4 +13,3 @@
 **См. также:**
 
 * [Диалоговое окно Описание изменения страниц](revisionlogmgtgui_d_beschreibungseitenaenderung.md)
-

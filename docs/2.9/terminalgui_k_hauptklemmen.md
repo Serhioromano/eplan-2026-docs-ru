@@ -41,4 +41,3 @@
 * [Управление клеммами](terminalgui_k_verwaltung.md)
 * [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)
 * [Принадлежности клемм и клеммников](terminalgui_k_klemmenzubehoer.md)
-

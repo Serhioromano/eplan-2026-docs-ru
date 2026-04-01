@@ -27,4 +27,3 @@ IncludeGraphicalConnections |  Графические соединения пр�
 /Language:en_US
 /Destination:C:\temp\Connection.xls
 /ExecutionMode:0
-

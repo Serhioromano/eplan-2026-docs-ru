@@ -8,4 +8,3 @@ ScriptFile  |  Имя файла сценария с полным путем ф�
 
     UnregisterScript
     /ScriptFile:"C:\myScript.vb"
-

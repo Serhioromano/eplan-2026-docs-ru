@@ -39,4 +39,3 @@
 * [Управление правами](uradministration_k_start.md)
 * [Управление пользователями](uradministration_h_benutzer.md)
 * [Управление группами пользователей](uradministration_h_gruppen.md)
-

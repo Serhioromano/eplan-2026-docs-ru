@@ -64,4 +64,3 @@
 * [Диалоговое окно Настройки: Отображение](xessettingsgui_d_einstellungenprojektqvwanzeige.md)
 * [Разместить монтажные платы ](panellayoutgui_h_montageplattenplatzieren.md)
 * [Разместить функциональные элементы на монтажной плате](panellayoutgui_h_bauteileplatzieren.md)
-

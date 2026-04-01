@@ -39,4 +39,3 @@
 * [Вставить текст](gededitgui_h_texte.md)
 * [Обработать свойства текста](gededitgui_h_textebearbeiten.md)
 * [Тексты](gededitgui_k_texte.md)
-

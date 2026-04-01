@@ -10,4 +10,3 @@
 
 * [Корректируемые данные проекта](ProjectCorrectionGui_k_korrekturdaten.md)
 * [Корректировать проект](ProjectCorrectionGui_h_projektkorrigieren.md)
-

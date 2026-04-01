@@ -24,4 +24,3 @@ EPLAN Fluid удовлетворяет ваши требования больш�
 * [EPLAN Fluid: Символы соединения](ftechnic_k_verbindungssymbole.md)
 * [Табличная обработка данных функций Fluid-Техники](ftechnic_k_tabellarische_bearbeitung.md)
 * [Специфические для Fluid-техники контрольные прогоны](ftechnic_k_prueflaeufe.md)
-

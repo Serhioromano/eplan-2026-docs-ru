@@ -46,4 +46,3 @@
 * [Обработка фрагментов](projectoptionsgui_h_ausschnittebearbeiten.md)
 * [Опции](projectoptionsgui_k_start.md)
 * [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
-

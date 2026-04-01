@@ -75,4 +75,3 @@
 
 * [Сборная шина (изогнутая): Принцип](copper_k_kupferanschlusselement.md)
 * [Диалоговое окно Сборная шина (изогнутая)](cabinetgui_d_sammelschienegebogen.md)
-

@@ -33,4 +33,3 @@
 * [Переместить тексты свойств](gededitgui_h_symboltexteverschieben.md)
 * [Вкладка Текст](gededitgui_r_text.md)
 * [Вкладка Формат (тексты)](gededitgui_r_format.md)
-

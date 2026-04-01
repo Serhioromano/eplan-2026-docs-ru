@@ -28,4 +28,3 @@ MaterialName  |  Доступно только для машин Rittal - Perfor
 /MACHINENAME:Standard
 /TARGETDIRECTORY:D:export
 /MATERIALNAME:Steel
-

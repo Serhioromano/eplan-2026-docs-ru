@@ -116,4 +116,3 @@ DXF / DWG |  Вставляет данные AutoCAD.
 **См. также:**
 
 * [Интерфейс пользователя](userinterface_k_start.md)
-

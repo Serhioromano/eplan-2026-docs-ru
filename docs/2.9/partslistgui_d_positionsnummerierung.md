@@ -41,4 +41,3 @@
 
 * [Диалоговое окно Нумеровать позиции: Предварительный просмотр результата](partslistgui_d_nummerierungsvorschau.md)
 * [Нумеровать позиции заново](partslistgui_h_positionenneunummerieren.md)
-

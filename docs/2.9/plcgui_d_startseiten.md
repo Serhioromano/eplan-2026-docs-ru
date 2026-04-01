@@ -11,4 +11,3 @@
 **См. также:**
 
 * [Генерировать схемы соединений ПЛК](plcgui_h_spsschaltplanerzeugen.md)
-

@@ -91,4 +91,3 @@
 * [Диалоговое окно Управление правами](uradministration_d_rechte.md)
 * [Диалоговое окно Управление правами: Группа](uradministration_d_gruppe.md)
 * [Управление пользователями](uradministration_h_benutzer.md)
-

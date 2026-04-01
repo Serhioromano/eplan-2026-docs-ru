@@ -41,4 +41,3 @@
 **См. также:**
 
 * [Автономная нумерация устройств](offlinenumerationgui_h_formatfestlegen.md)
-

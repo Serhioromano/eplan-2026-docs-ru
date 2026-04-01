@@ -34,4 +34,3 @@
 * [Диалоговое окно Формат](eservicesgui_d_format.md)
 * [Диалоговое окно Формат адреса ПЛК](plcprocessorgui_d_formatspsadresse.md)
 * [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
-

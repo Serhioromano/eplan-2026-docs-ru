@@ -53,4 +53,3 @@
 * [Создать и удалить страницы](pagebrowsergui_h_seitenanlegen.md)
 * [Копировать страницы в проекте](pagebrowsergui_h_seitenkopieren.md)
 * [Копировать страницы между различными проектами](pagebrowsergui_h_seitenkopierenprojekte.md)
-

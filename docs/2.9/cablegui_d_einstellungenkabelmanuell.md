@@ -52,4 +52,3 @@
 * [Автоматически генерировать кабели](cablegui_h_kabelerzeugen.md)
 * [Определить кабели и кабельные соединения вручную](cablegui_h_aderndefinieren.md)
 * [Присвоить кабельные соединения автоматически](cablegui_h_kabelauflegen.md)
-

@@ -38,4 +38,3 @@
 * [Создать определения устройств](devicelistgui_h_geraetedefinitionenanlegen.md)
 * [Обработать список устройств](devicelistgui_h_geraetelistebearbeiten.md)
 * [Вставить устройства](devicelistgui_h_geraeteeinfuegen.md)
-

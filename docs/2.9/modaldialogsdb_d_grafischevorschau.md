@@ -22,4 +22,3 @@
 
 * [Вывод предварительного отображения графики](pagebrowsergui_h_seitenvorschau.md)
 * [Диалоговое окно Страницы — <Имя проекта>](pagebrowsergui_d_seitenuebersicht.md)
-

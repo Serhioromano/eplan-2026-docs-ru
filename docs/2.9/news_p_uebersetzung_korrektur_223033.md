@@ -5,4 +5,3 @@
 **См. также:**
 
 * [![](images/link_helpsystem_book.png){: .ui-icon }
-

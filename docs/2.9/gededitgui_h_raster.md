@@ -46,4 +46,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Диалоговое окно Настройки: 2D (Пользователь, Графическая обработка)](gedviewer_d_einstellungenbenutzerallgemein.md)
-

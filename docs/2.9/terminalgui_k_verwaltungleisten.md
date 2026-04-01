@@ -31,4 +31,3 @@
 * [Создать и обработать клеммники](terminalgui_h_klemmenleistenerstlbearb.md)
 * [Определить строение клеммников](terminalgui_h_funktionsschabloneerzeugen.md)
 * [Отобразить, добавить или удалить последовательные принадлежности](terminalgui_h_leistenzubehoererstlloesch.md)
-

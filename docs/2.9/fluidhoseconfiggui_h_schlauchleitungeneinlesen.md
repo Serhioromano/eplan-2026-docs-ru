@@ -60,4 +60,3 @@
 * [Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
 * [Диалоговое окно "Конфигурировать шлангопроводы"](fluidhoseconfiggui_d_schlauchleitungen.md)
 * [Варианты применения и рабочий процесс](fluidhoseconfiggui_k_arbeitsweisenundanwendungsmoeglichkeiten.md)
-

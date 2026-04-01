@@ -8,4 +8,3 @@
 * [Управление структурными идентификаторами](pleditorgui_k_start.md)
 * [Кабели](cablegui_k_start.md)
 * [Обозначение местоположения](locationbox_k_start.md)
-

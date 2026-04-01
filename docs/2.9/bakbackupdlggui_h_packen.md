@@ -66,4 +66,3 @@
 
 * [Резервирование данных](bakbackupdlggui_k_start.md)
 * [Управление проектами](prjmanagementgui_k_start.md)
-

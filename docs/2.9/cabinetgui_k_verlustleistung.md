@@ -33,4 +33,3 @@
 * [Расчет общей мощности потерь на распределительных устройствах: Принцип](cabinetgui_k_verlustleistungprinzip.md)
 * [Рассчитать общую мощность потерь на распределительных устройствах](cabinetgui_h_verlustleistungberechnen.md)
 * [Диалоговое окно "Рассчитать мощность потерь"](cabinetgui_d_verlustleistungberechnen.md)
-

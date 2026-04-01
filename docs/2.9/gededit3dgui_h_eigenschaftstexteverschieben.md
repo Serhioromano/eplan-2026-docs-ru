@@ -36,4 +36,3 @@
 * [Вставить обзоры модели](gededit3dgui_h_bearbeiten.md)
 * [Изменение обзоров модели](gededit3dgui_h_veraendern.md)
 * [Вкладка Вид](gededit3dgui_r_modell.md)
-

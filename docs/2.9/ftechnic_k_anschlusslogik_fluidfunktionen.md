@@ -42,4 +42,3 @@
 **См. также:**
 
 * [Обработать логическую схему выводов устройства](xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
-

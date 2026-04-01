@@ -17,4 +17,3 @@
 * [Диалоговое окно Восстановить проекты](bakrestoredlggui_d_projektewiederherstellen.md)
 * [Диалоговое окно Восстановить основные данные](bakrestoremdatadlggui_d_stammdatenwiederherstellen.md)
 * [Восстановить проекты](bakrestoredlggui_h_projektewiederherstellen.md)
-

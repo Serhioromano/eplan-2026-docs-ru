@@ -133,4 +133,3 @@
 * [Символические адреса](plcgui_k_symbolischeadressen.md)
 * [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)
 * [Создать собственные обозначения и описания вывода устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-

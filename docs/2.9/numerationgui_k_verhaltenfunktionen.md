@@ -16,4 +16,3 @@
 * [Установить предшествующий знак в видимом ОУ](numerationgui_h_vorzeichensetzen.md)
 * [Автоматическая нумерация новых устройств](numerationgui_h_online.md)
 * [Устройства в макросе/автоматически нумеровать копии](numerationgui_h_insertdtviamacros.md)
-

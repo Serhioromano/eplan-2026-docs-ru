@@ -26,4 +26,3 @@
 
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
-

@@ -40,4 +40,3 @@
 
 * [Диалоговое окно Автоматически оптимизировать сети](routinggui_d_netzeoptimieren.md)
 * [Диалоговое окно Автоматически оптимизировать сети: Предв. просмотр результата](routinggui_d_netzeoptimierenvorschau.md)
-

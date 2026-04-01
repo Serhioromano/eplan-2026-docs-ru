@@ -27,4 +27,3 @@
 * [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
 * [Диалоговое окно Сортировка](routinggui_d_sortierungbuendeln.md)
 * [Диалоговое окно Новые объединенные провода с измененным значением свойства](routinggui_d_neuesbuendeleigenschaft.md)
-

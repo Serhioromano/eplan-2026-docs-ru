@@ -66,4 +66,3 @@
 **См. также:**
 
 * [Сортировать контакты штекеров](plugsgui_h_steckerkontaktesortieren.md)
-

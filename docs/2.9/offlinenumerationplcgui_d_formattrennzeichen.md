@@ -21,4 +21,3 @@
 
 * [Диалоговое окно Нумерация с данными ПЛК: Формат](offlinenumerationplcgui_d_format.md)
 * [Определить формат и объем нумерации](offlinenumerationplcgui_h_formatfestlegen.md)
-

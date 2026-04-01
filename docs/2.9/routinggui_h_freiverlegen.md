@@ -54,4 +54,3 @@
 
 * [Вставка и изменение кривых](routinggui_h_kurveeinfuegen.md)
 * [Изменить маршрутизацию](routinggui_h_verlegewegaendern.md)
-

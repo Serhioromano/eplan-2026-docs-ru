@@ -53,4 +53,3 @@
 * [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
 * [Диалоговое окно Автом. фильтр](partsmanagementgui_d_automatikfilter.md)
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
-

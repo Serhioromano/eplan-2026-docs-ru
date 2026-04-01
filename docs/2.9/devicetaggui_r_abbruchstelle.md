@@ -38,4 +38,3 @@
 
 * [Вставить точки разрыва](interruptionpointgui_h_abbruchstelleneinfuegen.md)
 * [Обработать точки разрыва](interruptionpointgui_h_abbruchstellenbearbeiten.md)
-

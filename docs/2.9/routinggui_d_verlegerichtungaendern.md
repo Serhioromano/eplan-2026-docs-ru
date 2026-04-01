@@ -19,4 +19,3 @@
 **См. также:**
 
 * [Изменить направление подсоединения](cabinetgui_h_anschlussrichtungaendern.md)
-

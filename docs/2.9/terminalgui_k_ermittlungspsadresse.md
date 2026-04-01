@@ -16,4 +16,3 @@
 **См. также:**
 
 * [Создать и обработать клеммы](terminalgui_h_klemmenerstlbearb.md)
-

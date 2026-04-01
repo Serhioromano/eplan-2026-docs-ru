@@ -25,4 +25,3 @@
 * [Определить свойства соединения для потенциала](connectionbrowsergui_h_pdpeigenschaften.md)
 * [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-

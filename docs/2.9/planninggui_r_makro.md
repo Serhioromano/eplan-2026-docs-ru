@@ -49,4 +49,3 @@
 * [Присвоить набор значений объекту-заполнителю](macrosgui_h_wertesatzzuweisen.md)
 * [Создать подробное планирование путем перетаскивания мышью](planninggui_h_makrosdragdrop.md)
 * [Свойства блока](blockproperties_k_start.md)
-

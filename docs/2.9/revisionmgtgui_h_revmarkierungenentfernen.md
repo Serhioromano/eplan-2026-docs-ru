@@ -42,4 +42,3 @@
 **См. также:**
 
 * [Отображение маркеров ревизии](revisionmgtgui_k_markierungen.md)
-

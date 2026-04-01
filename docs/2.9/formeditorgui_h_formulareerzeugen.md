@@ -31,4 +31,3 @@
 * [Проверить формы](formeditorgui_h_formularepruefen.md)
 * [Обработать свойства форм](formeditorgui_h_formulareigenschaftenbearbeiten.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

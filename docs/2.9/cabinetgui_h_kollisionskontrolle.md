@@ -42,4 +42,3 @@
 
 * [Диалоговое окно Настройки: 3D](gedviewer_d_einstellungenbenutzerallgemein3d.md)
 * [P026011: 3D-графика размещения изделия совпадает с \<x\>.](msg/messages_p_026011.md)
-

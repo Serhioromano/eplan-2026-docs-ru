@@ -24,4 +24,3 @@
 
 * [Сети соединенных сегментов (топология)](cablinggui_k_start.md)
 * [Работа с групповыми спецификациями изделий](formeditorgui_h_artikelsummenstueckliste.md)
-

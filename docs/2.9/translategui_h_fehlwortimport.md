@@ -22,4 +22,3 @@
 * [Словарь](translatedbgui_k_start.md)
 * [Отдельные слова, предложения, заполнители в ключевых словах](translatedbgui_k_eingabemoeglichkeit.md)
 * [Экспортировать список отсутствующих слов](translategui_h_fehlwortexport.md)
-

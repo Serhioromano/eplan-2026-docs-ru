@@ -53,4 +53,3 @@
 * [Нумеровать и переименовать страницы](pagebrowsergui_h_seitennummerieren.md)
 * [Диалоговое окно Настройки: Общие (Пользователь, Представление)](macrosgui_d_einstellzwischablage.md)
 * [Копировать страницы между различными проектами](pagebrowsergui_h_seitenkopierenprojekte.md)
-

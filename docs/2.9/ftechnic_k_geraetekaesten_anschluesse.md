@@ -17,4 +17,3 @@
 * [Черные ящики](blackbox_k_start.md)
 * [Вставить выводы устройств](blackbox_h_anschluesseeinfuegen.md)
 * [Группы устройств](devicelistgui_k_geraetegruppierung.md)
-

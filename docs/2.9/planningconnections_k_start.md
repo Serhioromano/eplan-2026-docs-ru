@@ -8,4 +8,3 @@
 * [Сгенерировать неразмещенные соединения](planningconnections_h_createconnections.md)
 * [Разместить подсоединенные функции](planningconnections_h_platzieren.md)
 * [Автоматически генерировать функции с помощью схемы нумерации](navigatorgui_h_mehrerfunktionerzeugen.md)
-

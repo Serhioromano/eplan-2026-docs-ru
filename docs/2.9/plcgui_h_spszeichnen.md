@@ -44,4 +44,3 @@
 * [Автоматическая адресация выводов устройства ПЛК](plcgui_h_automatisch_adressieren.md)
 * [Диалоговое окно Настройки: ПЛК](plcgui_d_allgemeinespseinstellungen.md)
 * [Рисование блоков ломаными линиями](blackbox_h_polygonalekaesten.md)
-

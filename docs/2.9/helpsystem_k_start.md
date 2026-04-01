@@ -16,4 +16,3 @@
 
 * [Использование справочной системы ](helpsystem_h_nutzen.md)
 * [Меню справки](helpsystem_m_hilfe.md)
-

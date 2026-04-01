@@ -86,4 +86,3 @@
 
 * [Диалоговое окно Конфигурировать представление (список)](modaldialogsdb_d_spaltenkonfiguration.md)
 * [Диалоговое окно Конфигурировать представление (дерево)](modaldialogsdb_d_baumkonfiguration.md)
-

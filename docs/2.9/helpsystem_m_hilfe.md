@@ -20,4 +20,3 @@ EPLAN Download Manager |  Запускает EPLAN Download Manager и пред�
 
 * [Использование справочной системы](helpsystem_h_nutzen.md)
 * [Справочная система](helpsystem_k_start.md)
-

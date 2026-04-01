@@ -42,4 +42,3 @@
 
 * [Редактор форм и рамок](formeditorgui_k_start.md)
 * [Диалоговое окно Точка вставки следующей формы](formeditorgui_d_folgeformulareinfuegepunkt.md)
-

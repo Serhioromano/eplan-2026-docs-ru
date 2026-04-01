@@ -90,4 +90,3 @@
 * [Направление создания отчета форм](formeditorgui_k_auswertungsrichtung.md)
 * [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
 * [Вставить QR-код](gededitgui_h_qrcodes.md)
-

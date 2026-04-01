@@ -26,4 +26,3 @@
 **См. также:**
 
 * [Разместить функции устройств](devicelistgui_h_geraeteplatzieren.md)
-

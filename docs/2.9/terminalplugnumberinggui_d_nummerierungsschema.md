@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Диалоговое окно формата нумерации](numerationgui_d_nummerierungsformate.md)
-

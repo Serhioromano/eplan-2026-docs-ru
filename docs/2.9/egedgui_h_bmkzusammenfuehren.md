@@ -20,4 +20,3 @@
 **См. также:**
 
 * [Диалоговое окно Обзор свойств — <Имя проекта>](modaldialogsdb_d_eigenschaftenuebersicht.md)
-

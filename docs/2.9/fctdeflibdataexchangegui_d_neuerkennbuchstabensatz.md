@@ -14,4 +14,3 @@
 
 * [Диалоговое окно Предложения буквенных обозначений](fctdeflibdataexchangegui_d_kennbuchstaben.md)
 * [Буквенные обозначения](fctdeflibdataexchangegui_k_kennbuchstaben.md)
-

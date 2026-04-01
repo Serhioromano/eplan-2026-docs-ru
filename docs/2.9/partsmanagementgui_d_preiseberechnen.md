@@ -20,4 +20,3 @@
 
 * [Диалоговое окно Пересчитать валюты](partsmanagementgui_d_waehrungumrechnen.md)
 * [Обработать цены](partsmanagementgui_h_preisewaehrungenbearbeiten.md)
-

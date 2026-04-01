@@ -14,4 +14,3 @@
 * [Настроить целевой проект (изменение стандарта)](changestandardsgui_h_projektanpassen.md)
 * [Определить шаблон и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
 * [Заменить библиотеки символов и символы (Изменение стандарта)](changestandardsgui_h_symboletauschen.md)
-

@@ -50,4 +50,3 @@
 * [Вставить новые устройства без ОУ](numerationgui_h_ohnebmk.md)
 * [Автоматическая нумерация новых устройств](numerationgui_h_online.md)
 * [Копировать, вырезать и вставить элементы схемы соединений](numerationgui_h_kopierenimged.md)
-

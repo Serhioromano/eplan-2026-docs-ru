@@ -25,4 +25,3 @@
 * [Предварительное планирование: Связи](planninggui_k_verknuepfungen.md)
 * [Диалоговое окно Предварительное планирование — <Имя проекта>](planninggui_d_navigator.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

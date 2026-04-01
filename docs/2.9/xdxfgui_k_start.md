@@ -21,4 +21,3 @@ EPLAN поддерживает импорт и экспорт данных в ф
 * [Импортировать страницы в формате DXF/DWG](xdxfgui_h_seitendxfimportieren.md)
 * [Вставить файлы DXF / DWG в графическом редакторе](xdxfgui_h_seitengrafeditoreinfuegen.md)
 * [Создать макросы из файлов DXF / DWG](macrosgui_h_makrosausdxf.md)
-

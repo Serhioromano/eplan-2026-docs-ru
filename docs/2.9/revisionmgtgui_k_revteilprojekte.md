@@ -17,4 +17,3 @@
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
 * [Области обработки](workingsection_k_start.md)
 * [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
-

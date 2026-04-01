@@ -75,4 +75,3 @@
 * [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
 * [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)
 * [Числа в ключевых словах и текстах](translatedbgui_k_zahlen.md)
-

@@ -98,4 +98,3 @@
 * [Указания размеров: Принцип](dimensiongui_k_bemassungenprinzip.md)
 * [Обработать указания размеров](dimensiongui_h_bemassungbearbeiten.md)
 * [Диалоговое окно Настройки: Указание размеров](dimensiongui_d_projektbemassung.md)
-

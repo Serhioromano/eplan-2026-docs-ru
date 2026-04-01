@@ -97,4 +97,3 @@
 
 * [Диалоговое окно Генерировать соединения фазовых шин](routinggui_d_phasenschienenvbdgerzg.md)
 * [Диалоговое окно Присвоить фазную шину](routinggui_d_phasenschienezuweisen.md)
-

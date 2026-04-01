@@ -29,4 +29,3 @@ FileDescription |  0: Добавляет новое описание в конц
 
     XPrjActionUpgradeProjects
 /Project:$(MD_PROJECTS)EPLAN_Sample_Project.elk
-

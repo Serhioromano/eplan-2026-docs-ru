@@ -22,4 +22,3 @@
 **См. также:**
 
 * [Защитить устройства](devicetaggui_h_bmschuetzen.md)
-

@@ -23,4 +23,3 @@ EPLAN оказывает поддержку при проектировании 
 * [Обмен данными файлов конфигурации ПЛК](plcgui_k_austauschbuskonfig.md)
 * [Импорт файлов конфигурации ПЛК](plcgui_k_importbuskonfig.md)
 * [Генерация схем соединений ПЛК](plcgui_k_spsschaltplanerzeugen.md)
-

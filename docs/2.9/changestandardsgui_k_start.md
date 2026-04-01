@@ -17,4 +17,3 @@
 * [Повернутые страницы / Неповернутые страницы](changestandardsgui_k_seitendrehung.md)
 * [Настроить целевой проект (Изменение стандарта)](changestandardsgui_h_projektanpassen.md)
 * [Определить шаблон и поворот / инверсию (Изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
-

@@ -54,4 +54,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)
-

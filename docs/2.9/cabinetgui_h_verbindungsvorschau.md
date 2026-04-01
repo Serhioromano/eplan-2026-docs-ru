@@ -32,4 +32,3 @@
 
 * [Разместить устройства](cabinetgui_h_geraetplatzieren.md)
 * [Диалоговое окно Трехмерный навигатор монтажных поверхностей — <Имя проекта>](cabinetgui_d_navigator3dschaltschrankaufbau.md)
-

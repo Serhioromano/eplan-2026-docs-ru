@@ -57,4 +57,3 @@
 * [Свойства отображения: Прямоугольник / экранирование](gededitgui_r_rechteck.md)
 * [Вкладка Формат (Устройство)](devicetaggui_r_format.md)
 * [Вкладка Отображение (обзор модели)](gededit3dgui_r_anzeige.md)
-

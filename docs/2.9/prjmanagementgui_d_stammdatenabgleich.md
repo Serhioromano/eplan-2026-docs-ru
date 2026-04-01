@@ -66,4 +66,3 @@ EPLAN привлекает внимание в окне указаний на т
 * [Синхронизировать основные данные](xmasterdatasettingsgui_h_stammdatenabgleichen.md)
 * [Обновить символы](xsbgui_h_symboleaktualisieren.md)
 * [Основные данные: Основные положения](xmasterdatasettingsgui_k_grundlagen.md)
-

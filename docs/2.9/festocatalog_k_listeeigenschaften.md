@@ -8,4 +8,3 @@
 
 * [Свойства EPLAN](properties_k_prinzip.md)
 * [Файл конфигурации для импорта изделий Festo](festocatalog_k_zuordnungsdatei.md)
-

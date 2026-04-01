@@ -36,4 +36,3 @@
 * [Выбор изделия / устройства](partselectiongui_k_start.md)
 * [Диалоговое окно Выбор изделия](partselectiongui_d_artikelauswahl.md)
 * [Обзор перенесенных данных изделия](partselectiongui_k_uebertragenedaten.md)
-

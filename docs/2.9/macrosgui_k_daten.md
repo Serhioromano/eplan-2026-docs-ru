@@ -22,4 +22,3 @@
 * [ Создать макрос](macrosgui_h_makroserzeugen.md)
 * [Генерировать макросы из файлов DXF / DWG](macrosgui_h_makrosausdxf.md)
 * [Основные данные: Управлять макросами](xmasterdatasettingsgui_h_makrosverwalten.md)
-

@@ -44,4 +44,3 @@
 **См. также:**
 
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
-

@@ -14,4 +14,3 @@
 * [Файл экспорта / маркировки / Внешний файл отчетов](labelgui_k_aufbaubeschriftung.md)
 * [Элементы формата для файла экспорта / маркировки / Внешний файл отчетов](labelgui_k_formatelemente.md)
 * [Шаблон Excel для экспорта данных изготовления / маркировки](labelgui_k_excelexportvorlagen.md)
-

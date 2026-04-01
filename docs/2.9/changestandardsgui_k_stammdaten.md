@@ -10,4 +10,3 @@
 * [Замена символов](changestandardsgui_k_symbolaustausch.md)
 * [Повернутые страницы / Неповернутые страницы](changestandardsgui_k_seitendrehung.md)
 * [Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)](changestandardsgui_h_stammdatenaustauschen.md)
-

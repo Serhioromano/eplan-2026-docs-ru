@@ -38,4 +38,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Отобразить точки вставки](gededitgui_h_einfuegepunkte.md)
-

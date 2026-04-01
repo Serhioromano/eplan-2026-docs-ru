@@ -17,4 +17,3 @@
 
 * [Области обработки: Принцип](workingsection_k_prinzip.md)
 * [Разделение проектов на области обработки](workingsection_h_bereichedefinieren.md)
-

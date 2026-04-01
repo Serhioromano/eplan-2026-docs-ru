@@ -125,4 +125,3 @@
 * [Диалоговое окно Формат: Разделитель](eservicesgui_d_formattrennzeichen.md)
 * [Диалоговое окно Тексты замены](eservicesgui_d_ersetzungstexte.md)
 * [Диалоговое окно Настройки: Общие (проект, перевод)](translategui_r_einstellungprojekt.md)
-

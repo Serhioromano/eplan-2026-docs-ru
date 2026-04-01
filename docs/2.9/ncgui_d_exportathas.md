@@ -26,4 +26,3 @@
 
 * [Вкладка Общее (Автоматическое оснащение Rittal — Athex)](ncgui_r_allgemeinathas.md)
 * [Вкладка Машина (Автоматическое оснащение Rittal — Athex)](ncgui_r_maschineathas.md)
-

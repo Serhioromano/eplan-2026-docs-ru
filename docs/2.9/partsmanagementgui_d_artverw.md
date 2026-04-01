@@ -125,4 +125,3 @@
 **См. также:**
 
 * [Каталог продуктов Festo](festocatalog_k_start.md)
-

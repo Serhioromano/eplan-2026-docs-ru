@@ -12,4 +12,3 @@
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Настройка панелей инструментов](userinterface_h_symbolleistenanpassen.md)
 * [Настроить кнопки панели инструментов для действий или меню](configtoolbars_h_schaltflaecheneinstellen.md)
-

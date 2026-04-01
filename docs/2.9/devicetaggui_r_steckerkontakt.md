@@ -94,4 +94,3 @@
 * [Генерировать и обработать контакты штекера](plugsgui_h_steckerkontakteerstlbearb.md)
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
 * [Создать собственные обозначения и описания вывода устройства](fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
-

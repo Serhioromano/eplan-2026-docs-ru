@@ -18,4 +18,3 @@
 
 * [Определение точек монтажа](cabinetgui_h_zielmatesdefinieren.md)
 * [Определить линию монтажа](cabinetgui_h_montageliniedefinieren.md)
-

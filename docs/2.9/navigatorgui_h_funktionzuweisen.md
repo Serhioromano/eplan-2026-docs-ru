@@ -37,4 +37,3 @@
 * [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
 * [Создать неразмещенные устройства в навигаторе устройств](navigatorgui_h_funktionenanlegen.md)
-

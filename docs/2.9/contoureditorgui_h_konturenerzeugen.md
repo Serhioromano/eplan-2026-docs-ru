@@ -39,4 +39,3 @@
 * [Редактор контура: Нулевая точка контура](contoureditorgui_k_nullpunkt.md)
 * [Проверка контуров](contoureditorgui_h_konturenpruefen.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

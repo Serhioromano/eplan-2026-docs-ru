@@ -30,4 +30,3 @@
 * [Определить шаблон и поворот / инверсию (изменение стандарта)](changestandardsgui_h_vorlagefestlegen.md)
 * [Создать схему присвоения для символов (изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
 * [Определить структуру проекта (изменение стандарта)](changestandardsgui_h_projektstrukturanpassen.md)
-

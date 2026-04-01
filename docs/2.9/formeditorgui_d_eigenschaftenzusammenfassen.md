@@ -29,4 +29,3 @@
 **См. также:**
 
 * [Генерировать новые заголовки на страницах формы](formeditorgui_h_hauptueberschriftenwiederholen.md)
-

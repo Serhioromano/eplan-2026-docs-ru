@@ -32,4 +32,3 @@
 * [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
 * [Создание подробного планирования из макросов](planninggui_k_grafikausmakros.md)
 * [Использование имеющихся выводов устройства ПЛК](plcgui_h_anschluesseabbuchen.md)
-

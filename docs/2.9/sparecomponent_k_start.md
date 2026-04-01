@@ -26,4 +26,3 @@
 * [ Данные неразмещенных устройств](sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
 * [ Резервные функциональные элементы: Режимы копирования для функций](sparecomponent_k_kopiermodifunktionen.md)
 * [ Резервные функциональные элементы: Режимы удаления для функций](sparecomponent_k_loeschmodifunktionen.md)
-

@@ -33,4 +33,3 @@
 * [Выбрать арматуру](fluidhoseconfiggui_h_armaturenauswaehlen.md)
 * [Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
 * [Диалоговое окно Настройки: Конфигуратор шлангопроводов](fluidhoseconfiggui_d_einstellungen.md)
-

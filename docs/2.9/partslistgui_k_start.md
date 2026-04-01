@@ -19,4 +19,3 @@
 * [Добавить изделие](partslistgui_h_artikelhinzufuegen.md)
 * [Учитывать изделия у соединений](partslistgui_h_artikelanverbindungen.md)
 * [Диалоговое окно Спецификация — <Имя проекта>](partslistgui_d_artikelstueckliste.md)
-

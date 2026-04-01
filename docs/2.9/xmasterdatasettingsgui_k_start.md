@@ -27,4 +27,3 @@
 * [Управление основными данными](xmasterdatasettingsgui_h_stammdatenverwalten.md)
 * [Найти и сохранить недостающие основные данные проекта, обновить проекты](xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
 * [Синхронизировать основные данные](xmasterdatasettingsgui_h_stammdatenabgleichen.md)
-

@@ -37,4 +37,3 @@
 * [Графическое предварительное планирование](planninggui_k_grafischevorplanung.md)
 * [Предварительное планирование: Связи](planninggui_k_verknuepfungen.md)
 * [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
-

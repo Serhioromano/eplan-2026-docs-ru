@@ -87,4 +87,3 @@ EPLAN позволяет обрабатывать данные выделенн�
 
 * [Табличная обработка](functiondatagridgui_k_start.md)
 * [Табличная обработка данных функций Fluid-Техники](ftechnic_k_tabellarische_bearbeitung.md)
-

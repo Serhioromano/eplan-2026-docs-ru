@@ -20,4 +20,3 @@
 * [Нормоконтроль: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
 * [Создать схему сравнения настроек](processreceiptcontrol_h_vergleichsschema.md)
 * [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
-

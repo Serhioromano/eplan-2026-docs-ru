@@ -27,4 +27,3 @@ FILENAME |  Имя файла (является опцией). Этот пара
 /INSTALLATIONSPACENAME1:BR1
 /INSTALLATIONSPACENAME2:BR2
 /DESTINATIONPATH:C:\temp\step_export
-

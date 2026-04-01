@@ -39,4 +39,3 @@
 **См. также:**
 
 * [Область ввода данных](gededitgui_k_kommandozeile.md)
-

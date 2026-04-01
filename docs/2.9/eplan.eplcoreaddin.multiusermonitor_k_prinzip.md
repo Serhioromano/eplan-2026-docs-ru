@@ -16,4 +16,3 @@
 
 * [Многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_k_start.md)
 * [Диалоговое окно Настройки: многопользовательский монитор](eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
-

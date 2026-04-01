@@ -33,4 +33,3 @@
 * [Устройства](devicelistgui_k_start.md)
 * [Список устройств](devicelistgui_k_geraeteliste.md)
 * [База данных изделий: Модули](partsmanagementgui_k_module.md)
-

@@ -65,4 +65,3 @@
 * [Импортировать или синхронизировать списки присвоений](plcgui_h_importzuli.md)
 * [Экспортировать списки присвоений](plcgui_h_exportzuli.md)
 * [ПЛК](plcgui_k_start.md)
-

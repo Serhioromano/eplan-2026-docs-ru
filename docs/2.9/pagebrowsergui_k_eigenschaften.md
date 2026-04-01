@@ -109,4 +109,3 @@
 * [Свойства EPLAN](properties_o_main.md)
 * [Диалоговое окно Настройки: Дата / время / числа](xessettingsgui_d_einstellungenprojektdatum.md)
 * [Диалоговое окно Настройки: страницы (проект)](pagebrowsergui_d_projekteinstellungen.md)
-

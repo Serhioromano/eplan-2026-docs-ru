@@ -19,4 +19,3 @@
 * [Обработать медную шину](copper_h_kupferteilbearbeiten.md)
 * [Создать развертку шины](copper_h_kupferabwicklungerstellen.md)
 * [Экспортировать развертку шины](copper_h_kupferabwicklungexportieren.md)
-

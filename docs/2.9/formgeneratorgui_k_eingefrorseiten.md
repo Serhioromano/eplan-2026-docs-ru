@@ -19,4 +19,3 @@
 * [Отобразить / фильтровать необновляемые страницы отчета](formgeneratorgui_h_eingefroreneseitenfiltern.md)
 * [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
 * [Автоматическое / не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
-

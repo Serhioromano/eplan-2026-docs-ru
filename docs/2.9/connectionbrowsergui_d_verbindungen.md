@@ -72,4 +72,3 @@
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
 * [Использовать имеющиеся соединения](connectionbrowsergui_h_abbuchen.md)
 * [Разместить соединения](connectionbrowsergui_h_verbindungenplatzieren.md)
-

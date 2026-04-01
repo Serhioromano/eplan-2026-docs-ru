@@ -60,4 +60,3 @@
 
 * [Импортировать списки присвоений](plcgui_h_importzuli.md)
 * [ПЛК](plcgui_k_start.md)
-

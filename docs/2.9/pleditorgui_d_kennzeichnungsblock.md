@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
-

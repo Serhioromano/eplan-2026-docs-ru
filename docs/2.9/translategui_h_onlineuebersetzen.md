@@ -24,4 +24,3 @@
 
 * [Автоматический перевод / перевод вручную](translategui_k_start.md)
 * [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
-

@@ -24,4 +24,3 @@
 
 * [Обработать изделие](partsmanagementgui_h_artikelbearbeiten.md)
 * [Вкладка Изделие](partselectiongui_r_artikel.md)
-

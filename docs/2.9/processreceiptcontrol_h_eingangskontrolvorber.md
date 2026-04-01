@@ -54,4 +54,3 @@
 * [Генерировать проект для сравнения](revisionmgtgui_h_vergleichsprojekterzeugen.md)
 * [Проверка проекта](processreceiptcontrol_k_start.md)
 * [Управление проектами](prjmanagementgui_k_start.md)
-

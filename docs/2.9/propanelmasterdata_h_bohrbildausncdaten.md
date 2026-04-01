@@ -40,4 +40,3 @@
 * [Вкладка Схема сверления](partsmanagementgui_r_konstruktion.md)
 * [Вкладка Монтажные отверстия](partsmanagementgui_r_bohrbild.md)
 * [Диалоговое окно Генерировать схемы сверления / контуры](cabinetgui_d_bohrbilderzeugen.md)
-

@@ -31,4 +31,3 @@
 **См. также:**
 
 * [Импорт изделий Festo](festocatalog_k_zugriffaufstueckliste.md)
-

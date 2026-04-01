@@ -57,4 +57,3 @@
 
 * [Автоматически генерировать кабели](cablegui_h_kabelerzeugen.md)
 * [Диалоговое окно Нумеровать кабели: Предварительный просмотр результата](cablegui_d_ergebniskabelnummerierung.md)
-

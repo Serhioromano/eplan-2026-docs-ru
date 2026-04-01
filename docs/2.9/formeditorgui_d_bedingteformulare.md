@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Подчиненные формы](formeditorgui_k_bedingteformulare.md)
-

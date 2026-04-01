@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Черные ящики: Возможности использования](blackbox_k_einsatzmoeglichkeiten.md)
-

@@ -50,4 +50,3 @@
 **См. также:**
 
 * [Копирование контуров](contoureditorgui_h_konturenkopieren.md)
-

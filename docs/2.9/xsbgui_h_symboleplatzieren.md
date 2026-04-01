@@ -63,4 +63,3 @@
 * [Диалоговое окно Выбор символа](xsbgui_d_symbolauswahl.md)
 * [Предотвратить новое размещение символа](xsbgui_h_symbolplatzierungverhindern.md)
 * [Показать обозначения и описания выводов устройств](gededitgui_h_anschlussbezanzeigen.md)
-

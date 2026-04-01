@@ -40,4 +40,3 @@
 * [Вкладка Свойства устройства / Свойства изделия](pdfexportgui_r_bmeigenschaften.md)
 * [Диалоговое окно Настройки: Языки вывода PDF](pdfexportgui_d_projekteinstellungen.md)
 * [Диалоговое окно Экспорт PDF](pdfexportgui_d_export.md)
-

@@ -11,4 +11,3 @@ AutoAssignLastUsedRecord  |  Автоматически присваивает �
 
     XGedUpdateMacroAction
     /ProjectName:"C:\myFolder\MyProject.elk"
-

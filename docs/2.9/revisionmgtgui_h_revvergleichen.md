@@ -52,4 +52,3 @@
 * [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
 * [Определение настроек сравнения](revisionmgtgui_h_vergleichseinstellungen.md)
 * [Альтернативная идентификация](revisionmgtgui_k_alternativeidentifizierung.md)
-

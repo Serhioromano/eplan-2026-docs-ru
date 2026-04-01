@@ -50,4 +50,3 @@
 
 * [Изменить маршрутизацию](routinggui_h_verlegewegaendern.md)
 * [Показать маршрут](routinggui_h_streckenansicht.md)
-

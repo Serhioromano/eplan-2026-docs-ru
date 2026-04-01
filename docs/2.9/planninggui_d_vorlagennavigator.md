@@ -76,4 +76,3 @@
 * [Создать и обработать шаблоны сегментов](planninggui_h_segmentvorlageeerstellen.md)
 * [Присвоить шаблоны сегментов](planninggui_h_segmentvorlagezuordnen.md)
 * [Создать и обработать классы трубы и вещества](planninggui_h_rohrklasseerstellen.md)
-

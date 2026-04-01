@@ -27,4 +27,3 @@
 
 * [Создать схемы для автоматизированной обработки](autoprocgui_h_startactions.md)
 * [Обработать несколько проектов автоматически](autoprocgui_h_ausfuehren.md)
-

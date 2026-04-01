@@ -71,4 +71,3 @@
 * [Генерация схемы соединений ПЛК](plcgui_k_spsschaltplanerzeugen.md)
 * [Макрос для генерации схемы соединений ПЛК](plcgui_k_makrosschaltplanerzeugen.md)
 * [Макросы](macrosgui_k_start.md)
-

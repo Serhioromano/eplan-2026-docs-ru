@@ -60,4 +60,3 @@
 * [Расчет общей мощности потерь на распределительных устройствах: Принцип](cabinetgui_k_verlustleistungprinzip.md)
 * [Диалоговое окно "Рассчитать мощность потерь"](cabinetgui_d_verlustleistungberechnen.md)
 * [Вкладка Сборная шина](partsmanagementgui_r_sammelschiene.md)
-

@@ -83,4 +83,3 @@
 * [Диалоговое окно Настройки: Общее (проекты, перекрестные ссылки / образы контактов)](xessettingsgui_d_einstellungenprojektqvwallgemein.md)
 * [Произвести настройки для просмотра образов контактов](xessettingsgui_h_einstellungenkontaktspiegel.md)
 * [Образ контакта на основе формы](xessettingsgui_k_qvwjapanische.md)
-

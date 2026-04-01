@@ -63,4 +63,3 @@
 
 * [Соединения](connectionbrowsergui_k_start.md)
 * [Потенциалы](potentialbrowsergui_k_start.md)
-

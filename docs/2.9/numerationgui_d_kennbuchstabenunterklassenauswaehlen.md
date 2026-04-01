@@ -29,4 +29,3 @@
 **См. также:**
 
 * [Диалоговое окно Подклассы буквенных обозначений](numerationgui_d_kennbuchstabenunterklassen.md)
-

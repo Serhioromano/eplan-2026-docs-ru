@@ -22,4 +22,3 @@
 
 * [Наборы буквенных обозначений](../fctdeflibdataexchangegui_k_kennbuchstaben.md)
 * [Создать собственные наборы буквенных обозначений](../fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
-

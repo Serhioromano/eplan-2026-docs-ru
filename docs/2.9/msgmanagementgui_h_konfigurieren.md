@@ -35,4 +35,3 @@
 * [Диалоговое окно Выполнить контр. прогон](xesinspectiongui_d_prueflauf.md)
 * [Диалоговое окно Настройки: Сообщения и контрольные прогоны](xesinspectiongui_d_einstellungenmeldungen.md)
 * [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
-

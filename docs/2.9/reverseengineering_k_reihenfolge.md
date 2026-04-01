@@ -52,4 +52,3 @@ EPLAN сначала учитывает свойства многополюсн�
 * [Обработать свойства во всех представлениях главной функции](reverseengineering_h_alledarstellungenbm.md)
 * [Обработать свойства во всех представлениях вспомогательной функции](reverseengineering_h_alledarstellungenfunktion.md)
 * [Отчеты](formgeneratorgui_k_start.md)
-

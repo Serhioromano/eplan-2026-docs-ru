@@ -34,4 +34,3 @@
 * [Печать страниц](printgui_h_drucken.md)
 * [Интерфейс DXF/DWG](xdxfgui_k_start.md)
 * [Управление проектами](prjmanagementgui_k_start.md)
-

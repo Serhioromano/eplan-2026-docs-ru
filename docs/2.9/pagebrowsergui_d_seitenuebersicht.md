@@ -72,4 +72,3 @@
 * [Создать макросы](macrosgui_h_makroserzeugen.md)
 * [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
 * [Табличная обработка](functiondatagridgui_k_start.md)
-

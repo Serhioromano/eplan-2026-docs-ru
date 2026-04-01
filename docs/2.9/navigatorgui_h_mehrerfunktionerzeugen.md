@@ -48,4 +48,3 @@
 
 * [Разместить функции устройств](devicelistgui_h_geraeteplatzieren.md)
 * [Диалоговое окно Генерировать функции](eservicesgui_d_nummusteranschluesse.md)
-

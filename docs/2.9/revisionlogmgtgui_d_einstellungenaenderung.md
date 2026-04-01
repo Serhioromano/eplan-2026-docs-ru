@@ -79,4 +79,3 @@
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
 * [ ](revisionmgtgui_h_vergleichsprojekterzeugen.md)
-

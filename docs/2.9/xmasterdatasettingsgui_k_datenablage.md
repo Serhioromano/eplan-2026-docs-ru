@@ -27,4 +27,3 @@
 
 * [Основные данные](xmasterdatasettingsgui_k_start.md)
 * [Основные данные: Основные положения](xmasterdatasettingsgui_k_grundlagen.md)
-

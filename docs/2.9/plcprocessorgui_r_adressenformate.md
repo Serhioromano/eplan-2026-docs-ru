@@ -30,4 +30,3 @@
 * [Вкладка Формат символического адреса](plcprocessorgui_r_formatsymbolischeadresse.md)
 * [Диалоговое окно Формат адреса ПЛК](plcprocessorgui_d_formatspsadresse.md)
 * [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
-

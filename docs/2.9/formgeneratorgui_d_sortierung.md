@@ -50,4 +50,3 @@
 * [Свойства EPLAN: Принцип](properties_k_prinzip.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
-

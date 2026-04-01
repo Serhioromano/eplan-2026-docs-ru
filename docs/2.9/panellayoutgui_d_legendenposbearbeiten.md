@@ -27,4 +27,3 @@
 * [Обработать позиции легенды](panellayoutgui_h_legendenaktualisieren.md)
 * [Диалоговое окно "Конфигурировать представление"](modaldialogsdb_d_spaltenkonfiguration.md)
 * [Диалоговое окно Нумеровать](panellayoutgui_d_nummerieren.md)
-

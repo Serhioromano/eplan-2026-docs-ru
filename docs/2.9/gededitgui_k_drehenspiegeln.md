@@ -44,4 +44,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Поворачивание и зеркальное отображение элементов](gededitgui_h_elementedrehenspiegeln.md)
-

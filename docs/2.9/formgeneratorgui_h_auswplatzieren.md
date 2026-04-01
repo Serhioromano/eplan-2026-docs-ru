@@ -42,4 +42,3 @@
 * [Генерировать легенды электрошкафа](panellayoutgui_h_legendenanlegen.md)
 * [Обновление отчета вручную](formgeneratorgui_h_auswaktualisieren.md)
 * [Автоматическое/не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
-

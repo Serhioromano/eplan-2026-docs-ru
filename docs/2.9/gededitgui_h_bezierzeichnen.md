@@ -15,4 +15,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Использовать область ввода данных](gededitgui_h_kommandozeile.md)
 * [Вкладка Кривая Безье](gededitgui_r_bezierkurve.md)
-

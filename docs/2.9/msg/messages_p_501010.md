@@ -22,4 +22,3 @@
 
 * [Создать изделие](../partsmanagementgui_h_artikelanlegen.md)
 * [Импортировать данные изделий](../partsmanagementgui_h_artikelimportieren.md)
-

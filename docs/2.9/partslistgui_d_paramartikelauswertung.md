@@ -38,4 +38,3 @@
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
 * [Вывести изделия кабелей в отчете](cablegui_h_kabelauswertung.md)
 * [Обработать изделие спецификации](partslistgui_h_artikelbearbeiten.md)
-

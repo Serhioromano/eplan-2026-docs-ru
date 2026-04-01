@@ -51,4 +51,3 @@
 
 * [Вставить точки определения сети](netbasedwires_h_ndpzeichnen.md)
 * [Изменить последовательность целей сетевых соединений](netbasedwires_h_zielreihenfolgeaendern.md)
-

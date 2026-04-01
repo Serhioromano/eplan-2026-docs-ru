@@ -111,4 +111,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Вкладка Отображение (Устройство)](devicetaggui_r_anzeige.md)
 * [Диалоговое окно Экспортировать порядок свойств](devicetaggui_d_eigschanordnungexportieren.md)
-

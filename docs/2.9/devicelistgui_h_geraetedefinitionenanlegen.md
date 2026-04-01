@@ -32,4 +32,3 @@
 
 * [Устройства](devicelistgui_k_start.md)
 * [Вставить устройства](devicelistgui_h_geraeteplatzieren.md)
-

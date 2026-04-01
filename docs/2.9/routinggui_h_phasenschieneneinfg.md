@@ -47,4 +47,3 @@
 
 * [Генерировать соединения фазовых шин](routinggui_h_phasenschienenvbdgerzg.md)
 * [Маршрутизировать соединения](routinggui_h_verlegen.md)
-

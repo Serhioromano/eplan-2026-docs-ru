@@ -71,4 +71,3 @@
 
 * [Элементы интерфейса пользователя](userinterface_k_hintergrund.md)
 * [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
-

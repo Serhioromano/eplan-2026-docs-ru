@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Отчеты](formgeneratorgui_k_start.md)
-

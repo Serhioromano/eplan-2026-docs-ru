@@ -45,4 +45,3 @@ EPLAN Fluid автоматически берет последнюю выбра�
 
 * [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
 * [EPLAN Fluid: Перекрестные ссылки на срабатывание клапанов](ftechnic_k_querverweise.md)
-

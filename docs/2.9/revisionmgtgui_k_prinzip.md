@@ -48,4 +48,3 @@
 * [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
 * [Расширения имен файлов и пиктограммы для проектов](projects_k_icons.md)
 * [Редактор форм и рамок](formeditorgui_k_start.md)
-

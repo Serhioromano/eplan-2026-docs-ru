@@ -11,4 +11,3 @@
 
 * [Состав ОУ](functiondatagridgui_k_bmkaufteilung.md)
 * [Обработать объекты в табличном виде](functiondatagridgui_h_tabellarischbearbeiten.md)
-

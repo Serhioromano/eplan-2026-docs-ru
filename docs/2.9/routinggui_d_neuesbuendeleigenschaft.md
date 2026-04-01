@@ -31,4 +31,3 @@
 * [Диалоговое окно Настройки: Объединить](routinggui_d_einstellungenbuendeln.md)
 * [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
 * [Диалоговое окно Сортировка](routinggui_d_sortierungbuendeln.md)
-

@@ -27,4 +27,3 @@
 * [Вкладка Свойства пространства листа](edaexportgui_r_bauraumeigenschaften.md)
 * [Вкладка Свойства функции](edaexportgui_r_funktionseigenschaften.md)
 * [Вкладка Свойства точек разрыва](edaexportgui_r_abrstleigenschaften.md)
-

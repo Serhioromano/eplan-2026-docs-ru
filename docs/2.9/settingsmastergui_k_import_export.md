@@ -35,4 +35,3 @@
 * [Импорт / экспорт настроек](settingsmastergui_h_importieren_exportieren.md)
 * [Сброс настроек на стандартные значения](settingsmastergui_h_einstellungenaufstandard.md)
 * [Диалоговое окно Настройки: Интерфейс пользователя](settingsmastergui_d_oberflaecheneinstellungen.md)
-

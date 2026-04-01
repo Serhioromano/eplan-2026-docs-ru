@@ -69,4 +69,3 @@
 * [Копировать, вырезать и вставить элементы](gededitgui_h_elementekopieren.md)
 * [Дублировать элементы](gededitgui_h_elementeduplizieren.md)
 * [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
-

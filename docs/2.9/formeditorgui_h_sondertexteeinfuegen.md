@@ -83,4 +83,3 @@
 
 * [Управление выводом текстов-заполнителей и специальных текстов](formeditorgui_h_platzhaltertexteanzeigen.md)
 * [Удалить и заново разместить нумерацию столбцов и строк](formeditorgui_h_normblaetterpfadeposneuplatzieren.md)
-

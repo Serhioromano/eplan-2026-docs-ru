@@ -21,4 +21,3 @@
 * [Символы соединения: Сборные шины](egedgui_k_sammelschienen.md)
 * [Символы соединения: Распределители и соединители](egedgui_k_verteiler.md)
 * [Точки разрыва: Перекрестные ссылки](interruptionpointgui_k_darstellungabbruchstellen.md)
-

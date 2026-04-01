@@ -56,4 +56,3 @@ End Class 'SetSettingScriptДля считывания этой настройк
 **См. также:**
 
 * [Сценарии](scripts_k_start.md)
-

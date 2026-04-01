@@ -27,4 +27,3 @@
 * [Генерировать перекрестные ссылки оборудования](xessettingsgui_h_symbolquerverweiseerzeugen.md)
 * [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
 * [Защита устройства](devicetaggui_k_geschuetztebm.md)
-

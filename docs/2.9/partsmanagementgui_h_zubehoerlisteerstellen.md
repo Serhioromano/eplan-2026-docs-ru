@@ -49,4 +49,3 @@
 * [База данных изделий: Управление принадлежностями](partsmanagementgui_k_zubehoerlisten.md)
 * [Вкладка Принадлежности](partsmanagementgui_r_zubehoer.md)
 * [Вкладка Изделие (Список принадлежностей)](partsmanagementgui_r_zubehoerplatzierung.md)
-

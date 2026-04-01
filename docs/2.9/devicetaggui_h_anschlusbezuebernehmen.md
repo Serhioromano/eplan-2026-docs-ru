@@ -37,4 +37,3 @@
 
 * [Перенос обозначения вывода устройства](devicetaggui_k_anschlussbezuebergabe.md)
 * [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)
-

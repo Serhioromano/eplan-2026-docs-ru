@@ -18,4 +18,3 @@
 
 * [Диалоговое окно Автоматически объединить соединения](routinggui_d_autobuendeln.md)
 * [Автоматически объединить соединения](routinggui_h_autobuendeln.md)
-

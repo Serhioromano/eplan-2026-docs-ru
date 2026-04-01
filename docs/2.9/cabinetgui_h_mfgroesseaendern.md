@@ -37,4 +37,3 @@
 
 * [Определить монтажную поверхность](cabinetgui_h_montageflaechedefinieren.md)
 * [Выровнять ось X / Y монтажных поверхностей](cabinetgui_h_xyachseausrichten.md)
-

@@ -47,4 +47,3 @@
 
 * [Определенные пользователем свойства](userdefproperties_k_start.md)
 * [Удалить определенные пользователем свойства](userdefproperties_h_eigenschaftloeschen.md)
-

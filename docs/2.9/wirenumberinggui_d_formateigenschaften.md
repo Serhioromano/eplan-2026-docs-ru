@@ -50,4 +50,3 @@
 * [Диалоговое окно Настройки: Нумерация соединений](wirenumberinggui_d_verbnumeinstellungen.md)
 * [Диалоговое окно Нумерация соединений: Форматы](wirenumberinggui_d_verbnumformate.md)
 * [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
-

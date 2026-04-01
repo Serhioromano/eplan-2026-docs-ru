@@ -57,4 +57,3 @@
 * [Указания размеров](dimensiongui_k_start.md)
 * [Диалоговое окно Настройки: Указание размеров](dimensiongui_d_projektbemassung.md)
 * [Вкладка Указания размеров](dimensiongui_r_bemassung.md)
-

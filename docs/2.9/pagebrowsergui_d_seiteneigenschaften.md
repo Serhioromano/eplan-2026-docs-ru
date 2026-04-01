@@ -42,4 +42,3 @@
 * [Свойства страницы](pagebrowsergui_k_eigenschaften.md)
 * [Создать и удалить страницы](pagebrowsergui_h_seitenanlegen.md)
 * [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)
-

@@ -43,4 +43,3 @@
 * [Создать и обработать клеммы](terminalgui_h_klemmenerstlbearb.md)
 * [Отобразить, добавить или удалить последовательные принадлежности](terminalgui_h_leistenzubehoererstlloesch.md)
 * [Определить многоуровневые клеммы](terminalgui_h_mehrstockklemmenarbeit.md)
-

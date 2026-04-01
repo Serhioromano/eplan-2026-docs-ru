@@ -32,4 +32,3 @@
 **См. также:**
 
 * [Многопользовательский режим](xesmultiuserconflictgui_k_start.md)
-

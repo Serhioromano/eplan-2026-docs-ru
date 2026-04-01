@@ -52,4 +52,3 @@
 * [Блок выравнивания для текстов](gededitgui_k_texteeinpassen.md)
 * [Тексты](gededitgui_k_texte.md)
 * [Вставить текст](gededitgui_h_texte.md)
-

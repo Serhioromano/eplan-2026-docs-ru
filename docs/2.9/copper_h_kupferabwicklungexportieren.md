@@ -29,4 +29,3 @@
 * [Диалоговое окно Экспорт ЧУ, медь](ncgui_d_exportkupfernc.md)
 * [Диалоговое окно Настройки: Экспорт ЧУ, медь](ncgui_d_einstellungenncexportperdxf.md)
 * [Развертка шины: Принцип](copper_k_abwicklung.md)
-

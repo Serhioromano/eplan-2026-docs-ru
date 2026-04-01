@@ -52,4 +52,3 @@
 * [Диалоговое окно Настройки: Специфич. для ПЛК](plcprocessorgui_d_spsspezifischeeinstellungen.md)
 * [Макрос для генерации схемы соединений ПЛК](plcgui_k_makrosschaltplanerzeugen.md)
 * [Оценка функциональных текстов зон](gededitgui_k_pfadtextauswertung.md)
-

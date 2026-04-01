@@ -20,4 +20,3 @@
 * [Внешняя обработка: Принцип работы](pxfinterface_k_arbeitsweise.md)
 * [Шаблоны Excel для внешней обработки](pxfinterface_k_excelexportvorlagen.md)
 * [Диалоговое окно Настройки: Внешняя обработка](macrosgui_d_pxfeinstellungenexport.md)
-

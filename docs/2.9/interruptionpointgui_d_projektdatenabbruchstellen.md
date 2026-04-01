@@ -54,4 +54,3 @@
 **См. также:**
 
 * [Диалоговое окно Сортировать точки разрыва](interruptionpointgui_d_abbruchstellensortieren.md)
-

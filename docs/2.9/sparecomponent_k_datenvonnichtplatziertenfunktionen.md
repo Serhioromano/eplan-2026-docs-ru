@@ -9,4 +9,3 @@
 **См. также:**
 
 * [Устройства](devicelistgui_k_start.md)
-

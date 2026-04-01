@@ -8,4 +8,3 @@
 
 * [EPLAN Fluid: Соединения](ftechnic_k_verbindungen.md)
 * [Вкладки Гидравлика / Пневматика / Охлаждение / Смазка / Смазочно-охлаждающая жидкость / Газовая техника / Технология производственных процессов](connectionsettingsgui_r_projekteinstellungenhydraulik.md)
-

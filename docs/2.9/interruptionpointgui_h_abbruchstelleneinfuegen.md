@@ -17,4 +17,3 @@
 
 * [Определить стандартные позиции для описания точек разрыва](interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)
 * [Диалоговое окно Использ. имеющ. точку разрыва](interruptionpointgui_d_abbruchstellenabbuchen.md)
-

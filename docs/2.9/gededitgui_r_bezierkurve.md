@@ -14,5 +14,3 @@
 
 * [Диалоговое окно Свойства (<Графический элемент>)](gededitgui_d_formatgrafik.md)
 * [Начертить кривые Безье](gededitgui_h_bezierzeichnen.md)
-
-

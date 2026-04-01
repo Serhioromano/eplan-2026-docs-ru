@@ -42,4 +42,3 @@
 * [Вставить и обработать специальные тексты](formeditorgui_h_sondertexteeinfuegen.md)
 * [Проверить формы](formeditorgui_h_formularepruefen.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

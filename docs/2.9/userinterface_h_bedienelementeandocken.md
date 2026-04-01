@@ -78,4 +78,3 @@
 * [Панели инструментов](userinterface_k_symbolleisten.md)
 * [Диалоговые окна](userinterface_k_dialoge.md)
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
-

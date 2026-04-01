@@ -24,4 +24,3 @@
 
 * [Трехмерный чертеж монтажных поверхностей: принцип](cabinetgui_k_prinzip.md)
 * [Диалоговое окно Свойства пространства листа](cabinetgui_d_bauraumeigenschaften.md)
-

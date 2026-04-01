@@ -32,4 +32,3 @@
 
 * [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)
 * [Автоматический перевод / перевод вручную](translategui_k_start.md)
-

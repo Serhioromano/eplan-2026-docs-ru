@@ -33,4 +33,3 @@
 * [Вкладка Формат списка присвоений](plcprocessorgui_r_formatzuordnungsliste.md)
 * [Вкладка Формат символического адреса](plcprocessorgui_r_formatsymbolischeadresse.md)
 * [Диалоговое окно Настройки: ПЛК](plcgui_d_allgemeinespseinstellungen.md)
-

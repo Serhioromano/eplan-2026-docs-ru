@@ -40,4 +40,3 @@
 * [Найти и заменить](searchandreplacegui_k_start.md)
 * [Использование символов-заполнителей](searchandreplacegui_k_platzhalter.md)
 * [Поиск данных проекта](searchandreplacegui_h_suchen.md)
-

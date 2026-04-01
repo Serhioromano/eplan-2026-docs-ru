@@ -50,4 +50,3 @@ NFPA |  Горизонтально |  Снизу вверх |  Справа на
 * [Устройство](devicetaggui_k_start.md)
 * [Особенности при переносе ОУ](devicetaggui_k_bmkuebernahmesonder.md)
 * [Определить направление поиска для переноса ОУ](devicetaggui_h_bmkuebernahmefestlegen.md)
-

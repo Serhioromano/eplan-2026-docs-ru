@@ -12,4 +12,3 @@
 
 * [Вставить точки разрыва](interruptionpointgui_h_abbruchstelleneinfuegen.md)
 * [Символы соединения](egedgui_k_start.md)
-

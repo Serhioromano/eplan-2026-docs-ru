@@ -24,4 +24,3 @@
 * [Сгенерировать схему кабельных соединений](cablegui_h_kabeldarstellungsplan.md)
 * [Форма для схемы кабельных соединений](formeditorgui_k_kdpformular.md)
 * [Отчеты](formgeneratorgui_k_start.md)
-

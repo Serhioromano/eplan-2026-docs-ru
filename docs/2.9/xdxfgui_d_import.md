@@ -30,4 +30,3 @@
 * [Диалоговое окно Настройки: Экспорт и импорт DXF / DWG](xdxfgui_d_einstellungen.md)
 * [Диалоговое окно Форматир. импорта](xdxfgui_d_importformatierung.md)
 * [Диалоговое окно Присвоить страницы](xdxfgui_d_seitenzuweisen.md)
-

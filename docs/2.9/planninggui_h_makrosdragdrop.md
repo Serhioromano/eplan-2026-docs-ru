@@ -76,4 +76,3 @@
 * [Создание подробного планирования из макросов](planninggui_k_grafikausmakros.md)
 * [Диалоговое окно Настройки: Общее (предварительное планирование)](planninggui_d_einstellallgemein.md)
 * [Вкладка Макрос](planninggui_r_makro.md)
-

@@ -44,4 +44,3 @@
 * [Диалоговое окно Нумеровать кабели: Предварительный просмотр результата](cablegui_d_ergebniskabelnummerierung.md)
 * [Чертить линии определения кабелей или экранирования](cablegui_h_kabelzeichnen.md)
 * [Использовать кабель](cablegui_h_abbuchen.md)
-

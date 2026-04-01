@@ -45,4 +45,3 @@
 
 * [Кабели](cablegui_k_start.md)
 * [Определение кабелей](cablegui_k_arbeitsweise.md)
-

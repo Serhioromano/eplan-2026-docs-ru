@@ -69,4 +69,3 @@
 
 * [Диалоговое окно Экспорт DXF/DWG](xdxfgui_d_export.md)
 * [Диалоговое окно Формат: свойство](eservicesgui_d_formateigenschaft.md)
-

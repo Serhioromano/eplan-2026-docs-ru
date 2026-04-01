@@ -67,4 +67,3 @@
 * [База данных изделий: Модули](partsmanagementgui_k_module.md)
 * [Вкладка Модуль](partsmanagementgui_r_modul.md)
 * [Разместить устройства на трехмерном чертеже монтажных поверхностей](cabinetgui_h_geraetplatzieren.md)
-

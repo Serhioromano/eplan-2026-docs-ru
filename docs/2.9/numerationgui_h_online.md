@@ -80,4 +80,3 @@
 * [Установить предшествующий знак в видимом ОУ](numerationgui_h_vorzeichensetzen.md)
 * [Вставить новые устройства без ОУ](numerationgui_h_ohnebmk.md)
 * [Устройства в макросе/автоматически нумеровать копии](numerationgui_h_insertdtviamacros.md)
-

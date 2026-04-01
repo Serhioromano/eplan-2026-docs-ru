@@ -47,4 +47,3 @@
 
 * [Диалоговое окно Обработать клеммник](stripmanagementgui_d_klemmenleistebearbeiten.md)
 * [Применение клемм рукоятки](terminalgui_k_hauptklemmen.md)
-

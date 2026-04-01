@@ -17,4 +17,3 @@
 * [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
 * [Отдельные слова, предложения, заполнители в ключевых словах](translatedbgui_k_eingabemoeglichkeit.md)
 * [Числа в ключевых словах и текстах](translatedbgui_k_zahlen.md)
-

@@ -24,4 +24,3 @@
 * [Создать схему присвоения для символов (Изменение стандарта)](changestandardsgui_h_stammdatenersetzen.md)
 * [Определить структуру проекта (изменение стандарта)](changestandardsgui_h_projektstrukturanpassen.md)
 * [Определить нумерацию устройств (Изменение стандарта)](changestandardsgui_h_nummerieren.md)
-

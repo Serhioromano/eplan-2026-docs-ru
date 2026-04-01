@@ -139,4 +139,3 @@
 * [Определить многоуровневые клеммы](terminalgui_h_mehrstockklemmenarbeit.md)
 * [Сортировать клеммы](terminalgui_h_klemmensort.md)
 * [Диалоговое окно Настройки: Совместимость](xessettingsgui_d_einstellungenprojektkompatibilitaet.md)
-

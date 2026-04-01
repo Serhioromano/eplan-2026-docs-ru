@@ -26,4 +26,3 @@
 
 * [Схемы](schemeconfig_k_start.md)
 * [Панель инструментов схемы](schemeconfig_m_schemaschaltflaechen.md)
-

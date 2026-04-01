@@ -50,5 +50,3 @@
 **См. также:**
 
 * [Диалоговое окно Формат: Свойство блока](eservicesgui_d_formatblockeigenschaft.md)
-
-

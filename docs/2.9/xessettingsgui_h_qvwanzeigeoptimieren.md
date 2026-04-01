@@ -23,4 +23,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Общее (проекты, перекрестные ссылки / образы контактов)](xessettingsgui_d_einstellungenprojektqvwallgemein.md)
-

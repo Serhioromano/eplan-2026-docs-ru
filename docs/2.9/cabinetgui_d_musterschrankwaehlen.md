@@ -49,4 +49,3 @@
 * [Автоматическая интерпретация: Принцип](cabinetgui_k_schrankinterpretation.md)
 * [Представить и перенести логику электрошкафа](cabinetgui_h_schrankinterpretation.md)
 * [Диалоговое окно Список соответствия](cabinetgui_d_trefferliste.md)
-

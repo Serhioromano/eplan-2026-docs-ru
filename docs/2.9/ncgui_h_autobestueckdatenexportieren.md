@@ -21,4 +21,3 @@
 
 * [Диалоговое окно Экспорт Rittal — Athex](ncgui_d_exportathas.md)
 * [Диалоговое окно Настройки: Rittal — Athex](ncgui_d_einstellungenathas.md)
-

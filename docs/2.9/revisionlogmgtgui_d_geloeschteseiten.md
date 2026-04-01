@@ -22,4 +22,3 @@
 
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](revisionlogmgtgui_d_einstellungenaenderung.md)
-

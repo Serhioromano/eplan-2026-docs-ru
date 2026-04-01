@@ -32,4 +32,3 @@
 * [Диалоговое окно Настройки: выбор изделия (потребитель)](partselectiongui_d_datenauswahlbenutzer.md)
 * [Выбрать изделие](partselectiongui_h_artikelauswahl.md)
 * [Диалоговое окно Выбор изделия](partselectiongui_d_artikelauswahl.md)
-

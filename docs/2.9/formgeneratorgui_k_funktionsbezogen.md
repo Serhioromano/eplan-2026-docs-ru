@@ -138,4 +138,3 @@
 * [Перечни отчетов](formgeneratorgui_k_auswertungsuebersicht.md)
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
-

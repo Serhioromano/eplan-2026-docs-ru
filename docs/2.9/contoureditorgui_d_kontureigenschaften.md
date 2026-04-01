@@ -16,4 +16,3 @@
 **См. также:**
 
 * [Создать профиль для изогнутых медных шин](copper_h_verlaufskonturerstellen.md)
-

@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Определить стандартные позиции для описания точек разрыва](interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)
-

@@ -40,4 +40,3 @@
 * [Создать словарь](translatedbgui_h_woerterbuchanlegen.md)
 * [Добавить язык словаря](translatedbgui_h_woerterbuchanlegen.md)
 * [Удалить язык словаря](translatedbgui_h_woerterbuchanlegen.md)
-

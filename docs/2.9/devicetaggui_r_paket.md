@@ -74,4 +74,3 @@
 * [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
 * [Диалоговое окно Настройки: Нумерация](numerationgui_d_einstellnummerierung.md)
-

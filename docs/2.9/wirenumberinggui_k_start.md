@@ -23,4 +23,3 @@
 * [Обозначить соединения](wirenumberinggui_h_verbnumbezeichnen.md)
 * [Заново выровнять и отформат. обозначения соединений](wirenumberinggui_h_verbnumausrichtenformatieren.md)
 * [Удалить обозначения соединений](wirenumberinggui_h_verbindloeschen.md)
-

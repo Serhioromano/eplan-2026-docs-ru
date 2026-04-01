@@ -30,4 +30,3 @@
 * [Управление ревизиями](revisionmgtgui_k_start.md)
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
 * [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](revisionlogmgtgui_d_einstellungenaenderung.md)
-

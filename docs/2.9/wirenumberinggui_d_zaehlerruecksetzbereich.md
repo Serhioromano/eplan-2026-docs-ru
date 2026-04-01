@@ -45,4 +45,3 @@
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Диалоговое окно Настройки: Нумерация соединений](wirenumberinggui_d_verbnumeinstellungen.md)
 * [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
-

@@ -51,4 +51,3 @@
 * [Поведение изделий при выборе устройств](partselectiongui_k_prinzip.md)
 * [Генерировать изделия из данных схемы соединений](partselectiongui_h_artikelausschaltplan.md)
 * [Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
-

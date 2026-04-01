@@ -11,4 +11,3 @@
 * [Преобразование вспомогательной функции в главную](adjustdata_h_nebenfunktionaendern.md)
 * [Преобразовать излишние главные функции](adjustdata_h_funktionkorrigieren.md)
 * [Синхронизировать распределенно представленные функции](adjustdata_h_funktionabgleichen.md)
-

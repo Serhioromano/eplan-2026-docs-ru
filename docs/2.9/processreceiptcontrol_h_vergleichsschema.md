@@ -27,4 +27,3 @@
 * [Проверка проекта: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
 * [Проект для сравнения и проект с замечаниями](processreceiptcontrol_k_projekte.md)
 * [Генерировать проект для сравнения](revisionmgtgui_h_vergleichsprojekterzeugen.md)
-

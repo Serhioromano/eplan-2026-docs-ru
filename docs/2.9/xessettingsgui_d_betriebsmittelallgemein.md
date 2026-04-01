@@ -59,4 +59,3 @@
 * [Синхронизация распределенных функций](adjustdata_h_funktionabgleichen.md)
 * [Синхронизация и корректировочный прогон](adjustdata_k_start.md)
 * [Принцип работы при вставке устройств](devicelistgui_k_vorgehengeraeteeinfuegen.md)
-

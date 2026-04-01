@@ -49,4 +49,3 @@ C помощью настройки из этого раскрывающегос
 
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Работа с узлами](partsmanagementgui_h_baugruppenanlegen.md)
-

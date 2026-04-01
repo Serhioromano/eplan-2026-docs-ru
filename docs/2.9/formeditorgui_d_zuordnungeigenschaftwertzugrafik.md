@@ -30,4 +30,3 @@
 **См. также:**
 
 * [Определить графику в зависимости от значений свойств в формах и рамках](formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md)
-

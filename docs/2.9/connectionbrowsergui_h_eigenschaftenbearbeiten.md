@@ -22,4 +22,3 @@
 * [Обновить соединения](connectionbrowsergui_h_verbindungenbearbeiten.md)
 * [Чертить точки обозначения соединения](connectionbrowsergui_h_definitionspunktezeichnen.md)
 * [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)
-

@@ -35,4 +35,3 @@
 * [Выбор изделия / устройства](partselectiongui_k_start.md)
 * [Выбрать изделие](partselectiongui_h_artikelauswahl.md)
 * [Диалоговое окно Предварительный выбор изделия](partselectiongui_d_artikelvorauswahl.md)
-

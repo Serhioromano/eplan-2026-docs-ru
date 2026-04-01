@@ -26,4 +26,3 @@
 
 * [Определенные пользователем свойства](userdefproperties_k_start.md)
 * [Вкладка Произвольн. свойства](partsmanagementgui_r_zusatztexte.md)
-

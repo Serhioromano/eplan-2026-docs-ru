@@ -115,4 +115,3 @@
 * [Произвести настройки для отображения перекрестных ссылок](xessettingsgui_h_einstellungenqvwanzeige.md)
 * [Произвести настройки для просмотра образов контактов](xessettingsgui_h_einstellungenkontaktspiegel.md)
 * [Оптимизировать отображение перекрестных ссылок](xessettingsgui_h_qvwanzeigeoptimieren.md)
-

@@ -89,4 +89,3 @@
 * [Диалоговое окно Формат: Страница / столбец / строка (нумерация с данными ПЛК)](offlinenumerationplcgui_d_formatseite.md)
 * [Диалоговое окно Формат: Буквенное обозначение](offlinenumerationplcgui_d_formatkennbuchstabe.md)
 * [Диалоговое окно Формат: Разделитель (нумерация с данными ПЛК)](offlinenumerationplcgui_d_formattrennzeichen.md)
-

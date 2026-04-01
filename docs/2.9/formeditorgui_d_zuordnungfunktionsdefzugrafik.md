@@ -44,4 +44,3 @@
 
 * [Определить графику в зависимости от определений функций свойство в формах](formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md)
 * [Диалоговое окно Выбор символа](xsbgui_d_symbolauswahl.md)
-

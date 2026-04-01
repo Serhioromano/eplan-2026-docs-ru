@@ -10,4 +10,3 @@
 * [Считать данные шлангопроводов](fluidhoseconfiggui_h_schlauchleitungeneinlesen.md)
 * [Диалоговое окно "Конфигурировать шлангопроводы"](fluidhoseconfiggui_d_schlauchleitungen.md)
 * [Пункты главного меню конфигуратора шлангопроводов в качестве самостоятельной программы (самостоятельного варианта)](fluidhoseconfiggui_m_menuestandalone.md)
-

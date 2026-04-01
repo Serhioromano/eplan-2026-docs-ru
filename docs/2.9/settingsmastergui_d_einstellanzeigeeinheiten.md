@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
-

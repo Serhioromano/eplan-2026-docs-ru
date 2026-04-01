@@ -34,4 +34,3 @@
 
 * [Предварительное планирование: Монтажные чертежи](planninggui_k_montageanordnungen.md)
 * [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
-

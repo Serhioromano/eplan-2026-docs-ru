@@ -78,4 +78,3 @@
 
 * [Выбрать кабель](cablegui_h_kabelauswahlautomatisch.md)
 * [Диалоговое окно Автоматический выбор кабеля](cablegui_d_automatischekabelauswahl.md)
-

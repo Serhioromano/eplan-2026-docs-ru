@@ -16,4 +16,3 @@
 * [Определить настройки отображения символов соединений](egedgui_h_einstellungenanzeigeverdrahtung.md)
 * [Диалоговое окно Настройки: 2D (Пользователь, Графическая обработка)](gedviewer_d_einstellungenbenutzerallgemein.md)
 * [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)
-

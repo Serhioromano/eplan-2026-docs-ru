@@ -18,4 +18,3 @@
 
 * [Управление правами](uradministration_k_start.md)
 * [Зарегистрировать или поменять пользователя](uradministration_h_benutzerwechseln.md)
-

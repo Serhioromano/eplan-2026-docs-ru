@@ -22,4 +22,3 @@
 [Вкладка Страницы устройства](pdfexportgui_r_bmseiten.md)
 
 [Вкладка Свойства устройства / Свойства изделия](pdfexportgui_r_bmeigenschaften.md)
-

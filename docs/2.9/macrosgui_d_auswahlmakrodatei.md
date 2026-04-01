@@ -53,4 +53,3 @@
 **См. также:**
 
 * [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
-

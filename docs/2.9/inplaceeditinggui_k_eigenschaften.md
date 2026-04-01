@@ -65,4 +65,3 @@
 
 * [Прямая обработка](inplaceeditinggui_k_start.md)
 * [Использование прямой обработки](inplaceeditinggui_h_direktesbearbeiten.md)
-

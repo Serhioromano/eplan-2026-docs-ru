@@ -39,4 +39,3 @@
 
 * [Обработать проект автоматически](autoprocgui_h_protokolldatei.md)
 * [Обработать несколько проектов автоматически](autoprocgui_h_ausfuehren.md)
-

@@ -29,4 +29,3 @@
 * [Графический редактор](gededitgui_k_start.md)
 * [Управление курсором с помощью клавиатуры](gededitgui_k_cursortastatur.md)
 * [Определение представления курсора](gededitgui_h_cursor.md)
-

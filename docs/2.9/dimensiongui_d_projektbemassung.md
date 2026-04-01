@@ -100,4 +100,3 @@
 * [Указания размеров](dimensiongui_k_start.md)
 * [Указания размеров: Принцип](dimensiongui_k_bemassungenprinzip.md)
 * [Вкладка Указания размеров](dimensiongui_r_bemassung.md)
-

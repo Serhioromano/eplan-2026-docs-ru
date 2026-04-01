@@ -14,4 +14,3 @@ DeclareUnregister |  Если удаляется новый файл сцена�
 **См. также:**
 
 * [Сценарии](scripts_k_start.md)
-

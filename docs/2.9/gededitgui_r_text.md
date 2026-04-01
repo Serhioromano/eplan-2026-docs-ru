@@ -64,4 +64,3 @@
 * [Отобразить пустые тексты и тексты с небольшим размером шрифта](gededitgui_h_texteanzeigen.md)
 * [Функциональные тексты зон](gededitgui_k_pfadtextstart.md)
 * [Диалоговое окно Многоязычный ввод](modaldialogs_d_mehrsprachigeeingabe.md)
-

@@ -45,4 +45,3 @@
 
 * [Диалоговое окно Экспорт графических файлов](modaldialogsdb_d_export.md)
 * [Вывести страницы в виде графических файлов](gedgraphicexportgui_h_seitenexportieren.md)
-

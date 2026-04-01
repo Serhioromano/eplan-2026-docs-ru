@@ -29,4 +29,3 @@
 
 * [Диалоговое окно Выбрать набор значений](macrosgui_d_wertesatzauswaehlen.md)
 * [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
-

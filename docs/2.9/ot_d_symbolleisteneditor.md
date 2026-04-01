@@ -71,4 +71,3 @@
 * [Настроить кнопки панели инструментов для действий или меню](configtoolbars_h_schaltflaecheneinstellen.md)
 * [Операции в панелях инструментов](configtoolbars_k_start.md)
 * [Обзор операций в панелях инструментов](configtoolbars_k_aktionensymbolleisten.md)
-

@@ -20,4 +20,3 @@
 * [Переместить тексты свойств](gededitgui_h_symboltexteverschieben.md)
 * [Вставить текст](gededitgui_h_texte.md)
 * [Отобразить пустые тексты и тексты с небольшим размером шрифта](gededitgui_h_texteanzeigen.md)
-

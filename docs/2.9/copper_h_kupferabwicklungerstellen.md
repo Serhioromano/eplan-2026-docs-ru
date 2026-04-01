@@ -27,4 +27,3 @@
 
 * [Развертка шины: Принцип](copper_k_abwicklung.md)
 * [Вкладка Вид (развертка)](gededit3dgui_r_ansichtabwicklung.md)
-

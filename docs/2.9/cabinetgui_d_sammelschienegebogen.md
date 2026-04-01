@@ -39,4 +39,3 @@
 **См. также:**
 
 * [Размещение медной шины](copper_h_kupferschieneplatzieren.md)
-

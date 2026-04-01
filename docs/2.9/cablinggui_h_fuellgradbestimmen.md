@@ -29,4 +29,3 @@
 
 * [Изменить маршрутизацию (топология)](cablinggui_h_verlegewegaendern.md)
 * [Маршрутизируемые соединения (топология)](cablinggui_k_verlegeverbindungen.md)
-

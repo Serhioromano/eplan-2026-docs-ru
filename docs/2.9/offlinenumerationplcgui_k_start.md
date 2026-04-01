@@ -18,4 +18,3 @@
 * [Продолжить нумерацию после функции](offlinenumerationplcgui_h_einstellungen.md)
 * [Исключить выводы устройства ПЛК из нумерации](offlinenumerationplcgui_h_ausschliessen.md)
 * [Нумеровать подсоединенные к ПЛК устройства](offlinenumerationplcgui_h_bmnummerieren.md)
-

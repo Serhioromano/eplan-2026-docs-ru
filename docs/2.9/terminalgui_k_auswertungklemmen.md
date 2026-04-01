@@ -41,4 +41,3 @@
 **См. также:**
 
 * [Управление клеммами](terminalgui_k_verwaltung.md)
-

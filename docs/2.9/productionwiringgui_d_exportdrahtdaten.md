@@ -38,4 +38,3 @@
 **См. также:**
 
 * [Экспортировать сборку проводов](productionwiringgui_h_drahtdatenexportieren.md)
-

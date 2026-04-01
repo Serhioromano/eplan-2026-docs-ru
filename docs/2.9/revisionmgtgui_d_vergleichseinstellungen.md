@@ -47,4 +47,3 @@
 * [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
 * [Определение настроек сравнения](revisionmgtgui_h_vergleichseinstellungen.md)
 * [Альтернативная идентификация](revisionmgtgui_k_alternativeidentifizierung.md)
-

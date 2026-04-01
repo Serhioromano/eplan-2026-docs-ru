@@ -39,4 +39,3 @@
 * [Диалоговое окно Экспорт PDF](pdfexportgui_d_export.md)
 * [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)
 * [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
-

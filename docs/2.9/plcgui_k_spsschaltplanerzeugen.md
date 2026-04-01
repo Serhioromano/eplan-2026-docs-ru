@@ -21,4 +21,3 @@ EPLAN предоставляет возможность автоматическ
 * [Макрос для генерации схемы соединений ПЛК](plcgui_k_makrosschaltplanerzeugen.md)
 * [Поведение при размещении макроса ПЛК](plcgui_k_abbuchverhalten.md)
 * [Генерировать схемы соединений ПЛК](plcgui_h_spsschaltplanerzeugen.md)
-

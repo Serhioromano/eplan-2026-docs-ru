@@ -31,4 +31,3 @@
 * [Предварительно определить свойства соединения](connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
 * [Определить свойства соединения для потенциала](connectionbrowsergui_h_pdpeigenschaften.md)
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-

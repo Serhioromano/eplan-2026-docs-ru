@@ -91,4 +91,3 @@
 * [Определить свойства соединений](connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
 * [Использовать и отменять соединения](connectionbrowsergui_h_abbuchen.md)
-

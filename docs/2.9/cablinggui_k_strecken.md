@@ -28,4 +28,3 @@
 * [Маршрутизируемые соединения (топология): Способ действий](cablinggui_k_vorgehensweise.md)
 * [Учет разности высотных отметок при маршрутизации](cablinggui_k_teilstrecke.md)
 * [Вид прокладки](cablinggui_k_verlegeart.md)
-

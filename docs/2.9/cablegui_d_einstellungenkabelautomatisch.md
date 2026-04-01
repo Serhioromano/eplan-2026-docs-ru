@@ -22,4 +22,3 @@
 
 * [Автоматически генерировать кабели](cablegui_h_kabelerzeugen.md)
 * [Выбрать кабель](cablegui_h_kabelauswahlautomatisch.md)
-

@@ -20,4 +20,3 @@
 **См. также:**
 
 * [Поиск данных проекта](searchandreplacegui_h_suchen.md)
-

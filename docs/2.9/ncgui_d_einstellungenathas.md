@@ -27,4 +27,3 @@
 **См. также:**
 
 * [Диалоговое окно Экспорт Rittal — Athex](ncgui_d_exportathas.md)
-

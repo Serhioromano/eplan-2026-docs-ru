@@ -39,4 +39,3 @@
 * [Проверка проекта: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
 * [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
 * [Просмотреть и обработать сообщения контрольного прогона](msgmanagementgui_h_meldungenansehen.md)
-

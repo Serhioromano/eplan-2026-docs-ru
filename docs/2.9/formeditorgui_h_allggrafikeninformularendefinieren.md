@@ -42,4 +42,3 @@
 **См. также:**
 
 * [Вставить графику форм](formeditorgui_h_formulargrafikeneinfuegen.md)
-

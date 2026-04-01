@@ -40,4 +40,3 @@
 * [Автоматически генерировать макрос из проекта макросов](macrosgui_h_makrosausmakroprojekt.md)
 * [Диалоговое окно Макросы — <Имя проекта>](macrosgui_d_makronavigator.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

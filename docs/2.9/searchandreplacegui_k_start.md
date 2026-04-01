@@ -19,4 +19,3 @@
 * [Заменить данные проекта](searchandreplacegui_h_ersetzen.md)
 * [Обработать записи для поиска](searchandreplacegui_h_bearbeiten.md)
 * [Синхронизировать выбор](searchandreplacegui_h_auswahlsynchronisieren.md)
-

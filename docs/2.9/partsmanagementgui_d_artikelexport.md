@@ -43,4 +43,3 @@
 
 * [Экспортировать данные изделий](partsmanagementgui_h_artikelexportieren.md)
 * [База данных изделий: Идентификаторы для импорта и экспорта данных](partsmanagementgui_k_importexport.md)
-

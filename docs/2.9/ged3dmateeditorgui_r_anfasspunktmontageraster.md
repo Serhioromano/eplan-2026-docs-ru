@@ -18,4 +18,3 @@
 
 * [Определить точку захвата](cabinetgui_h_anfasspunktdefinieren.md)
 * [Определить и использовать монтажную сетку](cabinetgui_h_montagerasterdefinieren.md)
-

@@ -32,4 +32,3 @@
 
 * [Генерировать сеть соединенных сегментов](routinggui_h_streckennetzerzeugen.md)
 * [Изменить маршрутизацию](routinggui_h_verlegewegaendern.md)
-

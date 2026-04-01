@@ -19,4 +19,3 @@
 
 * [Переместить клеммы](terminalgui_h_klemmenverschieb.md)
 * [Клеммы](terminalgui_k_start.md)
-

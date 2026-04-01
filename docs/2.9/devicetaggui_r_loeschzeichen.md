@@ -37,4 +37,3 @@
 **См. также:**
 
 * [Обработка маркеров удаления](revisionmgtgui_h_loeschzeichenbearbeiten.md)
-

@@ -41,4 +41,3 @@
 * [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
 * [Просмотреть и обработать сообщения контрольного прогона](msgmanagementgui_h_meldungenansehen.md)
 * [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
-

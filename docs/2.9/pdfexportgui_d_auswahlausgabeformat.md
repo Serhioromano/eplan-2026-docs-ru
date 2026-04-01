@@ -37,4 +37,3 @@ ANSI E |  864 x 1118 |  34 x 44
 
 * [Диалоговое окно Экспорт PDF](pdfexportgui_d_export.md)
 * [Вывести страницы в PDF-файл](pdfexportgui_h_seitenexportieren.md)
-

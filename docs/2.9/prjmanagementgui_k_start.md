@@ -16,4 +16,3 @@
 
 * [Создать / выбрать базу данных управления проектами](prjmanagementgui_h_projekteverwalten.md)
 * [Считать каталоги и проекты](prjmanagementgui_h_verzeichniseinlesen.md)
-

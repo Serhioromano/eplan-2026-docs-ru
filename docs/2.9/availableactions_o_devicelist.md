@@ -24,4 +24,3 @@ FORMAT  |  Необязательно: формат файла ("XDLXmlExporter"
     /EXPORTFILE:C:\EPLAN\deviceListe2.xmlУдалить:devicelist
     /TYPE:DELETE
     /PROJECTNAME:C:\Projects\EPLAN\ESS_Sample_Project.elk
-

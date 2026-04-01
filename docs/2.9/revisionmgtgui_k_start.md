@@ -25,4 +25,3 @@
 * [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
 * [Восстановить удаленные маркеры ревизий](revisionmgtgui_h_revmarkierungenerzeugen.md)
 * [Удалить защиту от записи](revisionmgtgui_h_schreibschutzentfernen.md)
-

@@ -54,4 +54,3 @@
 
 * [Разделение проектов на области обработки](workingsection_h_bereichedefinieren.md)
 * [Вывод отчета в другой проект](formgeneratorgui_h_inanderesprojekt.md)
-

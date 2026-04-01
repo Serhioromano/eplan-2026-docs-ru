@@ -65,4 +65,3 @@
 * [Создать и обработать штекер](plugsgui_h_steckerleisteerstlbearb.md)
 * [Создать и обработать контакты штекера](plugsgui_h_steckerkontakteerstlbearb.md)
 * [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
-

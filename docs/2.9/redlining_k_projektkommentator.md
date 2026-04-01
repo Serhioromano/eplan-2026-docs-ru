@@ -25,4 +25,3 @@
 * [PDF-комментарии: Способ действий](redlining_k_vorgehensweise.md)
 * [Вывести страницы файла PDF](pdfexportgui_h_seitenexportieren.md)
 * [Импортировать PDF-комментарии в проект EPLAN](redlining_h_pdfkommentareeinlesen.md)
-

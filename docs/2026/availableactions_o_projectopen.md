@@ -12,4 +12,3 @@ EXCLUSIVE: Проект открывается только для текуще�
 
     ProjectOpen
 /Project:"C:\EPLANmy own ProjectsDEMO.elk"
-

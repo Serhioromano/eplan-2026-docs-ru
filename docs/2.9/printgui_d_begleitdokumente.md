@@ -35,4 +35,3 @@
 
 * [Печать присоединенных документов](printgui_h_begleitdokumente.md)
 * [Печать](printgui_k_start.md)
-

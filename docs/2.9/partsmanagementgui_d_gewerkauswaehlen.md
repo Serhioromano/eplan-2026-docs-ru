@@ -19,5 +19,3 @@
 
 * [База данных изделий](partsmanagementgui_k_start.md)
 * [EPLAN Fluid: Разделы](ftechnic_k_gewerke_an_schaltzeichen.md)
-
-

@@ -42,4 +42,3 @@
 * [Вставить контакты штекеров и определения штекеров](plugsgui_h_steckerkontaktezeichnen.md)
 * [Диалоговое окно Обработать штекер](connectormanagementgui_d_steckerbearbeiten.md)
 * [Диалоговое окно Штекеры – <Имя проекта>](plugsgui_d_steckernavigator.md)
-

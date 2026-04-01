@@ -76,4 +76,3 @@
 
 * [Предварительно определить свойства соединения](connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
 * [Вкладка Общая дополнительная длина](connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)
-

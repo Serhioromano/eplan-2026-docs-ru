@@ -18,4 +18,3 @@
 
 * [Вкладка Экспорт (Пользователь, DXF)](xdxfgui_r_export.md)
 * [Диалоговое окно "Экспорт DXF/DWG"](xdxfgui_d_export.md)
-

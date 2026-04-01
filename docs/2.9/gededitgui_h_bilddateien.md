@@ -39,4 +39,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-

@@ -29,4 +29,3 @@
 
 * [База данных изделий](partsmanagementgui_k_start.md)
 * [Диалоговое окно Фильтр](modaldialogsdb_d_filternnach.md)
-

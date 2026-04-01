@@ -66,4 +66,3 @@ IDENTIFYBYNAMEINSTEADOFID |  Идентификация записей данн�
 
     Импортируйте данные изделия, которые ранее были изменены при внешней обработке:XMImportDCArticleDataAction
 /DataConfigurationFile:c:\\Eplan\\DataCfgFile.edc
-

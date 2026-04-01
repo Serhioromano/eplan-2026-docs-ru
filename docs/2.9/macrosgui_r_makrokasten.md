@@ -93,4 +93,3 @@
 
 * [Использовать рамки макросов](macrosgui_h_makrokasten.md)
 * [Вкладка Определение макроса](macrosgui_r_makrodefinition.md)
-

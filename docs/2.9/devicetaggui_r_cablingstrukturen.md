@@ -23,4 +23,3 @@
 * [Определить и форматировать свойства устройства](devicetaggui_h_bmkfestlegenundformatieren.md)
 * [Маршрутизация соединений между различными структурами идентификаторов](cablinggui_h_strukturenverbinden.md)
 * [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
-

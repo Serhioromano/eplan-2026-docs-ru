@@ -32,4 +32,3 @@
 * [Структура обозначения устройства](devicetaggui_k_aufbauvonbm.md)
 * [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
 * [Использовать определенный пользователем порядок свойств](devicetaggui_h_eigschanordnungen.md)
-

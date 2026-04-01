@@ -85,4 +85,3 @@
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Обозначить соединения](wirenumberinggui_h_verbnumbezeichnen.md)
 * [Диалоговое окно Обозначить соединения: Предварительный просмотр результата](wirenumberinggui_d_ergebnisbezeichnen.md)
-

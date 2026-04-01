@@ -150,4 +150,3 @@
 * [Диалоговое окно Формат: Комментарий](eservicesgui_d_formatkommentar.md)
 * [Определить свойства блока](blockproperties_h_blockeigenschaftendefinieren.md)
 * [Диалоговое окно Конфигурировать представление (дерево)](modaldialogsdb_d_baumkonfiguration.md)
-

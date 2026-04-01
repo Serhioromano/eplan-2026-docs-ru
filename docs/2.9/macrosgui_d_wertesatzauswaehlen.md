@@ -48,4 +48,3 @@
 * [Вкладка Объект-заполнитель](macrosgui_d_platzhalterobjekt.md)
 * [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
 * [Присвоить набор значений объекту-заполнителю](macrosgui_h_wertesatzzuweisen.md)
-

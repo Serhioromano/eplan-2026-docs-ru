@@ -35,4 +35,3 @@
 * [Проекты](projects_k_start.md)
 * [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
 * [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
-

@@ -36,4 +36,3 @@
 * [Вставить гиперссылки](gededitgui_h_hyperlinks.md)
 * [Вставить графические файлы](gededitgui_h_bilddateien.md)
 * [Внешние документы](pagebrowsergui_k_fremddokumente.md)
-

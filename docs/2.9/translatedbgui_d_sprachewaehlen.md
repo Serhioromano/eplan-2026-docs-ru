@@ -18,4 +18,3 @@
 
 * [Убрать перевод из проекта](translategui_h_entfernenuebersetzung.md)
 * [Импортировать список отсутствующих слов](translategui_h_fehlwortimport.md)
-

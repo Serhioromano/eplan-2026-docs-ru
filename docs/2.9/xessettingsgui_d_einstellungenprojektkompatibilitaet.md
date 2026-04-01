@@ -76,5 +76,3 @@
 * [Перенос обозначения вывода устройства](devicetaggui_k_anschlussbezuebergabe.md)
 * [Перенести обозначения выводов устройства](devicetaggui_h_anschlusbezuebernehmen.md)
 * [Вкладка Структура](prjmanagementgui_r_struktur.md)
-
-

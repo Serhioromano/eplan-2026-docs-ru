@@ -46,4 +46,3 @@
 * [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
 * [Диалоговое окно Штекеры – <Имя проекта>](plugsgui_d_steckernavigator.md)
 * [Диалоговое окно Обработать штекер](connectormanagementgui_d_steckerbearbeiten.md)
-

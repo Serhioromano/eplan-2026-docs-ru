@@ -28,4 +28,3 @@
 * [Рамки макросов: принцип](macrosgui_k_makrokaesten.md)
 * [Использовать рамки макросов](macrosgui_h_makrokasten.md)
 * [Автоматически генерировать макрос из проекта макросов](macrosgui_h_makrosausmakroprojekt.md)
-

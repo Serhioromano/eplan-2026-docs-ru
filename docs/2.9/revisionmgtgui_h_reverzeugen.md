@@ -64,4 +64,3 @@
 * [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
 * [Диалоговое окно Генерировать ревизию](revisionlogmgtgui_d_revisionerzeugen.md)
 * [Диалоговое окно Настройки: Ревизия (отслеживание изменений)](revisionlogmgtgui_d_einstellungenaenderung.md)
-

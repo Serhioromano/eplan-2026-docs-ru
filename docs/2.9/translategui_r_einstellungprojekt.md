@@ -151,4 +151,3 @@ EPLAN выполняет поиск соответствующего ключе�
 
 * [Отдельные слова, предложения, заполнители в ключевых словах](translatedbgui_k_eingabemoeglichkeit.md)
 * [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
-

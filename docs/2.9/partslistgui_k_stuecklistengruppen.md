@@ -14,4 +14,3 @@
 
 * [Спецификации](partslistgui_k_start.md)
 * [Диалоговое окно Спецификация — <Имя проекта>](partslistgui_d_artikelstueckliste.md)
-

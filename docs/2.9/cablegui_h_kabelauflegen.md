@@ -66,4 +66,3 @@
 **См. также:**
 
 * [Определение источника и цели](cablegui_k_quellezielermittlung.md)
-

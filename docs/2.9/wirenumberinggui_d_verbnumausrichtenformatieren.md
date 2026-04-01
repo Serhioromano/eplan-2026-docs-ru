@@ -32,4 +32,3 @@
 
 * [Нумерация соединений](wirenumberinggui_k_start.md)
 * [Заново выровнять и отформат. обозначения соединений](wirenumberinggui_h_verbnumausrichtenformatieren.md)
-

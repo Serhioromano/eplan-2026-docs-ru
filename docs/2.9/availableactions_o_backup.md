@@ -121,4 +121,3 @@ FILENAME  |  Имя резервируемого файла.
     /BACKUPMEDIA:DISK
     /SPLITSIZE:0.0
     /MDTYPE:STANDARDSHEET
-

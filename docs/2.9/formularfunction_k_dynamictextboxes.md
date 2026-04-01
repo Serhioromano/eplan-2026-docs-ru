@@ -23,4 +23,3 @@
 **См. также:**
 
 * [Функции формы](formularfunction_k_start.md)
-

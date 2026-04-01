@@ -17,4 +17,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: Компоновка электрошкафа 2D](panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
-

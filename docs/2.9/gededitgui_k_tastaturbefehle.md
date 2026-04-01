@@ -164,4 +164,3 @@
 * [Определить величины шага](gededitgui_h_schrittweitenfestlegen.md)
 * [Управление курсором с помощью клавиатуры](gededitgui_k_cursortastatur.md)
 * [Диалоговое окно Настройки: Комбинации клавиш](ot_d_tastenkombinationen.md)
-

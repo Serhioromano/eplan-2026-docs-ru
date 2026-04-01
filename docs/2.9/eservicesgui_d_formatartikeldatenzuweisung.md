@@ -25,4 +25,3 @@
 
 * [Диалоговое окно Формат](eservicesgui_d_format.md)
 * [Диалоговое окно Формат: Разделитель](eservicesgui_d_formattrennzeichen.md)
-

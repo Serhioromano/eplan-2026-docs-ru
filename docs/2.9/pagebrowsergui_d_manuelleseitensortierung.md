@@ -25,4 +25,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: страницы (проект)](pagebrowsergui_d_projekteinstellungen.md)
-

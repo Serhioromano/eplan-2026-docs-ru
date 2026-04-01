@@ -13,4 +13,3 @@ EPLAN поддерживает вас в процессе распределен
 * [ПЛК](plcgui_k_start.md)
 * [Символические адреса](plcgui_k_symbolischeadressen.md)
 * [Списки присвоений](plcgui_k_zuordnungslisten.md)
-

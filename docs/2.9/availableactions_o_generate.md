@@ -48,4 +48,3 @@ SELn |  Ид. объекта страниц, для которых необхо�
     /STARTVALUE:5
     /STEPVALUE:2
     /ONLYAUTOCABLES:0
-

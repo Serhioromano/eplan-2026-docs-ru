@@ -33,4 +33,3 @@
 * [Создать базовые проекты](projects_h_basisprojekterstellen.md)
 * [Создать шаблоны проектов](projects_h_projektvorlageerstellen.md)
 * [Режимы обработки при открытии проектов](projects_k_bearbeitungsmodusbeimoeffnen.md)
-

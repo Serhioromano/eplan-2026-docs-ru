@@ -58,4 +58,3 @@
 * [Диалоговое окно Формат: Разделитель](eservicesgui_d_formattrennzeichen.md)
 * [Диалоговое окно Формат: Адрес / текст](plcprocessorgui_d_formatadressetext.md)
 * [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
-

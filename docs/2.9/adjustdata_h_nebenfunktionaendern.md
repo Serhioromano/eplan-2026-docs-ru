@@ -27,4 +27,3 @@
 * [Преобразовать излишние главные функции](adjustdata_h_funktionkorrigieren.md)
 * [Синхронизировать распределенно представленные функции](adjustdata_h_funktionabgleichen.md)
 * [Синхронизация и корректировочный прогон](adjustdata_k_start.md)
-

@@ -47,4 +47,3 @@
 * [Импорт файлов конфигурации ПЛК](plcgui_k_importbuskonfig.md)
 * [Сжать проект](projectcleangui_h_projektsaeubern.md)
 * [Корректировать проект](ProjectCorrectionGui_h_projektkorrigieren.md)
-

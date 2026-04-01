@@ -40,4 +40,3 @@
 **См. также:**
 
 * [Диалоговое окно Формат: Вычисление](eservicesgui_d_formatberechnung.md)
-

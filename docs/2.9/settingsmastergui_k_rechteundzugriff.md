@@ -22,4 +22,3 @@
 * [ Управление правами](uradministration_k_start.md)
 * [ Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.md)
 * [ Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
-

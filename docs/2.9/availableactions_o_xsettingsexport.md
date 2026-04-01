@@ -18,4 +18,3 @@ XMLFile  |  Каталог и имя целевого файла. Можно т�
 !!! example "Пример:"
 
     Экспорт всех настроек пользователя:XSettingsExport /node:USER /XMLFile:c:my_user.xmlЭкспорт всех настроек из определенного проекта:XSettingsExport /prj:DEMO_D /XMLFile:c:my_project.xml
-

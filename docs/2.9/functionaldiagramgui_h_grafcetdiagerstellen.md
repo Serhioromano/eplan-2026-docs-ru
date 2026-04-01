@@ -76,4 +76,3 @@
 
 * [Порядок создания блок-схем рабочего процесса](functionaldiagramgui_k_funktionsdiagramme.md)
 * [Диаграммы GRAFCET](functionaldiagramgui_k_grafcet.md)
-

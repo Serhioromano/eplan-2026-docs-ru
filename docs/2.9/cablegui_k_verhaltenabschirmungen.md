@@ -41,4 +41,3 @@
 * [Определение кабелей](cablegui_k_arbeitsweise.md)
 * [Графическое представление кабелей и экранирований](cablegui_k_grafischedarstellung.md)
 * [Позиция и форматирование свойств кабелей](cablegui_k_kabelbezeichnungformat.md)
-

@@ -42,4 +42,3 @@
 
 * [Вставка / размещение устройств](devicelistgui_k_platzieren.md)
 * [Процедура удаления и копирования устройств](devicelistgui_k_loeschenkopieren.md)
-

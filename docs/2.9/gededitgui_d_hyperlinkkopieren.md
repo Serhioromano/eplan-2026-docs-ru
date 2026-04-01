@@ -22,4 +22,3 @@
 
 * [Графический редактор](gededitgui_k_start.md)
 * [Вставить гиперссылки](gededitgui_h_hyperlinks.md)
-

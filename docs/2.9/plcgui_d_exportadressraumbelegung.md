@@ -32,4 +32,3 @@
 **См. также:**
 
 * [Диалоговое окно Настройки: ПЛК](plcgui_d_allgemeinespseinstellungen.md)
-

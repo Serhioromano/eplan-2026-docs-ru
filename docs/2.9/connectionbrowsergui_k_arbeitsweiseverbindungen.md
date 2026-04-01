@@ -63,4 +63,3 @@
 * [Чертить точки обозначения соединения](connectionbrowsergui_h_definitionspunktezeichnen.md)
 * [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-

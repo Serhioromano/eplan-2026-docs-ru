@@ -40,4 +40,3 @@
 * [Диалоговое окно Нумерация соединений: Форматы](wirenumberinggui_d_verbnumformate.md)
 * [Произвести настройки для нумерации соединений](wirenumberinggui_h_einstellungen.md)
 * [Определить сетевое расширение для нумерации соединений](wirenumberinggui_h_netzerweiterung.md)
-

@@ -33,4 +33,3 @@
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
 * [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
-

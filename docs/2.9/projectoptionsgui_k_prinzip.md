@@ -69,4 +69,3 @@
 
 * [Опции](projectoptionsgui_k_start.md)
 * [Включить и выключить опции](projectoptionsgui_h_optioneneinaus.md)
-

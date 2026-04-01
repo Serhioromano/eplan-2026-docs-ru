@@ -30,5 +30,3 @@
 * [Вкладки <Категория функции > / <Категория функции> (Устройство)](devicetaggui_r_bmdaten.md)
 * [Диалоговое окно Конфигурировать свойства](modaldialogsdb_d_eigenschaftsanordnung.md)
 * [Свойства EPLAN: Обзор](properties_o_main.md)
-
-

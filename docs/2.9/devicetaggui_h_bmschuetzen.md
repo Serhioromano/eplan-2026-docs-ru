@@ -63,4 +63,3 @@
 * [Защита устройства](devicetaggui_k_geschuetztebm.md)
 * [Использование защищенных устройств](devicetaggui_k_geschuetztebmverwendung.md)
 * [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
-

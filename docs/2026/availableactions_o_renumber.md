@@ -178,4 +178,3 @@ MARKASMANUAL  |  Соответствует настройке **Выделит�
 /PREFIX:p_
 /SUFFIX:_s
 /USESELECTION:1
-

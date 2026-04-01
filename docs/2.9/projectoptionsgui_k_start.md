@@ -12,4 +12,3 @@ EPLAN поддерживает возможность создания исхо�
 
 * [Опции проекта: Принцип](projectoptionsgui_k_prinzip.md)
 * [Отчеты для опций и объектов-заполнителей](projectoptionsgui_k_auswertungen.md)
-

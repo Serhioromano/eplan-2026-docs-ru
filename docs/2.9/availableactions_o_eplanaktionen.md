@@ -94,4 +94,3 @@ XGedClosePage |  Закрывает все выбранные страницы. 
 **См. также:**
 
 * [Операции EPLAN](availableactions_k_start.md)
-

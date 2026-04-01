@@ -29,4 +29,3 @@
 * [Типы страниц](pagebrowsergui_k_seitentypen.md)
 * [Резервирование данных](bakbackupdlggui_k_start.md)
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
-

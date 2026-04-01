@@ -13,4 +13,3 @@
 * [Поиск и замена идентификаторов](pleditorgui_h_kennzsuchen.md)
 * [Проверить идентификаторы](pleditorgui_h_kennzpruefen.md)
 * [Удалить идентификаторы](pleditorgui_h_kennzloeschen.md)
-

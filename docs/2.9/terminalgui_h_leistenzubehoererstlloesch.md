@@ -62,4 +62,3 @@
 **См. также:**
 
 * [Диалоговое окно Обработать клеммник](stripmanagementgui_d_klemmenleistebearbeiten.md)
-

@@ -79,4 +79,3 @@
 * [Вставить точки маршрутизации (топология)](cablinggui_h_verlegepunkteeinfuegen.md)
 * [Маршрутизировать соединения (топологию)](cablinggui_h_verlegen.md)
 * [Вкладка Подключенные структуры](devicetaggui_r_cablingstrukturen.md)
-

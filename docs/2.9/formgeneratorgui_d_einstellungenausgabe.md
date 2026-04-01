@@ -82,4 +82,3 @@
 * [Штекер](plugsgui_k_start.md)
 * [Соединения](connectionbrowsergui_k_start.md)
 * [Кабель](cablegui_k_start.md)
-

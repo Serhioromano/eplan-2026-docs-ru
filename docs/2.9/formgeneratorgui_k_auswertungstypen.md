@@ -71,4 +71,3 @@
 * [Присвоение формы типу отчета](formgeneratorgui_h_auswerten.md)
 * [Генерация относящегося к функции отчета без шаблона](formgeneratorgui_h_funkbezogauswerterzeugen.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
-

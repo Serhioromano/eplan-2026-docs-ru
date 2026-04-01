@@ -32,4 +32,3 @@
 
 * [Диалоговое окно Свойства страницы / Новая страница](pagebrowsergui_d_seiteneigenschaften.md)
 * [Создать и удалить страницы](pagebrowsergui_h_seitenanlegen.md)
-

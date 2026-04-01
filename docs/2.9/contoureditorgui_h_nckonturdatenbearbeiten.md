@@ -37,4 +37,3 @@
 
 * [Диалоговое окно Запись данных контура ЧУ](contoureditorgui_d_ncdatensatz.md)
 * [Запись данных ЧУ: принцип](ncgui_k_ncdatensatz.md)
-

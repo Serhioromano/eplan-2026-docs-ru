@@ -14,4 +14,3 @@
 
 * [Определить языки перевода и языки отображения](translategui_h_sprachenwaehlen.md)
 * [Переводить во время ввода](translategui_h_onlineuebersetzen.md)
-

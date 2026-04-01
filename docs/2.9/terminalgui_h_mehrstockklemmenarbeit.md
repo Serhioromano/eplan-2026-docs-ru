@@ -64,4 +64,3 @@
 
 * [Многоуровневые клеммы](terminalgui_k_mehrstockklemmen.md)
 * [Вкладка Клемма](devicetaggui_r_klemmen.md)
-

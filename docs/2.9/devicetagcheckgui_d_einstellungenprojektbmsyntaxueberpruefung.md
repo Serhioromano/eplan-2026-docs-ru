@@ -63,4 +63,3 @@
 **См. также:**
 
 * [Проверить обозначение устройства](devicetagcheckgui_h_bmueberpruefen.md)
-

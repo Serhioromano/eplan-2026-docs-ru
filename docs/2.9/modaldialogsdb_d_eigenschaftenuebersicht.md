@@ -39,4 +39,3 @@
 
 * [Обзор свойств](userinterface_k_eigenschaftenuebersicht.md)
 * [Схемы](schemeconfig_k_start.md)
-

@@ -14,4 +14,3 @@
 
 * [Вставить макросы](macrosgui_h_makrosauswaehlen.md)
 * [Диалоговое окно Импорт DXF/DWG](xdxfgui_d_import.md)
-

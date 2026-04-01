@@ -28,4 +28,3 @@
 * [Шаблоны для новых проектов](projects_k_basisprojekt.md)
 * [Создать проекты](projects_h_projekteerstellen.md)
 * [Создать базовые проекты](projects_h_basisprojekterstellen.md)
-

@@ -45,4 +45,3 @@
 * [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
 * [Диалоговое окно Клеммники <Имя проекта>](terminalgui_d_klemmennavigator.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-
