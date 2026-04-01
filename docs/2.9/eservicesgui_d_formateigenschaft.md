@@ -26,6 +26,4 @@
 * [Диалоговое окно Формат: Комментарий](eservicesgui_d_formatkommentar.md)
 * [Диалоговое окно Формат: Вычисление](eservicesgui_d_formatberechnung.md)
 * [Определить свойства блока](blockproperties_h_blockeigenschaftendefinieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

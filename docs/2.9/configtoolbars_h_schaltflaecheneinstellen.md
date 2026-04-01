@@ -30,6 +30,4 @@
 * [Диалоговое окно Конфигурировать кнопку](modaldialogs_d_einstellungenschaltflaeche.md)
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

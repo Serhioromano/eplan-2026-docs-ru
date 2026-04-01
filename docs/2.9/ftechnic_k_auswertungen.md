@@ -9,6 +9,4 @@
 * [EPLAN Fluid: Разделы](ftechnic_k_gewerke_an_schaltzeichen.md)
 * [Логическая схема выводов устройства функций Fluid-техники](ftechnic_k_anschlusslogik_fluidfunktionen.md)
 * [Оценка и вывод списков труб / шлангов](ftechnic_h_verrohrungsliste_auswerten_ausgeben.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -31,6 +31,4 @@
 * [Свойства соединения](connectionbrowsergui_k_verbindungseigenschaften.md)
 * [Определить свойства соединения посредством точек определения соединения](connectionbrowsergui_h_vdpeigenschaften.md)
 * [Чертить точки обозначения соединения](connectionbrowsergui_h_definitionspunktezeichnen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

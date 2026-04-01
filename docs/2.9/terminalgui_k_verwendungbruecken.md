@@ -80,6 +80,4 @@
 * [Создание перемычек](terminalgui_h_brueckenarbeiten.md)
 * [Вкладка Соединения](devicetaggui_r_verbindungenklemmen.md)
 * [Соединения: Принцип работы](connectionbrowsergui_k_arbeitsweiseverbindungen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

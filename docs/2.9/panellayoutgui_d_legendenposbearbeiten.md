@@ -27,6 +27,4 @@
 * [Обработать позиции легенды](panellayoutgui_h_legendenaktualisieren.md)
 * [Диалоговое окно "Конфигурировать представление"](modaldialogsdb_d_spaltenkonfiguration.md)
 * [Диалоговое окно Нумеровать](panellayoutgui_d_nummerieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

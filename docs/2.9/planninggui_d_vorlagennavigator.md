@@ -76,6 +76,4 @@
 * [Создать и обработать шаблоны сегментов](planninggui_h_segmentvorlageeerstellen.md)
 * [Присвоить шаблоны сегментов](planninggui_h_segmentvorlagezuordnen.md)
 * [Создать и обработать классы трубы и вещества](planninggui_h_rohrklasseerstellen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

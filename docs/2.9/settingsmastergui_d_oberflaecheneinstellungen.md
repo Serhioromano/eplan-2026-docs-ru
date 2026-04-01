@@ -88,6 +88,4 @@
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
 * [Режимы обработки при открытии проектов](projects_k_bearbeitungsmodusbeimoeffnen.md)
 * [Многоязычные тексты](translategui_k_mehrsprachigetexte.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

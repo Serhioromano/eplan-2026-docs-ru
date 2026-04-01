@@ -38,6 +38,4 @@
 * [Диалоговое окно Определения функций](xfctdefbrowsergui_d_funktionsdefinitionen.md)
 * [Изменить функции](xfctdefbrowsergui_h_funktionaendern.md)
 * [Заменить определения функций](xfctdefbrowsergui_h_funktionsdeftauschen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

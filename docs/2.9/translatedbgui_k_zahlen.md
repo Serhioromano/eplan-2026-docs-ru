@@ -70,6 +70,4 @@ Terminal with ***3*** connectors |  Terminal with ***%0*** connectors
 
 * [Создать ключевые слова](translatedbgui_h_stichwortanlegen.md)
 * [Зарезервированные специальные символы в ключевых словах](translatedbgui_k_ueberblickzeichen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

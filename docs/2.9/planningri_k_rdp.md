@@ -62,6 +62,4 @@
 * [Выделить и обработать трассу трубопровода](planningri_h_rohrleitungmarkieren.md)
 * [Вставить прерывания для трубопроводов](planningri_h_rohrleitungunterbrechen.md)
 * [Перечни отчетов](formgeneratorgui_k_auswertungsuebersicht.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

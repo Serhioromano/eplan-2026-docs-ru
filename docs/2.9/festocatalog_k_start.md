@@ -17,6 +17,4 @@
 * [Импортировать изделия из каталога продуктов Festo](festocatalog_h_artikelimportieren.md)
 * [Выбрать изделия из каталога продуктов Festo](festocatalog_h_artikelauswaehlen.md)
 * [Отобразить гиперссылки на Web-узел Festo](festocatalog_h_hyperlinksanzeigen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

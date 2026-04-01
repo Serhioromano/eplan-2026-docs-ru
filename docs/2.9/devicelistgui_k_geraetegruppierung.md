@@ -58,6 +58,4 @@
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
 * [Свойства блока](blockproperties_k_start.md)
 * [Работать с группами элементов](gededitgui_h_elementegruppieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

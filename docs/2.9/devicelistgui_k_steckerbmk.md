@@ -34,6 +34,4 @@
 * [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
 * [Выбрать изделие в Навигаторах или из списка устройств](partselectiongui_h_artikelauswahlnavigator.md)
 * [Присвоить данные функции условному обозначению](navigatorgui_h_funktionzuweisen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

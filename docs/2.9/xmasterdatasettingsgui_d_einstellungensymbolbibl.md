@@ -50,6 +50,4 @@
 
 * [Обработать библиотеки символов](symboleditorgui_h_symbolbibliothekenbearbeiten.md)
 * [Диалоговое окно Настройки: Общие (проекты, управление)](xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

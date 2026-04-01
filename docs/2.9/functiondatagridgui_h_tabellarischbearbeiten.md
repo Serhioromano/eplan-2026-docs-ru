@@ -34,6 +34,4 @@
 * [Табличная обработка](functiondatagridgui_k_start.md)
 * [Диалоговое окно Табличная обработка — <Имя проекта>](functiondatagridgui_d_tabellarischbearbeiten.md)
 * [Диалоговое окно Настройки: Табличная обработка](functiondatagridgui_d_schematabellarischebearbeitung.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

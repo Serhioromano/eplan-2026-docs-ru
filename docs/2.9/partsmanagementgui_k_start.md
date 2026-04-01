@@ -22,6 +22,4 @@
 * [Обработать цены](partsmanagementgui_h_preisewaehrungenbearbeiten.md)
 * [Управление многоязычными данными изделий](partsmanagementgui_h_mehrsprachigeartikelverwalten.md)
 * [Использование представления в виде списка](partsmanagementgui_h_listenutzen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

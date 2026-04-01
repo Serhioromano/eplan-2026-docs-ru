@@ -139,6 +139,4 @@
 * [Определить многоуровневые клеммы](terminalgui_h_mehrstockklemmenarbeit.md)
 * [Сортировать клеммы](terminalgui_h_klemmensort.md)
 * [Диалоговое окно Настройки: Совместимость](xessettingsgui_d_einstellungenprojektkompatibilitaet.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

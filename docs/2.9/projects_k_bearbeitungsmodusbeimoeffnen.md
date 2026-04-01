@@ -21,6 +21,4 @@
 * [Проекты](projects_k_start.md)
 * [Создать проекты](projects_h_projekteerstellen.md)
 * [Синхронизировать основные данные](xmasterdatasettingsgui_h_stammdatenabgleichen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

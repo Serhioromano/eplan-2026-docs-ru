@@ -28,6 +28,4 @@
 * [Диалоговое окно Настройки: Сборка проводов](productionwiringgui_d_einstellungendrahtkonfektionierung.md)
 * [Конфигурировать машину по сборке проводов](productionwiringgui_h_maschinekonfigurieren.md)
 * [Генерировать данные изготовления для машин по сборке проводов](productionwiringgui_k_start.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -20,6 +20,4 @@
 * [Нормоконтроль: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
 * [Создать схему сравнения настроек](processreceiptcontrol_h_vergleichsschema.md)
 * [Проверить проект](processreceiptcontrol_h_eingangskontrolvorber.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

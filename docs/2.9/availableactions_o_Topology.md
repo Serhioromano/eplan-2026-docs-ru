@@ -12,6 +12,4 @@ CreateFunctions: Автоматически генерирует функции 
 
     Маршрутизировать соединения топологии:Topology /TYPE:RouteConnections /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elkГенерировать функции топологии:Topology /TYPE:CreateFunctions /PROJECTNAME:C:\Projects\EPLANDEMO2_D.elk
 
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

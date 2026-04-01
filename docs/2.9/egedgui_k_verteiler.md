@@ -42,6 +42,4 @@
 * [Символы соединения: Сборные шины](egedgui_k_sammelschienen.md)
 * [Точки разрыва: Перекрестные ссылки](interruptionpointgui_k_darstellungabbruchstellen.md)
 * [Распределители в топологии](cablinggui_k_verteilertopologie.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

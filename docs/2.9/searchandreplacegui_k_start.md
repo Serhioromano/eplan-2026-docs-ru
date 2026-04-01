@@ -19,6 +19,4 @@
 * [Заменить данные проекта](searchandreplacegui_h_ersetzen.md)
 * [Обработать записи для поиска](searchandreplacegui_h_bearbeiten.md)
 * [Синхронизировать выбор](searchandreplacegui_h_auswahlsynchronisieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

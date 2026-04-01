@@ -15,6 +15,4 @@
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
 * [Заменить настройки](settingsmastergui_h_einstellungenaustauschen.md)
 * [Сброс настроек на стандартные значения](settingsmastergui_h_einstellungenaufstandard.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

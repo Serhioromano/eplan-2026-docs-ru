@@ -42,6 +42,4 @@
 * [Синхронизировать сохраненные изделия с базой данных изделий](partselectiongui_h_artikeldateneinlagern.md)
 * [Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

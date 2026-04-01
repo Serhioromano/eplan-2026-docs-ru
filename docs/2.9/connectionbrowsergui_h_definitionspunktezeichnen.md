@@ -21,6 +21,4 @@
 * [Соединения](connectionbrowsergui_k_start.md)
 * [Точки обозначения соединения](connectionbrowsergui_k_vdp.md)
 * [Просмотреть и обработать свойства соединения](connectionbrowsergui_h_eigenschaftenbearbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

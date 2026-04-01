@@ -230,6 +230,4 @@
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Настроить кнопки панели инструментов для действий или меню](configtoolbars_h_schaltflaecheneinstellen.md)
 * [Операция: XGedStartInteractionAction](availableactions_o_xgedstartinteractionaction.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

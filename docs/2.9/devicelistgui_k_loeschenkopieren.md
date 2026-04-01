@@ -39,6 +39,4 @@
 * [Устройства](devicelistgui_k_start.md)
 * [Принцип работы при вставке устройств](devicelistgui_k_vorgehengeraeteeinfuegen.md)
 * [Управление неразмещенными вспомогательными функциями на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

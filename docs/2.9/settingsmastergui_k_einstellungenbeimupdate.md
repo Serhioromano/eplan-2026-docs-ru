@@ -10,6 +10,4 @@
 * [Настройки: Принцип работы](settingsmastergui_k_arbeitsweise.md)
 * [Диалоговое окно Настройки](settingsmastergui_d_systeinstellungen.md)
 * [Просмотр и изменение настроек](settingsmastergui_h_einstellungenansehen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

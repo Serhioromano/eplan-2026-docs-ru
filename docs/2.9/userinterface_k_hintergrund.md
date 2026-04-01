@@ -21,6 +21,4 @@
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
 * [Управление EPLAN с помощью клавиатуры](userinterface_h_eplanmittastaturbedienen.md)
 * [Настройка панелей инструментов](userinterface_h_symbolleistenanpassen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

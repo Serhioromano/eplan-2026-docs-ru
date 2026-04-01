@@ -22,6 +22,4 @@
 * [Проверить проекты](msgmanagementgui_h_prueflauf.md)
 * [Проверить данные проекта в режиме подключения](msgmanagementgui_h_prueflaufonline.md)
 * [Проверить основные данные изделия](msgmanagementgui_h_artikelstammdatenpruefen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

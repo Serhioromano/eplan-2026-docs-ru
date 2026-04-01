@@ -24,6 +24,4 @@
 * [Считать каталоги и проекты](prjmanagementgui_h_verzeichniseinlesen.md)
 * [Обработать основные персональные данные](partsmanagementgui_h_kundenbearbeiten.md)
 * [Открыть проект (Управление проектами)](prjmanagementgui_h_projektoeffnen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

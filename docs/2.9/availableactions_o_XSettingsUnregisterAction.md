@@ -10,6 +10,4 @@ allowAutoInstall |  Если для этого параметра установ
 
     Отмена регистрации Add-ons с помощью указания пути к файлу, в котором находится Add-on:XSettingsUnregisterAction /Path:c:\MyAddOnОтмена регистрации Add-ons с помощью указания полного пути к файлу install.xml:XSettingsUnregisterAction /InstallFile: c:\MyAddOn\CFG\Install.xml
 
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

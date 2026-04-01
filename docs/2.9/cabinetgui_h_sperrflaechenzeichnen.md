@@ -33,6 +33,4 @@
 * [Активировать монтажные поверхности](cabinetgui_h_aktivierenautomatisch.md)
 * [Диалоговое окно Настройки: Сообщения и контрольные прогоны](xesinspectiongui_d_einstellungenmeldungen.md)
 * [Начертить запретные зоны для сверления](cabinetgui_h_bohrsperrflaechenzeichnen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

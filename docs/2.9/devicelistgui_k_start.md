@@ -38,6 +38,4 @@
 * [Создать определения устройств](devicelistgui_h_geraetedefinitionenanlegen.md)
 * [Обработать список устройств](devicelistgui_h_geraetelistebearbeiten.md)
 * [Вставить устройства](devicelistgui_h_geraeteeinfuegen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

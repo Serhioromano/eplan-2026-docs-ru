@@ -85,6 +85,4 @@
 * [Диалоговое окно Буфер обмена](macrosgui_d_zwischenablage.md)
 * [Многопользовательский режим](xesmultiuserconflictgui_k_start.md)
 * [Обновить соединения](connectionbrowsergui_h_verbindungenbearbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

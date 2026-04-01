@@ -21,6 +21,4 @@
 * [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
 * [Вкладка Структура](prjmanagementgui_r_struktur.md)
 * [Обозначение страниц согласно стандарту DIN EN 61355-1](projectstructure_k_objektkennzeichen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

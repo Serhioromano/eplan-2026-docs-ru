@@ -38,6 +38,4 @@
 * [Многопользовательский режим](xesmultiuserconflictgui_k_start.md)
 * [Диалоговое окно Многопользовательский конфликт](xesmultiuserconflictgui_d_konflikte.md)
 * [Диалоговое окно Настройки: Ид. пользователя / адрес](xusersettingsgui_d_einstellungenmehrbenutzer.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

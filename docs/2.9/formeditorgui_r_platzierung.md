@@ -90,6 +90,4 @@
 * [Направление создания отчета форм](formeditorgui_k_auswertungsrichtung.md)
 * [Вставить и обработать тексты заполнители](formeditorgui_h_platzhaltertexteeinfuegen.md)
 * [Вставить QR-код](gededitgui_h_qrcodes.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

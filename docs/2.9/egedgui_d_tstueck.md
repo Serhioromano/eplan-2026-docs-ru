@@ -29,6 +29,4 @@
 * [Диалоговое окно Настройки: Символы соединения](gedviewer_d_einstellungenverbindungssymbole.md)
 * [Символы соединения: Отображение направления соединений](egedgui_k_darstellungverbindungspunkte.md)
 * [Вставить символы соединений](egedgui_h_verbindungsstueckeeinfuegen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

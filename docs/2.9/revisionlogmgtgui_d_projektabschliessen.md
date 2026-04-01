@@ -49,6 +49,4 @@
 * [Управление ревизиями: Принцип](revisionmgtgui_k_prinzip.md)
 * [Закрыть проекты / области обработки](revisionmgtgui_h_projektabschliessen.md)
 * [Закрыть страницы](revisionmgtgui_h_seitenabschliessen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

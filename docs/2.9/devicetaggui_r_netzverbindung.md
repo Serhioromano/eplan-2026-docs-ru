@@ -78,6 +78,4 @@
 * [Определение шлейфов](netbasedwires_h_verbindungsketten.md)
 * [Определение потенциалов и сигналов](potentialbrowsergui_k_prinzippotenziale.md)
 * [Диалоговое окно Настройки: Общие (проект, соединения)](connectionsettingsgui_d_einstellungenallgemein.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

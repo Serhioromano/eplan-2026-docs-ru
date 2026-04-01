@@ -46,6 +46,4 @@
 * [Обработка фрагментов](projectoptionsgui_h_ausschnittebearbeiten.md)
 * [Опции](projectoptionsgui_k_start.md)
 * [Генерировать объекты-заполнители](macrosgui_h_platzhalterobjekteerzeugen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

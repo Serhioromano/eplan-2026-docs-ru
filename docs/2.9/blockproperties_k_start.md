@@ -12,6 +12,4 @@
 * [ Свойства блока: Принцип](blockproperties_k_prinzip.md)
 * [ Предварительное определение свойств блока](blockproperties_k_vordefinition.md)
 * [ Определить свойства блока](blockproperties_h_blockeigenschaftendefinieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

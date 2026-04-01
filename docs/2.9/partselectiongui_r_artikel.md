@@ -74,6 +74,4 @@
 * [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
 * [Присвоить изделия устройству](devicetaggui_h_artikeldatenzuweisen.md)
 * [Сохранить данные ссылки изделия на функции](partselectiongui_h_artikeldatenanschaltzeichen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

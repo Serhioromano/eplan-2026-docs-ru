@@ -33,6 +33,4 @@
 * [Обработка схем](schemeconfig_h_schematabearbeiten.md)
 * [Генерация перечня отчетов без шаблона](formgeneratorgui_h_auswerterzeugen.md)
 * [Генерация отчета из шаблона](formgeneratorgui_h_auswertungausvorlage.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

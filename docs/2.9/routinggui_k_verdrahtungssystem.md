@@ -29,6 +29,4 @@
 * [Вставить соединительные отверстия для проводов](routinggui_h_verdrahtungsdurchbrucheinfuegen.md)
 * [Вставить области маршрутизации](routinggui_h_verlegebereicheinfuegen.md)
 * [Определить соединительные отверстия для проводов на гребенках для проводов](contoureditorgui_h_durchbrverdrahtungskaemdefinieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

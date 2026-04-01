@@ -29,6 +29,4 @@
 * [Переместить исходную точку координат](gededitgui_h_bezugspunktverschiebung.md)
 * [Ввести координаты при черчении](gededitgui_h_koordinatenbeimzeichnen.md)
 * [Диалоговое окно Ввод координат](gededitgui_d_koordinateneingabe.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

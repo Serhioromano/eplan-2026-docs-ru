@@ -43,6 +43,4 @@
 * [Фильтровать изделия](partsmanagementgui_h_artikelfiltern.md)
 * [Вкладка Определенные пользователем свойства](partsmanagementgui_r_konfigeigenschaften.md)
 * [Вкладка Произвольн. свойства](partsmanagementgui_r_zusatztexte.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

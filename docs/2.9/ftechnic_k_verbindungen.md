@@ -66,6 +66,4 @@ EPLAN Fluid поддерживает соответствующие станда
 * [Управление слоями](layermanager_d_ebenenverwaltung.md)
 * [Определить и выделить цветом трубопроводы Fluid](ftechnic_h_fluidleitungen_farblich_hervorheben.md)
 * [EPLAN Fluid: Определение групп соединений и проводов](ftechnic_k_schlauchpakete.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

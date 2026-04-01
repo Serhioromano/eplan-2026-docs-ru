@@ -32,6 +32,4 @@
 * [Генерация отчета по проекту](formgeneratorgui_h_projektauswerten.md)
 * [Автоматическое / не автоматическое обновление отчета](formgeneratorgui_h_automatischaktualisieren.md)
 * [Закрепить страницы отчета](formgeneratorgui_h_auswerteinfrieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -71,6 +71,4 @@
 * [Управление клеммниками](terminalgui_k_verwaltungleisten.md)
 * [Управление клеммами](terminalgui_k_verwaltung.md)
 * [Особенности навигаторов](userinterface_k_besonderheitennavigatoren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

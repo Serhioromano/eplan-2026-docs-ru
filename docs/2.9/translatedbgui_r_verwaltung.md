@@ -40,6 +40,4 @@
 * [Создать словарь](translatedbgui_h_woerterbuchanlegen.md)
 * [Добавить язык словаря](translatedbgui_h_woerterbuchanlegen.md)
 * [Удалить язык словаря](translatedbgui_h_woerterbuchanlegen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

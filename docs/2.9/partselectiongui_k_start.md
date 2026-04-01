@@ -44,6 +44,4 @@
 * [Генерировать изделия из данных схемы соединений](partselectiongui_h_artikelausschaltplan.md)
 * [Удалить свойства сохраненных изделий](partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
 * [Определить предварительный выбор изделия](partselectiongui_h_artikelvorauswahl.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

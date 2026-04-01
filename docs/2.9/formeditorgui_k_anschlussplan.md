@@ -31,6 +31,4 @@
 
 * [Вставить вилки соединений и линии кабелей в схемы подключений](formularfunction_h_insforksandcablesintoconndiagrams.md)
 * [Вставить фиксированную графику в схемы подключений](formularfunction_h_insfixedgraphicsintoconndiagrams.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -27,6 +27,4 @@
 * [Генерировать перекрестные ссылки оборудования](xessettingsgui_h_symbolquerverweiseerzeugen.md)
 * [Защита от изменений](devicetaggui_k_aenderungsschutz.md)
 * [Защита устройства](devicetaggui_k_geschuetztebm.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

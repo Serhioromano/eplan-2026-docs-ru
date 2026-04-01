@@ -47,6 +47,4 @@
 * [Функции](xfctdefbrowsergui_k_start.md)
 * [Функции: Принцип](xfctdefbrowsergui_k_prinzip.md)
 * [База данных изделий](partsmanagementgui_k_start.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

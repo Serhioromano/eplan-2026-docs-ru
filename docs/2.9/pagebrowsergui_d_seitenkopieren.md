@@ -44,6 +44,4 @@
 * [Адаптировать структуру страниц](pagebrowsergui_h_seitenstrukturanpassen.md)
 * [Нумеровать и переименовать страницы](pagebrowsergui_h_seitennummerieren.md)
 * [Обработать свойства страниц](pagebrowsergui_h_eigenschaftenbearbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

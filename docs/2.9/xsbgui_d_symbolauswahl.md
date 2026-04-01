@@ -99,6 +99,4 @@
 * [Диалоговое окно Настройки: Библиотеки символов](xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
 * [Разместить символы](xsbgui_h_symboleplatzieren.md)
 * [Заменить символы](xfctdefbrowsergui_h_symboltauschen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

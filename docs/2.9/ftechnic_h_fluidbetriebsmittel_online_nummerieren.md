@@ -67,6 +67,4 @@
 * [EPLAN Fluid: Структура устройства](ftechnic_k_betriebsmittelstruktur.md)
 * [Диалоговое окно Настройки: Синтаксическая проверка ОУ](devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
 * [Диалоговое окно Настройки: Нумерация (online)](numerationgui_d_einstellnummerierung.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

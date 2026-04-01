@@ -80,6 +80,4 @@
 * [Форматы адресов](plcprocessorgui_k_adressformate.md)
 * [Списки присвоений](plcgui_k_zuordnungslisten.md)
 * [Выделить потенциалы, сигналы или сеть](potentialbrowsergui_h_potenzialverfolgung.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -40,6 +40,4 @@
 * [Вкладка "Граница схемы сверления"](cabinetgui_r_bohrbildkasten.md)
 * [Генерировать схемы сверления из файлов DXF / DWG](propanelmasterdata_h_bohrbildausdxfdaten.md)
 * [Рисование блоков ломаными линиями](blackbox_h_polygonalekaesten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

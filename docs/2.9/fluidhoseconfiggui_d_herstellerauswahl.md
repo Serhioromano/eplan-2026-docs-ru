@@ -15,6 +15,4 @@
 * [Диалоговое окно "Обработать ++...++ "](fluidhoseconfiggui_d_schlauchleitungenbearbeiten.md)
 * [Диалоговое окно Настройки: Конфигуратор шлангопроводов](fluidhoseconfiggui_d_einstellungen.md)
 * [[Конфигурировать шлангопроводы](fluidhoseconfiggui_h_schlauchleitungenbearbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

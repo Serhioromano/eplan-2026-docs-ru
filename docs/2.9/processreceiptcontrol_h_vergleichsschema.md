@@ -27,6 +27,4 @@
 * [Проверка проекта: Способ действий](processreceiptcontrol_k_vorgehensweise.md)
 * [Проект для сравнения и проект с замечаниями](processreceiptcontrol_k_projekte.md)
 * [Генерировать проект для сравнения](revisionmgtgui_h_vergleichsprojekterzeugen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

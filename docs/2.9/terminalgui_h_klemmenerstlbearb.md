@@ -38,6 +38,4 @@
 * [Вставить клеммы и определения клеммников](terminalgui_h_klemmenzeichnen.md)
 * [Обработать свойства устройств](devicetaggui_h_bmeigenschaftenbearbeiten.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

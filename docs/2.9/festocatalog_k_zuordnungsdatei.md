@@ -175,6 +175,4 @@ if ([#SymbolId] == "<Номер для заказа>") 22146 = "<Подката�
 * [Свойства EPLAN](properties_k_prinzip.md)
 * [Обзор свойств изделий EPLAN](festocatalog_k_listeeigenschaften.md)
 * [Обзор записей в раскрывающихся списках](festocatalog_k_listeauswahllisten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

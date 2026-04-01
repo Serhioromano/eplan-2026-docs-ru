@@ -55,6 +55,4 @@
 * [Компоновка электрошкафа 2D](panellayoutgui_k_start.md)
 * [Диалоговое окно Настройки: Компоновка электрошкафа 2D](panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
 * [Вкладка Размещение изделия](devicetaggui_r_artikelplatzierung.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

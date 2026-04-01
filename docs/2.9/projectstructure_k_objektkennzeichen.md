@@ -30,6 +30,4 @@
 * [Определить структуру проекта](projectstructure_h_prjstrukturdefinieren.md)
 * [Структурирование проектов согласно стандарту EN 81346](projectstructure_k_referenzkennzeichnung.md)
 * [Диалоговое окно Структура страницы](prjmanagementgui_d_seitenstruktur.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

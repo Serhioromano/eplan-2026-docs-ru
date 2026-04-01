@@ -19,6 +19,4 @@
 * [Добавить изделие](partslistgui_h_artikelhinzufuegen.md)
 * [Учитывать изделия у соединений](partslistgui_h_artikelanverbindungen.md)
 * [Диалоговое окно Спецификация — <Имя проекта>](partslistgui_d_artikelstueckliste.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

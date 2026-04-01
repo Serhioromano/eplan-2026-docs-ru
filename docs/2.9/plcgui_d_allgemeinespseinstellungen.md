@@ -52,6 +52,4 @@
 * [Диалоговое окно Настройки: Специфич. для ПЛК](plcprocessorgui_d_spsspezifischeeinstellungen.md)
 * [Макрос для генерации схемы соединений ПЛК](plcgui_k_makrosschaltplanerzeugen.md)
 * [Оценка функциональных текстов зон](gededitgui_k_pfadtextauswertung.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

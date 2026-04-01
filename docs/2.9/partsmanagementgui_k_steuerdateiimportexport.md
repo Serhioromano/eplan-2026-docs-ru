@@ -72,6 +72,4 @@ variant="текст впереди" + [1!#6] + "текст сзади", или p
 * [База данных изделий: Импорт и экспорт CSV для адресов](partsmanagementgui_k_konfigurationcsvadressen.md)
 * [База данных изделий: Импорт и экспорт CSV для схем соединений](partsmanagementgui_k_konfigurationcsvanschluesse.md)
 * [База данных изделий: Импорт и экспорт CSV для схем сверления](partsmanagementgui_k_konfigurationcsvkonstruktion.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -16,6 +16,4 @@
 * [Функции топологии](cablinggui_k_topologiefunktionen.md)
 * [Маршрутизируемые соединения (топология)](cablinggui_k_verlegeverbindungen.md)
 * [Выбор и обработка фоновых изображений](gededitgui_h_hintergrundbearbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

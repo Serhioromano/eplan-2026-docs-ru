@@ -27,6 +27,4 @@
 * [Копировать проект](prjmanagementgui_h_projektkopieren.md)
 * [Шаблоны для новых проектов](projects_k_basisprojekt.md)
 * [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

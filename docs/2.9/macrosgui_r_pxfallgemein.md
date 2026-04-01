@@ -29,6 +29,4 @@
 * [Шаблоны Excel для внешней обработки](pxfinterface_k_excelexportvorlagen.md)
 * [Диалоговое окно Настройки: Экспорт Excel](xpxfconverterexcel_d_pxfexceleinstellungen.md)
 * [Диалоговое окно Настройки: Экспорт текстовых файлов](xpxfconvertertext_d_pxftexteinstellungen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

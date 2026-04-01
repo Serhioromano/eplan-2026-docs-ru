@@ -31,6 +31,4 @@
 * [Настройки форматирования для операций в панелях инструментов](configtoolbars_k_aktionenformatierungen.md)
 * [Диалоговое окно Настроить](ot_d_symbolleisteneditor.md)
 * [Операции EPLAN: Обзор](availableactions_o_eplanaktionen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

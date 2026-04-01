@@ -102,6 +102,4 @@
 * [Поведение изделий при выборе устройств](partselectiongui_k_prinzip.md)
 * [Диалоговое окно Настройки: Выбор устройства](partselectiongui_d_einstellungengeraeteauswahl.md)
 * [Диалоговое окно Выбор устройства](partselectiongui_d_geraeteauswahl.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

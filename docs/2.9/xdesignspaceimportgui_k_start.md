@@ -23,6 +23,4 @@
 * [Импорт и экспорт пространства конструкции: Принцип](xdesignspaceimportgui_k_prinzip.md)
 * [Импортировать пространство конструкции](xdesignspaceimportgui_h_konstraumimportieren.md)
 * [Экспортировать пространство конструкции](xdesignspaceimportgui_h_konstraumexportieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

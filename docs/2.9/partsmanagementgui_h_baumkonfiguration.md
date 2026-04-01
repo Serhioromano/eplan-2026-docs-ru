@@ -32,6 +32,4 @@
 * [Диалоговое окно База данных изделий](partsmanagementgui_d_artverw.md)
 * [Диалоговое окно Конфигурация дерева](partsmanagementgui_d_baumkonfiguration.md)
 * [Диалоговое окно Конфигурация дерева — Главные узлы](partsmanagementgui_d_baumkonfigurationhauptknoten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

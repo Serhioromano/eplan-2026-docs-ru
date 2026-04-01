@@ -38,6 +38,4 @@
 * [Обработать свойства во всех представлениях вспомогательной функции](reverseengineering_h_alledarstellungenfunktion.md)
 * [Изменить ОУ функций](devicetaggui_h_bmkaendern.md)
 * [Общая обработка свойств на страницах отчетов](reverseengineering_h_uebergreifendesbearbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

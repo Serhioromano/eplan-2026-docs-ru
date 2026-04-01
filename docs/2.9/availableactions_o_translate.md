@@ -47,6 +47,4 @@ SELn |  Ид. объекта переводимых страниц (необяз
     /EXPORTFILE:d:\temp\missingTransFile.txt
     /CONVERTER:XE5LanguageDbXmlConverterImpl
 
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

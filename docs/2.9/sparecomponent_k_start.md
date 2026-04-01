@@ -26,6 +26,4 @@
 * [ Данные неразмещенных устройств](sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
 * [ Резервные функциональные элементы: Режимы копирования для функций](sparecomponent_k_kopiermodifunktionen.md)
 * [ Резервные функциональные элементы: Режимы удаления для функций](sparecomponent_k_loeschmodifunktionen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

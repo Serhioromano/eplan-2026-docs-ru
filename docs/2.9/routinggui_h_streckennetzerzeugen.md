@@ -37,6 +37,4 @@
 * [Вкладка Маршрутизация](connectionsettingsgui_r_einstellungenverlegung.md)
 * [Удалить автоматические сегменты маршрутизации](routinggui_h_autostreckenloeschen.md)
 * [Показать маршрут](routinggui_h_streckenansicht.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -94,6 +94,4 @@
 * [Сравнить свойства проектов](revisionmgtgui_h_revvergleichen.md)
 * [Определение настроек сравнения](revisionmgtgui_h_vergleichseinstellungen.md)
 * [Генерировать исходный проект](revisionmgtgui_h_vergleichsprojekterzeugen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -19,6 +19,4 @@
 * [Удалить ревизии](revisionmgtgui_h_revmarkierungenentfernen.md)
 * [Генерировать ревизию](revisionmgtgui_h_reverzeugen.md)
 * [Закрыть страницы](revisionmgtgui_h_seitenabschliessen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

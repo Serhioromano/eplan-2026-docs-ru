@@ -33,6 +33,4 @@
 
 * [Соединения: Принцип](connectionbrowsergui_k_prinzipverbindungen.md)
 * [Управление неразмещенных вспомогательных функций на главной функции](devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

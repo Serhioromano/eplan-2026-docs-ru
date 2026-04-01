@@ -33,6 +33,4 @@
 * [Диалоговое окно Настройки: Выбор устройства](partselectiongui_d_einstellungengeraeteauswahl.md)
 * [Выбрать устройства](partselectiongui_h_geraeteauswahl.md)
 * [Выбор устройства: Способ действий](partselectiongui_k_vorgehensweise.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

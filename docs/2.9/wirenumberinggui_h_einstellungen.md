@@ -24,6 +24,4 @@
 * [Диалоговое окно Настройки: Нумерация соединений](wirenumberinggui_d_verbnumeinstellungen.md)
 * [Создать группы форматов](wirenumberinggui_h_formatgruppenerstellen.md)
 * [Определить сетевое расширение для нумерации соединений](wirenumberinggui_h_netzerweiterung.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

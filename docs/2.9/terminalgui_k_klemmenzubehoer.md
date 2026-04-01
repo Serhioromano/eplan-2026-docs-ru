@@ -79,6 +79,4 @@
 * [Определить строение клеммников](terminalgui_h_funktionsschabloneerzeugen.md)
 * [Отобразить, добавить или удалить последовательные принадлежности](terminalgui_h_leistenzubehoererstlloesch.md)
 * [Определить многоуровневые клеммы](terminalgui_h_mehrstockklemmenarbeit.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -14,6 +14,4 @@ EPLAN позволяет выполнить повторную нумераци�
 * [Нумерация и функции](offlinenumerationgui_k_funktion.md)
 * [Нумерация вложенных устройств](offlinenumerationgui_k_geschachteltebmk.md)
 * [Нумерация (online)](numerationgui_k_start.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

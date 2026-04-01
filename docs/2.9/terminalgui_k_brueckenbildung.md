@@ -19,6 +19,4 @@
 * [Клеммы](terminalgui_k_start.md)
 * [Раздельное представление клемм](terminalgui_k_verteiltedarstellungklemmen.md)
 * [Управление перемычками](terminalgui_k_verwendungbruecken.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

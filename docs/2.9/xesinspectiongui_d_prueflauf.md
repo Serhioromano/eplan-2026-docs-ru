@@ -26,6 +26,4 @@
 * [Контрольные прогоны](msgmanagementgui_k_prueflaufprinzip.md)
 * [Конфигурировать контрольные прогоны](msgmanagementgui_h_konfigurieren.md)
 * [Проверить данные проекта](msgmanagementgui_h_prueflauf.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

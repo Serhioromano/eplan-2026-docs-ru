@@ -37,6 +37,4 @@
 * [Диалоговое окно Полное ОУ](devicetaggui_d_vollstaendigesbmk.md)
 * [Обработать и отобразить свойства размещений изделий](panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
 * [Вкладка Определение функции](partsmanagementgui_r_funktionsdefinition.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

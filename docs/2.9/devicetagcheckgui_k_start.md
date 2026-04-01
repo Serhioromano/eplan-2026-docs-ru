@@ -15,6 +15,4 @@
 * [Проверить обозначение устройства](devicetagcheckgui_h_bmueberpruefen.md)
 * [Диалоговое окно Настройки: Синтаксическая проверка ОУ](devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
 * [Диалоговое окно Синтаксическая проверка ОУ](devicetagcheckgui_d_syntaxfehlermeldung.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

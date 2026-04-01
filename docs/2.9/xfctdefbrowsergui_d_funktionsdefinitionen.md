@@ -101,6 +101,4 @@
 * [Диалоговое окно Логическая схема выводов устройства](xfctdefbrowsergui_d_anschlusslogik.md)
 * [Вкладка Шаблоны функций](partsmanagementgui_r_funktionsschablone.md)
 * [Вставить функции](xfctdefbrowsergui_h_funktioneneinfuegen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -62,6 +62,4 @@ C |  ЦПУ: Имя
 * [Настроить форматы адресов](plcprocessorgui_h_adressenformateeinstellen.md)
 * [Диалоговое окно Формат адреса ПЛК](plcprocessorgui_d_formatspsadresse.md)
 * [ПЛК](plcgui_k_start.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

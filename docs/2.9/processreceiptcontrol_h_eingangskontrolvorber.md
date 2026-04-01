@@ -54,6 +54,4 @@
 * [Генерировать проект для сравнения](revisionmgtgui_h_vergleichsprojekterzeugen.md)
 * [Проверка проекта](processreceiptcontrol_k_start.md)
 * [Управление проектами](prjmanagementgui_k_start.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

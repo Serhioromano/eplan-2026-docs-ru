@@ -26,6 +26,4 @@
 * [PDF-комментарии](redlining_k_start.md)
 * [PDF-комментарии: Способ действий](redlining_k_vorgehensweise.md)
 * [Удалить импортированные PDF-комментарии из EPLAN](redlining_h_projektkommentareloeschen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

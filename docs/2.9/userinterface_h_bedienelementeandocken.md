@@ -78,6 +78,4 @@
 * [Панели инструментов](userinterface_k_symbolleisten.md)
 * [Диалоговые окна](userinterface_k_dialoge.md)
 * [Работать с рабочими областями](modaldialogs_h_mitarbeitsbereichenarbeiten.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

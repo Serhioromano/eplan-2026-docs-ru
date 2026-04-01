@@ -36,6 +36,4 @@
 * [Медная шина: Изменить длину](copper_h_kupferteillaengeaendern.md)
 * [Медная шина: Изменить угол](copper_h_kupferteilwinkelaendern.md)
 * [Медная шина: Добавить новое место изгиба](copper_h_kupferteilneuebiegestelle.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

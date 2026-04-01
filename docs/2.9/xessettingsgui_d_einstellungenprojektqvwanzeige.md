@@ -35,6 +35,4 @@
 * [Генерировать перекрестную ссылку ПЛК](xessettingsgui_h_spsquerverweiseerzeugen.md)
 * [Генерировать перекрестные ссылки оборудования](xessettingsgui_h_symbolquerverweiseerzeugen.md)
 * [Генерировать перекрестные ссылки монтажных плат](xessettingsgui_h_montageplattenqvwerzeugen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

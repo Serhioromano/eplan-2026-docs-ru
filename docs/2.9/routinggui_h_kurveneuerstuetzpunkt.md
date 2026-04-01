@@ -45,6 +45,4 @@
 * [Вставить кривые](routinggui_h_kurveeinfuegen.md)
 * [Изменить направление кривой](routinggui_h_kurvenverlaufaendern.md)
 * [Выровнять направление кривой по касательной](routinggui_h_kurvenverlauftangential.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

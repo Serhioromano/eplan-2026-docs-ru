@@ -33,6 +33,4 @@ Eplan.exe /Общ Параметры Операция /Параметр1:Зна�
 * [Автоматические операции для вызова командной строки](commandlinecall_k_automatischeaktionen.md)
 * [Обзор общих параметров командной строки EPLAN](commandlinecall_k_allgemeineparameter.md)
 * [Операции EPLAN](availableactions_k_start.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

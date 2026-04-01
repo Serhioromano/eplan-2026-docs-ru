@@ -39,6 +39,4 @@
 * [Нумерация устройств, подсоединенных к ПЛК](offlinenumerationplcgui_k_start.md)
 * [Определить формат и объем нумерации](offlinenumerationplcgui_h_formatfestlegen.md)
 * [Нумеровать подсоединенные к ПЛК устройства](offlinenumerationplcgui_h_bmnummerieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

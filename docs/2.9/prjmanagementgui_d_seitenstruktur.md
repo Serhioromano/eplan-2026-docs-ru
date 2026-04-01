@@ -40,6 +40,4 @@
 * [Структура проекта: Основные положения](projectstructure_k_hinterg.md)
 * [Обработать свойства проекта (Управление проектами)](prjmanagementgui_h_projekteigenschaftenloeschen.md)
 * [Определить пользовательскую структуру проекта](projectstructure_h_frhierarchienerstellen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

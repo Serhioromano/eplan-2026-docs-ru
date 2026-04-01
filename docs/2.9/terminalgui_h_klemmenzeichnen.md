@@ -41,6 +41,4 @@
 * [Создать и обработать клеммники](terminalgui_h_klemmenleistenerstlbearb.md)
 * [Создать и обработать клеммы](terminalgui_h_klemmenerstlbearb.md)
 * [Вставить устройства](devicelistgui_h_geraeteplatzieren.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

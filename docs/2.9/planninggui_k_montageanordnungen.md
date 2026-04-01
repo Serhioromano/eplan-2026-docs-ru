@@ -36,6 +36,4 @@
 * [Предварительное планирование: Отчеты](planninggui_k_auswertungen.md)
 * [Типы отчетов](formgeneratorgui_k_auswertungstypen.md)
 * [Вывести монтажные чертежи для объектов планирования](planninggui_h_montageanordnungenausgeben.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -33,6 +33,4 @@
 * [Диалоговое окно "Частичные проекты"](subprojectservicesgui_d_teilprojekte.md)
 * [Выгрузка частичных проектов](subprojectservicesgui_k_auslagern.md)
 * [Сохранение частичных проектов](subprojectservicesgui_k_einlagern.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение

@@ -39,6 +39,4 @@
 * [Редактор контура: Нулевая точка контура](contoureditorgui_k_nullpunkt.md)
 * [Проверка контуров](contoureditorgui_h_konturenpruefen.md)
 * [Функция перетаскивания мышью](userinterface_k_dragdropfunktionen.md)
-С вашей помощью мы можем улучшить работу системы. Мы документируем ваши действия в Google Analytics, чтобы постоянно совершенствовать справочную систему ([Дополнительная информация и возможности подачи возражений](helpsystem_hinweise_optout.md)).
 
-Скрыть сообщение
