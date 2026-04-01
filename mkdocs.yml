@@ -5384,7 +5384,8 @@ nav:
           - "Новый метод лицензирования": 2.9/news_p_weiteres_lizenzierung_206396.md
           - "Общие условия": 2.9/news_p_weiteres_softwarevoraussetzungen.md
 plugins:
-  - search
+  - search:
+      lang: ru
   - meta
   - git-authors
   - git-revision-date-localized:

@@ -41,12 +41,8 @@ init: gitc
 		libxrandr2 \
 		libxss1
 	@echo "Start PIP configuration"
-	@pip install --upgrade pip
-	@pip3 install mkdocs
-	@pip3 install mkdocs-material
-	@pip3 install mkdocs-git-authors-plugin
-	@pip3 install mkdocs-git-revision-date-localized-plugin
-	@pip3 install mkdocs-git-committers-plugin
+	@pip3 install --break-system-packages --upgrade pip
+	@pip3 install --break-system-packages mkdocs mkdocs-material mkdocs-git-authors-plugin mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin
 	@echo "Configuration is done"
 
 gitc:
