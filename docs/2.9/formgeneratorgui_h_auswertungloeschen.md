@@ -1,6 +1,6 @@
 # Удалить страницы отчета
 
-При удалении страниц отчетов всегда удаляются [страницы отчетов](Glossary_o_auswertungsseiten.md), принадлежащие [блоку отчетов](formgeneratorgui_k_auswertungsbloecke.md).
+При удалении страниц отчетов всегда удаляются страницы отчетов, принадлежащие [блоку отчетов](formgeneratorgui_k_auswertungsbloecke.md).
 
 Условие:
 

@@ -6,7 +6,7 @@ MachineType  |  Целочисленное значение, необходим�
 
 * 1 = ЧУ Steinhauer
 * 2 = Rittal - Perforex BC
-* 3 = ЧУ [DXF](Glossary_o_dxf.md)
+* 3 = ЧУ DXF
 * 4 = Шаблон сверления
 * 5 = Rittal - Perforex LC
 * 6 = ЧУ, медь

@@ -63,7 +63,7 @@
 Поле |  Внутреннее обозначение поля |  Максимальная длина
 ---|---|---
 Параметр |  characteristics |  30
-Обозначение вывода [устройства](Glossary_o_betriebsmittel.md) |  connectionDesignation |  255
+Обозначение вывода устройства |  connectionDesignation |  255
 Описание вывода устройства |  connectionDescription |  255
 Индекс 1 / индекс 2 |  idx1 / idx2 |  30
 Обозначение |  terminalNr |  30
@@ -115,7 +115,7 @@
 ---|---|---
 Един. измерения |  quantityunit |  30
 Сертификация: общ. |  certificate |  50
-Сертификация: [ид.](Glossary_o_id.md) UL |  certificate_UL |  50
+Сертификация: ид. UL |  certificate_UL |  50
 Сертификация: ид. VDE |  certificate_VDE |  50
 
 Вкладка "Общие ", таблица "tblPart"

@@ -1,6 +1,6 @@
 # Спецификации: Поля в файле экспорта
 
-При экспорте [спецификации](Glossary_o_stuecklisten.md) данные изделий выводятся в файл экспорта. Экспортированные таким образом данные можно обрабатывать и снова экспортировать. Однако при импорте записываются только перечисленные далее [свойства](Glossary_o_eigenschaften.md):
+При экспорте спецификации данные изделий выводятся в файл экспорта. Экспортированные таким образом данные можно обрабатывать и снова экспортировать. Однако при импорте записываются только перечисленные далее свойства:
 
 Имя поля в файле экспорта |  Свойство
 ---|---
@@ -22,7 +22,7 @@ P_ARTICLE_EXTERNAL_PLACEMENT |  Внешнее размещение, Катег�
 Имя поля в файле экспорта |  Свойство
 ---|---
 P_ARTICLEREF_IDENTNAME |  ОУ
-P_DESIGNATION_PLANT |  Установка (Главный [ид.](Glossary_o_id.md))
+P_DESIGNATION_PLANT |  Установка (Главный ид.)
 P_DESIGNATION_FULLPLANT |  Установка
 P_DESIGNATION_LOCATION |  Место установки (главный ид.)
 P_DESIGNATION_FULLLOCATION |  Место установки
@@ -49,11 +49,11 @@ P_FUNC_NESTEDCOUNTER |  ОУ (нижестоящее): Счетчик
 P_FUNC_NESTEDSUFFIX |  ОУ (нижестоящее): Подсчетчик
 P_FUNC_MOUNTINGLOCATION |  Место монтажа (описат.)
 P_FUNC_GRAVINGTEXT |  Текст гравировки
-P_FUNC_COMPONENTTYPE |  Определение [функции](Glossary_o_funktionen.md)
+P_FUNC_COMPONENTTYPE |  Определение функции
 P_FUNC_TECHNICAL_CHARACTERISTIC |  Технические параметры
 P_FUNC_TEXT_AUTOMATIC |  Функциональный текст (автоматически)
 P_FUNC_DEVICETAG_FULLNAME |  Имя (без структуры проекта)
-P_FUNC_CABLE_LAYOUT_FORM |  Форма [схемы](Glossary_o_schemata.md) кабельных соединений
+P_FUNC_CABLE_LAYOUT_FORM |  Форма схемы кабельных соединений
 P_FUNC_TYPE |  Вид представления
 P_FUNC_DT_PAGECOUNTER |  ОУ: страница
 P_FUNC_DT_PAGESUBCOUNTER |  ОУ: подстраница
