@@ -61,7 +61,7 @@
 
 ![](images/example.png)
 
-## Пример:
+## Пример
 
 P_ARTICLE_GROUPSYMBOLMACRO
 Пример: "C:\macro.ema" или "$(MD_MACROS)\Macro.ema"

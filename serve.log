@@ -1462,3 +1462,10 @@ WARNING -  Doc file '2.9/userdefproperties_k_start.md' contains a link 'userdefp
 WARNING -  Doc file '2.9/msg/messages_o_028Preplanning.md' contains a link 'messages_p_028032.md', but the target '2.9/msg/messages_p_028032.md' is not found among documentation files.
 INFO    -  Documentation built in 5202.24 seconds
 INFO    -  Copying '/workspaces/epla-toc/site' to 'gh-pages' branch and pushing to GitHub.
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File search/search_index.json is 74.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Serhioromano/eplan-2026-docs-ru.git
+   abac5768..4c51ff8d  gh-pages -> gh-pages
+INFO    -  Your documentation should shortly be available at: https://Serhioromano.github.io/eplan-2026-docs-ru/
+Deployment complete.
