@@ -4,7 +4,7 @@
 
 Общая структура соответствующего сценария C# выглядит так:
 
-    public class <ScriptName>
+    public class \<ScriptName\>
     {
 
          [DeclareMenu]
@@ -12,7 +12,7 @@
          {
 
                Eplan.EplApi.Gui.Menu oMenu = new Eplan.EplApi.Gui.Menu();
-               oMenu.AddMenuItem("<MenuText>","<ActionName>");
+               oMenu.AddMenuItem("\<MenuText\>","\<ActionName\>");
 
          }
 
