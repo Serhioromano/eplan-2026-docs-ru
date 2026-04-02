@@ -2674,7 +2674,7 @@ extra_css:
 
 extra:
   social:
-    - icon: fontawesome/youtube
+    - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@serhioromano
   generator: false
   consent:
