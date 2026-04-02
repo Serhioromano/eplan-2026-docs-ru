@@ -1,8 +1,12 @@
-# Документация Платформа Eplan
+# Платформа Eplan 2026
 
 <div class="grid cards" markdown>
 
-- # [EPLAN 2026](2026/index.md)
-- # [EPLAN 2.9](2.9/index.md)
+- [Проекты](projects_k_start.md)
+- [Графический редактор](gededitgui_k_start.md)
+- [Центр вставки](insertergui_k_start.md)
+- [Макросы](macrosgui_k_start.md)
+- [Соединения](connectionbrowsergui_k_start.md)
+- [Отчеты](formgeneratorgui_k_start.md)
 
 </div>
