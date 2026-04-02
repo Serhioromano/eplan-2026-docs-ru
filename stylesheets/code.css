@@ -1,3 +1,12 @@
+.md-tooltip {
+  font-size: 0.75rem; /* меняйте под себя */
+}
+
+mark, .md-highlight {
+  background-color: #ffeb3b !important;
+  color: black !important;
+}
+
 .md-typeset__table table tr td,
 .md-typeset .admonition,.md-typeset details {
     font-size: .8rem !important;
