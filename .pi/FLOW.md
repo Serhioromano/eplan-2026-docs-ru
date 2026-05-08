@@ -7,27 +7,35 @@
       book.methodist          book.researcher            book.writer                         
       ─────────────           ───────────────            ───────────                         
       Строит структуру        Ищет доки через            Пишет готовый                       
-      главы                   tree.md + web              текст главы                         
+      главы                   search_engine +            текст главы                         
+                              tree.md + web                                                   
           |                        │                         │                               
           ▼                        ▼                         ▼                               
    structure.md            docs-01-...md               ЧастьX_Глава.md                       
-                           docs-02-...md                                                      
+                           docs-02-...md                                                     
                            docs-внешние.md                                                    
           │                        │                         │                               
           └────────┬───────────────┘                         │                               
                    ▼                                         │                               
         book/structure/1/3/                                  │                               
                    └─────────────────────────────────────────┘                               
+
+## Инструменты
+
+| Инструмент | Путь | Назначение |
+|---|---|---|
+| Поисковый движок | `.pi/tools/search_engine.py` | FTS5+TF-IDF поиск по 2016 doc-файлам |
+| Переиндексация | `python3 .pi/tools/search_engine.py index` | Запустить после обновления документации |
  ```
 
 ## Последовательность работы
 
-| Шаг | Skill      | Результат                       |
-| --- | ---------- | ------------------------------- |
-| 1   | methodist  | book/structure/1/3/structure.md |
-| 2   | researcher | book/structure/1/3/docs-*.md    |
-| 3   | автор      | правки и заметки в папке        |
-| 4   | writer     | book/chapters/1_3_Название.md   |
+| Шаг | Skill           | Результат                       |
+| --- | --------------- | ------------------------------- |
+| 1   | book-methodist  | book/structure/1/3/structure.md |
+| 2   | book-researcher | book/structure/1/3/docs-*.md    |
+| 3   | автор           | правки и заметки в папке        |
+| 4   | book-writer     | book/chapters/1_3_Название.md   |
 
 ## Структура файлов
 
