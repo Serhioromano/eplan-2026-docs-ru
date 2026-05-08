@@ -22,7 +22,7 @@
 
 ## Последовательность работы
 
-| Шаг | Агент      | Результат                       |
+| Шаг | Skill      | Результат                       |
 | --- | ---------- | ------------------------------- |
 | 1   | methodist  | book/structure/1/3/structure.md |
 | 2   | researcher | book/structure/1/3/docs-*.md    |

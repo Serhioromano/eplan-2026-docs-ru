@@ -1,4 +1,7 @@
-.PHONY: deploy init serve gitc log up
+.PHONY: deploy init serve gitc log up initpi
+
+initpi:
+	@cd ./.pi/npm && npm install
 
 up:
 	sudo apt-get update && sudo apt-get install -y \
