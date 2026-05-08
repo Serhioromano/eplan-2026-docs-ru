@@ -1,0 +1,3694 @@
+# Структура книги
+
+Многоуровневое дерево разделов на основе навигации mkdocs.yml.
+Для каждого файла перечислены заголовки второго уровня (##).
+
+- **Платформа Eplan**
+  - **Указания по ознакомлению с руководством** — [docs/2026/helpsystem_k_hinweise.md](docs/2026/helpsystem_k_hinweise.md)
+  - **Использование справочной системы**
+    - **Справочная система** — [docs/2026/helpsystem_k_start.md](docs/2026/helpsystem_k_start.md)
+    - **Использование справочной системы** — [docs/2026/helpsystem_h_nutzen.md](docs/2026/helpsystem_h_nutzen.md)
+      - Вызов диалогового окна:
+      - Использовать фильтр поиска
+      - Автозаполнение для искомых понятий
+      - Переключить язык справки
+      - Копировать URL страницы справки в буфер обмена
+    - **Вид Backstage: Справка** — [docs/2026/helpsystem_d_backstagehilfe.md](docs/2026/helpsystem_d_backstagehilfe.md)
+      - Вызов диалогового окна:
+  - **Работа с Eplan**
+    - **Запустить и завершить Eplan** — [docs/2026/startingeplan_h_startenundbeenden.md](docs/2026/startingeplan_h_startenundbeenden.md)
+    - **Интерфейс пользователя**
+      - **Основы**
+        - **Интерфейс пользователя** — [docs/2026/userinterface_k_start.md](docs/2026/userinterface_k_start.md)
+        - **Элементы интерфейса пользователя** — [docs/2026/userinterface_k_hintergrund.md](docs/2026/userinterface_k_hintergrund.md)
+          - Дополнительные сведения о всплывающей подсказке
+        - **Вид Backstage** — [docs/2026/userinterface_k_backstageview.md](docs/2026/userinterface_k_backstageview.md)
+        - **Диалоговые окна** — [docs/2026/userinterface_k_dialoge.md](docs/2026/userinterface_k_dialoge.md)
+          - Присоединяемые диалоговые окна
+          - Сообщения и окна указаний
+          - Навигаторы
+          - Диалоговые окна с предварительным просмотром
+          - Диалоговые окна с защитой от записи
+          - Разделители окна
+        - **Особенности навигаторов** — [docs/2026/userinterface_k_besonderheitennavigatoren.md](docs/2026/userinterface_k_besonderheitennavigatoren.md)
+        - **Пиктограммы в навигаторах** — [docs/2026/userinterface_k_iconsnavigatoren.md](docs/2026/userinterface_k_iconsnavigatoren.md)
+        - **Обзор свойств** — [docs/2026/userinterface_k_eigenschaftenuebersicht.md](docs/2026/userinterface_k_eigenschaftenuebersicht.md)
+        - **Функция перетаскивания мышью** — [docs/2026/userinterface_k_dragdropfunktionen.md](docs/2026/userinterface_k_dragdropfunktionen.md)
+          - Из Windows Explorer в навигатор страниц
+          - Из Windows Explorer в графический редактор
+          - Из Windows Explorer в навигатор страниц
+          - Из приложения MS Office в Eplan
+          - Из древовидного представления навигатора страниц Eplan в Windows Explorer
+          - В рамках представления структуры дерева или представления в виде списка навигатора страниц Eplan
+          - В представлении в виде дерева навигатора пространства листа Eplan
+          - Из навигатора Eplan в графический редактор
+          - Из навигатора Eplan в навигатор Eplan
+          - Из навигатора Eplan в диалоговое окно свойств устройства
+        - **Фильтр** — [docs/2026/modaldialogsdb_k_filter.md](docs/2026/modaldialogsdb_k_filter.md)
+        - **Обзор операций для ленты** — [docs/2026/userinterface_k_aktionenmenueband.md](docs/2026/userinterface_k_aktionenmenueband.md)
+        - **Доступ к облачным продуктам Eplan** — [docs/2026/userinterface_k_cloudprodukte.md](docs/2026/userinterface_k_cloudprodukte.md)
+      - **Процесс работы**
+        - **Управление Eplan с помощью клавиатуры** — [docs/2026/userinterface_h_eplanmittastaturbedienen.md](docs/2026/userinterface_h_eplanmittastaturbedienen.md)
+          - Выбор элементов диалогового окна
+          - Выбор вкладок
+          - Развертывание меню и всплывающих меню
+          - Установка и снятие флажков
+          - Открытие раскрывающихся списков
+          - Использование клавиатуры в структуре списка или древа
+          - Использование клавиатуры в таблице
+        - **Настроить панель быстрого доступа** — [docs/2026/userinterface_h_schnellzugriffanpassen.md](docs/2026/userinterface_h_schnellzugriffanpassen.md)
+          - Добавление других команд
+          - Добавление команд из ленты для быстрого доступа
+          - Удаление команд из ленты для быстрого доступа
+          - Сброс панели быстрого доступа
+        - **Настроить ленту** — [docs/2026/userinterface_h_menuebandanpassen.md](docs/2026/userinterface_h_menuebandanpassen.md)
+          - Свернуть ленту
+          - Создание новых групп команд
+          - Присваивание команд определенной пользователем группе команд
+          - Назначение операций как команд в группе команд, определенной пользователем
+          - Сброс ленты
+          - Экспортировать ленту
+          - Импортировать ленту
+        - **Присоединение / отсоединение элементов управления** — [docs/2026/userinterface_h_bedienelementeandocken.md](docs/2026/userinterface_h_bedienelementeandocken.md)
+          - Отсоединить присоединяемые диалоговые окна
+          - Присоединить присоединяемые диалоговые окна
+          - Группировать навигаторы, страницы и т. д. в окне
+          - Отображать навигаторы, например страницы проекта, как вкладки
+          - Присоединить обычное окно в качестве всплывающего
+        - **Настройка отображения таблиц** — [docs/2026/userinterface_h_anzeigesortierreihenfolgefestlegen.md](docs/2026/userinterface_h_anzeigesortierreihenfolgefestlegen.md)
+          - Сортировка объектов таблиц
+          - Оптимизировать отображение отдельных столбцов
+          - Оптимизировать отображение всех столбцов
+          - Настройка ширины нескольких столбцов одновременно
+          - Оптимизация отображения отдельных строк
+          - Изменить размер шрифта с помощью колесика мыши
+        - **Работать с рабочими областями** — [docs/2026/modaldialogs_h_mitarbeitsbereichenarbeiten.md](docs/2026/modaldialogs_h_mitarbeitsbereichenarbeiten.md)
+          - Определить рабочие области
+          - Выбрать рабочие области
+          - Обработать рабочие области
+        - **Конфигурировать представления в виде списка и структуры дерева** — [docs/2026/modaldialogsdb_h_spaltenkonfigurieren.md](docs/2026/modaldialogsdb_h_spaltenkonfigurieren.md)
+        - **Создание пользователем конфигураций свойств** — [docs/2026/userinterface_h_benutzerdefeigenschaftskonfigurationen.md](docs/2026/userinterface_h_benutzerdefeigenschaftskonfigurationen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настроить** — [docs/2026/fp_d_anpassen.md](docs/2026/fp_d_anpassen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настроить комбинации клавиш** — [docs/2026/fp_d_tastenkombinationen.md](docs/2026/fp_d_tastenkombinationen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Правка"** — [docs/2026/modaldialogs_d_befehleumbenennen.md](docs/2026/modaldialogs_d_befehleumbenennen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Фильтр** — [docs/2026/modaldialogsdb_d_filternnach.md](docs/2026/modaldialogsdb_d_filternnach.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор критериев** — [docs/2026/modaldialogsdb_d_filterkriterium.md](docs/2026/modaldialogsdb_d_filterkriterium.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор значения** — [docs/2026/modaldialogsdb_d_filterwerteauswahl.md](docs/2026/modaldialogsdb_d_filterwerteauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Рабочая область" / диалоговое окно "Настройки: Рабочая область"** — [docs/2026/modaldialogs_d_arbeitsbereich.md](docs/2026/modaldialogs_d_arbeitsbereich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфигурировать представление (дерево)** — [docs/2026/modaldialogsdb_d_baumkonfiguration.md](docs/2026/modaldialogsdb_d_baumkonfiguration.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Конфигурировать представление (список)" / Диалоговое окно "Конфигурировать поиск"** — [docs/2026/modaldialogsdb_d_spaltenkonfiguration.md](docs/2026/modaldialogsdb_d_spaltenkonfiguration.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Структура дерева (...)** — [docs/2026/modaldialogsdb_d_einstellprjstruktur.md](docs/2026/modaldialogsdb_d_einstellprjstruktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать переменную пути** — [docs/2026/modaldialogsdb_d_pfadvariablen.md](docs/2026/modaldialogsdb_d_pfadvariablen.md)
+          - Вызов диалогового окна:
+          - Обзор наиболее важных переменных пути:
+          - Обзор наиболее важных переменных пути:
+          - Обзор наиболее важных переменных пути:
+        - **Диалоговое окно Выбор цвета** — [docs/2026/mf_d_farbauswahl.md](docs/2026/mf_d_farbauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Предварительный просмотр графики** — [docs/2026/modaldialogsdb_d_grafischevorschau.md](docs/2026/modaldialogsdb_d_grafischevorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обзор свойств — <Имя проекта>** — [docs/2026/modaldialogsdb_d_eigenschaftenuebersicht.md](docs/2026/modaldialogsdb_d_eigenschaftenuebersicht.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Конфигурировать свойства" / диалоговое окно "Конфигурировать представление"** — [docs/2026/modaldialogsdb_d_eigenschaftskonfiguration.md](docs/2026/modaldialogsdb_d_eigenschaftskonfiguration.md)
+          - Вызов диалогового окна "Конфигурировать свойства":
+          - Вызов диалогового окна "Конфигурировать представление":
+        - **Диалоговое окно "Конфигурировать свойства — главный узел" / диалоговое окно "Конфигурировать представление — главный узел"** — [docs/2026/modaldialogsdb_d_eigenschaftskonfigurationhauptknoten.md](docs/2026/modaldialogsdb_d_eigenschaftskonfigurationhauptknoten.md)
+          - Вызов диалогового окна "Конфигурировать свойства":
+          - Вызов диалогового окна "Конфигурировать представление":
+        - **Диалоговое окно Конфигурировать свойства** — [docs/2026/modaldialogsdb_d_eigenschaftsanordnung.md](docs/2026/modaldialogsdb_d_eigenschaftsanordnung.md)
+          - Вызов диалогового окна "Проект":
+          - Вызов диалогового окна "Управление изделиями":
+        - **Диалоговое окно "Конфигурировать поиск"** — [docs/2026/modaldialogsdb_d_suchekonfigurieren.md](docs/2026/modaldialogsdb_d_suchekonfigurieren.md)
+          - Вызов диалогового окна:
+        - **Пункты всплывающего меню** — [docs/2026/userinterface_m_kontextmenu.md](docs/2026/userinterface_m_kontextmenu.md)
+          - Пункты всплывающего меню для представления таблиц
+          - Пункты всплывающего меню для обработки значений
+          - Пункты всплывающего меню для многоязычных текстов
+    - **Схемы**
+      - **Основы**
+        - **Схемы** — [docs/2026/schemeconfig_k_start.md](docs/2026/schemeconfig_k_start.md)
+      - **Процесс работы**
+        - **Обработка схем** — [docs/2026/schemeconfig_h_schematabearbeiten.md](docs/2026/schemeconfig_h_schematabearbeiten.md)
+      - **Ссылка**
+        - **Панель инструментов схемы** — [docs/2026/schemeconfig_m_schemaschaltflaechen.md](docs/2026/schemeconfig_m_schemaschaltflaechen.md)
+    - **Настройки**
+      - **Основы**
+        - **Настройки** — [docs/2026/settingsmastergui_k_start.md](docs/2026/settingsmastergui_k_start.md)
+        - **Настройки: Принцип работы** — [docs/2026/settingsmastergui_k_arbeitsweise.md](docs/2026/settingsmastergui_k_arbeitsweise.md)
+        - **Права и доступ** — [docs/2026/settingsmastergui_k_rechteundzugriff.md](docs/2026/settingsmastergui_k_rechteundzugriff.md)
+        - **Настройки: Импорт и экспорт** — [docs/2026/settingsmastergui_k_import_export.md](docs/2026/settingsmastergui_k_import_export.md)
+        - **Настройки при обновлении программы** — [docs/2026/settingsmastergui_k_einstellungenbeimupdate.md](docs/2026/settingsmastergui_k_einstellungenbeimupdate.md)
+      - **Процесс работы**
+        - **Просмотр и изменение настроек** — [docs/2026/settingsmastergui_h_einstellungenansehen.md](docs/2026/settingsmastergui_h_einstellungenansehen.md)
+        - **Сброс настроек на стандартные значения** — [docs/2026/settingsmastergui_h_einstellungenaufstandard.md](docs/2026/settingsmastergui_h_einstellungenaufstandard.md)
+        - **Заменить настройки** — [docs/2026/settingsmastergui_h_einstellungenaustauschen.md](docs/2026/settingsmastergui_h_einstellungenaustauschen.md)
+        - **Импорт / экспорт настроек** — [docs/2026/settingsmastergui_h_importieren_exportieren.md](docs/2026/settingsmastergui_h_importieren_exportieren.md)
+          - Импортировать настройки
+          - Экспортировать настройки
+          - Расширенный экспорт настроек
+        - **Зарегистрировать Add-ons вручную / автоматически** — [docs/2026/settingsmastergui_h_zusatzmodulregistrieren.md](docs/2026/settingsmastergui_h_zusatzmodulregistrieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки** — [docs/2026/settingsmastergui_d_systeinstellungen.md](docs/2026/settingsmastergui_d_systeinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Группа проектов (присвоение)** — [docs/2026/settingsmastergui_d_projektgruppezuordnung.md](docs/2026/settingsmastergui_d_projektgruppezuordnung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Представление в проектах макросов** — [docs/2026/settingsmastergui_d_darstellungmakroprojekten.md](docs/2026/settingsmastergui_d_darstellungmakroprojekten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Интерфейс пользователя** — [docs/2026/settingsmastergui_d_oberflaecheneinstellungen.md](docs/2026/settingsmastergui_d_oberflaecheneinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Группы проектов (определение)** — [docs/2026/settingsmastergui_d_projektgruppendefinition.md](docs/2026/settingsmastergui_d_projektgruppendefinition.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Языки** — [docs/2026/settingsmastergui_d_einstellungensprachen.md](docs/2026/settingsmastergui_d_einstellungensprachen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Единицы отображения** — [docs/2026/settingsmastergui_d_einstellanzeigeeinheiten.md](docs/2026/settingsmastergui_d_einstellanzeigeeinheiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Графическое требование к памяти** — [docs/2026/gededit3dgui_d_einstellspeicherbedarf.md](docs/2026/gededit3dgui_d_einstellspeicherbedarf.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Драйвер для сервера SQL** — [docs/2026/modaldialogs_d_sqlservertreiber.md](docs/2026/modaldialogs_d_sqlservertreiber.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Проверить версию Eplan** — [docs/2026/modaldialogs_d_einstellungenupdate.md](docs/2026/modaldialogs_d_einstellungenupdate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать настройки** — [docs/2026/settingsmastergui_d_einstellimport.md](docs/2026/settingsmastergui_d_einstellimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать настройки: <Путь иерархии>** — [docs/2026/settingsmastergui_d_einstellimportprojekt.md](docs/2026/settingsmastergui_d_einstellimportprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать настройки** — [docs/2026/settingsmastergui_d_einstellexport.md](docs/2026/settingsmastergui_d_einstellexport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать настройки (расшир.)** — [docs/2026/settingsmastergui_d_einstellerweitert.md](docs/2026/settingsmastergui_d_einstellerweitert.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать настройки <...>: <Путь иерархии>** — [docs/2026/settingsmastergui_d_einstellexportprojekt.md](docs/2026/settingsmastergui_d_einstellexportprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Add-ons** — [docs/2026/xsettingsservicesgui_d_einstellzusatzmodule.md](docs/2026/xsettingsservicesgui_d_einstellzusatzmodule.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Add-ons** — [docs/2026/xsettingsservicesgui_d_zusatzmodule.md](docs/2026/xsettingsservicesgui_d_zusatzmodule.md)
+          - Вызов диалогового окна:
+  - **Обработка проектов и управление ими**
+    - **Проекты**
+      - **Основы**
+        - **Проекты** — [docs/2026/projects_k_start.md](docs/2026/projects_k_start.md)
+        - **Проекты: Принцип** — [docs/2026/projects_k_prinzip.md](docs/2026/projects_k_prinzip.md)
+        - **Расширения имен файлов и пиктограммы для проектов** — [docs/2026/projects_k_icons.md](docs/2026/projects_k_icons.md)
+        - **Базовые проекты** — [docs/2026/projects_k_basisprojekteerweitert.md](docs/2026/projects_k_basisprojekteerweitert.md)
+        - **Режимы обработки при открытии проектов** — [docs/2026/projects_k_bearbeitungsmodusbeimoeffnen.md](docs/2026/projects_k_bearbeitungsmodusbeimoeffnen.md)
+      - **Процесс работы**
+        - **Создать проекты** — [docs/2026/projects_h_projekteerstellen.md](docs/2026/projects_h_projekteerstellen.md)
+        - **Определить рамку и нумерацию зон ** — [docs/2026/projects_h_normblattpfad.md](docs/2026/projects_h_normblattpfad.md)
+        - **Создать базовые проекты** — [docs/2026/projects_h_basisprojekterstellen.md](docs/2026/projects_h_basisprojekterstellen.md)
+        - **Открыть проект (вид Backstage)** — [docs/2026/prjmanagementgui_h_backstageprojektoeffnen.md](docs/2026/prjmanagementgui_h_backstageprojektoeffnen.md)
+        - **Экспортировать проекты** — [docs/2026/projects_h_exportieren.md](docs/2026/projects_h_exportieren.md)
+        - **Импортировать проекты** — [docs/2026/projects_h_importieren.md](docs/2026/projects_h_importieren.md)
+        - **Реорганизовать проекты** — [docs/2026/projects_h_projektreorganisieren.md](docs/2026/projects_h_projektreorganisieren.md)
+        - **Синхронизировать данные проекта** — [docs/2026/projects_h_projekteabgleichen.md](docs/2026/projects_h_projekteabgleichen.md)
+      - **Ссылка**
+        - **Вид Backstage: область команд** — [docs/2026/prjmanagementgui_d_backstagebefehle.md](docs/2026/prjmanagementgui_d_backstagebefehle.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно XML-проект** — [docs/2026/macrosgui_d_pxfprojektimport.md](docs/2026/macrosgui_d_pxfprojektimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: дата / время / числа"** — [docs/2026/xessettingsgui_d_einstellungenprojektdatum.md](docs/2026/xessettingsgui_d_einstellungenprojektdatum.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать данные проекта — <Имя проекта>** — [docs/2026/prjmanagementgui_d_projektdatenabgleich.md](docs/2026/prjmanagementgui_d_projektdatenabgleich.md)
+          - Вызов диалогового окна:
+    - **Управление проектами**
+      - **Основы**
+        - **Управление проектами** — [docs/2026/prjmanagementgui_k_start.md](docs/2026/prjmanagementgui_k_start.md)
+      - **Процесс работы**
+        - **Создать / выбрать базу данных управления проектами** — [docs/2026/prjmanagementgui_h_projekteverwalten.md](docs/2026/prjmanagementgui_h_projekteverwalten.md)
+          - Создать базу данных управления проектами
+          - Выбрать базу данных Eplan
+          - Выбрать базу данных сервера SQL
+        - **Создать проект (Управление проектами)** — [docs/2026/prjmanagementgui_h_projektanlegen.md](docs/2026/prjmanagementgui_h_projektanlegen.md)
+        - **Считать каталоги и проекты** — [docs/2026/prjmanagementgui_h_verzeichniseinlesen.md](docs/2026/prjmanagementgui_h_verzeichniseinlesen.md)
+        - **Открыть проект (Управление проектами)** — [docs/2026/prjmanagementgui_h_projektoeffnen.md](docs/2026/prjmanagementgui_h_projektoeffnen.md)
+        - **Копировать проект (Управление проектами)** — [docs/2026/prjmanagementgui_h_projektkopieren.md](docs/2026/prjmanagementgui_h_projektkopieren.md)
+        - **Искать / фильтровать проект** — [docs/2026/prjmanagementgui_h_projektefiltern.md](docs/2026/prjmanagementgui_h_projektefiltern.md)
+        - **Отображение информации проекта** — [docs/2026/prjmanagementgui_h_projekteigenschaftenanzeigen.md](docs/2026/prjmanagementgui_h_projekteigenschaftenanzeigen.md)
+        - **Обработать свойства проекта (Управление проектами)** — [docs/2026/prjmanagementgui_h_projekteigenschaftenloeschen.md](docs/2026/prjmanagementgui_h_projekteigenschaftenloeschen.md)
+        - **Переименовать, удалить проект (Управление проектами)** — [docs/2026/prjmanagementgui_h_projektumbenennen.md](docs/2026/prjmanagementgui_h_projektumbenennen.md)
+        - **Считать данные клиента** — [docs/2026/prjmanagementgui_h_kundendateneinlesen.md](docs/2026/prjmanagementgui_h_kundendateneinlesen.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление проектами** — [docs/2026/prjmanagementgui_d_projektverwaltung.md](docs/2026/prjmanagementgui_d_projektverwaltung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Создать проект** — [docs/2026/prjmanagementgui_d_projekterstellen.md](docs/2026/prjmanagementgui_d_projekterstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать проект** — [docs/2026/prjmanagementgui_d_projektkopieren.md](docs/2026/prjmanagementgui_d_projektkopieren.md)
+          - Вызов диалогового окна:
+        - **Вкладка Свойства** — [docs/2026/prjmanagementgui_r_eigenschaften.md](docs/2026/prjmanagementgui_r_eigenschaften.md)
+          - Вызов диалогового окна:
+        - **Вкладка Статистика** — [docs/2026/prjmanagementgui_r_statisitk.md](docs/2026/prjmanagementgui_r_statisitk.md)
+          - Вызов диалогового окна:
+        - **Вкладка Структура** — [docs/2026/prjmanagementgui_r_struktur.md](docs/2026/prjmanagementgui_r_struktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Структура страницы** — [docs/2026/prjmanagementgui_d_seitenstruktur.md](docs/2026/prjmanagementgui_d_seitenstruktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Структура устройства** — [docs/2026/prjmanagementgui_d_betriebsmittelstruktur.md](docs/2026/prjmanagementgui_d_betriebsmittelstruktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка Представление (Расширенные структуры проекта)** — [docs/2026/prjmanagementgui_r_darstellungerwprjstrukturen.md](docs/2026/prjmanagementgui_r_darstellungerwprjstrukturen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Наследование (Расширенные структуры проекта)** — [docs/2026/prjmanagementgui_r_vererbung.md](docs/2026/prjmanagementgui_r_vererbung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Статус** — [docs/2026/prjmanagementgui_r_status.md](docs/2026/prjmanagementgui_r_status.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Вывести информацию о проекте** — [docs/2026/prjmanagementgui_d_projektinfoausgeben.md](docs/2026/prjmanagementgui_d_projektinfoausgeben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Показать пользователей** — [docs/2026/prjmanagementgui_d_benutzeranzeigen.md](docs/2026/prjmanagementgui_d_benutzeranzeigen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизация основных данных — <Имя проекта>** — [docs/2026/prjmanagementgui_d_stammdatenabgleich.md](docs/2026/prjmanagementgui_d_stammdatenabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: База данных управления проектами** — [docs/2026/prjmanagementgui_d_prjverwaltungsdb.md](docs/2026/prjmanagementgui_d_prjverwaltungsdb.md)
+          - Вызов диалогового окна:
+    - **Структура проекта**
+      - **Основы**
+        - **Структура проекта** — [docs/2026/projectstructure_k_start.md](docs/2026/projectstructure_k_start.md)
+        - **Структура проекта: Основные положения** — [docs/2026/projectstructure_k_hinterg.md](docs/2026/projectstructure_k_hinterg.md)
+        - **Примеры структуры структурных идентификаторов** — [docs/2026/projectstructure_k_aufbaukennzeichnungsbl.md](docs/2026/projectstructure_k_aufbaukennzeichnungsbl.md)
+        - **Основные и подидентификаторы блоков идентификаторов** — [docs/2026/projectstructure_k_hauptkundunterk.md](docs/2026/projectstructure_k_hauptkundunterk.md)
+        - **Поведение программы при копировании между различными структурами проекта** — [docs/2026/projectstructure_k_verhkopinbmubauteilen.md](docs/2026/projectstructure_k_verhkopinbmubauteilen.md)
+        - **Структурирование проектов согласно стандарту EN 81346** — [docs/2026/projectstructure_k_referenzkennzeichnung.md](docs/2026/projectstructure_k_referenzkennzeichnung.md)
+        - **Обозначение страниц согласно стандарту DIN EN 61355-1** — [docs/2026/projectstructure_k_objektkennzeichen.md](docs/2026/projectstructure_k_objektkennzeichen.md)
+      - **Процесс работы**
+        - **Определить структуру проекта** — [docs/2026/projectstructure_h_prjstrukturdefinieren.md](docs/2026/projectstructure_h_prjstrukturdefinieren.md)
+        - **Определить пользовательскую структуру проекта** — [docs/2026/projectstructure_h_frhierarchienerstellen.md](docs/2026/projectstructure_h_frhierarchienerstellen.md)
+        - **Задать представление структуры дерева в навигаторах** — [docs/2026/projectstructure_h_kennzeichenausblenden.md](docs/2026/projectstructure_h_kennzeichenausblenden.md)
+    - **Сжатие проекта**
+      - **Основы**
+        - **Сжатие проекта** — [docs/2026/projectcleangui_k_start.md](docs/2026/projectcleangui_k_start.md)
+        - **Сжимаемые данные проекта** — [docs/2026/projectcleangui_k_komprimierungsdaten.md](docs/2026/projectcleangui_k_komprimierungsdaten.md)
+      - **Процесс работы**
+        - **Сжать проект** — [docs/2026/projectcleangui_h_projektsaeubern.md](docs/2026/projectcleangui_h_projektsaeubern.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Сжатие** — [docs/2026/projectcleangui_d_komprimierungseinstellungen.md](docs/2026/projectcleangui_d_komprimierungseinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сжать проект** — [docs/2026/projectcleangui_d_projektkomprimieren.md](docs/2026/projectcleangui_d_projektkomprimieren.md)
+          - Вызов диалогового окна:
+    - **Очистить проект**
+      - **Основы**
+        - **Очистка проектов** — [docs/2026/ProjectCorrectionGui_k_start.md](docs/2026/ProjectCorrectionGui_k_start.md)
+        - **Корректируемые данные проекта** — [docs/2026/ProjectCorrectionGui_k_korrekturdaten.md](docs/2026/ProjectCorrectionGui_k_korrekturdaten.md)
+          - Клеммы
+          - Штекеры
+          - Соединения
+          - ПЛК
+      - **Процесс работы**
+        - **Очистить проект** — [docs/2026/ProjectCorrectionGui_h_projektkorrigieren.md](docs/2026/ProjectCorrectionGui_h_projektkorrigieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Настройки: Очистить"** — [docs/2026/ProjectCorrectionGui_d_korrektureinstellungen.md](docs/2026/ProjectCorrectionGui_d_korrektureinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Очистить проект"** — [docs/2026/ProjectCorrectionGui_d_projektkorrigieren.md](docs/2026/ProjectCorrectionGui_d_projektkorrigieren.md)
+          - Вызов диалогового окна:
+    - **Резервирование данных**
+      - **Основы**
+        - **Резервирование данных** — [docs/2026/bakbackupdlggui_k_start.md](docs/2026/bakbackupdlggui_k_start.md)
+        - **Резервирование данных проекта** — [docs/2026/bakbackupdlggui_k_arbeitsweise.md](docs/2026/bakbackupdlggui_k_arbeitsweise.md)
+        - **Резервирование данных: Принцип** — [docs/2026/bakbackupdlggui_k_prinzip.md](docs/2026/bakbackupdlggui_k_prinzip.md)
+      - **Процесс работы**
+        - **Резервировать проекты** — [docs/2026/bakbackupdlggui_h_projektesichern.md](docs/2026/bakbackupdlggui_h_projektesichern.md)
+          - Резервирование проектов из вида Backstage
+          - Резервирование проектов из Управления проектами
+        - **Восстановить проекты** — [docs/2026/bakrestoredlggui_h_projektewiederherstellen.md](docs/2026/bakrestoredlggui_h_projektewiederherstellen.md)
+          - Восстановление проектов (вид Backstage)
+          - Восстановление проектов (управление проектами)
+        - **Распаковка проектов** — [docs/2026/bakbackupdlggui_h_entpacken.md](docs/2026/bakbackupdlggui_h_entpacken.md)
+      - **Ссылка**
+        - **Диалоговое окно "Резервировать проекты" / диалоговое окно "Создать базовый проект"** — [docs/2026/bakbackupdlggui_d_projektesichern.md](docs/2026/bakbackupdlggui_d_projektesichern.md)
+          - Вызов диалогового окна "Резервировать проекты":
+          - Вызов диалогового окна "Создать базовый проект":
+        - **Диалоговое окно Восстановить проекты (вид Backstage)** — [docs/2026/bakrestoredlggui_d_projektewiederherstoeffnen.md](docs/2026/bakrestoredlggui_d_projektewiederherstoeffnen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Восстановить проекты (управление проектами)** — [docs/2026/bakrestoredlggui_d_projektewiederherstellen.md](docs/2026/bakrestoredlggui_d_projektewiederherstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Резервировать основные данные"** — [docs/2026/bakbackupmdatadlggui_d_stammdatensichern.md](docs/2026/bakbackupmdatadlggui_d_stammdatensichern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Восстановить основные данные"** — [docs/2026/bakrestoremdatadlggui_d_stammdatenwiederherstellen.md](docs/2026/bakrestoremdatadlggui_d_stammdatenwiederherstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Содержимое файла резервирования** — [docs/2026/bakrestoredlggui_d_inhaltsicherungsdatei.md](docs/2026/bakrestoredlggui_d_inhaltsicherungsdatei.md)
+          - Вызов диалогового окна:
+    - **Многопользовательский режим**
+      - **Основы**
+        - **Многопользовательский режим** — [docs/2026/xesmultiuserconflictgui_k_start.md](docs/2026/xesmultiuserconflictgui_k_start.md)
+        - **Обработка проекта в многопользовательском режиме** — [docs/2026/xesmultiuserconflictgui_k_projektebearbeiten.md](docs/2026/xesmultiuserconflictgui_k_projektebearbeiten.md)
+        - **Заблокированные данные в многопользовательском режиме** — [docs/2026/xesmultiuserconflictgui_k_datensperren.md](docs/2026/xesmultiuserconflictgui_k_datensperren.md)
+      - **Процесс работы**
+        - **Отправить эл. почту в случае конфликта** — [docs/2026/xesmultiuserconflictgui_h_konfliktmailversenden.md](docs/2026/xesmultiuserconflictgui_h_konfliktmailversenden.md)
+      - **Ссылка**
+        - **Диалоговое окно Многопользовательский конфликт** — [docs/2026/xesmultiuserconflictgui_d_konflikte.md](docs/2026/xesmultiuserconflictgui_d_konflikte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Ид. пользователя / адрес** — [docs/2026/xusersettingsgui_d_einstellungenmehrbenutzer.md](docs/2026/xusersettingsgui_d_einstellungenmehrbenutzer.md)
+          - Вызов диалогового окна:
+    - **Многопользовательский монитор**
+      - **Основы**
+        - **Многопользовательский монитор** — [docs/2026/eplan.eplcoreaddin.multiusermonitor_k_start.md](docs/2026/eplan.eplcoreaddin.multiusermonitor_k_start.md)
+        - **Принцип** — [docs/2026/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md](docs/2026/eplan.eplcoreaddin.multiusermonitor_k_prinzip.md)
+        - **Многопользовательский монитор: Порядок действий** — [docs/2026/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md](docs/2026/eplan.eplcoreaddin.multiusermonitor_k_vorgehensweise.md)
+      - **Ссылка**
+        - **Диалоговое окно Многопользовательский монитор** — [docs/2026/eplan.eplcoreaddin.multiusermonitor_d_monitor.md](docs/2026/eplan.eplcoreaddin.multiusermonitor_d_monitor.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Многопользовательский монитор** — [docs/2026/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md](docs/2026/eplan.eplcoreaddin.multiusermonitor_d_einstellungen.md)
+          - Вызов диалогового окна:
+    - **Внешняя обработка**
+      - **Основы**
+        - **Внешняя обработка** — [docs/2026/pxfinterface_k_start.md](docs/2026/pxfinterface_k_start.md)
+        - **Внешняя обработка: Принцип работы** — [docs/2026/pxfinterface_k_arbeitsweise.md](docs/2026/pxfinterface_k_arbeitsweise.md)
+          - Неимпортируемые данные
+          - Внешняя обработка: Внешнее приложение
+        - **Шаблоны Excel для внешней обработки** — [docs/2026/pxfinterface_k_excelexportvorlagen.md](docs/2026/pxfinterface_k_excelexportvorlagen.md)
+      - **Процесс работы**
+        - **Произвести настройки для внешней обработки** — [docs/2026/pxfinterface_h_exporteinstellungen.md](docs/2026/pxfinterface_h_exporteinstellungen.md)
+        - **Экспорт данных для внешней обработки** — [docs/2026/pxfinterface_h_seitenexportieren.md](docs/2026/pxfinterface_h_seitenexportieren.md)
+          - Экспорт данных проекта для внешней обработки
+          - Экспорт данных изделий для внешней обработки
+        - **Импортировать свойства с внешней обработкой** — [docs/2026/pxfinterface_h_datenimportieren.md](docs/2026/pxfinterface_h_datenimportieren.md)
+          - Импортировать данные проекта с внешней обработкой
+          - Импортировать внешне обработанные данные изделий
+          - Создать новые объекты при импорте из Excel
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Внешняя обработка** — [docs/2026/macrosgui_d_pxfeinstellungenexport.md](docs/2026/macrosgui_d_pxfeinstellungenexport.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Вкладка Общее (Настройки: Внешняя обработка)** — [docs/2026/macrosgui_r_pxfallgemein.md](docs/2026/macrosgui_r_pxfallgemein.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Диалоговое окно Настройки: Экспорт Excel ** — [docs/2026/xpxfconverterexcel_d_pxfexceleinstellungen.md](docs/2026/xpxfconverterexcel_d_pxfexceleinstellungen.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных маркировки):
+          - Вызов диалогового окна (для данных изделия):
+        - **Диалоговое окно Настройки: Экспорт текстового файла ** — [docs/2026/xpxfconvertertext_d_pxftexteinstellungen.md](docs/2026/xpxfconvertertext_d_pxftexteinstellungen.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Вкладка Данные (Настройки: Внешняя обработка)** — [docs/2026/macrosgui_r_pxfdaten.md](docs/2026/macrosgui_r_pxfdaten.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Диалоговое окно Внешняя обработка** — [docs/2026/macrosgui_d_pxfseitenexport.md](docs/2026/macrosgui_d_pxfseitenexport.md)
+          - Вызов диалогового окна (для данных проекта):
+          - Вызов диалогового окна (для данных изделия):
+        - **Внешняя обработка: импортировать данные изделий** — [docs/2026/macrosgui_d_pxfartikelimport.md](docs/2026/macrosgui_d_pxfartikelimport.md)
+          - Вызов диалогового окна:
+    - **Проверка проекта**
+      - **Основы**
+        - **Проверка проекта** — [docs/2026/processreceiptcontrol_k_start.md](docs/2026/processreceiptcontrol_k_start.md)
+        - **Проект для сравнения и проект с замечаниями** — [docs/2026/processreceiptcontrol_k_projekte.md](docs/2026/processreceiptcontrol_k_projekte.md)
+        - **Нормоконтроль: Способ действий** — [docs/2026/processreceiptcontrol_k_vorgehensweise.md](docs/2026/processreceiptcontrol_k_vorgehensweise.md)
+      - **Процесс работы**
+        - **Создать схему сравнения настроек** — [docs/2026/processreceiptcontrol_h_vergleichsschema.md](docs/2026/processreceiptcontrol_h_vergleichsschema.md)
+        - **Создать схему сравнения свойств** — [docs/2026/processreceiptcontrol_h_eigenschaftenvergleich.md](docs/2026/processreceiptcontrol_h_eigenschaftenvergleich.md)
+        - **Создать схему контрольных прогонов для проверки проекта** — [docs/2026/processreceiptcontrol_h_pruefschema.md](docs/2026/processreceiptcontrol_h_pruefschema.md)
+        - **Проверить проект** — [docs/2026/processreceiptcontrol_h_eingangskontrolvorber.md](docs/2026/processreceiptcontrol_h_eingangskontrolvorber.md)
+      - **Ссылка**
+        - **Диалоговое окно Проверить проект ** — [docs/2026/prjmanagementgui_d_projekteingangskontrolle.md](docs/2026/prjmanagementgui_d_projekteingangskontrolle.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сравнение настроек проектов** — [docs/2026/modaldialogs_d_vergleicheinstell.md](docs/2026/modaldialogs_d_vergleicheinstell.md)
+          - Вызов диалогового окна:
+        - **Вкладка Результат (проверка проекта)** — [docs/2026/prjmanagementgui_r_ergebnisse.md](docs/2026/prjmanagementgui_r_ergebnisse.md)
+          - Вызов диалогового окна:
+    - **Комментарии**
+      - **Основы**
+        - **Комментарии** — [docs/2026/projectcomments_k_start.md](docs/2026/projectcomments_k_start.md)
+        - **Комментирование : Процедура** — [docs/2026/projectcomments_k_vorgehensweise.md](docs/2026/projectcomments_k_vorgehensweise.md)
+          - PDF-комментарии
+          - Eplan-комментарии
+      - **Процесс работы**
+        - **Импортировать PDF-комментарии** — [docs/2026/projectcomments_h_kommentareimportieren.md](docs/2026/projectcomments_h_kommentareimportieren.md)
+        - **Вставить комментарии** — [docs/2026/projectcomments_h_kommentareeinfuegen.md](docs/2026/projectcomments_h_kommentareeinfuegen.md)
+          - Вставить комментарий в виде текста
+          - Вставить комментарий в виде прямоугольника
+          - Вставить комментарий в виде многоугольника
+        - **Создание и размещение неразмещенных комментариев** — [docs/2026/projectcomments_h_kommentareplatzieren.md](docs/2026/projectcomments_h_kommentareplatzieren.md)
+          - Создать неразмещенные комментарии
+          - Разместить комментарии
+          - Удалить размещение комментариев
+        - **Редактировать комментарии** — [docs/2026/projectcomments_h_kommentarebearbeiten.md](docs/2026/projectcomments_h_kommentarebearbeiten.md)
+        - **Удалить комментарии** — [docs/2026/projectcomments_h_kommentareloeschen.md](docs/2026/projectcomments_h_kommentareloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Комментарии — <Имя проекта>** — [docs/2026/pdfexportgui_d_kommentarenavigator.md](docs/2026/pdfexportgui_d_kommentarenavigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка Комментарий** — [docs/2026/gededitgui_r_kommentareigenschaften.md](docs/2026/gededitgui_r_kommentareigenschaften.md)
+          - Вызов диалогового окна:
+        - **Вкладка "История"** — [docs/2026/gededitgui_r_kommentarhistorie.md](docs/2026/gededitgui_r_kommentarhistorie.md)
+          - Вызов диалогового окна:
+    - **Области обработки**
+      - **Основы**
+        - **Области обработки** — [docs/2026/workingsection_k_start.md](docs/2026/workingsection_k_start.md)
+        - **Области обработки: Принцип** — [docs/2026/workingsection_k_prinzip.md](docs/2026/workingsection_k_prinzip.md)
+      - **Процесс работы**
+        - **Разделение проектов на области обработки** — [docs/2026/workingsection_h_bereichedefinieren.md](docs/2026/workingsection_h_bereichedefinieren.md)
+        - **Области обработки определить как администратора проекта** — [docs/2026/workingsection_h_adminbereichedefinieren.md](docs/2026/workingsection_h_adminbereichedefinieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Определить области обработки" / диалоговое окно "Области обработки определить как администратора проекта"** — [docs/2026/eservicesgui_d_bearbeitungsbereichdefinieren.md](docs/2026/eservicesgui_d_bearbeitungsbereichdefinieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать обработчик** — [docs/2026/eservicesgui_d_bearbeiterauswaehlen.md](docs/2026/eservicesgui_d_bearbeiterauswaehlen.md)
+          - Вызов диалогового окна:
+    - **Частичные проекты**
+      - **Основы**
+        - **Частичные проекты** — [docs/2026/subprojectservicesgui_k_start.md](docs/2026/subprojectservicesgui_k_start.md)
+        - **Частичные проекты: Принцип работы** — [docs/2026/subprojectservicesgui_k_grundlagen.md](docs/2026/subprojectservicesgui_k_grundlagen.md)
+        - **Выгрузка частичных проектов** — [docs/2026/subprojectservicesgui_k_auslagern.md](docs/2026/subprojectservicesgui_k_auslagern.md)
+        - **Сохранение частичных проектов** — [docs/2026/subprojectservicesgui_k_einlagern.md](docs/2026/subprojectservicesgui_k_einlagern.md)
+      - **Ссылка**
+        - **Диалоговое окно "Частичные проекты"** — [docs/2026/subprojectservicesgui_d_teilprojekte.md](docs/2026/subprojectservicesgui_d_teilprojekte.md)
+          - Вызов диалогового окна:
+  - **Управление страницами**
+    - **Навигатор страниц**
+      - **Основы**
+        - **Навигатор страниц** — [docs/2026/pagebrowsergui_k_start.md](docs/2026/pagebrowsergui_k_start.md)
+        - **Представление страниц проекта** — [docs/2026/pagebrowsergui_k_prinzip.md](docs/2026/pagebrowsergui_k_prinzip.md)
+        - **Типы страниц** — [docs/2026/pagebrowsergui_k_seitentypen.md](docs/2026/pagebrowsergui_k_seitentypen.md)
+        - **Свойства страницы** — [docs/2026/pagebrowsergui_k_eigenschaften.md](docs/2026/pagebrowsergui_k_eigenschaften.md)
+        - **Фильтр страниц** — [docs/2026/pagebrowsergui_k_filter.md](docs/2026/pagebrowsergui_k_filter.md)
+        - **Внешние документы** — [docs/2026/pagebrowsergui_k_fremddokumente.md](docs/2026/pagebrowsergui_k_fremddokumente.md)
+      - **Процесс работы**
+        - **Создать и удалить страницы** — [docs/2026/pagebrowsergui_h_seitenanlegen.md](docs/2026/pagebrowsergui_h_seitenanlegen.md)
+        - **Открытие и закрытие страниц** — [docs/2026/pagebrowsergui_h_seitenoeffnen.md](docs/2026/pagebrowsergui_h_seitenoeffnen.md)
+        - **Вывод предварительного отображения графики** — [docs/2026/pagebrowsergui_h_seitenvorschau.md](docs/2026/pagebrowsergui_h_seitenvorschau.md)
+        - **Копировать страницы в проекте** — [docs/2026/pagebrowsergui_h_seitenkopieren.md](docs/2026/pagebrowsergui_h_seitenkopieren.md)
+        - **Копировать страницы между различными проектами** — [docs/2026/pagebrowsergui_h_seitenkopierenprojekte.md](docs/2026/pagebrowsergui_h_seitenkopierenprojekte.md)
+        - **Адаптировать структуру страниц** — [docs/2026/pagebrowsergui_h_seitenstrukturanpassen.md](docs/2026/pagebrowsergui_h_seitenstrukturanpassen.md)
+        - **Нумеровать и переименовать страницы** — [docs/2026/pagebrowsergui_h_seitennummerieren.md](docs/2026/pagebrowsergui_h_seitennummerieren.md)
+        - **Обработать свойства страниц** — [docs/2026/pagebrowsergui_h_eigenschaftenbearbeiten.md](docs/2026/pagebrowsergui_h_eigenschaftenbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: страницы (проект)** — [docs/2026/pagebrowsergui_d_projekteinstellungen.md](docs/2026/pagebrowsergui_d_projekteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Страницы — <Имя проекта>** — [docs/2026/pagebrowsergui_d_seitenuebersicht.md](docs/2026/pagebrowsergui_d_seitenuebersicht.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства страницы / Новая страница** — [docs/2026/pagebrowsergui_d_seiteneigenschaften.md](docs/2026/pagebrowsergui_d_seiteneigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Полное имя страницы** — [docs/2026/pagebrowsergui_d_seitenname.md](docs/2026/pagebrowsergui_d_seitenname.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать страницы** — [docs/2026/pagebrowsergui_d_seitennummerierung.md](docs/2026/pagebrowsergui_d_seitennummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать страницы: Предварительный просмотр результата** — [docs/2026/pagebrowsergui_d_seitennummerierungsvorschau.md](docs/2026/pagebrowsergui_d_seitennummerierungsvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать страницы** — [docs/2026/pagebrowsergui_d_seitenkopieren.md](docs/2026/pagebrowsergui_d_seitenkopieren.md)
+          - Вызов диалогового окна:
+        - **Вкладка Страницы** — [docs/2026/pagebrowsergui_r_seitenstruktur.md](docs/2026/pagebrowsergui_r_seitenstruktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка ОУ** — [docs/2026/pagebrowsergui_r_ortkaestenstruktur.md](docs/2026/pagebrowsergui_r_ortkaestenstruktur.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать структуры** — [docs/2026/pagebrowsergui_d_strukturenbearbeiten.md](docs/2026/pagebrowsergui_d_strukturenbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Скопировать файлы со ссылками в проект вручную"** — [docs/2026/eservicesgui_d_insprojektkopieren.md](docs/2026/eservicesgui_d_insprojektkopieren.md)
+          - Вызов диалогового окна:
+    - **Интерфейс DXF/DWG**
+      - **Основы**
+        - **Интерфейс DXF/DWG** — [docs/2026/xdxfgui_k_start.md](docs/2026/xdxfgui_k_start.md)
+        - **Интерфейс DXF/DWG: Основные положения** — [docs/2026/xdxfgui_k_grundlagen.md](docs/2026/xdxfgui_k_grundlagen.md)
+      - **Процесс работы**
+        - **Экспортировать страницы в формате DXF / DWG** — [docs/2026/xdxfgui_h_seitendxfexportieren.md](docs/2026/xdxfgui_h_seitendxfexportieren.md)
+        - **Импортировать страницы в формате DXF/DWG** — [docs/2026/xdxfgui_h_seitendxfimportieren.md](docs/2026/xdxfgui_h_seitendxfimportieren.md)
+        - **Вставить файлы DXF / DWG в графическом редакторе** — [docs/2026/xdxfgui_h_seitengrafeditoreinfuegen.md](docs/2026/xdxfgui_h_seitengrafeditoreinfuegen.md)
+      - **Ссылка**
+        - **Диалоговое окно Экспорт DXF/DWG** — [docs/2026/xdxfgui_d_export.md](docs/2026/xdxfgui_d_export.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импорт DXF/DWG** — [docs/2026/xdxfgui_d_import.md](docs/2026/xdxfgui_d_import.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоить страницы** — [docs/2026/xdxfgui_d_seitenzuweisen.md](docs/2026/xdxfgui_d_seitenzuweisen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Форматир. импорта** — [docs/2026/xdxfgui_d_importformatierung.md](docs/2026/xdxfgui_d_importformatierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно  Настройки: Экспорт и импорт DXF / DWG** — [docs/2026/xdxfgui_d_einstellungen.md](docs/2026/xdxfgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Экспорт (Пользователь, DXF)** — [docs/2026/xdxfgui_r_export.md](docs/2026/xdxfgui_r_export.md)
+          - Вызов диалогового окна:
+        - **Вкладка Импорт** — [docs/2026/xdxfgui_r_import.md](docs/2026/xdxfgui_r_import.md)
+          - Вызов диалогового окна:
+        - **Вкладка Слои** — [docs/2026/xdxfgui_r_ebenen.md](docs/2026/xdxfgui_r_ebenen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Цвета** — [docs/2026/xdxfgui_r_farben.md](docs/2026/xdxfgui_r_farben.md)
+          - Вызов диалогового окна:
+        - **Вкладка Виды шрифтов** — [docs/2026/xdxfgui_r_schriftarten.md](docs/2026/xdxfgui_r_schriftarten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Типы линий** — [docs/2026/xdxfgui_r_linientypen.md](docs/2026/xdxfgui_r_linientypen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение блока** — [docs/2026/xdxfgui_r_blockdefinition.md](docs/2026/xdxfgui_r_blockdefinition.md)
+          - Вызов диалогового окна:
+        - **Вкладка Атрибут блока** — [docs/2026/xdxfgui_r_blockattribut.md](docs/2026/xdxfgui_r_blockattribut.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение атрибута** — [docs/2026/xdxfgui_d_attributdefinition.md](docs/2026/xdxfgui_d_attributdefinition.md)
+          - Вызов диалогового окна:
+    - **Экспорт графических файлов**
+      - **Основы**
+        - **Экспорт графических файлов** — [docs/2026/gedgraphicexportgui_k_start.md](docs/2026/gedgraphicexportgui_k_start.md)
+      - **Процесс работы**
+        - **Вывести страницы в виде графических файлов** — [docs/2026/gedgraphicexportgui_h_seitenexportieren.md](docs/2026/gedgraphicexportgui_h_seitenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Экспорт графических файлов** — [docs/2026/gedgraphicexportgui_d_exporteinstellungen.md](docs/2026/gedgraphicexportgui_d_exporteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт графических файлов** — [docs/2026/modaldialogsdb_d_export.md](docs/2026/modaldialogsdb_d_export.md)
+          - Вызов диалогового окна:
+    - **Экспорт файла PDF**
+      - **Основы**
+        - **Экспорт файла PDF** — [docs/2026/pdfexportgui_k_start.md](docs/2026/pdfexportgui_k_start.md)
+        - **Экспорт PDF-файлов: Основные положения** — [docs/2026/pdfexportgui_k_grundlagen.md](docs/2026/pdfexportgui_k_grundlagen.md)
+      - **Процесс работы**
+        - **Вывести страницы в PDF-файл** — [docs/2026/pdfexportgui_h_seitenexportieren.md](docs/2026/pdfexportgui_h_seitenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Экспорт PDF** — [docs/2026/pdfexportgui_d_einstellexport.md](docs/2026/pdfexportgui_d_einstellexport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Экспорт (пользователь, Экспорт PDF)** — [docs/2026/pdfexportgui_r_export.md](docs/2026/pdfexportgui_r_export.md)
+          - Вызов диалогового окна:
+        - **Вкладка Общее (пользователь, Экспорт PDF)** — [docs/2026/pdfexportgui_r_allgemein.md](docs/2026/pdfexportgui_r_allgemein.md)
+          - Вызов диалогового окна:
+        - **Вкладка Страницы устройства** — [docs/2026/pdfexportgui_r_bmseiten.md](docs/2026/pdfexportgui_r_bmseiten.md)
+          - Вызов диалогового окна:
+        - **Вкладки "Свойства устройства" / "Свойства изделия"** — [docs/2026/pdfexportgui_r_bmeigenschaften.md](docs/2026/pdfexportgui_r_bmeigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Языки вывода PDF** — [docs/2026/pdfexportgui_d_projekteinstellungen.md](docs/2026/pdfexportgui_d_projekteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт PDF** — [docs/2026/pdfexportgui_d_export.md](docs/2026/pdfexportgui_d_export.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Границы печати** — [docs/2026/printgui_d_druckraender.md](docs/2026/printgui_d_druckraender.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: PDF-выходная величина** — [docs/2026/pdfexportgui_d_einstellausgabegroesse.md](docs/2026/pdfexportgui_d_einstellausgabegroesse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать формат бумаги** — [docs/2026/pdfexportgui_d_auswahlausgabeformat.md](docs/2026/pdfexportgui_d_auswahlausgabeformat.md)
+          - Вызов диалогового окна:
+    - **Печать**
+      - **Основы**
+        - **Печать** — [docs/2026/printgui_k_start.md](docs/2026/printgui_k_start.md)
+        - **Печать: Принцип** — [docs/2026/printgui_k_prinzip.md](docs/2026/printgui_k_prinzip.md)
+      - **Процесс работы**
+        - **Печать страниц** — [docs/2026/printgui_h_drucken.md](docs/2026/printgui_h_drucken.md)
+        - **Печать присоединенных документов** — [docs/2026/printgui_h_begleitdokumente.md](docs/2026/printgui_h_begleitdokumente.md)
+      - **Ссылка**
+        - **Диалоговое окно Печать** — [docs/2026/printgui_d_drucken.md](docs/2026/printgui_d_drucken.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Печать** — [docs/2026/printgui_d_druckoptionen.md](docs/2026/printgui_d_druckoptionen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Выбрать присоединенные документы"** — [docs/2026/printgui_d_begleitdokumente.md](docs/2026/printgui_d_begleitdokumente.md)
+          - Вызов диалогового окна:
+  - **Использование графической обработки**
+    - **Графический редактор**
+      - **Основы**
+        - **Графический редактор** — [docs/2026/gededitgui_k_start.md](docs/2026/gededitgui_k_start.md)
+        - **Элементы управления графического редактора** — [docs/2026/gededitgui_k_prinzip.md](docs/2026/gededitgui_k_prinzip.md)
+        - **Системы координат** — [docs/2026/gededitgui_k_koordinatensysteme.md](docs/2026/gededitgui_k_koordinatensysteme.md)
+        - **Масштаб страницы** — [docs/2026/gededitgui_k_seitenmassstab.md](docs/2026/gededitgui_k_seitenmassstab.md)
+        - **Управление курсором с помощью клавиатуры** — [docs/2026/gededitgui_k_cursortastatur.md](docs/2026/gededitgui_k_cursortastatur.md)
+        - **Обзор комбинаций клавиш** — [docs/2026/gededitgui_k_tastaturbefehle.md](docs/2026/gededitgui_k_tastaturbefehle.md)
+        - **Отмена и восстановление операций** — [docs/2026/gededitgui_k_undoundredo.md](docs/2026/gededitgui_k_undoundredo.md)
+        - **Функции масштабирования** — [docs/2026/gededitgui_k_zoom.md](docs/2026/gededitgui_k_zoom.md)
+        - **Тексты** — [docs/2026/gededitgui_k_texte.md](docs/2026/gededitgui_k_texte.md)
+        - **Блок выравнивания для текстов** — [docs/2026/gededitgui_k_texteeinpassen.md](docs/2026/gededitgui_k_texteeinpassen.md)
+        - **Захват объекта** — [docs/2026/gededitgui_k_objektfang.md](docs/2026/gededitgui_k_objektfang.md)
+        - **Последовательность обработки сгруппированных объектов** — [docs/2026/gededitgui_k_gruppierung.md](docs/2026/gededitgui_k_gruppierung.md)
+        - **Область ввода данных** — [docs/2026/gededitgui_k_kommandozeile.md](docs/2026/gededitgui_k_kommandozeile.md)
+        - **Поворачивание и зеркальное отображение** — [docs/2026/gededitgui_k_drehenspiegeln.md](docs/2026/gededitgui_k_drehenspiegeln.md)
+        - **Функции обрезки** — [docs/2026/gededitgui_k_trimmen.md](docs/2026/gededitgui_k_trimmen.md)
+      - **Процесс работы**
+        - **Использовать вспомогательные опции отображения и позиционирования**
+          - **Определить величины шага** — [docs/2026/gededitgui_h_schrittweitenfestlegen.md](docs/2026/gededitgui_h_schrittweitenfestlegen.md)
+          - **Переместить исходную точку координат** — [docs/2026/gededitgui_h_bezugspunktverschiebung.md](docs/2026/gededitgui_h_bezugspunktverschiebung.md)
+          - **Работать с сетками** — [docs/2026/gededitgui_h_raster.md](docs/2026/gededitgui_h_raster.md)
+          - **Активировать захват объекта** — [docs/2026/gededitgui_h_fangpunkte.md](docs/2026/gededitgui_h_fangpunkte.md)
+          - **Активировать логический захват** — [docs/2026/gededitgui_h_logikfang.md](docs/2026/gededitgui_h_logikfang.md)
+          - **Использовать режим конструкции** — [docs/2026/gededitgui_h_konstruktionsmodus.md](docs/2026/gededitgui_h_konstruktionsmodus.md)
+          - **Использование ортогональной функции** — [docs/2026/gededitgui_h_orthogonalfunktion.md](docs/2026/gededitgui_h_orthogonalfunktion.md)
+          - **Отобразить точки вставки** — [docs/2026/gededitgui_h_einfuegepunkte.md](docs/2026/gededitgui_h_einfuegepunkte.md)
+          - **Отображать невидимые элементы** — [docs/2026/gededitgui_h_unsichtbareelemente.md](docs/2026/gededitgui_h_unsichtbareelemente.md)
+          - **Отобразить пустые тексты** — [docs/2026/gededitgui_h_texteanzeigen.md](docs/2026/gededitgui_h_texteanzeigen.md)
+          - **Показать имена свойств** — [docs/2026/gededitgui_h_eigenschaftsnamen.md](docs/2026/gededitgui_h_eigenschaftsnamen.md)
+          - **Показать обозначения и описания выводов устройств** — [docs/2026/gededitgui_h_anschlussbezanzeigen.md](docs/2026/gededitgui_h_anschlussbezanzeigen.md)
+          - **Отобразить выводы кабеля** — [docs/2026/gededitgui_h_kabelanschluesseanzeigen.md](docs/2026/gededitgui_h_kabelanschluesseanzeigen.md)
+          - **Отображать внешние цели** — [docs/2026/gededitgui_h_externezieleanzeigen.md](docs/2026/gededitgui_h_externezieleanzeigen.md)
+          - **Использование функций масштабирования** — [docs/2026/gededitgui_h_zoom.md](docs/2026/gededitgui_h_zoom.md)
+          - **Использование области ввода данных** — [docs/2026/gededitgui_h_kommandozeile.md](docs/2026/gededitgui_h_kommandozeile.md)
+        - **Обработать графические элементы**
+          - **Выбрать элементы** — [docs/2026/gededitgui_h_elementeauswaehlen.md](docs/2026/gededitgui_h_elementeauswaehlen.md)
+          - **Копировать, вырезать и вставить элементы** — [docs/2026/gededitgui_h_elementekopieren.md](docs/2026/gededitgui_h_elementekopieren.md)
+          - **Дублировать элементы** — [docs/2026/gededitgui_h_elementeduplizieren.md](docs/2026/gededitgui_h_elementeduplizieren.md)
+          - **Стереть элементы** — [docs/2026/gededitgui_h_elementeloeschen.md](docs/2026/gededitgui_h_elementeloeschen.md)
+          - **Переместить элементы** — [docs/2026/gededitgui_h_elementeverschieben.md](docs/2026/gededitgui_h_elementeverschieben.md)
+          - **Работать с группами элементов** — [docs/2026/gededitgui_h_elementegruppieren.md](docs/2026/gededitgui_h_elementegruppieren.md)
+          - **Равномерно распределить элементы** — [docs/2026/gededitgui_h_gleichmaessigverteilen.md](docs/2026/gededitgui_h_gleichmaessigverteilen.md)
+          - **Выравнивание элементов горизонтально/вертикально** — [docs/2026/gededitgui_h_horverausrichten.md](docs/2026/gededitgui_h_horverausrichten.md)
+          - **Переместить элементы на передний план / на задний план** — [docs/2026/gededitgui_h_elementeausrichten.md](docs/2026/gededitgui_h_elementeausrichten.md)
+          - **Выбор и обработка фоновых изображений** — [docs/2026/gededitgui_h_hintergrundbearbeiten.md](docs/2026/gededitgui_h_hintergrundbearbeiten.md)
+          - **Объединить элементы в блок / Разбить блок** — [docs/2026/gededitgui_h_blockbildenaufloesen.md](docs/2026/gededitgui_h_blockbildenaufloesen.md)
+          - **Поворачивание и зеркальное отображение элементов** — [docs/2026/gededitgui_h_elementedrehenspiegeln.md](docs/2026/gededitgui_h_elementedrehenspiegeln.md)
+          - **Масштабирование и растягивание элементов** — [docs/2026/gededitgui_h_elementeveraendern.md](docs/2026/gededitgui_h_elementeveraendern.md)
+          - **Обрезка элементов** — [docs/2026/gededitgui_h_elementetrimmen.md](docs/2026/gededitgui_h_elementetrimmen.md)
+          - **Закругление/скашивание углов (фаски)** — [docs/2026/gededitgui_h_eckenrunden.md](docs/2026/gededitgui_h_eckenrunden.md)
+          - **Преобразовать условные обозначения в графику** — [docs/2026/gededitgui_h_schaltzeicheningrafik.md](docs/2026/gededitgui_h_schaltzeicheningrafik.md)
+          - **Обработать свойства текста** — [docs/2026/gededitgui_h_textebearbeiten.md](docs/2026/gededitgui_h_textebearbeiten.md)
+          - **Подогнать тексты в блоке выравнивания** — [docs/2026/gededitgui_h_texteeinpassen.md](docs/2026/gededitgui_h_texteeinpassen.md)
+          - **Присоединить / отсоединить тексты** — [docs/2026/gededitgui_h_texteandocken.md](docs/2026/gededitgui_h_texteandocken.md)
+          - **Переместить тексты свойств** — [docs/2026/gededitgui_h_symboltexteverschieben.md](docs/2026/gededitgui_h_symboltexteverschieben.md)
+          - **Перенести настройки формата** — [docs/2026/gededitgui_h_formatuebertragen.md](docs/2026/gededitgui_h_formatuebertragen.md)
+        - **Вставить графические элементы**
+          - **Начертить линии и прямоугольники** — [docs/2026/gededitgui_h_linienzeichnen.md](docs/2026/gededitgui_h_linienzeichnen.md)
+          - **Начертить круги, дуги и эллипсы** — [docs/2026/gededitgui_h_kreisezeichnen.md](docs/2026/gededitgui_h_kreisezeichnen.md)
+          - **Начертить перпендикулярные или касательные линии** — [docs/2026/gededitgui_h_lotrechttangentialzeichnen.md](docs/2026/gededitgui_h_lotrechttangentialzeichnen.md)
+          - **Начертить кривые Безье** — [docs/2026/gededitgui_h_bezierzeichnen.md](docs/2026/gededitgui_h_bezierzeichnen.md)
+          - **Ввести координаты при черчении** — [docs/2026/gededitgui_h_koordinatenbeimzeichnen.md](docs/2026/gededitgui_h_koordinatenbeimzeichnen.md)
+          - **Вставить тексты** — [docs/2026/gededitgui_h_texte.md](docs/2026/gededitgui_h_texte.md)
+          - **Вставить графические файлы** — [docs/2026/gededitgui_h_bilddateien.md](docs/2026/gededitgui_h_bilddateien.md)
+          - **Вставить гиперссылки** — [docs/2026/gededitgui_h_hyperlinks.md](docs/2026/gededitgui_h_hyperlinks.md)
+          - **Вставить QR-коды** — [docs/2026/gededitgui_h_qrcodes.md](docs/2026/gededitgui_h_qrcodes.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)** — [docs/2026/gedviewer_d_einstellungenprojektallgemein.md](docs/2026/gedviewer_d_einstellungenprojektallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 2D** — [docs/2026/gedviewer_d_einstellungenbenutzerallgemein.md](docs/2026/gedviewer_d_einstellungenbenutzerallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 3D** — [docs/2026/gedviewer_d_einstellungenbenutzerallgemein3d.md](docs/2026/gedviewer_d_einstellungenbenutzerallgemein3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Диалоговые окна свойств** — [docs/2026/gedviewer_d_einstelleigenschaftendialoge.md](docs/2026/gedviewer_d_einstelleigenschaftendialoge.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Область ввода данных** — [docs/2026/gedviewer_d_einstellkommandozeile.md](docs/2026/gedviewer_d_einstellkommandozeile.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Виды шрифтов** — [docs/2026/gededitgui_d_firmaschriftarten.md](docs/2026/gededitgui_d_firmaschriftarten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать величину шага** — [docs/2026/gededitgui_d_schrittweite.md](docs/2026/gededitgui_d_schrittweite.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Ввод координат** — [docs/2026/gededitgui_d_koordinateneingabe.md](docs/2026/gededitgui_d_koordinateneingabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Относительный ввод координат** — [docs/2026/gededitgui_d_relativekoordinaten.md](docs/2026/gededitgui_d_relativekoordinaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Свойства (<Графический элемент>)" / вкладка "Формат" (комментарии)** — [docs/2026/gededitgui_d_formatgrafik.md](docs/2026/gededitgui_d_formatgrafik.md)
+          - Вызов диалогового окна "Свойства":
+          - Вызов диалогового окна вкладки "Формат":
+        - **Вкладка Текст** — [docs/2026/gededitgui_r_text.md](docs/2026/gededitgui_r_text.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+        - **Вкладка Графический файл** — [docs/2026/gededitgui_r_bilddatei.md](docs/2026/gededitgui_r_bilddatei.md)
+          - Вызов диалогового окна:
+        - **Вкладка Гиперссылка** — [docs/2026/gededitgui_r_hyperlink.md](docs/2026/gededitgui_r_hyperlink.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (тексты)** — [docs/2026/gededitgui_r_format.md](docs/2026/gededitgui_r_format.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+        - **Диалоговое окно Изменить свойства ссылки блока** — [docs/2026/gededitgui_d_blockreferenzeigenschaften.md](docs/2026/gededitgui_d_blockreferenzeigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать графический файл** — [docs/2026/gededitgui_d_bildkopieren.md](docs/2026/gededitgui_d_bildkopieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сохранить графический файл** — [docs/2026/gededitgui_d_bildeinlagern.md](docs/2026/gededitgui_d_bildeinlagern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать гиперссылку** — [docs/2026/gededitgui_d_hyperlinkkopieren.md](docs/2026/gededitgui_d_hyperlinkkopieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Отмена ввода в проекте <Имя проекта>" / диалоговое окно "Восстановление в проекте <Имя проекта>"** — [docs/2026/eservicesgui_d_rueckgaengigliste.md](docs/2026/eservicesgui_d_rueckgaengigliste.md)
+          - Вызов диалогового окна Отмена в проекте <Имя проекта>:
+          - Вызов диалогового окна Восстановить в проекте <Имя проекта>:
+    - **Функциональные тексты зон**
+      - **Основы**
+        - **Функциональные тексты зон** — [docs/2026/gededitgui_k_pfadtextstart.md](docs/2026/gededitgui_k_pfadtextstart.md)
+        - **Функциональные тексты зон: Принцип** — [docs/2026/gededitgui_k_pfadtextprinzip.md](docs/2026/gededitgui_k_pfadtextprinzip.md)
+        - **Оценка функциональных текстов зон** — [docs/2026/gededitgui_k_pfadtextauswertung.md](docs/2026/gededitgui_k_pfadtextauswertung.md)
+      - **Процесс работы**
+        - **Вставить и обработать функциональные тексты зоны** — [docs/2026/gededitgui_h_pfadtexteinfuegen.md](docs/2026/gededitgui_h_pfadtexteinfuegen.md)
+    - **Указания размеров**
+      - **Основы**
+        - **Указания размеров** — [docs/2026/dimensiongui_k_start.md](docs/2026/dimensiongui_k_start.md)
+        - **Указания размеров: Принцип** — [docs/2026/dimensiongui_k_bemassungenprinzip.md](docs/2026/dimensiongui_k_bemassungenprinzip.md)
+      - **Процесс работы**
+        - **Вставить отдельное указание размеров / произвольное указание размеров** — [docs/2026/dimensiongui_h_einzelbemassung.md](docs/2026/dimensiongui_h_einzelbemassung.md)
+        - **Вставить непрерывное указание размеров** — [docs/2026/dimensiongui_h_kettenbemassung.md](docs/2026/dimensiongui_h_kettenbemassung.md)
+        - **Вставить инкрементальное указание размеров** — [docs/2026/dimensiongui_h_steigendebemassung.md](docs/2026/dimensiongui_h_steigendebemassung.md)
+        - **Вставить указание размеров исходной линии** — [docs/2026/dimensiongui_h_bezugspunktbemassung.md](docs/2026/dimensiongui_h_bezugspunktbemassung.md)
+        - **Вставить угловое указание размеров** — [docs/2026/dimensiongui_h_winkelbemassung.md](docs/2026/dimensiongui_h_winkelbemassung.md)
+        - **Вставить круговое указание размеров** — [docs/2026/dimensiongui_h_kreisbemassung.md](docs/2026/dimensiongui_h_kreisbemassung.md)
+        - **Вставить указание размеров посередине между двумя точками** — [docs/2026/dimensiongui_h_bemassungmitmittelpunkten.md](docs/2026/dimensiongui_h_bemassungmitmittelpunkten.md)
+        - **Обработать указания размеров** — [docs/2026/dimensiongui_h_bemassungbearbeiten.md](docs/2026/dimensiongui_h_bemassungbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Указание размеров** — [docs/2026/dimensiongui_d_projektbemassung.md](docs/2026/dimensiongui_d_projektbemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Указания размеров** — [docs/2026/dimensiongui_r_bemassung.md](docs/2026/dimensiongui_r_bemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Линии** — [docs/2026/dimensiongui_r_linien.md](docs/2026/dimensiongui_r_linien.md)
+          - Вызов диалогового окна:
+    - **Прямая обработка**
+      - **Основы**
+        - **Прямая обработка** — [docs/2026/inplaceeditinggui_k_start.md](docs/2026/inplaceeditinggui_k_start.md)
+        - **Свойства прямой обработки** — [docs/2026/inplaceeditinggui_k_eigenschaften.md](docs/2026/inplaceeditinggui_k_eigenschaften.md)
+      - **Процесс работы**
+        - **Использование прямой обработки** — [docs/2026/inplaceeditinggui_h_direktesbearbeiten.md](docs/2026/inplaceeditinggui_h_direktesbearbeiten.md)
+    - **Однополюсное представление**
+      - **Основы**
+        - **Однополюсное представление** — [docs/2026/singlepole_k_start.md](docs/2026/singlepole_k_start.md)
+        - **Однополюсное представление: Принцип** — [docs/2026/singlepole_k_hintergrund.md](docs/2026/singlepole_k_hintergrund.md)
+        - **Обзоры установок** — [docs/2026/singlepole_k_spinnenplaeneundanlagenuebersichten.md](docs/2026/singlepole_k_spinnenplaeneundanlagenuebersichten.md)
+        - **Особенности при использовании клемм в однополюсном представлении.** — [docs/2026/singlepole_k_besonderheitenklemmen.md](docs/2026/singlepole_k_besonderheitenklemmen.md)
+        - **Особенности при использовании кабелей в однополюсном представлении** — [docs/2026/singlepole_k_besonderheitenkabel.md](docs/2026/singlepole_k_besonderheitenkabel.md)
+        - **Жгутовое представление соединений в схемах соединений** — [docs/2026/singlepole_k_straenge_in_einpoligerdarstellung.md](docs/2026/singlepole_k_straenge_in_einpoligerdarstellung.md)
+        - **Документация ПЛК в однополюсном представлении** — [docs/2026/singlepole_k_sps.md](docs/2026/singlepole_k_sps.md)
+        - **Структуры сети** — [docs/2026/singlepole_k_bustopologien.md](docs/2026/singlepole_k_bustopologien.md)
+        - **Определение многополюсных соединений в однополюсном представлении** — [docs/2026/singlepole_k_verbindungen.md](docs/2026/singlepole_k_verbindungen.md)
+      - **Процесс работы**
+        - **Начертить схему соединений в однополюсном представлении** — [docs/2026/singlepole_h_stromlaufplaenezeichnen.md](docs/2026/singlepole_h_stromlaufplaenezeichnen.md)
+        - **Представление кабелей с помощью выводов жгута** — [docs/2026/singlepole_h_gostnorm.md](docs/2026/singlepole_h_gostnorm.md)
+          - Вставка источника кабеля и черчение входящих выводов жгута
+          - Вставка цели кабеля и черчение исходящих выводов жгута
+          - Соединение групп выводов жгута и вставка определения кабеля
+        - **Применить цвета/номера кабельных соединений в качестве обозначений выводов жгута** — [docs/2026/singlepole_h_stranganschluesse_vom_kabel_uebernehmen.md](docs/2026/singlepole_h_stranganschluesse_vom_kabel_uebernehmen.md)
+        - **Определить многополюсные соединения в однополюсной точке определения соединений** — [docs/2026/singlepole_h_allpoligeverbindungendefinieren.md](docs/2026/singlepole_h_allpoligeverbindungendefinieren.md)
+      - **Ссылка**
+        - **Вкладка Подключить устройства** — [docs/2026/xesconnectdevicegui_d_geraeteverschalten.md](docs/2026/xesconnectdevicegui_d_geraeteverschalten.md)
+          - Вызов диалогового окна:
+    - **Компоновка электрошкафа 2D**
+      - **Основы**
+        - **Компоновка электрошкафа 2D** — [docs/2026/panellayoutgui_k_start.md](docs/2026/panellayoutgui_k_start.md)
+        - **Компоновка электрошкафа 2D: Основные положения** — [docs/2026/panellayoutgui_k_grundlagen.md](docs/2026/panellayoutgui_k_grundlagen.md)
+        - **Компоновка электрошкафа 2D: Виды размещения** — [docs/2026/panellayoutgui_k_platzierungsarten.md](docs/2026/panellayoutgui_k_platzierungsarten.md)
+        - **Компоновка электрошкафа 2D: Легенды** — [docs/2026/panellayoutgui_k_legenden.md](docs/2026/panellayoutgui_k_legenden.md)
+      - **Процесс работы**
+        - **Размещение монтажной платы (2D)** — [docs/2026/panellayoutgui_h_montageplattenplatzieren.md](docs/2026/panellayoutgui_h_montageplattenplatzieren.md)
+        - **Разместить функциональные элементы на монтажной плате** — [docs/2026/panellayoutgui_h_bauteileplatzieren.md](docs/2026/panellayoutgui_h_bauteileplatzieren.md)
+        - **Разместить функциональные элементы без схемы соединений** — [docs/2026/panellayoutgui_h_bauteileohneschaltplan.md](docs/2026/panellayoutgui_h_bauteileohneschaltplan.md)
+        - **Разместить функциональные элементы на несущей шине** — [docs/2026/panellayoutgui_h_hutschienenplatzierung.md](docs/2026/panellayoutgui_h_hutschienenplatzierung.md)
+        - **Начертить заблокированные области** — [docs/2026/panellayoutgui_h_sperrflaechenzeichnen.md](docs/2026/panellayoutgui_h_sperrflaechenzeichnen.md)
+        - **Обработать и отобразить свойства размещений изделий** — [docs/2026/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md](docs/2026/panellayoutgui_h_eigenschaftenartikelplatzierungenbearbeiten.md)
+        - **Проверить размещения изделий** — [docs/2026/panellayoutgui_h_artikelplatzierungenueberpruefen.md](docs/2026/panellayoutgui_h_artikelplatzierungenueberpruefen.md)
+        - **Генерировать легенды электрошкафа** — [docs/2026/panellayoutgui_h_legendenanlegen.md](docs/2026/panellayoutgui_h_legendenanlegen.md)
+        - **Обработать позиции легенды** — [docs/2026/panellayoutgui_h_legendenaktualisieren.md](docs/2026/panellayoutgui_h_legendenaktualisieren.md)
+        - **Обновить главные элементы** — [docs/2026/panellayoutgui_h_hauptbauteileaktualisieren.md](docs/2026/panellayoutgui_h_hauptbauteileaktualisieren.md)
+        - **Обновить размеры изделий** — [docs/2026/panellayoutgui_h_artikelabmessungenaktualisieren.md](docs/2026/panellayoutgui_h_artikelabmessungenaktualisieren.md)
+        - **Использовать функции перехода** — [docs/2026/panellayoutgui_h_sprungfunktionen.md](docs/2026/panellayoutgui_h_sprungfunktionen.md)
+        - **Генерировать диаграммы соединений** — [docs/2026/panellayoutgui_h_verbindungsdiagramme.md](docs/2026/panellayoutgui_h_verbindungsdiagramme.md)
+      - **Ссылка**
+        - **Диалоговое окно Компоновка электрошкафа 2D — <Имя проекта>** — [docs/2026/panellayoutgui_d_schaltschrankaufbaupdd.md](docs/2026/panellayoutgui_d_schaltschrankaufbaupdd.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Компоновка электрошкафа 2D** — [docs/2026/panellayoutgui_d_schaltschrankaufbaueinstellungen.md](docs/2026/panellayoutgui_d_schaltschrankaufbaueinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удлинение и интервал** — [docs/2026/panellayoutgui_d_ausdehnungabstand.md](docs/2026/panellayoutgui_d_ausdehnungabstand.md)
+          - Вызов диалогового окна:
+        - **Вкладка Монтажная плата (компоновка электрошкафа)** — [docs/2026/devicetaggui_r_montageplatte.md](docs/2026/devicetaggui_r_montageplatte.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение изделия** — [docs/2026/devicetaggui_r_artikelplatzierung.md](docs/2026/devicetaggui_r_artikelplatzierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать** — [docs/2026/panellayoutgui_d_nummerieren.md](docs/2026/panellayoutgui_d_nummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать позицию легенды** — [docs/2026/panellayoutgui_d_legendenposbearbeiten.md](docs/2026/panellayoutgui_d_legendenposbearbeiten.md)
+          - Вызов диалогового окна:
+    - **Блок-схемы рабочего процесса**
+      - **Основы**
+        - **Блок-схемы рабочего процесса** — [docs/2026/functionaldiagramgui_k_start.md](docs/2026/functionaldiagramgui_k_start.md)
+        - **Блок-схема рабочего процесса: Принцип** — [docs/2026/functionaldiagramgui_k_prinzip.md](docs/2026/functionaldiagramgui_k_prinzip.md)
+        - **Диаграммы GRAFCET** — [docs/2026/functionaldiagramgui_k_grafcet.md](docs/2026/functionaldiagramgui_k_grafcet.md)
+        - **Порядок создания блок-схем рабочего процесса** — [docs/2026/functionaldiagramgui_k_funktionsdiagramme.md](docs/2026/functionaldiagramgui_k_funktionsdiagramme.md)
+          - Размещение функций
+          - Свойства для функциональных диаграмм
+          - Размещение макросов
+          - Особенности размещения функций и макросов
+          - Вставка шкал и порядка рабочего процесса
+          - Порядок рабочего процесса в диаграммах GRAFCET
+      - **Процесс работы**
+        - **Создание диаграмм функций** — [docs/2026/functionaldiagramgui_h_funktionsdiagerstellen.md](docs/2026/functionaldiagramgui_h_funktionsdiagerstellen.md)
+          - Создание страницы проекта для блок-схемы рабочего процесса
+          - Размещение устройств в блок-схеме рабочего процесса
+          - Чертить порядок рабочего процесса
+        - **Создание диаграмм GRAFCET** — [docs/2026/functionaldiagramgui_h_grafcetdiagerstellen.md](docs/2026/functionaldiagramgui_h_grafcetdiagerstellen.md)
+          - Создание страницы проекта для диаграммы GRAFCET
+          - Создание таблицы переменных
+          - Чертить порядок рабочего процесса
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Блок-схемы рабочего процесса** — [docs/2026/functionaldiagramgui_d_einstellungen.md](docs/2026/functionaldiagramgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+  - **Обработать схемы соединений**
+    - **Центр вставки**
+      - **Основы**
+        - **Центр вставки** — [docs/2026/insertergui_k_start.md](docs/2026/insertergui_k_start.md)
+        - **Поиск в центре вставки и управлении изделиями** — [docs/2026/insertergui_k_suchen.md](docs/2026/insertergui_k_suchen.md)
+        - **Набор макросов для центра вставки** — [docs/2026/insertergui_k_makrosammlung.md](docs/2026/insertergui_k_makrosammlung.md)
+        - **Обновление центра вставки** — [docs/2026/insertergui_k_aktualisierung.md](docs/2026/insertergui_k_aktualisierung.md)
+        - **Комбинации клавиш в центре вставки** — [docs/2026/insertergui_k_tastaturbedienung.md](docs/2026/insertergui_k_tastaturbedienung.md)
+      - **Процесс работы**
+        - **Определение избранного в центре вставки** — [docs/2026/insertergui_h_favoritendefinieren.md](docs/2026/insertergui_h_favoritendefinieren.md)
+        - **Определение тегов в центре вставки** — [docs/2026/insertergui_h_tagsdefinieren.md](docs/2026/insertergui_h_tagsdefinieren.md)
+        - **Вставка объектов через центр вставки** — [docs/2026/insertergui_h_objekteeinfuegen.md](docs/2026/insertergui_h_objekteeinfuegen.md)
+        - **Поиск объектов в центре вставки** — [docs/2026/insertergui_h_suchen.md](docs/2026/insertergui_h_suchen.md)
+        - **Импорт и экспорт избранного и тегов (центр вставки)** — [docs/2026/insertergui_h_favoritentagsexportieren.md](docs/2026/insertergui_h_favoritentagsexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Центр вставки"** — [docs/2026/insertergui_d_einfuegezentrum.md](docs/2026/insertergui_d_einfuegezentrum.md)
+          - Вызов диалогового окна:
+          - Поиск
+          - Строка навигации
+          - Папка для быстрого доступа
+          - Папка для типов объектов
+          - Data Portal
+          - Предварительный просмотр
+          - Информационная область
+    - **Символы**
+      - **Основы**
+        - **Символы** — [docs/2026/xsbgui_k_start.md](docs/2026/xsbgui_k_start.md)
+        - **Управление символами** — [docs/2026/xsbgui_k_arbeitsweise.md](docs/2026/xsbgui_k_arbeitsweise.md)
+        - **Символы: Конструкция и идентифицирующие свойства** — [docs/2026/xsbgui_k_aufbaueigenschaften.md](docs/2026/xsbgui_k_aufbaueigenschaften.md)
+        - **Макросы символов** — [docs/2026/xsbgui_k_symbolmakros.md](docs/2026/xsbgui_k_symbolmakros.md)
+        - **Символы: Порядок действий** — [docs/2026/xsbgui_k_vorgehensweise.md](docs/2026/xsbgui_k_vorgehensweise.md)
+      - **Процесс работы**
+        - **Поменять библиотеки символов** — [docs/2026/xsbgui_h_symbolbibltauschen.md](docs/2026/xsbgui_h_symbolbibltauschen.md)
+        - **Обновить символы** — [docs/2026/xsbgui_h_symboleaktualisieren.md](docs/2026/xsbgui_h_symboleaktualisieren.md)
+        - **Разместить символы** — [docs/2026/xsbgui_h_symboleplatzieren.md](docs/2026/xsbgui_h_symboleplatzieren.md)
+        - **Предотвратить новое размещение символа** — [docs/2026/xsbgui_h_symbolplatzierungverhindern.md](docs/2026/xsbgui_h_symbolplatzierungverhindern.md)
+        - **Заменить символы и условные обозначения** — [docs/2026/xsbgui_h_symboletauschen.md](docs/2026/xsbgui_h_symboletauschen.md)
+        - **Выбрать вариант символа** — [docs/2026/xsbgui_h_symbolvarianteausw.md](docs/2026/xsbgui_h_symbolvarianteausw.md)
+      - **Ссылка**
+        - **Диалоговое окно Выбор символа** — [docs/2026/xsbgui_d_symbolauswahl.md](docs/2026/xsbgui_d_symbolauswahl.md)
+          - Вызов диалогового окна:
+    - **Устройство**
+      - **Основы**
+        - **Устройство** — [docs/2026/devicetaggui_k_start.md](docs/2026/devicetaggui_k_start.md)
+        - **Свойства устройства** — [docs/2026/devicetaggui_k_bmeigenschaften.md](docs/2026/devicetaggui_k_bmeigenschaften.md)
+        - **Структура обозначения устройства** — [docs/2026/devicetaggui_k_aufbauvonbm.md](docs/2026/devicetaggui_k_aufbauvonbm.md)
+        - **Перенос ОУ** — [docs/2026/devicetaggui_k_bmkuebernahme.md](docs/2026/devicetaggui_k_bmkuebernahme.md)
+        - **Особенности при переносе ОУ** — [docs/2026/devicetaggui_k_bmkuebernahmesonder.md](docs/2026/devicetaggui_k_bmkuebernahmesonder.md)
+        - **Перенос обозначения вывода устройства** — [docs/2026/devicetaggui_k_anschlussbezuebergabe.md](docs/2026/devicetaggui_k_anschlussbezuebergabe.md)
+        - **Графические и внешние условные обозначения и соединения** — [docs/2026/devicetaggui_k_grafischeschaltzeichen.md](docs/2026/devicetaggui_k_grafischeschaltzeichen.md)
+          - Графические условные обозначения
+          - Внешние условные обозначения
+          - Графические и внешние соединения
+        - **Характеристики графических и внешних функций** — [docs/2026/devicetaggui_k_verhaltengrafischerschaltzeichen.md](docs/2026/devicetaggui_k_verhaltengrafischerschaltzeichen.md)
+      - **Процесс работы**
+        - **Обработать свойства устройств** — [docs/2026/devicetaggui_h_bmeigenschaftenbearbeiten.md](docs/2026/devicetaggui_h_bmeigenschaftenbearbeiten.md)
+        - **Использовать определенный пользователем порядок свойств** — [docs/2026/devicetaggui_h_eigschanordnungen.md](docs/2026/devicetaggui_h_eigschanordnungen.md)
+          - Создать порядки свойств на условных обозначениях
+          - Создать порядки свойств в диалоговом окне конфигурации
+          - Альтернативные возможности присвоения порядков свойств
+          - Сбросить порядок свойств
+        - **Определить и форматировать свойства устройства** — [docs/2026/devicetaggui_h_bmkfestlegenundformatieren.md](docs/2026/devicetaggui_h_bmkfestlegenundformatieren.md)
+        - **Присвоить изделия устройству** — [docs/2026/devicetaggui_h_artikeldatenzuweisen.md](docs/2026/devicetaggui_h_artikeldatenzuweisen.md)
+        - **Заменить устройства** — [docs/2026/devicetaggui_h_bmtauschen.md](docs/2026/devicetaggui_h_bmtauschen.md)
+        - **Синхронизировать функциональные тексты** — [docs/2026/egedgui_h_funktionstexteabgleichen.md](docs/2026/egedgui_h_funktionstexteabgleichen.md)
+        - **Изменить ОУ функций** — [docs/2026/devicetaggui_h_bmkaendern.md](docs/2026/devicetaggui_h_bmkaendern.md)
+          - Изменить ОУ у всех функций и представлений устройства
+          - Изменить ОУ у всех представлений функции
+          - Изменить ОУ у выбранной функции
+        - **Объединить ОУ** — [docs/2026/egedgui_h_bmkzusammenfuehren.md](docs/2026/egedgui_h_bmkzusammenfuehren.md)
+        - **Определить направление поиска для переноса ОУ** — [docs/2026/devicetaggui_h_bmkuebernahmefestlegen.md](docs/2026/devicetaggui_h_bmkuebernahmefestlegen.md)
+        - **Перенести обозначения выводов устройства** — [docs/2026/devicetaggui_h_anschlusbezuebernehmen.md](docs/2026/devicetaggui_h_anschlusbezuebernehmen.md)
+        - **Отображение свойств изделия в виде QR-кодов или в виде изображений на устройстве** — [docs/2026/devicetaggui_h_artikeleigenschaftenanzeigen.md](docs/2026/devicetaggui_h_artikeleigenschaftenanzeigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Полное ОУ** — [docs/2026/devicetaggui_d_vollstaendigesbmk.md](docs/2026/devicetaggui_d_vollstaendigesbmk.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфигурировать порядки свойств — <Имя проекта>** — [docs/2026/eservicesgui_d_konfigeigenschaftsanordnungen.md](docs/2026/eservicesgui_d_konfigeigenschaftsanordnungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сохранить порядок свойств** — [docs/2026/devicetaggui_d_eigschanordnungspeichern.md](docs/2026/devicetaggui_d_eigschanordnungspeichern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать порядок свойств** — [docs/2026/devicetaggui_d_eigschanordnungexportieren.md](docs/2026/devicetaggui_d_eigschanordnungexportieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать подклассы буквенных обозначений** — [docs/2026/numerationgui_d_kennbuchstabenunterklassenauswaehlen.md](docs/2026/numerationgui_d_kennbuchstabenunterklassenauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Вкладки <Категория функции > / <Категория функции> (Устройство)** — [docs/2026/devicetaggui_r_bmdaten.md](docs/2026/devicetaggui_r_bmdaten.md)
+          - Вызов диалогового окна Вкладка ' <Категория функции>:
+          - Вызов диалогового окна Вкладка <Категория функции> (Устройство):
+        - **Вкладка Отображение (Устройство)** — [docs/2026/devicetaggui_r_anzeige.md](docs/2026/devicetaggui_r_anzeige.md)
+          - Вызов диалогового окна:
+        - **Свойства отображения: Размещенное свойство** — [docs/2026/devicetaggui_r_anzeigeeigenschaften.md](docs/2026/devicetaggui_r_anzeigeeigenschaften.md)
+          - Вызов диалогового окна:
+          - Уровень иерархии Формат
+          - Уровень иерархии Рамка текста
+          - Уровень иерархии Блок выравнивания
+          - Уровень иерархии Значение / единица измерения
+          - Уровень иерархии Позиция
+        - **Свойства отображения: Образ контакта** — [docs/2026/devicetaggui_r_anzeigekontaktspiegel.md](docs/2026/devicetaggui_r_anzeigekontaktspiegel.md)
+          - Вызов диалогового окна:
+          - Уровень иерархии Позиция
+          - Уровень иерархии Настройка
+        - **Вкладка Формат (Устройство)** — [docs/2026/devicetaggui_r_format.md](docs/2026/devicetaggui_r_format.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (Размещение изделия 3D)** — [docs/2026/devicetaggui_r_format3d.md](docs/2026/devicetaggui_r_format3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размеры (монтажная плата)** — [docs/2026/devicetaggui_r_abmessung3d.md](docs/2026/devicetaggui_r_abmessung3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные символа / функции** — [docs/2026/devicetaggui_r_symbolfunktionsdaten.md](docs/2026/devicetaggui_r_symbolfunktionsdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать функциональные тексты** — [docs/2026/egedgui_d_funktionstextabgleich.md](docs/2026/egedgui_d_funktionstextabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (Проекты, Устройства)** — [docs/2026/xessettingsgui_d_betriebsmittelallgemein.md](docs/2026/xessettingsgui_d_betriebsmittelallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: ОУ (Проекты, Устройства)** — [docs/2026/xessettingsgui_d_betriebsmittelbmk.md](docs/2026/xessettingsgui_d_betriebsmittelbmk.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (Пользователь, Устройство)** — [docs/2026/xessettingsgui_d_betriebsmittelallgemeinbenutzer.md](docs/2026/xessettingsgui_d_betriebsmittelallgemeinbenutzer.md)
+          - Вызов диалогового окна:
+    - **Защита от изменений и защита устройства**
+      - **Основы**
+        - **Защита от изменений** — [docs/2026/devicetaggui_k_aenderungsschutz.md](docs/2026/devicetaggui_k_aenderungsschutz.md)
+        - **Защита устройства** — [docs/2026/devicetaggui_k_geschuetztebm.md](docs/2026/devicetaggui_k_geschuetztebm.md)
+        - **Использование защищенных устройств** — [docs/2026/devicetaggui_k_geschuetztebmverwendung.md](docs/2026/devicetaggui_k_geschuetztebmverwendung.md)
+        - **Управление неразмещенных вспомогательных функций на главной функции** — [docs/2026/devicetaggui_k_verwaltungnichtplatziertefunktionen.md](docs/2026/devicetaggui_k_verwaltungnichtplatziertefunktionen.md)
+      - **Процесс работы**
+        - **Защитить устройства** — [docs/2026/devicetaggui_h_bmschuetzen.md](docs/2026/devicetaggui_h_bmschuetzen.md)
+          - Защитить все устройство
+          - Защитить отдельные функции, соединения или объекты планирования
+          - Снять защиту устройства
+        - **Присвоить защиту от изменений в ручном режиме** — [docs/2026/devicetaggui_h_manuellschuetzen.md](docs/2026/devicetaggui_h_manuellschuetzen.md)
+      - **Ссылка**
+        - **Диалоговое окно "Конфигурировать защиту"** — [docs/2026/eservicesgui_d_schutzkonfig.md](docs/2026/eservicesgui_d_schutzkonfig.md)
+          - Вызов диалогового окна:
+    - **Синтаксическая проверка ОУ**
+      - **Основы**
+        - **Синтаксическая проверка ОУ** — [docs/2026/devicetagcheckgui_k_start.md](docs/2026/devicetagcheckgui_k_start.md)
+      - **Процесс работы**
+        - **Проверить обозначение устройства** — [docs/2026/devicetagcheckgui_h_bmueberpruefen.md](docs/2026/devicetagcheckgui_h_bmueberpruefen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Синтаксическая проверка ОУ** — [docs/2026/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md](docs/2026/devicetagcheckgui_d_einstellungenprojektbmsyntaxueberpruefung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синтаксическая проверка ОУ** — [docs/2026/devicetagcheckgui_d_syntaxfehlermeldung.md](docs/2026/devicetagcheckgui_d_syntaxfehlermeldung.md)
+          - Вызов диалогового окна:
+    - **Перекрестные ссылки**
+      - **Основы**
+        - **Перекрестные ссылки** — [docs/2026/xessettingsgui_k_start.md](docs/2026/xessettingsgui_k_start.md)
+        - **Перекрестные ссылки: Основные положения** — [docs/2026/xessettingsgui_k_grundlagen.md](docs/2026/xessettingsgui_k_grundlagen.md)
+        - **Перекрестные ссылки: Виды перекрестных ссылок** — [docs/2026/xessettingsgui_k_querverweisarten.md](docs/2026/xessettingsgui_k_querverweisarten.md)
+        - **Образ контакта на основе формы** — [docs/2026/xessettingsgui_k_qvwjapanische.md](docs/2026/xessettingsgui_k_qvwjapanische.md)
+      - **Процесс работы**
+        - **Произвести настройки для отображения перекрестных ссылок** — [docs/2026/xessettingsgui_h_einstellungenqvwanzeige.md](docs/2026/xessettingsgui_h_einstellungenqvwanzeige.md)
+        - **Произвести настройки для просмотра образов контактов** — [docs/2026/xessettingsgui_h_einstellungenkontaktspiegel.md](docs/2026/xessettingsgui_h_einstellungenkontaktspiegel.md)
+        - **Генерировать перекрестные ссылки оборудования** — [docs/2026/xessettingsgui_h_symbolquerverweiseerzeugen.md](docs/2026/xessettingsgui_h_symbolquerverweiseerzeugen.md)
+        - **Генерировать парные перекрестные ссылки** — [docs/2026/xessettingsgui_h_paarquerverweiseerzeugen.md](docs/2026/xessettingsgui_h_paarquerverweiseerzeugen.md)
+        - **Генерировать перекрестные ссылки точек разрыва** — [docs/2026/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md](docs/2026/xessettingsgui_h_abbruchstellenquerverweiseerzeugen.md)
+        - **Генерировать перекрестные ссылки монтажных плат** — [docs/2026/xessettingsgui_h_montageplattenqvwerzeugen.md](docs/2026/xessettingsgui_h_montageplattenqvwerzeugen.md)
+        - **Генерировать перекрестную ссылку ПЛК** — [docs/2026/xessettingsgui_h_spsquerverweiseerzeugen.md](docs/2026/xessettingsgui_h_spsquerverweiseerzeugen.md)
+        - **Генерировать перекрестные ссылки на списках обозначений устройств** — [docs/2026/xessettingsgui_h_qvwaufbetriebsmittellisten.md](docs/2026/xessettingsgui_h_qvwaufbetriebsmittellisten.md)
+        - **Генерировать ручные перекрестные ссылки** — [docs/2026/xessettingsgui_h_manuelleqvwerzeugen.md](docs/2026/xessettingsgui_h_manuelleqvwerzeugen.md)
+        - **Оптимизировать отображение перекрестных ссылок** — [docs/2026/xessettingsgui_h_qvwanzeigeoptimieren.md](docs/2026/xessettingsgui_h_qvwanzeigeoptimieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Общие (Проекты, Перекрестные ссылки / Образы контактов)** — [docs/2026/xessettingsgui_d_einstellungenprojektqvwallgemein.md](docs/2026/xessettingsgui_d_einstellungenprojektqvwallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Точки разрыва** — [docs/2026/xessettingsgui_d_einstellungenprojektabbruchstellen.md](docs/2026/xessettingsgui_d_einstellungenprojektabbruchstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Образ контакта у усл. обозначения / образ контакта в зоне** — [docs/2026/xessettingsgui_d_einstellungenprojektmotorschutzschalter.md](docs/2026/xessettingsgui_d_einstellungenprojektmotorschutzschalter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Отображение** — [docs/2026/xessettingsgui_d_einstellungenprojektqvwanzeige.md](docs/2026/xessettingsgui_d_einstellungenprojektqvwanzeige.md)
+          - Вызов диалогового окна:
+    - **Черные ящики**
+      - **Основы**
+        - **Черные ящики** — [docs/2026/blackbox_k_start.md](docs/2026/blackbox_k_start.md)
+        - **Черные ящики: Принцип работы** — [docs/2026/blackbox_k_arbeitsweise.md](docs/2026/blackbox_k_arbeitsweise.md)
+        - **Черные ящики: Возможности использования** — [docs/2026/blackbox_k_einsatzmoeglichkeiten.md](docs/2026/blackbox_k_einsatzmoeglichkeiten.md)
+        - **Черные ящики: Основные положения для вкладывания** — [docs/2026/blackbox_k_schachteln.md](docs/2026/blackbox_k_schachteln.md)
+        - **Генерация отчета по выводам устройства** — [docs/2026/blackbox_k_anschluesseauswerten.md](docs/2026/blackbox_k_anschluesseauswerten.md)
+      - **Процесс работы**
+        - **Вставить черные ящики** — [docs/2026/blackbox_h_kasteneinfuegen.md](docs/2026/blackbox_h_kasteneinfuegen.md)
+        - **Вставить и обработать выводы устройства** — [docs/2026/blackbox_h_anschluesseeinfuegen.md](docs/2026/blackbox_h_anschluesseeinfuegen.md)
+        - **Рисование блоков ломаными линиями** — [docs/2026/blackbox_h_polygonalekaesten.md](docs/2026/blackbox_h_polygonalekaesten.md)
+      - **Ссылка**
+        - **Вкладки Черный ящик / Резервуар** — [docs/2026/devicetaggui_r_blackboxdaten.md](docs/2026/devicetaggui_r_blackboxdaten.md)
+          - Вызов диалогового окна:
+    - **Обозначения местоположения**
+      - **Основы**
+        - **Обозначения местоположения** — [docs/2026/locationbox_k_start.md](docs/2026/locationbox_k_start.md)
+        - **Обозначения местоположения: Основные положения** — [docs/2026/locationbox_k_grundlagen.md](docs/2026/locationbox_k_grundlagen.md)
+      - **Процесс работы**
+        - **Вставить обозначения местоположения** — [docs/2026/locationbox_h_einfuegen.md](docs/2026/locationbox_h_einfuegen.md)
+        - **Работа с вложенными обозначениями местоположения** — [docs/2026/locationbox_h_geschachtelte.md](docs/2026/locationbox_h_geschachtelte.md)
+      - **Ссылка**
+        - **Вкладка Идентификатор** — [docs/2026/devicetaggui_r_locationbox.md](docs/2026/devicetaggui_r_locationbox.md)
+          - Вызов диалогового окна:
+    - **Найти и заменить**
+      - **Основы**
+        - **Найти и заменить** — [docs/2026/searchandreplacegui_k_start.md](docs/2026/searchandreplacegui_k_start.md)
+        - **Определение искомых понятий** — [docs/2026/searchandreplacegui_k_prinzip.md](docs/2026/searchandreplacegui_k_prinzip.md)
+        - **Список результатов** — [docs/2026/searchandreplacegui_k_ergebnislisten.md](docs/2026/searchandreplacegui_k_ergebnislisten.md)
+        - **Записи в списках результатов** — [docs/2026/searchandreplacegui_k_eintraegeergebnisliste.md](docs/2026/searchandreplacegui_k_eintraegeergebnisliste.md)
+        - **Использование символов-заполнителей** — [docs/2026/searchandreplacegui_k_platzhalter.md](docs/2026/searchandreplacegui_k_platzhalter.md)
+      - **Процесс работы**
+        - **Поиск данных проекта** — [docs/2026/searchandreplacegui_h_suchen.md](docs/2026/searchandreplacegui_h_suchen.md)
+        - **Заменить данные проекта** — [docs/2026/searchandreplacegui_h_ersetzen.md](docs/2026/searchandreplacegui_h_ersetzen.md)
+        - **Обработать записи для поиска** — [docs/2026/searchandreplacegui_h_bearbeiten.md](docs/2026/searchandreplacegui_h_bearbeiten.md)
+        - **Синхронизировать выбор** — [docs/2026/searchandreplacegui_h_auswahlsynchronisieren.md](docs/2026/searchandreplacegui_h_auswahlsynchronisieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Поиск** — [docs/2026/searchandreplacegui_d_suchen.md](docs/2026/searchandreplacegui_d_suchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты поиска — <Имя проекта>** — [docs/2026/searchandreplacegui_d_suchergebnisse.md](docs/2026/searchandreplacegui_d_suchergebnisse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Заменить** — [docs/2026/searchandreplacegui_d_ersetzen.md](docs/2026/searchandreplacegui_d_ersetzen.md)
+          - Вызов диалогового окна:
+    - **Групповая обработка**
+      - **Основы**
+        - **Групповая обработка** — [docs/2026/multipleselection_k_start.md](docs/2026/multipleselection_k_start.md)
+        - **Групповая обработка: Принцип** — [docs/2026/multipleselection_k_prinzip.md](docs/2026/multipleselection_k_prinzip.md)
+      - **Процесс работы**
+        - **Выбор объектов для групповой обработки** — [docs/2026/multipleselection_h_objekteblockbearbeitung.md](docs/2026/multipleselection_h_objekteblockbearbeitung.md)
+    - **Табличная обработка**
+      - **Основы**
+        - **Табличная обработка** — [docs/2026/functiondatagridgui_k_start.md](docs/2026/functiondatagridgui_k_start.md)
+        - **Состав ОУ** — [docs/2026/functiondatagridgui_k_bmkaufteilung.md](docs/2026/functiondatagridgui_k_bmkaufteilung.md)
+      - **Процесс работы**
+        - **Обработать объекты в табличном виде** — [docs/2026/functiondatagridgui_h_tabellarischbearbeiten.md](docs/2026/functiondatagridgui_h_tabellarischbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Табличная обработка** — [docs/2026/functiondatagridgui_d_schematabellarischebearbeitung.md](docs/2026/functiondatagridgui_d_schematabellarischebearbeitung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Табличная обработка — <Имя проекта>** — [docs/2026/functiondatagridgui_d_tabellarischbearbeiten.md](docs/2026/functiondatagridgui_d_tabellarischbearbeiten.md)
+          - Вызов диалогового окна:
+    - **Свойства блока**
+      - **Основы**
+        - **Свойства блока** — [docs/2026/blockproperties_k_start.md](docs/2026/blockproperties_k_start.md)
+        - **Свойства блока: Принцип** — [docs/2026/blockproperties_k_prinzip.md](docs/2026/blockproperties_k_prinzip.md)
+        - **Предварительное определение свойств блока** — [docs/2026/blockproperties_k_vordefinition.md](docs/2026/blockproperties_k_vordefinition.md)
+      - **Процесс работы**
+        - **Определить свойства блока** — [docs/2026/blockproperties_h_blockeigenschaftendefinieren.md](docs/2026/blockproperties_h_blockeigenschaftendefinieren.md)
+        - **Просмотреть свойства блока** — [docs/2026/blockproperties_h_blockeigenschaftenanzeigen.md](docs/2026/blockproperties_h_blockeigenschaftenanzeigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Формат** — [docs/2026/eservicesgui_d_format.md](docs/2026/eservicesgui_d_format.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (шаблон для автоматического выделения):
+          - Вызов диалогового окна (формат отображения для определений сегмента):
+          - Вызов диалогового окна (форматы блока для конфигурации представления структуры дерева):
+          - Функции
+          - Точки разрыва
+          - Определения потенциала
+          - Определения трубопроводов
+          - Автоматические тексты описания
+          - Сегменты
+          - Объекты в представлении структуры дерева
+        - **Диалоговое окно Формат: Свойство блока** — [docs/2026/eservicesgui_d_formatblockeigenschaft.md](docs/2026/eservicesgui_d_formatblockeigenschaft.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (формат отображения для определений сегмента):
+          - Вызов диалогового окна (форматы блока для конфигурации представления структуры дерева):
+          - Вызов диалогового окна (в редакторе форм):
+        - **Диалоговое окно Формат: Разделитель** — [docs/2026/eservicesgui_d_formattrennzeichen.md](docs/2026/eservicesgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (Форматы адресов ПЛК):
+        - **Диалоговое окно Формат: Комментарий** — [docs/2026/eservicesgui_d_formatkommentar.md](docs/2026/eservicesgui_d_formatkommentar.md)
+          - Вызов диалогового окна:
+    - **Определенные пользователем свойства**
+      - **Основные положения**
+        - **Определенные пользователем свойства** — [docs/2026/userdefproperties_k_start.md](docs/2026/userdefproperties_k_start.md)
+        - **Дополнительные поля и произвольные свойства** — [docs/2026/userdefproperties_k_zusatzfelder.md](docs/2026/userdefproperties_k_zusatzfelder.md)
+      - **Процесс работы**
+        - **Создать определенные пользователем свойства** — [docs/2026/userdefproperties_h_eigenschafterstellen.md](docs/2026/userdefproperties_h_eigenschafterstellen.md)
+        - **Удалить определенные пользователем свойства** — [docs/2026/userdefproperties_h_eigenschaftloeschen.md](docs/2026/userdefproperties_h_eigenschaftloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Конфигурировать свойства – <Имя проекта>** — [docs/2026/eservicesgui_d_konfigeigenschaften.md](docs/2026/eservicesgui_d_konfigeigenschaften.md)
+          - Вызов диалогового окна:
+    - **Общая обработка**
+      - **Основы**
+        - **Режим-Свойства (общие)** — [docs/2026/reverseengineering_k_modus.md](docs/2026/reverseengineering_k_modus.md)
+        - **Последовательность видов представлений при общей обработке и анализе** — [docs/2026/reverseengineering_k_reihenfolge.md](docs/2026/reverseengineering_k_reihenfolge.md)
+        - **Общая обработка на страницах отчетов** — [docs/2026/Reverseengineering_k_start.md](docs/2026/Reverseengineering_k_start.md)
+      - **Процесс работы**
+        - **Активировать режим Свойства (общие)** — [docs/2026/reverseengineering_h_bmmodusaktivieren.md](docs/2026/reverseengineering_h_bmmodusaktivieren.md)
+        - **Обработать свойства во всех представлениях главной функции** — [docs/2026/reverseengineering_h_alledarstellungenbm.md](docs/2026/reverseengineering_h_alledarstellungenbm.md)
+        - **Обработать свойства во всех представлениях вспомогательной функции** — [docs/2026/reverseengineering_h_alledarstellungenfunktion.md](docs/2026/reverseengineering_h_alledarstellungenfunktion.md)
+        - **Обработать свойства выбранного представления функции** — [docs/2026/reverseengineering_h_ausgewaehltefunktion.md](docs/2026/reverseengineering_h_ausgewaehltefunktion.md)
+        - **Изменить ОУ функций** — [docs/2026/devicetaggui_h_bmkaendern.md](docs/2026/devicetaggui_h_bmkaendern.md)
+          - Изменить ОУ у всех функций и представлений устройства
+          - Изменить ОУ у всех представлений функции
+          - Изменить ОУ у выбранной функции
+        - **Общая обработка свойств на страницах отчетов** — [docs/2026/reverseengineering_h_uebergreifendesbearbeiten.md](docs/2026/reverseengineering_h_uebergreifendesbearbeiten.md)
+    - **Синхронизация и корректировочный прогон**
+      - **Основы**
+        - **Синхронизация и корректировочный прогон** — [docs/2026/adjustdata_k_start.md](docs/2026/adjustdata_k_start.md)
+      - **Процесс работы**
+        - **Преобразование вспомогательной функции в главную** — [docs/2026/adjustdata_h_nebenfunktionaendern.md](docs/2026/adjustdata_h_nebenfunktionaendern.md)
+        - **Преобразовать излишние главные функции** — [docs/2026/adjustdata_h_funktionkorrigieren.md](docs/2026/adjustdata_h_funktionkorrigieren.md)
+        - **Синхронизировать распределенно представленные функции** — [docs/2026/adjustdata_h_funktionabgleichen.md](docs/2026/adjustdata_h_funktionabgleichen.md)
+        - **Синхронизировать распределенно представленные соединения** — [docs/2026/adjustdata_h_verbindungenabgleichen.md](docs/2026/adjustdata_h_verbindungenabgleichen.md)
+  - **Работа с соединениями**
+    - **Символы соединения**
+      - **Основы**
+        - **Символы соединения** — [docs/2026/egedgui_k_start.md](docs/2026/egedgui_k_start.md)
+        - **Символы соединения: Основные положения** — [docs/2026/egedgui_k_grundlagen.md](docs/2026/egedgui_k_grundlagen.md)
+        - **Символы соединения: Отображение направления соединений** — [docs/2026/egedgui_k_darstellungverbindungspunkte.md](docs/2026/egedgui_k_darstellungverbindungspunkte.md)
+          - Тройники
+          - Перекрестные соединения
+          - Перемычки
+        - **Символы соединения: Сборные шины** — [docs/2026/egedgui_k_sammelschienen.md](docs/2026/egedgui_k_sammelschienen.md)
+        - **Символы соединения: Распределители и соединители** — [docs/2026/egedgui_k_verteiler.md](docs/2026/egedgui_k_verteiler.md)
+        - **Трансформатор тока с механическим каналом** — [docs/2026/egedgui_k_stromwandler.md](docs/2026/egedgui_k_stromwandler.md)
+        - **Точки разрыва** — [docs/2026/interruptionpointgui_k_start.md](docs/2026/interruptionpointgui_k_start.md)
+        - **Точки разрыва: Перекрестные ссылки** — [docs/2026/interruptionpointgui_k_darstellungabbruchstellen.md](docs/2026/interruptionpointgui_k_darstellungabbruchstellen.md)
+      - **Процесс работы**
+        - **Начертить символы соединений с определением цели или как точку** — [docs/2026/egedgui_h_knotenalspunktoderzieldarstellen.md](docs/2026/egedgui_h_knotenalspunktoderzieldarstellen.md)
+        - **Определить настройки отображения символов соединений** — [docs/2026/egedgui_h_einstellungenanzeigeverdrahtung.md](docs/2026/egedgui_h_einstellungenanzeigeverdrahtung.md)
+        - **Вставить символы соединений** — [docs/2026/egedgui_h_verbindungsstueckeeinfuegen.md](docs/2026/egedgui_h_verbindungsstueckeeinfuegen.md)
+          - Вставить угол
+          - Вставить тройники, перекрестные соединения и перемычки
+        - **Вставить динамические символы соединений** — [docs/2026/egedgui_h_dynverbindungssymboleeinfuegen.md](docs/2026/egedgui_h_dynverbindungssymboleeinfuegen.md)
+        - **Прервать соединения** — [docs/2026/egedgui_h_verbindungenunterbrechen.md](docs/2026/egedgui_h_verbindungenunterbrechen.md)
+        - **Заменить символы соединений** — [docs/2026/egedgui_h_verbindungsstueckeaustauschen.md](docs/2026/egedgui_h_verbindungsstueckeaustauschen.md)
+        - **Вставить точки разрыва** — [docs/2026/interruptionpointgui_h_abbruchstelleneinfuegen.md](docs/2026/interruptionpointgui_h_abbruchstelleneinfuegen.md)
+        - **Обработать точки разрыва** — [docs/2026/interruptionpointgui_h_abbruchstellenbearbeiten.md](docs/2026/interruptionpointgui_h_abbruchstellenbearbeiten.md)
+        - **Определить стандартные позиции для описания точек разрыва** — [docs/2026/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md](docs/2026/interruptionpointgui_h_standardposabbruchstellenbeschrfestlegen.md)
+        - **Вставить сборные шины** — [docs/2026/egedgui_h_sammelschieneneinfuegen.md](docs/2026/egedgui_h_sammelschieneneinfuegen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Символы соединения** — [docs/2026/gedviewer_d_einstellungenverbindungssymbole.md](docs/2026/gedviewer_d_einstellungenverbindungssymbole.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Тройник "Направление"** — [docs/2026/egedgui_d_tstueck.md](docs/2026/egedgui_d_tstueck.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Перемычка** — [docs/2026/egedgui_d_bruecke.md](docs/2026/egedgui_d_bruecke.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Перекрестное соединение** — [docs/2026/egedgui_d_kreuzung.md](docs/2026/egedgui_d_kreuzung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Точка разрыва** — [docs/2026/devicetaggui_r_abbruchstelle.md](docs/2026/devicetaggui_r_abbruchstelle.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вывод устройства жгута** — [docs/2026/devicetaggui_r_stranganschluss.md](docs/2026/devicetaggui_r_stranganschluss.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Использ. имеющ. точку разрыва** — [docs/2026/interruptionpointgui_d_abbruchstellenabbuchen.md](docs/2026/interruptionpointgui_d_abbruchstellenabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Точки разрыва — <Имя проекта>** — [docs/2026/interruptionpointgui_d_projektdatenabbruchstellen.md](docs/2026/interruptionpointgui_d_projektdatenabbruchstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сортировать точки разрыва** — [docs/2026/interruptionpointgui_d_abbruchstellensortieren.md](docs/2026/interruptionpointgui_d_abbruchstellensortieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Разместить устройство** — [docs/2026/egedgui_d_platzieren.md](docs/2026/egedgui_d_platzieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Вставить устройство** — [docs/2026/egedgui_d_geraeteinfuegen.md](docs/2026/egedgui_d_geraeteinfuegen.md)
+          - Вызов диалогового окна:
+    - **Соединения**
+      - **Основы**
+        - **Соединения** — [docs/2026/connectionbrowsergui_k_start.md](docs/2026/connectionbrowsergui_k_start.md)
+        - **Соединения: Принцип** — [docs/2026/connectionbrowsergui_k_prinzipverbindungen.md](docs/2026/connectionbrowsergui_k_prinzipverbindungen.md)
+        - **Точки обозначения соединения** — [docs/2026/connectionbrowsergui_k_vdp.md](docs/2026/connectionbrowsergui_k_vdp.md)
+        - **Соединения: Принцип работы** — [docs/2026/connectionbrowsergui_k_arbeitsweiseverbindungen.md](docs/2026/connectionbrowsergui_k_arbeitsweiseverbindungen.md)
+        - **Свойства соединения** — [docs/2026/connectionbrowsergui_k_verbindungseigenschaften.md](docs/2026/connectionbrowsergui_k_verbindungseigenschaften.md)
+        - **Соединения: Единицы измерения длины и поперечного сечения** — [docs/2026/connectionbrowsergui_k_einheitenverbindungen.md](docs/2026/connectionbrowsergui_k_einheitenverbindungen.md)
+        - **Неразмещенные соединения** — [docs/2026/connectionbrowsergui_k_npv.md](docs/2026/connectionbrowsergui_k_npv.md)
+      - **Процесс работы**
+        - **Обновить соединения** — [docs/2026/connectionbrowsergui_h_verbindungenbearbeiten.md](docs/2026/connectionbrowsergui_h_verbindungenbearbeiten.md)
+        - **Использовать интеллектуальное соединение** — [docs/2026/connectionbrowsergui_h_smartconnecting.md](docs/2026/connectionbrowsergui_h_smartconnecting.md)
+        - **Чертить точки обозначения соединения** — [docs/2026/connectionbrowsergui_h_definitionspunktezeichnen.md](docs/2026/connectionbrowsergui_h_definitionspunktezeichnen.md)
+        - **Предварительно определить свойства соединения** — [docs/2026/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md](docs/2026/connectionbrowsergui_h_verbindungseigenschaftendefinieren.md)
+        - **Определить свойства соединения для потенциала** — [docs/2026/connectionbrowsergui_h_pdpeigenschaften.md](docs/2026/connectionbrowsergui_h_pdpeigenschaften.md)
+        - **Определить свойства соединения посредством точек определения соединения** — [docs/2026/connectionbrowsergui_h_vdpeigenschaften.md](docs/2026/connectionbrowsergui_h_vdpeigenschaften.md)
+        - **Просмотреть и обработать свойства соединения** — [docs/2026/connectionbrowsergui_h_eigenschaftenbearbeiten.md](docs/2026/connectionbrowsergui_h_eigenschaftenbearbeiten.md)
+        - **Использовать имеющиеся соединения** — [docs/2026/connectionbrowsergui_h_abbuchen.md](docs/2026/connectionbrowsergui_h_abbuchen.md)
+        - **Разместить соединения** — [docs/2026/connectionbrowsergui_h_verbindungenplatzieren.md](docs/2026/connectionbrowsergui_h_verbindungenplatzieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Соединения — <Имя проекта>** — [docs/2026/connectionbrowsergui_d_verbindungen.md](docs/2026/connectionbrowsergui_d_verbindungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Соединение** — [docs/2026/devicetaggui_r_verbindung.md](docs/2026/devicetaggui_r_verbindung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Графика соединения** — [docs/2026/devicetaggui_r_verbindungsgrafik.md](docs/2026/devicetaggui_r_verbindungsgrafik.md)
+          - Вызов диалогового окна:
+        - **Вкладка Точка определения соединения** — [docs/2026/devicetaggui_r_vdp.md](docs/2026/devicetaggui_r_vdp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Электротехника** — [docs/2026/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md](docs/2026/connectionsettingsgui_r_projekteinstellungenelektrotechnik.md)
+          - Вызов диалогового окна:
+        - **Вкладки "Гидравлика" / "Пневматика" / "Охлаждение" / "Смазка" / "Смазочно-охлаждающая жидкость" / "Газовая техника" / "Технология производственных процессов"** — [docs/2026/connectionsettingsgui_r_projekteinstellungenhydraulik.md](docs/2026/connectionsettingsgui_r_projekteinstellungenhydraulik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Поперечные сечения / диаметры" / диалоговое окно "Настройки: Поперечные сечения / диаметры"** — [docs/2026/connectionsettingsgui_d_einstellungenquerschnitt.md](docs/2026/connectionsettingsgui_d_einstellungenquerschnitt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Цвета соединений" / диалоговое окно "Настройки: Цвета соединений"** — [docs/2026/connectionsettingsgui_d_einstellungenaderfarben.md](docs/2026/connectionsettingsgui_d_einstellungenaderfarben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (проект, соединения)** — [docs/2026/connectionsettingsgui_d_einstellungenallgemein.md](docs/2026/connectionsettingsgui_d_einstellungenallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Интеллектуальное соединение** — [docs/2026/interruptionpointgui_d_einstellsmartconnecting.md](docs/2026/interruptionpointgui_d_einstellsmartconnecting.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Точки разрыва для интеллектуального соединения** — [docs/2026/interruptionpointgui_d_einstellsmartabbruchstellen.md](docs/2026/interruptionpointgui_d_einstellsmartabbruchstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Стандартные символы"** — [docs/2026/connectionsettingsgui_d_einstellungenstandardsymbole.md](docs/2026/connectionsettingsgui_d_einstellungenstandardsymbole.md)
+          - Вызов диалогового окна:
+    - **Сетевые соединения**
+      - **Основы**
+        - **Сетевые соединения** — [docs/2026/netbasedwires_k_start.md](docs/2026/netbasedwires_k_start.md)
+        - **Сетевые соединения: Принцип** — [docs/2026/netbasedwires_k_prinzip.md](docs/2026/netbasedwires_k_prinzip.md)
+        - **Обработка в сети** — [docs/2026/netbasedwires_k_netzbearbeiten.md](docs/2026/netbasedwires_k_netzbearbeiten.md)
+      - **Процесс работы**
+        - **Вставить точки определения сети** — [docs/2026/netbasedwires_h_ndpzeichnen.md](docs/2026/netbasedwires_h_ndpzeichnen.md)
+        - **Определить шлейфы** — [docs/2026/netbasedwires_h_verbindungsketten.md](docs/2026/netbasedwires_h_verbindungsketten.md)
+        - **Изменить последовательность целей сетевых соединений** — [docs/2026/netbasedwires_h_zielreihenfolgeaendern.md](docs/2026/netbasedwires_h_zielreihenfolgeaendern.md)
+      - **Ссылка**
+        - **Вкладка Определение сети** — [docs/2026/devicetaggui_r_ndp.md](docs/2026/devicetaggui_r_ndp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Соединения сети** — [docs/2026/devicetaggui_r_netzverbindung.md](docs/2026/devicetaggui_r_netzverbindung.md)
+          - Вызов диалогового окна:
+    - **Потенциалы и сигналы**
+      - **Основы**
+        - **Потенциалы и сигналы** — [docs/2026/potentialbrowsergui_k_start.md](docs/2026/potentialbrowsergui_k_start.md)
+        - **Определение потенциалов и сигналов** — [docs/2026/potentialbrowsergui_k_prinzippotenziale.md](docs/2026/potentialbrowsergui_k_prinzippotenziale.md)
+      - **Процесс работы**
+        - **Начертить точки или выводы определения потенциалов** — [docs/2026/potentialbrowsergui_h_pdpzeichnen.md](docs/2026/potentialbrowsergui_h_pdpzeichnen.md)
+        - **Выделить потенциалы, сигналы или сеть** — [docs/2026/potentialbrowsergui_h_potenzialverfolgung.md](docs/2026/potentialbrowsergui_h_potenzialverfolgung.md)
+      - **Ссылка**
+        - **Диалоговое окно Потенциалы - <Имя проекта>** — [docs/2026/potentialbrowsergui_d_potenziale.md](docs/2026/potentialbrowsergui_d_potenziale.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение потенциала** — [docs/2026/devicetaggui_r_pdp.md](docs/2026/devicetaggui_r_pdp.md)
+          - Вызов диалогового окна:
+    - **Кабель**
+      - **Основы**
+        - **Кабель** — [docs/2026/cablegui_k_start.md](docs/2026/cablegui_k_start.md)
+        - **Характеристика кабелей** — [docs/2026/cablegui_k_prinzip.md](docs/2026/cablegui_k_prinzip.md)
+        - **Определение кабелей** — [docs/2026/cablegui_k_arbeitsweise.md](docs/2026/cablegui_k_arbeitsweise.md)
+        - **Действие экранирования** — [docs/2026/cablegui_k_verhaltenabschirmungen.md](docs/2026/cablegui_k_verhaltenabschirmungen.md)
+        - **Автоматически сгенерированные кабели** — [docs/2026/cablegui_k_automatikkabel.md](docs/2026/cablegui_k_automatikkabel.md)
+        - **Предварительно собранные кабели** — [docs/2026/cablegui_k_vorkonfektioniertekabel.md](docs/2026/cablegui_k_vorkonfektioniertekabel.md)
+        - **Графическое представление кабелей и экранирований** — [docs/2026/cablegui_k_grafischedarstellung.md](docs/2026/cablegui_k_grafischedarstellung.md)
+        - **Позиция и форматирование свойств кабелей** — [docs/2026/cablegui_k_kabelbezeichnungformat.md](docs/2026/cablegui_k_kabelbezeichnungformat.md)
+        - **Определение источника и цели** — [docs/2026/cablegui_k_quellezielermittlung.md](docs/2026/cablegui_k_quellezielermittlung.md)
+        - **Схемы кабельных соединений** — [docs/2026/cablegui_k_kabeldarstellungsplan.md](docs/2026/cablegui_k_kabeldarstellungsplan.md)
+      - **Процесс работы**
+        - **Чертить линии определения кабелей или экранирования** — [docs/2026/cablegui_h_kabelzeichnen.md](docs/2026/cablegui_h_kabelzeichnen.md)
+        - **Автоматически генерировать кабели** — [docs/2026/cablegui_h_kabelerzeugen.md](docs/2026/cablegui_h_kabelerzeugen.md)
+        - **Удалить автоматически сгенерированные кабели** — [docs/2026/cablegui_h_automatischekabelloeschen.md](docs/2026/cablegui_h_automatischekabelloeschen.md)
+        - **Определить кабели и кабельные соединения вручную** — [docs/2026/cablegui_h_aderndefinieren.md](docs/2026/cablegui_h_aderndefinieren.md)
+        - **Присвоить кабельные соединения вручную** — [docs/2026/cablegui_h_adernzuordnen.md](docs/2026/cablegui_h_adernzuordnen.md)
+        - **Присвоить кабельные соединения автоматически** — [docs/2026/cablegui_h_kabelauflegen.md](docs/2026/cablegui_h_kabelauflegen.md)
+        - **Выбрать кабель** — [docs/2026/cablegui_h_kabelauswahlautomatisch.md](docs/2026/cablegui_h_kabelauswahlautomatisch.md)
+        - **Использование имеющихся кабелей, кабельных соединений и экранирований** — [docs/2026/cablegui_h_abbuchen.md](docs/2026/cablegui_h_abbuchen.md)
+        - **Подключить кабельные соединения** — [docs/2026/cablegui_h_kabelverbindungenanschliessen.md](docs/2026/cablegui_h_kabelverbindungenanschliessen.md)
+        - **Суммировать длину кабелей** — [docs/2026/cablegui_h_kabelmengenberechnen.md](docs/2026/cablegui_h_kabelmengenberechnen.md)
+        - **Вывести изделия кабелей в отчете** — [docs/2026/cablegui_h_kabelauswertung.md](docs/2026/cablegui_h_kabelauswertung.md)
+        - **Сгенерировать схему кабельных соединений** — [docs/2026/cablegui_h_kabeldarstellungsplan.md](docs/2026/cablegui_h_kabeldarstellungsplan.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Кабель** — [docs/2026/cablegui_d_einstellungenkabelmanuell.md](docs/2026/cablegui_d_einstellungenkabelmanuell.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Генерация кабеля** — [docs/2026/cablegui_d_einstellungenkabelerzeugen.md](docs/2026/cablegui_d_einstellungenkabelerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумерация кабелей** — [docs/2026/cablegui_d_einstellungenkabelnummerierung.md](docs/2026/cablegui_d_einstellungenkabelnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматически генерировать кабели** — [docs/2026/cablegui_d_kabelerzeugen.md](docs/2026/cablegui_d_kabelerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать кабели** — [docs/2026/cablegui_d_kabelnummerierung.md](docs/2026/cablegui_d_kabelnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать кабели: Предварительный просмотр результата** — [docs/2026/cablegui_d_ergebniskabelnummerierung.md](docs/2026/cablegui_d_ergebniskabelnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматический выбор кабеля** — [docs/2026/cablegui_d_automatischekabelauswahl.md](docs/2026/cablegui_d_automatischekabelauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Суммировать длину кабелей** — [docs/2026/cablegui_d_kabelmengenberechnung.md](docs/2026/cablegui_d_kabelmengenberechnung.md)
+          - Вызов диалогового окна:
+    - **Сети соединенных сегментов (топология)**
+      - **Основы**
+        - **Сети соединенных сегментов (топология)** — [docs/2026/cablinggui_k_start.md](docs/2026/cablinggui_k_start.md)
+        - **Сети соединенных сегментов (топология): принцип** — [docs/2026/cablinggui_k_prinzip.md](docs/2026/cablinggui_k_prinzip.md)
+        - **Сегменты маршрутизации топологии** — [docs/2026/cablinggui_k_strecken.md](docs/2026/cablinggui_k_strecken.md)
+        - **Точки маршрутизации топологии** — [docs/2026/cablinggui_k_verlegepunkte.md](docs/2026/cablinggui_k_verlegepunkte.md)
+        - **Функции топологии** — [docs/2026/cablinggui_k_topologiefunktionen.md](docs/2026/cablinggui_k_topologiefunktionen.md)
+        - **Вставка функций топологии** — [docs/2026/cablinggui_k_funktioneneinfuegen.md](docs/2026/cablinggui_k_funktioneneinfuegen.md)
+        - **Маршрутизируемые соединения (топология)** — [docs/2026/cablinggui_k_verlegeverbindungen.md](docs/2026/cablinggui_k_verlegeverbindungen.md)
+        - **Маршрутизируемые соединения (топология): порядок действий** — [docs/2026/cablinggui_k_vorgehensweise.md](docs/2026/cablinggui_k_vorgehensweise.md)
+        - **Соблюдение разности высотных отметок при маршрутизации** — [docs/2026/cablinggui_k_teilstrecke.md](docs/2026/cablinggui_k_teilstrecke.md)
+        - **Вид прокладки** — [docs/2026/cablinggui_k_verlegeart.md](docs/2026/cablinggui_k_verlegeart.md)
+        - **Определение длины соединения (топология)** — [docs/2026/cablinggui_k_laengenermittlung.md](docs/2026/cablinggui_k_laengenermittlung.md)
+        - **Определение длины заказа** — [docs/2026/cablinggui_k_bestelllaenge.md](docs/2026/cablinggui_k_bestelllaenge.md)
+        - **Схемы соединений (топология)** — [docs/2026/cablinggui_k_anschlussbild.md](docs/2026/cablinggui_k_anschlussbild.md)
+        - **Распределители в топологии** — [docs/2026/cablinggui_k_verteilertopologie.md](docs/2026/cablinggui_k_verteilertopologie.md)
+      - **Процесс работы**
+        - **Вставить точки маршрутизации (топология)** — [docs/2026/cablinggui_h_verlegepunkteeinfuegen.md](docs/2026/cablinggui_h_verlegepunkteeinfuegen.md)
+        - **Вставить сегменты маршрутизации (топология)** — [docs/2026/cablinggui_h_streckeeinfuegen.md](docs/2026/cablinggui_h_streckeeinfuegen.md)
+        - **Использовать фильтр соединения (топология)** — [docs/2026/cablinggui_h_verbindungsfilter.md](docs/2026/cablinggui_h_verbindungsfilter.md)
+        - **Маршрутизировать соединения (топологию)** — [docs/2026/cablinggui_h_verlegen.md](docs/2026/cablinggui_h_verlegen.md)
+        - **Маршрутизация соединений между различными структурами идентификаторов** — [docs/2026/cablinggui_h_strukturenverbinden.md](docs/2026/cablinggui_h_strukturenverbinden.md)
+        - **Изменить маршрутизацию (топология)** — [docs/2026/cablinggui_h_verlegewegaendern.md](docs/2026/cablinggui_h_verlegewegaendern.md)
+        - **Определить степень заполнения (топология)** — [docs/2026/cablinggui_h_fuellgradbestimmen.md](docs/2026/cablinggui_h_fuellgradbestimmen.md)
+      - **Ссылка**
+        - **Диалоговое окно Топология — <Имя проекта>** — [docs/2026/cablinggui_d_navigator.md](docs/2026/cablinggui_d_navigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Сегмент маршрутизации" / вкладка "Точка маршрутизации"** — [docs/2026/devicetaggui_r_cablingstrecke.md](docs/2026/devicetaggui_r_cablingstrecke.md)
+          - Вызов диалогового окна:
+        - **Вкладка Схема соединений (топология)** — [docs/2026/devicetaggui_r_cablinganschlussbild.md](docs/2026/devicetaggui_r_cablinganschlussbild.md)
+          - Вызов диалогового окна:
+        - **Вкладка Подключенные структуры** — [docs/2026/devicetaggui_r_cablingstrukturen.md](docs/2026/devicetaggui_r_cablingstrukturen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Кабели / соединения** — [docs/2026/cablinggui_d_kabelverbindungen.md](docs/2026/cablinggui_d_kabelverbindungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать функции топологии** — [docs/2026/cablinggui_d_funktionenerzeugen.md](docs/2026/cablinggui_d_funktionenerzeugen.md)
+          - Вызов диалогового окна:
+    - **Проводной монтаж**
+      - **Основы**
+        - **Проводной монтаж** — [docs/2026/harnessgui_k_start.md](docs/2026/harnessgui_k_start.md)
+        - **Управление проводным монтажом и кабельными сборками** — [docs/2026/harnessgui_k_verwaltungkabelbaum.md](docs/2026/harnessgui_k_verwaltungkabelbaum.md)
+      - **Процесс работы**
+        - **Импортировать данные проводного монтажа** — [docs/2026/harnessgui_h_importkabelbaum.md](docs/2026/harnessgui_h_importkabelbaum.md)
+        - **Вставить определения проводного монтажа или определения кабельных сборок** — [docs/2026/harnessgui_h_definitioneneinfuegen.md](docs/2026/harnessgui_h_definitioneneinfuegen.md)
+        - **Экспортировать данные проводного монтажа** — [docs/2026/harnessgui_h_datenexportieren.md](docs/2026/harnessgui_h_datenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Проводной монтаж — <Имя проекта>** — [docs/2026/harnessgui_d_navigator.md](docs/2026/harnessgui_d_navigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка Проводной монтаж** — [docs/2026/devicetaggui_r_kabelbaum.md](docs/2026/devicetaggui_r_kabelbaum.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Кабельная сборка"** — [docs/2026/devicetaggui_r_kabeleinheit.md](docs/2026/devicetaggui_r_kabeleinheit.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать данные проводного монтажа** — [docs/2026/macrosgui_d_importabgleich.md](docs/2026/macrosgui_d_importabgleich.md)
+          - Вызов диалогового окна:
+  - **Обработать клеммы и штекеры**
+    - **Клеммы**
+      - **Основы**
+        - **Клеммы** — [docs/2026/terminalgui_k_start.md](docs/2026/terminalgui_k_start.md)
+        - **Управление клеммниками** — [docs/2026/terminalgui_k_verwaltungleisten.md](docs/2026/terminalgui_k_verwaltungleisten.md)
+        - **Управление клеммами** — [docs/2026/terminalgui_k_verwaltung.md](docs/2026/terminalgui_k_verwaltung.md)
+        - **Обработка клеммных данных** — [docs/2026/terminalgui_k_arbeitsweise.md](docs/2026/terminalgui_k_arbeitsweise.md)
+        - **Применение главных клемм** — [docs/2026/terminalgui_k_hauptklemmen.md](docs/2026/terminalgui_k_hauptklemmen.md)
+        - **Многоуровневые клеммы** — [docs/2026/terminalgui_k_mehrstockklemmen.md](docs/2026/terminalgui_k_mehrstockklemmen.md)
+        - **Принадлежности клемм и клеммников** — [docs/2026/terminalgui_k_klemmenzubehoer.md](docs/2026/terminalgui_k_klemmenzubehoer.md)
+        - **Управление перемычками** — [docs/2026/terminalgui_k_verwendungbruecken.md](docs/2026/terminalgui_k_verwendungbruecken.md)
+        - **Отчеты по клеммам с отображением выводов устройств** — [docs/2026/terminalgui_k_auswertungklemmen.md](docs/2026/terminalgui_k_auswertungklemmen.md)
+        - **Раздельное представление клемм** — [docs/2026/terminalgui_k_verteiltedarstellungklemmen.md](docs/2026/terminalgui_k_verteiltedarstellungklemmen.md)
+        - **Создание перемычек при распределенных клеммах** — [docs/2026/terminalgui_k_brueckenbildung.md](docs/2026/terminalgui_k_brueckenbildung.md)
+        - **Определение адреса ПЛК на клеммах / контактах штекера** — [docs/2026/terminalgui_k_ermittlungspsadresse.md](docs/2026/terminalgui_k_ermittlungspsadresse.md)
+      - **Процесс работы**
+        - **Вставить клеммы и определения клеммников** — [docs/2026/terminalgui_h_klemmenzeichnen.md](docs/2026/terminalgui_h_klemmenzeichnen.md)
+        - **Создать и обработать клеммники** — [docs/2026/terminalgui_h_klemmenleistenerstlbearb.md](docs/2026/terminalgui_h_klemmenleistenerstlbearb.md)
+        - **Создать и обработать клеммы** — [docs/2026/terminalgui_h_klemmenerstlbearb.md](docs/2026/terminalgui_h_klemmenerstlbearb.md)
+        - **Определить строение клеммников** — [docs/2026/terminalgui_h_funktionsschabloneerzeugen.md](docs/2026/terminalgui_h_funktionsschabloneerzeugen.md)
+        - **Отобразить, добавить или удалить последовательные принадлежности** — [docs/2026/terminalgui_h_leistenzubehoererstlloesch.md](docs/2026/terminalgui_h_leistenzubehoererstlloesch.md)
+          - Добавить последовательные принадлежности
+          - Удалить последовательные принадлежности
+        - **Сортировать клеммы** — [docs/2026/terminalgui_h_klemmensort.md](docs/2026/terminalgui_h_klemmensort.md)
+        - **Переместить клеммы** — [docs/2026/terminalgui_h_klemmenverschieb.md](docs/2026/terminalgui_h_klemmenverschieb.md)
+        - **Создание перемычек** — [docs/2026/terminalgui_h_brueckenarbeiten.md](docs/2026/terminalgui_h_brueckenarbeiten.md)
+        - **Определить многоуровневые клеммы** — [docs/2026/terminalgui_h_mehrstockklemmenarbeit.md](docs/2026/terminalgui_h_mehrstockklemmenarbeit.md)
+        - **Вставка распределенных клемм** — [docs/2026/terminalgui_h_teilklemmenzeichnen.md](docs/2026/terminalgui_h_teilklemmenzeichnen.md)
+      - **Ссылка**
+        - **Вкладка Определение клеммника** — [docs/2026/devicetaggui_r_klemmenleisten.md](docs/2026/devicetaggui_r_klemmenleisten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Клемма** — [docs/2026/devicetaggui_r_klemmen.md](docs/2026/devicetaggui_r_klemmen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Соединения** — [docs/2026/devicetaggui_r_verbindungenklemmen.md](docs/2026/devicetaggui_r_verbindungenklemmen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Клеммники — <Имя проекта>** — [docs/2026/terminalgui_d_klemmennavigator.md](docs/2026/terminalgui_d_klemmennavigator.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать клеммник** — [docs/2026/stripmanagementgui_d_klemmenleistebearbeiten.md](docs/2026/stripmanagementgui_d_klemmenleistebearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать клеммы (устройства)** — [docs/2026/eservicesgui_d_klemmengeraeteerzeugen.md](docs/2026/eservicesgui_d_klemmengeraeteerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать клеммы** — [docs/2026/terminalplugnumberinggui_d_klemmennummerieren.md](docs/2026/terminalplugnumberinggui_d_klemmennummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумерация** — [docs/2026/terminalplugnumberinggui_d_nummerierungsschema.md](docs/2026/terminalplugnumberinggui_d_nummerierungsschema.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Переместить** — [docs/2026/terminalplugcommongui_d_verschieben.md](docs/2026/terminalplugcommongui_d_verschieben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Распределенные клеммы** — [docs/2026/terminalgui_d_projekteinstellungenklemmen.md](docs/2026/terminalgui_d_projekteinstellungenklemmen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Оптимизация распределенных клемм** — [docs/2026/terminalgui_d_teilklemmenoptimieren.md](docs/2026/terminalgui_d_teilklemmenoptimieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Конфигурация столбцов (клеммы)** — [docs/2026/stripmanagementgui_d_schemaspaltenkonfiguration.md](docs/2026/stripmanagementgui_d_schemaspaltenkonfiguration.md)
+          - Вызов диалогового окна:
+    - **Штекеры**
+      - **Основы**
+        - **Штекеры** — [docs/2026/plugsgui_k_start.md](docs/2026/plugsgui_k_start.md)
+        - **Управление штекерами** — [docs/2026/plugsgui_k_verwaltungstecker.md](docs/2026/plugsgui_k_verwaltungstecker.md)
+        - **Обработка данных штекеров** — [docs/2026/plugsgui_k_arbeitsweise.md](docs/2026/plugsgui_k_arbeitsweise.md)
+      - **Процесс работы**
+        - **Вставить контакты штекеров и определения штекеров** — [docs/2026/plugsgui_h_steckerkontaktezeichnen.md](docs/2026/plugsgui_h_steckerkontaktezeichnen.md)
+        - **Создать и обработать штекер** — [docs/2026/plugsgui_h_steckerleisteerstlbearb.md](docs/2026/plugsgui_h_steckerleisteerstlbearb.md)
+        - **Создать и обработать контакты штекера** — [docs/2026/plugsgui_h_steckerkontakteerstlbearb.md](docs/2026/plugsgui_h_steckerkontakteerstlbearb.md)
+        - **Сортировать контакты штекеров** — [docs/2026/plugsgui_h_steckerkontaktesortieren.md](docs/2026/plugsgui_h_steckerkontaktesortieren.md)
+      - **Ссылка**
+        - **Вкладка Определение штекера** — [docs/2026/devicetaggui_r_steckerdefinition.md](docs/2026/devicetaggui_r_steckerdefinition.md)
+          - Вызов диалогового окна:
+        - **Вкладка Контакт штекера** — [docs/2026/devicetaggui_r_steckerkontakt.md](docs/2026/devicetaggui_r_steckerkontakt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Штекеры – <Имя проекта>** — [docs/2026/plugsgui_d_steckernavigator.md](docs/2026/plugsgui_d_steckernavigator.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать штекер** — [docs/2026/connectormanagementgui_d_steckerbearbeiten.md](docs/2026/connectormanagementgui_d_steckerbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать контакты штекера** — [docs/2026/terminalplugnumberinggui_d_klemmennummerieren.md](docs/2026/terminalplugnumberinggui_d_klemmennummerieren.md)
+          - Вызов диалогового окна:
+  - **Обработать информацию ПЛК**
+    - **ПЛК**
+      - **Основные положения**
+        - **ПЛК** — [docs/2026/plcgui_k_start.md](docs/2026/plcgui_k_start.md)
+        - **Структура ПЛК** — [docs/2026/plcgui_k_prinzip.md](docs/2026/plcgui_k_prinzip.md)
+        - **Выводы устройства ПЛК** — [docs/2026/plcgui_k_spsanschluesse.md](docs/2026/plcgui_k_spsanschluesse.md)
+        - **Каналы ПЛК** — [docs/2026/plcgui_k_kanaele.md](docs/2026/plcgui_k_kanaele.md)
+        - **Обработка данных ПЛК** — [docs/2026/plcgui_k_arbeitsweise.md](docs/2026/plcgui_k_arbeitsweise.md)
+        - **Адресация выводов устройства ПЛК** — [docs/2026/plcgui_k_adressierung.md](docs/2026/plcgui_k_adressierung.md)
+        - **Подустройства ПЛК** — [docs/2026/plcgui_k_untergeraete.md](docs/2026/plcgui_k_untergeraete.md)
+        - **Символические адреса** — [docs/2026/plcgui_k_symbolischeadressen.md](docs/2026/plcgui_k_symbolischeadressen.md)
+        - **Списки присвоений** — [docs/2026/plcgui_k_zuordnungslisten.md](docs/2026/plcgui_k_zuordnungslisten.md)
+        - **Обмен данными файлов конфигурации ПЛК** — [docs/2026/plcgui_k_austauschbuskonfig.md](docs/2026/plcgui_k_austauschbuskonfig.md)
+        - **Экспорт файлов конфигурации ПЛК** — [docs/2026/plcgui_k_exportbuskonfig.md](docs/2026/plcgui_k_exportbuskonfig.md)
+        - **Импорт файлов конфигурации ПЛК** — [docs/2026/plcgui_k_importbuskonfig.md](docs/2026/plcgui_k_importbuskonfig.md)
+        - **Обмен данными ПЛК в формате AutomationML AR APC** — [docs/2026/plcgui_k_amlbusdatenaustausch.md](docs/2026/plcgui_k_amlbusdatenaustausch.md)
+          - Расширения начиная с версии AutomationML AR APC 1.1.0
+          - Расширения начиная с версии AutomationML AR APC 1.2.0
+          - Расширения, начиная с версии AutomationML AR APC 1.3.0
+          - Расширения, начиная с версии AutomationML AR APC 1.4.0
+        - **Значения конфигурации, связанные с устройствами** — [docs/2026/plcgui_k_geraetebezkonfigwerte.md](docs/2026/plcgui_k_geraetebezkonfigwerte.md)
+        - **Виды в навигаторе ПЛК** — [docs/2026/plcgui_k_ansichten.md](docs/2026/plcgui_k_ansichten.md)
+        - **Работа, ориентированная на канал** — [docs/2026/plcgui_k_kanalorientiertarbeitsweise.md](docs/2026/plcgui_k_kanalorientiertarbeitsweise.md)
+        - **Принадлежность точек подвода питания к каналу** — [docs/2026/plcgui_k_kanalzugehoerigkeit.md](docs/2026/plcgui_k_kanalzugehoerigkeit.md)
+      - **Процесс работы**
+        - **Вставить карты и выводы устройства ПЛК** — [docs/2026/plcgui_h_spszeichnen.md](docs/2026/plcgui_h_spszeichnen.md)
+        - **Создать и обработать карты ПЛК** — [docs/2026/plcgui_h_spsanlegen.md](docs/2026/plcgui_h_spsanlegen.md)
+          - Создание блока ПЛК или вывода устройства ПЛК
+          - Разместить блок ПЛК или выводы устройства ПЛК
+        - **Автоматическая адресация выводов устройства ПЛК** — [docs/2026/plcgui_h_automatisch_adressieren.md](docs/2026/plcgui_h_automatisch_adressieren.md)
+        - **Использование имеющихся выводов устройства ПЛК** — [docs/2026/plcgui_h_anschluesseabbuchen.md](docs/2026/plcgui_h_anschluesseabbuchen.md)
+        - **Использовать и отменять имеющиеся адреса ПЛК** — [docs/2026/plcgui_h_adressenabbuchen.md](docs/2026/plcgui_h_adressenabbuchen.md)
+        - **Импортировать или синхронизировать списки присвоений** — [docs/2026/plcgui_h_importzuli.md](docs/2026/plcgui_h_importzuli.md)
+        - **Экспортировать списки присвоений** — [docs/2026/plcgui_h_exportzuli.md](docs/2026/plcgui_h_exportzuli.md)
+        - **Многополюсное представление выводов шины** — [docs/2026/plcgui_h_busanschluesseallpoligdarstellen.md](docs/2026/plcgui_h_busanschluesseallpoligdarstellen.md)
+        - **Управление подключаемыми выводами шин на вышестоящем устройстве** — [docs/2026/plcgui_h_steckbarebusanschluesseverwalten.md](docs/2026/plcgui_h_steckbarebusanschluesseverwalten.md)
+        - **Генерировать начальные адреса карт ПЛК** — [docs/2026/plcgui_h_startadressenerzeugen.md](docs/2026/plcgui_h_startadressenerzeugen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: ПЛК** — [docs/2026/plcgui_d_allgemeinespseinstellungen.md](docs/2026/plcgui_d_allgemeinespseinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно ПЛК — <Имя проекта>** — [docs/2026/plcgui_d_spsdaten.md](docs/2026/plcgui_d_spsdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Адреса / списки присвоения** — [docs/2026/plcgui_d_spseadaten.md](docs/2026/plcgui_d_spseadaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать данные ПЛК** — [docs/2026/plcgui_d_importbuskonfig.md](docs/2026/plcgui_d_importbuskonfig.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать данные ПЛК** — [docs/2026/plcgui_d_exportbuskonfig.md](docs/2026/plcgui_d_exportbuskonfig.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт AutomationML AR APC** — [docs/2026/plcgui_d_optionsaml.md](docs/2026/plcgui_d_optionsaml.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать каркас** — [docs/2026/plcgui_d_baugrtraegerbearbeiten.md](docs/2026/plcgui_d_baugrtraegerbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать / синхронизировать список присвоений** — [docs/2026/plcgui_d_importzuli.md](docs/2026/plcgui_d_importzuli.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать список присвоений (весь ЦПУ)** — [docs/2026/plcgui_d_exportzuli.md](docs/2026/plcgui_d_exportzuli.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспортировать распределение адресного пространства** — [docs/2026/plcgui_d_exportadressraumbelegung.md](docs/2026/plcgui_d_exportadressraumbelegung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Использ. имеющихся выводов устройства ПЛК поблочно** — [docs/2026/plcgui_d_blockweiseabbuchen.md](docs/2026/plcgui_d_blockweiseabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать выводы устройства ПЛК для поблочного использования имеющихся** — [docs/2026/plcgui_d_anschlblockweiseabbuchenauswahl.md](docs/2026/plcgui_d_anschlblockweiseabbuchenauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Использ. имеющихся адресов ПЛК поблочно** — [docs/2026/plcgui_d_adressenblockweiseabbuchen.md](docs/2026/plcgui_d_adressenblockweiseabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Адресация выводов устройства ПЛК** — [docs/2026/plcgui_d_anschluesseneuadressieren.md](docs/2026/plcgui_d_anschluesseneuadressieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоить адреса ПЛК повторно** — [docs/2026/plcgui_d_eaneuadressieren.md](docs/2026/plcgui_d_eaneuadressieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать для использования имеющегося** — [docs/2026/plcgui_d_adressenabbuchen.md](docs/2026/plcgui_d_adressenabbuchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Адресация выводов устройства ПЛК: Предварительный просмотр результата" / диалоговое окно "Присвоить адреса ПЛК повторно: Предварительный просмотр результата"** — [docs/2026/plcgui_d_vorschauadressierung.md](docs/2026/plcgui_d_vorschauadressierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Переместить входы и выходы ПЛК"** — [docs/2026/plcgui_d_verschieben.md](docs/2026/plcgui_d_verschieben.md)
+          - Вызов диалогового окна:
+        - **Вкладка Блок ПЛК** — [docs/2026/devicetaggui_r_spskarte.md](docs/2026/devicetaggui_r_spskarte.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные структуры ПЛК** — [docs/2026/devicetaggui_r_spsstruktur.md](docs/2026/devicetaggui_r_spsstruktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вывод устройства ПЛК** — [docs/2026/devicetaggui_r_spsanschluss.md](docs/2026/devicetaggui_r_spsanschluss.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные шины** — [docs/2026/devicetaggui_r_busdaten.md](docs/2026/devicetaggui_r_busdaten.md)
+          - Вызов диалогового окна:
+    - **Генерация схемы соединений ПЛК**
+      - **Основные положения**
+        - **Генерация схемы соединений ПЛК** — [docs/2026/plcgui_k_spsschaltplanerzeugen.md](docs/2026/plcgui_k_spsschaltplanerzeugen.md)
+        - **Генерация схемы соединений ПЛК: Принцип** — [docs/2026/plcgui_k_spsschaltplanprinzip.md](docs/2026/plcgui_k_spsschaltplanprinzip.md)
+        - **Макрос для генерации схемы соединений ПЛК** — [docs/2026/plcgui_k_makrosschaltplanerzeugen.md](docs/2026/plcgui_k_makrosschaltplanerzeugen.md)
+        - **Поведение при размещении макроса ПЛК** — [docs/2026/plcgui_k_abbuchverhalten.md](docs/2026/plcgui_k_abbuchverhalten.md)
+      - **Процесс работы**
+        - **Генерировать схемы соединений ПЛК** — [docs/2026/plcgui_h_spsschaltplanerzeugen.md](docs/2026/plcgui_h_spsschaltplanerzeugen.md)
+      - **Ссылка**
+        - **Диалоговое окно Генерировать схему соединений ПЛК** — [docs/2026/plcgui_d_spsschaltplanerzeugen.md](docs/2026/plcgui_d_spsschaltplanerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нач. страницы** — [docs/2026/plcgui_d_startseiten.md](docs/2026/plcgui_d_startseiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сообщения** — [docs/2026/plcgui_d_fehler.md](docs/2026/plcgui_d_fehler.md)
+          - Вызов диалогового окна:
+    - **Форматы адресов ПЛК**
+      - **Основы**
+        - **Форматы адресов ПЛК** — [docs/2026/plcprocessorgui_k_start.md](docs/2026/plcprocessorgui_k_start.md)
+        - **Форматы адресов** — [docs/2026/plcprocessorgui_k_adressformate.md](docs/2026/plcprocessorgui_k_adressformate.md)
+      - **Процесс работы**
+        - **Настроить форматы адресов** — [docs/2026/plcprocessorgui_h_adressenformateeinstellen.md](docs/2026/plcprocessorgui_h_adressenformateeinstellen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Специфич. для ПЛК** — [docs/2026/plcprocessorgui_d_spsspezifischeeinstellungen.md](docs/2026/plcprocessorgui_d_spsspezifischeeinstellungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Адреса (форматы адресов ПЛК)** — [docs/2026/plcprocessorgui_r_adressen.md](docs/2026/plcprocessorgui_r_adressen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Форматы адресов** — [docs/2026/plcprocessorgui_r_adressenformate.md](docs/2026/plcprocessorgui_r_adressenformate.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат списка присвоений** — [docs/2026/plcprocessorgui_r_formatzuordnungsliste.md](docs/2026/plcprocessorgui_r_formatzuordnungsliste.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат символического адреса** — [docs/2026/plcprocessorgui_r_formatsymbolischeadresse.md](docs/2026/plcprocessorgui_r_formatsymbolischeadresse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Формат адреса ПЛК" / диалоговое окно "Формат строки / Адрес в списке присвоений"** — [docs/2026/plcprocessorgui_d_formatspsadresse.md](docs/2026/plcprocessorgui_d_formatspsadresse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Счетчики (форматы адресов ПЛК)** — [docs/2026/eservicesgui_d_formatzaehler.md](docs/2026/eservicesgui_d_formatzaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель** — [docs/2026/eservicesgui_d_formattrennzeichen.md](docs/2026/eservicesgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна (Форматы для свойств блока):
+          - Вызов диалогового окна (определяемые пользователем свойства):
+          - Вызов диалогового окна (Форматы адресов ПЛК):
+        - **Диалоговое окно Формат: Адрес / текст** — [docs/2026/plcprocessorgui_d_formatadressetext.md](docs/2026/plcprocessorgui_d_formatadressetext.md)
+          - Вызов диалогового окна:
+  - **Работа с макросами**
+    - **Основы**
+      - **Макросы** — [docs/2026/macrosgui_k_start.md](docs/2026/macrosgui_k_start.md)
+      - **Проекты макросов** — [docs/2026/macrosgui_k_makroprojekte.md](docs/2026/macrosgui_k_makroprojekte.md)
+      - **Рамки макросов: принцип** — [docs/2026/macrosgui_k_makrokaesten.md](docs/2026/macrosgui_k_makrokaesten.md)
+      - **Макросы: Защищенные группы** — [docs/2026/macrosgui_k_geschuetztegruppen.md](docs/2026/macrosgui_k_geschuetztegruppen.md)
+      - **Данные сгенерированного макроса** — [docs/2026/macrosgui_k_daten.md](docs/2026/macrosgui_k_daten.md)
+      - **Навигатор макросов** — [docs/2026/macrosgui_k_makronavigator.md](docs/2026/macrosgui_k_makronavigator.md)
+      - **Макросы схемы соединений: учет фирменных и других стандартов** — [docs/2026/macrosgui_k_standards.md](docs/2026/macrosgui_k_standards.md)
+      - **Объекты-заполнители: Структура и принцип работы** — [docs/2026/macrosgui_k_platzhalteraufbauarbeitsweise.md](docs/2026/macrosgui_k_platzhalteraufbauarbeitsweise.md)
+    - **Процесс работы**
+      - **Создать проекты макросов** — [docs/2026/macrosgui_h_makroprojekteerstellen.md](docs/2026/macrosgui_h_makroprojekteerstellen.md)
+      - **Использовать рамки макросов** — [docs/2026/macrosgui_h_makrokasten.md](docs/2026/macrosgui_h_makrokasten.md)
+        - Создать новый макрос
+        - Обновить макросы
+        - Выделение объектов макроса
+        - Присвоение отдельных объектов рамке макроса
+        - Переместить точку захвата
+      - **Автоматически генерировать макрос из проекта макросов** — [docs/2026/macrosgui_h_makrosausmakroprojekt.md](docs/2026/macrosgui_h_makrosausmakroprojekt.md)
+      - **Генерировать объекты-заполнители** — [docs/2026/macrosgui_h_platzhalterobjekteerzeugen.md](docs/2026/macrosgui_h_platzhalterobjekteerzeugen.md)
+      - **Расширить объекты-заполнители** — [docs/2026/macrosgui_h_platzhalterobjekteerweitern.md](docs/2026/macrosgui_h_platzhalterobjekteerweitern.md)
+      - **Присвоить набор значений объекту-заполнителю** — [docs/2026/macrosgui_h_wertesatzzuweisen.md](docs/2026/macrosgui_h_wertesatzzuweisen.md)
+      - **Вставить макросы** — [docs/2026/macrosgui_h_makrosauswaehlen.md](docs/2026/macrosgui_h_makrosauswaehlen.md)
+      - **Создать макросы** — [docs/2026/macrosgui_h_makroserzeugen.md](docs/2026/macrosgui_h_makroserzeugen.md)
+      - **Генерировать макросы из файлов DXF / DWG** — [docs/2026/macrosgui_h_makrosausdxf.md](docs/2026/macrosgui_h_makrosausdxf.md)
+    - **Ссылка**
+      - **Диалоговое окно Макросы — <Имя проекта>** — [docs/2026/macrosgui_d_makronavigator.md](docs/2026/macrosgui_d_makronavigator.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Сохранить как** — [docs/2026/macrosgui_d_speichernunter.md](docs/2026/macrosgui_d_speichernunter.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно / вкладка "Присвоение данных изделия"** — [docs/2026/macrosgui_r_artikeldatenzuweisung.md](docs/2026/macrosgui_r_artikeldatenzuweisung.md)
+        - Вызов диалогового окна "Присвоение данных изделия":
+        - Вызов диалогового окна / вкладка 'Присвоение данных изделия':
+      - **Диалоговое окно Формат: Присвоение данных изделия** — [docs/2026/eservicesgui_d_formatartikeldatenzuweisung.md](docs/2026/eservicesgui_d_formatartikeldatenzuweisung.md)
+        - Вызов диалогового окна:
+      - **Вкладка Рамка макроса** — [docs/2026/macrosgui_r_makrokasten.md](docs/2026/macrosgui_r_makrokasten.md)
+        - Вызов диалогового окна:
+      - **Вкладка Настройки (рамка макроса)** — [docs/2026/macrosgui_r_makrokasteneinstellungen.md](docs/2026/macrosgui_r_makrokasteneinstellungen.md)
+        - Вызов диалогового окна:
+      - **Вкладка Определение макроса** — [docs/2026/macrosgui_r_makrodefinition.md](docs/2026/macrosgui_r_makrodefinition.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно "Подготовить макросы к автоматической генерации"** — [docs/2026/macrosgui_d_makrosvorbereiten.md](docs/2026/macrosgui_d_makrosvorbereiten.md)
+        - Вызов диалогового окна:
+      - **Вкладка Объект-заполнитель** — [docs/2026/macrosgui_d_platzhalterobjekt.md](docs/2026/macrosgui_d_platzhalterobjekt.md)
+        - Вызов диалогового окна:
+      - **Вкладка Настройки (объект-заполнитель)** — [docs/2026/macrosgui_r_platzhaltereinstellungen.md](docs/2026/macrosgui_r_platzhaltereinstellungen.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Выбрать набор значений** — [docs/2026/macrosgui_d_wertesatzauswaehlen.md](docs/2026/macrosgui_d_wertesatzauswaehlen.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Вставить** — [docs/2026/macrosgui_d_einfuegen.md](docs/2026/macrosgui_d_einfuegen.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Настройки: Обновить макросы** — [docs/2026/gedviewer_d_einstellungenmakrosaktualisieren.md](docs/2026/gedviewer_d_einstellungenmakrosaktualisieren.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Настройки: Общие (Пользователь, Представление)** — [docs/2026/macrosgui_d_einstellzwischablage.md](docs/2026/macrosgui_d_einstellzwischablage.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно "Настройки: Макросы"** — [docs/2026/macrosgui_d_einstellmakros.md](docs/2026/macrosgui_d_einstellmakros.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Буфер обмена** — [docs/2026/macrosgui_d_zwischenablage.md](docs/2026/macrosgui_d_zwischenablage.md)
+        - Вызов диалогового окна:
+  - **Использование опций**
+    - **Основы**
+      - **Опции** — [docs/2026/projectoptionsgui_k_start.md](docs/2026/projectoptionsgui_k_start.md)
+      - **Опции проекта: Принцип** — [docs/2026/projectoptionsgui_k_prinzip.md](docs/2026/projectoptionsgui_k_prinzip.md)
+      - **Отчеты для опций и объектов-заполнителей** — [docs/2026/projectoptionsgui_k_auswertungen.md](docs/2026/projectoptionsgui_k_auswertungen.md)
+    - **Процесс работы**
+      - **Создать и обработать опциональные группы** — [docs/2026/projectoptionsgui_h_optionsgruppenerzeugen.md](docs/2026/projectoptionsgui_h_optionsgruppenerzeugen.md)
+        - Создание опциональных групп
+        - Обработать опциональные группы
+        - Удалить опциональные группы
+      - **Создание и обработка опций** — [docs/2026/projectoptionsgui_h_optionenerzeugen.md](docs/2026/projectoptionsgui_h_optionenerzeugen.md)
+        - Создание опции
+        - Обработка опций
+        - Удалить опции
+      - **Включить и выключить опции** — [docs/2026/projectoptionsgui_h_optioneneinaus.md](docs/2026/projectoptionsgui_h_optioneneinaus.md)
+      - **Создание фрагментов** — [docs/2026/projectoptionsgui_h_ausschnitteerzeugen.md](docs/2026/projectoptionsgui_h_ausschnitteerzeugen.md)
+      - **Обработка фрагментов** — [docs/2026/projectoptionsgui_h_ausschnittebearbeiten.md](docs/2026/projectoptionsgui_h_ausschnittebearbeiten.md)
+        - Обработка свойств фрагмента
+        - Изменение фрагментов
+        - Удаление фрагментов
+    - **Ссылка**
+      - **Диалоговое окно Опции — <Имя проекта>** — [docs/2026/projectoptionsgui_d_optionsnavigator.md](docs/2026/projectoptionsgui_d_optionsnavigator.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Опциональная группа** — [docs/2026/projectoptionsgui_d_optionsgruppe.md](docs/2026/projectoptionsgui_d_optionsgruppe.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Опция** — [docs/2026/projectoptionsgui_d_option.md](docs/2026/projectoptionsgui_d_option.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Фрагмент** — [docs/2026/projectoptionsgui_d_ausschnitt.md](docs/2026/projectoptionsgui_d_ausschnitt.md)
+        - Вызов диалогового окна:
+      - **Диалоговое окно Объекты-заполнители — <Имя проекта>** — [docs/2026/projectoptionsgui_d_platzhalternavigator.md](docs/2026/projectoptionsgui_d_platzhalternavigator.md)
+        - Вызов диалогового окна:
+  - **Нумерация соединений и устройств**
+    - **Нумерация соединений**
+      - **Основы**
+        - **Нумерация соединений** — [docs/2026/wirenumberinggui_k_start.md](docs/2026/wirenumberinggui_k_start.md)
+        - **Нумерация соединений: Принцип** — [docs/2026/wirenumberinggui_k_prinzip.md](docs/2026/wirenumberinggui_k_prinzip.md)
+        - **Размещение точек определения соединений** — [docs/2026/wirenumberinggui_k_platzierungvdp.md](docs/2026/wirenumberinggui_k_platzierungvdp.md)
+      - **Процесс работы**
+        - **Произвести настройки для нумерации соединений** — [docs/2026/wirenumberinggui_h_einstellungen.md](docs/2026/wirenumberinggui_h_einstellungen.md)
+        - **Создать группы форматов** — [docs/2026/wirenumberinggui_h_formatgruppenerstellen.md](docs/2026/wirenumberinggui_h_formatgruppenerstellen.md)
+        - **Обработать группы форматов** — [docs/2026/wirenumberinggui_h_formatgruppenbearbeiten.md](docs/2026/wirenumberinggui_h_formatgruppenbearbeiten.md)
+        - **Разместить точки определения соединения** — [docs/2026/wirenumberinggui_h_vdpplatzieren.md](docs/2026/wirenumberinggui_h_vdpplatzieren.md)
+        - **Обозначить соединения** — [docs/2026/wirenumberinggui_h_verbnumbezeichnen.md](docs/2026/wirenumberinggui_h_verbnumbezeichnen.md)
+        - **Заново выровнять и отформат. обозначения соединений** — [docs/2026/wirenumberinggui_h_verbnumausrichtenformatieren.md](docs/2026/wirenumberinggui_h_verbnumausrichtenformatieren.md)
+        - **Удалить обозначения соединений** — [docs/2026/wirenumberinggui_h_verbindloeschen.md](docs/2026/wirenumberinggui_h_verbindloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Нумерация соединений** — [docs/2026/wirenumberinggui_d_verbnumeinstellungen.md](docs/2026/wirenumberinggui_d_verbnumeinstellungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Фильтр** — [docs/2026/wirenumberinggui_r_filter.md](docs/2026/wirenumberinggui_r_filter.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение (Нумерация соединений)** — [docs/2026/wirenumberinggui_r_platzierung.md](docs/2026/wirenumberinggui_r_platzierung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Обозначение** — [docs/2026/wirenumberinggui_r_bezeichnung.md](docs/2026/wirenumberinggui_r_bezeichnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (Нумерация соединений)** — [docs/2026/wirenumberinggui_r_anzeige.md](docs/2026/wirenumberinggui_r_anzeige.md)
+          - Вызов диалогового окна:
+          - Для текстов, импортированных из проектов EPLAN 5, имеются дополнительные специальные возможности для выравнивания:
+        - **Диалоговое окно Нумерация соединений: Форматы** — [docs/2026/wirenumberinggui_d_verbnumformate.md](docs/2026/wirenumberinggui_d_verbnumformate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Список выбора** — [docs/2026/wirenumberinggui_d_betriebsmittelliste.md](docs/2026/wirenumberinggui_d_betriebsmittelliste.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Свойства** — [docs/2026/wirenumberinggui_d_formateigenschaften.md](docs/2026/wirenumberinggui_d_formateigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Страница / Столбец / Строка (нумерация соединений)** — [docs/2026/wirenumberinggui_d_formatseite.md](docs/2026/wirenumberinggui_d_formatseite.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация соединений)** — [docs/2026/wirenumberinggui_d_formattrennzeichen.md](docs/2026/wirenumberinggui_d_formattrennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Счетчик (нумерация соединений)** — [docs/2026/wirenumberinggui_d_formatzaehler.md](docs/2026/wirenumberinggui_d_formatzaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сетевое расширение (Нумерация соединений)** — [docs/2026/wirenumberinggui_d_netzerweiterung.md](docs/2026/wirenumberinggui_d_netzerweiterung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обозначить соединения** — [docs/2026/wirenumberinggui_d_verbnumbezeichnen.md](docs/2026/wirenumberinggui_d_verbnumbezeichnen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обозначить соединения: Предварительный просмотр результата** — [docs/2026/wirenumberinggui_d_ergebnisbezeichnen.md](docs/2026/wirenumberinggui_d_ergebnisbezeichnen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Разместить точки определения соединения** — [docs/2026/wirenumberinggui_d_vdpplatzieren.md](docs/2026/wirenumberinggui_d_vdpplatzieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выровнять и отформатировать обозначения соединений** — [docs/2026/wirenumberinggui_d_verbnumausrichtenformatieren.md](docs/2026/wirenumberinggui_d_verbnumausrichtenformatieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить обозначения соединений** — [docs/2026/wirenumberinggui_d_verbindloeschen.md](docs/2026/wirenumberinggui_d_verbindloeschen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Счетчик области сброса** — [docs/2026/wirenumberinggui_d_zaehlerruecksetzbereich.md](docs/2026/wirenumberinggui_d_zaehlerruecksetzbereich.md)
+          - Вызов диалогового окна:
+    - **Нумерация устройств в режиме подключения**
+      - **Основы**
+        - **Нумерация (online)** — [docs/2026/numerationgui_k_start.md](docs/2026/numerationgui_k_start.md)
+        - **Формат нумерации в режиме подключения** — [docs/2026/numerationgui_k_format.md](docs/2026/numerationgui_k_format.md)
+        - **Функции и нумерация** — [docs/2026/numerationgui_k_verhaltenfunktionen.md](docs/2026/numerationgui_k_verhaltenfunktionen.md)
+      - **Процесс работы**
+        - **Определить формат нумерации в режиме подключения** — [docs/2026/numerationgui_h_onlineformat.md](docs/2026/numerationgui_h_onlineformat.md)
+        - **Установить предшествующий знак в видимом ОУ** — [docs/2026/numerationgui_h_vorzeichensetzen.md](docs/2026/numerationgui_h_vorzeichensetzen.md)
+        - **Автоматическая нумерация новых устройств** — [docs/2026/numerationgui_h_online.md](docs/2026/numerationgui_h_online.md)
+        - **Вставить новые устройства без ОУ** — [docs/2026/numerationgui_h_ohnebmk.md](docs/2026/numerationgui_h_ohnebmk.md)
+        - **Устройства в макросе/автоматически нумеровать копии** — [docs/2026/numerationgui_h_insertdtviamacros.md](docs/2026/numerationgui_h_insertdtviamacros.md)
+        - **Устройства в макросе/добавить копии с неизмененным ОУ** — [docs/2026/numerationgui_h_einfuegemoduswaehlen.md](docs/2026/numerationgui_h_einfuegemoduswaehlen.md)
+        - **Исключить группы устройств из автоматической нумерации** — [docs/2026/numerationgui_h_einstellungentreffen.md](docs/2026/numerationgui_h_einstellungentreffen.md)
+        - **Копировать, вырезать и вставить элементы схемы соединений** — [docs/2026/numerationgui_h_kopierenimged.md](docs/2026/numerationgui_h_kopierenimged.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Нумерация (online)** — [docs/2026/numerationgui_d_einstellnummerierung.md](docs/2026/numerationgui_d_einstellnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Форматы нумерации** — [docs/2026/numerationgui_d_nummerierungsformate.md](docs/2026/numerationgui_d_nummerierungsformate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат ОУ** — [docs/2026/numerationgui_d_bmkformat.md](docs/2026/numerationgui_d_bmkformat.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат (online-нумерация)** — [docs/2026/eservicesgui_d_formatelement.md](docs/2026/eservicesgui_d_formatelement.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель** — [docs/2026/eservicesgui_d_formattrennzklein.md](docs/2026/eservicesgui_d_formattrennzklein.md)
+          - Вызов диалогового окна (Нумерация в режиме Online):
+          - Вызов диалогового окна (Форматы адресов ПЛК):
+        - **Диалоговое окно Режим вставки** — [docs/2026/numerationgui_d_einfuegemodus.md](docs/2026/numerationgui_d_einfuegemodus.md)
+          - Вызов диалогового окна:
+    - **Обозначения выводов устройства и буквенные обозначения**
+      - **Основы**
+        - **Собственные обозначения выводов устройства и условные обозначения** — [docs/2026/fctdeflibdataexchangegui_k_start.md](docs/2026/fctdeflibdataexchangegui_k_start.md)
+        - **Обозначения и описания выводов устройства** — [docs/2026/fctdeflibdataexchangegui_k_anschluss.md](docs/2026/fctdeflibdataexchangegui_k_anschluss.md)
+        - **Наборы буквенных обозначений** — [docs/2026/fctdeflibdataexchangegui_k_kennbuchstaben.md](docs/2026/fctdeflibdataexchangegui_k_kennbuchstaben.md)
+      - **Процесс работы**
+        - **Создать собственные обозначения и описания выводов устройства** — [docs/2026/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md](docs/2026/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+        - **Создать собственные наборы буквенных обозначений** — [docs/2026/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md](docs/2026/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+      - **Ссылка**
+        - **Диалоговое окно Обозначения и описания выводов устройства** — [docs/2026/numerationgui_d_anschlussbezeichnungen.md](docs/2026/numerationgui_d_anschlussbezeichnungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Буквенные обозначения** — [docs/2026/numerationgui_d_kennbuchstaben.md](docs/2026/numerationgui_d_kennbuchstaben.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Подклассы буквенных обозначений** — [docs/2026/numerationgui_d_kennbuchstabenunterklassen.md](docs/2026/numerationgui_d_kennbuchstabenunterklassen.md)
+          - Вызов диалогового окна:
+    - **Автономная нумерация устройств**
+      - **Основы**
+        - **Нумеровать (автономно)** — [docs/2026/offlinenumerationgui_k_start.md](docs/2026/offlinenumerationgui_k_start.md)
+        - **Объем нумерации** — [docs/2026/offlinenumerationgui_k_umfang.md](docs/2026/offlinenumerationgui_k_umfang.md)
+        - **Нумерация в случае неразмещенного главного устройства.** — [docs/2026/offlinenumerationgui_k_formatseite.md](docs/2026/offlinenumerationgui_k_formatseite.md)
+        - **Нумерация и функции** — [docs/2026/offlinenumerationgui_k_funktion.md](docs/2026/offlinenumerationgui_k_funktion.md)
+        - **Нумерация вложенных устройств** — [docs/2026/offlinenumerationgui_k_geschachteltebmk.md](docs/2026/offlinenumerationgui_k_geschachteltebmk.md)
+      - **Процесс работы**
+        - **Автономная нумерация устройств** — [docs/2026/offlinenumerationgui_h_formatfestlegen.md](docs/2026/offlinenumerationgui_h_formatfestlegen.md)
+        - **Создать и удалить формат нумерации** — [docs/2026/offlinenumerationgui_h_formatbearbeiten.md](docs/2026/offlinenumerationgui_h_formatbearbeiten.md)
+      - **Ссылка**
+        - **Диалоговое окно Нумеровать (автономно)** — [docs/2026/offlinenumerationgui_d_nummerieren.md](docs/2026/offlinenumerationgui_d_nummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумеровать (автономно)** — [docs/2026/offlinenumerationgui_d_nummerierungsformate.md](docs/2026/offlinenumerationgui_d_nummerierungsformate.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно <Элемент формата>** — [docs/2026/offlinenumerationgui_d_zaehler.md](docs/2026/offlinenumerationgui_d_zaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация в автономном режиме)** — [docs/2026/offlinenumerationgui_d_trennzeichen.md](docs/2026/offlinenumerationgui_d_trennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать (автономно): Предварительный просмотр результата** — [docs/2026/offlinenumerationgui_d_ergebnisvorschau.md](docs/2026/offlinenumerationgui_d_ergebnisvorschau.md)
+          - Вызов диалогового окна:
+    - **Нумерация с данными ПЛК**
+      - **Основы**
+        - **Нумерация устройств, подсоединенных к ПЛК** — [docs/2026/offlinenumerationplcgui_k_start.md](docs/2026/offlinenumerationplcgui_k_start.md)
+        - **Нумерация с данными выводов устройства ПЛК** — [docs/2026/offlinenumerationplcgui_k_prinzip.md](docs/2026/offlinenumerationplcgui_k_prinzip.md)
+        - **Свойства для нумерации с данными ПЛК** — [docs/2026/offlinenumerationplcgui_k_eigenschaften.md](docs/2026/offlinenumerationplcgui_k_eigenschaften.md)
+      - **Процесс работы**
+        - **Определить формат и объем нумерации** — [docs/2026/offlinenumerationplcgui_h_formatfestlegen.md](docs/2026/offlinenumerationplcgui_h_formatfestlegen.md)
+        - **Определить сетевое расширение для нумерации с данными ПЛК** — [docs/2026/offlinenumerationplcgui_h_netzerweiterung.md](docs/2026/offlinenumerationplcgui_h_netzerweiterung.md)
+        - **Продолжить нумерацию после функции** — [docs/2026/offlinenumerationplcgui_h_einstellungen.md](docs/2026/offlinenumerationplcgui_h_einstellungen.md)
+        - **Исключить выводы устройства ПЛК из нумерации** — [docs/2026/offlinenumerationplcgui_h_ausschliessen.md](docs/2026/offlinenumerationplcgui_h_ausschliessen.md)
+        - **Нумеровать подсоединенные к ПЛК устройства** — [docs/2026/offlinenumerationplcgui_h_bmnummerieren.md](docs/2026/offlinenumerationplcgui_h_bmnummerieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Нумерация с данными ПЛК** — [docs/2026/offlinenumerationplcgui_d_einstellungen.md](docs/2026/offlinenumerationplcgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сетевое расширение (нумерация с данными ПЛК)** — [docs/2026/offlinenumerationplcgui_d_netzerweiterung.md](docs/2026/offlinenumerationplcgui_d_netzerweiterung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумерация с данными ПЛК** — [docs/2026/offlinenumerationplcgui_d_nummerierungmitsps.md](docs/2026/offlinenumerationplcgui_d_nummerierungmitsps.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумерация с данными ПЛК: Предварительный просмотр результата** — [docs/2026/offlinenumerationplcgui_d_ergebnisvorschau.md](docs/2026/offlinenumerationplcgui_d_ergebnisvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумерация с данными ПЛК: Формат** — [docs/2026/offlinenumerationplcgui_d_format.md](docs/2026/offlinenumerationplcgui_d_format.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Данные ПЛК** — [docs/2026/offlinenumerationplcgui_d_formateigenschaften.md](docs/2026/offlinenumerationplcgui_d_formateigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Страница / столбец / строка (нумерация с данными ПЛК)** — [docs/2026/offlinenumerationplcgui_d_formatseite.md](docs/2026/offlinenumerationplcgui_d_formatseite.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Буквенное обозначение** — [docs/2026/offlinenumerationplcgui_d_formatkennbuchstabe.md](docs/2026/offlinenumerationplcgui_d_formatkennbuchstabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация с данными ПЛК)** — [docs/2026/offlinenumerationplcgui_d_formattrennzeichen.md](docs/2026/offlinenumerationplcgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна:
+  - **Использование функций и устройств**
+    - **Функции**
+      - **Основы**
+        - **Функции** — [docs/2026/xfctdefbrowsergui_k_start.md](docs/2026/xfctdefbrowsergui_k_start.md)
+        - **Конструкция устройств в Eplan** — [docs/2026/xfctdefbrowsergui_k_betriebsmittel.md](docs/2026/xfctdefbrowsergui_k_betriebsmittel.md)
+        - **Функции: Принцип** — [docs/2026/xfctdefbrowsergui_k_prinzip.md](docs/2026/xfctdefbrowsergui_k_prinzip.md)
+        - **Определения функции: Принцип** — [docs/2026/xfctdefbrowsergui_k_funktionsdefinitionen.md](docs/2026/xfctdefbrowsergui_k_funktionsdefinitionen.md)
+      - **Процесс работы**
+        - **Вставить функции** — [docs/2026/xfctdefbrowsergui_h_funktioneneinfuegen.md](docs/2026/xfctdefbrowsergui_h_funktioneneinfuegen.md)
+        - **Изменить функции** — [docs/2026/xfctdefbrowsergui_h_funktionaendern.md](docs/2026/xfctdefbrowsergui_h_funktionaendern.md)
+        - **Обработать логическую схему выводов устройства** — [docs/2026/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md](docs/2026/xfctdefbrowsergui_h_anschlussdatenbearbeiten.md)
+        - **Заменить определения функций** — [docs/2026/xfctdefbrowsergui_h_funktionsdeftauschen.md](docs/2026/xfctdefbrowsergui_h_funktionsdeftauschen.md)
+        - **Заменить символы** — [docs/2026/xfctdefbrowsergui_h_symboltauschen.md](docs/2026/xfctdefbrowsergui_h_symboltauschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Определения функций** — [docs/2026/xfctdefbrowsergui_d_funktionsdefinitionen.md](docs/2026/xfctdefbrowsergui_d_funktionsdefinitionen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Логическая схема выводов устройства** — [docs/2026/xfctdefbrowsergui_d_anschlusslogik.md](docs/2026/xfctdefbrowsergui_d_anschlusslogik.md)
+          - Вызов диалогового окна:
+    - **Навигатор устройств**
+      - **Основы**
+        - **Навигатор устройств** — [docs/2026/navigatorgui_k_start.md](docs/2026/navigatorgui_k_start.md)
+        - **Присвоение данных функции** — [docs/2026/navigatorgui_k_zuweisenvonfunktionsdaten.md](docs/2026/navigatorgui_k_zuweisenvonfunktionsdaten.md)
+        - **Механические устройства** — [docs/2026/navigatorgui_k_mechbetriebsmittel.md](docs/2026/navigatorgui_k_mechbetriebsmittel.md)
+      - **Процесс работы**
+        - **Создать неразмещенные устройства в навигаторе устройств** — [docs/2026/navigatorgui_h_funktionenanlegen.md](docs/2026/navigatorgui_h_funktionenanlegen.md)
+        - **Автоматически генерировать функции с помощью схемы нумерации** — [docs/2026/navigatorgui_h_mehrerfunktionerzeugen.md](docs/2026/navigatorgui_h_mehrerfunktionerzeugen.md)
+        - **Просмотреть размещенные устройства в графическом виде** — [docs/2026/navigatorgui_h_grafischevorschau.md](docs/2026/navigatorgui_h_grafischevorschau.md)
+        - **Присвоить данные функции условному обозначению** — [docs/2026/navigatorgui_h_funktionzuweisen.md](docs/2026/navigatorgui_h_funktionzuweisen.md)
+      - **Ссылка**
+        - **Диалоговое окно Устройство — <Имя проекта>** — [docs/2026/navigatorgui_d_navigator.md](docs/2026/navigatorgui_d_navigator.md)
+          - Вызов диалогового окна:
+    - **Устройства**
+      - **Основы**
+        - **Устройства** — [docs/2026/devicelistgui_k_start.md](docs/2026/devicelistgui_k_start.md)
+        - **Устройства: Принцип** — [docs/2026/devicelistgui_k_prinzip.md](docs/2026/devicelistgui_k_prinzip.md)
+        - **Группы устройств** — [docs/2026/devicelistgui_k_geraetegruppierung.md](docs/2026/devicelistgui_k_geraetegruppierung.md)
+        - **Список устройств** — [docs/2026/devicelistgui_k_geraeteliste.md](docs/2026/devicelistgui_k_geraeteliste.md)
+        - **Вставка / размещение устройств** — [docs/2026/devicelistgui_k_platzieren.md](docs/2026/devicelistgui_k_platzieren.md)
+        - **Принцип работы при вставке устройств** — [docs/2026/devicelistgui_k_vorgehengeraeteeinfuegen.md](docs/2026/devicelistgui_k_vorgehengeraeteeinfuegen.md)
+        - **Порядок действий при размещении устройств** — [docs/2026/devicelistgui_k_vorgehengeraeteplatzieren.md](docs/2026/devicelistgui_k_vorgehengeraeteplatzieren.md)
+        - **Процедура удаления и копирования устройств** — [docs/2026/devicelistgui_k_loeschenkopieren.md](docs/2026/devicelistgui_k_loeschenkopieren.md)
+        - **Перенос ОУ штекера и обозначения канала** — [docs/2026/devicelistgui_k_steckerbmk.md](docs/2026/devicelistgui_k_steckerbmk.md)
+      - **Процесс работы**
+        - **Создать определения устройств** — [docs/2026/devicelistgui_h_geraetedefinitionenanlegen.md](docs/2026/devicelistgui_h_geraetedefinitionenanlegen.md)
+        - **Обработать список устройств** — [docs/2026/devicelistgui_h_geraetelistebearbeiten.md](docs/2026/devicelistgui_h_geraetelistebearbeiten.md)
+        - **Вставить устройства** — [docs/2026/devicelistgui_h_geraeteeinfuegen.md](docs/2026/devicelistgui_h_geraeteeinfuegen.md)
+        - **Разместить функции устройств** — [docs/2026/devicelistgui_h_geraeteplatzieren.md](docs/2026/devicelistgui_h_geraeteplatzieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Список устройств** — [docs/2026/devicelistgui_d_geraeteliste.md](docs/2026/devicelistgui_d_geraeteliste.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства (список устройств)** — [docs/2026/devicelistgui_d_eigenschaften.md](docs/2026/devicelistgui_d_eigenschaften.md)
+          - Вызов диалогового окна:
+    - **Выбор изделия / устройства**
+      - **Основные положения**
+        - **Выбор изделия / устройства** — [docs/2026/partselectiongui_k_start.md](docs/2026/partselectiongui_k_start.md)
+        - **Поведение изделий при выборе устройств** — [docs/2026/partselectiongui_k_prinzip.md](docs/2026/partselectiongui_k_prinzip.md)
+        - **Выбор устройства: Способ действий** — [docs/2026/partselectiongui_k_vorgehensweise.md](docs/2026/partselectiongui_k_vorgehensweise.md)
+        - **Фильтры и предварительный выбор изделия** — [docs/2026/partselectiongui_k_filtervorauswahl.md](docs/2026/partselectiongui_k_filtervorauswahl.md)
+        - **Обзор перенесенных данных изделия** — [docs/2026/partselectiongui_k_uebertragenedaten.md](docs/2026/partselectiongui_k_uebertragenedaten.md)
+      - **Процесс работы**
+        - **Выбрать изделие** — [docs/2026/partselectiongui_h_artikelauswahl.md](docs/2026/partselectiongui_h_artikelauswahl.md)
+        - **Выбрать изделие в Навигаторах или из списка устройств** — [docs/2026/partselectiongui_h_artikelauswahlnavigator.md](docs/2026/partselectiongui_h_artikelauswahlnavigator.md)
+        - **Выбрать устройства** — [docs/2026/partselectiongui_h_geraeteauswahl.md](docs/2026/partselectiongui_h_geraeteauswahl.md)
+        - **Сохранить данные ссылки изделия на функции** — [docs/2026/partselectiongui_h_artikeldatenanschaltzeichen.md](docs/2026/partselectiongui_h_artikeldatenanschaltzeichen.md)
+        - **Синхронизировать сохраненные изделия с базой данных изделий** — [docs/2026/partselectiongui_h_artikeldateneinlagern.md](docs/2026/partselectiongui_h_artikeldateneinlagern.md)
+        - **Генерировать изделия из данных схемы соединений** — [docs/2026/partselectiongui_h_artikelausschaltplan.md](docs/2026/partselectiongui_h_artikelausschaltplan.md)
+        - **Удалить свойства сохраненных изделий** — [docs/2026/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md](docs/2026/partselectiongui_h_eingelagerteartikeleigenschaftenloeschen.md)
+        - **Определить предварительный выбор изделия** — [docs/2026/partselectiongui_h_artikelvorauswahl.md](docs/2026/partselectiongui_h_artikelvorauswahl.md)
+        - **Начертить точку определения изделия** — [docs/2026/partselectiongui_h_adpzeichnen.md](docs/2026/partselectiongui_h_adpzeichnen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Выбор устройства** — [docs/2026/partselectiongui_d_einstellungengeraeteauswahl.md](docs/2026/partselectiongui_d_einstellungengeraeteauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Выбор изделия (проект)** — [docs/2026/partselectiongui_d_datenauswahlprojekt.md](docs/2026/partselectiongui_d_datenauswahlprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Изделие (пользователь)** — [docs/2026/partselectiongui_d_datenauswahlbenutzer.md](docs/2026/partselectiongui_d_datenauswahlbenutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Дополнить данные изделия** — [docs/2026/partselectiongui_d_artikeldatenergaenzen.md](docs/2026/partselectiongui_d_artikeldatenergaenzen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Выбор изделия API** — [docs/2026/partselectiongui_d_konfigapiartikel.md](docs/2026/partselectiongui_d_konfigapiartikel.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Предварительный выбор изделий** — [docs/2026/partselectiongui_d_artikelvorauswahl.md](docs/2026/partselectiongui_d_artikelvorauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор устройства** — [docs/2026/partselectiongui_d_geraeteauswahl.md](docs/2026/partselectiongui_d_geraeteauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматический фильтр: Выбор устройства** — [docs/2026/partselectiongui_d_geraetefilter.md](docs/2026/partselectiongui_d_geraetefilter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор изделия** — [docs/2026/partselectiongui_d_artikelauswahl.md](docs/2026/partselectiongui_d_artikelauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор изделия: Выбрать источник данных** — [docs/2026/partselectiongui_d_datenquelleauswahl.md](docs/2026/partselectiongui_d_datenquelleauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизация изделий — <Имя проекта>** — [docs/2026/partsextensiongui_d_artikelabgleich.md](docs/2026/partsextensiongui_d_artikelabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить сохраненные свойства изделия** — [docs/2026/partselectiongui_d_artikeleigenschaftenloeschen.md](docs/2026/partselectiongui_d_artikeleigenschaftenloeschen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфликт** — [docs/2026/partselectiongui_d_konflikte.md](docs/2026/partselectiongui_d_konflikte.md)
+          - Вызов диалогового окна:
+        - **Вкладка Изделие** — [docs/2026/partselectiongui_r_artikel.md](docs/2026/partselectiongui_r_artikel.md)
+          - Вызов диалогового окна:
+        - **Вкладка Точка определения изделия** — [docs/2026/devicetaggui_r_adp.md](docs/2026/devicetaggui_r_adp.md)
+          - Вызов диалогового окна:
+    - **Резервные функциональные элементы**
+      - **Основы**
+        - **Резервные функциональные элементы** — [docs/2026/sparecomponent_k_start.md](docs/2026/sparecomponent_k_start.md)
+        - **Резервные функциональные элементы: Основные положения** — [docs/2026/sparecomponent_k_grundlagen.md](docs/2026/sparecomponent_k_grundlagen.md)
+        - **Резервные функциональные элементы: Принцип работы** — [docs/2026/sparecomponent_k_arbeitsweise.md](docs/2026/sparecomponent_k_arbeitsweise.md)
+        - **Резервные функциональные элементы: Определения устройств** — [docs/2026/sparecomponent_k_geraetedefinitionen.md](docs/2026/sparecomponent_k_geraetedefinitionen.md)
+        - **Резервные функциональные элементы: Шаблоны функции** — [docs/2026/sparecomponent_k_funktionsschablonen.md](docs/2026/sparecomponent_k_funktionsschablonen.md)
+        - **Данные неразмещенных устройств** — [docs/2026/sparecomponent_k_datenvonnichtplatziertenfunktionen.md](docs/2026/sparecomponent_k_datenvonnichtplatziertenfunktionen.md)
+        - **Резервные функциональные элементы: Режимы копирования для функций** — [docs/2026/sparecomponent_k_kopiermodifunktionen.md](docs/2026/sparecomponent_k_kopiermodifunktionen.md)
+        - **Резервные функциональные элементы: Режимы удаления для функций** — [docs/2026/sparecomponent_k_loeschmodifunktionen.md](docs/2026/sparecomponent_k_loeschmodifunktionen.md)
+      - **Процесс работы**
+        - **Удаление размещения и отмена размещенных функций** — [docs/2026/sparecomponent_h_funktionenzurueckbuchen.md](docs/2026/sparecomponent_h_funktionenzurueckbuchen.md)
+  - **Управление данными проекта**
+    - **Управление структурными идентификаторами**
+      - **Основные положения**
+        - **Управление структурными идентификаторами** — [docs/2026/pleditorgui_k_start.md](docs/2026/pleditorgui_k_start.md)
+        - **Блоки идентификаторов для страниц и устройств** — [docs/2026/pleditorgui_k_grundlagen.md](docs/2026/pleditorgui_k_grundlagen.md)
+      - **Процесс работы**
+        - **Создать идентификаторы** — [docs/2026/pleditorgui_h_kennzanlegen.md](docs/2026/pleditorgui_h_kennzanlegen.md)
+        - **Создать идентификаторы при вставке новых страниц, ОУ и макросов** — [docs/2026/pleditorgui_h_kennzanlegenbeineuerseite.md](docs/2026/pleditorgui_h_kennzanlegenbeineuerseite.md)
+          - Создать идентификатор при обработке страниц
+          - Создать идентификатор при обработке устройств
+          - Создать идентификатор при обработке макроса
+        - **Обработать идентификаторы** — [docs/2026/pleditorgui_h_kennzbearbeiten.md](docs/2026/pleditorgui_h_kennzbearbeiten.md)
+        - **Поиск и замена идентификаторов** — [docs/2026/pleditorgui_h_kennzsuchen.md](docs/2026/pleditorgui_h_kennzsuchen.md)
+        - **Проверить идентификаторы** — [docs/2026/pleditorgui_h_kennzpruefen.md](docs/2026/pleditorgui_h_kennzpruefen.md)
+        - **Удалить идентификаторы** — [docs/2026/pleditorgui_h_kennzloeschen.md](docs/2026/pleditorgui_h_kennzloeschen.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление структурными идентификаторами — <Имя проекта>** — [docs/2026/pleditorgui_d_kennzeichen.md](docs/2026/pleditorgui_d_kennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Новый идентификатор** — [docs/2026/pleditorgui_d_neueskennzeichen.md](docs/2026/pleditorgui_d_neueskennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Условные обозначения** — [docs/2026/pleditorgui_d_einstellungenkennzeichen.md](docs/2026/pleditorgui_d_einstellungenkennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "<Блок идентификаторов> (<Имя проекта>)" / диалоговое окно "Идентификатор объекта"** — [docs/2026/pleditorgui_d_kennzeichnungsblock.md](docs/2026/pleditorgui_d_kennzeichnungsblock.md)
+          - Вызов диалогового окна <Блок идентификаторов> (<Имя проекта>):
+          - Вызов диалогового окна Идентификатор объекта:
+    - **Управление слоями**
+      - **Основы**
+        - **Управление слоями** — [docs/2026/layermanager_k_start.md](docs/2026/layermanager_k_start.md)
+        - **Слои: Принцип** — [docs/2026/layermanager_k_prinzip.md](docs/2026/layermanager_k_prinzip.md)
+      - **Процесс работы**
+        - **Работа со слоями** — [docs/2026/layermanager_h_ebenenbearbeiten.md](docs/2026/layermanager_h_ebenenbearbeiten.md)
+          - Создание слоев
+          - Удаление слоев
+          - Переименование слоев
+          - Изменить присвоение слоя
+        - **Поиск слоев** — [docs/2026/layermanager_h_ebenensuchen.md](docs/2026/layermanager_h_ebenensuchen.md)
+        - **Импорт и экспорт конфигурации управления слоями** — [docs/2026/layermanager_h_ebenenkonfigurationexportieren.md](docs/2026/layermanager_h_ebenenkonfigurationexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление слоями — <Имя проекта>** — [docs/2026/layermanager_d_ebenenverwaltung.md](docs/2026/layermanager_d_ebenenverwaltung.md)
+          - Вызов диалогового окна:
+    - **Спецификации**
+      - **Основы**
+        - **Спецификации** — [docs/2026/partslistgui_k_start.md](docs/2026/partslistgui_k_start.md)
+        - **Группы спецификаций** — [docs/2026/partslistgui_k_stuecklistengruppen.md](docs/2026/partslistgui_k_stuecklistengruppen.md)
+        - **Ссылки изделий из монтажной платы** — [docs/2026/partslistgui_k_artikelreferenzenausmontageplatte.md](docs/2026/partslistgui_k_artikelreferenzenausmontageplatte.md)
+        - **Спецификации: Поля в файле экспорта** — [docs/2026/partslistgui_k_felderexportdatei.md](docs/2026/partslistgui_k_felderexportdatei.md)
+      - **Процесс работы**
+        - **Обработать изделие спецификации** — [docs/2026/partslistgui_h_artikelbearbeiten.md](docs/2026/partslistgui_h_artikelbearbeiten.md)
+          - Обработать неразмещенные изделия
+          - Обработать функциональные элементы с размещением изделия
+          - Обработать покупные изделия
+          - Разместить изделия
+          - Заменить изделие
+          - Удалить изделия
+        - **Добавить изделие** — [docs/2026/partslistgui_h_artikelhinzufuegen.md](docs/2026/partslistgui_h_artikelhinzufuegen.md)
+        - **Добавить покупные изделия** — [docs/2026/partslistgui_h_projektartikelhinzufuegen.md](docs/2026/partslistgui_h_projektartikelhinzufuegen.md)
+        - **Нумеровать позиции заново** — [docs/2026/partslistgui_h_positionenneunummerieren.md](docs/2026/partslistgui_h_positionenneunummerieren.md)
+        - **Экспортировать спецификации** — [docs/2026/partslistgui_h_stuecklistenexportieren.md](docs/2026/partslistgui_h_stuecklistenexportieren.md)
+        - **Импортировать спецификации** — [docs/2026/partslistgui_h_stuecklistenimportieren.md](docs/2026/partslistgui_h_stuecklistenimportieren.md)
+        - **Учитывать изделия у соединений** — [docs/2026/partslistgui_h_artikelanverbindungen.md](docs/2026/partslistgui_h_artikelanverbindungen.md)
+      - **Ссылка**
+        - **Диалоговое окно Спецификация — <Имя проекта>** — [docs/2026/partslistgui_d_artikelstueckliste.md](docs/2026/partslistgui_d_artikelstueckliste.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Изделие** — [docs/2026/partslistgui_d_paramartikelauswertung.md](docs/2026/partslistgui_d_paramartikelauswertung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать позиции** — [docs/2026/partslistgui_d_positionsnummerierung.md](docs/2026/partslistgui_d_positionsnummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать позиции: Предварительный просмотр результата** — [docs/2026/partslistgui_d_nummerierungsvorschau.md](docs/2026/partslistgui_d_nummerierungsvorschau.md)
+          - Вызов диалогового окна:
+    - **Управление ревизиями**
+      - **Основы**
+        - **Управление ревизиями** — [docs/2026/revisionmgtgui_k_start.md](docs/2026/revisionmgtgui_k_start.md)
+        - **Управление ревизиями: Принцип** — [docs/2026/revisionmgtgui_k_prinzip.md](docs/2026/revisionmgtgui_k_prinzip.md)
+        - **Ревизия областей обработки** — [docs/2026/revisionmgtgui_k_revteilprojekte.md](docs/2026/revisionmgtgui_k_revteilprojekte.md)
+        - **Отображение маркеров ревизии** — [docs/2026/revisionmgtgui_k_markierungen.md](docs/2026/revisionmgtgui_k_markierungen.md)
+        - **Альтернативная идентификация** — [docs/2026/revisionmgtgui_k_alternativeidentifizierung.md](docs/2026/revisionmgtgui_k_alternativeidentifizierung.md)
+      - **Процесс работы**
+        - **Закрыть проекты / области обработки** — [docs/2026/revisionmgtgui_h_projektabschliessen.md](docs/2026/revisionmgtgui_h_projektabschliessen.md)
+        - **Закрыть страницы** — [docs/2026/revisionmgtgui_h_seitenabschliessen.md](docs/2026/revisionmgtgui_h_seitenabschliessen.md)
+        - **Генерировать ревизию** — [docs/2026/revisionmgtgui_h_reverzeugen.md](docs/2026/revisionmgtgui_h_reverzeugen.md)
+        - **Генерировать исходный проект** — [docs/2026/revisionmgtgui_h_vergleichsprojekterzeugen.md](docs/2026/revisionmgtgui_h_vergleichsprojekterzeugen.md)
+        - **Сравнить свойства проектов** — [docs/2026/revisionmgtgui_h_revvergleichen.md](docs/2026/revisionmgtgui_h_revvergleichen.md)
+        - **Определение настроек сравнения** — [docs/2026/revisionmgtgui_h_vergleichseinstellungen.md](docs/2026/revisionmgtgui_h_vergleichseinstellungen.md)
+        - **Отобразить и скрыть маркеры ревизий** — [docs/2026/revisionmgtgui_h_revmarkierungen_anzeigen.md](docs/2026/revisionmgtgui_h_revmarkierungen_anzeigen.md)
+        - **Обработать маркер удаления в проектах ревизии** — [docs/2026/revisionmgtgui_h_loeschzeichenbearbeiten.md](docs/2026/revisionmgtgui_h_loeschzeichenbearbeiten.md)
+          - Переместить маркеры удаления
+          - Обработать тексты маркеров ревизий
+          - Окончательно удалить объекты
+        - **Удалить маркеры удаления в проектах со сравнением свойств** — [docs/2026/revisionmgtgui_h_loeschzeichenentfernen.md](docs/2026/revisionmgtgui_h_loeschzeichenentfernen.md)
+        - **Удалить ревизии** — [docs/2026/revisionmgtgui_h_revmarkierungenentfernen.md](docs/2026/revisionmgtgui_h_revmarkierungenentfernen.md)
+          - Удаление ревизий (отслеживание изменений)
+          - Удалить ревизии (Сравнение свойств)
+        - **Восстановить удаленные маркеры ревизий** — [docs/2026/revisionmgtgui_h_revmarkierungenerzeugen.md](docs/2026/revisionmgtgui_h_revmarkierungenerzeugen.md)
+        - **Удалить защиту от записи** — [docs/2026/revisionmgtgui_h_schreibschutzentfernen.md](docs/2026/revisionmgtgui_h_schreibschutzentfernen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Ревизия (отслеживание изменений)** — [docs/2026/revisionlogmgtgui_d_einstellungenaenderung.md](docs/2026/revisionlogmgtgui_d_einstellungenaenderung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Ревизия (сравнение свойств проектов)** — [docs/2026/revisionmgtgui_d_einstellungen.md](docs/2026/revisionmgtgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Ревизия (графическое представление)** — [docs/2026/revisionmgtgui_d_einstellungengrafisch.md](docs/2026/revisionmgtgui_d_einstellungengrafisch.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Отслеживание изменений (нумерация индекса ревизии)** — [docs/2026/revisionlogmgtgui_d_einstellungenseitenindex.md](docs/2026/revisionlogmgtgui_d_einstellungenseitenindex.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Счетчик (нумерация индекса ревизии)** — [docs/2026/revisionlogmgtgui_d_formatzaehler.md](docs/2026/revisionlogmgtgui_d_formatzaehler.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Разделитель (нумерация индекса ревизии)** — [docs/2026/revisionlogmgtgui_d_formattrennzeichen.md](docs/2026/revisionlogmgtgui_d_formattrennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать ревизию** — [docs/2026/revisionlogmgtgui_d_revisionerzeugen.md](docs/2026/revisionlogmgtgui_d_revisionerzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать ревизию** — [docs/2026/revisionlogmgtgui_d_revauswaehlen.md](docs/2026/revisionlogmgtgui_d_revauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сгенерировать исходный проект** — [docs/2026/revisionmgtgui_d_vergleichsprojekterzeugen.md](docs/2026/revisionmgtgui_d_vergleichsprojekterzeugen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сравнить свойства проектов** — [docs/2026/revisionmgtgui_d_revvergleichen.md](docs/2026/revisionmgtgui_d_revvergleichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сравнение свойств проектов** — [docs/2026/revisionmgtgui_d_vergleichseinstellungen.md](docs/2026/revisionmgtgui_d_vergleichseinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки структурного идентификатора** — [docs/2026/revisionmgtcomparegui_d_einstellungenstrukturkennzeichen.md](docs/2026/revisionmgtcomparegui_d_einstellungenstrukturkennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты сравнения свойств — <Имя проекта>** — [docs/2026/revisionmgtcomparegui_d_ergebnisseprojektvergleich.md](docs/2026/revisionmgtcomparegui_d_ergebnisseprojektvergleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Описание изменения страниц** — [docs/2026/revisionlogmgtgui_d_beschreibungseitenaenderung.md](docs/2026/revisionlogmgtgui_d_beschreibungseitenaenderung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Закрыть проект" / диалоговое окно "Закрыть область обработки"** — [docs/2026/revisionlogmgtgui_d_projektabschliessen.md](docs/2026/revisionlogmgtgui_d_projektabschliessen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать индекс ревизии** — [docs/2026/revisionlogmgtgui_d_indexauswaehlen.md](docs/2026/revisionlogmgtgui_d_indexauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать маркеры ревизий** — [docs/2026/revisionlogmgtgui_d_markierungstexte.md](docs/2026/revisionlogmgtgui_d_markierungstexte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить ревизию (Отслеживание изменений)** — [docs/2026/revisionlogmgtgui_d_revisionloeschenaenderung.md](docs/2026/revisionlogmgtgui_d_revisionloeschenaenderung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удалить ревизию (Сравнение свойств)** — [docs/2026/revisionmgtgui_d_revisionloeschenvergleich.md](docs/2026/revisionmgtgui_d_revisionloeschenvergleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Дополнительно обработать данные ревизии** — [docs/2026/revisionlogmgtgui_d_revisionsdatennachbearbeiten.md](docs/2026/revisionlogmgtgui_d_revisionsdatennachbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Маркеры удаления** — [docs/2026/devicetaggui_r_loeschzeichen.md](docs/2026/devicetaggui_r_loeschzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Удаленные страницы** — [docs/2026/revisionlogmgtgui_d_geloeschteseiten.md](docs/2026/revisionlogmgtgui_d_geloeschteseiten.md)
+          - Вызов диалогового окна:
+  - **Управление основными данными**
+    - **Основные данные**
+      - **Основы**
+        - **Основные данные** — [docs/2026/xmasterdatasettingsgui_k_start.md](docs/2026/xmasterdatasettingsgui_k_start.md)
+        - **Основные данные: Основные положения** — [docs/2026/xmasterdatasettingsgui_k_grundlagen.md](docs/2026/xmasterdatasettingsgui_k_grundlagen.md)
+        - **Основные данные: Архив данных** — [docs/2026/xmasterdatasettingsgui_k_datenablage.md](docs/2026/xmasterdatasettingsgui_k_datenablage.md)
+      - **Процесс работы**
+        - **Управление основными данными** — [docs/2026/xmasterdatasettingsgui_h_stammdatenverwalten.md](docs/2026/xmasterdatasettingsgui_h_stammdatenverwalten.md)
+        - **Основные данные: Управлять данными изделий** — [docs/2026/xmasterdatasettingsgui_h_artikeldatenverwalten.md](docs/2026/xmasterdatasettingsgui_h_artikeldatenverwalten.md)
+        - **Основные данные: Управлять макросами** — [docs/2026/xmasterdatasettingsgui_h_makrosverwalten.md](docs/2026/xmasterdatasettingsgui_h_makrosverwalten.md)
+        - **Основные данные: Определить настройки форм** — [docs/2026/xmasterdatasettingsgui_h_formulareinstellungenfestlegen.md](docs/2026/xmasterdatasettingsgui_h_formulareinstellungenfestlegen.md)
+        - **Найти и сохранить недостающие основные данные проекта, обновить проекты** — [docs/2026/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md](docs/2026/xmasterdatasettingsgui_h_stammdatenprojektvervollstaendigen.md)
+        - **Синхронизировать основные данные** — [docs/2026/xmasterdatasettingsgui_h_stammdatenabgleichen.md](docs/2026/xmasterdatasettingsgui_h_stammdatenabgleichen.md)
+      - **Ссылка**
+        - **Диалоговое окно Синхронизация основных данных — основные данные системы** — [docs/2026/modaldialogsdb_d_stammdatenabgleich.md](docs/2026/modaldialogsdb_d_stammdatenabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Каталоги** — [docs/2026/modaldialogs_d_einstellungenverzeichnisse.md](docs/2026/modaldialogs_d_einstellungenverzeichnisse.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общие (проекты, управление)** — [docs/2026/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md](docs/2026/xmasterdatasettingsgui_d_einstellungenstammdatenallg.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Библиотеки символов** — [docs/2026/xmasterdatasettingsgui_d_einstellungensymbolbibl.md](docs/2026/xmasterdatasettingsgui_d_einstellungensymbolbibl.md)
+          - Вызов диалогового окна:
+    - **Редактор символов**
+      - **Основы**
+        - **Редактор символов** — [docs/2026/symboleditorgui_k_start.md](docs/2026/symboleditorgui_k_start.md)
+        - **Редактор символов: Принцип работы** — [docs/2026/symboleditorgui_k_arbeitsweise.md](docs/2026/symboleditorgui_k_arbeitsweise.md)
+      - **Процесс работы**
+        - **Обработать выводы устройства** — [docs/2026/symboleditorgui_h_anschluessebearbeiten.md](docs/2026/symboleditorgui_h_anschluessebearbeiten.md)
+        - **Работа с вариантами символов** — [docs/2026/symboleditorgui_h_mitsymbolvariantenarbeiten.md](docs/2026/symboleditorgui_h_mitsymbolvariantenarbeiten.md)
+          - Создание вариантов символа
+          - Удаление вариантов символа
+          - Замена вариантов символа
+        - **Создать библиотеки символов** — [docs/2026/symboleditorgui_h_symbolbibliothekenanlegen.md](docs/2026/symboleditorgui_h_symbolbibliothekenanlegen.md)
+        - **Обработать библиотеки символов** — [docs/2026/symboleditorgui_h_symbolbibliothekenbearbeiten.md](docs/2026/symboleditorgui_h_symbolbibliothekenbearbeiten.md)
+        - **Документировать библиотеки символов** — [docs/2026/symboleditorgui_h_symbolbibliothekendokumentieren.md](docs/2026/symboleditorgui_h_symbolbibliothekendokumentieren.md)
+        - **Импортировать / экспортировать библиотеки символов** — [docs/2026/symboleditorgui_h_symbolbibliothekenimportierenexportieren.md](docs/2026/symboleditorgui_h_symbolbibliothekenimportierenexportieren.md)
+          - Импорт библиотек символов
+          - Экспорт библиотек символов
+        - **Закрыть библиотеки символов** — [docs/2026/symboleditorgui_h_symbolbibliothekenschliessen.md](docs/2026/symboleditorgui_h_symbolbibliothekenschliessen.md)
+        - **Реорганизовать библиотеки символов** — [docs/2026/symboleditorgui_h_symbibreorganisieren.md](docs/2026/symboleditorgui_h_symbibreorganisieren.md)
+        - **Создать символы** — [docs/2026/symboleditorgui_h_symboleanlegen.md](docs/2026/symboleditorgui_h_symboleanlegen.md)
+        - **Обработать символы** — [docs/2026/symboleditorgui_h_symbolebearbeiten.md](docs/2026/symboleditorgui_h_symbolebearbeiten.md)
+        - **Импортировать / экспортировать символы** — [docs/2026/symboleditorgui_h_symboleimportierenexportieren.md](docs/2026/symboleditorgui_h_symboleimportierenexportieren.md)
+          - Импорт символов
+          - Экспортировать символы
+        - **Копировать символы** — [docs/2026/symboleditorgui_h_symbolekopieren.md](docs/2026/symboleditorgui_h_symbolekopieren.md)
+        - **Масштабировать символы** — [docs/2026/symboleditorgui_h_symboleskalieren.md](docs/2026/symboleditorgui_h_symboleskalieren.md)
+        - **Проверить символы** — [docs/2026/symboleditorgui_h_symbolepruefen.md](docs/2026/symboleditorgui_h_symbolepruefen.md)
+      - **Ссылка**
+        - **Диалоговое окно Вывод устройства** — [docs/2026/symboleditorgui_d_anschlusspunkt.md](docs/2026/symboleditorgui_d_anschlusspunkt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Нумеровать выводы устройства** — [docs/2026/symboleditorgui_d_anschlusspunktenummerieren.md](docs/2026/symboleditorgui_d_anschlusspunktenummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства библиотеки символов <Имя библиотеки>** — [docs/2026/symboleditorgui_d_symbolbibliothekseigenschaften.md](docs/2026/symboleditorgui_d_symbolbibliothekseigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства символа — <Имя библиотеки>** — [docs/2026/symboleditorgui_d_symboleigenschaften.md](docs/2026/symboleditorgui_d_symboleigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Размещение свойства** — [docs/2026/symboleditorgui_d_eigenschaftsplatzierung.md](docs/2026/symboleditorgui_d_eigenschaftsplatzierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Порядок свойств (редактор символов)** — [docs/2026/symboleditorgui_d_eigenschaftsanordnung.md](docs/2026/symboleditorgui_d_eigenschaftsanordnung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обработать порядок свойств** — [docs/2026/symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md](docs/2026/symboleditorgui_d_eigenschaftsanordnungenbearbeiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Копировать и масштабировать библиотеку символов** — [docs/2026/symboleditorgui_d_symbolbiblskalieren.md](docs/2026/symboleditorgui_d_symbolbiblskalieren.md)
+          - Вызов диалогового окна:
+    - **Редактор форм и рамок**
+      - **Основы**
+        - **Редактор форм и рамок** — [docs/2026/formeditorgui_k_start.md](docs/2026/formeditorgui_k_start.md)
+        - **Структура форм и рамок** — [docs/2026/formeditorgui_k_grundlagen.md](docs/2026/formeditorgui_k_grundlagen.md)
+        - **Заполнители в формах и рамках** — [docs/2026/formeditorgui_k_platzhalter.md](docs/2026/formeditorgui_k_platzhalter.md)
+        - **Следующие формы** — [docs/2026/formeditorgui_k_folgeformulare.md](docs/2026/formeditorgui_k_folgeformulare.md)
+        - **Динамические формы** — [docs/2026/formeditorgui_k_dynamformulare.md](docs/2026/formeditorgui_k_dynamformulare.md)
+        - **Подчиненные формы** — [docs/2026/formeditorgui_k_bedingteformulare.md](docs/2026/formeditorgui_k_bedingteformulare.md)
+        - **Направление создания отчета форм** — [docs/2026/formeditorgui_k_auswertungsrichtung.md](docs/2026/formeditorgui_k_auswertungsrichtung.md)
+        - **Специальные формы**
+          - **Форма для схемы кабельных соединений** — [docs/2026/formeditorgui_k_kdpformular.md](docs/2026/formeditorgui_k_kdpformular.md)
+          - **Формуляры для спецификаций клеммников и штекеров** — [docs/2026/formeditorgui_k_klemmenplan.md](docs/2026/formeditorgui_k_klemmenplan.md)
+          - **Формы для схем подключения** — [docs/2026/formeditorgui_k_anschlussplan.md](docs/2026/formeditorgui_k_anschlussplan.md)
+        - **Нумерация зон по ГОСТу** — [docs/2026/formeditorgui_k_pfadnummgost.md](docs/2026/formeditorgui_k_pfadnummgost.md)
+      - **Процесс работы**
+        - **Создать форму** — [docs/2026/formeditorgui_h_formulareerzeugen.md](docs/2026/formeditorgui_h_formulareerzeugen.md)
+        - **Обработать формы** — [docs/2026/formeditorgui_h_formularebearbeiten.md](docs/2026/formeditorgui_h_formularebearbeiten.md)
+        - **Обработать свойства форм** — [docs/2026/formeditorgui_h_formulareigenschaftenbearbeiten.md](docs/2026/formeditorgui_h_formulareigenschaftenbearbeiten.md)
+        - **Копировать формы** — [docs/2026/formeditorgui_h_formularekopieren.md](docs/2026/formeditorgui_h_formularekopieren.md)
+        - **Динамическое размещение графики** — [docs/2026/formeditorgui_h_grafikendynamischplatzieren.md](docs/2026/formeditorgui_h_grafikendynamischplatzieren.md)
+        - **Проверить формы** — [docs/2026/formeditorgui_h_formularepruefen.md](docs/2026/formeditorgui_h_formularepruefen.md)
+        - **Вставить и обработать тексты заполнители** — [docs/2026/formeditorgui_h_platzhaltertexteeinfuegen.md](docs/2026/formeditorgui_h_platzhaltertexteeinfuegen.md)
+        - **Генерировать новые заголовки на страницах формы** — [docs/2026/formeditorgui_h_hauptueberschriftenwiederholen.md](docs/2026/formeditorgui_h_hauptueberschriftenwiederholen.md)
+        - **Автоматическое указание информации о странице** — [docs/2026/formeditorgui_h_seiteninfosautomatischvergeben.md](docs/2026/formeditorgui_h_seiteninfosautomatischvergeben.md)
+        - **Определить общую графику в формах** — [docs/2026/formeditorgui_h_allggrafikeninformularendefinieren.md](docs/2026/formeditorgui_h_allggrafikeninformularendefinieren.md)
+        - **Определить графику в зависимости от значений свойств в формах и рамках** — [docs/2026/formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md](docs/2026/formeditorgui_h_grafikeneigenschaftswerteinformularendefinieren.md)
+        - **Определить графику в зависимости от определений функций свойство в формах** — [docs/2026/formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md](docs/2026/formeditorgui_h_grafikenfunktionsdefinformularendefinieren.md)
+        - **Вставить графику форм** — [docs/2026/formeditorgui_h_formulargrafikeneinfuegen.md](docs/2026/formeditorgui_h_formulargrafikeneinfuegen.md)
+        - **Работа с групповыми спецификациями изделий** — [docs/2026/formeditorgui_h_artikelsummenstueckliste.md](docs/2026/formeditorgui_h_artikelsummenstueckliste.md)
+        - **Создать рамку** — [docs/2026/formeditorgui_h_normblaettererzeugen.md](docs/2026/formeditorgui_h_normblaettererzeugen.md)
+        - **Обработать рамки** — [docs/2026/formeditorgui_h_normblaetterbearbeiten.md](docs/2026/formeditorgui_h_normblaetterbearbeiten.md)
+        - **Обработать свойства рамок** — [docs/2026/formeditorgui_h_normblatteigenschaftenbearbeiten.md](docs/2026/formeditorgui_h_normblatteigenschaftenbearbeiten.md)
+        - **Копировать рамки** — [docs/2026/formeditorgui_h_normblaetterkopieren.md](docs/2026/formeditorgui_h_normblaetterkopieren.md)
+        - **Вставить и обработать специальные тексты** — [docs/2026/formeditorgui_h_sondertexteeinfuegen.md](docs/2026/formeditorgui_h_sondertexteeinfuegen.md)
+        - **Управление выводом текстов-заполнителей и специальных текстов** — [docs/2026/formeditorgui_h_platzhaltertexteanzeigen.md](docs/2026/formeditorgui_h_platzhaltertexteanzeigen.md)
+        - **Обновить обозначения столбцов и строк рамок** — [docs/2026/formeditorgui_h_normblaetterpfadeaktualisieren.md](docs/2026/formeditorgui_h_normblaetterpfadeaktualisieren.md)
+        - **Удалить и заново разместить нумерацию столбцов и строк** — [docs/2026/formeditorgui_h_normblaetterpfadeposneuplatzieren.md](docs/2026/formeditorgui_h_normblaetterpfadeposneuplatzieren.md)
+        - **Документировать формы и рамки** — [docs/2026/formeditorgui_h_formularedokumentieren.md](docs/2026/formeditorgui_h_formularedokumentieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Свойства формы — <Имя формы>** — [docs/2026/formeditorgui_d_formulareigenschaften.md](docs/2026/formeditorgui_d_formulareigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Тексты заполнителей — <Тип формы>** — [docs/2026/formeditorgui_d_platzhaltertexteauswahl.md](docs/2026/formeditorgui_d_platzhaltertexteauswahl.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение (редакторы)** — [docs/2026/formeditorgui_r_platzierung.md](docs/2026/formeditorgui_r_platzierung.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+        - **Вкладка Тексты заполнители** — [docs/2026/formeditorgui_r_platzhaltertexte.md](docs/2026/formeditorgui_r_platzhaltertexte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Точка вставки следующей формы** — [docs/2026/formeditorgui_d_folgeformulareinfuegepunkt.md](docs/2026/formeditorgui_d_folgeformulareinfuegepunkt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат для автоматического описания страниц** — [docs/2026/formeditorgui_d_formatfuerautomatseitenbeschreibung.md](docs/2026/formeditorgui_d_formatfuerautomatseitenbeschreibung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение "индекса к графике"** — [docs/2026/formeditorgui_d_zuordnungindexzugrafik.md](docs/2026/formeditorgui_d_zuordnungindexzugrafik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение "свойства / значений к графике"** — [docs/2026/formeditorgui_d_zuordnungeigenschaftwertzugrafik.md](docs/2026/formeditorgui_d_zuordnungeigenschaftwertzugrafik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение "определения функции к графике"** — [docs/2026/formeditorgui_d_zuordnungfunktionsdefzugrafik.md](docs/2026/formeditorgui_d_zuordnungfunktionsdefzugrafik.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства для объединения** — [docs/2026/formeditorgui_d_eigenschaftenzusammenfassen.md](docs/2026/formeditorgui_d_eigenschaftenzusammenfassen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства рамки — <Имя рамки>** — [docs/2026/formeditorgui_d_normblatteigenschaften.md](docs/2026/formeditorgui_d_normblatteigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: свойство** — [docs/2026/eservicesgui_d_formateigenschaft.md](docs/2026/eservicesgui_d_formateigenschaft.md)
+          - Вызов диалогового окна (в редакторе форм):
+          - Вызов диалогового окна (генерировать имя файла DXF / DWG):
+        - **Диалоговое окно Соединения** — [docs/2026/formeditorgui_d_verbindungen.md](docs/2026/formeditorgui_d_verbindungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Условия** — [docs/2026/formeditorgui_r_bedingungen.md](docs/2026/formeditorgui_r_bedingungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Изменение свойства** — [docs/2026/formeditorgui_d_bedingungen.md](docs/2026/formeditorgui_d_bedingungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Подчиненные формы** — [docs/2026/formeditorgui_d_bedingteformulare.md](docs/2026/formeditorgui_d_bedingteformulare.md)
+          - Вызов диалогового окна:
+    - **Функции формы**
+      - **Основы**
+        - **Функции формы** — [docs/2026/formularfunction_k_start.md](docs/2026/formularfunction_k_start.md)
+        - **Функции формы: Динамические текстовые окна** — [docs/2026/formularfunction_k_dynamictextboxes.md](docs/2026/formularfunction_k_dynamictextboxes.md)
+        - **Функции формы: Блок выравнивания для заполнителя** — [docs/2026/formularfunction_k_bboxplaceholder.md](docs/2026/formularfunction_k_bboxplaceholder.md)
+      - **Процесс работы**
+        - **Вставить фиксированную графику в схемы подключений** — [docs/2026/formularfunction_h_insfixedgraphicsintoconndiagrams.md](docs/2026/formularfunction_h_insfixedgraphicsintoconndiagrams.md)
+        - **Вставить вилки соединений и линии кабелей в схемы подключений** — [docs/2026/formularfunction_h_insforksandcablesintoconndiagrams.md](docs/2026/formularfunction_h_insforksandcablesintoconndiagrams.md)
+    - **Редактор контура**
+      - **Основные положения**
+        - **Редактор контура** — [docs/2026/contoureditorgui_k_start.md](docs/2026/contoureditorgui_k_start.md)
+        - **Редактор контура: Основные положения** — [docs/2026/contoureditorgui_k_grundlagen.md](docs/2026/contoureditorgui_k_grundlagen.md)
+        - **Редактор контура: Нулевая точка контура** — [docs/2026/contoureditorgui_k_nullpunkt.md](docs/2026/contoureditorgui_k_nullpunkt.md)
+        - **Редактор контура: Логические элементы** — [docs/2026/contoureditorgui_k_logikelemente.md](docs/2026/contoureditorgui_k_logikelemente.md)
+      - **Процесс работы**
+        - **Создание контуров** — [docs/2026/contoureditorgui_h_konturenerzeugen.md](docs/2026/contoureditorgui_h_konturenerzeugen.md)
+        - **Обработать свойства точек определения контуров** — [docs/2026/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md](docs/2026/contoureditorgui_h_konturdefseigenschaftenbearbeiten.md)
+        - **Определить соединительные отверстия для проводов на гребенках для проводов** — [docs/2026/contoureditorgui_h_durchbrverdrahtungskaemdefinieren.md](docs/2026/contoureditorgui_h_durchbrverdrahtungskaemdefinieren.md)
+        - **Генерирование и обработка записей данных контура ЧУ** — [docs/2026/contoureditorgui_h_nckonturdatenbearbeiten.md](docs/2026/contoureditorgui_h_nckonturdatenbearbeiten.md)
+        - **Обработать контуры** — [docs/2026/contoureditorgui_h_konturenkopieren.md](docs/2026/contoureditorgui_h_konturenkopieren.md)
+          - Копирование контуров
+          - Поворачивать контуры
+          - Отобразить контуры зеркально / отобразить зеркально с копией
+        - **Проверка контуров** — [docs/2026/contoureditorgui_h_konturenpruefen.md](docs/2026/contoureditorgui_h_konturenpruefen.md)
+        - **Очистить контуры** — [docs/2026/contoureditorgui_h_konturenbereinigen.md](docs/2026/contoureditorgui_h_konturenbereinigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Свойства контура - <Название контура>** — [docs/2026/contoureditorgui_d_kontureigenschaften.md](docs/2026/contoureditorgui_d_kontureigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Запись данных ЧУ** — [docs/2026/contoureditorgui_d_ncdatensatz.md](docs/2026/contoureditorgui_d_ncdatensatz.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Отверстие** — [docs/2026/contoureditorgui_d_bohrung.md](docs/2026/contoureditorgui_d_bohrung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные (Точка определения контура)** — [docs/2026/contoureditorgui_r_daten.md](docs/2026/contoureditorgui_r_daten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (Точка определения контура)** — [docs/2026/contoureditorgui_r_anzeige.md](docs/2026/contoureditorgui_r_anzeige.md)
+          - Вызов диалогового окна:
+    - **Обозначения выводов устройства и буквенные обозначения**
+      - **Основы**
+        - **Собственные обозначения выводов устройства и условные обозначения** — [docs/2026/fctdeflibdataexchangegui_k_start.md](docs/2026/fctdeflibdataexchangegui_k_start.md)
+        - **Обозначения и описания выводов устройств** — [docs/2026/fctdeflibdataexchangegui_k_anschluss.md](docs/2026/fctdeflibdataexchangegui_k_anschluss.md)
+        - **Наборы буквенных обозначений** — [docs/2026/fctdeflibdataexchangegui_k_kennbuchstaben.md](docs/2026/fctdeflibdataexchangegui_k_kennbuchstaben.md)
+      - **Процесс работы**
+        - **Создать собственные обозначения и описания вывода устройства** — [docs/2026/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md](docs/2026/fctdeflibdataexchangegui_h_eigenanschlussbezeichnungen.md)
+        - **Создать собственные наборы буквенных обозначений** — [docs/2026/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md](docs/2026/fctdeflibdataexchangegui_h_eigenekennbuchstaben.md)
+    - **Управление изделиями**
+      - **Основы**
+        - **База данных изделий** — [docs/2026/articlesgui_k_start.md](docs/2026/articlesgui_k_start.md)
+        - **База данных изделий: Основные положения** — [docs/2026/articlesgui_k_grundlagen.md](docs/2026/articlesgui_k_grundlagen.md)
+        - **База данных изделий: Управление принадлежностями** — [docs/2026/articlesgui_k_zubehoerlisten.md](docs/2026/articlesgui_k_zubehoerlisten.md)
+        - **База данных изделий: Модули** — [docs/2026/articlesgui_k_module.md](docs/2026/articlesgui_k_module.md)
+        - **Управление изделиями: Дополнительные части** — [docs/2026/articlesgui_k_ergaenzungsteile.md](docs/2026/articlesgui_k_ergaenzungsteile.md)
+        - **Управление изделиями: Перенос старых баз данных изделий** — [docs/2026/articlesgui_k_migration.md](docs/2026/articlesgui_k_migration.md)
+      - **Процесс работы**
+        - **Создать изделие** — [docs/2026/articlesgui_h_artikelerstellen.md](docs/2026/articlesgui_h_artikelerstellen.md)
+          - Создать варианты
+        - **Копировать изделие и вставить данные** — [docs/2026/articlesgui_h_artikelkopieren.md](docs/2026/articlesgui_h_artikelkopieren.md)
+          - Вставить данные
+        - **Создать узлы** — [docs/2026/articlesgui_h_baugruppenanlegen.md](docs/2026/articlesgui_h_baugruppenanlegen.md)
+          - Присвоение позиций узла
+        - **Создать модули** — [docs/2026/articlesgui_h_moduleanlegen.md](docs/2026/articlesgui_h_moduleanlegen.md)
+          - Присвоение позиций модуля
+          - Вставка модулей в графике
+        - **Создать дополнительные части** — [docs/2026/articlesgui_h_ergaenzungsteileanlegen.md](docs/2026/articlesgui_h_ergaenzungsteileanlegen.md)
+        - **Создать список принадлежностей и присвоить его главному изделию** — [docs/2026/articlesgui_h_zubehoerlisteerstellen.md](docs/2026/articlesgui_h_zubehoerlisteerstellen.md)
+          - Создание списка принадлежностей
+          - Присвоить список принадлежностей главному изделию
+        - **Создать основные персональные данные** — [docs/2026/articlesgui_h_kundenerstellen.md](docs/2026/articlesgui_h_kundenerstellen.md)
+        - **Проверить основные данные изделия** — [docs/2026/articlesgui_h_artikelstammdatenpruefen.md](docs/2026/articlesgui_h_artikelstammdatenpruefen.md)
+        - **Экспортировать данные изделий** — [docs/2026/articlesgui_h_artikelexportieren.md](docs/2026/articlesgui_h_artikelexportieren.md)
+        - **Импортировать данные изделий** — [docs/2026/articlesgui_h_artikelimportieren.md](docs/2026/articlesgui_h_artikelimportieren.md)
+        - **Присвоить шаблоны функций** — [docs/2026/articlesgui_h_funktionsschablonenzuweisen.md](docs/2026/articlesgui_h_funktionsschablonenzuweisen.md)
+        - **Управление многоязычными данными изделий** — [docs/2026/articlesgui_h_mehrsprachigeartikelverwalten.md](docs/2026/articlesgui_h_mehrsprachigeartikelverwalten.md)
+          - Ручной перевод текстов
+          - Сохранение текстов перевода
+          - Удаление текстов перевода
+          - Импортировать тексты изделий
+        - **Создать конфигурации для представления в виде дерева** — [docs/2026/articlesgui_h_baumkonfiguration.md](docs/2026/articlesgui_h_baumkonfiguration.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление изделиями** — [docs/2026/articlesgui_d_artverw.md](docs/2026/articlesgui_d_artverw.md)
+          - Вызов диалогового окна:
+        - **Вкладка Информация** — [docs/2026/articlesgui_r_info.md](docs/2026/articlesgui_r_info.md)
+          - Вызов диалогового окна:
+        - **Вкладка Сообщения** — [docs/2026/articlesgui_r_meldungen.md](docs/2026/articlesgui_r_meldungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Свойства** — [docs/2026/articlesgui_r_eigenschaften.md](docs/2026/articlesgui_r_eigenschaften.md)
+          - Вызов диалогового окна:
+          - Уровень иерархии "Общее"
+          - Уровень иерархии "Данные" (для изделий)
+          - Уровень иерархии "Данные" (для списков принадлежностей)
+          - Уровень иерархии "Настройки" (для списков принадлежностей)
+          - Уровень иерархии "Данные" (для размещения принадлежностей)
+          - Уровень иерархии "Данные" (для схем сверления)
+          - Уровень иерархии "Данные" (для схем соединений)
+          - Уровень иерархии "Данные для отчетов"
+          - Уровень иерархии "Документы"
+          - Уровень иерархии "Разделы"
+          - Уровень иерархии "Монтажные данные"
+          - Уровень иерархии "Цены"
+          - Уровень иерархии "Технические данные"
+          - Уровень иерархии "Технические данные" (для сборных шин)
+          - Уровень иерархии "Сертификация"
+        - **Изделия**
+          - **Вкладка Обзор** — [docs/2026/articlesgui_r_uebersicht.md](docs/2026/articlesgui_r_uebersicht.md)
+            - Вызов диалогового окна:
+          - **Вкладка Определенные пользователем свойства** — [docs/2026/articlesgui_r_benutzdefeigenschaften.md](docs/2026/articlesgui_r_benutzdefeigenschaften.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Произвольн. свойства** — [docs/2026/articlesgui_d_freieeigenschaften.md](docs/2026/articlesgui_d_freieeigenschaften.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Перенести произвольные свойства** — [docs/2026/articlesgui_d_migrationfreieeigenschaften.md](docs/2026/articlesgui_d_migrationfreieeigenschaften.md)
+            - Вызов диалогового окна:
+          - **Вкладка Шаблоны функций** — [docs/2026/articlesgui_r_funktionsschablone.md](docs/2026/articlesgui_r_funktionsschablone.md)
+            - Вызов диалогового окна:
+          - **Вкладка Принадлежности** — [docs/2026/articlesgui_r_zubehoer.md](docs/2026/articlesgui_r_zubehoer.md)
+            - Вызов диалогового окна:
+          - **Вкладка Изготовление** — [docs/2026/articlesgui_r_fertigung.md](docs/2026/articlesgui_r_fertigung.md)
+            - Вызов диалогового окна:
+          - **Вкладка Параметры, важные с точки зрения безопасности** — [docs/2026/articlesgui_r_sicherheitskennwerte.md](docs/2026/articlesgui_r_sicherheitskennwerte.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Вариант применения** — [docs/2026/articlesgui_d_anwendungsfall.md](docs/2026/articlesgui_d_anwendungsfall.md)
+            - Вызов диалогового окна:
+          - **Вкладка Заблокированные области** — [docs/2026/articlesgui_r_sperrflaeche.md](docs/2026/articlesgui_r_sperrflaeche.md)
+            - Вызов диалогового окна:
+          - **Вкладка Несущие шины** — [docs/2026/articlesgui_r_tragschienen.md](docs/2026/articlesgui_r_tragschienen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Двери** — [docs/2026/articlesgui_r_tueren.md](docs/2026/articlesgui_r_tueren.md)
+            - Вызов диалогового окна:
+          - **Вкладка Монтажные платы (база данных изделий)** — [docs/2026/articlesgui_r_montageplatten.md](docs/2026/articlesgui_r_montageplatten.md)
+            - Вызов диалогового окна:
+          - **Вкладка Узел** — [docs/2026/articlesgui_r_baugruppe.md](docs/2026/articlesgui_r_baugruppe.md)
+            - Вызов диалогового окна:
+          - **Вкладка Модуль** — [docs/2026/articlesgui_r_modul.md](docs/2026/articlesgui_r_modul.md)
+            - Вызов диалогового окна:
+        - **Список принадлежностей**
+          - **Вкладка Изделия (Список принадлежностей)** — [docs/2026/articlesgui_r_zubehoerlisteartikel.md](docs/2026/articlesgui_r_zubehoerlisteartikel.md)
+            - Вызов диалогового окна:
+        - **Размещение принадлежностей**
+          - **Вкладка Размещение (размещение принадлежностей)** — [docs/2026/articlesgui_r_platzierung.md](docs/2026/articlesgui_r_platzierung.md)
+            - Вызов диалогового окна:
+        - **Схема сверления**
+          - **Вкладка Монтажные отверстия (схема сверления)** — [docs/2026/articlesgui_r_durchbrueche.md](docs/2026/articlesgui_r_durchbrueche.md)
+            - Вызов диалогового окна:
+        - **Схема соединений**
+          - **Вкладка "Выводы устройства" (схема соединений)** — [docs/2026/articlesgui_r_anschluesse.md](docs/2026/articlesgui_r_anschluesse.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Конфигурация столбцов** — [docs/2026/modaldialogsdb_d_schemaspaltenkonfiguration.md](docs/2026/modaldialogsdb_d_schemaspaltenkonfiguration.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Категория соединения** — [docs/2026/partsmanagementgui_d_einstanschlussausf.md](docs/2026/partsmanagementgui_d_einstanschlussausf.md)
+            - Вызов диалогового окна:
+        - **Настройки и прочее**
+          - **Диалоговое окно Настройки: Изделие (пользователь)** — [docs/2026/partselectiongui_d_datenauswahlbenutzer.md](docs/2026/partselectiongui_d_datenauswahlbenutzer.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Управление изделиями** — [docs/2026/partsmanagementgui_d_einstellungenartverw.md](docs/2026/partsmanagementgui_d_einstellungenartverw.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Сервер SQL - Настройка" / диалоговое окно "Генерировать базу данных сервера SQL"** — [docs/2026/modaldialogsdb_d_sqlserver.md](docs/2026/modaldialogsdb_d_sqlserver.md)
+            - Вызов диалогового окна Настройка сервера SQL:
+            - Диалоговое окно Настройка сервера SQL (Управление изделиями):
+            - Вызов диалогового окна Сгенерировать базу данных сервера SQL:
+          - **Диалоговое окно Настройки: Предварительная фильтрация изделий** — [docs/2026/partsextensiongui_d_artikelvorfilterung.md](docs/2026/partsextensiongui_d_artikelvorfilterung.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Конфигурация дерева** — [docs/2026/partsmanagementgui_d_baumkonfiguration.md](docs/2026/partsmanagementgui_d_baumkonfiguration.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Конфигурация дерева — Главные узлы** — [docs/2026/partsmanagementgui_d_baumkonfigurationhauptknoten.md](docs/2026/partsmanagementgui_d_baumkonfigurationhauptknoten.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Вставить данные** — [docs/2026/articlesgui_d_dateneinfuegen.md](docs/2026/articlesgui_d_dateneinfuegen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно перемещения базы данных изделий** — [docs/2026/articlesgui_d_datenbankmigrieren.md](docs/2026/articlesgui_d_datenbankmigrieren.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Экспортировать записи данных** — [docs/2026/partsmanagementgui_d_artikelexport.md](docs/2026/partsmanagementgui_d_artikelexport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Импортировать записи данных** — [docs/2026/partsmanagementgui_d_artikelimport.md](docs/2026/partsmanagementgui_d_artikelimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Присвоение поля" / диалоговое окно "Защитить поля" (Управление изделиями)** — [docs/2026/partsmanagementgui_d_feldzuordnung.md](docs/2026/partsmanagementgui_d_feldzuordnung.md)
+            - Вызов диалогового окна "Присвоения полей":
+            - Вызов диалогового окна "Защитить поля":
+          - **Диалоговое окно Присвоение VDMA 66413** — [docs/2026/partsimportsafetyrelatedvaluesgui_d_vdmaimport.md](docs/2026/partsimportsafetyrelatedvaluesgui_d_vdmaimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Выбрать раздел** — [docs/2026/partsmanagementgui_d_gewerkauswaehlen.md](docs/2026/partsmanagementgui_d_gewerkauswaehlen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Загрузить данные изделия** — [docs/2026/partsimportexportedzgui_d_exporttoestock.md](docs/2026/partsimportexportedzgui_d_exporttoestock.md)
+            - Вызов диалогового окна:
+    - **Импорт данных изделий по стандарту ECLASS**
+      - **Основы**
+        - **База данных изделий: Импорт данных изделий по стандарту ECLASS** — [docs/2026/partsimportbmecatgui_k_start.md](docs/2026/partsimportbmecatgui_k_start.md)
+        - **База данных изделий: Присвоение признаков ECLASS свойствам изделия Eplan** — [docs/2026/partsimportbmecatgui_k_mappingdetails.md](docs/2026/partsimportbmecatgui_k_mappingdetails.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Импорт ECLASS** — [docs/2026/partsimportbmecatgui_d_einstellungeneclass.md](docs/2026/partsimportbmecatgui_d_einstellungeneclass.md)
+          - Вызов диалогового окна:
+        - **Вкладка Присвоение поля BMEcat** — [docs/2026/partsimportbmecatgui_r_BMEcatFeldzuordnung.md](docs/2026/partsimportbmecatgui_r_BMEcatFeldzuordnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Присвоение класса** — [docs/2026/partsimportbmecatgui_r_klassenzuordnung.md](docs/2026/partsimportbmecatgui_r_klassenzuordnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Присвоение признака** — [docs/2026/partsimportbmecatgui_r_Merkmalzuordnung.md](docs/2026/partsimportbmecatgui_r_Merkmalzuordnung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки** — [docs/2026/partsimportbmecatgui_r_Eigenschaften.md](docs/2026/partsimportbmecatgui_r_Eigenschaften.md)
+          - Вызов диалогового окна:
+    - **Управление правами**
+      - **Основы**
+        - **Управление правами** — [docs/2026/uradministration_k_start.md](docs/2026/uradministration_k_start.md)
+        - **Управление правами: Принцип работы** — [docs/2026/uradministration_k_prinzip.md](docs/2026/uradministration_k_prinzip.md)
+        - **Импорт пользователей Windows** — [docs/2026/uradministration_k_windowsbenutzer.md](docs/2026/uradministration_k_windowsbenutzer.md)
+      - **Процесс работы**
+        - **Управление пользователями** — [docs/2026/uradministration_h_benutzer.md](docs/2026/uradministration_h_benutzer.md)
+          - Создание пользователя
+          - Импорт пользователей из системы Windows
+          - Обработка пользователя
+          - Удаление пользователя
+          - Присвоение пользователей группам
+          - Ввести или изменить пароли
+        - **Управление группами пользователей** — [docs/2026/uradministration_h_gruppen.md](docs/2026/uradministration_h_gruppen.md)
+          - Создать группу пользователей
+          - Копировать группу пользователей
+          - Обработать группу пользователей
+          - Удалить группу пользователей
+          - Присвоение группам прав
+        - **Зарегистрировать или поменять пользователя** — [docs/2026/uradministration_h_benutzerwechseln.md](docs/2026/uradministration_h_benutzerwechseln.md)
+      - **Ссылка**
+        - **Диалоговое окно Управление правами** — [docs/2026/uradministration_d_rechte.md](docs/2026/uradministration_d_rechte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление правами: Пользователь** — [docs/2026/uradministration_d_benutzer.md](docs/2026/uradministration_d_benutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление правами: Группы** — [docs/2026/uradministration_d_gruppe.md](docs/2026/uradministration_d_gruppe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление правами: Рабочий режим** — [docs/2026/uradministration_d_arbeitsmodus.md](docs/2026/uradministration_d_arbeitsmodus.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Регистрация в Eplan** — [docs/2026/urrightsmanager_d_anmelden.md](docs/2026/urrightsmanager_d_anmelden.md)
+          - Вызов диалогового окна:
+        - **Изменить пароль диалогового окна** — [docs/2026/uradministration_d_passwortaendern.md](docs/2026/uradministration_d_passwortaendern.md)
+          - Вызов диалогового окна:
+  - **Понимание и управление сообщениями**
+    - **Управление сообщениями**
+      - **Основы**
+        - **Управление сообщениями Eplan** — [docs/2026/msgmanagementgui_k_start.md](docs/2026/msgmanagementgui_k_start.md)
+        - **Сообщения контрольного прогона: номера сообщений, классы и категории** — [docs/2026/msgmanagementgui_k_prinzip.md](docs/2026/msgmanagementgui_k_prinzip.md)
+        - **Контрольные прогоны** — [docs/2026/msgmanagementgui_k_prueflaufprinzip.md](docs/2026/msgmanagementgui_k_prueflaufprinzip.md)
+        - **Зависимые от проекта сообщения контрольного прогона для основных данных изделий** — [docs/2026/msgmanagementgui_k_501projektartikelprueflaeufe.md](docs/2026/msgmanagementgui_k_501projektartikelprueflaeufe.md)
+      - **Процесс работы**
+        - **Конфигурировать контрольные прогоны** — [docs/2026/msgmanagementgui_h_konfigurieren.md](docs/2026/msgmanagementgui_h_konfigurieren.md)
+        - **Проверить проекты** — [docs/2026/msgmanagementgui_h_prueflauf.md](docs/2026/msgmanagementgui_h_prueflauf.md)
+        - **Проверить данные проекта в режиме подключения** — [docs/2026/msgmanagementgui_h_prueflaufonline.md](docs/2026/msgmanagementgui_h_prueflaufonline.md)
+        - **Просмотреть и обработать сообщения контрольного прогона** — [docs/2026/msgmanagementgui_h_meldungenansehen.md](docs/2026/msgmanagementgui_h_meldungenansehen.md)
+        - **Отобразить тексты сообщений в графическом редакторе** — [docs/2026/msgmanagementgui_h_meldungstexteanzeigen.md](docs/2026/msgmanagementgui_h_meldungstexteanzeigen.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Управление сообщениями** — [docs/2026/xesinspectiongui_d_projekteinstellungen.md](docs/2026/xesinspectiongui_d_projekteinstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сообщения и контрольные прогоны** — [docs/2026/xesinspectiongui_d_einstellungenmeldungen.md](docs/2026/xesinspectiongui_d_einstellungenmeldungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Управление сообщениями — <Имя проекта>** — [docs/2026/msgmanagementgui_d_meldungsverwaltung.md](docs/2026/msgmanagementgui_d_meldungsverwaltung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Фильтр: Сообщения** — [docs/2026/msgmanagementgui_d_filter.md](docs/2026/msgmanagementgui_d_filter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выполнить контр. прогон** — [docs/2026/xesinspectiongui_d_prueflauf.md](docs/2026/xesinspectiongui_d_prueflauf.md)
+          - Вызов диалогового окна:
+    - **Сообщения контрольного прогона**
+      - **Сообщения контрольного прогона: Обзор** — [docs/2026/messages_o_start.md](docs/2026/messages_o_start.md)
+    - **Системные сообщения** — [docs/2026/errorhelp_k_start.md](docs/2026/errorhelp_k_start.md)
+  - **Генерация отчетов и вывод маркировок**
+    - **Отчеты**
+      - **Основы**
+        - **Отчеты** — [docs/2026/formgeneratorgui_k_start.md](docs/2026/formgeneratorgui_k_start.md)
+        - **Типы отчетов** — [docs/2026/formgeneratorgui_k_auswertungstypen.md](docs/2026/formgeneratorgui_k_auswertungstypen.md)
+        - **Отчеты, относящиеся к функции** — [docs/2026/formgeneratorgui_k_funktionsbezogen.md](docs/2026/formgeneratorgui_k_funktionsbezogen.md)
+          - Символы
+          - Клеммы и изделия
+          - Информация электрошкафа
+          - Информация об отверстиях
+          - Выводы устройства ПЛК
+          - Провода / группы соединений
+          - Кабели
+          - Клеммы
+          - Штекеры
+          - Топология: Сегменты маршрутизации
+          - Предварительное планирование
+          - Выводы устройства, ориентированные на устройство
+          - Выводы устройства, ориентированные на кабель
+          - Выводы устройства, ориентированные на клеммники и клеммы
+          - Выводы устройства, ориентированные на штекеры и контакты штекера
+        - **Перечни отчетов** — [docs/2026/formgeneratorgui_k_auswertungsuebersicht.md](docs/2026/formgeneratorgui_k_auswertungsuebersicht.md)
+          - Перечень документов
+          - Титульный лист
+          - Ревизии
+          - Устройства
+          - Формы
+          - Кабели
+          - Клеммники
+          - Рамки
+          - Потенциалы
+          - Функциональная схема автоматизации: Трубопроводы
+          - Штекеры
+          - Карты ПЛК
+          - Адреса ПЛК
+          - Структурный идентификатор
+          - Топология: Сегменты маршрутизации
+          - Соединения
+          - Структура кабеля
+          - Опции
+          - Объекты-заполнители
+          - Топология: Маршрутизируемый кабель / соединения
+          - Предварительное планирование
+        - **Страницы отчетов** — [docs/2026/formgeneratorgui_k_auswertungsseiten.md](docs/2026/formgeneratorgui_k_auswertungsseiten.md)
+        - **Графические отчеты** — [docs/2026/formgeneratorgui_k_auswertunggrafisch.md](docs/2026/formgeneratorgui_k_auswertunggrafisch.md)
+        - **Встроенные отчеты** — [docs/2026/formgeneratorgui_k_ausgabeformen.md](docs/2026/formgeneratorgui_k_ausgabeformen.md)
+        - **Сортировка страниц отчетов** — [docs/2026/formgeneratorgui_k_seitensortierung.md](docs/2026/formgeneratorgui_k_seitensortierung.md)
+        - **Блоки отчетов** — [docs/2026/formgeneratorgui_k_auswertungsbloecke.md](docs/2026/formgeneratorgui_k_auswertungsbloecke.md)
+        - **Шаблоны отчетов** — [docs/2026/formgeneratorgui_k_auswertungsvorlagen.md](docs/2026/formgeneratorgui_k_auswertungsvorlagen.md)
+        - **Необновляемые страницы отчета** — [docs/2026/formgeneratorgui_k_eingefrorseiten.md](docs/2026/formgeneratorgui_k_eingefrorseiten.md)
+        - **Отчеты из исходных проектов** — [docs/2026/formgeneratorgui_k_quellprojekt.md](docs/2026/formgeneratorgui_k_quellprojekt.md)
+          - Исходный проект в отчетах
+          - Исходный проект в свойствах страницы
+          - Временные проекты отчета
+        - **Отчеты с отличающейся формой** — [docs/2026/formgeneratorgui_k_updatewithformeigenschaft.md](docs/2026/formgeneratorgui_k_updatewithformeigenschaft.md)
+        - **Сложные устройства в отчетах** — [docs/2026/formgeneratorgui_k_komplexegeraete.md](docs/2026/formgeneratorgui_k_komplexegeraete.md)
+      - **Процесс работы**
+        - **Присвоение формы типу отчета** — [docs/2026/formgeneratorgui_h_auswerten.md](docs/2026/formgeneratorgui_h_auswerten.md)
+        - **Генерировать шаблон отчета** — [docs/2026/formgeneratorgui_h_vorlageerstellen.md](docs/2026/formgeneratorgui_h_vorlageerstellen.md)
+          - Заново создать шаблон отчетов
+          - Создать шаблон отчета из существующего отчета
+          - Создать шаблон отчета для условных отчетов
+        - **Генерация перечня отчетов без шаблона** — [docs/2026/formgeneratorgui_h_auswerterzeugen.md](docs/2026/formgeneratorgui_h_auswerterzeugen.md)
+        - **Генерация относящегося к функции отчета без шаблона** — [docs/2026/formgeneratorgui_h_funkbezogauswerterzeugen.md](docs/2026/formgeneratorgui_h_funkbezogauswerterzeugen.md)
+        - **Генерация отчета из шаблона** — [docs/2026/formgeneratorgui_h_auswertungausvorlage.md](docs/2026/formgeneratorgui_h_auswertungausvorlage.md)
+        - **Размещения отчета на странице вручную** — [docs/2026/formgeneratorgui_h_auswplatzieren.md](docs/2026/formgeneratorgui_h_auswplatzieren.md)
+        - **Вывести отчет в другой проект** — [docs/2026/formgeneratorgui_h_inanderesprojekt.md](docs/2026/formgeneratorgui_h_inanderesprojekt.md)
+          - Сгенерировать исходный проект в новом шаблоне отчета
+          - Сгенерировать исходный проект для отдельных шаблонов в имеющемся шаблоне отчета
+          - Сгенерировать исходный проект для целого проекта в имеющемся шаблоне отчета
+          - Удалить записанный исходный проект
+        - **Генерация отчета по проекту** — [docs/2026/formgeneratorgui_h_projektauswerten.md](docs/2026/formgeneratorgui_h_projektauswerten.md)
+        - **Обновление отчета вручную** — [docs/2026/formgeneratorgui_h_auswaktualisieren.md](docs/2026/formgeneratorgui_h_auswaktualisieren.md)
+        - **Автоматическое / не автоматическое обновление отчета** — [docs/2026/formgeneratorgui_h_automatischaktualisieren.md](docs/2026/formgeneratorgui_h_automatischaktualisieren.md)
+        - **Фильтровать обновленные измененные страницы отчета** — [docs/2026/formgeneratorgui_h_geaenderteseitenfiltern.md](docs/2026/formgeneratorgui_h_geaenderteseitenfiltern.md)
+        - **Удалить страницы отчета** — [docs/2026/formgeneratorgui_h_auswertungloeschen.md](docs/2026/formgeneratorgui_h_auswertungloeschen.md)
+        - **Удалить встроенный отчет** — [docs/2026/formgeneratorgui_h_eingbauswertungloeschen.md](docs/2026/formgeneratorgui_h_eingbauswertungloeschen.md)
+        - **Закрепить страницы отчета** — [docs/2026/formgeneratorgui_h_auswerteinfrieren.md](docs/2026/formgeneratorgui_h_auswerteinfrieren.md)
+        - **Отобразить / фильтровать необновляемые страницы отчета** — [docs/2026/formgeneratorgui_h_eingefroreneseitenfiltern.md](docs/2026/formgeneratorgui_h_eingefroreneseitenfiltern.md)
+        - **Экспортировать / импортировать шаблоны отчетов** — [docs/2026/formgeneratorgui_h_exportimport.md](docs/2026/formgeneratorgui_h_exportimport.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Вывод в страницах** — [docs/2026/formgeneratorgui_d_einstellgrafikausgabe.md](docs/2026/formgeneratorgui_d_einstellgrafikausgabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сортировка страниц – <Тип отчета>** — [docs/2026/formgeneratorgui_d_seitensortierung.md](docs/2026/formgeneratorgui_d_seitensortierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Отображение / вывод** — [docs/2026/formgeneratorgui_d_einstellungenausgabe.md](docs/2026/formgeneratorgui_d_einstellungenausgabe.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отчеты** — [docs/2026/formgeneratorgui_d_auswertungen.md](docs/2026/formgeneratorgui_d_auswertungen.md)
+          - Вызов диалогового окна:
+        - **Вклада Шаблоны** — [docs/2026/formgeneratorgui_d_vorlagen.md](docs/2026/formgeneratorgui_d_vorlagen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Определить отчет** — [docs/2026/formgeneratorgui_d_auswertfestlegen.md](docs/2026/formgeneratorgui_d_auswertfestlegen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать монтажную плату** — [docs/2026/formgeneratorgui_d_auswahlmontageplatte.md](docs/2026/formgeneratorgui_d_auswahlmontageplatte.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки — <Тип отчета>** — [docs/2026/formgeneratorgui_d_grafikausgabe.md](docs/2026/formgeneratorgui_d_grafikausgabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки — <Тип отчета> (относящийся к функции)** — [docs/2026/formgeneratorgui_d_filtererweitert.md](docs/2026/formgeneratorgui_d_filtererweitert.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Сортировка" / диалоговое окно "Новая страница при изменении свойства"** — [docs/2026/formgeneratorgui_d_sortierung.md](docs/2026/formgeneratorgui_d_sortierung.md)
+          - Вызов диалогового окна Сортировка:
+          - Вызов диалогового окна 'Новая страница при изменении свойства':
+          - Вызов диалогового окна Новая нумерация при измененном свойстве:
+        - **Диалоговое окно Выбрать вручную** — [docs/2026/formgeneratorgui_d_auswahl.md](docs/2026/formgeneratorgui_d_auswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно <Тип отчета>** — [docs/2026/formgeneratorgui_d_struktur.md](docs/2026/formgeneratorgui_d_struktur.md)
+          - Вызов диалогового окна:
+    - **Экспорт данных изготовления / Маркировка / Внешние отчеты**
+      - **Основы**
+        - **Экспорт данных изготовления / маркировка** — [docs/2026/labelgui_k_start.md](docs/2026/labelgui_k_start.md)
+        - **Внешние отчеты** — [docs/2026/labelgui_k_externeauswertungen.md](docs/2026/labelgui_k_externeauswertungen.md)
+        - **Файл экспорта / маркировки / Внешний файл отчетов** — [docs/2026/labelgui_k_aufbaubeschriftung.md](docs/2026/labelgui_k_aufbaubeschriftung.md)
+        - **Элементы формата для файла экспорта / маркировки / Внешний файл отчетов** — [docs/2026/labelgui_k_formatelemente.md](docs/2026/labelgui_k_formatelemente.md)
+        - **Экспорт данных изготовления / маркировка: Способ действий** — [docs/2026/labelgui_k_vorgehensweise.md](docs/2026/labelgui_k_vorgehensweise.md)
+        - **Шаблон Excel для экспорта данных изготовления / маркировки** — [docs/2026/labelgui_k_excelexportvorlagen.md](docs/2026/labelgui_k_excelexportvorlagen.md)
+      - **Процесс работы**
+        - **Создать схему экспорта / маркировки** — [docs/2026/labelgui_h_beschriftungsschema.md](docs/2026/labelgui_h_beschriftungsschema.md)
+        - **Определить настройки вывода *.txt** — [docs/2026/labelgui_h_textausgabe.md](docs/2026/labelgui_h_textausgabe.md)
+        - **Определить настройки вывода Excel** — [docs/2026/labelgui_h_exceldatei.md](docs/2026/labelgui_h_exceldatei.md)
+        - **Определить верхний колонтитул, область этикетки и нижний колонтитул** — [docs/2026/labelgui_h_formatelemfestlegen.md](docs/2026/labelgui_h_formatelemfestlegen.md)
+        - **Вывести данные изготовления / маркировку** — [docs/2026/labelgui_h_beschriftungausgeben.md](docs/2026/labelgui_h_beschriftungausgeben.md)
+      - **Ссылка**
+        - **Диалоговое окно Экспортировать данные изготовления / вывести маркировку** — [docs/2026/labelgui_d_beschriftungausgabe.md](docs/2026/labelgui_d_beschriftungausgabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт данных изготовления / маркировка** — [docs/2026/labelgui_d_beschriftungeinstell.md](docs/2026/labelgui_d_beschriftungeinstell.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать элементы формата** — [docs/2026/labelgui_d_formatelementeauswaehlen.md](docs/2026/labelgui_d_formatelementeauswaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Тип отчета** — [docs/2026/labelgui_d_auswertungstyp.md](docs/2026/labelgui_d_auswertungstyp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Файл** — [docs/2026/labelgui_r_datei.md](docs/2026/labelgui_r_datei.md)
+          - Вызов диалогового окна:
+        - **Вкладки Верхний колонтитул / Нижний колонтитул** — [docs/2026/labelgui_r_kopfzeile.md](docs/2026/labelgui_r_kopfzeile.md)
+          - Вызов диалогового окна:
+        - **Вкладка Этикетка** — [docs/2026/labelgui_r_datensatz.md](docs/2026/labelgui_r_datensatz.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки** — [docs/2026/labelgui_d_paramartikelauswertung.md](docs/2026/labelgui_d_paramartikelauswertung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Разделитель** — [docs/2026/labelgui_d_trennzeichen.md](docs/2026/labelgui_d_trennzeichen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойство — <Тип свойства>** — [docs/2026/labelgui_d_eigenschaft.md](docs/2026/labelgui_d_eigenschaft.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Формат: Вычисление (экспорт данных изготовления / маркировка)** — [docs/2026/labelgui_d_format.md](docs/2026/labelgui_d_format.md)
+          - Вызов диалогового окна:
+  - **Генерация автоматических переводов**
+    - **Словари**
+      - **Основы**
+        - **Словарь** — [docs/2026/translatedbgui_k_start.md](docs/2026/translatedbgui_k_start.md)
+        - **Структура ключевых слов** — [docs/2026/translatedbgui_k_eingabemoeglichkeit.md](docs/2026/translatedbgui_k_eingabemoeglichkeit.md)
+        - **Зарезервированные специальные символы в ключевых словах** — [docs/2026/translatedbgui_k_ueberblickzeichen.md](docs/2026/translatedbgui_k_ueberblickzeichen.md)
+        - **Числа в ключевых словах и текстах** — [docs/2026/translatedbgui_k_zahlen.md](docs/2026/translatedbgui_k_zahlen.md)
+      - **Процесс работы**
+        - **Создать / выбрать словарь** — [docs/2026/translatedbgui_h_woerterbuchanlegen.md](docs/2026/translatedbgui_h_woerterbuchanlegen.md)
+        - **Создать ключевые слова** — [docs/2026/translatedbgui_h_stichwortanlegen.md](docs/2026/translatedbgui_h_stichwortanlegen.md)
+        - **Ввести предложение по разделению** — [docs/2026/translatedbgui_h_trennvorschlag.md](docs/2026/translatedbgui_h_trennvorschlag.md)
+        - **Импортировать тексты проекта в словарь** — [docs/2026/translatedbgui_h_projekttexteimportieren.md](docs/2026/translatedbgui_h_projekttexteimportieren.md)
+        - **Импортировать тексты изделий в словарь** — [docs/2026/translatedbgui_h_artikeltexteimportieren.md](docs/2026/translatedbgui_h_artikeltexteimportieren.md)
+      - **Ссылка**
+        - **Вкладка Управление** — [docs/2026/translatedbgui_r_verwaltung.md](docs/2026/translatedbgui_r_verwaltung.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Обработать слова" / вкладка "Выбрать слова"** — [docs/2026/translatedbgui_r_uebersetzbar.md](docs/2026/translatedbgui_r_uebersetzbar.md)
+          - Вызов диалогового окна (Обработать слова):
+          - Вызов диалогового окна (Выбрать слова):
+        - **Вкладка Слова не переводить** — [docs/2026/translatedbgui_r_nichtuebersetzbar.md](docs/2026/translatedbgui_r_nichtuebersetzbar.md)
+          - Вызов диалогового окна:
+        - **Вкладка Автокоррекция** — [docs/2026/translatedbgui_r_gesperrtebegriffe.md](docs/2026/translatedbgui_r_gesperrtebegriffe.md)
+          - Вызов диалогового окна:
+        - **Вкладка / диалоговое окно "Выбрать языки"** — [docs/2026/translatedbgui_d_sprachewaehlen.md](docs/2026/translatedbgui_d_sprachewaehlen.md)
+          - Вызов диалогового окна:
+    - **Перевод**
+      - **Основы**
+        - **Автоматический перевод / перевод вручную** — [docs/2026/translategui_k_start.md](docs/2026/translategui_k_start.md)
+        - **Многоязычные тексты** — [docs/2026/translategui_k_mehrsprachigetexte.md](docs/2026/translategui_k_mehrsprachigetexte.md)
+      - **Процесс работы**
+        - **Определить виды шрифтов для перевода** — [docs/2026/translategui_h_schriftartfestlegen.md](docs/2026/translategui_h_schriftartfestlegen.md)
+        - **Переводить тексты и свойства везде / не переводить** — [docs/2026/translategui_h_textenichtuebersetzen.md](docs/2026/translategui_h_textenichtuebersetzen.md)
+        - **Переводить типы страниц везде / не переводить** — [docs/2026/translategui_h_seitennichtuebersetzen.md](docs/2026/translategui_h_seitennichtuebersetzen.md)
+        - **Определить языки перевода и языки отображения** — [docs/2026/translategui_h_sprachenwaehlen.md](docs/2026/translategui_h_sprachenwaehlen.md)
+        - **Включить автокоррекцию для текстов проекта** — [docs/2026/translategui_h_texteersetzen.md](docs/2026/translategui_h_texteersetzen.md)
+        - **Переводить во время ввода** — [docs/2026/translategui_h_onlineuebersetzen.md](docs/2026/translategui_h_onlineuebersetzen.md)
+        - **Убрать перевод из проекта** — [docs/2026/translategui_h_entfernenuebersetzung.md](docs/2026/translategui_h_entfernenuebersetzung.md)
+        - **Экспортировать список отсутствующих слов** — [docs/2026/translategui_h_fehlwortexport.md](docs/2026/translategui_h_fehlwortexport.md)
+        - **Импортировать список отсутствующих слов** — [docs/2026/translategui_h_fehlwortimport.md](docs/2026/translategui_h_fehlwortimport.md)
+      - **Ссылка**
+        - **Диалоговое окно Тестовый ввод** — [docs/2026/translategui_d_testeingabe.md](docs/2026/translategui_d_testeingabe.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Общее" (проект, перевод) / Вкладка "Общее"** — [docs/2026/translategui_r_einstellungprojekt.md](docs/2026/translategui_r_einstellungprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Словарь" / вкладка "Словарь"** — [docs/2026/translategui_r_einstellungbenutzer.md](docs/2026/translategui_r_einstellungbenutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: объем" / вкладка "Объем"** — [docs/2026/translategui_r_einstellungumfang.md](docs/2026/translategui_r_einstellungumfang.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: переводимые страницы" / вкладка "Переводимые страницы"** — [docs/2026/translategui_r_einstellungseiten.md](docs/2026/translategui_r_einstellungseiten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Вне зависимости от проекта" / вкладка "Вне зависимости от проекта"** — [docs/2026/modaldialogs_r_einstellungprojekt.md](docs/2026/modaldialogs_r_einstellungprojekt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Управление изделиями (переводимые свойства)" / вкладка "Управление изделиями"** — [docs/2026/translategui_r_artikelverwaltung.md](docs/2026/translategui_r_artikelverwaltung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Найденные слова** — [docs/2026/translategui_d_gefundenewoerter.md](docs/2026/translategui_d_gefundenewoerter.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Перевести" / диалоговое окно "Многоязычный ввод"** — [docs/2026/modaldialogs_d_mehrsprachigeeingabe.md](docs/2026/modaldialogs_d_mehrsprachigeeingabe.md)
+          - Вызов диалогового окна в графическом редакторе:
+          - Вызов диалогового окна в редакторе форм:
+          - Вызов диалогового окна в редакторе рамок:
+          - Вызов диалогового окна в редакторе символов:
+  - **Изменение стандартов**
+    - **Изменение стандарта**
+      - **Основы**
+        - **Изменение стандарта** — [docs/2026/changestandardsgui_k_start.md](docs/2026/changestandardsgui_k_start.md)
+        - **Замена символов** — [docs/2026/changestandardsgui_k_symbolaustausch.md](docs/2026/changestandardsgui_k_symbolaustausch.md)
+        - **Замена рамки** — [docs/2026/changestandardsgui_k_stammdaten.md](docs/2026/changestandardsgui_k_stammdaten.md)
+        - **Повернутые страницы / Неповернутые страницы** — [docs/2026/changestandardsgui_k_seitendrehung.md](docs/2026/changestandardsgui_k_seitendrehung.md)
+      - **Процесс работы**
+        - **Настроить целевой проект (изменение стандарта)** — [docs/2026/changestandardsgui_h_projektanpassen.md](docs/2026/changestandardsgui_h_projektanpassen.md)
+        - **Задать базовый проект и поворот / инверсию (изменение стандарта)** — [docs/2026/changestandardsgui_h_vorlagefestlegen.md](docs/2026/changestandardsgui_h_vorlagefestlegen.md)
+        - **Заменить рамки, формы и библиотеки определения функций (Изменение стандарта)** — [docs/2026/changestandardsgui_h_stammdatenaustauschen.md](docs/2026/changestandardsgui_h_stammdatenaustauschen.md)
+        - **Заменить библиотеки символов и символы (Изменение стандарта)** — [docs/2026/changestandardsgui_h_symboletauschen.md](docs/2026/changestandardsgui_h_symboletauschen.md)
+        - **Создать схему присвоения для символов (Изменение стандарта)** — [docs/2026/changestandardsgui_h_stammdatenersetzen.md](docs/2026/changestandardsgui_h_stammdatenersetzen.md)
+        - **Определить структуру проекта (изменение стандарта)** — [docs/2026/changestandardsgui_h_projektstrukturanpassen.md](docs/2026/changestandardsgui_h_projektstrukturanpassen.md)
+        - **Определить нумерацию устройств (Изменение стандарта)** — [docs/2026/changestandardsgui_h_nummerieren.md](docs/2026/changestandardsgui_h_nummerieren.md)
+      - **Ссылка**
+        - **Вкладка Проект (Изменение стандарта)** — [docs/2026/changestandardsgui_r_projekt.md](docs/2026/changestandardsgui_r_projekt.md)
+          - Вызов диалогового окна:
+        - **Вкладка Поворот / инверсия (Изменение стандарта)** — [docs/2026/changestandardsgui_r_drehenspiegeln.md](docs/2026/changestandardsgui_r_drehenspiegeln.md)
+          - Вызов диалогового окна:
+        - **Вкладка Основные данные (Изменение стандарта)** — [docs/2026/changestandardsgui_r_projektstammdaten.md](docs/2026/changestandardsgui_r_projektstammdaten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Символы (Изменение стандарта)** — [docs/2026/changestandardsgui_r_symbole.md](docs/2026/changestandardsgui_r_symbole.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Присвоение символов (Изменение стандарта)** — [docs/2026/changestandardsgui_d_symboletauschen.md](docs/2026/changestandardsgui_d_symboletauschen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать исходную / целевую библиотеку символов (Изменение стандарта)** — [docs/2026/changestandardsgui_d_quellzielbibliothekwaehlen.md](docs/2026/changestandardsgui_d_quellzielbibliothekwaehlen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Структура (Изменение стандарта)** — [docs/2026/changestandardsgui_r_struktur.md](docs/2026/changestandardsgui_r_struktur.md)
+          - Вызов диалогового окна:
+        - **Вкладка Нумерация (Изменение стандарта)** — [docs/2026/changestandardsgui_r_nummerierung.md](docs/2026/changestandardsgui_r_nummerierung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Основные данные проекта (Изменение стандарта)** — [docs/2026/changestandardsgui_d_projektstammdaten.md](docs/2026/changestandardsgui_d_projektstammdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Символьная схема (Изменение стандарта)** — [docs/2026/changestandardsgui_d_symbolschema.md](docs/2026/changestandardsgui_d_symbolschema.md)
+          - Вызов диалогового окна:
+  - **Автоматизировать операции проекта**
+    - **Автоматизированная обработка проектов**
+      - **Основы**
+        - **Автоматизированная обработка проектов** — [docs/2026/autoprocgui_k_start.md](docs/2026/autoprocgui_k_start.md)
+        - **Автоматизированные операции** — [docs/2026/autoprocgui_k_automprojektaktionen.md](docs/2026/autoprocgui_k_automprojektaktionen.md)
+      - **Процесс работы**
+        - **Создать схемы для автоматизированной обработки** — [docs/2026/autoprocgui_h_startactions.md](docs/2026/autoprocgui_h_startactions.md)
+        - **Обработать проект автоматически** — [docs/2026/autoprocgui_h_protokolldatei.md](docs/2026/autoprocgui_h_protokolldatei.md)
+        - **Обработать несколько проектов автоматически** — [docs/2026/autoprocgui_h_ausfuehren.md](docs/2026/autoprocgui_h_ausfuehren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Автоматизированная обработка** — [docs/2026/autoprocgui_d_einstellungen.md](docs/2026/autoprocgui_d_einstellungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выполнить: Автоматизированная обработка** — [docs/2026/autoprocgui_d_ausfuehren.md](docs/2026/autoprocgui_d_ausfuehren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Резервировать данные** — [docs/2026/autoprocgui_d_datensichern.md](docs/2026/autoprocgui_d_datensichern.md)
+          - Вызов диалогового окна:
+    - **Параметры командной строки Eplan**
+      - **Основы**
+        - **Параметры командной строки Eplan** — [docs/2026/commandlinecall_k_start.md](docs/2026/commandlinecall_k_start.md)
+        - **Обзор общих параметров командной строки Eplan** — [docs/2026/commandlinecall_k_allgemeineparameter.md](docs/2026/commandlinecall_k_allgemeineparameter.md)
+    - **Сценарии**
+      - **Основы**
+        - **Сценарии** — [docs/2026/scripts_k_start.md](docs/2026/scripts_k_start.md)
+        - **Создание простого сценария** — [docs/2026/scripts_k_scriptaufbau.md](docs/2026/scripts_k_scriptaufbau.md)
+        - **Простые сценарии с параметрами** — [docs/2026/scripts_k_scriptemitparameter.md](docs/2026/scripts_k_scriptemitparameter.md)
+        - **Простые сценарии с операциями Eplan** — [docs/2026/scripts_k_scriptemiteplanaktion.md](docs/2026/scripts_k_scriptemiteplanaktion.md)
+        - **Простые сценарии для настроек** — [docs/2026/scripts_k_scriptefuereinstellungen.md](docs/2026/scripts_k_scriptefuereinstellungen.md)
+        - **Атрибуты сценария** — [docs/2026/scripts_k_attribute.md](docs/2026/scripts_k_attribute.md)
+        - **Сценарии с новыми операциями** — [docs/2026/scripts_k_scriptemitneueraktion.md](docs/2026/scripts_k_scriptemitneueraktion.md)
+      - **Процесс работы**
+        - **Выполнить или загрузить сценарии** — [docs/2026/scripts_h_scripteausfuehren.md](docs/2026/scripts_h_scripteausfuehren.md)
+  - **Eplan Pro Panel**
+    - **Трехмерный чертеж монтажных поверхностей**
+      - **Основные положения**
+        - **Трехмерный чертеж монтажных поверхностей с Eplan Pro Panel** — [docs/2026/cabinetgui_k_start.md](docs/2026/cabinetgui_k_start.md)
+        - **Трехмерный чертеж монтажных поверхностей: принцип** — [docs/2026/cabinetgui_k_prinzip.md](docs/2026/cabinetgui_k_prinzip.md)
+        - **3D-макротехника: принцип** — [docs/2026/cabinetgui_k_3dmakros.md](docs/2026/cabinetgui_k_3dmakros.md)
+        - **Логика устройства: Принцип** — [docs/2026/cabinetgui_k_betriebsmittellogik.md](docs/2026/cabinetgui_k_betriebsmittellogik.md)
+        - **Исходные точки: Принцип** — [docs/2026/cabinetgui_k_bezugspunkte.md](docs/2026/cabinetgui_k_bezugspunkte.md)
+        - **Автоматическая интерпретация: Принцип** — [docs/2026/cabinetgui_k_schrankinterpretation.md](docs/2026/cabinetgui_k_schrankinterpretation.md)
+        - **Таблицы для сборочного чертежа: Принцип** — [docs/2026/cabinetgui_k_auswertungmontageliste.md](docs/2026/cabinetgui_k_auswertungmontageliste.md)
+        - **Системы сборных шин** — [docs/2026/cabinetgui_k_sammelschienensystem.md](docs/2026/cabinetgui_k_sammelschienensystem.md)
+        - **Экспорт и импорт трехмерных графических данных** — [docs/2026/cabinetgui_k_exportimport3Dgrafikdaten.md](docs/2026/cabinetgui_k_exportimport3Dgrafikdaten.md)
+        - **Виды пространства листа** — [docs/2026/cabinetgui_k_bauraumansichten.md](docs/2026/cabinetgui_k_bauraumansichten.md)
+        - **Навигационный куб** — [docs/2026/cabinetgui_k_navigationswuerfel.md](docs/2026/cabinetgui_k_navigationswuerfel.md)
+      - **Процесс работы**
+        - **Работа с пространствами листов**
+          - **Изменить 3-мерный вид пространства листа** — [docs/2026/cabinetgui_h_bauraumansichten.md](docs/2026/cabinetgui_h_bauraumansichten.md)
+            - Переместить трехмерную модель в пространстве листа
+            - Изменение масштабируемого фрагмента
+            - Изменение точки наблюдения
+            - Повернуть угол зрения
+            - Упрощенное представление
+            - Изменение цвета фона для трехмерного вида
+            - Отобразить или скрыть отверстия
+          - **Настройка навигационного куба** — [docs/2026/cabinetgui_h_navigationswuerfeleinstellen.md](docs/2026/cabinetgui_h_navigationswuerfeleinstellen.md)
+          - **Управление видами пространства листа** — [docs/2026/cabinetgui_h_bauraumansichtenverwalten.md](docs/2026/cabinetgui_h_bauraumansichtenverwalten.md)
+            - Сохранение вида пространства листа
+            - Вызов и повторное использование вида пространства листа
+            - Переименование вида пространства листа
+            - Удаление вида пространства листа
+            - Перезапись вида пространства листа
+          - **Экспортировать трехмерные графические данные** — [docs/2026/cabinetgui_h_exportierenstep.md](docs/2026/cabinetgui_h_exportierenstep.md)
+          - **Импортировать графические 3D-данные** — [docs/2026/cabinetgui_h_3dgrafikimportieren.md](docs/2026/cabinetgui_h_3dgrafikimportieren.md)
+          - **Адаптировать структуру пространства листа** — [docs/2026/cabinetgui_h_bauraumstrukturanpassen.md](docs/2026/cabinetgui_h_bauraumstrukturanpassen.md)
+        - **Размещение компонентов**
+          - **Активировать монтажные поверхности** — [docs/2026/cabinetgui_h_aktivierenautomatisch.md](docs/2026/cabinetgui_h_aktivierenautomatisch.md)
+            - Автоматическая активация
+            - Прямая активация
+            - Отмена прямой активации
+          - **Разместить электрошкафы** — [docs/2026/cabinetgui_h_schaltschrankplatzieren.md](docs/2026/cabinetgui_h_schaltschrankplatzieren.md)
+          - **Разместить монтажные платы** — [docs/2026/cabinetgui_h_montageplattenplatzieren.md](docs/2026/cabinetgui_h_montageplattenplatzieren.md)
+          - **Разместить функциональные элементы с переменной длиной** — [docs/2026/cabinetgui_h_varbtplatzieren.md](docs/2026/cabinetgui_h_varbtplatzieren.md)
+            - Разместить функциональный элемент с переменной длиной
+            - Разместить функциональный элемент с копированием длины
+            - Разместить функциональный элемент по центру с копированием длины
+          - **Вставить монтажные отверстия** — [docs/2026/cabinetgui_h_durchbrucheinfuegen.md](docs/2026/cabinetgui_h_durchbrucheinfuegen.md)
+          - **Нанести на чертеж и изменить запретные зоны для размещения** — [docs/2026/cabinetgui_h_sperrflaechenzeichnen.md](docs/2026/cabinetgui_h_sperrflaechenzeichnen.md)
+          - **Начертить и изменить заблокированные для монтажных отверстий области** — [docs/2026/cabinetgui_h_bohrsperrflaechenzeichnen.md](docs/2026/cabinetgui_h_bohrsperrflaechenzeichnen.md)
+          - **Разместить устройства** — [docs/2026/cabinetgui_h_geraetplatzieren.md](docs/2026/cabinetgui_h_geraetplatzieren.md)
+        - **Выполнить графическую обработку компонентов**
+          - **Дублировать объекты в пространстве листа** — [docs/2026/cabinetgui_h_objekteduplizieren.md](docs/2026/cabinetgui_h_objekteduplizieren.md)
+          - **Повернуть объекты вокруг оси** — [docs/2026/cabinetgui_h_drehenxyz.md](docs/2026/cabinetgui_h_drehenxyz.md)
+          - **Изменение длины объектов в пространстве листа** — [docs/2026/cabinetgui_h_laengeaendern.md](docs/2026/cabinetgui_h_laengeaendern.md)
+            - Изменение длины щелчком клавиши мыши
+            - Изменение длины захватом точки проекции
+            - Изменение длины вводом значения в области ввода данных
+          - **Подогнать функциональные элементы с переменной длиной** — [docs/2026/cabinetgui_h_einpassen.md](docs/2026/cabinetgui_h_einpassen.md)
+        - **Обработка логики устройства**
+          - **Объединение объектов в пространстве листа** — [docs/2026/cabinetgui_h_vereinigen.md](docs/2026/cabinetgui_h_vereinigen.md)
+          - **Определить монтажную поверхность** — [docs/2026/cabinetgui_h_montageflaechedefinieren.md](docs/2026/cabinetgui_h_montageflaechedefinieren.md)
+            - Отдельно определить монтажные поверхности
+            - Определить монтажные поверхности при размещении изделия
+            - Генерирование специфических для типа монтажных поверхностей из определения функций
+          - **Выровнять ось X / Y монтажных поверхностей** — [docs/2026/cabinetgui_h_xyachseausrichten.md](docs/2026/cabinetgui_h_xyachseausrichten.md)
+          - **Изменить размер монтажных поверхностей** — [docs/2026/cabinetgui_h_mfgroesseaendern.md](docs/2026/cabinetgui_h_mfgroesseaendern.md)
+          - **Определить размер поля монтажных поверхностей** — [docs/2026/cabinetgui_h_feldgroesseaendern.md](docs/2026/cabinetgui_h_feldgroesseaendern.md)
+          - **Определить точку захвата** — [docs/2026/cabinetgui_h_anfasspunktdefinieren.md](docs/2026/cabinetgui_h_anfasspunktdefinieren.md)
+          - **Определить точку захвата для сгруппированных 3D-объектов** — [docs/2026/cabinetgui_h_uebergeordnetenanfasspunktdefinieren.md](docs/2026/cabinetgui_h_uebergeordnetenanfasspunktdefinieren.md)
+          - **Определение точек монтажа** — [docs/2026/cabinetgui_h_zielmatesdefinieren.md](docs/2026/cabinetgui_h_zielmatesdefinieren.md)
+          - **Определить линию монтажа** — [docs/2026/cabinetgui_h_montageliniedefinieren.md](docs/2026/cabinetgui_h_montageliniedefinieren.md)
+          - **Определить и использовать монтажную сетку** — [docs/2026/cabinetgui_h_montagerasterdefinieren.md](docs/2026/cabinetgui_h_montagerasterdefinieren.md)
+            - Использовать монтажную сетку
+          - **Определить и изменить поверхность установки** — [docs/2026/cabinetgui_h_einbauflaeche.md](docs/2026/cabinetgui_h_einbauflaeche.md)
+            - Определить поверхность установки
+            - Перевернуть поверхность установки
+            - Переместить поверхность установки
+            - Поворот поверхности установки
+          - **Определить исходную точку** — [docs/2026/cabinetgui_h_bezugspunktdefinieren.md](docs/2026/cabinetgui_h_bezugspunktdefinieren.md)
+          - **Представить и перенести логику электрошкафа** — [docs/2026/cabinetgui_h_schrankinterpretation.md](docs/2026/cabinetgui_h_schrankinterpretation.md)
+          - **Определить схему соединений в пространстве листа** — [docs/2026/cabinetgui_h_anschlussdefinieren.md](docs/2026/cabinetgui_h_anschlussdefinieren.md)
+          - **Перенос локальной схемы соединений в базу данных изделий** — [docs/2026/cabinetgui_h_anschlussbildnachartvw.md](docs/2026/cabinetgui_h_anschlussbildnachartvw.md)
+          - **Изменить направление подсоединения** — [docs/2026/cabinetgui_h_anschlussrichtungaendern.md](docs/2026/cabinetgui_h_anschlussrichtungaendern.md)
+        - **Использовать вспомогательные опции контроля и позиционирования**
+          - **Работа с сетками в пространстве листа** — [docs/2026/cabinetgui_h_raster.md](docs/2026/cabinetgui_h_raster.md)
+          - **Выравнивание элементов по горизонтали / вертикали в пространстве листа** — [docs/2026/cabinetgui_h_horverausrichten.md](docs/2026/cabinetgui_h_horverausrichten.md)
+          - **Равномерное распределение элементов в пространстве листа** — [docs/2026/cabinetgui_h_gleichmaessigverteilen.md](docs/2026/cabinetgui_h_gleichmaessigverteilen.md)
+            - Равномерно распределить общие трехмерные объекты
+            - Равномерно распределить кабельные каналы
+          - **Выстраивание 3D-размещений изделий в ряд без разрывов** — [docs/2026/cabinetgui_h_lueckenlosaufreihen.md](docs/2026/cabinetgui_h_lueckenlosaufreihen.md)
+            - Закрытие промежутков между 3D-размещениями изделий
+            - Упорядочивание 3D-размещения изделий на конце шины
+          - **Использование контроля конфликтов** — [docs/2026/cabinetgui_h_kollisionskontrolle.md](docs/2026/cabinetgui_h_kollisionskontrolle.md)
+          - **Отобразить интервалы установки** — [docs/2026/cabinetgui_h_einbauabstaende.md](docs/2026/cabinetgui_h_einbauabstaende.md)
+          - **Отображение инструмента для монтажных работ** — [docs/2026/cabinetgui_h_montagehilfenanzeigen.md](docs/2026/cabinetgui_h_montagehilfenanzeigen.md)
+          - **Чертить вспомогательные линии** — [docs/2026/cabinetgui_h_hilfslinienzeichnen.md](docs/2026/cabinetgui_h_hilfslinienzeichnen.md)
+          - **Использовать предварительный просмотр соединений** — [docs/2026/cabinetgui_h_verbindungsvorschau.md](docs/2026/cabinetgui_h_verbindungsvorschau.md)
+          - **Измерение в пространстве листа** — [docs/2026/cabinetgui_h_messen.md](docs/2026/cabinetgui_h_messen.md)
+          - **Обновить главные элементы** — [docs/2026/cabinetgui_h_hauptbauteileaktualisieren.md](docs/2026/cabinetgui_h_hauptbauteileaktualisieren.md)
+          - **Обновить размещение изделия** — [docs/2026/cabinetgui_h_artikelabmessungenaktualisieren.md](docs/2026/cabinetgui_h_artikelabmessungenaktualisieren.md)
+          - **Заменить изделия (электрошкаф)** — [docs/2026/cabinetgui_h_artikeltauschen.md](docs/2026/cabinetgui_h_artikeltauschen.md)
+          - **Заменить монтажную поверхность** — [docs/2026/cabinetgui_h_montageflaechetauschen.md](docs/2026/cabinetgui_h_montageflaechetauschen.md)
+            - Заменить монтажную поверхность между двумя поверхностями
+            - Заменить монтажную поверхность с предварительным просмотром
+          - **Обработать позицию легенды** — [docs/2026/cabinetgui_h_legendenpositionbearbeiten.md](docs/2026/cabinetgui_h_legendenpositionbearbeiten.md)
+        - **Работа с 3D-макросами**
+          - **Создание 3D-макросов** — [docs/2026/cabinetgui_h_3dmakroerstellen.md](docs/2026/cabinetgui_h_3dmakroerstellen.md)
+            - Создание 3D-макросов путем сохранения выбранных объектов
+            - Создать 3D-макрос на основе импортированной 3D-графики
+            - Создание 3D-макросов на основе файлов 3D
+            - Генерирование 3D-макросов из проекта макросов
+          - **Разместить 3D-макросы** — [docs/2026/cabinetgui_h_3dmakroplatzieren.md](docs/2026/cabinetgui_h_3dmakroplatzieren.md)
+          - **Изменить угол поворота при вставке 3D-макросов** — [docs/2026/cabinetgui_h_3dmakrodrehwinkelaendern.md](docs/2026/cabinetgui_h_3dmakrodrehwinkelaendern.md)
+      - **Ссылка**
+        - **Диалоговое окно Пространство листа — <Имя проекта>** — [docs/2026/cabinetgui_d_navigator.md](docs/2026/cabinetgui_d_navigator.md)
+          - Вызов диалогового окна навигатора пространства листа:
+          - Вызов диалогового окна для других диалоговых окон с 3D-объектами:
+        - **Диалоговое окно Трехмерный навигатор монтажных поверхностей — <Имя проекта>** — [docs/2026/cabinetgui_d_navigator3dschaltschrankaufbau.md](docs/2026/cabinetgui_d_navigator3dschaltschrankaufbau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства (усл. обозначение): Пространство листа** — [docs/2026/cabinetgui_d_bauraumeigenschaften.md](docs/2026/cabinetgui_d_bauraumeigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Адаптировать структуру** — [docs/2026/cabinetgui_d_strukturanpassen.md](docs/2026/cabinetgui_d_strukturanpassen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Опции размещения** — [docs/2026/cabinetgui_d_platzieroptionen.md](docs/2026/cabinetgui_d_platzieroptionen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Монтажная сетка** — [docs/2026/ged3dmateeditorgui_d_montageraster.md](docs/2026/ged3dmateeditorgui_d_montageraster.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Точка монтажа" / диалоговое окно "Линия монтажа"** — [docs/2026/ged3dmateeditorgui_d_montagepunkt_montagelinie.md](docs/2026/ged3dmateeditorgui_d_montagepunkt_montagelinie.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Точка захвата" / вкладка "Монтажная сетка"** — [docs/2026/ged3dmateeditorgui_r_anfasspunktmontageraster.md](docs/2026/ged3dmateeditorgui_r_anfasspunktmontageraster.md)
+          - Вызов диалогового окна:
+        - **Вкладка Логика (точка захвата)** — [docs/2026/ged3dmateeditorgui_r_anfasspunkt_logik.md](docs/2026/ged3dmateeditorgui_r_anfasspunkt_logik.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (монтажная сетка)** — [docs/2026/ged3dmateeditorgui_r_montageraster_format.md](docs/2026/ged3dmateeditorgui_r_montageraster_format.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Размеры** — [docs/2026/cabinetgui_d_abmessungen.md](docs/2026/cabinetgui_d_abmessungen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать шаблон интерпретации** — [docs/2026/cabinetgui_d_musterschrankwaehlen.md](docs/2026/cabinetgui_d_musterschrankwaehlen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Список соответствия** — [docs/2026/cabinetgui_d_trefferliste.md](docs/2026/cabinetgui_d_trefferliste.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размещение изделия (3D)** — [docs/2026/devicetaggui_r_artikelplatzierung3d.md](docs/2026/devicetaggui_r_artikelplatzierung3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (Размещение изделия 3D)** — [docs/2026/devicetaggui_r_format3d.md](docs/2026/devicetaggui_r_format3d.md)
+          - Вызов диалогового окна:
+        - **Вкладка Схема соединений (Размещение изделия 3D)** — [docs/2026/devicetaggui_r_anschlussbild.md](docs/2026/devicetaggui_r_anschlussbild.md)
+          - Вызов диалогового окна:
+        - **Вкладка Формат (Устройство)** — [docs/2026/devicetaggui_r_format.md](docs/2026/devicetaggui_r_format.md)
+          - Вызов диалогового окна:
+        - **Вкладка Размеры (монтажная плата)** — [docs/2026/devicetaggui_r_abmessung3d.md](docs/2026/devicetaggui_r_abmessung3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты измерений** — [docs/2026/gedviewer_d_messergebnis.md](docs/2026/gedviewer_d_messergebnis.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сохранить как (3D-макрос)** — [docs/2026/macrosgui_d_speichernunter3d.md](docs/2026/macrosgui_d_speichernunter3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Виды пространства листа"** — [docs/2026/insertergui_d_bauraumansichten.md](docs/2026/insertergui_d_bauraumansichten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 3D-навигационный куб** — [docs/2026/gedviewer_d_einstellungennavigationswuerfel3d.md](docs/2026/gedviewer_d_einstellungennavigationswuerfel3d.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Экспорт STEP" / диалоговое окно "Экспорт VRML" / диалоговое окно "Экспорт IFC" / диалоговое окно "Экспорт JT"** — [docs/2026/gededit3dgui_d_stepexport.md](docs/2026/gededit3dgui_d_stepexport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Настройки: Экспорт STEP" / диалоговое окно "Настройки: Экспорт VRML" / диалоговое окно "Настройки: Экспорт IFC" / диалоговое окно "Настройки: Экспорт JT"** — [docs/2026/gededit3dgui_d_einstellungenstepexport.md](docs/2026/gededit3dgui_d_einstellungenstepexport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 3D-импорт** — [docs/2026/xstepgui_d_einstellungen3dimport.md](docs/2026/xstepgui_d_einstellungen3dimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Монтажное отверстие <Тип>** — [docs/2026/cabinetgui_d_durchbrueche.md](docs/2026/cabinetgui_d_durchbrueche.md)
+          - Вызов диалогового окна:
+    - **Обзоры модели**
+      - **Основы**
+        - **Обзоры модели** — [docs/2026/gededit3dgui_k_start.md](docs/2026/gededit3dgui_k_start.md)
+        - **Автоматическая генерация обзоров** — [docs/2026/gededit3dgui_k_autoansichterstellen.md](docs/2026/gededit3dgui_k_autoansichterstellen.md)
+        - **Легенды электрошкафа обзоров модели** — [docs/2026/gededit3dgui_k_legende.md](docs/2026/gededit3dgui_k_legende.md)
+        - **Автоматическое проставление размеров в обзорах модели, двухмерных отображениях отверстий и развертках шины** — [docs/2026/gededit3dgui_k_autobemassung.md](docs/2026/gededit3dgui_k_autobemassung.md)
+      - **Процесс работы**
+        - **Вставить обзоры модели** — [docs/2026/gededit3dgui_h_bearbeiten.md](docs/2026/gededit3dgui_h_bearbeiten.md)
+        - **Изменение обзоров модели** — [docs/2026/gededit3dgui_h_veraendern.md](docs/2026/gededit3dgui_h_veraendern.md)
+          - Обновление обзора модели
+          - Центрировать содержимое
+          - Переместить содержимое
+        - **Автоматически генерировать страницы с обзорами** — [docs/2026/gededit3dgui_h_autoansichterstellen.md](docs/2026/gededit3dgui_h_autoansichterstellen.md)
+        - **Переместить тексты свойств в обзоры модели** — [docs/2026/gededit3dgui_h_eigenschaftstexteverschieben.md](docs/2026/gededit3dgui_h_eigenschaftstexteverschieben.md)
+      - **Ссылка**
+        - **Вкладка Вид (обзор модели)** — [docs/2026/gededit3dgui_r_modell.md](docs/2026/gededit3dgui_r_modell.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Выбор функциональных элементов** — [docs/2026/gededit3dgui_d_einstellbauteilauswahl.md](docs/2026/gededit3dgui_d_einstellbauteilauswahl.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (обзор модели)** — [docs/2026/gededit3dgui_r_anzeige.md](docs/2026/gededit3dgui_r_anzeige.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбор 3D-объекта** — [docs/2026/gededit3dgui_d_3dobjektauswahl.md](docs/2026/gededit3dgui_d_3dobjektauswahl.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Отобразить / скрыть 3D-объекты** — [docs/2026/gededit3dgui_d_3dobjekteeinausblenden.md](docs/2026/gededit3dgui_d_3dobjekteeinausblenden.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Маркировка** — [docs/2026/gededit3dgui_d_einstellbeschriftung.md](docs/2026/gededit3dgui_d_einstellbeschriftung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Обзоры модели — <Имя проекта>" / диалоговое окно "Развертки шины — <Имя проекта>" / диалоговое окно "Отображения отверстий — <Имя проекта>"** — [docs/2026/gededit3dgui_d_modellansichten.md](docs/2026/gededit3dgui_d_modellansichten.md)
+          - Вызов диалогового окна (обзоров модели):
+          - Вызов диалогового окна (развертки шины):
+          - Вызов диалогового окна (2D-отображения отверстий):
+        - **Вкладка Шаблоны (диалоговое окно Обзоры модели, Развертки шины, Отображения отверстий)** — [docs/2026/gededit3dgui_r_vorlagen.md](docs/2026/gededit3dgui_r_vorlagen.md)
+          - Вызов диалогового окна (обзоров модели):
+          - Вызов диалогового окна (развертки шины):
+          - Вызов диалогового окна (2D-отображения отверстий):
+        - **Диалоговое окно Пронумеровать обзоры** — [docs/2026/gededit3dgui_d_ansichtennummerieren.md](docs/2026/gededit3dgui_d_ansichtennummerieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Автоматическое проставление размеров** — [docs/2026/gededit3dgui_d_einstellautobemassung.md](docs/2026/gededit3dgui_d_einstellautobemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Проставление размеров (автоматическое проставление размеров)** — [docs/2026/gededit3dgui_r_bemassung.md](docs/2026/gededit3dgui_r_bemassung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Функциональные элементы (автоматическое проставление размеров)** — [docs/2026/gededit3dgui_r_bauteile.md](docs/2026/gededit3dgui_r_bauteile.md)
+          - Вызов диалогового окна:
+    - **Экспорт данных изготовления AutomationML**
+      - **Основы**
+        - **Интерфейс к Rittal - RiPanel Processing Center** — [docs/2026/amlgui_k_rittalexportestart.md](docs/2026/amlgui_k_rittalexportestart.md)
+      - **Процесс работы**
+        - **Экспорт данных изготовления для механической обработки электрошкафов в Rittal - RiPanel Processing Center** — [docs/2026/amlgui_h_rittalripanelprocessingcenterexportieren.md](docs/2026/amlgui_h_rittalripanelprocessingcenterexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Настройки экспорта: Rittal - RiPanel Processing Center"** — [docs/2026/amlgui_d_einstellungen_schnittstellen.md](docs/2026/amlgui_d_einstellungen_schnittstellen.md)
+          - Вызов диалогового окна:
+    - **Данные изготовления для Eplan Smart Production**
+      - **Основы**
+        - **Данные изготовления для Eplan Smart Production** — [docs/2026/edaexportgui_k_start.md](docs/2026/edaexportgui_k_start.md)
+      - **Процесс работы**
+        - **Экспорт данных изготовления для Eplan Smart Production** — [docs/2026/edaexportgui_h_smartproductioncollectiondatenexportieren.md](docs/2026/edaexportgui_h_smartproductioncollectiondatenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Экспорт Eplan Smart Production** — [docs/2026/edaexportgui_d_smartproductioncollection.md](docs/2026/edaexportgui_d_smartproductioncollection.md)
+          - Вызов диалогового окна:
+    - **Экспортировать данные изготовления для механической обработки**
+      - **Основы**
+        - **Генерировать данные изготовления для механической обработки** — [docs/2026/ncgui_k_start.md](docs/2026/ncgui_k_start.md)
+        - **Экспорт ЧУ: принцип** — [docs/2026/ncgui_k_prinzip.md](docs/2026/ncgui_k_prinzip.md)
+        - **Запись данных ЧУ: принцип** — [docs/2026/ncgui_k_ncdatensatz.md](docs/2026/ncgui_k_ncdatensatz.md)
+        - **Исключения при сверлении: принцип** — [docs/2026/ncgui_k_Bohrausnahmen.md](docs/2026/ncgui_k_Bohrausnahmen.md)
+        - **2D-отображение отверстий: принцип** — [docs/2026/ncgui_k_2dbohransicht.md](docs/2026/ncgui_k_2dbohransicht.md)
+      - **Процесс работы**
+        - **Конфигурировать машину ЧУ** — [docs/2026/ncgui_h_ncmaschinekonfigurieren.md](docs/2026/ncgui_h_ncmaschinekonfigurieren.md)
+        - **Экспортировать данные ЧУ** — [docs/2026/ncgui_h_ncdatenexportieren.md](docs/2026/ncgui_h_ncdatenexportieren.md)
+        - **Вставить двухмерное отображение отверстий** — [docs/2026/ncgui_h_2dbohransichterstellen.md](docs/2026/ncgui_h_2dbohransichterstellen.md)
+        - **Генерировать легенду монтажного отверстия для 2D-отображения отверстий** — [docs/2026/ncgui_h_durchbruchlegendeanlegen.md](docs/2026/ncgui_h_durchbruchlegendeanlegen.md)
+      - **Ссылка**
+        - **Экспорт шаблона сверления**
+          - **Диалоговое окно Экспорт шаблона сверления** — [docs/2026/ncgui_d_exportbohrschablone.md](docs/2026/ncgui_d_exportbohrschablone.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт шаблона сверления** — [docs/2026/ncgui_d_einstellungenncbohrschablone.md](docs/2026/ncgui_d_einstellungenncbohrschablone.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общее (Экспорт шаблона сверления)** — [docs/2026/ncgui_r_allgemeinbohrschablone.md](docs/2026/ncgui_r_allgemeinbohrschablone.md)
+            - Вызов диалогового окна:
+          - **Вкладка Маркировка (Экспорт шаблона сверления)** — [docs/2026/ncgui_r_beschriftungbohrschablone.md](docs/2026/ncgui_r_beschriftungbohrschablone.md)
+            - Вызов диалогового окна:
+        - **Экспорт Rittal Perforex BC / Secarex**
+          - **Диалоговое окно Экспорт Rittal - Perforex BC / Secarex** — [docs/2026/ncgui_d_exportkiesling.md](docs/2026/ncgui_d_exportkiesling.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт Rittal - Perforex BC / Secarex** — [docs/2026/ncgui_d_einstellungenncexportkiesling.md](docs/2026/ncgui_d_einstellungenncexportkiesling.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общ. (экспорт Rittal - Perforex BC / Secarex)** — [docs/2026/ncgui_r_allgemeinexportkiesling.md](docs/2026/ncgui_r_allgemeinexportkiesling.md)
+            - Вызов диалогового окна:
+          - **Вкладка Инструменты (экспорт Rittal - Perforex ВC / Secarex)** — [docs/2026/ncgui_r_werkzeuge.md](docs/2026/ncgui_r_werkzeuge.md)
+            - Экспорт Rittal - Perforex BC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт Rittal - Perforex LC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт ЧУ Steinhauer
+            - Вызов диалогового окна:
+          - **Вкладка Выбор инструмента (экспорт Rittal - Perforex ВC / Secarex)** — [docs/2026/ncgui_r_werkzeugauswahl.md](docs/2026/ncgui_r_werkzeugauswahl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Технологические перемычки (экспорт Rittal - Perforex BC / Secarex)** — [docs/2026/ncgui_r_stegparameter.md](docs/2026/ncgui_r_stegparameter.md)
+            - Вызов диалогового окна:
+          - **Вкладка "Обозначение поля (экспорт Rittal - Perforex BC / Perforex LC / Secarex)"** — [docs/2026/ncgui_r_feldbezeichner.md](docs/2026/ncgui_r_feldbezeichner.md)
+            - Вызов диалогового окна:
+        - **Экспорт Rittal Perforex LC / Secarex**
+          - **Диалоговое окно Экспорт Rittal - Perforex LC / Secarex** — [docs/2026/ncgui_d_exportkieslinglc.md](docs/2026/ncgui_d_exportkieslinglc.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт Rittal - Perforex LC / Secarex** — [docs/2026/ncgui_d_einstellungenncexportkieslinglc.md](docs/2026/ncgui_d_einstellungenncexportkieslinglc.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общ. (экспорт Rittal - Perforex LC / Secarex)** — [docs/2026/ncgui_r_allgemeinexportkieslinglc.md](docs/2026/ncgui_r_allgemeinexportkieslinglc.md)
+            - Вызов диалогового окна:
+          - **Вкладка Инструменты (экспорт Rittal - Perforex LC / Secarex)** — [docs/2026/ncgui_r_werkzeuge.md](docs/2026/ncgui_r_werkzeuge.md)
+            - Экспорт Rittal - Perforex BC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт Rittal - Perforex LC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт ЧУ Steinhauer
+            - Вызов диалогового окна:
+          - **Вкладка Выбор инструмента (экспорт Rittal - Perforex LC / Secarex)** — [docs/2026/ncgui_r_werkzeugauswahl.md](docs/2026/ncgui_r_werkzeugauswahl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Технологические перемычки (экспорт Rittal - Perforex LC / Secarex)** — [docs/2026/ncgui_r_stegparameterlc.md](docs/2026/ncgui_r_stegparameterlc.md)
+            - Вызов диалогового окна:
+        - **Экспорт ЧУ Steinhauer**
+          - **Диалоговое окно Экспорт ЧУ Steinhauer** — [docs/2026/ncgui_d_exportsteinhauer.md](docs/2026/ncgui_d_exportsteinhauer.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт ЧУ Steinhauer** — [docs/2026/ncgui_d_einstellungenncexportsteinhauer.md](docs/2026/ncgui_d_einstellungenncexportsteinhauer.md)
+            - Вызов диалогового окна:
+          - **Вкладка Общее (экспорт ЧУ Steinhauer)** — [docs/2026/ncgui_r_allgemeinexportsteinhauer.md](docs/2026/ncgui_r_allgemeinexportsteinhauer.md)
+            - Вызов диалогового окна:
+          - **Вкладка Инструменты (экспорт ЧУ Steinhauer)** — [docs/2026/ncgui_r_werkzeuge.md](docs/2026/ncgui_r_werkzeuge.md)
+            - Экспорт Rittal - Perforex BC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт Rittal - Perforex LC / Secarex
+            - Вызов диалогового окна:
+            - Экспорт ЧУ Steinhauer
+            - Вызов диалогового окна:
+          - **Вкладка Выбор инструмента (экспорт ЧУ Steinhauer)** — [docs/2026/ncgui_r_werkzeugauswahl.md](docs/2026/ncgui_r_werkzeugauswahl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Технологические перемычки (экспорт ЧУ Steinhauer)** — [docs/2026/ncgui_r_stegparameter_steinhauer.md](docs/2026/ncgui_r_stegparameter_steinhauer.md)
+            - Вызов диалогового окна:
+        - **Экспорт ЧУ DXF**
+          - **Диалоговое окно Экспорт ЧУ DXF** — [docs/2026/ncgui_d_exportperdxf.md](docs/2026/ncgui_d_exportperdxf.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт ЧУ — DXF** — [docs/2026/ncgui_d_einstellungenncexportperdxf.md](docs/2026/ncgui_d_einstellungenncexportperdxf.md)
+            - Вызов диалогового окна:
+          - **Вкладка DXF общ. (Настройки: Экспорт ЧУ — DXF)** — [docs/2026/ncgui_r_dxfallgemein.md](docs/2026/ncgui_r_dxfallgemein.md)
+            - Вызов диалогового окна:
+          - **Вкладка Функциональные элементы (Настройки: Экспорт ЧУ — DXF)** — [docs/2026/ncgui_r_dxfbauteile.md](docs/2026/ncgui_r_dxfbauteile.md)
+            - Вызов диалогового окна:
+          - **Вкладка Отверстия (Настройки: Экспорт ЧУ — DXF)** — [docs/2026/ncgui_r_dxfbohrungen.md](docs/2026/ncgui_r_dxfbohrungen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Резьба (Настройки: Экспорт ЧУ — DXF)** — [docs/2026/ncgui_r_dxfgewinde.md](docs/2026/ncgui_r_dxfgewinde.md)
+            - Вызов диалогового окна:
+          - **Вкладка Контуры (Настройки: Экспорт ЧУ — DXF)** — [docs/2026/ncgui_r_dxfkonturen.md](docs/2026/ncgui_r_dxfkonturen.md)
+            - Вызов диалогового окна:
+        - **Вкладка Исключения при сверлении (Экспорт ЧУ для всех машин)** — [docs/2026/ncgui_r_bohrausnahmen.md](docs/2026/ncgui_r_bohrausnahmen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Исходная точка** — [docs/2026/cabinetgui_d_einstellungennullschnitt.md](docs/2026/cabinetgui_d_einstellungennullschnitt.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Отображения отверстий — <Имя проекта>** — [docs/2026/gededit3dgui_d_2dbohransichten.md](docs/2026/gededit3dgui_d_2dbohransichten.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вид (Отобразить отверстия)** — [docs/2026/gededit3dgui_r_ansicht2dbohransicht.md](docs/2026/gededit3dgui_r_ansicht2dbohransicht.md)
+          - Вызов диалогового окна:
+    - **Маршрутизируемые соединения (пространство листа)**
+      - **Основы**
+        - **Маршрутизируемые соединения (пространство листа)** — [docs/2026/routinggui_k_start.md](docs/2026/routinggui_k_start.md)
+        - **Маршрутизируемые соединения: Принцип** — [docs/2026/routinggui_k_prinzip.md](docs/2026/routinggui_k_prinzip.md)
+        - **Управление маршрутизируемыми соединениями** — [docs/2026/routinggui_k_verdrahtungsmanager.md](docs/2026/routinggui_k_verdrahtungsmanager.md)
+        - **Маршрутизируемые соединения: расстояния между сегментами маршрутизации и функциональными элементами** — [docs/2026/routinggui_k_abstaende.md](docs/2026/routinggui_k_abstaende.md)
+        - **Принадлежности для маршрутизации: Принцип** — [docs/2026/routinggui_k_verlegezubehoer.md](docs/2026/routinggui_k_verlegezubehoer.md)
+        - **Соединения фазовых шин: Принцип** — [docs/2026/routinggui_k_phasenschienenverbdg.md](docs/2026/routinggui_k_phasenschienenverbdg.md)
+        - **Маршрутизируемые соединения в системе направляющих для проводов** — [docs/2026/routinggui_k_verdrahtungssystem.md](docs/2026/routinggui_k_verdrahtungssystem.md)
+      - **Процесс работы**
+        - **Показать выводы устройства графически** — [docs/2026/routinggui_h_anschlussansicht.md](docs/2026/routinggui_h_anschlussansicht.md)
+        - **Вставить сегменты маршрутизации** — [docs/2026/routinggui_h_streckeeinfuegen.md](docs/2026/routinggui_h_streckeeinfuegen.md)
+        - **Вставить кривые** — [docs/2026/routinggui_h_kurveeinfuegen.md](docs/2026/routinggui_h_kurveeinfuegen.md)
+        - **Вставка новой опорной точки на кривой** — [docs/2026/routinggui_h_kurveneuerstuetzpunkt.md](docs/2026/routinggui_h_kurveneuerstuetzpunkt.md)
+        - **Изменить направление кривой** — [docs/2026/routinggui_h_kurvenverlaufaendern.md](docs/2026/routinggui_h_kurvenverlaufaendern.md)
+        - **Выровнять направление кривой по касательной** — [docs/2026/routinggui_h_kurvenverlauftangential.md](docs/2026/routinggui_h_kurvenverlauftangential.md)
+        - **Вставить и изменить области маршрутизации** — [docs/2026/routinggui_h_verlegebereicheinfuegen.md](docs/2026/routinggui_h_verlegebereicheinfuegen.md)
+          - Вставить области маршрутизации
+          - Изменить размер областей маршрутизации
+        - **Вставить и изменить соединительные отверстия для проводов** — [docs/2026/routinggui_h_verdrahtungsdurchbrucheinfuegen.md](docs/2026/routinggui_h_verdrahtungsdurchbrucheinfuegen.md)
+        - **Использовать фильтр соединений** — [docs/2026/routinggui_h_verbindungsfilter.md](docs/2026/routinggui_h_verbindungsfilter.md)
+        - **Генерировать сеть соединенных сегментов** — [docs/2026/routinggui_h_streckennetzerzeugen.md](docs/2026/routinggui_h_streckennetzerzeugen.md)
+        - **Удалить автоматические сегменты маршрутизации** — [docs/2026/routinggui_h_autostreckenloeschen.md](docs/2026/routinggui_h_autostreckenloeschen.md)
+        - **Автоматически оптимизировать сети** — [docs/2026/routinggui_h_netzautooptimieren.md](docs/2026/routinggui_h_netzautooptimieren.md)
+        - **Оптимизировать сеть вручную** — [docs/2026/routinggui_h_netzmanuelloptimieren.md](docs/2026/routinggui_h_netzmanuelloptimieren.md)
+        - **Показать маршрут** — [docs/2026/routinggui_h_streckenansicht.md](docs/2026/routinggui_h_streckenansicht.md)
+        - **Выделить сети соединенных сегментов** — [docs/2026/routinggui_h_streckennetzverfolgung.md](docs/2026/routinggui_h_streckennetzverfolgung.md)
+        - **Маршрутизировать соединения** — [docs/2026/routinggui_h_verlegen.md](docs/2026/routinggui_h_verlegen.md)
+        - **Свободная маршрутизация соединений** — [docs/2026/routinggui_h_freiverlegen.md](docs/2026/routinggui_h_freiverlegen.md)
+        - **Вставить маршрутизируемое соединение** — [docs/2026/routinggui_h_verlegeverbindungeinfuegen.md](docs/2026/routinggui_h_verlegeverbindungeinfuegen.md)
+        - **Определить вход в сеть соединенных сегментов** — [docs/2026/routinggui_h_eintrittinsstreckennetz.md](docs/2026/routinggui_h_eintrittinsstreckennetz.md)
+        - **Изменить маршрутизацию** — [docs/2026/routinggui_h_verlegewegaendern.md](docs/2026/routinggui_h_verlegewegaendern.md)
+        - **Отображать степень заполнения** — [docs/2026/routinggui_h_fuellgradanzeigen.md](docs/2026/routinggui_h_fuellgradanzeigen.md)
+        - **Объединить соединения** — [docs/2026/routinggui_h_autobuendeln.md](docs/2026/routinggui_h_autobuendeln.md)
+        - **Генерировать соединения фазовых шин** — [docs/2026/routinggui_h_phasenschienenvbdgerzg.md](docs/2026/routinggui_h_phasenschienenvbdgerzg.md)
+        - **Вставить фазные шины** — [docs/2026/routinggui_h_phasenschieneneinfg.md](docs/2026/routinggui_h_phasenschieneneinfg.md)
+      - **Ссылка**
+        - **Диалоговое окно "Диспетчер разводки"** — [docs/2026/routinggui_d_verdrahtungsmanager.md](docs/2026/routinggui_d_verdrahtungsmanager.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматически оптимизировать сети** — [docs/2026/routinggui_d_netzeoptimieren.md](docs/2026/routinggui_d_netzeoptimieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Автоматически оптимизировать сети: Предв. просмотр результата** — [docs/2026/routinggui_d_netzeoptimierenvorschau.md](docs/2026/routinggui_d_netzeoptimierenvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Оптимизировать сеть вручную** — [docs/2026/routinggui_d_netzmanuelloptimieren.md](docs/2026/routinggui_d_netzmanuelloptimieren.md)
+          - Вызов диалогового окна:
+        - **Вкладка Обработка концов проводов** — [docs/2026/connectionsettingsgui_r_einstellungenverbindungsende.md](docs/2026/connectionsettingsgui_r_einstellungenverbindungsende.md)
+          - Вызов диалогового окна:
+        - **Вкладка Фильтр соединений** — [docs/2026/connectionsettingsgui_r_einstellungenverbindungsfilter.md](docs/2026/connectionsettingsgui_r_einstellungenverbindungsfilter.md)
+          - Вызов диалогового окна:
+        - **Вкладка Маршрутизация** — [docs/2026/connectionsettingsgui_r_einstellungenverlegung.md](docs/2026/connectionsettingsgui_r_einstellungenverlegung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Общая дополнительная длина** — [docs/2026/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md](docs/2026/connectionsettingsgui_r_einstellungenglobalerlaengenzuschlag.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Объединить маршрутизируемые соединения** — [docs/2026/routinggui_d_autobuendeln.md](docs/2026/routinggui_d_autobuendeln.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Объединить соединения: Предварительный просмотр результата** — [docs/2026/routinggui_d_verbindungenbuendelnvorschau.md](docs/2026/routinggui_d_verbindungenbuendelnvorschau.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Объединить**
+          - **Диалоговое окно Настройки: Объединить** — [docs/2026/routinggui_d_einstellungenbuendeln.md](docs/2026/routinggui_d_einstellungenbuendeln.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Сортировка (Объединить)** — [docs/2026/routinggui_d_sortierungbuendeln.md](docs/2026/routinggui_d_sortierungbuendeln.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Новые объединенные провода с измененным значением свойства** — [docs/2026/routinggui_d_neuesbuendeleigenschaft.md](docs/2026/routinggui_d_neuesbuendeleigenschaft.md)
+            - Вызов диалогового окна:
+        - **Диалоговое окно Маршрутизируемое соединение** — [docs/2026/routinggui_d_verlegeverbindung.md](docs/2026/routinggui_d_verlegeverbindung.md)
+          - Вызов диалогового окна:
+        - **Вкладка Кривая** — [docs/2026/devicetaggui_r_kurve.md](docs/2026/devicetaggui_r_kurve.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Изменить направление подсоединения** — [docs/2026/routinggui_d_verlegerichtungaendern.md](docs/2026/routinggui_d_verlegerichtungaendern.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Генерировать соединения фазовых шин** — [docs/2026/routinggui_d_phasenschienenvbdgerzg.md](docs/2026/routinggui_d_phasenschienenvbdgerzg.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоить фазную шину** — [docs/2026/routinggui_d_phasenschienezuweisen.md](docs/2026/routinggui_d_phasenschienezuweisen.md)
+          - Вызов диалогового окна:
+    - **Генерировать данные изготовления для машин по сборке проводов**
+      - **Основы**
+        - **Генерировать данные изготовления для машин по сборке проводов** — [docs/2026/productionwiringgui_k_start.md](docs/2026/productionwiringgui_k_start.md)
+      - **Процесс работы**
+        - **Конфигурировать машину по сборке проводов** — [docs/2026/productionwiringgui_h_maschinekonfigurieren.md](docs/2026/productionwiringgui_h_maschinekonfigurieren.md)
+        - **Экспортировать сборку проводов** — [docs/2026/productionwiringgui_h_drahtdatenexportieren.md](docs/2026/productionwiringgui_h_drahtdatenexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Сборка проводов: <машина>** — [docs/2026/productionwiringgui_d_exportdrahtdaten.md](docs/2026/productionwiringgui_d_exportdrahtdaten.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Сборка проводов** — [docs/2026/productionwiringgui_d_einstellungendrahtkonfektionierung.md](docs/2026/productionwiringgui_d_einstellungendrahtkonfektionierung.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Общие" (сборка проводов)** — [docs/2026/productionwiringgui_r_allgemein.md](docs/2026/productionwiringgui_r_allgemein.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Общие" (Komax — Zeta)** — [docs/2026/productionwiringgui_r_allgemeinkomax.md](docs/2026/productionwiringgui_r_allgemeinkomax.md)
+          - Вызов диалогового окна:
+        - **Вкладка Обработка концов проводников** — [docs/2026/productionwiringgui_r_aderendbehandlung.md](docs/2026/productionwiringgui_r_aderendbehandlung.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Обработка концов проводов" (Komax — Zeta)** — [docs/2026/productionwiringgui_r_verbindungsendebehandlungkomax.md](docs/2026/productionwiringgui_r_verbindungsendebehandlungkomax.md)
+          - Вызов диалогового окна:
+        - **Вкладка Машинная команда** — [docs/2026/productionwiringgui_r_maschinenbefehl.md](docs/2026/productionwiringgui_r_maschinenbefehl.md)
+          - Вызов диалогового окна:
+        - **Вкладка "Провода" / вкладка "Одиночные жилы"**
+          - **Вкладка "Провода" / вкладка "Одиночные жилы"** — [docs/2026/productionwiringgui_r_draehte.md](docs/2026/productionwiringgui_r_draehte.md)
+            - Вызов диалогового окна:
+          - **Вкладка Провода (CadCabel)** — [docs/2026/productionwiringgui_r_draehtecadcabel.md](docs/2026/productionwiringgui_r_draehtecadcabel.md)
+            - Вызов диалогового окна:
+          - **Вкладка Провода (Schleuniger)** — [docs/2026/productionwiringgui_r_draehteschleuniger.md](docs/2026/productionwiringgui_r_draehteschleuniger.md)
+            - Вызов диалогового окна:
+          - **Вкладка "Одиночные жилы" (Komax — Zeta)** — [docs/2026/productionwiringgui_r_einzeladernkomax.md](docs/2026/productionwiringgui_r_einzeladernkomax.md)
+            - Вызов диалогового окна:
+        - **Вкладка Маркировка** — [docs/2026/productionwiringgui_r_beschriftung.md](docs/2026/productionwiringgui_r_beschriftung.md)
+          - Вызов диалогового окна:
+          - Обзор наиболее важных элементов диалогового окна для Schleuniger — EASY ProductionServer:
+          - Обзор наиболее важных элементов диалогового окна для Rittal — Wire Terminal WT:
+          - Обзор наиболее важных элементов диалогового окна для Komax — Zeta:
+        - **Вкладка "Настройки" (сборка проводов)**
+          - **Вкладка "Настройки" (сборка проводов)** — [docs/2026/productionwiringgui_r_einstellungen.md](docs/2026/productionwiringgui_r_einstellungen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (общая спецификация проводов)** — [docs/2026/productionwiringgui_r_einstellungenallgemdrahtsl.md](docs/2026/productionwiringgui_r_einstellungenallgemdrahtsl.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (CadCabel)** — [docs/2026/productionwiringgui_r_einstellungencadcabel.md](docs/2026/productionwiringgui_r_einstellungencadcabel.md)
+            - Вызов диалогового окна:
+          - **Вкладка "Настройки" (Komax — Zeta)** — [docs/2026/productionwiringgui_r_einstellungenkomax.md](docs/2026/productionwiringgui_r_einstellungenkomax.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Metzner)** — [docs/2026/productionwiringgui_r_einstellungenmetzner.md](docs/2026/productionwiringgui_r_einstellungenmetzner.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Rittal — Wire Terminal WT)** — [docs/2026/productionwiringgui_r_einstellungenwireterminal.md](docs/2026/productionwiringgui_r_einstellungenwireterminal.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Schleuniger)** — [docs/2026/productionwiringgui_r_einstellungenschleuniger.md](docs/2026/productionwiringgui_r_einstellungenschleuniger.md)
+            - Вызов диалогового окна:
+          - **Вкладка Настройки (Steinhauer PWA)** — [docs/2026/productionwiringgui_r_einstellungensteinhauerpwa.md](docs/2026/productionwiringgui_r_einstellungensteinhauerpwa.md)
+            - Вызов диалогового окна:
+        - **Диалоговое окно Вывод: Список удаленных соединений** — [docs/2026/productionwiringgui_d_ausgabeentfallstueckliste.md](docs/2026/productionwiringgui_d_ausgabeentfallstueckliste.md)
+          - Вызов диалогового окна:
+    - **Проектирование электрошкафа с медными функциональными элементами**
+      - **Основы**
+        - **Проектирование электрошкафа с медными функциональными элементами** — [docs/2026/copper_k_start.md](docs/2026/copper_k_start.md)
+        - **Проектирование электрошкафа с медными функциональными элементами: Принцип работы** — [docs/2026/copper_k_arbeitsweise.md](docs/2026/copper_k_arbeitsweise.md)
+        - **Профиль для изогнутых медных шин: Принцип** — [docs/2026/copper_k_verlaufskontur.md](docs/2026/copper_k_verlaufskontur.md)
+        - **Медное изделие: Принцип** — [docs/2026/copper_k_kupferartikel.md](docs/2026/copper_k_kupferartikel.md)
+        - **Сборная шина (изогнутая): Принцип** — [docs/2026/copper_k_kupferanschlusselement.md](docs/2026/copper_k_kupferanschlusselement.md)
+        - **Медный жгут: Принцип** — [docs/2026/copper_k_kupferstrang.md](docs/2026/copper_k_kupferstrang.md)
+          - Присвоение к медному жгуту
+          - Отобразить медного жгута
+          - Выбор медного жгута или шины
+          - Удалить медный жгут
+        - **Обработать медный функциональный элемент: Принцип** — [docs/2026/copper_k_kupferbauteilbearbeiten.md](docs/2026/copper_k_kupferbauteilbearbeiten.md)
+          - Переместить
+          - Копировать / Вставить / Вырезать / Вставить
+          - Дублировать
+          - Объединить
+        - **Развертка шины: Принцип** — [docs/2026/copper_k_abwicklung.md](docs/2026/copper_k_abwicklung.md)
+        - **Медные жгуты в таблицах для сборочного чертежа** — [docs/2026/copper_k_auswertungmontageliste.md](docs/2026/copper_k_auswertungmontageliste.md)
+      - **Процесс работы**
+        - **Создать профиль для изогнутых медных шин** — [docs/2026/copper_h_verlaufskonturerstellen.md](docs/2026/copper_h_verlaufskonturerstellen.md)
+        - **Определить медное изделие** — [docs/2026/copper_h_kupferartikeldefinieren.md](docs/2026/copper_h_kupferartikeldefinieren.md)
+        - **Разместить медную шину** — [docs/2026/copper_h_kupferschieneplatzieren.md](docs/2026/copper_h_kupferschieneplatzieren.md)
+        - **Обработать медную шину**
+          - **Обработать медную шину** — [docs/2026/copper_h_kupferteilbearbeiten.md](docs/2026/copper_h_kupferteilbearbeiten.md)
+          - **Медная шина: Изменить длину** — [docs/2026/copper_h_kupferteillaengeaendern.md](docs/2026/copper_h_kupferteillaengeaendern.md)
+          - **Медная шина: Изменить угол** — [docs/2026/copper_h_kupferteilwinkelaendern.md](docs/2026/copper_h_kupferteilwinkelaendern.md)
+          - **Медная шина: Изменить места изгиба** — [docs/2026/copper_h_kupferteilbiegestelleaendern.md](docs/2026/copper_h_kupferteilbiegestelleaendern.md)
+          - **Медная шина: Добавить новое место изгиба** — [docs/2026/copper_h_kupferteilneuebiegestelle.md](docs/2026/copper_h_kupferteilneuebiegestelle.md)
+        - **Унаследовать схему сверления автоматически или вручную** — [docs/2026/copper_h_bohrbildvererben.md](docs/2026/copper_h_bohrbildvererben.md)
+          - Унаследовать схему сверления автоматически
+          - Унаследовать схему сверления вручную
+          - Обновить наследование
+        - **Создать развертку шины** — [docs/2026/copper_h_kupferabwicklungerstellen.md](docs/2026/copper_h_kupferabwicklungerstellen.md)
+        - **Экспортировать развертку шины** — [docs/2026/copper_h_kupferabwicklungexportieren.md](docs/2026/copper_h_kupferabwicklungexportieren.md)
+      - **Ссылка**
+        - **Настройки: Изгиб шины (Компания)** — [docs/2026/cabinetgui_d_einstellungenkupferbiegung.md](docs/2026/cabinetgui_d_einstellungenkupferbiegung.md)
+          - Вызов диалогового окна:
+        - **Настройки: Изгиб шины (пользователь)** — [docs/2026/cabinetgui_d_einstellungenkupferbiegungbenutzer.md](docs/2026/cabinetgui_d_einstellungenkupferbiegungbenutzer.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Свойства профиля (медь) - <Имя профиля>** — [docs/2026/contoureditorgui_d_kontureigenschaften.md](docs/2026/contoureditorgui_d_kontureigenschaften.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Сборная шина (изогнутая)** — [docs/2026/cabinetgui_d_sammelschienegebogen.md](docs/2026/cabinetgui_d_sammelschienegebogen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Медный жгут** — [docs/2026/devicetaggui_r_kupferstrang.md](docs/2026/devicetaggui_r_kupferstrang.md)
+          - Вызов диалогового окна:
+        - **Вкладка Сборная шина** — [docs/2026/devicetaggui_r_sammelschiene.md](docs/2026/devicetaggui_r_sammelschiene.md)
+          - Вызов диалогового окна:
+        - **Вкладка Места изгиба** — [docs/2026/devicetaggui_r_biegestellen.md](docs/2026/devicetaggui_r_biegestellen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Вид (развертка)** — [docs/2026/gededit3dgui_r_ansichtabwicklung.md](docs/2026/gededit3dgui_r_ansichtabwicklung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Развертки шины - <Имя проекта>** — [docs/2026/gededit3dgui_d_modellansichten.md](docs/2026/gededit3dgui_d_modellansichten.md)
+          - Вызов диалогового окна (обзоров модели):
+          - Вызов диалогового окна (развертки шины):
+          - Вызов диалогового окна (2D-отображения отверстий):
+        - **Диалоговое окно Экспорт: ЧУ — медь** — [docs/2026/ncgui_d_exportkupfernc.md](docs/2026/ncgui_d_exportkupfernc.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт ЧУ — медь** — [docs/2026/ncgui_d_einstellungenkupferexportnc.md](docs/2026/ncgui_d_einstellungenkupferexportnc.md)
+          - Вызов диалогового окна:
+        - **Вкладка Функциональный элемент (Настройки: Экспорт ЧУ — медь)** — [docs/2026/ncgui_r_bauteilkupferexportnc.md](docs/2026/ncgui_r_bauteilkupferexportnc.md)
+          - Вызов диалогового окна:
+        - **Вкладка Общие (Настройки: Экспорт ЧУ — медь)** — [docs/2026/ncgui_r_allgemeinkupferexportnc.md](docs/2026/ncgui_r_allgemeinkupferexportnc.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт: DXF — медь** — [docs/2026/ncgui_d_exportkupferdxf.md](docs/2026/ncgui_d_exportkupferdxf.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Экспорт DXF — медь** — [docs/2026/ncgui_d_einstellungenncexportperdxf.md](docs/2026/ncgui_d_einstellungenncexportperdxf.md)
+          - Вызов диалогового окна:
+        - **Вкладка DXF общ. (Настройки: Экспорт DXF — медь)** — [docs/2026/ncgui_r_dxfallgemein.md](docs/2026/ncgui_r_dxfallgemein.md)
+          - Вызов диалогового окна:
+        - **Вкладка Функциональные элементы (Настройки: Экспорт DXF — медь)** — [docs/2026/ncgui_r_dxfbauteile.md](docs/2026/ncgui_r_dxfbauteile.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отверстия (Настройки: Экспорт DXF — медь)** — [docs/2026/ncgui_r_dxfbohrungen.md](docs/2026/ncgui_r_dxfbohrungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Резьба (Настройки: Экспорт DXF — медь)** — [docs/2026/ncgui_r_dxfgewinde.md](docs/2026/ncgui_r_dxfgewinde.md)
+          - Вызов диалогового окна:
+        - **Вкладка Контуры (Настройки: Экспорт DXF — медь)** — [docs/2026/ncgui_r_dxfkonturen.md](docs/2026/ncgui_r_dxfkonturen.md)
+          - Вызов диалогового окна:
+    - **Основные данные для Eplan Pro Panel**
+      - **Импортировать устройства и маршрутизируемые соединения**
+        - **Основы**
+          - **Импортировать в проект устройства и маршрутизируемые соединения** — [docs/2026/projectprocessinggui_k_start.md](docs/2026/projectprocessinggui_k_start.md)
+          - **Импортировать в проект устройства и маршрутизируемые соединения: Принцип** — [docs/2026/projectprocessinggui_k_prinzip.md](docs/2026/projectprocessinggui_k_prinzip.md)
+            - Главные функции
+            - Клеммы и штекеры
+            - Соединения
+            - Альтернативные присвоения полей для изделий
+        - **Процесс работы**
+          - **Импортировать данные устройств и устройства** — [docs/2026/projectprocessinggui_h_betriebsmittelimportieren.md](docs/2026/projectprocessinggui_h_betriebsmittelimportieren.md)
+          - **Импортировать данные соединений и маршрутизируемые соединения** — [docs/2026/projectprocessinggui_h_verlegeverbindungenimportieren.md](docs/2026/projectprocessinggui_h_verlegeverbindungenimportieren.md)
+        - **Ссылка**
+          - **Диалоговое окно "Импортировать данные устройств"** — [docs/2026/projectprocessinggui_d_bmdatenimport.md](docs/2026/projectprocessinggui_d_bmdatenimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Импортировать данные соединений"** — [docs/2026/projectprocessinggui_d_verbindungsdatenimport.md](docs/2026/projectprocessinggui_d_verbindungsdatenimport.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Выбрать источник данных** — [docs/2026/projectprocessinggui_d_datenquelleauswaehlen.md](docs/2026/projectprocessinggui_d_datenquelleauswaehlen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Присвоение поля (импорт устройств / маршрутизируемых соединений)" / диалоговое окно "Настройки: Импорт"** — [docs/2026/projectprocessinggui_d_feldzuordnung.md](docs/2026/projectprocessinggui_d_feldzuordnung.md)
+            - Вызов диалогового окна "Присвоения полей":
+            - Вызов диалогового окна Настройки: Импорт:
+          - **Диалоговое окно "Синхронизировать устройства" / диалоговое окно "Синхронизировать маршрутизируемые соединения"** — [docs/2026/projectprocessinggui_d_abgleich.md](docs/2026/projectprocessinggui_d_abgleich.md)
+            - Вызов диалогового окна:
+      - **Генерировать схемы сверления**
+        - **Основы**
+          - **Схемы сверления из машинных данных** — [docs/2026/propanelmasterdata_k_start.md](docs/2026/propanelmasterdata_k_start.md)
+        - **Процесс работы**
+          - **Генерировать схемы сверления из файлов ЧУ** — [docs/2026/propanelmasterdata_h_bohrbildausncdaten.md](docs/2026/propanelmasterdata_h_bohrbildausncdaten.md)
+          - **Вставить границу схемы сверления** — [docs/2026/propanelmasterdata_h_bohrbildkasteneinfuegen.md](docs/2026/propanelmasterdata_h_bohrbildkasteneinfuegen.md)
+          - **Генерировать схемы сверления из файлов DXF** — [docs/2026/propanelmasterdata_h_bohrbildausdxfdaten.md](docs/2026/propanelmasterdata_h_bohrbildausdxfdaten.md)
+          - **Графическое определение схем сверления** — [docs/2026/propanelmasterdata_h_bohrbildgrafischdefinieren.md](docs/2026/propanelmasterdata_h_bohrbildgrafischdefinieren.md)
+        - **Ссылка**
+          - **Диалоговое окно Генерировать схемы сверления / контуры** — [docs/2026/cabinetgui_d_bohrbilderzeugen.md](docs/2026/cabinetgui_d_bohrbilderzeugen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Граница схемы сверления** — [docs/2026/cabinetgui_r_bohrbildkasten.md](docs/2026/cabinetgui_r_bohrbildkasten.md)
+            - Вызов диалогового окна:
+    - **Импорт и экспорт пространства конструкции**
+      - **Основы**
+        - **Импорт и экспорт пространства конструкции** — [docs/2026/xdesignspaceimportgui_k_start.md](docs/2026/xdesignspaceimportgui_k_start.md)
+        - **Импорт и экспорт пространства конструкции: Принцип** — [docs/2026/xdesignspaceimportgui_k_prinzip.md](docs/2026/xdesignspaceimportgui_k_prinzip.md)
+      - **Процесс работы**
+        - **Импортировать пространство конструкции** — [docs/2026/xdesignspaceimportgui_h_konstraumimportieren.md](docs/2026/xdesignspaceimportgui_h_konstraumimportieren.md)
+        - **Экспортировать пространство конструкции** — [docs/2026/xdesignspaceimportgui_h_konstraumexportieren.md](docs/2026/xdesignspaceimportgui_h_konstraumexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно "Импорт пространства конструкции"** — [docs/2026/xdesignspaceimportgui_d_konstruktionsraumimport.md](docs/2026/xdesignspaceimportgui_d_konstruktionsraumimport.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Импорт пространства конструкции — определить функциональные элементы"** — [docs/2026/xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md](docs/2026/xdesignspaceimportgui_d_konstruktionsraumimportbauteiledefinieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Экспорт пространства конструкции"** — [docs/2026/xdesignspaceimportgui_d_konstruktionsraumexport.md](docs/2026/xdesignspaceimportgui_d_konstruktionsraumexport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки: Импорт пространства конструкции** — [docs/2026/xdesignspaceimportgui_r_einstellungenstepimport.md](docs/2026/xdesignspaceimportgui_r_einstellungenstepimport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки: Экспорт пространства конструкции** — [docs/2026/xdesignspaceimportgui_r_einstellungenstepexport.md](docs/2026/xdesignspaceimportgui_r_einstellungenstepexport.md)
+          - Вызов диалогового окна:
+        - **Вкладка Настройки: Пространство конструкции — Определения функций (импорт)** — [docs/2026/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md](docs/2026/xdesignspaceimportgui_r_einstellungenstepimportfunktionsdefinitionen.md)
+          - Вызов диалогового окна:
+    - **Тепловой расчет распределительных устройств**
+      - **Основы**
+        - **Thermal Design Integration** — [docs/2026/cabinetgui_k_thermischeauslegung.md](docs/2026/cabinetgui_k_thermischeauslegung.md)
+        - **Виды для теплового расчета** — [docs/2026/cabinetgui_k_lueftungspfeile.md](docs/2026/cabinetgui_k_lueftungspfeile.md)
+          - Направления движения воздуха
+          - Области оптимального кондиционирования
+          - Зарезервированные зоны для воздушного потока
+          - Распределение тепловыделения
+        - **Расчет общей мощности потерь на распределительных устройствах** — [docs/2026/cabinetgui_k_verlustleistung.md](docs/2026/cabinetgui_k_verlustleistung.md)
+        - **Расчет общей мощности потерь на распределительных устройствах: Принцип** — [docs/2026/cabinetgui_k_verlustleistungprinzip.md](docs/2026/cabinetgui_k_verlustleistungprinzip.md)
+      - **Процесс работы**
+        - **Рассчитать общую мощность потерь на распределительных устройствах** — [docs/2026/cabinetgui_h_verlustleistungberechnen.md](docs/2026/cabinetgui_h_verlustleistungberechnen.md)
+        - **Определение неравномерного распределения тепловыделения в климатической области** — [docs/2026/cabinetgui_h_verlustleistungsverteilung.md](docs/2026/cabinetgui_h_verlustleistungsverteilung.md)
+      - **Ссылка**
+        - **Диалоговое окно "Рассчитать мощность потерь"** — [docs/2026/cabinetgui_d_verlustleistungberechnen.md](docs/2026/cabinetgui_d_verlustleistungberechnen.md)
+          - Вызов диалогового окна:
+    - **Расчет общего веса электрошкафов**
+      - **Основы**
+        - **Расчет общего веса электрошкафов** — [docs/2026/cabinetgui_k_schrankgesamtgewicht.md](docs/2026/cabinetgui_k_schrankgesamtgewicht.md)
+      - **Процесс работы**
+        - **Рассчитать общий вес электрошкафов** — [docs/2026/cabinetgui_h_schrankgesamtgewichtberechnen.md](docs/2026/cabinetgui_h_schrankgesamtgewichtberechnen.md)
+    - **Трубопроводы**
+      - **Основы**
+        - **Трубопроводы в пространстве листа** — [docs/2026/piping_k_start.md](docs/2026/piping_k_start.md)
+      - **Процесс работы**
+        - **Свободно маршрутизировать трубопроводы** — [docs/2026/piping_h_freiverlegen.md](docs/2026/piping_h_freiverlegen.md)
+        - **Изменить трубопроводы** — [docs/2026/piping_h_rohrleitungaendern.md](docs/2026/piping_h_rohrleitungaendern.md)
+        - **Изменить колена труб** — [docs/2026/piping_h_rohrbogenaendern.md](docs/2026/piping_h_rohrbogenaendern.md)
+          - Переместить колено трубы / место изгиба
+          - Изменить радиус изгиба
+          - Вставить дополнительное колено трубы
+          - Удалить колено трубы / место изгиба
+        - **Экспортировать трубопровод** — [docs/2026/piping_h_rohrleitungexportieren.md](docs/2026/piping_h_rohrleitungexportieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Настройки: Экспорт изгибания труб** — [docs/2026/ncgui_d_einstellungenrohrbiegung.md](docs/2026/ncgui_d_einstellungenrohrbiegung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Экспорт изгибания труб** — [docs/2026/ncgui_d_exportpipefab.md](docs/2026/ncgui_d_exportpipefab.md)
+          - Вызов диалогового окна:
+  - **Eplan Preplanning**
+    - **Предварительное планирование**
+      - **Основы**
+        - **Предварительное планирование** — [docs/2026/planninggui_k_start.md](docs/2026/planninggui_k_start.md)
+        - **Предварительное планирование: Принцип** — [docs/2026/planninggui_k_prinzip.md](docs/2026/planninggui_k_prinzip.md)
+        - **Технологические контуры в предварительном планировании** — [docs/2026/planninggui_k_pltstellen.md](docs/2026/planninggui_k_pltstellen.md)
+          - Номера технологического контура
+          - Представление технологических контуров по стандарту DIN EN 62424
+        - **Объекты планирования, соединения** — [docs/2026/planninggui_k_verbindungsvorplanung.md](docs/2026/planninggui_k_verbindungsvorplanung.md)
+        - **Предварительное планирование: Порядок действий** — [docs/2026/planninggui_k_vorgehensweise.md](docs/2026/planninggui_k_vorgehensweise.md)
+        - **Предварительное планирование: Нумерация ОУ** — [docs/2026/planninggui_k_bmknummerierung.md](docs/2026/planninggui_k_bmknummerierung.md)
+        - **Графическое предварительное планирование** — [docs/2026/planninggui_k_grafischevorplanung.md](docs/2026/planninggui_k_grafischevorplanung.md)
+        - **Перекрестные ссылки в графическом предварительном планировании и на функциональной схеме автоматизации** — [docs/2026/planninggui_k_querverweise.md](docs/2026/planninggui_k_querverweise.md)
+        - **Создание подробного планирования из макросов** — [docs/2026/planninggui_k_grafikausmakros.md](docs/2026/planninggui_k_grafikausmakros.md)
+        - **Расширение предварительного планирования графическими представлениями и функциональными схемами автоматизации** — [docs/2026/planninggui_k_vorplanungerweitern.md](docs/2026/planninggui_k_vorplanungerweitern.md)
+        - **Предварительное планирование: Устройства ПЛК** — [docs/2026/planninggui_k_spsdaten.md](docs/2026/planninggui_k_spsdaten.md)
+        - **Шаблоны сегментов** — [docs/2026/planninggui_k_segmentvorlagen.md](docs/2026/planninggui_k_segmentvorlagen.md)
+        - **Шаблоны для классов трубы и веществ** — [docs/2026/planninggui_k_rohrleitungsvorlagen.md](docs/2026/planninggui_k_rohrleitungsvorlagen.md)
+        - **Защищенные сегменты** — [docs/2026/planninggui_k_geschuetztesegmente.md](docs/2026/planninggui_k_geschuetztesegmente.md)
+        - **Предварительное планирование: Связи** — [docs/2026/planninggui_k_verknuepfungen.md](docs/2026/planninggui_k_verknuepfungen.md)
+        - **Предварительное планирование: Отчеты** — [docs/2026/planninggui_k_auswertungen.md](docs/2026/planninggui_k_auswertungen.md)
+        - **Предварительное планирование: Монтажные чертежи** — [docs/2026/planninggui_k_montageanordnungen.md](docs/2026/planninggui_k_montageanordnungen.md)
+        - **Автоматизация зданий** — [docs/2026/planninggui_k_gebaeudeautomation.md](docs/2026/planninggui_k_gebaeudeautomation.md)
+      - **Процесс работы**
+        - **Создание и обработка сегментов структуры** — [docs/2026/planninggui_h_struktursegmenteerstlbearb.md](docs/2026/planninggui_h_struktursegmenteerstlbearb.md)
+        - **Создание объектов планирования, технологических контуров, функций ТК, резервуаров и объектов планирования (соединений)** — [docs/2026/planninggui_h_planungsobjekteerstellen.md](docs/2026/planninggui_h_planungsobjekteerstellen.md)
+        - **Создание объектов планирования в качестве устройств** — [docs/2026/planninggui_h_planungsobjektmitartikel.md](docs/2026/planninggui_h_planungsobjektmitartikel.md)
+        - **Создание связей в предварительном планировании** — [docs/2026/planninggui_h_verknuepfungenerstellen.md](docs/2026/planninggui_h_verknuepfungenerstellen.md)
+        - **Отобразить связи с объектами планирования соединений** — [docs/2026/planninggui_h_verknuepfungenanzeigen.md](docs/2026/planninggui_h_verknuepfungenanzeigen.md)
+        - **Создание и вставка макросов предварительного планирования** — [docs/2026/planninggui_h_vorplanmakroserstl.md](docs/2026/planninggui_h_vorplanmakroserstl.md)
+        - **Размещение шаблонов функций и адресов ПЛК объектов планирования** — [docs/2026/planninggui_h_objekteplatzieren.md](docs/2026/planninggui_h_objekteplatzieren.md)
+        - **Назначить сегменты / объекты** — [docs/2026/planninggui_h_objektezuweisen.md](docs/2026/planninggui_h_objektezuweisen.md)
+        - **Создание графического предварительного планирования** — [docs/2026/planninggui_h_grafvorplanungerstellen.md](docs/2026/planninggui_h_grafvorplanungerstellen.md)
+          - Вставить новые сегменты
+          - Вставить новые объекты планирования (соединения)
+          - Размеcтить имеющиеся сегменты
+          - Разместить имеющиеся объекты планирования (соединения)
+        - **Создать подробное планирование путем перетаскивания мышью** — [docs/2026/planninggui_h_makrosdragdrop.md](docs/2026/planninggui_h_makrosdragdrop.md)
+        - **Соединить сегменты со страницами** — [docs/2026/planninggui_h_seitenzuordnen.md](docs/2026/planninggui_h_seitenzuordnen.md)
+        - **Синхронизировать изделия предварительного планирования с детальным планированием** — [docs/2026/planninggui_h_artikelabgleichen.md](docs/2026/planninggui_h_artikelabgleichen.md)
+        - **Создать шаблоны сегментов** — [docs/2026/planninggui_h_segmentvorlageeerstellen.md](docs/2026/planninggui_h_segmentvorlageeerstellen.md)
+        - **Присвоить шаблоны сегментов** — [docs/2026/planninggui_h_segmentvorlagezuordnen.md](docs/2026/planninggui_h_segmentvorlagezuordnen.md)
+        - **Создать и обработать классы трубы и вещества** — [docs/2026/planninggui_h_rohrklasseerstellen.md](docs/2026/planninggui_h_rohrklasseerstellen.md)
+        - **Предварительно определить сокращенные буквенные обозначения для функций обработки** — [docs/2026/planninggui_h_verfunktionvordef.md](docs/2026/planninggui_h_verfunktionvordef.md)
+        - **Установить однозначность номеров ТК** — [docs/2026/planninggui_h_gueltigkeitfestlegen.md](docs/2026/planninggui_h_gueltigkeitfestlegen.md)
+        - **Подготовка таблицы Excel для импорта (предварительное планирование)** — [docs/2026/planninggui_h_excelimportvorbereiten.md](docs/2026/planninggui_h_excelimportvorbereiten.md)
+        - **Импортировать данные предварительного планирования** — [docs/2026/planninggui_h_importvorplanung.md](docs/2026/planninggui_h_importvorplanung.md)
+        - **Вывести монтажные чертежи для объектов планирования** — [docs/2026/planninggui_h_montageanordnungenausgeben.md](docs/2026/planninggui_h_montageanordnungenausgeben.md)
+      - **Ссылка**
+        - **Диалоговое окно Предварительное планирование — <Имя проекта>** — [docs/2026/planninggui_d_navigator.md](docs/2026/planninggui_d_navigator.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Шаблоны сегментов — <Имя проекта>** — [docs/2026/planninggui_d_vorlagennavigator.md](docs/2026/planninggui_d_vorlagennavigator.md)
+          - Вызов диалогового окна:
+        - **Вкладка <Отображаемое имя сегмента структуры>** — [docs/2026/planninggui_r_struktursegment.md](docs/2026/planninggui_r_struktursegment.md)
+          - Вызов диалогового окна:
+        - **Вкладка <Отображаемое имя объекта планирования>** — [docs/2026/planninggui_r_planungsobjekt.md](docs/2026/planninggui_r_planungsobjekt.md)
+          - Вызов диалогового окна:
+        - **Вкладка <Отображаемое имя объекта планирования (трубопровода)>** — [docs/2026/planninggui_r_rohrleitungsobjekt.md](docs/2026/planninggui_r_rohrleitungsobjekt.md)
+          - Вызов диалогового окна:
+        - **Вкладка "<Технологический контур>" / вкладка "<Функция ТК>"** — [docs/2026/planninggui_r_messverbraucherstelle.md](docs/2026/planninggui_r_messverbraucherstelle.md)
+          - Вызов диалогового окна:
+        - **Вкладка ПЛК** — [docs/2026/planninggui_r_sps.md](docs/2026/planninggui_r_sps.md)
+          - Вызов диалогового окна:
+        - **Вкладка Документы / страницы** — [docs/2026/planninggui_r_dokumente.md](docs/2026/planninggui_r_dokumente.md)
+          - Вызов диалогового окна:
+        - **Вкладка Макрос** — [docs/2026/planninggui_r_makro.md](docs/2026/planninggui_r_makro.md)
+          - Вызов диалогового окна:
+        - **Вкладка Шаблоны** — [docs/2026/planninggui_r_schablonen.md](docs/2026/planninggui_r_schablonen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Конфигурировать определения сегментов — <Имя проекта>** — [docs/2026/planninggui_d_konfigsegmentdef.md](docs/2026/planninggui_d_konfigsegmentdef.md)
+          - Вызов диалогового окна:
+        - **Вкладка Шаблон сегмента** — [docs/2026/planninggui_r_segmentvorlage.md](docs/2026/planninggui_r_segmentvorlage.md)
+          - Вызов диалогового окна:
+        - **Вкладка "<Отображаемое имя класса трубы>" / вкладка "<Отображаемое имя вещества>"** — [docs/2026/planninggui_r_rohrklassestoff.md](docs/2026/planninggui_r_rohrklassestoff.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Импортировать данные предварительного планирования — <Имя проекта>** — [docs/2026/planninggui_d_importvorplanung.md](docs/2026/planninggui_d_importvorplanung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно "Выбрать источник данных" (предварительное планирование, импорт Excel)** — [docs/2026/planninggui_d_datenquelleexcel.md](docs/2026/planninggui_d_datenquelleexcel.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать источник данных (предварительное планирование, импорт текстовых файлов)** — [docs/2026/planninggui_d_datenquelletext.md](docs/2026/planninggui_d_datenquelletext.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Присвоение полей (предварительное планирование)** — [docs/2026/planninggui_d_feldzuordnung.md](docs/2026/planninggui_d_feldzuordnung.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Синхронизировать данные предварительного планирования** — [docs/2026/planninggui_d_importabgleich.md](docs/2026/planninggui_d_importabgleich.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Обновить детальное планирование** — [docs/2026/planninggui_d_detailplanungaktualisieren.md](docs/2026/planninggui_d_detailplanungaktualisieren.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Общее (предварительное планирование)** — [docs/2026/planninggui_d_einstellallgemein.md](docs/2026/planninggui_d_einstellallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Нумерация / Технологические контуры** — [docs/2026/planninggui_d_einstellpltstellen.md](docs/2026/planninggui_d_einstellpltstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Функциональные признаки приборов** — [docs/2026/planninggui_d_einstellverarbeitfunktion.md](docs/2026/planninggui_d_einstellverarbeitfunktion.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Глубина предварительного планирования** — [docs/2026/planninggui_d_einstellplanungstiefe.md](docs/2026/planninggui_d_einstellplanungstiefe.md)
+          - Вызов диалогового окна:
+    - **Функциональные схемы автоматизации в предварительном планировании**
+      - **Основы**
+        - **Функциональные схемы автоматизации в предварительном планировании** — [docs/2026/planningri_k_start.md](docs/2026/planningri_k_start.md)
+        - **Технологические контуры / функции ТК на функциональной схеме автоматизации** — [docs/2026/planningri_k_risymbole.md](docs/2026/planningri_k_risymbole.md)
+        - **Сегменты структуры на функциональной схеме автоматизации** — [docs/2026/planningri_k_struktursegmente.md](docs/2026/planningri_k_struktursegmente.md)
+        - **Определения трубопровода на функциональной схеме автоматизации** — [docs/2026/planningri_k_rdp.md](docs/2026/planningri_k_rdp.md)
+        - **Передача данных трубопровода** — [docs/2026/planningri_k_rohrleitungsdaten.md](docs/2026/planningri_k_rohrleitungsdaten.md)
+        - **Ответвления для трубопроводов** — [docs/2026/planningri_k_rohrleitungen.md](docs/2026/planningri_k_rohrleitungen.md)
+        - **Резервуары и выводы резервуара на функциональной схеме автоматизации** — [docs/2026/planningri_k_rifliessbild.md](docs/2026/planningri_k_rifliessbild.md)
+      - **Процесс работы**
+        - **Присвоение типа ТК (уст./реал.) технологическому контуру / функции ТК** — [docs/2026/planningri_h_plttypzuordnen.md](docs/2026/planningri_h_plttypzuordnen.md)
+        - **Разместить технологический контур / функцию ТК** — [docs/2026/planningri_h_pltobjektplatzieren.md](docs/2026/planningri_h_pltobjektplatzieren.md)
+        - **Определить трубопроводы на функциональной схеме автоматизации** — [docs/2026/planningri_h_rohrleitungdefinieren.md](docs/2026/planningri_h_rohrleitungdefinieren.md)
+        - **Выделить и обработать трассу трубопровода** — [docs/2026/planningri_h_rohrleitungmarkieren.md](docs/2026/planningri_h_rohrleitungmarkieren.md)
+        - **Вставить прерывания для трубопроводов** — [docs/2026/planningri_h_rohrleitungunterbrechen.md](docs/2026/planningri_h_rohrleitungunterbrechen.md)
+        - **Выделить цветом условное обозначение и трубопровод со связанными сегментами на функциональной схеме автоматизации** — [docs/2026/planningri_h_objekteeinfaerben.md](docs/2026/planningri_h_objekteeinfaerben.md)
+        - **Вставить марос окна с данными функциональных схем автоматизации** — [docs/2026/planningri_h_makroeinfuegen.md](docs/2026/planningri_h_makroeinfuegen.md)
+        - **Определение свойств блока для технологического контура / функции ТК** — [docs/2026/planningri_h_blockeigenschaft.md](docs/2026/planningri_h_blockeigenschaft.md)
+      - **Ссылка**
+        - **Диалоговое окно Трубопроводы - <Имя проекта> ** — [docs/2026/potentialbrowsergui_d_rohrleitungen.md](docs/2026/potentialbrowsergui_d_rohrleitungen.md)
+          - Вызов диалогового окна:
+        - **Вкладка Определение трубопровода** — [docs/2026/devicetaggui_r_rohrleitungsdp.md](docs/2026/devicetaggui_r_rohrleitungsdp.md)
+          - Вызов диалогового окна:
+        - **Вкладка Данные символа (технологические контуры / функции ТК)** — [docs/2026/planninggui_r_risymbol.md](docs/2026/planninggui_r_risymbol.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Выбрать структуру** — [docs/2026/planninggui_d_strukturauswahl.md](docs/2026/planninggui_d_strukturauswahl.md)
+          - Вызов диалогового окна:
+    - **Предв. планирование соединений**
+      - **Основы**
+        - **Предв. планирование соединений** — [docs/2026/planningconnections_k_start.md](docs/2026/planningconnections_k_start.md)
+      - **Процесс работы**
+        - **Автоматически генерировать функции с помощью схемы нумерации** — [docs/2026/navigatorgui_h_mehrerfunktionerzeugen.md](docs/2026/navigatorgui_h_mehrerfunktionerzeugen.md)
+        - **Сгенерировать неразмещенные соединения** — [docs/2026/planningconnections_h_createconnections.md](docs/2026/planningconnections_h_createconnections.md)
+        - **Разместить подсоединенные функции** — [docs/2026/planningconnections_h_platzieren.md](docs/2026/planningconnections_h_platzieren.md)
+      - **Ссылка**
+        - **Диалоговое окно Подключить устройства** — [docs/2026/xesconnectdevicegui_d_geraeteverschalten.md](docs/2026/xesconnectdevicegui_d_geraeteverschalten.md)
+          - Вызов диалогового окна:
+  - **Eplan View**
+    - **Проекты**
+      - **Проекты: Основы**
+        - **Проекты: Принцип** — [docs/2026/projects_k_prinzip.md](docs/2026/projects_k_prinzip.md)
+      - **Проекты: Процесс работы**
+        - **Восстановить проекты** — [docs/2026/bakrestoredlggui_h_projektewiederherstellen.md](docs/2026/bakrestoredlggui_h_projektewiederherstellen.md)
+          - Восстановление проектов (вид Backstage)
+          - Восстановление проектов (управление проектами)
+      - **Проекты: Ссылка**
+        - **Диалоговое окно Резервировать проекты** — [docs/2026/bakbackupdlggui_d_projektesichern.md](docs/2026/bakbackupdlggui_d_projektesichern.md)
+          - Вызов диалогового окна "Резервировать проекты":
+          - Вызов диалогового окна "Создать базовый проект":
+        - **Диалоговое окно Восстановить проекты** — [docs/2026/bakrestoredlggui_d_projektewiederherstellen.md](docs/2026/bakrestoredlggui_d_projektewiederherstellen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Содержимое файла резервирования** — [docs/2026/bakrestoredlggui_d_inhaltsicherungsdatei.md](docs/2026/bakrestoredlggui_d_inhaltsicherungsdatei.md)
+          - Вызов диалогового окна:
+        - **Вкладка Свойства** — [docs/2026/prjmanagementgui_r_eigenschaften.md](docs/2026/prjmanagementgui_r_eigenschaften.md)
+          - Вызов диалогового окна:
+        - **Вкладка Статистика** — [docs/2026/prjmanagementgui_r_statisitk.md](docs/2026/prjmanagementgui_r_statisitk.md)
+          - Вызов диалогового окна:
+        - **Вкладка Структура** — [docs/2026/prjmanagementgui_r_struktur.md](docs/2026/prjmanagementgui_r_struktur.md)
+          - Вызов диалогового окна:
+    - **Управление страницами**
+      - **Навигатор страниц**
+        - **Навигатор страниц: Основы**
+          - **Представление страниц проекта** — [docs/2026/pagebrowsergui_k_prinzip.md](docs/2026/pagebrowsergui_k_prinzip.md)
+          - **Типы страниц** — [docs/2026/pagebrowsergui_k_seitentypen.md](docs/2026/pagebrowsergui_k_seitentypen.md)
+        - **Навигатор страниц: Процесс работы**
+          - **Открытие и закрытие страниц** — [docs/2026/pagebrowsergui_h_seitenoeffnen.md](docs/2026/pagebrowsergui_h_seitenoeffnen.md)
+          - **Вывод предварительного отображения графики** — [docs/2026/pagebrowsergui_h_seitenvorschau.md](docs/2026/pagebrowsergui_h_seitenvorschau.md)
+          - **Настройка фильтра страниц** — [docs/2026/pagebrowsergui_k_filter.md](docs/2026/pagebrowsergui_k_filter.md)
+        - **Навигатор страниц: Ссылка**
+          - **Диалоговое окно Страницы — <Имя проекта>** — [docs/2026/pagebrowsergui_d_seitenuebersicht.md](docs/2026/pagebrowsergui_d_seitenuebersicht.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Свойства страницы / Новая страница** — [docs/2026/pagebrowsergui_d_seiteneigenschaften.md](docs/2026/pagebrowsergui_d_seiteneigenschaften.md)
+            - Вызов диалогового окна:
+      - **Интерфейс DXF/DWG**
+        - **Интерфейс DXF/DWG: Процесс работы**
+          - **Экспортировать страницы в формате DXF / DWG** — [docs/2026/xdxfgui_h_seitendxfexportieren.md](docs/2026/xdxfgui_h_seitendxfexportieren.md)
+        - **Интерфейс DXF/DWG: Ссылка**
+          - **Диалоговое окно Экспорт DXF / DWG / Экспорт графических файлов** — [docs/2026/modaldialogsdb_d_export.md](docs/2026/modaldialogsdb_d_export.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Экспорт и импорт DXF / DWG** — [docs/2026/xdxfgui_d_einstellungen.md](docs/2026/xdxfgui_d_einstellungen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Экспорт** — [docs/2026/xdxfgui_r_export.md](docs/2026/xdxfgui_r_export.md)
+            - Вызов диалогового окна:
+          - **Вкладка Слои** — [docs/2026/xdxfgui_r_ebenen.md](docs/2026/xdxfgui_r_ebenen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Цвета** — [docs/2026/xdxfgui_r_farben.md](docs/2026/xdxfgui_r_farben.md)
+            - Вызов диалогового окна:
+          - **Вкладка Виды шрифтов** — [docs/2026/xdxfgui_r_schriftarten.md](docs/2026/xdxfgui_r_schriftarten.md)
+            - Вызов диалогового окна:
+          - **Вкладка Типы линий** — [docs/2026/xdxfgui_r_linientypen.md](docs/2026/xdxfgui_r_linientypen.md)
+            - Вызов диалогового окна:
+          - **Вкладка Определение блока** — [docs/2026/xdxfgui_r_blockdefinition.md](docs/2026/xdxfgui_r_blockdefinition.md)
+            - Вызов диалогового окна:
+          - **Вкладка Атрибут блока** — [docs/2026/xdxfgui_r_blockattribut.md](docs/2026/xdxfgui_r_blockattribut.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Определение атрибута** — [docs/2026/xdxfgui_d_attributdefinition.md](docs/2026/xdxfgui_d_attributdefinition.md)
+            - Вызов диалогового окна:
+      - **Экспорт графических файлов**
+        - **Основы**
+          - **Экспорт графических файлов** — [docs/2026/gedgraphicexportgui_k_start.md](docs/2026/gedgraphicexportgui_k_start.md)
+        - **Процесс работы**
+          - **Вывести страницы в виде графических файлов** — [docs/2026/gedgraphicexportgui_h_seitenexportieren.md](docs/2026/gedgraphicexportgui_h_seitenexportieren.md)
+        - **Ссылка**
+          - **Диалоговое окно Настройки: Экспорт графических файлов** — [docs/2026/gedgraphicexportgui_d_exporteinstellungen.md](docs/2026/gedgraphicexportgui_d_exporteinstellungen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Экспорт графических файлов** — [docs/2026/modaldialogsdb_d_export.md](docs/2026/modaldialogsdb_d_export.md)
+            - Вызов диалогового окна:
+      - **Печать**
+        - **Основы**
+          - **Печать** — [docs/2026/printgui_k_start.md](docs/2026/printgui_k_start.md)
+          - **Печать: Принцип** — [docs/2026/printgui_k_prinzip.md](docs/2026/printgui_k_prinzip.md)
+        - **Процесс работы**
+          - **Печать страниц** — [docs/2026/printgui_h_drucken.md](docs/2026/printgui_h_drucken.md)
+          - **Печать присоединенных документов** — [docs/2026/printgui_h_begleitdokumente.md](docs/2026/printgui_h_begleitdokumente.md)
+        - **Ссылка**
+          - **Диалоговое окно Печать** — [docs/2026/printgui_d_drucken.md](docs/2026/printgui_d_drucken.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Печать** — [docs/2026/printgui_d_druckoptionen.md](docs/2026/printgui_d_druckoptionen.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно "Выбрать присоединенные документы"** — [docs/2026/printgui_d_begleitdokumente.md](docs/2026/printgui_d_begleitdokumente.md)
+            - Вызов диалогового окна:
+    - **Графический редактор**
+      - **Графический редактор: Основы**
+        - **Элементы управления графического редактора** — [docs/2026/gededitgui_k_prinzip.md](docs/2026/gededitgui_k_prinzip.md)
+        - **Управление курсором с помощью клавиатуры** — [docs/2026/gededitgui_k_cursortastatur.md](docs/2026/gededitgui_k_cursortastatur.md)
+        - **Функции масштабирования** — [docs/2026/gededitgui_k_zoom.md](docs/2026/gededitgui_k_zoom.md)
+      - **Графический редактор: Процесс работы**
+        - **Использование ортогональной функции** — [docs/2026/gededitgui_h_orthogonalfunktion.md](docs/2026/gededitgui_h_orthogonalfunktion.md)
+        - **Отображать невидимые элементы** — [docs/2026/gededitgui_h_unsichtbareelemente.md](docs/2026/gededitgui_h_unsichtbareelemente.md)
+        - **Отобразить пустые тексты** — [docs/2026/gededitgui_h_texteanzeigen.md](docs/2026/gededitgui_h_texteanzeigen.md)
+        - **Показать имена свойств** — [docs/2026/gededitgui_h_eigenschaftsnamen.md](docs/2026/gededitgui_h_eigenschaftsnamen.md)
+        - **Использование функций масштабирования** — [docs/2026/gededitgui_h_zoom.md](docs/2026/gededitgui_h_zoom.md)
+        - **Выделить потенциалы, сигналы или сеть** — [docs/2026/potentialbrowsergui_h_potenzialverfolgung.md](docs/2026/potentialbrowsergui_h_potenzialverfolgung.md)
+      - **Графический редактор: Ссылка**
+        - **Диалоговое окно Настройки: Общие (Проекты, Графическая обработка)** — [docs/2026/gedviewer_d_einstellungenprojektallgemein.md](docs/2026/gedviewer_d_einstellungenprojektallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: 2D** — [docs/2026/gedviewer_d_einstellungenbenutzerallgemein.md](docs/2026/gedviewer_d_einstellungenbenutzerallgemein.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Настройки: Символы соединения** — [docs/2026/gedviewer_d_einstellungenverbindungssymbole.md](docs/2026/gedviewer_d_einstellungenverbindungssymbole.md)
+          - Вызов диалогового окна:
+    - **Данные проекта**
+      - **Навигатор устройств**
+        - **Навигатор устройств: Процесс работы**
+          - **Просмотреть размещенные устройства в графическом виде** — [docs/2026/navigatorgui_h_grafischevorschau.md](docs/2026/navigatorgui_h_grafischevorschau.md)
+        - **Навигатор устройств: Ссылка**
+          - **Диалоговое окно Устройство — <Имя проекта>** — [docs/2026/navigatorgui_d_navigator.md](docs/2026/navigatorgui_d_navigator.md)
+            - Вызов диалогового окна:
+      - **Спецификации**
+        - **Спецификации: Основы**
+          - **Спецификации: Основы** — [docs/2026/partslistgui_k_start.md](docs/2026/partslistgui_k_start.md)
+        - **Спецификации: Ссылка**
+          - **Диалоговое окно Спецификация — <Имя проекта>** — [docs/2026/partslistgui_d_artikelstueckliste.md](docs/2026/partslistgui_d_artikelstueckliste.md)
+            - Вызов диалогового окна:
+          - **Диалоговое окно Настройки: Изделие** — [docs/2026/partslistgui_d_paramartikelauswertung.md](docs/2026/partslistgui_d_paramartikelauswertung.md)
+            - Вызов диалогового окна:
+    - **Поиск**
+      - **Поиск: Основы**
+        - **Определение искомых понятий** — [docs/2026/searchandreplacegui_k_prinzip.md](docs/2026/searchandreplacegui_k_prinzip.md)
+        - **Записи в списках результатов** — [docs/2026/searchandreplacegui_k_eintraegeergebnisliste.md](docs/2026/searchandreplacegui_k_eintraegeergebnisliste.md)
+        - **Использование символов-заполнителей** — [docs/2026/searchandreplacegui_k_platzhalter.md](docs/2026/searchandreplacegui_k_platzhalter.md)
+      - **Поиск: Процесс работы**
+        - **Поиск данных проекта** — [docs/2026/searchandreplacegui_h_suchen.md](docs/2026/searchandreplacegui_h_suchen.md)
+      - **Поиск: Ссылка**
+        - **Диалоговое окно Поиск** — [docs/2026/searchandreplacegui_d_suchen.md](docs/2026/searchandreplacegui_d_suchen.md)
+          - Вызов диалогового окна:
+        - **Диалоговое окно Результаты поиска — <Имя проекта>** — [docs/2026/searchandreplacegui_d_suchergebnisse.md](docs/2026/searchandreplacegui_d_suchergebnisse.md)
+          - Вызов диалогового окна:
+    - **Системные сообщения** — [docs/2026/errorhelp_k_start.md](docs/2026/errorhelp_k_start.md)
+    - **Трехмерный чертеж монтажных поверхностей**
+      - **Трехмерный чертеж монтажных поверхностей: Основы**
+        - **Трехмерный чертеж монтажных поверхностей с Eplan Pro Panel** — [docs/2026/cabinetgui_k_start.md](docs/2026/cabinetgui_k_start.md)
+      - **Трехмерный чертеж монтажных поверхностей: Ссылка**
+        - **Диалоговое окно Пространство листа — <Имя проекта>** — [docs/2026/cabinetgui_d_navigator.md](docs/2026/cabinetgui_d_navigator.md)
+          - Вызов диалогового окна навигатора пространства листа:
+          - Вызов диалогового окна для других диалоговых окон с 3D-объектами:
+    - **Обзоры модели**
+      - **Обзоры модели: Основы**
+        - **Обзоры модели** — [docs/2026/gededit3dgui_k_start.md](docs/2026/gededit3dgui_k_start.md)
+      - **Обзоры модели: Ссылка**
+        - **Вкладка Вид (обзор модели)** — [docs/2026/gededit3dgui_r_modell.md](docs/2026/gededit3dgui_r_modell.md)
+          - Вызов диалогового окна:
+        - **Вкладка Отображение (обзор модели)** — [docs/2026/gededit3dgui_r_anzeige.md](docs/2026/gededit3dgui_r_anzeige.md)
+          - Вызов диалогового окна:
+  - **Операции Eplan**
+    - **Основы**
+      - **Операции Eplan** — [docs/2026/availableactions_k_start.md](docs/2026/availableactions_k_start.md)
+    - **Обзор**
+      - **Операции Eplan: Обзор** — [docs/2026/availableactions_o_eplanaktionen.md](docs/2026/availableactions_o_eplanaktionen.md)
+      - **Операция: backup** — [docs/2026/availableactions_o_backup.md](docs/2026/availableactions_o_backup.md)
+      - **Операция: changelayer** — [docs/2026/availableactions_o_changelayer.md](docs/2026/availableactions_o_changelayer.md)
+      - **Операция: check** — [docs/2026/availableactions_o_check.md](docs/2026/availableactions_o_check.md)
+      - **Операция: CleanWorkspaceAction** — [docs/2026/availableactions_o_xsvcleanworkspaceaction.md](docs/2026/availableactions_o_xsvcleanworkspaceaction.md)
+      - **Операция: compress** — [docs/2026/availableactions_o_compress.md](docs/2026/availableactions_o_compress.md)
+      - **Операция: devicelist** — [docs/2026/availableactions_o_devicelist.md](docs/2026/availableactions_o_devicelist.md)
+      - **Операция: edit** — [docs/2026/availableactions_o_edit.md](docs/2026/availableactions_o_edit.md)
+      - **Операция: EplApiModuleAction** — [docs/2026/availableactions_o_eplapimoduleaction.md](docs/2026/availableactions_o_eplapimoduleaction.md)
+      - **Операция: EsCorrectConnections** — [docs/2026/availableactions_o_escorrectconnections.md](docs/2026/availableactions_o_escorrectconnections.md)
+      - **Операция: ExecuteScript** — [docs/2026/availableactions_o_executescript.md](docs/2026/availableactions_o_executescript.md)
+      - **Операция: export** — [docs/2026/availableactions_o_export.md](docs/2026/availableactions_o_export.md)
+      - **Операция: export3D** — [docs/2026/availableactions_o_export3d.md](docs/2026/availableactions_o_export3d.md)
+      - **Операция: ExportNCData** — [docs/2026/availableactions_o_exportncdata.md](docs/2026/availableactions_o_exportncdata.md)
+      - **Операция: exportProductionWiring** — [docs/2026/availableactions_o_exportProductionWiring.md](docs/2026/availableactions_o_exportProductionWiring.md)
+      - **Операция: ExportSegmentsTemplate** — [docs/2026/availableactions_o_exportsegmentstemplate.md](docs/2026/availableactions_o_exportsegmentstemplate.md)
+      - **Операция: exportToGraphics** — [docs/2026/availableactions_o_exporttographics.md](docs/2026/availableactions_o_exporttographics.md)
+      - **Операция: generate** — [docs/2026/availableactions_o_generate.md](docs/2026/availableactions_o_generate.md)
+      - **Операция: generatemacros** — [docs/2026/availableactions_o_generatemacros.md](docs/2026/availableactions_o_generatemacros.md)
+      - **Операция: GraphicalLayerTable** — [docs/2026/availableactions_o_GraphicalLayerTable.md](docs/2026/availableactions_o_GraphicalLayerTable.md)
+      - **Операция: import** — [docs/2026/availableactions_o_import.md](docs/2026/availableactions_o_import.md)
+      - **Операция: import3d** — [docs/2026/availableactions_o_import3d.md](docs/2026/availableactions_o_import3d.md)
+      - **Операция: ImportPrePlanningData** — [docs/2026/availableactions_o_importpreplanningdata.md](docs/2026/availableactions_o_importpreplanningdata.md)
+      - **Операция: ImportSegmentsTemplate** — [docs/2026/availableactions_o_importsegmentstemplate.md](docs/2026/availableactions_o_importsegmentstemplate.md)
+      - **Операция: InsertModelViewAction** — [docs/2026/availableactions_o_InsertModelViewAction.md](docs/2026/availableactions_o_InsertModelViewAction.md)
+      - **Операция: label** — [docs/2026/availableactions_o_label.md](docs/2026/availableactions_o_label.md)
+      - **Операция: masterdata** — [docs/2026/availableactions_o_masterdata.md](docs/2026/availableactions_o_masterdata.md)
+      - **Операция: MfExportRibbonBarAction** — [docs/2026/availableactions_o_mfexportribbonbaraction.md](docs/2026/availableactions_o_mfexportribbonbaraction.md)
+      - **Операция: MfImportRibbonBarAction** — [docs/2026/availableactions_o_mfimportribbonbaraction.md](docs/2026/availableactions_o_mfimportribbonbaraction.md)
+      - **Операция: OpenWorkspaceAction** — [docs/2026/availableactions_o_xsvopenworkspaceaction.md](docs/2026/availableactions_o_xsvopenworkspaceaction.md)
+      - **Операция: partslist** — [docs/2026/availableactions_o_partslist.md](docs/2026/availableactions_o_partslist.md)
+      - **Операция: partsmanagementapi** — [docs/2026/availableactions_o_partsmanagementapi.md](docs/2026/availableactions_o_partsmanagementapi.md)
+      - **Операция: plcservice** — [docs/2026/availableactions_o_plcservice.md](docs/2026/availableactions_o_plcservice.md)
+      - **Операция: preparemacros** — [docs/2026/availableactions_o_preparemacros.md](docs/2026/availableactions_o_preparemacros.md)
+      - **Операция: print** — [docs/2026/availableactions_o_print.md](docs/2026/availableactions_o_print.md)
+      - **Операция: ProjectAction** — [docs/2026/availableactions_o_xesprojectaction.md](docs/2026/availableactions_o_xesprojectaction.md)
+      - **Операция: projectmanagement** — [docs/2026/availableactions_o_projectmanagement.md](docs/2026/availableactions_o_projectmanagement.md)
+      - **Операция: ProjectOpen** — [docs/2026/availableactions_o_projectopen.md](docs/2026/availableactions_o_projectopen.md)
+      - **Операция: RegisterCustomPropertyEditorAction** — [docs/2026/availableactions_o_registercustompropertyeditoraction.md](docs/2026/availableactions_o_registercustompropertyeditoraction.md)
+      - **Операция: RegisterScript** — [docs/2026/availableactions_o_registerscript.md](docs/2026/availableactions_o_registerscript.md)
+      - **Операция: Renumber** — [docs/2026/availableactions_o_renumber.md](docs/2026/availableactions_o_renumber.md)
+      - **Операция: reports** — [docs/2026/availableactions_o_reports.md](docs/2026/availableactions_o_reports.md)
+      - **Операция: restore** — [docs/2026/availableactions_o_restore.md](docs/2026/availableactions_o_restore.md)
+      - **Операция: SaveWorkspaceAction** — [docs/2026/availableactions_o_xsvsaveworkspaceaction.md](docs/2026/availableactions_o_xsvsaveworkspaceaction.md)
+      - **Операция: search** — [docs/2026/availableactions_o_search.md](docs/2026/availableactions_o_search.md)
+      - **Операция: selectionset** — [docs/2026/availableactions_o_selectionset.md](docs/2026/availableactions_o_selectionset.md)
+      - **Операция: SetProjectLanguage** — [docs/2026/availableactions_o_xessetprojectlanguageaction.md](docs/2026/availableactions_o_xessetprojectlanguageaction.md)
+      - **Операция: subprojects** — [docs/2026/availableactions_o_subprojects.md](docs/2026/availableactions_o_subprojects.md)
+      - **Операция: SwitchProjectType** — [docs/2026/availableactions_o_switchprojecttype.md](docs/2026/availableactions_o_switchprojecttype.md)
+      - **Операция: synchronize** — [docs/2026/availableactions_o_synchronize.md](docs/2026/availableactions_o_synchronize.md)
+      - **Операция: Topology** — [docs/2026/availableactions_o_Topology.md](docs/2026/availableactions_o_Topology.md)
+      - **Операция: translate** — [docs/2026/availableactions_o_translate.md](docs/2026/availableactions_o_translate.md)
+      - **Операция: UnregisterScript** — [docs/2026/availableactions_o_unregisterscript.md](docs/2026/availableactions_o_unregisterscript.md)
+      - **Операция: UpdateSegmentsFilling** — [docs/2026/availableactions_o_UpdateSegmentsFilling.md](docs/2026/availableactions_o_UpdateSegmentsFilling.md)
+      - **Операция: XAfActionSetting** — [docs/2026/availableactions_o_xafactionsetting.md](docs/2026/availableactions_o_xafactionsetting.md)
+      - **Операция: XAfActionSettingProject** — [docs/2026/availableactions_o_xafactionsettingproject.md](docs/2026/availableactions_o_xafactionsettingproject.md)
+      - **Операция: XAMlExportProductionData2RASCenterAction** — [docs/2026/availableactions_o_xamlexportproductiondata2rascenteraction.md](docs/2026/availableactions_o_xamlexportproductiondata2rascenteraction.md)
+      - **Операция: XCabCalculateEnclosureTotalWeightAction** — [docs/2026/availableactions_o_xcabcalculateenclosuretotalweightaction.md](docs/2026/availableactions_o_xcabcalculateenclosuretotalweightaction.md)
+      - **Операция: XCCreateGravingtextAction** — [docs/2026/availableactions_o_xccreategravingtextaction.md](docs/2026/availableactions_o_xccreategravingtextaction.md)
+      - **Операция: XCMRemoveUnnecessaryNDPsAction** — [docs/2026/availableactions_o_XCMRemoveUnnecessaryNDPsAction.md](docs/2026/availableactions_o_XCMRemoveUnnecessaryNDPsAction.md)
+      - **Операция: XCMUserToolAction** — [docs/2026/availableactions_o_XCMUserToolAction.md](docs/2026/availableactions_o_XCMUserToolAction.md)
+      - **Операция: XDLInsertDeviceAction** — [docs/2026/availableactions_o_xdlinsertdeviceaction.md](docs/2026/availableactions_o_xdlinsertdeviceaction.md)
+      - **Операция: XEGActionInsertSymRef** — [docs/2026/availableactions_o_xegactioninsertsymref.md](docs/2026/availableactions_o_xegactioninsertsymref.md)
+      - **Операция: XEsGetPagePropertyAction** — [docs/2026/availableactions_o_xesgetpagepropertyaction.md](docs/2026/availableactions_o_xesgetpagepropertyaction.md)
+      - **Операция: XEsGetProjectPropertyAction** — [docs/2026/availableactions_o_xesgetprojectpropertyaction.md](docs/2026/availableactions_o_xesgetprojectpropertyaction.md)
+      - **Операция: XEsGetPropertyAction** — [docs/2026/availableactions_o_xesgetpropertyaction.md](docs/2026/availableactions_o_xesgetpropertyaction.md)
+      - **Операция: XEsSetPagePropertyAction** — [docs/2026/availableactions_o_xessetpagepropertyaction.md](docs/2026/availableactions_o_xessetpagepropertyaction.md)
+      - **Операция: XEsSetProjectPropertyAction** — [docs/2026/availableactions_o_xessetprojectpropertyaction.md](docs/2026/availableactions_o_xessetprojectpropertyaction.md)
+      - **Операция: XEsSetPropertyAction** — [docs/2026/availableactions_o_xessetpropertyaction.md](docs/2026/availableactions_o_xessetpropertyaction.md)
+      - **Операция: XEsUserPropertiesExportAction** — [docs/2026/availableactions_o_xesuserpropertiesexportaction.md](docs/2026/availableactions_o_xesuserpropertiesexportaction.md)
+      - **Операция: XEsUserPropertiesImportAction** — [docs/2026/availableactions_o_xesuserpropertiesimportaction.md](docs/2026/availableactions_o_xesuserpropertiesimportaction.md)
+      - **Операция: XGedStartInteractionAction** — [docs/2026/availableactions_o_xgedstartinteractionaction.md](docs/2026/availableactions_o_xgedstartinteractionaction.md)
+      - **Операция: XGedUpdateMacroAction** — [docs/2026/availableactions_o_xgedupdatemacroaction.md](docs/2026/availableactions_o_xgedupdatemacroaction.md)
+      - **Операция: XMActionDCCommonExport** — [docs/2026/availableactions_o_XMActionDCCommonExport.md](docs/2026/availableactions_o_XMActionDCCommonExport.md)
+      - **Операция: XMActionDCImport** — [docs/2026/availableactions_o_xmactiondcimport.md](docs/2026/availableactions_o_xmactiondcimport.md)
+      - **Операция: XMDeleteReprTypeAction** — [docs/2026/availableactions_o_xmdeletereprtypeaction.md](docs/2026/availableactions_o_xmdeletereprtypeaction.md)
+      - **Операция: XMExportConnectionsAction** — [docs/2026/availableactions_o_xmexportconnectionsaction.md](docs/2026/availableactions_o_xmexportconnectionsaction.md)
+      - **Операция: XMExportDCArticleDataAction** — [docs/2026/availableactions_o_xmexportdcarticledataaction.md](docs/2026/availableactions_o_xmexportdcarticledataaction.md)
+      - **Операция: XMExportFunctionAction** — [docs/2026/availableactions_o_xmexportfunctionaction.md](docs/2026/availableactions_o_xmexportfunctionaction.md)
+      - **Операция: XMExportPagesAction** — [docs/2026/availableactions_o_xmexportpagesaction.md](docs/2026/availableactions_o_xmexportpagesaction.md)
+      - **Операция: XMImportDCArticleDataAction** — [docs/2026/availableactions_o_xmimportdcarticledataaction.md](docs/2026/availableactions_o_xmimportdcarticledataaction.md)
+      - **Операция: XPamsDeviceSelectionAction** — [docs/2026/availableactions_o_xpamsdeviceselectionaction.md](docs/2026/availableactions_o_xpamsdeviceselectionaction.md)
+      - **Операция: XPamSelectPart** — [docs/2026/availableactions_o_XPamSelectPart.md](docs/2026/availableactions_o_XPamSelectPart.md)
+      - **Операция: XPartsSetDataSourceAction** — [docs/2026/availableactions_o_xpartssetdatasourceaction.md](docs/2026/availableactions_o_xpartssetdatasourceaction.md)
+      - **Операция: XPlaUpdateDetailAction** — [docs/2026/availableactions_o_XPlaUpdateDetailAction.md](docs/2026/availableactions_o_XPlaUpdateDetailAction.md)
+      - **Операция: XPrjActionUpgradeProjects** — [docs/2026/availableactions_o_XPrjActionUpgradeProjects.md](docs/2026/availableactions_o_XPrjActionUpgradeProjects.md)
+      - **Операция: XPrjConvertBaseProjectsAction** — [docs/2026/availableactions_o_xprjconvertbaseprojectsaction.md](docs/2026/availableactions_o_xprjconvertbaseprojectsaction.md)
+      - **Операция: XSDPreviewAction** — [docs/2026/availableactions_o_xsdpreviewaction.md](docs/2026/availableactions_o_xsdpreviewaction.md)
+      - **Операция: XSettingsExport** — [docs/2026/availableactions_o_xsettingsexport.md](docs/2026/availableactions_o_xsettingsexport.md)
+      - **Операция: XSettingsImport** — [docs/2026/availableactions_o_xsettingsimport.md](docs/2026/availableactions_o_xsettingsimport.md)
+      - **Операция: XSettingsRegisterAction** — [docs/2026/availableactions_o_XSettingsRegisterAction.md](docs/2026/availableactions_o_XSettingsRegisterAction.md)
+      - **Операция: XSettingsUnregisterAction** — [docs/2026/availableactions_o_XSettingsUnregisterAction.md](docs/2026/availableactions_o_XSettingsUnregisterAction.md)
+  - **Импорт и экспорт XML (База данных изделий Eplan)**
+    - **Основы**
+      - **Импорт и экспорт XML: Обзор тэгов и атрибутов** — [docs/2026/xmlexport_k_start.md](docs/2026/xmlexport_k_start.md)
+    - **Обзор**
+      - **Импорт и экспорт XML: Тэги и их атрибуты** — [docs/2026/xmlexport_o_tags.md](docs/2026/xmlexport_o_tags.md)
+        - Пример:
+      - **Импорт и экспорт XML: Обзор определений функций** — [docs/2026/xmlexport_o_funcdef.md](docs/2026/xmlexport_o_funcdef.md)
+      - **Импорт и экспорт XML: Обзор списков выбора** — [docs/2026/xmlexport_o_sellists.md](docs/2026/xmlexport_o_sellists.md)
+      - **Импорт и экспорт XML: Обзор групп продуктов** — [docs/2026/xmlexport_o_productgroups.md](docs/2026/xmlexport_o_productgroups.md)
+  - **Свойства Eplan**
+    - **Основы** — [docs/2026/properties_k_prinzip.md](docs/2026/properties_k_prinzip.md)
+    - **Обзор** — [docs/2026/properties_o_main.md](docs/2026/properties_o_main.md)
+  - **Элементы-заполнители Eplan**
+    - **Основы** — [docs/2026/placeholder_k_prinzip.md](docs/2026/placeholder_k_prinzip.md)
+    - **Обзор** — [docs/2026/placeholder_o_main.md](docs/2026/placeholder_o_main.md)
