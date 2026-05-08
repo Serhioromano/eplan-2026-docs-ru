@@ -2,6 +2,7 @@
   "name": "pi-extensions",
   "private": true,
   "dependencies": {
+    "pi-boomerang": "^0.6.5",
     "pi-web-access": "^0.10.7"
   }
 }
