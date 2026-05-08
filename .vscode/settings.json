@@ -46,4 +46,6 @@
         }
     },
     "accessibility.voice.speechLanguage": "ru-RU",
+    "chat.disableAIFeatures": true,
+    "gitflow.disableOnRepo": true,
 }
